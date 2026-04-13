@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#d86f2d">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Xevious Board">
+    <meta name="format-detection" content="telephone=no">
+    <title>Xevious Market Board</title>
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="icon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="shell">
+        <header class="hero">
+            <div>
+                <p class="eyebrow">Live Snapshot Board</p>
+                <h1>국내외 시세와 주요 뉴스 보드</h1>
+                <p class="hero-copy">
+                    한국과 미국 주요 지수, 환율, 서울 휘발유 최저가 정보, 주요 뉴스 10건을
+                    한 화면에서 확인할 수 있도록 구성했습니다.
+                </p>
+            </div>
+            <div class="hero-actions">
+                <button id="refreshPageButton" type="button">화면 새로고침</button>
+                <label class="refresh-control" for="refreshInterval">
+                    <span>자동 새로고침</span>
+                    <select id="refreshInterval">
+                        <option value="0">끔</option>
+                        <option value="1">1분</option>
+                        <option value="2">2분</option>
+                        <option value="3">3분</option>
+                        <option value="5">5분</option>
+                        <option value="10">10분</option>
+                    </select>
+                </label>
+                <p id="generatedAt" class="generated-at">데이터를 불러오는 중입니다.</p>
+            </div>
+        </header>
+
+        <section class="board-grid">
+            <article class="panel">
+                <div class="panel-head">
+                    <p class="panel-kicker">Korea</p>
+                    <h2>한국 주가지수</h2>
+                </div>
+                <div id="koreaMarkets" class="stat-grid"></div>
+            </article>
+
+            <article class="panel">
+                <div class="panel-head">
+                    <p class="panel-kicker">United States</p>
+                    <h2>미국 주가지수</h2>
+                </div>
+                <div id="usMarkets" class="stat-grid"></div>
+            </article>
+
+            <article class="panel">
+                <div class="panel-head">
+                    <p class="panel-kicker">FX</p>
+                    <h2>환율</h2>
+                </div>
+                <div id="currencies" class="stat-grid"></div>
+            </article>
+
+            <article class="panel panel-gas">
+                <div class="panel-head">
+                    <p class="panel-kicker">Seoul</p>
+                    <h2>휘발유 최저가</h2>
+                </div>
+                <div id="gasCard" class="gas-card"></div>
+            </article>
+        </section>
+
+        <section class="panel news-panel">
+            <div class="panel-head">
+                <p class="panel-kicker">News</p>
+                <h2>이 시각 주요 뉴스 10개</h2>
+            </div>
+            <ol id="newsList" class="news-list"></ol>
+        </section>
+
+        <section class="panel source-panel">
+            <div class="panel-head">
+                <p class="panel-kicker">Data</p>
+                <h2>데이터 출처</h2>
+            </div>
+            <ul id="sourceList" class="source-list"></ul>
+            <div class="install-guide">
+                <p class="install-title">아이폰에서 쓰는 방법</p>
+                <ol class="install-steps">
+                    <li>아이폰 Safari에서 이 페이지를 엽니다.</li>
+                    <li>공유 버튼을 누른 뒤 <strong>홈 화면에 추가</strong>를 선택합니다.</li>
+                    <li><strong>Open as Web App</strong>이 보이면 켠 상태로 추가합니다.</li>
+                    <li>이후에는 홈 화면 아이콘으로 바로 실행할 수 있습니다.</li>
+                </ol>
+            </div>
+            <p class="footnote">
+                최신 스냅샷 갱신은 같은 폴더에서 <code>py -3 update_data.py</code>를 실행하면 됩니다.
+            </p>
+        </section>
+    </main>
+
+    <script src="dashboard-data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
