@@ -1,58 +1,66 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-13T22:34:15.000876+09:00",
+  "generatedAt": "2026-04-13T22:57:06.097198+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
       "value": "5,808.62",
-      "change": "+50.25",
+      "change": "-50.25",
       "changePercent": "-0.86%",
+      "direction": "down",
+      "updatedAt": "2026-04-13 22:56"
+    },
+    {
+      "label": "코스닥",
+      "value": "1,099.84",
+      "change": "+6.21",
+      "changePercent": "+0.57%",
       "direction": "up",
-      "updatedAt": "2026-04-13 22:33"
+      "updatedAt": "2026-04-13 22:56"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "47,916.57",
-      "change": "-269.23",
-      "changePercent": "-0.56%",
+      "value": "47,559.53",
+      "change": "-357.04",
+      "changePercent": "-0.75%",
       "direction": "down",
-      "updatedAt": "2026-04-13 22:33"
+      "updatedAt": "2026-04-13 22:56"
     },
     {
       "label": "S&P 500",
-      "value": "6,816.89",
-      "change": "-7.77",
-      "changePercent": "-0.11%",
+      "value": "6,792.42",
+      "change": "-24.47",
+      "changePercent": "-0.36%",
       "direction": "down",
-      "updatedAt": "2026-04-13 22:33"
+      "updatedAt": "2026-04-13 22:56"
     },
     {
       "label": "나스닥",
-      "value": "22,902.89",
-      "change": "+80.47",
-      "changePercent": "+0.35%",
-      "direction": "up",
-      "updatedAt": "2026-04-13 22:33"
+      "value": "22,826.10",
+      "change": "-76.79",
+      "changePercent": "-0.34%",
+      "direction": "down",
+      "updatedAt": "2026-04-13 22:56"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,487.80",
-      "change": "+2.30",
-      "changePercent": "+0.15%",
-      "direction": "up",
-      "updatedAt": "2026-04-13 22:33"
+      "value": "1,484.80",
+      "change": "-0.70",
+      "changePercent": "-0.05%",
+      "direction": "down",
+      "updatedAt": "2026-04-13 22:56"
     },
     {
       "label": "100엔/원",
-      "value": "931.15",
-      "change": "-1.54",
-      "changePercent": "-0.17%",
+      "value": "930.27",
+      "change": "-2.42",
+      "changePercent": "-0.26%",
       "direction": "down",
-      "updatedAt": "2026-04-13 22:33"
+      "updatedAt": "2026-04-13 22:56"
     }
   ],
   "gasoline": {
@@ -92,10 +100,10 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Mon, 13 Apr 2026 13:13:00 GMT"
     },
     {
-      "title": "네타냐후 \"미국의 해협 봉쇄 지지···이란이 협상 파탄 낸 탓\"",
+      "title": "영국·프랑스, 호르무즈 해협 논의 국제회의 공동 개최",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5MlhtcE5iQ05KS2tpMGhrZ0ZvN0lub2xvTXZ6YnV5TmhpckFRMDkwazh1d3F5dURKTWpkemlmYUoxdXdPVkhzOXAyejZJWXpIWTFBMHBjNzB4WEVMYVdXeXNibnY0UVZ0b0FwVWNybmhNNzM5ekl4UA?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mbmFrTTJncGhmd2dMWkxINlVFbUdNdnFIQm1JdmR2T3luU3BpNEoxeTZ0U2pyeWJJbHRpUHdBRFkyYmhEWU9UbzVBR0Z0TXdSVGk4ZEpIRFowZ0xXYjMwSmFoeWVQS2RqRTh0UVpJb2NTZTJwUl9YSw?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:48:00 GMT"
     },
     {
       "title": "태안해안국립공원사무소, 시민과 멸종위기종 살핀다",
@@ -104,46 +112,46 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Mon, 13 Apr 2026 12:58:38 GMT"
     },
     {
-      "title": "로블록스, 미성년자 보호 강화…연령별 계정 체계 도입",
+      "title": "종합특검, '김건희 수사 무마 의혹' 이원석·송경호 출국금지",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lUkNOeWFwdDlhWDVTV1dTSU9ZYXZxSWM4WGdwRVFOT1gxa0d1SUZZZUFaaVNVdnJET3VudmRqbmZvTWI4T3ZqeUtsWXF4Q1ppdHdJ?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 12:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vQXpjS3hVZXFSZENRZGZsRkkzQ281b0xRUzJOZ1djdkFiZVFpbVowNFp3RjBydmxSM3dDYll0aS1JNzd0OWRBVm9yOVVwTmFTVVdR?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:37:00 GMT"
     },
     {
-      "title": "베냉 대선서 와다그니 재무장관 당선 유력",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkR2Y3AtMEdmdEYxR01fbzZ0dFp1Qk9VeUNQZnRFSTFqZ2h6Mi1sekctWmwwWVV6LWRBWTR1c1dEdXVlVlhYSmIzRnJmTkd2TTRoOW5GS05UZFFqc01xaERHSld2VUl0c09KUTc4N0tRSnZXZlRoZDhJay05bzk0UzFJM2xTR18waldQa19ZYlV2ZDZOV2xNZjktQTU0aTZJS01KdGpBZ0t1RUVCbGpsaGFrTy1mUkk4b1E?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 12:43:36 GMT"
+      "title": "정청래, 완도 순직 소방관 조문…\"희생 헛되지 않게 하겠다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lX3c1dFpGcVAwVk1TMUdwZWhsNE1nalNWcGs4R2wxb0lvMHJ1TER6VmJPRWFHTlFqRllUMlFScmtGZE1uVEw3MTFOQzNJN1p2ZTJvQnBaNVFraDFhZ3I1Si1XQy1hbXRFMmNUSDlB?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:34:00 GMT"
     },
     {
-      "title": "충북 괴산군 달천서 변사체 발견…경찰 수사",
+      "title": "네타냐후 \"미국의 해협 봉쇄 지지···이란이 협상 파탄 낸 탓\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tYWRIMDRLdWU4aDJKVEl5MWNhbEZRV2hsWlZrenJDWXBrZTdJbkRDS2xDZXp3S2dtRm04QlhONThWX2x0QXFhaDBJMWNoZ09MYjI0?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 12:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Wdm5xU1pUbzViYVFfeno5UDdnU181WXlJSm9ZT2picE0yVnAwNEJuMXlUTVl5aEd0cE05XzRzdkdHVjQxWTMtbmZpVUlueU9BWVpoaExuZjRFdlkzLTlxcVZZckVFaDM4Q1E?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:28:00 GMT"
     },
     {
-      "title": "경기노동위 \"화성시, 생활체육지도자와 교섭 의무 없다\" 기각 판정",
+      "title": "아일랜드, 고유가 항의 시위 몸살…유류세 추가 인하",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MMDJzUHFtaEU4UWl6NDNYOU1hRzB5Q0MxcXZKWjA0SHE4ZUJqQXlMZHpEZVNkMWF0R2NsU2xKdFowUXB6Y2g3NzVNZXZHVVVyUEVlcG5OXzdEOTZ6b28ybFd1eW43WWRMTGFubVJtMFZBV3BsTEJhLQ?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhUDREODdYb3JRTGVJa0Qtc0dUMEQzOWtBb2xMeERldndOczlTaDNkZVI5R1lvTHZ0OGZKOXc0ZXFUS2Y4RU0xTldaTU12YTdIQmtN?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:29:00 GMT"
     },
     {
-      "title": "단종 부부 이별한 영도교에 '낙서 테러'…50대 남성 구속영장",
+      "title": "장수군, 국가유산 직접 점검…현장 중심 관리 강화",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fZVYxRElHa2lHSUg0VFVlNWw1ZDhsd3gyUG1JOTlQUzROZVFtR0ZweWZHYmNOcHItd2RZVkpzNm9WZVlVX0hHRjU1dEhsR0I5UWRN?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CN2FRVUZ2UnNrOGY4cWo5VlE3czlaMkgyejJ0ZnZwbTdrenoyWVdkQkFCQUFXY2JFcWdwVG44T1VSemFZNnJCeHpULVVoeGcyU19B?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:37:00 GMT"
     },
     {
-      "title": "농어촌공사, '농촌재능나눔 봉사단체' 28곳 확정",
+      "title": "순창군, 중동발 고유가 대응 총력…농가·기업 부담 최소화 나선다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YOXRVR3NmZHh2UXI2a1VIdlF1TTZQOHpFdWtubE1PM3pfdmY4VmZUR2IwZVVUNm1JZ0hwUzZNVDZ2WnY1Y2ZISzNxazlXVzlWYkdj?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:09:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XTmtiYV9BWUEzdl9QTzduN3paS2gzUERhcVRJc3h3SFdJUkgtUV9hdzhvREVOMzJmbTVVVkI2VVRPaWF2ZUVNMGRCbW5NbTZkSXduTk9icFBtLXVUNkRzXw?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:35:00 GMT"
     },
     {
-      "title": "창원시-전기연, '개방형 제2캠퍼스' 조성…국가 전략기술 공동연구",
+      "title": "단종됐는데 더 찾는다…아이팟 중고 거래 급증, 이유는?",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sR1lYdl9LMkhDSFR3Uk9wTy1ydU84Q0dCLWZiYUQwRy05S1dYYmY2ck1ZaEI0eENSdmNaWm42bnczQ1lMZkZ2cHhPNTBxV0QwUW1BOWNyMWlPdVNORlY0bUs5Q3ZuV29PaHNCN0xjbkdxbGJTZHlHVA?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQel8wM0RudTN0aGxuUHZpY3Jyei1WOVV1Rm80cEhjMi1rTy04SkFSTDJVR2hYNTZzNGhBQWhaRTRNeXROWjRselQySnRLWWdvbDlIc21vT1J5X21fLUVlRnRRcHRTM05nZWQ3cm9CeG9rVkk4Wjlhaw?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 12:58:00 GMT"
     }
   ],
   "sources": [
