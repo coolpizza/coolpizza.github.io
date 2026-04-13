@@ -30,6 +30,25 @@ function formatDateTime(isoText) {
     }).format(date);
 }
 
+function formatPublishedDateTime(text) {
+    if (!text) {
+        return "";
+    }
+
+    const date = new Date(text);
+    if (Number.isNaN(date.getTime())) {
+        return text;
+    }
+
+    return new Intl.DateTimeFormat("ko-KR", {
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+        hour12: false
+    }).format(date);
+}
+
 function escapeHtml(text) {
     return String(text ?? "")
         .replaceAll("&", "&amp;")
@@ -119,7 +138,7 @@ function renderNews(news) {
             <a class="news-link" href="${escapeHtml(item.link)}" target="_blank" rel="noreferrer">
                 ${escapeHtml(item.title)}
             </a>
-            <span class="news-source">${escapeHtml(item.source)}${item.publishedAt ? ` · ${escapeHtml(item.publishedAt)}` : ""}</span>
+            <span class="news-source">${escapeHtml(item.source)}${item.publishedAt ? ` · ${escapeHtml(formatPublishedDateTime(item.publishedAt))}` : ""}</span>
         </li>
     `).join("");
 }

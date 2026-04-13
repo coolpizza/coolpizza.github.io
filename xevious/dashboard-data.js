@@ -1,14 +1,14 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-12T19:10:30.654452+09:00",
+  "generatedAt": "2026-04-13T22:34:15.000876+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "5,858.87",
-      "change": "+80.86",
-      "changePercent": "+1.40%",
+      "value": "5,808.62",
+      "change": "+50.25",
+      "changePercent": "-0.86%",
       "direction": "up",
-      "updatedAt": "2026-04-12 19:10"
+      "updatedAt": "2026-04-13 22:33"
     }
   ],
   "usMarkets": [
@@ -18,7 +18,7 @@ window.DASHBOARD_DATA = {
       "change": "-269.23",
       "changePercent": "-0.56%",
       "direction": "down",
-      "updatedAt": "2026-04-12 19:10"
+      "updatedAt": "2026-04-13 22:33"
     },
     {
       "label": "S&P 500",
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
       "change": "-7.77",
       "changePercent": "-0.11%",
       "direction": "down",
-      "updatedAt": "2026-04-12 19:10"
+      "updatedAt": "2026-04-13 22:33"
     },
     {
       "label": "나스닥",
@@ -34,25 +34,25 @@ window.DASHBOARD_DATA = {
       "change": "+80.47",
       "changePercent": "+0.35%",
       "direction": "up",
-      "updatedAt": "2026-04-12 19:10"
+      "updatedAt": "2026-04-13 22:33"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,485.50",
-      "change": "+9.50",
-      "changePercent": "+0.64%",
+      "value": "1,487.80",
+      "change": "+2.30",
+      "changePercent": "+0.15%",
       "direction": "up",
-      "updatedAt": "2026-04-12 19:10"
+      "updatedAt": "2026-04-13 22:33"
     },
     {
       "label": "100엔/원",
-      "value": "932.69",
-      "change": "+4.71",
-      "changePercent": "+0.51%",
-      "direction": "up",
-      "updatedAt": "2026-04-12 19:10"
+      "value": "931.15",
+      "change": "-1.54",
+      "changePercent": "-0.17%",
+      "direction": "down",
+      "updatedAt": "2026-04-13 22:33"
     }
   ],
   "gasoline": {
@@ -60,15 +60,11 @@ window.DASHBOARD_DATA = {
     "lowestDistrict": "동작구",
     "stationName": "HD현대오일뱅크㈜직영 흑석동셀프주유소",
     "address": "서울 동작구 현충로 101 (흑석동)",
-    "updatedAt": "2026-04-12 11:44:12",
+    "updatedAt": "2026-04-13 10:30:59",
     "districtSamples": [
       {
         "district": "동작구",
         "price": "1,942원/L"
-      },
-      {
-        "district": "도봉구",
-        "price": "1,946원/L"
       },
       {
         "district": "서초구",
@@ -81,69 +77,73 @@ window.DASHBOARD_DATA = {
       {
         "district": "강서구",
         "price": "1,953원/L"
+      },
+      {
+        "district": "성동구",
+        "price": "1,954원/L"
       }
     ]
   },
   "news": [
     {
-      "title": "전쟁 반대했으나 종전 책임지게 된 밴스",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2JzS29ERHg4TmtacXFOVldXMXZHQTlvbHNDVnFaSW1ZWS1BeEtoeFhMRzdGVGlSQXJsWkluMkxibGViODQtWDAzbjRMdXFRYXcwc0FyT01qWk5KZnl5c3ljWVFfb25FMEk0UjI1THlPakZRb0RBNTVtYk1rb00teXZn?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 08:49:00 GMT"
+      "title": "[뉴스9 강릉 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTS3Z5dVhyanpQNzdHa09iaGdneGdPUjdiT09nMXRUNm1GbUlzdDA5Vnlxc0Qwak9VMHFXamFaQWJ6bzd2TGkyRDdjVU1zUTBzNWFJTUFXUXFwZlE?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:13:00 GMT"
     },
     {
-      "title": "이스라엘 범죄 직격한 이 대통령…“다른 나라는 못하는 말 했다”",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lYTVqT1hlQUxRRmp2ekxNb2ZBcjF6RTVTYU9RZXh2bTdReE15Sm5Db2IwblNsT1lfNDM3dHMwZjM1cGVDZHpIa2Q2bVlaeUFEcXhSM01Lbk95YTc4SE4zNFpIUEtkNDVPczl6emtNYnQ0dw?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 08:41:00 GMT"
+      "title": "네타냐후 \"미국의 해협 봉쇄 지지···이란이 협상 파탄 낸 탓\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5MlhtcE5iQ05KS2tpMGhrZ0ZvN0lub2xvTXZ6YnV5TmhpckFRMDkwazh1d3F5dURKTWpkemlmYUoxdXdPVkhzOXAyejZJWXpIWTFBMHBjNzB4WEVMYVdXeXNibnY0UVZ0b0FwVWNybmhNNzM5ekl4UA?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:28:00 GMT"
     },
     {
-      "title": "‘세 남매 아빠·예비 신랑’···두 소방관은 끝내 나오지 못했다",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRU9jQVhtOWlWR2EyM1VfVUJjeGNfUHoyMXpRNzZrWk14dUc4eTlkY0pOSmt0ODExaEU1dGIyTUNlV2hPZkc2OXRyN0FIaV94dmo1dThwanhiQdIBX0FVX3lxTE1HcDZwazFPaUljT1lhak1CMUUzVnF6ZXFRNF81eFhtNGZWenlpRklqSU9qNWtwZjdzZi1mOEs0UUtIWElQTlZrQXMtb08zaW1PdktyanliNUtVckxPbUtR?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 06:08:00 GMT"
+      "title": "태안해안국립공원사무소, 시민과 멸종위기종 살핀다",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUxBUlZDQkM3SEZYZmZWazM4MjN6MG1jNG9OZEpEQ2hjYmFFTXBIUkpUancycTVqbVRocExLdVRTOENRem1HUlB0b0s2Sl9SUTRPSS0zNUFUSHA0V2RiQ2xnUklJVWNBRm9sbUxrMm1HeUdOX2Vnc01qaUJsQmd1UDZIZmFsZ0FGcmtpUHozdlVrTWJNUnVfN2VJcF84M045NnJFWTA4RVlYdVJybW9QMlpyVG10ZUxC?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 12:58:38 GMT"
     },
     {
-      "title": "‘미국행’ 장동혁 “6·3 지선, 자유·민주주의 지키는 전선”",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2hNTnhYNE0tS29lNGhlSEZBMGlsMTQ5RHFHYWpFdUlFU0FqWDdhakFMTTlZNGFGM2o5WllQRjR5WUNEb1Q5aUxqLTMyX3hUWE8zSlFPcm50V0J3b3B4WVZOa1JuZXhidGtsT1c2VFJWRVdLYUlUNmszdFJzTnBOODNPbHZCTEw4dFFRbWp2OTjSAaQBQVVfeXFMT3k1a19ZTlRlV1FtVDRTNVpweWpybmRBc1dWTHc2V1RJd1NYckR2NmMxREpVTlN0NXhkZjhXYmFvT25VWlg2YWoyQ0dLV0E4RUVUc1Y4SkVITVFXWE9BTTlsQ0tNZ05KZTkwXzJXek0zX0ljRnR4ZndnYWUyLVB5NmU5MnhqZ2NncXQzMTNnSTNGOF9iSDR6U2MxYjlHVHZPdUZsSlA?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 02:36:00 GMT"
+      "title": "로블록스, 미성년자 보호 강화…연령별 계정 체계 도입",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lUkNOeWFwdDlhWDVTV1dTSU9ZYXZxSWM4WGdwRVFOT1gxa0d1SUZZZUFaaVNVdnJET3VudmRqbmZvTWI4T3ZqeUtsWXF4Q1ppdHdJ?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 12:59:00 GMT"
     },
     {
-      "title": "정청래, 이번주 하정우 만나 직접 출마 설득…“영입 ‘8부 능선’ 넘었다”",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWtBM2FtbUtaeTNEaVF5MldTbnFPMlVCcnVrZU1qLXNpYmh6Z3pjalRmN01qdm9OUF9YUUxlOHMyYlo1Qkc3Mngyc3FGMnExRy1oZ2pOOE5IMGlUZWpueFJMS1IzdENxTml3NHdVOF9MY2JpOTkyN3B0eFA5LTNfQXB0RFpoWWljX0wzNnE2dFLSAaQBQVVfeXFMUDRHQVBKdUdWM0tmVlNSczEwdVNTTnl4V1FKanJyUzBnaXZWUjhZZkhJN0M5TlhLM3JjbVl5REtOdnhWdkw0ZFExSGJzcHpkZmdUUGNWTzhfM2lNNmg2QXB5c3NNeXJDRnBIWXhfdlBxVGFMVjZoNnhUNUQ4UlQxUWRVcGJFTW45ZnBLSXZhQzdMaFF5V3N1THNMSG4xTHVoZUk0ekI?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 06:31:31 GMT"
+      "title": "베냉 대선서 와다그니 재무장관 당선 유력",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkR2Y3AtMEdmdEYxR01fbzZ0dFp1Qk9VeUNQZnRFSTFqZ2h6Mi1sekctWmwwWVV6LWRBWTR1c1dEdXVlVlhYSmIzRnJmTkd2TTRoOW5GS05UZFFqc01xaERHSld2VUl0c09KUTc4N0tRSnZXZlRoZDhJay05bzk0UzFJM2xTR18waldQa19ZYlV2ZDZOV2xNZjktQTU0aTZJS01KdGpBZ0t1RUVCbGpsaGFrTy1mUkk4b1E?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 12:43:36 GMT"
     },
     {
-      "title": "늑구는 어디에…닷새째 못찾고 가짜 사진만 돌아다녀",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85QUtZMUxhY1Ayd3NnSGNiOUxzSTVPdTJBQ0FqS051eFBNNHdyT1ZZS1dNSm9YNUc4TnVBWHcxWkZPbFdoUy1qeV9acDYzY0lNNlJhWlFmcVVld1NlRFQwZy1SRHVlNnRQ?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 07:40:00 GMT"
+      "title": "충북 괴산군 달천서 변사체 발견…경찰 수사",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tYWRIMDRLdWU4aDJKVEl5MWNhbEZRV2hsWlZrenJDWXBrZTdJbkRDS2xDZXp3S2dtRm04QlhONThWX2x0QXFhaDBJMWNoZ09MYjI0?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 12:56:00 GMT"
     },
     {
-      "title": "청와대, 오후 2시 비상경제회의…중동 리스크 점검 차원",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5icnpTeV9RM1dxa2hHX2lzLVJoQk83RzluNTBNZ0w4eVFrQ2FYQWdXZ2U5ZE9tcTAybEFRVUhuWlVMSkpDZFRwYzNaMVJPQmhQeExmRHZiNFp4Z9IBVEFVX3lxTE0wQ1dXVjRoZWlYTkZEUHM1Qm5EQ0h0c1VhVnFoamVHUG9VdmZUam5hT0U1NEVzb1pkR2pvTGRJaC0zZ1pmY3VCdnhFcFNVOGlIMEZ1Wg?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 01:47:17 GMT"
+      "title": "경기노동위 \"화성시, 생활체육지도자와 교섭 의무 없다\" 기각 판정",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MMDJzUHFtaEU4UWl6NDNYOU1hRzB5Q0MxcXZKWjA0SHE4ZUJqQXlMZHpEZVNkMWF0R2NsU2xKdFowUXB6Y2g3NzVNZXZHVVVyUEVlcG5OXzdEOTZ6b28ybFd1eW43WWRMTGFubVJtMFZBV3BsTEJhLQ?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:02:00 GMT"
     },
     {
-      "title": "보령서 패러글라이딩 하다 실종된 50대, 심정지 상태로 발견(종합)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sQVFvSWlicnNUTGpXSENiZUUtSlF3aXVLcGJ6SGFMRzg2alU5dUZlaTdCalIyUWJyU1dMb1pIVGtKcEFUMzR3RFZCaHpuZ0x6OUJ6SW1vUXFqWFhXbVNlQdIBYEFVX3lxTE9sQVFvSWlicnNUTGpXSENiZUUtSlF3aXVLcGJ6SGFMRzg2alU5dUZlaTdCalIyUWJyU1dMb1pIVGtKcEFUMzR3RFZCaHpuZ0x6OUJ6SW1vUXFqWFhXbVNlQQ?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 06:14:35 GMT"
+      "title": "단종 부부 이별한 영도교에 '낙서 테러'…50대 남성 구속영장",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fZVYxRElHa2lHSUg0VFVlNWw1ZDhsd3gyUG1JOTlQUzROZVFtR0ZweWZHYmNOcHItd2RZVkpzNm9WZVlVX0hHRjU1dEhsR0I5UWRN?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:20:00 GMT"
     },
     {
-      "title": "[단독] ‘총살형 뒤 암매장’ 실미도 공작원 유해 재발굴…국방부, 3곳 파본다",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53cFdSV01yM3c0RTZmMlFhSG05U0hzZGFBdnFCQjRGTEt2bXhxZUs5NG9hM2JPQmMxSkMySFRFemxPb0I1Rnd3cHppbmdjQkJEaDhfcFNmOFdydmIyZy0tTU9VRkFuVDltWVk0djhsRFlZdw?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 07:31:00 GMT"
+      "title": "농어촌공사, '농촌재능나눔 봉사단체' 28곳 확정",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YOXRVR3NmZHh2UXI2a1VIdlF1TTZQOHpFdWtubE1PM3pfdmY4VmZUR2IwZVVUNm1JZ0hwUzZNVDZ2WnY1Y2ZISzNxazlXVzlWYkdj?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:09:00 GMT"
     },
     {
-      "title": "월요일 최고 26도, 완연한 봄…큰 일교차 주의",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0ZMMTZtRk1XRlhKQ0prTGcwWnk3NGRIYkIyYXJzbl9EQjJobjhPTGtXOVpubUZZNGhxZHZOZmtJTmlfcW5BUGxkck82OEc2TV9IR1ItZElKM3djOWFueUpJWnR2ZTY0TU5TLVRKWjNxM3pmdFpIVm9fekpycGI0clIwRmFtT0VJQ2xDajFzVEhIQWJVR1lF0gGrAUFVX3lxTE5YSnFtWDNETDY3Zm9SWHJKRjFaWnNxQUs1MzBSZWdtWEtEa2o4T1lDV3ZBQWE5N2JCME9MX3FZaklGMkkxTXl5NHplN241d1UwVEVGOWoyYkJyMEdWSDctSWNxQVVIWG5jMVRSOHVJcDl5aHRfUllJNkZ1Yi1TZ0s4UUplRWtVbTF1S2xyUmdDaDEyT2t5ZU5UVUc2MGpIM1VrYV9GRy1aQ1pXUQ?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 04:32:00 GMT"
+      "title": "창원시-전기연, '개방형 제2캠퍼스' 조성…국가 전략기술 공동연구",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sR1lYdl9LMkhDSFR3Uk9wTy1ydU84Q0dCLWZiYUQwRy05S1dYYmY2ck1ZaEI0eENSdmNaWm42bnczQ1lMZkZ2cHhPNTBxV0QwUW1BOWNyMWlPdVNORlY0bUs5Q3ZuV29PaHNCN0xjbkdxbGJTZHlHVA?oc=5",
+      "publishedAt": "Mon, 13 Apr 2026 13:07:00 GMT"
     }
   ],
   "sources": [
