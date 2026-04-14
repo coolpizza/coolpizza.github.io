@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-15T06:32:45.035516+09:00",
+  "generatedAt": "2026-04-15T07:14:26.493912+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@ window.DASHBOARD_DATA = {
       "change": "+22.04",
       "changePercent": "+2.00%",
       "direction": "up",
-      "updatedAt": "2026-04-15 06:30"
+      "updatedAt": "2026-04-15 07:11"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,470.8400",
-      "change": "-7.10",
-      "changePercent": "-0.48%",
+      "value": "1,471.0393",
+      "change": "-6.90",
+      "changePercent": "-0.47%",
       "direction": "down",
-      "updatedAt": "2026-04-14 21:14"
+      "updatedAt": "2026-04-14 22:05"
     },
     {
       "label": "100엔/원",
-      "value": "925.82",
-      "change": "-2.18",
-      "changePercent": "-0.23%",
+      "value": "926.42",
+      "change": "-1.58",
+      "changePercent": "-0.17%",
       "direction": "down",
-      "updatedAt": "2026-04-14 21:29"
+      "updatedAt": "2026-04-14 22:11"
     }
   ],
   "gasoline": {
@@ -94,64 +94,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "1부 오늘의 주요뉴스",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjb1VaYnh2WDFoX3UxS0pXM19iNFpJNlFLM1BERDlSY0w5ZENVZmQwUktCNUtZNGdaUWJFRnZmZWQ5cUU1UG5TY3NYZGNBSl9POEtDNFRiY3VMSVgtdGkxbTNMX1JYdjJVd1BqWndTem1iSE1GcExUS3hB0gF6QVVfeXFMTm5tNUJiUXpSV29HVTZJM3FPb0xnbUc2VC1BazlsNlY2ek5lUUx3bkszSmhpeHI3WG1Pd1VsNHg1X2EwM1RkNXUwS3pSNm9lV2lUV0g4ZVhqN1hhUXJTWWhZLS1uWmRtRU5lc052ZGVrX3ZNdHVJTlU1RVE?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 21:02:55 GMT"
+      "title": "[AI기자의 News Briefing] 4월15일 오늘의 주요 뉴스를 전해 드립니다.",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YdEFRVzZ6MEJ2bFYtU2o3UFdBcks1QWNDakNmU3VsRnNfelA2WGh1V3NZd2hyRXVDVDlncmtOOHE0ekYzNUZ5eHBiM3kzUjNBMGNCS3plbnBwMFBxckg2TUJQQzZtOWE5THc?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 22:04:40 GMT"
     },
     {
-      "title": "[카드뉴스] 지금이 절정, 전국 튤립 인생샷 스팟 5",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nejJYZUlzcHJIVnllUTZURDJJSnFmSzdMNENRX0Rqd1lBUVBGY0VQaXBTSzRFT3BjLWJNMVVWWDlJTW9xZVpjMlF3MGljNGJBWXV3Q3RIZW0tUQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 21:00:00 GMT"
+      "title": "[더 한장] 태국 새해 송끄란 물축제",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QYWtESXJQaFAwSmExcW1CSDljMXFHNDdPLUJ3QmNvU3dCYWpiZ0JWM1pVSVRfS2NGTzFHWGVVYWtkdmFsaVFyVlRjWWFJT2JEWVZYZ1pNWVBHbVFPa2lXNnhDWUlPWlhoTlBNOFk2MGQ3czJhcDA4UVdNcGtPQQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 22:00:00 GMT"
     },
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05Y2RZMVhHTGVqRHJ5aTN6VGptYzJsUjVuNVNTRzFkRVdqR3l5bjg1TWNRY0VzQVI2MkhUWFZVX1ZNa21pMmp0RGNVSGxFWk5oZ3lN?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 21:12:00 GMT"
-    },
-    {
-      "title": "[코스피·코스닥 전 거래일(14일) 주요공시]",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUjFzSENsNGhCb0RpbGxZdVFVTm53WTZtbEQyN2w2X1BnNDYtOXVZRzJYc2J1ZW4tZy1qWWg0TlpYOHppZ2tLYUJLSHdrMEZUWVZhWndDQWxOeHPSAWBBVV95cUxPUzhrRTFMbjkxWUNpa1JndzRzWWl3enVzakx1blZUdklnejdpWFFEYzJZNTJTelVCM3FqcHRhZlc2UWE5TlN1SlJSY1l4VmdzX0w2Q2N2Y3RTb2xSZGxGRkY?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 21:05:01 GMT"
-    },
-    {
-      "title": "1.0%부터 2.1%까지…중동 불확실성에 韓 성장 전망 제각각",
+      "title": "[교원창업 열전] 김진성 온코소프트 대표 '독자 솔루션 무기로 IPO 정조준'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRXRmNWRhcHVpcEZWVnVpUnhOOEIzX1NGamtrVk5nWHVNTE5EMjBxUFJNRU5CWmprSnNUZ0ZyMFpFZXpNX3UzR2libldRSDRpYkQzYUZsLXF2OWRLTGRCa3k4bWc4NEN3UlQ0MjU3OEpGU3BKdzNKWlBEeW9rZ1VxWXVxQXJHcThZd21kNDVrcS00UkZIejhuZnlOWWtJU3pwRm1rNDYzSWt2ajJQOTdIQkxsUFJJZkVES1I0VVptUkZDVTNOVndYTg?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 21:23:40 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUtiU3RtazFLc2tFTzlRQ0ZMakVTc2d2VHBEYm1vLUZiUTJXUllpSFBrOHZZOHZwSVVldDVyci1YSUc2ZVhlOWRtTzJhaVo3MW5yYzNubFJnd3Z1c3YtSmZjbTRvRnNJOUQ3eXFSYW00eWpxUmZzTkVMck4wOHpHZmY3NkFVM3dUSHhKZUtsM2hDMjMxa1R2U2JyZXR2X3FfcWUzWmVab09nVFpUT2gySWp0SE51Vk1OOWpj?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 22:09:39 GMT"
     },
     {
-      "title": "중국 선박 '통과'‥우방 사우디도 '역봉쇄' 반대",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOT0RaTG9USFQxSkRMZ1lGWGEwRFhoRVJsR21IajEwcHdqTXpianRMMElhblFoc09yOWUzSC1INUcwYkhZMUdlaTRpMVdrLVpnQXFjMnRpeG95MkU5N2FpNlNzU1BWcmVTem9QZG1iSFFLTC1iemhSWGt30gF6QVVfeXFMTXcyR0ZhdHR0S3ZqcWIzZk9wSVVseHZjQWRfckpUXzBZR19CMDBBRllwZjV5SE01U24yanBBcjNkRTF1emJPTGtIRkgweWI1eFp1OEpKZkhnVnhWWjgwZTZBTnVJaUtseXlwaXBzbFFwR0ZOMHBmckNQVEE?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 21:07:28 GMT"
+      "title": "각지 주요 경제현장에서도 '김일성 탄생일' 경축",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QajBLOUp3ODV0YXVqNUhaOVhTX3NXc3I5QW8xX05ZTzhRT00xZVpUcDgzZk1QXzNFM3lqN0J4amNDX1JMZmJMMU9Paw?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:45:42 GMT"
     },
     {
-      "title": "작년 개인정보 유출 과징금 1천580억원…4년 만에 100배로 폭증",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXEyTXBZR2w5VVdTTTFlaHJXWjhqOGpJNkMxWGQtanVZTzgzNmU1anQ0YjRua3RISklXbV9kVTNNWmpmX3BPZWc0WHhmM3NqRVdZNEtuYVlNNWZObE1GX1lZTlRuWHNGcGJWdTBfamRBTVVjR3FaQnJTRER2bTMtRV8xekh0Uno2ZnhVQUJFNXpVdVl4bkdLbld2SjN0OHlaSGdsSjNGVUhnTklXbm5nUy00bXoyTUJtZ2c?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 21:08:32 GMT"
+      "title": "[26년 4월 15일(수)] \"하이닉스보다 잘 나가\"…코스피 40% 뛸 때 74% 날았다 - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWxmUk9aMjlQMlZKYnozTlAxOFp3UWRlNGRoSDV5MUc3QVhscTZ2QVgtV0lPQkdZMVBZSXV1YV8zS1kxemNWQ2pLNDBaVUNGMGZfNi0wNkxSaERpNy1pOWVnUk5ja0lXeURVclhTdnEtbFZBX0p5V3FweEZ4NzVSaQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:32:01 GMT"
     },
     {
-      "title": "[속보] 국제유가, 급락…WTI 7.87% ↓",
+      "title": "각지 주요 경제현장에서도 '김일성 탄생일' 경축",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0bG5oSzFqMmFTaGhmblllYVZyLXQwN1gtdmJ1a0JEaUJFa3hTTm5Rdnc4VUlzdEdycVhuN2JicGl5TTB6VU1VUE55N25iVEpEbmhDS0I3ZHVPLWxYcDVwUHItMWlVM0N2UXhmdDV2MVJ0akVUbjJONA?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 21:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzekRINldCZWFRZDFJMnJva196ZGU0VmI1QnJnUW1aRXZOTjRGT2Zhai16MDEtcmJhYjJ4NEIwbUg1cnJCYWpzN0RJa0c3QWZma0xr?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:46:00 GMT"
     },
     {
-      "title": "협상 재개 기대감…국제유가 7% 급락·증시 화색",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MldfY21sU1V0Zk5fUlkxZDlvR1NWejk0MzlXdjc1Qnl2NzRlQzV0d2pMblVOTkI1REtnYUMySHlheVloOEVpZHdfYjk5RmFrSEkyMDg0WUF3TlJ3emtiUw?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 21:18:00 GMT"
-    },
-    {
-      "title": "110만원 뚫은 SK하이닉스…증권가 '190만닉스 간다'",
+      "title": "ICGN 젠 시슨 대표 '자본시장 개혁 과제는 시행력·책임성 확보'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWURkeWQ5dFdEMWhmWkROdk1ITmNMLWlrb3FaWmpNTGk2MVVyejVpNExwck5YX0N6RnhVaDloV2pnSDcxaEoyQzhKS1NSa2VsdzJuQmllMV85TUNSSEZNREdLVkloNkRIZnZWb1ZoQ28wUFJ1dExGekgteFZFeWpQUGtsYlQzVzRYMmRLYU1kSnRXRndqY1RSUUJQWjViR190bGF3UmtnNnVoUmxuQ1p3VG9hcU42MzdNUDhnRkpDWk10S2Zna2txRndn?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 21:23:40 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQjA0QW9kcmNkRWVSTVBYQXFLY1paOEZDMnV5SV9mS2NtdTRzbXptaXMzR3FtamUySU5DdHVTazNhYS1oc09HcTVxalhrZXRDY3otbmw3dFV5aHZVYTIzaWlmakh3bks1VGV5bFV5ejdGY3ZCU0d1VUNzNlJqZXRpVlZfLXlmWmJiTmxaMmF4SVIxX3l1V0lnOVdqZjNkTVZnYmFDVlI5U2xkY3dOY010UmN1SFpjUmpL?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 22:09:24 GMT"
+    },
+    {
+      "title": "[오늘의 IR] 농심·글로벌텍스프리·티엘비 등",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lb3luNlh1eUtaekxRaWQyV1VUMU1vWHoybTBUeHZsQlF2UnNBZWVQUEJTZ1p1c19PX29pNGcyU3poaUhSbFRtampONUhGMzVnWmx3?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:00 GMT"
+    },
+    {
+      "title": "오픈AI, 보안 전용모델 전문가에 한정 공개…앤트로픽에 맞불",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOand5VVJGNmNFVjExN3J0SWRLdXdzbDd3UnA1UEVtSEw3MVJmQkhsR25PZGp2cVA0bTJQUWZDOVRrdktfeFFxS1F4TGRwczFpQXg4Mk9JSUJvQzRJcU41d2t3ZGdKU19zbnU4ZFhhS2Z3Z245YmpFUzgwUWVGOTVVaG5FVTZQbnVfZmdNbDRxelFBLUpDREM4bnUyVjl2bHEzeDRreUZBbXNtcGZ2bzB3Z2NJMGNPSHY1?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 22:09:16 GMT"
+    },
+    {
+      "title": "주요일정(4월15일)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zdjBKaW5DUFNGY0pVa2Zmd3dXeXRpYnROd3oxVGtFd3U0ejNmRURqaUJZWk9qaktydjUtWmZqbmZ3MzF6Unlub1QzSkVjc1RMTzFr?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:33:00 GMT"
     }
   ],
   "sources": [
