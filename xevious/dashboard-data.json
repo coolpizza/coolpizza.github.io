@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T20:03:08.878673+09:00",
+  "generatedAt": "2026-04-14T21:02:55.158933+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -8,7 +8,7 @@
       "change": "+159.13",
       "changePercent": "+2.74%",
       "direction": "up",
-      "updatedAt": "2026-04-14 20:02"
+      "updatedAt": "2026-04-14 21:02"
     },
     {
       "label": "코스닥",
@@ -16,7 +16,7 @@
       "change": "+22.04",
       "changePercent": "+2.00%",
       "direction": "up",
-      "updatedAt": "2026-04-14 20:02"
+      "updatedAt": "2026-04-14 21:02"
     }
   ],
   "usMarkets": [
@@ -26,7 +26,7 @@
       "change": "+301.68",
       "changePercent": "+0.63%",
       "direction": "up",
-      "updatedAt": "2026-04-14 20:02"
+      "updatedAt": "2026-04-14 21:02"
     },
     {
       "label": "S&P 500",
@@ -34,7 +34,7 @@
       "change": "+69.35",
       "changePercent": "+1.02%",
       "direction": "up",
-      "updatedAt": "2026-04-14 20:02"
+      "updatedAt": "2026-04-14 21:02"
     },
     {
       "label": "나스닥",
@@ -42,25 +42,25 @@
       "change": "+280.85",
       "changePercent": "+1.23%",
       "direction": "up",
-      "updatedAt": "2026-04-14 20:02"
+      "updatedAt": "2026-04-14 21:02"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,472.30",
-      "change": "-8.20",
-      "changePercent": "-0.55%",
+      "value": "1,470.80",
+      "change": "-9.70",
+      "changePercent": "-0.66%",
       "direction": "down",
-      "updatedAt": "2026-04-14 20:02"
+      "updatedAt": "2026-04-14 21:02"
     },
     {
       "label": "100엔/원",
-      "value": "927.12",
-      "change": "-1.70",
-      "changePercent": "-0.18%",
+      "value": "926.83",
+      "change": "-1.99",
+      "changePercent": "-0.21%",
       "direction": "down",
-      "updatedAt": "2026-04-14 20:02"
+      "updatedAt": "2026-04-14 21:02"
     }
   ],
   "gasoline": {
@@ -94,64 +94,64 @@
   },
   "news": [
     {
-      "title": "[한국뉴스 TV] 26년 4월 14일 (화) 오늘의 주요뉴스",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NUjlLbWZhVmQ1djJmcGR3cWkwaTk3YkpaMGNpVnpHZHc1bUszRmtjQVk0QlJ0U3FYYTFiWnFqS1FzYzBwSUR6dUhwOE1NYm15SWJLUFJYRUdySzE3cEZJTnViMWkyMzA?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:07:00 GMT"
+      "title": "[뉴스7 충북 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VSHB5SFMtbzNraU1QLXNqV0ttT0NORjlLRUR0WEs0cGNTeC1peEVIT3VkVG1kQnBtMzlnLVpGcjA1TWxmMDhvSFZIX2tYSnp2akJMMEg4OW5lWU0?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 11:44:00 GMT"
     },
     {
-      "title": "[주요공시] 4월 14일 오후",
+      "title": "\"이런 정책 펼쳐주세요\" 지방선거 후보자들에 제안[포토뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NWXMzUVZ1NG9faFVudUlBY3ZBbndXdUJzVkJsS09aTVlVaUY3WENuZ01BaloybFFhUzhEczUzZ0J3M0ZFemY5aFN4QzdsN291U3ow?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mRXY2Zk14a2REUTJvb2w5a2VkbEE1ZW5uS1hRUUx2dUV1ZEJ6RVQ2ODVFTWVqbGVWbGRvS2FzcnhUWjdGQlROOGprOVBJMy02OWxLbGx4TGxDUnFXalBhcA?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 11:43:00 GMT"
     },
     {
-      "title": "정부, 주나토 대사단과 방산 협력 논의…우주 분야도 협력키로",
+      "title": "산업계 불붙는 ‘5월 위기설’",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUxQZFpNSTdEY0R5UHRaVzJ1OFhsWUgwcHJQcUZfTUJiM20yMndMZTVNNjdfQ1JxanJFZUc1a0F3ZTFhUEJSbEREM29rUy1sbnR5eWhZTXBTa1M4UDhnbGF4RWNPS2VXTGU5Nkd6c01KQ1gtTFV4OVBNMFFpeXFrUEozVmpPLUtGNXliNHdYWGliSTJWWXQ4ZGFFOGpHRllYbTFJYm9WTTRpUEd1VnJFTUcxaU1pZWhL?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTVBGTnZfMk5peHBmbElIcXdYTG41OE9CbFMyNzdnUVQ4UGl2YUFUSS1tVlRQUDk3SEZtVzhpRHFLNWRabndxSlhZdWNqS0JDbzBGNEtXaGVvZDVUT2dWRGdRM3ZFSER5T2lSY3VBY1BWblJQcU53azBlMUREY3FpNkFGMVZIQThfZjNTTTZIVXRfaDlMdjZrWk9PQVhVeWFyOFVLc2NJc3RJNGhmN0hOVW5lelkxRTZCXy1NZ3Zn?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 11:15:00 GMT"
     },
     {
-      "title": "축하 열기 가득한 민형배 후보 캠프",
+      "title": "[주요 단신] 민주당 도당, 여성 참여 선거구 경선 결과 발표 외",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tN3R2OS1LTGFlYkFwOVhQUGhNS1FZeURrNlloR05IcjZQX292RFRHM0liV2hxTUhBeWpTb01adXZhMFRXak1FTmMtbzV5QVBpaUVUbnlySnNGN0E?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 11:34:00 GMT"
+    },
+    {
+      "title": "물결 따라 흐르는 여유[포토뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1SG1Eb1c1ekZvYVNpM1NzdjFUcXZqNGtmMzdaMWdQNXNyOExVWHNKN0VCLXk5cWdCQ3oyUVZoQ3pSVnZ5eGNLb0kyN2ROak9yQ3pPbkRpYU1wVDRXNmt6aQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZVDQwcThlTXN6ZWlhdllPUXo1eFNfYmQ4bjdiUjRlVmI1WFFfSE1MemVWSm9XbUhCd2Z4N3Q1MFlpdFhYaVNBVUlldkVTT1QwV2Iw?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 11:45:00 GMT"
     },
     {
-      "title": "14억 인도인이 선택한 앱…인스타그램 다음은 챗GPT",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT3FaelVPUG8tV3g2aHo0OHFHTVNKbHQ1eGttcV83SnEzZjktQkhYM1pyRE4zUTFnNGhLcjNrMW5OZHk4XzdtVUhKWEJHb19QRGlKdHNnRVEwV2RPS05tdW96Nm5keGpxdEVfZFZybXZPbHBlTXlLXzNnb1pQelFlYlBZOXFNR0pSNUhuQkROMmpuQzdFcWpWTHVXQUczblZqeXJ3aFM3UUtDOEF5d0g2UHVzamJVOFc3?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:21:55 GMT"
-    },
-    {
-      "title": "[포토] 잠실 오서방 '다음엔 홈런이요'",
+      "title": "[비하인드 뉴스] 미국 가서도 '부정선거'? 장동혁 공개 일정 봤더니…",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCZjV2TmZjUzNuTG9jTkoydEdEODIwaHZkZlpSOV92SjU5ZTlxdWtpOW43OTB2dXZILS1sVUNKTnB6SlUyMHVHMS1WTDRuMW8zelVXb0FR?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qcFRXMjlnUUoyQ3pmQnRrZUpIbW1sVHBrZUw5UmZIeWVYMFlLa0h4QTFQd2FHZUstVnFYRE1kME85WDRjRzZqaWRLZnNocC10RDJV?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 11:14:00 GMT"
     },
     {
-      "title": "경선 승리 민형배, \"이제는 지방선거 승리\"",
+      "title": "조국 \"부산 사람들, 한동훈 스타일 안 좋아해…정치권의 진중권\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GUjctWXQyWERDT1BDUWpRcG5vRWRuZUdGWXhET2xEenVZOTdlWExMNmJkdURtcWF3X3FjMEZvdFhlMTJ5ODNjWm5OZ2F0ZElxaUM3SVl2ak5DbVAxcHlHR3FCMXotSnJWQUpwa0tB?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfLVRvLWl2WGhRajJHN3NCQVRWWXBOV0ppbk1xRzRZczZyMkg2SFVxQWNrbkhyNE14cEpxa1Q5MnJ3SG1kbmhmRGg5cHVseWRydWZN?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 11:44:00 GMT"
     },
     {
-      "title": "[단독] 쌍방울그룹 자금, '조폭 난동' 하얏트로 흘러간 정황",
+      "title": "[포토] 노진혁 '트위스트 동점타'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51NmtqSnFRT3kyUmZNV19JZTllZHd1dXJyeVNiTGtMN2pXeVotOTd1NEVXNjJiS215QV9UY3RXWXdTb3RTaVVqREtiLU9YRGhMN2pz?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOYTBCTmp2aVptSDE5Q0trZF9MdVRmcU5BQlBDcFZUemdjYVJxMkNKbjFXMGV6SmVrU2tRanJlOXN3M0EtZ3FHbjNwdjd6OVJCRnZhZnN4THBVWm1kalZZczJUWWRSOVhPelRzalR2VlZKRlVUbWQ5cQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 11:47:00 GMT"
     },
     {
-      "title": "이 대통령 \"오목 좀 둔다고 명인전 훈수\"…야권 비판에 정면 돌파 [뉴스와이드]",
+      "title": "경기 포천 미군 사격장서 산불···15일 진화 재개",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iUVZmdXN2d054VklIQl92WnpSRW9HZ3FDdmRTb3ZiWFc4X0tyRW40U2wtX08zbmU4U0J2WEI5VE9HWDZaWEJwVzBLVFN2UW5lbVJLMDY0YmRMbDMzNDhrR1dtQl8wbUF4eXRXbURR?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VVjJFTlBjWFFIeGR6SkVrdlJlUkNLQTVfeEtyRnVEWXhpb0ZObGhiY215U1lLU0M2UEJIcjNGNTUxcWhxV3A4aUd5M2FZNWFEVHdKc1k4VXFUOURxeHFkSA?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 11:50:00 GMT"
     },
     {
-      "title": "[한번에쓱] 백호가 또 해냅니다! 2-0으로 앞서가는 한화 '3회말 적시타 환호' 강백호",
+      "title": "[비하인드 뉴스] '평택을' 선택한 조국에…\"이럴 수가\" 진보당 반발, 왜?",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSSlZkUzRNWXBCS3F6NlgycVBuYW9OYTNRaXA2aWYwcDM0MFZnaFBNcG9NNXVmLVlYRE1lTTV1R0ptOHpHYWFsSmFTWDVmZzhSMlNtVVZB?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNdllfRGRYT0Foa1p1djNqYlY2eGlEQkgtY0hMTnc0dWd4Wk8zT2Z0c0ZtbVctSjNQU3l1TURLU2xTam0xN1FfTmNTUWM5M0lqNUhr?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 11:15:00 GMT"
     }
   ],
   "sources": [
