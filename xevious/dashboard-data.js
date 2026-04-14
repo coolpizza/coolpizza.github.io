@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-14T21:02:55.158933+09:00",
+  "generatedAt": "2026-04-14T22:19:03.478411+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -8,7 +8,7 @@ window.DASHBOARD_DATA = {
       "change": "+159.13",
       "changePercent": "+2.74%",
       "direction": "up",
-      "updatedAt": "2026-04-14 21:02"
+      "updatedAt": "2026-04-14 18:05"
     },
     {
       "label": "코스닥",
@@ -16,51 +16,51 @@ window.DASHBOARD_DATA = {
       "change": "+22.04",
       "changePercent": "+2.00%",
       "direction": "up",
-      "updatedAt": "2026-04-14 21:02"
+      "updatedAt": "2026-04-14 22:18"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
       "value": "48,218.25",
-      "change": "+301.68",
-      "changePercent": "+0.63%",
-      "direction": "up",
-      "updatedAt": "2026-04-14 21:02"
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
+      "updatedAt": "2026-04-13 16:51"
     },
     {
       "label": "S&P 500",
       "value": "6,886.24",
-      "change": "+69.35",
-      "changePercent": "+1.02%",
-      "direction": "up",
-      "updatedAt": "2026-04-14 21:02"
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
+      "updatedAt": "2026-04-13 16:44"
     },
     {
       "label": "나스닥",
       "value": "23,183.74",
-      "change": "+280.85",
+      "change": "+280.84",
       "changePercent": "+1.23%",
       "direction": "up",
-      "updatedAt": "2026-04-14 21:02"
+      "updatedAt": "2026-04-13 17:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,470.80",
-      "change": "-9.70",
-      "changePercent": "-0.66%",
+      "value": "1,471.3194",
+      "change": "-6.62",
+      "changePercent": "-0.45%",
       "direction": "down",
-      "updatedAt": "2026-04-14 21:02"
+      "updatedAt": "2026-04-14 13:15"
     },
     {
       "label": "100엔/원",
-      "value": "926.83",
-      "change": "-1.99",
-      "changePercent": "-0.21%",
+      "value": "926.75",
+      "change": "-1.25",
+      "changePercent": "-0.13%",
       "direction": "down",
-      "updatedAt": "2026-04-14 21:02"
+      "updatedAt": "2026-04-14 13:11"
     }
   ],
   "gasoline": {
@@ -94,78 +94,82 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[뉴스7 충북 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VSHB5SFMtbzNraU1QLXNqV0ttT0NORjlLRUR0WEs0cGNTeC1peEVIT3VkVG1kQnBtMzlnLVpGcjA1TWxmMDhvSFZIX2tYSnp2akJMMEg4OW5lWU0?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 11:44:00 GMT"
+      "title": "[영상뉴스]오늘의 주요뉴스 2026년 4월 15일",
+      "source": "영남경제",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82MmVjSk1kWDVqSXNxWjNhWVlvOFpMaHAwQ29iMHZ6N0dlUFQtbDlEdDN2cVYzTnNPbWp0VnV3cDV0ellKX3JWd1lSUHdzSW9QR2lRRGVUSGRFeExaMkY0N09sWEV6RG8?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 12:28:24 GMT"
     },
     {
-      "title": "\"이런 정책 펼쳐주세요\" 지방선거 후보자들에 제안[포토뉴스]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mRXY2Zk14a2REUTJvb2w5a2VkbEE1ZW5uS1hRUUx2dUV1ZEJ6RVQ2ODVFTWVqbGVWbGRvS2FzcnhUWjdGQlROOGprOVBJMy02OWxLbGx4TGxDUnFXalBhcA?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 11:43:00 GMT"
-    },
-    {
-      "title": "산업계 불붙는 ‘5월 위기설’",
+      "title": "중동 전쟁 암초에도…IMF, 한국 성장률 1.9% 유지",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTVBGTnZfMk5peHBmbElIcXdYTG41OE9CbFMyNzdnUVQ4UGl2YUFUSS1tVlRQUDk3SEZtVzhpRHFLNWRabndxSlhZdWNqS0JDbzBGNEtXaGVvZDVUT2dWRGdRM3ZFSER5T2lSY3VBY1BWblJQcU53azBlMUREY3FpNkFGMVZIQThfZjNTTTZIVXRfaDlMdjZrWk9PQVhVeWFyOFVLc2NJc3RJNGhmN0hOVW5lelkxRTZCXy1NZ3Zn?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 11:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0x2UkVlTjRuLUhpT3BuOFR0dFFTN2QzbTloYXNvTFBVazNMUjhvRVNyTjhabDZ1dG5YY0JDYlBvVmpEMVpjcExyLW5rZnFiMVF0bnk0SDQ3UldpNEFwS2lQck1ZQ2NBZFA4Z3Q2aURUTGtXU2VNcUg3Mmg5WDgybGNuRl9TQjZnUURQX0NGd1VySDUwd0tReHNWVG9GXzZJUEMxU1BBTzdFM1RQejRndV9XMldFYl9z?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 13:07:34 GMT"
     },
     {
-      "title": "[주요 단신] 민주당 도당, 여성 참여 선거구 경선 결과 발표 외",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tN3R2OS1LTGFlYkFwOVhQUGhNS1FZeURrNlloR05IcjZQX292RFRHM0liV2hxTUhBeWpTb01adXZhMFRXak1FTmMtbzV5QVBpaUVUbnlySnNGN0E?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 11:34:00 GMT"
-    },
-    {
-      "title": "물결 따라 흐르는 여유[포토뉴스]",
+      "title": "[포토] '8회초 폭투 득점 최형우' 축하하는 박진만 감독",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZVDQwcThlTXN6ZWlhdllPUXo1eFNfYmQ4bjdiUjRlVmI1WFFfSE1MemVWSm9XbUhCd2Z4N3Q1MFlpdFhYaVNBVUlldkVTT1QwV2Iw?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 11:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15SGdHNTdxRS1mVlpjZjhaM2lGa3JBVmFaN0JXQ1VFbUJNM0RzdGkybmc3XzI0b0RqSlpGVEFjcFVDNHo4bXpuOERJbUlQaTBQYlp2SGs0bHNGd0lrMWxvVGN6WUgyVTRvdmlYXzdGdjExYW1ob012bQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 13:10:00 GMT"
     },
     {
-      "title": "[비하인드 뉴스] 미국 가서도 '부정선거'? 장동혁 공개 일정 봤더니…",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qcFRXMjlnUUoyQ3pmQnRrZUpIbW1sVHBrZUw5UmZIeWVYMFlLa0h4QTFQd2FHZUstVnFYRE1kME85WDRjRzZqaWRLZnNocC10RDJV?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 11:14:00 GMT"
+      "title": "IMF, 韓 물가 전망치 1.8→2.5% 상향…성장전망은 1.9% 유지",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQTZTUDZXdExEamNTV0NibTJfRHVlb2dMV2M2ejVIYWdEb20zd0k5MW5tRVRWcWt4VHl1YkhfVHgxVkw1aExtTmhYQmJqeFNoUXVfRHF3WHhWZ19MNmtvWFpJeUhaNWJBVk1EMjVCN1Z5eDBCcllHYXZGZTRSRHc1elRBU05Za0hlY0UyUzJaWFRCcFl1NmNXdlItNnFGeS1OdlZnSzZfLTFPbXVYcGNMNDU1UVNLTG1vSV9QdU1nbWN4YUdVYWNyQmRn?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 13:12:35 GMT"
     },
     {
-      "title": "조국 \"부산 사람들, 한동훈 스타일 안 좋아해…정치권의 진중권\"",
+      "title": "모사드 수장 \"이란 정권교체가 목표…위협 방관 않을 것\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfLVRvLWl2WGhRajJHN3NCQVRWWXBOV0ppbk1xRzRZczZyMkg2SFVxQWNrbkhyNE14cEpxa1Q5MnJ3SG1kbmhmRGg5cHVseWRydWZN?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 11:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93bFRveHV2c25xblR4cGNxSU1sWHRlT0VzbFczQ2J2dC15VGUySkZCTHhuRDRqX3VpVTlYa2d4aXNsVkpyUE94bFdjTmY0cDduMXZ3OWlnOUF5UUFRTzZmYWJRZktxYTY1Z0s1S25zaUZ0TG1HanFETA?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 13:12:00 GMT"
     },
     {
-      "title": "[포토] 노진혁 '트위스트 동점타'",
+      "title": "미국 3월 생산자물가 전월대비 0.5%↑…예상치 큰 폭 하회",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOYTBCTmp2aVptSDE5Q0trZF9MdVRmcU5BQlBDcFZUemdjYVJxMkNKbjFXMGV6SmVrU2tRanJlOXN3M0EtZ3FHbjNwdjd6OVJCRnZhZnN4THBVWm1kalZZczJUWWRSOVhPelRzalR2VlZKRlVUbWQ5cQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 11:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYOUt2cmcwTjJmSmtBSUlMbUdKTV9HeWh6Ry1NMHJQRDdYMi1CN2E1dUhQaEVEWXNNUU1OVVktOWhRT3FOanhzWWlqV3dlMkpzRFhPNlFYOVpwWmc5S2Z4SzBLSkpacVNvMlNPTXh1ZVJNa0Z4TTJncQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 12:51:00 GMT"
     },
     {
-      "title": "경기 포천 미군 사격장서 산불···15일 진화 재개",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VVjJFTlBjWFFIeGR6SkVrdlJlUkNLQTVfeEtyRnVEWXhpb0ZObGhiY215U1lLU0M2UEJIcjNGNTUxcWhxV3A4aUd5M2FZNWFEVHdKc1k4VXFUOURxeHFkSA?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 11:50:00 GMT"
+      "title": "[올댓차이나] 사우디, 5월 중국에 원유 일일 64만 배럴 수출 ‘사상 최저’…'중동전쟁 영향",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSFVGbDI1NGtUVDF5RGFxTG4xYXRtaDVOMjdPcHotOTRLWkNSdlZ6eEVBUkN1VElaZW1Ld0I0MGFVeVNDaExUX1R6dGpzMXB3eWlmT1NLR0hsR0lHQjJ1bUZRTExmMG5RTVhrTjFILUtwc21VTUtrYVVUUzRSRUJqLTZLLVpyNXUxTUsxdHh1ZHlIWk9kbTY0TUprSmlGelFLaDEwTWZKLV8wdXZRWFB0MTluMl9KcVc5?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 12:48:06 GMT"
     },
     {
-      "title": "[비하인드 뉴스] '평택을' 선택한 조국에…\"이럴 수가\" 진보당 반발, 왜?",
+      "title": "미 3월 생산자물가 0.5% 상승···전망치 하회",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNdllfRGRYT0Foa1p1djNqYlY2eGlEQkgtY0hMTnc0dWd4Wk8zT2Z0c0ZtbVctSjNQU3l1TURLU2xTam0xN1FfTmNTUWM5M0lqNUhr?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 11:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Hem5aU2REUWdzXzhLcWlYaG1QMy1KSDJLQ2QyOVBaS2dWamNtbFYzdU5oTEMtOWhuRFNZS2Zndi01NHFQQnJpcm9IZy1yZHRsS3NjZWFSQWh1RVJ2YjdyeXl2TnNGVGkyTUN0OFZjYkNUb0NDX2Vudg?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 12:49:00 GMT"
+    },
+    {
+      "title": "IMF \"올해 한국 성장률 1.9%\"…세계경제 둔화 속 선진국 평균 상회",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKNmx3cDFqUXFMOGFlOFd1eVpOdkowYkVOUUpZUFpralpqTndldkV0LW1UMzBtQlc4YjNLa0VEV2U4ejhRNkNlSzFUT1VCYTVqZURr?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 13:02:00 GMT"
+    },
+    {
+      "title": "이 대통령, 고광헌 방미심위 위원장 임명",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pRlRiTWdHbG9qdHpZTDM0UUlKZktFTHZJbS00MUJpUktOa004VXdCaE94NTJCakFoNlZuazFMZzRXQlJRblNvdjhHVFFYRER4aG5n?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 12:52:00 GMT"
     }
   ],
   "sources": [
     {
-      "label": "네이버 금융: 코스피",
-      "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSPI"
+      "label": "Google Finance: 코스피",
+      "url": "https://www.google.com/finance/quote/KOSPI:KRX?hl=ko"
     },
     {
-      "label": "네이버 금융: 세계 주요 지수",
-      "url": "https://finance.naver.com/world/"
+      "label": "네이버 금융: 코스닥",
+      "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ"
     },
     {
-      "label": "네이버 금융: 환율",
-      "url": "https://finance.naver.com/marketindex/"
+      "label": "Google Finance: 세계 주요 지수",
+      "url": "https://www.google.com/finance/"
+    },
+    {
+      "label": "Google Finance: 환율",
+      "url": "https://www.google.com/finance/quote/USD-KRW?hl=ko"
     },
     {
       "label": "오피넷: 싼 주유소 찾기",

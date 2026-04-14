@@ -242,3 +242,4 @@ refreshPageButton.addEventListener("click", () => {
 
 render();
 initializeRefreshControl();
+fetchLatestDashboardData();
