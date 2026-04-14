@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T05:39:56.439596+09:00",
+  "generatedAt": "2026-04-15T06:32:45.035516+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@
       "change": "+22.04",
       "changePercent": "+2.00%",
       "direction": "up",
-      "updatedAt": "2026-04-15 05:38"
+      "updatedAt": "2026-04-15 06:30"
     }
   ],
   "usMarkets": [
@@ -26,7 +26,7 @@
       "change": "+317.74",
       "changePercent": "+0.66%",
       "direction": "up",
-      "updatedAt": "2026-04-14 16:20"
+      "updatedAt": "2026-04-14 16:42"
     },
     {
       "label": "S&P 500",
@@ -34,7 +34,7 @@
       "change": "+81.14",
       "changePercent": "+1.18%",
       "direction": "up",
-      "updatedAt": "2026-04-14 16:20"
+      "updatedAt": "2026-04-14 16:42"
     },
     {
       "label": "나스닥",
@@ -42,25 +42,25 @@
       "change": "+455.34",
       "changePercent": "+1.96%",
       "direction": "up",
-      "updatedAt": "2026-04-14 16:36"
+      "updatedAt": "2026-04-14 17:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,472.3900",
-      "change": "-5.55",
-      "changePercent": "-0.38%",
+      "value": "1,470.8400",
+      "change": "-7.10",
+      "changePercent": "-0.48%",
       "direction": "down",
-      "updatedAt": "2026-04-14 20:35"
+      "updatedAt": "2026-04-14 21:14"
     },
     {
       "label": "100엔/원",
-      "value": "927.43",
-      "change": "-0.57",
-      "changePercent": "-0.06%",
+      "value": "925.82",
+      "change": "-2.18",
+      "changePercent": "-0.23%",
       "direction": "down",
-      "updatedAt": "2026-04-14 20:36"
+      "updatedAt": "2026-04-14 21:29"
     }
   ],
   "gasoline": {
@@ -75,83 +75,83 @@
         "price": "1,863원/L"
       },
       {
-        "district": "도봉구",
-        "price": "1,946원/L"
-      },
-      {
-        "district": "서초구",
-        "price": "1,950원/L"
-      },
-      {
         "district": "구로구",
         "price": "1,952원/L"
       },
       {
         "district": "동작구",
         "price": "1,952원/L"
+      },
+      {
+        "district": "강서구",
+        "price": "1,953원/L"
+      },
+      {
+        "district": "금천구",
+        "price": "1,959원/L"
       }
     ]
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (15일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wZXRqb2YyNlJYUGt2eHc3emtOMGVaVFl5bzVhU1lKdnRIMWJNR055N0c4WG9YWS1PYy1qTVBZcTN6U0haS0ppXzE3SDNZU0lXNlhaS2UyT1dIUQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
+      "title": "1부 오늘의 주요뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjb1VaYnh2WDFoX3UxS0pXM19iNFpJNlFLM1BERDlSY0w5ZENVZmQwUktCNUtZNGdaUWJFRnZmZWQ5cUU1UG5TY3NYZGNBSl9POEtDNFRiY3VMSVgtdGkxbTNMX1JYdjJVd1BqWndTem1iSE1GcExUS3hB0gF6QVVfeXFMTm5tNUJiUXpSV29HVTZJM3FPb0xnbUc2VC1BazlsNlY2ek5lUUx3bkszSmhpeHI3WG1Pd1VsNHg1X2EwM1RkNXUwS3pSNm9lV2lUV0g4ZVhqN1hhUXJTWWhZLS1uWmRtRU5lc052ZGVrX3ZNdHVJTlU1RVE?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:02:55 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(15일, 수)",
+      "title": "[카드뉴스] 지금이 절정, 전국 튤립 인생샷 스팟 5",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nejJYZUlzcHJIVnllUTZURDJJSnFmSzdMNENRX0Rqd1lBUVBGY0VQaXBTSzRFT3BjLWJNMVVWWDlJTW9xZVpjMlF3MGljNGJBWXV3Q3RIZW0tUQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:00:00 GMT"
+    },
+    {
+      "title": "[모닝와이드] 오늘의 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LNG9lcXpJeXU2aHRseThaMnlSLXJCUWFjMm9CZHdjdlo3ZmJBM0JmUDlnci1PTHdJWG05TExoQmdvSnd5Q1QwcHlFTjZLVjhOUnY4?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05Y2RZMVhHTGVqRHJ5aTN6VGptYzJsUjVuNVNTRzFkRVdqR3l5bjg1TWNRY0VzQVI2MkhUWFZVX1ZNa21pMmp0RGNVSGxFWk5oZ3lN?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:12:00 GMT"
     },
     {
-      "title": "프랑스 경찰, 반부패 수사중 엘리제궁 수색 시도했다 거부돼",
+      "title": "[코스피·코스닥 전 거래일(14일) 주요공시]",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUjFzSENsNGhCb0RpbGxZdVFVTm53WTZtbEQyN2w2X1BnNDYtOXVZRzJYc2J1ZW4tZy1qWWg0TlpYOHppZ2tLYUJLSHdrMEZUWVZhWndDQWxOeHPSAWBBVV95cUxPUzhrRTFMbjkxWUNpa1JndzRzWWl3enVzakx1blZUdklnejdpWFFEYzJZNTJTelVCM3FqcHRhZlc2UWE5TlN1SlJSY1l4VmdzX0w2Q2N2Y3RTb2xSZGxGRkY?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:05:01 GMT"
+    },
+    {
+      "title": "1.0%부터 2.1%까지…중동 불확실성에 韓 성장 전망 제각각",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTW8wMUJLYmI4bkt4dTd0bHVHVDhlWUdKMFdKUUZSNWU1MGE1dW1QNXBSMUxrdHo0OS1CRjBhdFJLdG1MWHlMMHFiNzg0Q0hRRGU4LU5ZX21wRnNCLWZBSVVMUFlFekp0dWN0ekdQZC1IZWQ5cEQ1NUpLc290eHF3OW9GN1k1WTlQMjZ5SlZFOW5RQVdLeFhtcVl0QS1jYXFaNnZsZWozcDk3RTNYQWctalc2eEg4bXMxZ1E?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 20:18:54 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRXRmNWRhcHVpcEZWVnVpUnhOOEIzX1NGamtrVk5nWHVNTE5EMjBxUFJNRU5CWmprSnNUZ0ZyMFpFZXpNX3UzR2libldRSDRpYkQzYUZsLXF2OWRLTGRCa3k4bWc4NEN3UlQ0MjU3OEpGU3BKdzNKWlBEeW9rZ1VxWXVxQXJHcThZd21kNDVrcS00UkZIejhuZnlOWWtJU3pwRm1rNDYzSWt2ajJQOTdIQkxsUFJJZkVES1I0VVptUkZDVTNOVndYTg?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:23:40 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 전북(15일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYWm9yZXRsOHdmZVBqZ29zR1hOZjMtRzlySE9LeUJLYUQzWHlMRk9WbzlDMjhKRFQzaEZSVTJLN2l5ME5rZGN3RjBVdGJUWVZ6dHZqcA?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
+      "title": "중국 선박 '통과'‥우방 사우디도 '역봉쇄' 반대",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOT0RaTG9USFQxSkRMZ1lGWGEwRFhoRVJsR21IajEwcHdqTXpianRMMElhblFoc09yOWUzSC1INUcwYkhZMUdlaTRpMVdrLVpnQXFjMnRpeG95MkU5N2FpNlNzU1BWcmVTem9QZG1iSFFLTC1iemhSWGt30gF6QVVfeXFMTXcyR0ZhdHR0S3ZqcWIzZk9wSVVseHZjQWRfckpUXzBZR19CMDBBRllwZjV5SE01U24yanBBcjNkRTF1emJPTGtIRkgweWI1eFp1OEpKZkhnVnhWWjgwZTZBTnVJaUtseXlwaXBzbFFwR0ZOMHBmckNQVEE?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:07:28 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 울산(15일, 수)",
+      "title": "작년 개인정보 유출 과징금 1천580억원…4년 만에 100배로 폭증",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXEyTXBZR2w5VVdTTTFlaHJXWjhqOGpJNkMxWGQtanVZTzgzNmU1anQ0YjRua3RISklXbV9kVTNNWmpmX3BPZWc0WHhmM3NqRVdZNEtuYVlNNWZObE1GX1lZTlRuWHNGcGJWdTBfamRBTVVjR3FaQnJTRER2bTMtRV8xekh0Uno2ZnhVQUJFNXpVdVl4bkdLbld2SjN0OHlaSGdsSjNGVUhnTklXbm5nUy00bXoyTUJtZ2c?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:08:32 GMT"
+    },
+    {
+      "title": "[속보] 국제유가, 급락…WTI 7.87% ↓",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ORnZ1SkprUjNJMER0VHlOSXBWVHlhcDFySEVQb0FRVjRwbzBoMVdXZW0wQW9UaTdrektlRXhJZlY0ZV9rbnNGYnNTdG9ZLUticTVj?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 20:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0bG5oSzFqMmFTaGhmblllYVZyLXQwN1gtdmJ1a0JEaUJFa3hTTm5Rdnc4VUlzdEdycVhuN2JicGl5TTB6VU1VUE55N25iVEpEbmhDS0I3ZHVPLWxYcDVwUHItMWlVM0N2UXhmdDV2MVJ0akVUbjJONA?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:18:00 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 울산(15일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03cWs3WVRjckg4dXNJMHliYmRXOE90MXpfUk1BaUhXZEc5ZzNHdENNSjdvaUN6Z3ZfWS1ZeF9uaE13cXZ3ZnRxellJZWRvXzNxU1E?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 광주·전남(15일, 수)",
+      "title": "협상 재개 기대감…국제유가 7% 급락·증시 화색",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rM1FnTnllOXVHaXdiSjR4TGZQak9MNGs2OTVUUzVOQWVpN2Q2a3UtWEVpbGtZdkdjZzBra2xxTy1HTlFJRTZrZmV3TDc2RG44MFFF?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MldfY21sU1V0Zk5fUlkxZDlvR1NWejk0MzlXdjc1Qnl2NzRlQzV0d2pMblVOTkI1REtnYUMySHlheVloOEVpZHdfYjk5RmFrSEkyMDg0WUF3TlJ3emtiUw?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:18:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 광주·전남(15일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndVBvYVhncEFjel83RzhOMDZFdmlweU5VbUk1ZW9kSXRkN1NtZndVLUk1NFY2RXJCajhxbFhFSmVCR3NuaUdxakRKQU5fbE92ZGdINUNvdmhxbFJ6djRN?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요 일정] 경기(15일, 수)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzVUY3VmlRM1dPY0pzWkRwUk5XTnN0UVZ1THVSZGptSW0tcXI3SFhHVTlnUS1RZE1WSUYwUlBQMEdaR3lWTlRKUk5QUXhmeEl1VS1j?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 20:01:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 세종·충북(15일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81WS13YlFNLUM5Q1BrV3FtMWxzODRKUC1HOXdXeThScDlRdnBKX3c2eGs0a01XWFhORk5NZ2F1SzRKdjZubXFicUU5SmJZNkNKQ2xIa2pjQUp2Q20xcGNR?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
+      "title": "110만원 뚫은 SK하이닉스…증권가 '190만닉스 간다'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWURkeWQ5dFdEMWhmWkROdk1ITmNMLWlrb3FaWmpNTGk2MVVyejVpNExwck5YX0N6RnhVaDloV2pnSDcxaEoyQzhKS1NSa2VsdzJuQmllMV85TUNSSEZNREdLVkloNkRIZnZWb1ZoQ28wUFJ1dExGekgteFZFeWpQUGtsYlQzVzRYMmRLYU1kSnRXRndqY1RSUUJQWjViR190bGF3UmtnNnVoUmxuQ1p3VG9hcU42MzdNUDhnRkpDWk10S2Zna2txRndn?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 21:23:40 GMT"
     }
   ],
   "sources": [
