@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-15T01:22:51.440880+09:00",
+  "generatedAt": "2026-04-15T03:48:40.040614+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,51 +16,51 @@ window.DASHBOARD_DATA = {
       "change": "+22.04",
       "changePercent": "+2.00%",
       "direction": "up",
-      "updatedAt": "2026-04-15 01:20"
+      "updatedAt": "2026-04-15 03:46"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,505.34",
-      "change": "+287.09",
-      "changePercent": "+0.60%",
+      "value": "48,489.77",
+      "change": "+271.52",
+      "changePercent": "+0.56%",
       "direction": "up",
-      "updatedAt": "2026-04-14 12:18"
+      "updatedAt": "2026-04-14 14:45"
     },
     {
       "label": "S&P 500",
-      "value": "6,956.73",
-      "change": "+70.49",
-      "changePercent": "+1.02%",
+      "value": "6,951.05",
+      "change": "+64.81",
+      "changePercent": "+0.94%",
       "direction": "up",
-      "updatedAt": "2026-04-14 12:19"
+      "updatedAt": "2026-04-14 14:46"
     },
     {
       "label": "나스닥",
-      "value": "23,574.76",
-      "change": "+391.02",
-      "changePercent": "+1.69%",
+      "value": "23,553.06",
+      "change": "+369.32",
+      "changePercent": "+1.59%",
       "direction": "up",
-      "updatedAt": "2026-04-14 12:20"
+      "updatedAt": "2026-04-14 14:46"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,472.2850",
-      "change": "-5.65",
-      "changePercent": "-0.38%",
+      "value": "1,472.1850",
+      "change": "-5.76",
+      "changePercent": "-0.39%",
       "direction": "down",
-      "updatedAt": "2026-04-14 16:13"
+      "updatedAt": "2026-04-14 18:36"
     },
     {
       "label": "100엔/원",
-      "value": "926.37",
-      "change": "-1.63",
-      "changePercent": "-0.18%",
+      "value": "926.79",
+      "change": "-1.21",
+      "changePercent": "-0.13%",
       "direction": "down",
-      "updatedAt": "2026-04-14 16:19"
+      "updatedAt": "2026-04-14 18:39"
     }
   ],
   "gasoline": {
@@ -94,64 +94,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[주요경제지표] 2026년 4월 14일자",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MMnotYlpjTFN1ejdUTk1CaDJELWcwa25zbmlnSjNzMVU1MGFpWWVQNU5qeHk1WFZwdnNuLXVHMzRnNDRlOGtBN3gzbFJDbVI0MW1EenN1b2xZRlA1aExwd0NSZmJ1OHVyTm5HbkZR?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 15:32:00 GMT"
+      "title": "美재무부, 러시아 루크오일 해외 주유소 제재 면제 기한 10월까지 연장",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2UzhCOVR3RXg0S0VGa3VFNFNzaEdOYnBhdFlVOWJETkRoSHRMdk9SX3B3bE1MT3ZBZzVvV2xXeGxRUVN2NV9OeTNfTy1kdEVCeHgxYWM5Smc?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 18:01:50 GMT"
     },
     {
-      "title": "유럽인 100만명 'EU, 이스라엘과 협력협정 전면 중단해야'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUXhXNXpUMFJ2N2s4U1RCckxMRnhZR2lQcy1zZGV5VVhscEJuOWg2V0N5a29rQ3RxajJHWEFiYl9iWjlaN2Q3ZExkdFctNkxKX2ZhVHdOb3BYM1JpUHZWUFBRdlRKMjFqbXJ1UjQ2OEE4djNidnF6NEtaaFNnaHRrOFJHMWxjT2R5ZjNQNDNJZVdxMVRTWjBFblZZM09QUWJJbHYzOE80bUdValJqWkFOYUdzdloxRGRy?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 16:02:56 GMT"
+      "title": "국내 주요 VC 4인, 2026 K-우주포럼서 우주 스타트업 투자 전략 공개",
+      "source": "브랜드경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rNXIyOHJwMnhOTGlmVzZUWDdxaFljN01WckFNcXFWRDdDQTM2b1h4SmJfLTltU1VpcmkzSjZYMENDUFhDeHRFb01MWnM?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 18:34:32 GMT"
     },
     {
-      "title": "트럼프 \"이틀 안에 뭔가 일어날 수도\"…'종전 재협상' 시사",
+      "title": "선발 4연속 호투에도 경기당 1.75점 뽑는 'FC 롯데' 방망이 어쩌나! 김태형도 \"결국 쳐야 이긴다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tNUQxVUU1NExLdm1uall6TTFfNkNDbVFlUkFiQmJmZElVWUc3MGVLbWlpMXVnQUowOHZCUllzOFJSQVE1bVpjY0JSdVl1dWxZSndmZlpEbnpKalRUSHF1c1E5Nklpa3c3bW9VSnRUWFdUeVBVUmt1Zw?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 16:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UVWw1cExDMWk0dnFnQnRtOXg0VzNIUEJBXzJkOHZ3dTFxVkhMdl9fWGtFWkVLYXdqSXpOZ3VZekpiS0ZkUER3eG92QVVJQ2NwZWZ0WVZB?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 18:33:00 GMT"
     },
     {
-      "title": "[속보]트럼프 \"이란 관련, 이틀 안에 뭔가 일어날 수도\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZV0p5VG5HNU5tejJQbDFaMXBsbVFjNGJ4Q0Z6bHE3MGUyNDRWa3ZXMURidFUyWEY4cDM2UTVhWm9LeTQ4QTVOSllVOUxhQWU3Sm1F?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 15:42:00 GMT"
+      "title": "고흥군장애인복지관, 4월 20일 ‘장애인의 날’ 맞아 주요 거점 3곳서 캠페인 진행",
+      "source": "스타인뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xZWNId1o0TnM5NFllR0dTYjJPYldUbV9kZzR0Q0R4eVRwdDEwUjY4ekgyS19vNmV5c0p1Tzd1LVdZeGdiNDVBWlJ1MkFCRGlDOWo5Q000SFRhbnN0SS1PTzNDN3UwOU1JcjV0NDJR?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 18:03:00 GMT"
     },
     {
-      "title": "[지표로 보는 경제]4월 15일",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aakVCd1VlTVhTWG1jQUNId1N6RlF2YTBKbTZWc3lKZE85ckE2MDhKME9wUUluZnBtYlFDSzBLb2xtRW9tUmRRaTRPMjVWU1AtMlBXbUxJT2JoNHlpUW5lZm9leWdaUFlzanZZ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 15:31:00 GMT"
+      "title": "비트코인 $74500 급등…3중 다이버전스, 랠리 끝?",
+      "source": "BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVVB6alRwWlBDOEZCSHNxSk42YmJOcWF6cGZDbVhULWI2WTRJem93NHVpN2NqYnh2UkxNTFNBREt6cVV3TF9RcFBCWDVKNDJ1TTN1ZzB5VTZGYzBfOXFFWnFNM1FwU3JxWWNicDhySGNIUWJmYmlNWEcySFNRYVpnT3ZGTQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 18:25:24 GMT"
     },
     {
-      "title": "하정우, 부산 북갑 차출론 즐기나",
+      "title": "라팍·엔팍엔 3년 10억짜리 '배팅볼 투수'가 있다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HYk92RUIzUUE5UW54RTlRUTZCTHFCaEVKbFI5cFJUNF9aRGlvUXV3RXdCNERkYlJHYmV2YUFaeXkwWUlHMmtBYnNOMTl3Y2ZKd093cmhBbVBLZzZIaEVnYVA1RmdkSDYzS3p1QzFn?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 15:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CTVlqLWtXMkFkQTRsZGQzTWVlWE1OZUtXSThBUVlXbWNEM2VXTllfWkNzV1Z3VU90STdKbTFmeHd5dENQS1lZVDhRQTlrandBWF9nZXBrQnRvVTkzaExwNFpKRmQzbS1UemlwY2syZU5wMFpzcFBfbA?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 18:21:00 GMT"
     },
     {
-      "title": "\"회의에 대신 참석\"…저커버그 클론 만드는 메타",
+      "title": "다우·엑손 등 글로벌 화학업체, 전쟁 장기화에 플라스틱 가격 인상",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jRmNyMTBpTDgtOVRRSTl0WV9PMWlNdWU1bE9renR5d2tOR2pFVWw1QXJRTElUOEt2eE53SktrenV0a3dMeDQzdGgxLUUwejlOUGFZ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 15:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xNHhXQ3c3TDdDUXNaUm5EY1FZbUFYX3Y0QWIwUmZGSlQ2YWxDdFNJQ2NjVlV1bzJSSU01WVh5OTFGQ2N6VWJTRUpzTmpBTHVQcXFz?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 18:01:00 GMT"
     },
     {
-      "title": "\"美·中 AI 모델 성능 격차 사실상 없어\"",
+      "title": "상황이 이 지경이면…'대전 예수' 와이스를 당장 선발로 써야되는 거 아닌가",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VZThxZGhXUlR3cF9RcXQyOE4zRmtzWGprRWVVeEI5TmRiN3BYYlNhTWNvSFYwd3BhNFFYRkNYQUJNeE9odEZLRm5jdmpRQjR6T1Nj?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 15:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xcU1lbjFFX2d5MV94azJtVlZyMXpFWlVGbDVGYlJiTWdVM0VPUjBPeWRMNWdOb25Bb1pKeF9lMXJMQWMzd0lSM1Nldm1zWkZGLXRuaTdB?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 18:21:00 GMT"
     },
     {
-      "title": "\"이번에 지면 총선도 패배, 與 장기집권 길 열려\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsYWdVcnpnU0VTV1RPX1pqSHhYSnhBbzlraXBUWktwdEJzSG40X0JQam4xU1lvSkVGREJKblhab2Ffb2QxUXJJWHVUWkhjcUNOLU5J?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 15:51:00 GMT"
+      "title": "엔비디아, RTX 5060 Ti·RTX 5060 ‘9GB GDDR7’ 준비하나",
+      "source": "위클리포스트",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpTVVCSlozUjRRb3J1d09XLXBkaW01OWpmeEJHRjZ1cGkyU1plX1A4VDV5ZFc0N2ZHUlhJV3JWMXlrOHVWWVNaN1BLWUxLWUxBcy1KX3VtelBtZW5xYlZIR2kwdVlaV3JveTFn?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 17:56:39 GMT"
     },
     {
-      "title": "부천사랑상품권, 반년 만에 '효과 입증'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83ekY1ODBZY0ktMmhjNVZqT1l4MWlLLU1LVmFuOFh5VGdIVmtISmRyOGs0SHVCX3RUSFNTbFVJT1JqajB4X09Rd2FyU3gxZ2taUTRSNEctZUFTTE5VaUl6bQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 15:38:00 GMT"
+      "title": "삼성 잘한건가 못한건가…이기면 장땡! 박진만 감독 \"적시타 없었지만, 타자들이 집중력 발휘했다\" [오!쎈 대전]",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkhNMkx0aWhxeVZ3RGY2eUNQQmlGTjY4M2Z1UzJOcGxwOENlYkp0UTJqNXV2QUYwVkZtZUR6VU83c281QUtrc3pZRFNHazJLVncwTUVVZHBTdko5TGtLQkE3UFkxSTJaeGVtMlUzcldqMFp6R1JPanJxWDQ0UUVYcEdZVQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 17:40:00 GMT"
     }
   ],
   "sources": [
