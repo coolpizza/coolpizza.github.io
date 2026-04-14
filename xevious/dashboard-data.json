@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T19:33:27.076512+09:00",
+  "generatedAt": "2026-04-14T20:03:08.878673+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -8,7 +8,7 @@
       "change": "+159.13",
       "changePercent": "+2.74%",
       "direction": "up",
-      "updatedAt": "2026-04-14 18:05"
+      "updatedAt": "2026-04-14 20:02"
     },
     {
       "label": "코스닥",
@@ -16,7 +16,7 @@
       "change": "+22.04",
       "changePercent": "+2.00%",
       "direction": "up",
-      "updatedAt": "2026-04-14 19:33"
+      "updatedAt": "2026-04-14 20:02"
     }
   ],
   "usMarkets": [
@@ -26,7 +26,7 @@
       "change": "+301.68",
       "changePercent": "+0.63%",
       "direction": "up",
-      "updatedAt": "2026-04-13 16:51"
+      "updatedAt": "2026-04-14 20:02"
     },
     {
       "label": "S&P 500",
@@ -34,33 +34,33 @@
       "change": "+69.35",
       "changePercent": "+1.02%",
       "direction": "up",
-      "updatedAt": "2026-04-13 16:44"
+      "updatedAt": "2026-04-14 20:02"
     },
     {
       "label": "나스닥",
       "value": "23,183.74",
-      "change": "+280.84",
+      "change": "+280.85",
       "changePercent": "+1.23%",
       "direction": "up",
-      "updatedAt": "2026-04-13 17:15"
+      "updatedAt": "2026-04-14 20:02"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,470.4250",
-      "change": "-7.52",
-      "changePercent": "-0.51%",
+      "value": "1,472.30",
+      "change": "-8.20",
+      "changePercent": "-0.55%",
       "direction": "down",
-      "updatedAt": "2026-04-14 10:26"
+      "updatedAt": "2026-04-14 20:02"
     },
     {
       "label": "100엔/원",
-      "value": "925.42",
-      "change": "-2.58",
-      "changePercent": "-0.28%",
+      "value": "927.12",
+      "change": "-1.70",
+      "changePercent": "-0.18%",
       "direction": "down",
-      "updatedAt": "2026-04-14 10:28"
+      "updatedAt": "2026-04-14 20:02"
     }
   ],
   "gasoline": {
@@ -96,14 +96,38 @@
     {
       "title": "[한국뉴스 TV] 26년 4월 14일 (화) 오늘의 주요뉴스",
       "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JTEJpNGN6aHB4S3ZJMDNhenpBYUtWRG1yb3V6aTBuZjdTWTV3YWJCc1RYcXJRck0xbko1WFRCWjU0YTFwNDk4NGhLbVhNTEt0dU96ZFBYejZFSGlXUHFLdi03RGdNRlU?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:06:30 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NUjlLbWZhVmQ1djJmcGR3cWkwaTk3YkpaMGNpVnpHZHc1bUszRmtjQVk0QlJ0U3FYYTFiWnFqS1FzYzBwSUR6dUhwOE1NYm15SWJLUFJYRUdySzE3cEZJTnViMWkyMzA?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 10:07:00 GMT"
     },
     {
-      "title": "미국, 호르무즈 역봉쇄 시작",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HRE9VLU5VaXV1S1g3ZzVfX3o1UlBGUUJmV29ZdUwyWXNBUmkzNTlEZThBVVZVVmNEZUROYzEtWFNGc0tvcE1waC1tUW5jRjdiUDd5MGxSTU43ZUNhUVHSAWNBVV95cUxOVFRVY0VGa19GbmlKbnNKQjFkZEc2OGo2OHh0YS1MSTN5cms2eWJvemN5WERRM2RsdzhKR0tTUzM0UXg1ZF9wWTk3SDhMM3g5cHZoVmN3MktqTTZxOXNkZWJoRE0?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 09:56:00 GMT"
+      "title": "[주요공시] 4월 14일 오후",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NWXMzUVZ1NG9faFVudUlBY3ZBbndXdUJzVkJsS09aTVlVaUY3WENuZ01BaloybFFhUzhEczUzZ0J3M0ZFemY5aFN4QzdsN291U3ow?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 10:53:00 GMT"
+    },
+    {
+      "title": "정부, 주나토 대사단과 방산 협력 논의…우주 분야도 협력키로",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUxQZFpNSTdEY0R5UHRaVzJ1OFhsWUgwcHJQcUZfTUJiM20yMndMZTVNNjdfQ1JxanJFZUc1a0F3ZTFhUEJSbEREM29rUy1sbnR5eWhZTXBTa1M4UDhnbGF4RWNPS2VXTGU5Nkd6c01KQ1gtTFV4OVBNMFFpeXFrUEozVmpPLUtGNXliNHdYWGliSTJWWXQ4ZGFFOGpHRllYbTFJYm9WTTRpUEd1VnJFTUcxaU1pZWhL?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 10:52:00 GMT"
+    },
+    {
+      "title": "축하 열기 가득한 민형배 후보 캠프",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1SG1Eb1c1ekZvYVNpM1NzdjFUcXZqNGtmMzdaMWdQNXNyOExVWHNKN0VCLXk5cWdCQ3oyUVZoQ3pSVnZ5eGNLb0kyN2ROak9yQ3pPbkRpYU1wVDRXNmt6aQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 10:48:00 GMT"
+    },
+    {
+      "title": "14억 인도인이 선택한 앱…인스타그램 다음은 챗GPT",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT3FaelVPUG8tV3g2aHo0OHFHTVNKbHQ1eGttcV83SnEzZjktQkhYM1pyRE4zUTFnNGhLcjNrMW5OZHk4XzdtVUhKWEJHb19QRGlKdHNnRVEwV2RPS05tdW96Nm5keGpxdEVfZFZybXZPbHBlTXlLXzNnb1pQelFlYlBZOXFNR0pSNUhuQkROMmpuQzdFcWpWTHVXQUczblZqeXJ3aFM3UUtDOEF5d0g2UHVzamJVOFc3?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 10:21:55 GMT"
+    },
+    {
+      "title": "[포토] 잠실 오서방 '다음엔 홈런이요'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCZjV2TmZjUzNuTG9jTkoydEdEODIwaHZkZlpSOV92SjU5ZTlxdWtpOW43OTB2dXZILS1sVUNKTnB6SlUyMHVHMS1WTDRuMW8zelVXb0FR?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 10:45:00 GMT"
     },
     {
       "title": "경선 승리 민형배, \"이제는 지방선거 승리\"",
@@ -112,64 +136,36 @@
       "publishedAt": "Tue, 14 Apr 2026 10:15:00 GMT"
     },
     {
-      "title": "싱가포르, 3년반 만에 통화긴축 전환…'이란전쟁 따른 인플레 대응'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0h5c1FTVGZQTl9Va2VGZG0xYnFjR3ZrWUlJTkIyeXk3YUR3Q01sS3JFYkNqZ01kdzIyNy1KNHZRbjdFWFRCdldkcTZXZVVFNmFFSXNMZEx1R2JCRnRGMTBTRDg3WVVsQ3BzVWQ0RXB6U2NVSng4a1k0NjRQaVlVcUVlQzlXS2Q0Qnk4dElGdFE0Y01LUm54QzVmN05BYlZjemdYNEhXQjMyeFFpckZYdGYtQnBaVk1W?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 09:49:37 GMT"
-    },
-    {
-      "title": "정부, 지방선거 맞아 AI 악용 가짜뉴스 집중단속",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMDVQMHFGck5xelJqZzhXazRxTUJqc2VSM1RGbVR2SFJpTEk0UkNEaE1vaUtrVVo2alZ4T3A5WnFMVmRUcEhNbzBrdzJlMkZSa0txb1c0VVoyZl9qR1lUNnUxNTNxX004T0R6ek5aRG9ZTEtKeHZSWXp2MVJzRUlTNA?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 09:40:21 GMT"
-    },
-    {
-      "title": "김민석 \"6·3 지방선거 엄격 관리…AI 통한 가짜뉴스 엄중 처벌\"[노컷브이]",
+      "title": "[단독] 쌍방울그룹 자금, '조폭 난동' 하얏트로 흘러간 정황",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83cHJDTFpMRkluZEJLaDV4TmV1YzJfVFU1bDg4YnVRSnVxVklqNnE5VFRZWUJDUVhIdGZFUlgzdnZMUjJMRUp2ZFZqVXZ3WWVld3Aw?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 09:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51NmtqSnFRT3kyUmZNV19JZTllZHd1dXJyeVNiTGtMN2pXeVotOTd1NEVXNjJiS215QV9UY3RXWXdTb3RTaVVqREtiLU9YRGhMN2pz?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 10:46:00 GMT"
     },
     {
-      "title": "조합원 줄고 비조합원 대출 막히고…상호금융 속앓이",
+      "title": "이 대통령 \"오목 좀 둔다고 명인전 훈수\"…야권 비판에 정면 돌파 [뉴스와이드]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZ2tjaHYyMTFxZ2JlLW9nbzRLNU5VUUFoNlVGSWxxNENvZXBBNW1mbUlKTF9MWnBSOV9jOHQybzloejIxaHRpX0paeXlfUkRQcXFqUUh0enNycENJbEUydHNULW04dE9wZ3pTb0Jn?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 10:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iUVZmdXN2d054VklIQl92WnpSRW9HZ3FDdmRTb3ZiWFc4X0tyRW40U2wtX08zbmU4U0J2WEI5VE9HWDZaWEJwVzBLVFN2UW5lbVJLMDY0YmRMbDMzNDhrR1dtQl8wbUF4eXRXbURR?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 10:08:00 GMT"
     },
     {
-      "title": "[포토] '내가 봐도 놀라운 시구였습니다' 한화-삼성전 시구나선 양요섭",
+      "title": "[한번에쓱] 백호가 또 해냅니다! 2-0으로 앞서가는 한화 '3회말 적시타 환호' 강백호",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjLTFBdkpBMkFWdXRibGw4cGZRcnJxTnVaek1GWFMxRlBpZ1djNUNqVm51OWJDMjV1bkVGZzhBdmtPejlLcXlVUmFYR3IxRlhqTWFXN0x5akZ0QzVu?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 09:56:00 GMT"
-    },
-    {
-      "title": "[포토] 이청명-최태인 '시구시타 아이덴티티'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5INGxYTVAwU0Y1UlVUQXdiandGT19kSmgya0lfN3RmNm5FaTNaSllWU0d5WGxtaVoxY29hc2Ywajh3dmlzNnNWN3hnTjRlX0VwTng4eEZPMlU4RTZC?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 09:39:00 GMT"
-    },
-    {
-      "title": "'청주 가스 폭발 사고' 피해 눈덩이…트라우마 호소까지",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RR3RtOEYySGFkZ19XSjRLdlpHSlNsaklySUJ2aEVubHdPak5BczRWSzdZU01SWGR1aVRpVUQ2YkNSbzFxVEJMVHpEOGFxTURPQ1FjRkpsY3p2VXpKMkZsSQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 09:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSSlZkUzRNWXBCS3F6NlgycVBuYW9OYTNRaXA2aWYwcDM0MFZnaFBNcG9NNXVmLVlYRE1lTTV1R0ptOHpHYWFsSmFTWDVmZzhSMlNtVVZB?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 10:44:00 GMT"
     }
   ],
   "sources": [
     {
-      "label": "Google Finance: 코스피",
-      "url": "https://www.google.com/finance/quote/KOSPI:KRX?hl=ko"
+      "label": "네이버 금융: 코스피",
+      "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSPI"
     },
     {
-      "label": "네이버 금융: 코스닥",
-      "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ"
+      "label": "네이버 금융: 세계 주요 지수",
+      "url": "https://finance.naver.com/world/"
     },
     {
-      "label": "Google Finance: 세계 주요 지수",
-      "url": "https://www.google.com/finance/"
-    },
-    {
-      "label": "Google Finance: 환율",
-      "url": "https://www.google.com/finance/quote/USD-KRW?hl=ko"
+      "label": "네이버 금융: 환율",
+      "url": "https://finance.naver.com/marketindex/"
     },
     {
       "label": "오피넷: 싼 주유소 찾기",
