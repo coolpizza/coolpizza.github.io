@@ -1,4 +1,5 @@
 import datetime as dt
+import html
 import json
 import re
 import urllib.parse
@@ -136,42 +137,82 @@ def parse_fx_quote(html, label):
     return parse_world_quote(html, label)
 
 
+def parse_google_finance_quote(url, label, value_multiplier=1):
+    page = fetch_text(url)
+
+    price_match = re.search(r'data-last-price="([^"]+)"', page)
+    if not price_match:
+        raise FetchError(f"{label} Google Finance 현재가를 찾을 수 없습니다.")
+
+    displayed_price_match = re.search(
+        r'data-last-price="[^"]+"[^>]*>.*?<div class="YMlKec fxKbKc">([^<]+)</div>',
+        page,
+        re.S,
+    )
+    previous_close_match = re.search(r'Previous close</div>.*?<div class="P6K39c">([^<]+)</div>', page, re.S)
+    timestamp_match = re.search(r'data-last-normal-market-timestamp="([^"]+)"', page)
+    offset_match = re.search(r'data-tz-offset=([^ >]+)', page)
+
+    if not displayed_price_match or not previous_close_match:
+        raise FetchError(f"{label} Google Finance 기준값을 찾을 수 없습니다.")
+
+    current_value = float(price_match.group(1)) * value_multiplier
+    previous_close = float(previous_close_match.group(1).replace(",", "")) * value_multiplier
+
+    if value_multiplier == 1:
+        value_text = displayed_price_match.group(1).strip()
+    else:
+        value_text = f"{current_value:,.2f}"
+
+    change_value = current_value - previous_close
+    change_percent_value = 0 if previous_close == 0 else (change_value / previous_close) * 100
+
+    if change_value > 0:
+        direction = "up"
+    elif change_value < 0:
+        direction = "down"
+    else:
+        direction = "flat"
+
+    updated_at = now_text()
+    if timestamp_match and offset_match:
+        tz_offset_ms = int(html.unescape(offset_match.group(1)).replace('"', ""))
+        quote_tz = dt.timezone(dt.timedelta(milliseconds=tz_offset_ms))
+        updated_at = dt.datetime.fromtimestamp(int(timestamp_match.group(1)), tz=quote_tz).strftime("%Y-%m-%d %H:%M")
+
+    return {
+        "label": label,
+        "value": value_text,
+        "change": f"{change_value:+,.2f}",
+        "changePercent": f"{change_percent_value:+.2f}%",
+        "direction": direction,
+        "updatedAt": updated_at,
+    }
+
+
 def now_text():
     return dt.datetime.now(TIMEZONE).strftime("%Y-%m-%d %H:%M")
 
 
 def load_market_data():
-    kospi_html = fetch_text("https://finance.naver.com/sise/sise_index.naver?code=KOSPI")
-    kosdaq_html = fetch_text("https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ")
-    dji_html = fetch_text("https://finance.naver.com/world/sise.naver?symbol=DJI@DJI")
-    spx_html = fetch_text("https://finance.naver.com/world/sise.naver?symbol=SPI@SPX")
-    ixic_html = fetch_text("https://finance.naver.com/world/sise.naver?symbol=NAS@IXIC")
-    usd_html = fetch_text("https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=FX_USDKRW")
-    jpy_html = fetch_text("https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=FX_JPYKRW")
-
-    updated_at = now_text()
-
     korea = [
-        parse_simple_quote(kospi_html, "코스피"),
-        parse_simple_quote(kosdaq_html, "코스닥"),
+        parse_google_finance_quote("https://www.google.com/finance/quote/KOSPI:KRX?hl=en", "코스피"),
+        {
+            **parse_simple_quote(fetch_text("https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ"), "코스닥"),
+            "updatedAt": now_text(),
+        },
     ]
-    for item in korea:
-        item["updatedAt"] = updated_at
 
     us = [
-        parse_world_quote(dji_html, "다우존스"),
-        parse_world_quote(spx_html, "S&P 500"),
-        parse_world_quote(ixic_html, "나스닥"),
+        parse_google_finance_quote("https://www.google.com/finance/quote/.DJI:INDEXDJX?hl=en", "다우존스"),
+        parse_google_finance_quote("https://www.google.com/finance/quote/.INX:INDEXSP?hl=en", "S&P 500"),
+        parse_google_finance_quote("https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?hl=en", "나스닥"),
     ]
-    for item in us:
-        item["updatedAt"] = updated_at
 
     currencies = [
-        parse_fx_quote(usd_html, "달러/원"),
-        parse_fx_quote(jpy_html, "100엔/원"),
+        parse_google_finance_quote("https://www.google.com/finance/quote/USD-KRW?hl=en", "달러/원"),
+        parse_google_finance_quote("https://www.google.com/finance/quote/JPY-KRW?hl=en", "100엔/원", value_multiplier=100),
     ]
-    for item in currencies:
-        item["updatedAt"] = updated_at
 
     return korea, us, currencies
 
@@ -365,16 +406,20 @@ def build_dashboard_data():
         "news": news,
         "sources": [
             {
-                "label": "네이버 금융: 코스피",
-                "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSPI",
+                "label": "Google Finance: 코스피",
+                "url": "https://www.google.com/finance/quote/KOSPI:KRX?hl=ko",
             },
             {
-                "label": "네이버 금융: 세계 주요 지수",
-                "url": "https://finance.naver.com/world/",
+                "label": "네이버 금융: 코스닥",
+                "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ",
             },
             {
-                "label": "네이버 금융: 환율",
-                "url": "https://finance.naver.com/marketindex/",
+                "label": "Google Finance: 세계 주요 지수",
+                "url": "https://www.google.com/finance/",
+            },
+            {
+                "label": "Google Finance: 환율",
+                "url": "https://www.google.com/finance/quote/USD-KRW?hl=ko",
             },
             {
                 "label": "오피넷: 싼 주유소 찾기",
