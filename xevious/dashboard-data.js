@@ -1,78 +1,78 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-13T22:57:06.097198+09:00",
+  "generatedAt": "2026-04-14T19:04:44.849038+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "5,808.62",
-      "change": "-50.25",
-      "changePercent": "-0.86%",
-      "direction": "down",
-      "updatedAt": "2026-04-13 22:56"
+      "value": "5,967.75",
+      "change": "+159.13",
+      "changePercent": "+2.74%",
+      "direction": "up",
+      "updatedAt": "2026-04-14 19:04"
     },
     {
       "label": "코스닥",
-      "value": "1,099.84",
-      "change": "+6.21",
-      "changePercent": "+0.57%",
+      "value": "1,121.88",
+      "change": "+22.04",
+      "changePercent": "+2.00%",
       "direction": "up",
-      "updatedAt": "2026-04-13 22:56"
+      "updatedAt": "2026-04-14 19:04"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "47,559.53",
-      "change": "-357.04",
-      "changePercent": "-0.75%",
-      "direction": "down",
-      "updatedAt": "2026-04-13 22:56"
+      "value": "48,218.25",
+      "change": "+301.68",
+      "changePercent": "+0.63%",
+      "direction": "up",
+      "updatedAt": "2026-04-14 19:04"
     },
     {
       "label": "S&P 500",
-      "value": "6,792.42",
-      "change": "-24.47",
-      "changePercent": "-0.36%",
-      "direction": "down",
-      "updatedAt": "2026-04-13 22:56"
+      "value": "6,886.24",
+      "change": "+69.35",
+      "changePercent": "+1.02%",
+      "direction": "up",
+      "updatedAt": "2026-04-14 19:04"
     },
     {
       "label": "나스닥",
-      "value": "22,826.10",
-      "change": "-76.79",
-      "changePercent": "-0.34%",
-      "direction": "down",
-      "updatedAt": "2026-04-13 22:56"
+      "value": "23,183.74",
+      "change": "+280.85",
+      "changePercent": "+1.23%",
+      "direction": "up",
+      "updatedAt": "2026-04-14 19:04"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,484.80",
-      "change": "-0.70",
-      "changePercent": "-0.05%",
+      "value": "1,473.00",
+      "change": "-7.50",
+      "changePercent": "-0.51%",
       "direction": "down",
-      "updatedAt": "2026-04-13 22:56"
+      "updatedAt": "2026-04-14 19:04"
     },
     {
       "label": "100엔/원",
-      "value": "930.27",
-      "change": "-2.42",
-      "changePercent": "-0.26%",
+      "value": "926.62",
+      "change": "-2.20",
+      "changePercent": "-0.24%",
       "direction": "down",
-      "updatedAt": "2026-04-13 22:56"
+      "updatedAt": "2026-04-14 19:04"
     }
   ],
   "gasoline": {
-    "lowestPrice": "1,942원/L",
-    "lowestDistrict": "동작구",
-    "stationName": "HD현대오일뱅크㈜직영 흑석동셀프주유소",
-    "address": "서울 동작구 현충로 101 (흑석동)",
-    "updatedAt": "2026-04-13 10:30:59",
+    "lowestPrice": "1,946원/L",
+    "lowestDistrict": "도봉구",
+    "stationName": "HD현대오일뱅크㈜직영 영신주유소",
+    "address": "서울 도봉구 방학로 151",
+    "updatedAt": "2026-04-14 08:26:46",
     "districtSamples": [
       {
-        "district": "동작구",
-        "price": "1,942원/L"
+        "district": "도봉구",
+        "price": "1,946원/L"
       },
       {
         "district": "서초구",
@@ -83,75 +83,75 @@ window.DASHBOARD_DATA = {
         "price": "1,952원/L"
       },
       {
-        "district": "강서구",
-        "price": "1,953원/L"
+        "district": "동작구",
+        "price": "1,952원/L"
       },
       {
-        "district": "성동구",
-        "price": "1,954원/L"
+        "district": "강서구",
+        "price": "1,953원/L"
       }
     ]
   },
   "news": [
     {
-      "title": "[뉴스9 강릉 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTS3Z5dVhyanpQNzdHa09iaGdneGdPUjdiT09nMXRUNm1GbUlzdDA5Vnlxc0Qwak9VMHFXamFaQWJ6bzd2TGkyRDdjVU1zUTBzNWFJTUFXUXFwZlE?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:13:00 GMT"
-    },
-    {
-      "title": "영국·프랑스, 호르무즈 해협 논의 국제회의 공동 개최",
+      "title": "경선 탈락한 김영록 예비후보",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mbmFrTTJncGhmd2dMWkxINlVFbUdNdnFIQm1JdmR2T3luU3BpNEoxeTZ0U2pyeWJJbHRpUHdBRFkyYmhEWU9UbzVBR0Z0TXdSVGk4ZEpIRFowZ0xXYjMwSmFoeWVQS2RqRTh0UVpJb2NTZTJwUl9YSw?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54bXljUmFndXdVanJUb2dLSFM0MzVjRWllSFcxMHZSOTdMdkJDeE50WlBOMURSd0ZlZnpKSkFtRHgwYkhTSEJDZHpsQUctT19LdGhoajNqdUxOcnBNX2V3Mnk0aTY3ZWIyMUFxTnNn?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 09:58:00 GMT"
     },
     {
-      "title": "태안해안국립공원사무소, 시민과 멸종위기종 살핀다",
+      "title": "싱가포르, 3년반 만에 통화긴축 전환…'이란전쟁 따른 인플레 대응'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUxBUlZDQkM3SEZYZmZWazM4MjN6MG1jNG9OZEpEQ2hjYmFFTXBIUkpUancycTVqbVRocExLdVRTOENRem1HUlB0b0s2Sl9SUTRPSS0zNUFUSHA0V2RiQ2xnUklJVWNBRm9sbUxrMm1HeUdOX2Vnc01qaUJsQmd1UDZIZmFsZ0FGcmtpUHozdlVrTWJNUnVfN2VJcF84M045NnJFWTA4RVlYdVJybW9QMlpyVG10ZUxC?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 12:58:38 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0h5c1FTVGZQTl9Va2VGZG0xYnFjR3ZrWUlJTkIyeXk3YUR3Q01sS3JFYkNqZ01kdzIyNy1KNHZRbjdFWFRCdldkcTZXZVVFNmFFSXNMZEx1R2JCRnRGMTBTRDg3WVVsQ3BzVWQ0RXB6U2NVSng4a1k0NjRQaVlVcUVlQzlXS2Q0Qnk4dElGdFE0Y01LUm54QzVmN05BYlZjemdYNEhXQjMyeFFpckZYdGYtQnBaVk1W?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 09:49:37 GMT"
     },
     {
-      "title": "종합특검, '김건희 수사 무마 의혹' 이원석·송경호 출국금지",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vQXpjS3hVZXFSZENRZGZsRkkzQ281b0xRUzJOZ1djdkFiZVFpbVowNFp3RjBydmxSM3dDYll0aS1JNzd0OWRBVm9yOVVwTmFTVVdR?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:37:00 GMT"
+      "title": "정부, 지방선거 맞아 AI 악용 가짜뉴스 집중단속",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMDVQMHFGck5xelJqZzhXazRxTUJqc2VSM1RGbVR2SFJpTEk0UkNEaE1vaUtrVVo2alZ4T3A5WnFMVmRUcEhNbzBrdzJlMkZSa0txb1c0VVoyZl9qR1lUNnUxNTNxX004T0R6ek5aRG9ZTEtKeHZSWXp2MVJzRUlTNA?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 09:40:21 GMT"
     },
     {
-      "title": "정청래, 완도 순직 소방관 조문…\"희생 헛되지 않게 하겠다\"",
+      "title": "환호하는 민형배 후보 지지자들",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lX3c1dFpGcVAwVk1TMUdwZWhsNE1nalNWcGs4R2wxb0lvMHJ1TER6VmJPRWFHTlFqRllUMlFScmtGZE1uVEw3MTFOQzNJN1p2ZTJvQnBaNVFraDFhZ3I1Si1XQy1hbXRFMmNUSDlB?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BenZUTFVNTjVxM2Njb3AyaGE3N3h2V1pkX1l2MEFmNU41WmdsbzZjRTlscXNRM3ZLSkdDWXkweVBoRFNsZm9pX19QUGlKRDl3eVRUYUc3WVN3Z1dpZDFqX29JMmFjUzlINmpXdXB3?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 09:59:00 GMT"
     },
     {
-      "title": "네타냐후 \"미국의 해협 봉쇄 지지···이란이 협상 파탄 낸 탓\"",
+      "title": "김민석 \"6·3 지방선거 엄격 관리…AI 통한 가짜뉴스 엄중 처벌\"[노컷브이]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Wdm5xU1pUbzViYVFfeno5UDdnU181WXlJSm9ZT2picE0yVnAwNEJuMXlUTVl5aEd0cE05XzRzdkdHVjQxWTMtbmZpVUlueU9BWVpoaExuZjRFdlkzLTlxcVZZckVFaDM4Q1E?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83cHJDTFpMRkluZEJLaDV4TmV1YzJfVFU1bDg4YnVRSnVxVklqNnE5VFRZWUJDUVhIdGZFUlgzdnZMUjJMRUp2ZFZqVXZ3WWVld3Aw?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 09:42:00 GMT"
     },
     {
-      "title": "아일랜드, 고유가 항의 시위 몸살…유류세 추가 인하",
+      "title": "[포토] 신동빈 회장 '1회부터 실점인가'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhUDREODdYb3JRTGVJa0Qtc0dUMEQzOWtBb2xMeERldndOczlTaDNkZVI5R1lvTHZ0OGZKOXc0ZXFUS2Y4RU0xTldaTU12YTdIQmtN?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5aWMxcmRpbldxQkYxbWhEMEVUQ0l1M3BBRnlHdHI2clpncTk4ck9yX3U2dGVrRDQxVWVzWVNoeGZWcG5veXdqUnUwNGVfNm9tamFfWmZnTld3VElzRmRfdnduV2FsY1lBWi1wajV3NkFydThId0Q5eg?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 09:50:00 GMT"
     },
     {
-      "title": "장수군, 국가유산 직접 점검…현장 중심 관리 강화",
+      "title": "[속보] 더불어민주당 \"전남광주통합시장 후보 민형배\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CN2FRVUZ2UnNrOGY4cWo5VlE3czlaMkgyejJ0ZnZwbTdrenoyWVdkQkFCQUFXY2JFcWdwVG44T1VSemFZNnJCeHpULVVoeGcyU19B?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN0JWcVh3Y3dNbTU3d1ZCeDdySHk0ZFBFcDdWMXljY3J0dXFEdy01SVpqa2VGQS1NTzFsZkpmR29NZk42Z3NOV2xpazl6LUhIaEFYYWtkQWczOTFTWWZJcDNkWTFXMjF3bDEtQ1BB?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 09:22:00 GMT"
     },
     {
-      "title": "순창군, 중동발 고유가 대응 총력…농가·기업 부담 최소화 나선다",
+      "title": "[속보]민주, 전남광주 통합시장 후보에 민형배",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XTmtiYV9BWUEzdl9QTzduN3paS2gzUERhcVRJc3h3SFdJUkgtUV9hdzhvREVOMzJmbTVVVkI2VVRPaWF2ZUVNMGRCbW5NbTZkSXduTk9icFBtLXVUNkRzXw?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 13:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKRWNma09OMVBlTTBMWTgwYjlaZHAxT1FGaUZxdkFsLUlMSlRfVWc1eDZsTzQ5b0Fxa0dFUUZRQ1VXY3FlNVRybUczZjZYaDRzMEpnODJ5UDJUV2o0UHExRWZMRlZTUXZpZnVKTUs0Qm9PQzQ2VzBmcQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 09:32:00 GMT"
     },
     {
-      "title": "단종됐는데 더 찾는다…아이팟 중고 거래 급증, 이유는?",
+      "title": "검찰, '이재명 명예훼손' 전한길 구속영장 청구",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQel8wM0RudTN0aGxuUHZpY3Jyei1WOVV1Rm80cEhjMi1rTy04SkFSTDJVR2hYNTZzNGhBQWhaRTRNeXROWjRselQySnRLWWdvbDlIc21vT1J5X21fLUVlRnRRcHRTM05nZWQ3cm9CeG9rVkk4Wjlhaw?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 12:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RN0ktX05OR0J2MHZ2N3UtWGJtX1hvNjdHLWYtRW8zdXM2bmY4dTFoUHFEM3BRdVZQZURjcUpwREo4MnhtVVhIaGZFVkVwLTZMQmVraEtiY2U0LTR2UGNCM0h6Q2hiSlhJY1lMUUhR?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 09:46:00 GMT"
+    },
+    {
+      "title": "민형배 승리, 시민 참여·개혁 메시지 통했다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kaThlclhXNDBpNUtPdWZnbVRQLVF0SWR6QWJVZDlhWkx1SkpqRUk3NmkxQm03TWVQN0JITkJSbkJMVFZ1N1FpU3BDbEowZnJXdjV4My12X0hYN0RlQUU0UGtQTzZwZWstZ0E?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 09:22:00 GMT"
     }
   ],
   "sources": [
