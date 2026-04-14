@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-15T04:55:50.290617+09:00",
+  "generatedAt": "2026-04-15T05:39:56.439596+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,60 +16,64 @@ window.DASHBOARD_DATA = {
       "change": "+22.04",
       "changePercent": "+2.00%",
       "direction": "up",
-      "updatedAt": "2026-04-15 04:52"
+      "updatedAt": "2026-04-15 05:38"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,548.42",
-      "change": "+330.17",
-      "changePercent": "+0.68%",
+      "value": "48,535.99",
+      "change": "+317.74",
+      "changePercent": "+0.66%",
       "direction": "up",
-      "updatedAt": "2026-04-14 15:51"
+      "updatedAt": "2026-04-14 16:20"
     },
     {
       "label": "S&P 500",
-      "value": "6,962.04",
-      "change": "+75.80",
-      "changePercent": "+1.10%",
+      "value": "6,967.38",
+      "change": "+81.14",
+      "changePercent": "+1.18%",
       "direction": "up",
-      "updatedAt": "2026-04-14 15:52"
+      "updatedAt": "2026-04-14 16:20"
     },
     {
       "label": "나스닥",
-      "value": "23,598.79",
-      "change": "+415.05",
-      "changePercent": "+1.79%",
+      "value": "23,639.08",
+      "change": "+455.34",
+      "changePercent": "+1.96%",
       "direction": "up",
-      "updatedAt": "2026-04-14 15:52"
+      "updatedAt": "2026-04-14 16:36"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,472.0692",
-      "change": "-5.87",
-      "changePercent": "-0.40%",
+      "value": "1,472.3900",
+      "change": "-5.55",
+      "changePercent": "-0.38%",
       "direction": "down",
-      "updatedAt": "2026-04-14 19:46"
+      "updatedAt": "2026-04-14 20:35"
     },
     {
       "label": "100엔/원",
-      "value": "926.62",
-      "change": "-1.38",
-      "changePercent": "-0.15%",
+      "value": "927.43",
+      "change": "-0.57",
+      "changePercent": "-0.06%",
       "direction": "down",
-      "updatedAt": "2026-04-14 19:42"
+      "updatedAt": "2026-04-14 20:36"
     }
   ],
   "gasoline": {
-    "lowestPrice": "1,946원/L",
-    "lowestDistrict": "도봉구",
-    "stationName": "HD현대오일뱅크㈜직영 영신주유소",
-    "address": "서울 도봉구 방학로 151",
-    "updatedAt": "2026-04-14 08:26:46",
+    "lowestPrice": "1,863원/L",
+    "lowestDistrict": "송파구",
+    "stationName": "㈜버드에너지 위례제일",
+    "address": "서울 송파구 위례서로 260",
+    "updatedAt": "2026-04-15 04:57:38",
     "districtSamples": [
+      {
+        "district": "송파구",
+        "price": "1,863원/L"
+      },
       {
         "district": "도봉구",
         "price": "1,946원/L"
@@ -85,73 +89,69 @@ window.DASHBOARD_DATA = {
       {
         "district": "동작구",
         "price": "1,952원/L"
-      },
-      {
-        "district": "강서구",
-        "price": "1,953원/L"
       }
     ]
   },
   "news": [
     {
-      "title": "앤트로픽, 이사회에 노바티스 CEO 영입…건강관리·IPO 정조준",
+      "title": "[오늘의 주요일정] 정치·정부 (15일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wZXRqb2YyNlJYUGt2eHc3emtOMGVaVFl5bzVhU1lKdnRIMWJNR055N0c4WG9YWS1PYy1qTVBZcTN6U0haS0ppXzE3SDNZU0lXNlhaS2UyT1dIUQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 부산·경남(15일, 수)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LNG9lcXpJeXU2aHRseThaMnlSLXJCUWFjMm9CZHdjdlo3ZmJBM0JmUDlnci1PTHdJWG05TExoQmdvSnd5Q1QwcHlFTjZLVjhOUnY4?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "프랑스 경찰, 반부패 수사중 엘리제궁 수색 시도했다 거부돼",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmh4ZFVzTUcxU0paNDRsNEZKX3NISjJBZEJjR3U4Z0lPdjRDZXFadU4tZFcwOFItTFBWWUxhdHdjdnFBeUptYTBQcVYtR3lrZVEzWDFZXzhwQXZfbk54M3JlTTZLNDhvUHFoZzg3Zm9ZM0s5cUdXZFd1RXVFVGZhY01PcFAtQjRiUnBtSGZ0eEYtVElJWXZLSEY2cFlXX3Fpb2ZEaG5PSXlrcXNwdTVYSW1zX19uV0Zm?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 19:13:16 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTW8wMUJLYmI4bkt4dTd0bHVHVDhlWUdKMFdKUUZSNWU1MGE1dW1QNXBSMUxrdHo0OS1CRjBhdFJLdG1MWHlMMHFiNzg0Q0hRRGU4LU5ZX21wRnNCLWZBSVVMUFlFekp0dWN0ekdQZC1IZWQ5cEQ1NUpLc290eHF3OW9GN1k1WTlQMjZ5SlZFOW5RQVdLeFhtcVl0QS1jYXFaNnZsZWozcDk3RTNYQWctalc2eEg4bXMxZ1E?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 20:18:54 GMT"
     },
     {
-      "title": "HD한국조선해양 '동남아 벨트' 더 단단해진다",
+      "title": "[오늘의 주요일정] 전북(15일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYWm9yZXRsOHdmZVBqZ29zR1hOZjMtRzlySE9LeUJLYUQzWHlMRk9WbzlDMjhKRFQzaEZSVTJLN2l5ME5rZGN3RjBVdGJUWVZ6dHZqcA?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요 일정] 울산(15일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tNW1lTkMzSXhjUzVLcFEzX3lKbkpEbzNSZVpRZHVZN0k5OE5FRDg2ZG5xTXJiUzF2VjNOZWdaMXhZRk5IYmV4dnJXMDBWWnNsaXczZGxjVUtaUGhUbzRFalA1ZVVTRHowTHBxMlBBbEo0QUZzdl9pNw?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 19:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ORnZ1SkprUjNJMER0VHlOSXBWVHlhcDFySEVQb0FRVjRwbzBoMVdXZW0wQW9UaTdrektlRXhJZlY0ZV9rbnNGYnNTdG9ZLUticTVj?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "스스로 해킹, 통제 뚫는 AI '미토스 공포'",
+      "title": "[오늘의 주요 일정] 울산(15일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03cWs3WVRjckg4dXNJMHliYmRXOE90MXpfUk1BaUhXZEc5ZzNHdENNSjdvaUN6Z3ZfWS1ZeF9uaE13cXZ3ZnRxellJZWRvXzNxU1E?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 광주·전남(15일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02TmI4S2NoSHJzWmRFd2loaUtHckRiLTNBSlpUV293NEhNZjg4bHlGZXlCZjNaSmNTcGZkRl9maFpqcnJ1Tlp0N3RuRXd5N3g3R0Jr?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 19:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rM1FnTnllOXVHaXdiSjR4TGZQak9MNGs2OTVUUzVOQWVpN2Q2a3UtWEVpbGtZdkdjZzBra2xxTy1HTlFJRTZrZmV3TDc2RG44MFFF?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "LCD TV도…삼성·LG, 프리미엄 주력",
+      "title": "[오늘의 주요일정] 광주·전남(15일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndVBvYVhncEFjel83RzhOMDZFdmlweU5VbUk1ZW9kSXRkN1NtZndVLUk1NFY2RXJCajhxbFhFSmVCR3NuaUdxakRKQU5fbE92ZGdINUNvdmhxbFJ6djRN?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요 일정] 경기(15일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Qa2lPSjBoZzRYQlB6alkxQkJhaF9fZDljQ3dRVzNnVDlPMV94VnVBcWh6dE91N1hZQmFJZWVUYTNLdlJnU1lBTndQVy1WcmVpdi12a2NTbjY3LVBYV0xUekVxVUViUGpHdHRyc2Y0MkVqV0RIWVBYLQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 19:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzVUY3VmlRM1dPY0pzWkRwUk5XTnN0UVZ1THVSZGptSW0tcXI3SFhHVTlnUS1RZE1WSUYwUlBQMEdaR3lWTlRKUk5QUXhmeEl1VS1j?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "[오늘 날씨] 전국, 오전부터 맑음…제주 곳에 따라 비 내려",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lOU9yOUJUQVpfQ2IwMWZBRmRwemxlUXhPOW9kMlJfNThZV2dNTGctanF5RFBleUpsdnRfTjRzNjNVWWxZU3dJX1lPcFNKUWt0VXNoS3hOQ2ptTkt4cV96X3R4Qm1TaHpkdm9BeFBEb3oyU3N2NVQxRw?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 19:23:00 GMT"
-    },
-    {
-      "title": "NH손보 건전성, 화마에 '불똥'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pM2RfZGlLMS1xN0lRMTZIUDBOQXBPaTVpeTVyQ1BRWk5TbVVfLUdwbWctMDNzREZSZ2JXTmFERmdaYlhBQ0VDSDhWY241ZnVqai1sWGZNUlZudVFCSTc2VEhXWE1TeGRPelg4UUxSZ2tMRXBuSVJrOQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 19:16:00 GMT"
-    },
-    {
-      "title": "워시 美연준의장 후보 재산 최소 2억달러…쿠팡주식도 보유",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcEQtRWN2cXNPd3U5TEZDWmpaVC1JWGc1b3ZxVG5sUi1TOWdLMFRqd3RDa28tcXp3RHo1MWhHcmtrYUlOWmNOVUNSQUIzZU1QQUpXaEdsaFdyOGgxR2JNTi0yWlM5ajFyOC1oaUVkYnMzSlA0WHVydnZlOVU1ZlVWRnJ1b2s3cENGa2dfUDFsM2ZoNlM1QktKZWktMXgwa25maDQ1aktoZ1dFUkRiVzJzV2dNSk5lcnVhR2l4VzNZMkhDdXhpcFJiZG50Yw?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 19:03:43 GMT"
-    },
-    {
-      "title": "美재무 \"中, 이란전 와중에 오히려 석유 비축…신뢰 못해\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9STG5xWnRDLW4zNzNuY09MNndvWmJ5WVEwTl9KNGptQ2ZxVlNvd3hDUFZ1MkppN2VnYVdMSG1pOVFPOFl0ZjBOcndqdnFzVUp6ZUtFaFIwQk9wdkQyMmxsNU5WcWZyeVplVWR4NjRmaHdMeGVBOXA0dg?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 19:47:00 GMT"
-    },
-    {
-      "title": "美 대통령 경제보고서 \"韓, 무역·안보 핵심 파트너\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rdHFoLTV5b29IZjdJam9rd21Tc2kwSk9uM09UZmc4YkZ6QUQzREM5UUp6dXl6cGhNVC1rYzc1SEE5UFZSTnVJb0ZWT2dDWmlLcUwzSUZ5STdNZWdLVDZNOG82dGhkT3N2LXJ6RDBuNVV6eXJPLXA3dQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 19:05:00 GMT"
-    },
-    {
-      "title": "이란 전쟁에 월가 IB들 돈방석",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wNWJMM28zYkxlV01IenhUQ3VhclM1LVNLNzJ0M2laOWxPbUNMYUVTU3ljMG93b21NWjc2ZENJT2ZFQ0Z5a1hqbzY0ZlhwakV3TW9n?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 19:18:00 GMT"
+      "title": "[오늘의 주요일정] 세종·충북(15일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81WS13YlFNLUM5Q1BrV3FtMWxzODRKUC1HOXdXeThScDlRdnBKX3c2eGs0a01XWFhORk5NZ2F1SzRKdjZubXFicUU5SmJZNkNKQ2xIa2pjQUp2Q20xcGNR?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 20:00:00 GMT"
     }
   ],
   "sources": [
