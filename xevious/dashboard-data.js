@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-15T03:48:40.040614+09:00",
+  "generatedAt": "2026-04-15T04:55:50.290617+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,51 +16,51 @@ window.DASHBOARD_DATA = {
       "change": "+22.04",
       "changePercent": "+2.00%",
       "direction": "up",
-      "updatedAt": "2026-04-15 03:46"
+      "updatedAt": "2026-04-15 04:52"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,489.77",
-      "change": "+271.52",
-      "changePercent": "+0.56%",
+      "value": "48,548.42",
+      "change": "+330.17",
+      "changePercent": "+0.68%",
       "direction": "up",
-      "updatedAt": "2026-04-14 14:45"
+      "updatedAt": "2026-04-14 15:51"
     },
     {
       "label": "S&P 500",
-      "value": "6,951.05",
-      "change": "+64.81",
-      "changePercent": "+0.94%",
+      "value": "6,962.04",
+      "change": "+75.80",
+      "changePercent": "+1.10%",
       "direction": "up",
-      "updatedAt": "2026-04-14 14:46"
+      "updatedAt": "2026-04-14 15:52"
     },
     {
       "label": "나스닥",
-      "value": "23,553.06",
-      "change": "+369.32",
-      "changePercent": "+1.59%",
+      "value": "23,598.79",
+      "change": "+415.05",
+      "changePercent": "+1.79%",
       "direction": "up",
-      "updatedAt": "2026-04-14 14:46"
+      "updatedAt": "2026-04-14 15:52"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,472.1850",
-      "change": "-5.76",
-      "changePercent": "-0.39%",
+      "value": "1,472.0692",
+      "change": "-5.87",
+      "changePercent": "-0.40%",
       "direction": "down",
-      "updatedAt": "2026-04-14 18:36"
+      "updatedAt": "2026-04-14 19:46"
     },
     {
       "label": "100엔/원",
-      "value": "926.79",
-      "change": "-1.21",
-      "changePercent": "-0.13%",
+      "value": "926.62",
+      "change": "-1.38",
+      "changePercent": "-0.15%",
       "direction": "down",
-      "updatedAt": "2026-04-14 18:39"
+      "updatedAt": "2026-04-14 19:42"
     }
   ],
   "gasoline": {
@@ -94,64 +94,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "美재무부, 러시아 루크오일 해외 주유소 제재 면제 기한 10월까지 연장",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2UzhCOVR3RXg0S0VGa3VFNFNzaEdOYnBhdFlVOWJETkRoSHRMdk9SX3B3bE1MT3ZBZzVvV2xXeGxRUVN2NV9OeTNfTy1kdEVCeHgxYWM5Smc?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 18:01:50 GMT"
+      "title": "앤트로픽, 이사회에 노바티스 CEO 영입…건강관리·IPO 정조준",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmh4ZFVzTUcxU0paNDRsNEZKX3NISjJBZEJjR3U4Z0lPdjRDZXFadU4tZFcwOFItTFBWWUxhdHdjdnFBeUptYTBQcVYtR3lrZVEzWDFZXzhwQXZfbk54M3JlTTZLNDhvUHFoZzg3Zm9ZM0s5cUdXZFd1RXVFVGZhY01PcFAtQjRiUnBtSGZ0eEYtVElJWXZLSEY2cFlXX3Fpb2ZEaG5PSXlrcXNwdTVYSW1zX19uV0Zm?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 19:13:16 GMT"
     },
     {
-      "title": "국내 주요 VC 4인, 2026 K-우주포럼서 우주 스타트업 투자 전략 공개",
-      "source": "브랜드경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rNXIyOHJwMnhOTGlmVzZUWDdxaFljN01WckFNcXFWRDdDQTM2b1h4SmJfLTltU1VpcmkzSjZYMENDUFhDeHRFb01MWnM?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 18:34:32 GMT"
-    },
-    {
-      "title": "선발 4연속 호투에도 경기당 1.75점 뽑는 'FC 롯데' 방망이 어쩌나! 김태형도 \"결국 쳐야 이긴다\"",
+      "title": "HD한국조선해양 '동남아 벨트' 더 단단해진다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UVWw1cExDMWk0dnFnQnRtOXg0VzNIUEJBXzJkOHZ3dTFxVkhMdl9fWGtFWkVLYXdqSXpOZ3VZekpiS0ZkUER3eG92QVVJQ2NwZWZ0WVZB?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 18:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tNW1lTkMzSXhjUzVLcFEzX3lKbkpEbzNSZVpRZHVZN0k5OE5FRDg2ZG5xTXJiUzF2VjNOZWdaMXhZRk5IYmV4dnJXMDBWWnNsaXczZGxjVUtaUGhUbzRFalA1ZVVTRHowTHBxMlBBbEo0QUZzdl9pNw?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 19:15:00 GMT"
     },
     {
-      "title": "고흥군장애인복지관, 4월 20일 ‘장애인의 날’ 맞아 주요 거점 3곳서 캠페인 진행",
-      "source": "스타인뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xZWNId1o0TnM5NFllR0dTYjJPYldUbV9kZzR0Q0R4eVRwdDEwUjY4ekgyS19vNmV5c0p1Tzd1LVdZeGdiNDVBWlJ1MkFCRGlDOWo5Q000SFRhbnN0SS1PTzNDN3UwOU1JcjV0NDJR?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 18:03:00 GMT"
-    },
-    {
-      "title": "비트코인 $74500 급등…3중 다이버전스, 랠리 끝?",
-      "source": "BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVVB6alRwWlBDOEZCSHNxSk42YmJOcWF6cGZDbVhULWI2WTRJem93NHVpN2NqYnh2UkxNTFNBREt6cVV3TF9RcFBCWDVKNDJ1TTN1ZzB5VTZGYzBfOXFFWnFNM1FwU3JxWWNicDhySGNIUWJmYmlNWEcySFNRYVpnT3ZGTQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 18:25:24 GMT"
-    },
-    {
-      "title": "라팍·엔팍엔 3년 10억짜리 '배팅볼 투수'가 있다",
+      "title": "스스로 해킹, 통제 뚫는 AI '미토스 공포'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CTVlqLWtXMkFkQTRsZGQzTWVlWE1OZUtXSThBUVlXbWNEM2VXTllfWkNzV1Z3VU90STdKbTFmeHd5dENQS1lZVDhRQTlrandBWF9nZXBrQnRvVTkzaExwNFpKRmQzbS1UemlwY2syZU5wMFpzcFBfbA?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 18:21:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02TmI4S2NoSHJzWmRFd2loaUtHckRiLTNBSlpUV293NEhNZjg4bHlGZXlCZjNaSmNTcGZkRl9maFpqcnJ1Tlp0N3RuRXd5N3g3R0Jr?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 19:15:00 GMT"
     },
     {
-      "title": "다우·엑손 등 글로벌 화학업체, 전쟁 장기화에 플라스틱 가격 인상",
+      "title": "LCD TV도…삼성·LG, 프리미엄 주력",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xNHhXQ3c3TDdDUXNaUm5EY1FZbUFYX3Y0QWIwUmZGSlQ2YWxDdFNJQ2NjVlV1bzJSSU01WVh5OTFGQ2N6VWJTRUpzTmpBTHVQcXFz?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 18:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Qa2lPSjBoZzRYQlB6alkxQkJhaF9fZDljQ3dRVzNnVDlPMV94VnVBcWh6dE91N1hZQmFJZWVUYTNLdlJnU1lBTndQVy1WcmVpdi12a2NTbjY3LVBYV0xUekVxVUViUGpHdHRyc2Y0MkVqV0RIWVBYLQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 19:15:00 GMT"
     },
     {
-      "title": "상황이 이 지경이면…'대전 예수' 와이스를 당장 선발로 써야되는 거 아닌가",
+      "title": "[오늘 날씨] 전국, 오전부터 맑음…제주 곳에 따라 비 내려",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xcU1lbjFFX2d5MV94azJtVlZyMXpFWlVGbDVGYlJiTWdVM0VPUjBPeWRMNWdOb25Bb1pKeF9lMXJMQWMzd0lSM1Nldm1zWkZGLXRuaTdB?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 18:21:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lOU9yOUJUQVpfQ2IwMWZBRmRwemxlUXhPOW9kMlJfNThZV2dNTGctanF5RFBleUpsdnRfTjRzNjNVWWxZU3dJX1lPcFNKUWt0VXNoS3hOQ2ptTkt4cV96X3R4Qm1TaHpkdm9BeFBEb3oyU3N2NVQxRw?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 19:23:00 GMT"
     },
     {
-      "title": "엔비디아, RTX 5060 Ti·RTX 5060 ‘9GB GDDR7’ 준비하나",
-      "source": "위클리포스트",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpTVVCSlozUjRRb3J1d09XLXBkaW01OWpmeEJHRjZ1cGkyU1plX1A4VDV5ZFc0N2ZHUlhJV3JWMXlrOHVWWVNaN1BLWUxLWUxBcy1KX3VtelBtZW5xYlZIR2kwdVlaV3JveTFn?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 17:56:39 GMT"
+      "title": "NH손보 건전성, 화마에 '불똥'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pM2RfZGlLMS1xN0lRMTZIUDBOQXBPaTVpeTVyQ1BRWk5TbVVfLUdwbWctMDNzREZSZ2JXTmFERmdaYlhBQ0VDSDhWY241ZnVqai1sWGZNUlZudVFCSTc2VEhXWE1TeGRPelg4UUxSZ2tMRXBuSVJrOQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 19:16:00 GMT"
     },
     {
-      "title": "삼성 잘한건가 못한건가…이기면 장땡! 박진만 감독 \"적시타 없었지만, 타자들이 집중력 발휘했다\" [오!쎈 대전]",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkhNMkx0aWhxeVZ3RGY2eUNQQmlGTjY4M2Z1UzJOcGxwOENlYkp0UTJqNXV2QUYwVkZtZUR6VU83c281QUtrc3pZRFNHazJLVncwTUVVZHBTdko5TGtLQkE3UFkxSTJaeGVtMlUzcldqMFp6R1JPanJxWDQ0UUVYcEdZVQ?oc=5",
-      "publishedAt": "Tue, 14 Apr 2026 17:40:00 GMT"
+      "title": "워시 美연준의장 후보 재산 최소 2억달러…쿠팡주식도 보유",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcEQtRWN2cXNPd3U5TEZDWmpaVC1JWGc1b3ZxVG5sUi1TOWdLMFRqd3RDa28tcXp3RHo1MWhHcmtrYUlOWmNOVUNSQUIzZU1QQUpXaEdsaFdyOGgxR2JNTi0yWlM5ajFyOC1oaUVkYnMzSlA0WHVydnZlOVU1ZlVWRnJ1b2s3cENGa2dfUDFsM2ZoNlM1QktKZWktMXgwa25maDQ1aktoZ1dFUkRiVzJzV2dNSk5lcnVhR2l4VzNZMkhDdXhpcFJiZG50Yw?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 19:03:43 GMT"
+    },
+    {
+      "title": "美재무 \"中, 이란전 와중에 오히려 석유 비축…신뢰 못해\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9STG5xWnRDLW4zNzNuY09MNndvWmJ5WVEwTl9KNGptQ2ZxVlNvd3hDUFZ1MkppN2VnYVdMSG1pOVFPOFl0ZjBOcndqdnFzVUp6ZUtFaFIwQk9wdkQyMmxsNU5WcWZyeVplVWR4NjRmaHdMeGVBOXA0dg?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 19:47:00 GMT"
+    },
+    {
+      "title": "美 대통령 경제보고서 \"韓, 무역·안보 핵심 파트너\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rdHFoLTV5b29IZjdJam9rd21Tc2kwSk9uM09UZmc4YkZ6QUQzREM5UUp6dXl6cGhNVC1rYzc1SEE5UFZSTnVJb0ZWT2dDWmlLcUwzSUZ5STdNZWdLVDZNOG82dGhkT3N2LXJ6RDBuNVV6eXJPLXA3dQ?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 19:05:00 GMT"
+    },
+    {
+      "title": "이란 전쟁에 월가 IB들 돈방석",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wNWJMM28zYkxlV01IenhUQ3VhclM1LVNLNzJ0M2laOWxPbUNMYUVTU3ljMG93b21NWjc2ZENJT2ZFQ0Z5a1hqbzY0ZlhwakV3TW9n?oc=5",
+      "publishedAt": "Tue, 14 Apr 2026 19:18:00 GMT"
     }
   ],
   "sources": [
