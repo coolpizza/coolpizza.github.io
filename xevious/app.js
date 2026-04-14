@@ -1,4 +1,4 @@
-const state = window.DASHBOARD_DATA || null;
+let state = window.DASHBOARD_DATA || null;
 
 const generatedAtEl = document.getElementById("generatedAt");
 const refreshPageButton = document.getElementById("refreshPageButton");
@@ -10,6 +10,7 @@ const gasCardEl = document.getElementById("gasCard");
 const newsListEl = document.getElementById("newsList");
 const sourceListEl = document.getElementById("sourceList");
 const REFRESH_STORAGE_KEY = "xevious-refresh-minutes";
+const DATA_ENDPOINT = "./dashboard-data.json";
 
 let autoRefreshTimer = 0;
 let viewRenderedAt = new Date();
@@ -181,6 +182,23 @@ function render() {
     renderSources(state.sources);
 }
 
+async function fetchLatestDashboardData() {
+    try {
+        const response = await fetch(`${DATA_ENDPOINT}?t=${Date.now()}`, {
+            cache: "no-store"
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+
+        state = await response.json();
+        render();
+    } catch (error) {
+        console.error("Failed to refresh dashboard data", error);
+    }
+}
+
 function applyAutoRefresh(minutes) {
     if (autoRefreshTimer) {
         window.clearInterval(autoRefreshTimer);
@@ -191,9 +209,7 @@ function applyAutoRefresh(minutes) {
         return;
     }
 
-    autoRefreshTimer = window.setInterval(() => {
-        window.location.reload();
-    }, minutes * 60 * 1000);
+    autoRefreshTimer = window.setInterval(fetchLatestDashboardData, minutes * 60 * 1000);
 }
 
 function initializeRefreshControl() {
@@ -221,7 +237,7 @@ if ("serviceWorker" in navigator) {
 }
 
 refreshPageButton.addEventListener("click", () => {
-    window.location.reload();
+    fetchLatestDashboardData();
 });
 
 render();

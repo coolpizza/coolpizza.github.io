@@ -1,4 +1,4 @@
-window.DASHBOARD_DATA = {
+{
   "generatedAt": "2026-04-14T19:10:27.049784+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
@@ -176,4 +176,4 @@ window.DASHBOARD_DATA = {
       "url": "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko"
     }
   ]
-};
+}

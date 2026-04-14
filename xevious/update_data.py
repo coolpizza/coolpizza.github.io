@@ -10,6 +10,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_FILE = BASE_DIR / "dashboard-data.js"
+JSON_OUTPUT_FILE = BASE_DIR / "dashboard-data.json"
 TIMEZONE = dt.timezone(dt.timedelta(hours=9))
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0 Safari/537.36"
 
@@ -388,8 +389,10 @@ def build_dashboard_data():
 
 
 def write_output(data):
-    script = "window.DASHBOARD_DATA = " + json.dumps(data, ensure_ascii=False, indent=2) + ";\n"
+    json_text = json.dumps(data, ensure_ascii=False, indent=2)
+    script = "window.DASHBOARD_DATA = " + json_text + ";\n"
     OUTPUT_FILE.write_text(script, encoding="utf-8")
+    JSON_OUTPUT_FILE.write_text(json_text + "\n", encoding="utf-8")
 
 
 def main():

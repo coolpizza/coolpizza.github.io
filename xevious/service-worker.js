@@ -35,12 +35,13 @@ self.addEventListener("fetch", (event) => {
     const requestUrl = new URL(event.request.url);
     const isLocalAsset = requestUrl.origin === self.location.origin;
     const isDynamicData = requestUrl.pathname.endsWith("/dashboard-data.js") || requestUrl.pathname.endsWith("dashboard-data.js");
-    const isPageAsset =
+const isPageAsset =
         requestUrl.pathname.endsWith("/") ||
         requestUrl.pathname.endsWith("/index.html") ||
         requestUrl.pathname.endsWith("index.html") ||
         requestUrl.pathname.endsWith(".css") ||
         requestUrl.pathname.endsWith(".js") ||
+        requestUrl.pathname.endsWith(".json") ||
         requestUrl.pathname.endsWith(".webmanifest");
 
     if (isDynamicData || (isLocalAsset && isPageAsset)) {
