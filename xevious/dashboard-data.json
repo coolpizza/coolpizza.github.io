@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T18:45:22.577199+09:00",
+  "generatedAt": "2026-04-15T20:44:01.659693+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@
       "change": "+30.55",
       "changePercent": "+2.72%",
       "direction": "up",
-      "updatedAt": "2026-04-15 18:44"
+      "updatedAt": "2026-04-15 20:41"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,478.7951",
-      "change": "+8.39",
-      "changePercent": "+0.57%",
+      "value": "1,477.0351",
+      "change": "+6.63",
+      "changePercent": "+0.45%",
       "direction": "up",
-      "updatedAt": "2026-04-15 09:37"
+      "updatedAt": "2026-04-15 11:40"
     },
     {
       "label": "100엔/원",
-      "value": "931.04",
-      "change": "+5.04",
-      "changePercent": "+0.54%",
+      "value": "928.95",
+      "change": "+2.95",
+      "changePercent": "+0.32%",
       "direction": "up",
-      "updatedAt": "2026-04-15 09:37"
+      "updatedAt": "2026-04-15 11:38"
     }
   ],
   "gasoline": {
@@ -94,64 +94,64 @@
   },
   "news": [
     {
-      "title": "'미토스' 충격에 전세계 비상…AI가 해킹 공격",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZVYwT0t2OU1LdU10d1R1alpXTG9zWU9pMnVKMHFFVzN3WElZQUF6ZEthdDNrN3ZnTGVqaFdUVEV4ZWNyY1pZNTV2M0ppSUNuT1dGSGVHM3BOa2w1cDNwWXBpTHYzdzg?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 09:42:13 GMT"
+      "title": "[뉴스분석] 인천 땅꺼짐 주요 원인 살펴보니 ‘하수관로 손상’",
+      "source": "경인일보",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41NGxveHlnQzNlRHo0SEE0YVBpTWt5VlNnS1daaDhER29EWXMxYVZveUQ3S0o2YVBQWHlXRVk5OThwNzI4OElqVFNhNENaN2lqWFE?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 11:07:02 GMT"
     },
     {
-      "title": "법무부, 업무회의 생중계…법무행정 신뢰 제고 기대",
-      "source": "법률신문",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wbTVQZjBiNjlveGJkcm5LMWVTdm56WEJEcjJxdEdBV2p6NUxfUktHS0VqZWRQRUJiMDlvc2J4dzRRWWhYd18xemNYY3dHNFRoeEhUZE12MVBYcW5Pd0FKVjhzelVDT2hDcFNvb2Nn0gFyQVVfeXFMUE12NGxxTlVhVld3Z0tnS2p1YzlYYTlzdHFHbmNmbUtUdmtQQXdCcWN4M0pCam9BWGphc1JBN3V6RnRuVWFtTlk1VmVBUjNXeEZLdHAxTlNsR0ZfaGtnQThsT0d1UWV4ZzhnX1JmQzdJNFJn?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 09:07:49 GMT"
+      "title": "[뉴스7 부산 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZFJsSzM5ZWoyN09MeUwzS3hKSnRDNnhzMEx1OGVLa2Y3NmZwZms1U1hQbi13bnZ1bEgzOU14OWxfcjFVdjR2U29tdmNZRUQ2UnppLXN1WGxzd1k?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 11:01:00 GMT"
     },
     {
-      "title": "원유發 공급망 차질에…日, 동남아 국가들에 15조원 금융지원(종합)",
+      "title": "종합특검, '김건희 수사 무마 의혹' 심우정 전 총장 PC 압수수색",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjMnRvUUpiTmNBdmJxUFJ3V1E1N1VKYllvTjFLbEpwdEJ4WjRGczFJN0lOQVUxTjBIQW9iM04tVVlraVpCMFVVS2ZPb2ZlUHY0QUln?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 11:37:00 GMT"
+    },
+    {
+      "title": "[비하인드 뉴스] 국힘의 적…한동훈? 출마 선언에 '내전 발발'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZckZ4aGVPN011OUtsQ2toVmp2XzY1cXAxUEozS3VGcGl5MUxjYmhpb3JRd1JDa29RWDJTX09HZ3hrV3VDVDBZWXg2QUNrTWFqSTBB?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 11:06:00 GMT"
+    },
+    {
+      "title": "[비하인드 뉴스] \"안될 사람한테 공약 왜 물어\"…이정현식 황당 화법",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HSkUzVVRPZk16SVl2eUhxMmR6T1dvWHdNTFVjaFo4Yko4MFZaRFExcHJqMjgtLXFxaXlwaXNRN1c2YzF2NlRwaHNnYVVHS3VGWktj?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 11:07:00 GMT"
+    },
+    {
+      "title": "[포토] '2회를 못버틴' 양창섭",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XLUlLZUhKbkl4UHdfZ09UTkVzdWdPWnFTMU1MWkNuaVNuVVpMUE82bVlCaHpQX2JKYW1qMDBzTDUwT1h4LXgxYnFnNEZCVlRfdGd1ZXFn?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 11:24:00 GMT"
+    },
+    {
+      "title": "트럼프 \"4월 안에 이란과 종전 가능성 커\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrQ1hjSER4c1VHNUhmQVdxRmJNem4xbDZIVEx0MFFxeVVLODNkUzNIZm9KQlRzRWQ1NkZidnRaSmJBWXpQNVFWMEdSUmVhaGFDSU4yamh5TERxNXZOY0FmbQ?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 10:58:00 GMT"
+    },
+    {
+      "title": "에르도안 '美·이란 휴전 연장 노력…이스라엘 방해 말아야'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTTdsSk9TUkE0M3ltdno2bTNwVmoxaHN3MUlLdmJobkwyVjZwRF9lOHpjc01lRWNkQlRiYzU4ZlZja1hiVXZBaWRhQlJNSUk4NlktQ2NIa3ZvckhXYmc1MndPckxSdVd4Mkg3SElKOTJCY1J5UDZBMDFqWllFaXZpQm8tNWRBY2UyZmJ4Q0JaUWhrem9nX1RnaGdrYmxtOW5CMi1SbUx1Ym0tY241X1JYZnFMRDg2QXQ3RU1v?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 09:39:43 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORklPUU1jUEtiT1ZsRWZieUFMd3JEcHFlQUtEbVhuQWJjdFFZQ2tCRDJpdXlCVVBtLWlQR0tzcXcxSVB5QTlLbjE3TV9veTF3SnNWQUdVNzNhVG0ybjNTUUZFbTNJZzVvQWFvVklHWGVHUWJOdmUxejBtR3U4NF9mOW10d0VPRGI2WEZ2cXdTemw4dUt1RmhLRFVjbEhRNlByOHFHQlJuSDBzcThvNDdKXzduWEFjYXhk?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 11:30:37 GMT"
     },
     {
-      "title": "AI-양자 하이브리드 플랫폼 구축…엔비디아 전용 모델 '아이징' 출시",
+      "title": "박수현, 민주당 충남지사 후보로 확정",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NSWFQc2lIZlAtbVZJV1Fabktsc0V4ai1YTGJpNkc3elFfR0JLM3ZwUjN1WGZ2bFBoa2tDM0wtZmlUc1Ruc0VJQ3NLanNJbnZxdjBB?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 09:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HR0RibVFLUnRCSkp3RnRxVDFscDRVUUU2STZmcFE0czhUbExfaUh0b1dsZ0JXbUJqZU92YUhBeVZhWWp0dVhTdzZ2QVFhUHZVS3hr?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 10:46:00 GMT"
     },
     {
-      "title": "K-뷰티 성장 축, 중국서 미국·유럽으로 이동",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ycWxTUFUwb3hydXNSTkpXYlBrS1NjSnFxVzFid2JCWUJfSlBmZms3Y1FPckZIQXhQdFg4eFVCVFdTZTdtN25TRGRkWndZcENGV0N2SDBldzZJcTNuUzlnSTdZNDRJQ0Z1eWRR0gFvQVVfeXFMUC1ibllGbFE5OHNJQkNmb09aakZPUm9NMXk5Rml4WVQ2TjF3aVctWTkybVlYLV8xdl9TbEVsTkc4Sk1iMmpTa1VuNEVnS0QxaEV0TWFpcHNoX2txeHBxSmdQMWpVdkVPenJUZG05RWN3?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 09:00:00 GMT"
-    },
-    {
-      "title": "법무부, '월간 업무회의' 유튜브로 생중계",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94QTFFZEJtX0Q1VWU2YnZMamh2Uk9kbzJjSl9DRENhUHc1dm5VOGU0Q0Y4ZkM2dElDMXJKbkZHM1F0OFFuUFJWSEIxVXY3dzJnWlRCMTlDelFEWHN6QnVpQWI5LS1JWTQ?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 09:01:06 GMT"
-    },
-    {
-      "title": "포스코이앤씨, 전쟁 리스크에 공사비·공기 지연 사전 공지",
+      "title": "이란군 '홍해 봉쇄' 첫 경고…'美 해상봉쇄, 휴전 위반 전조'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTExsNkF2QWlSVTBYam5HdTZrVU1hYlFrQWhIbEYtU25OVzRXSElLMUp1NDdxSDlEQWdhQVF2cGFqM1M1eWcyX2h5R2NVbkZKc0owdGpyYzRNNDVNNktrUUZRTkVkSTNaT1hGS2FmcG9VTjk2M21CTHFGZzlGS0VkUG4wX3dGUUtIVTc1R3QwRUtHRzVQUGFGS1QxQ3hSZGN1Y2k3cTRua2VvWVNkcHF1akxhbWJUVHVMU0E?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 09:30:21 GMT"
-    },
-    {
-      "title": "현대위아, 현대로템에 방산 매각 추진…시너지 노린다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zOV9abmhzRWpRZ3cwSTV4RjVrcFF5ZWRpREQ3UEFLM29kaVVQOTZZYldFZEUxdU5hTjZlaHJ1WFgzS3Z1RDRRZzV4NXQzOG03am9r?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 09:19:00 GMT"
-    },
-    {
-      "title": "박수현 의원, 민주당 충남도지사 후보 선출",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxSWRTSUdxSk5aYV9DbmNNNjJjWGRjMkc3Zk9STGFyTXgxOXEyaFRPLU56dW5lamhpOVpaV2VWSk04LVlQdVV0cE0wVjRCMHZucjhsMWotSHFCV2ViUzQ5WVhrNEZNaEtCWjNpc05R?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 09:38:00 GMT"
-    },
-    {
-      "title": "\"부딪치면 제가 정리\"…李 대통령, 규제합리화에 '드라이브'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UY004LUNqMkJRUkxCTHk2cVliRF96UVNWZzc3cnFhSkd5dlhRb1ByWlc5c0hEUGRHRGpWck1mUFo4ekhoNk8ybDZfTlV5WDAtWmdZ?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 09:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbkVnMmpNR3l5c2lVZFhNQnNnUnNZSThPNndLNmdYS3Rocy1mSDhRb3FjdUtwdFhIZGtWTWxaSU9PSG5GU3c1UTlZcUY3c3RzaEotenFZMGxKd0EwaDh1WlJlT1huM0FMMm9xOGdOOGhPMGNLQXhpZ05CVmFFWnlka3Q3azZhLTVuNGhGblBhSE9BSU54c3NHb0xkTHFQclNnM01HVEVoa1JKUi02Si1GUnE1dUlWbExzVkNhTzFHQTJ3aGljRWtWcw?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 11:10:21 GMT"
     }
   ],
   "sources": [
