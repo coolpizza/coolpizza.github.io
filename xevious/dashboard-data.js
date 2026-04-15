@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-16T08:03:34.513241+09:00",
+  "generatedAt": "2026-04-16T08:44:05.295111+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -13,10 +13,10 @@ window.DASHBOARD_DATA = {
     {
       "label": "코스닥",
       "value": "1,152.43",
-      "change": "+30.55",
-      "changePercent": "+2.72%",
-      "direction": "up",
-      "updatedAt": "2026-04-16 07:59"
+      "change": "-0.00",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-16 08:40"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,475.0792",
-      "change": "+4.67",
+      "value": "1,475.0700",
+      "change": "+4.66",
       "changePercent": "+0.32%",
       "direction": "up",
-      "updatedAt": "2026-04-15 22:49"
+      "updatedAt": "2026-04-15 23:34"
     },
     {
       "label": "100엔/원",
-      "value": "928.45",
-      "change": "+2.45",
-      "changePercent": "+0.26%",
+      "value": "928.72",
+      "change": "+2.72",
+      "changePercent": "+0.29%",
       "direction": "up",
-      "updatedAt": "2026-04-15 22:56"
+      "updatedAt": "2026-04-15 23:39"
     }
   ],
   "weather": {
@@ -68,24 +68,24 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "10.2°C",
-        "feelsLike": "8.3°C",
-        "highLow": "최고 23.4° / 최저 9.1°",
-        "humidity": "69%",
-        "wind": "4.9 m/s",
+        "temperature": "11.6°C",
+        "feelsLike": "9.8°C",
+        "highLow": "최고 23.5° / 최저 9.0°",
+        "humidity": "65%",
+        "wind": "4.3 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-16 07:45"
+        "updatedAt": "2026-04-16 08:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "10.6°C",
-        "feelsLike": "9.0°C",
-        "highLow": "최고 25.7° / 최저 7.3°",
-        "humidity": "74%",
-        "wind": "4.3 m/s",
+        "temperature": "12.8°C",
+        "feelsLike": "11.8°C",
+        "highLow": "최고 25.7° / 최저 7.2°",
+        "humidity": "67%",
+        "wind": "2.0 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-16 07:45"
+        "updatedAt": "2026-04-16 08:30"
       }
     ]
   },
@@ -169,10 +169,10 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[AI기자의 News Briefing] 4월16일 오늘의 주요 뉴스를 전해 드립니다.",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NTWNRcVF0VTYyaVlhdGRFdWlGX2Z0RXo5c202andvejZ5NEh4Z0J6azFnQnFQXzRoekNyV3dDeF9uUVZGY25iWlA5X0t2SE45V3cwcWExVU9FMjR6TFFXZmdUeVJYM2dwOEE?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 22:10:04 GMT"
+      "title": "[전국 주요 신문 톱뉴스](16일 조간)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZW1ubHBORmo2cElFaS00bUc3ck9pNWVtR0MxbWhqQi14Mmc5Z0JURWphUFNqRU9uWDc0OHMxSl9QMkEwaVFCcnBkd2IwNDBlaUJvZEtvd3REcDDSAWBBVV95cUxNQ0tZTW5KMUJSb2gxSEpwV2YwOEY2blNscmZsQnZuMGllYTE1aGVneTJCNnU2Z1czS2tkbGxDeWY2R0JrbEllWU0zbGtkdlN3YnR1WTdUajU5X2hjMHhURTY?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 23:00:02 GMT"
     },
     {
       "title": "[뉴스광장 제주 오프닝]",
@@ -187,46 +187,46 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Wed, 15 Apr 2026 22:53:00 GMT"
     },
     {
-      "title": "IBK캐피탈, 기업승계 펀드 출범…정책금융 투자로 확장",
+      "title": "낮 최고 28도 초여름 날씨 지속…중부내륙 중심 일교차 20도",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamtEYXRaa1lNLWIwRGN4cWZYNXc5Wk1HOEdzVGhnYV9xaFU3Mzc5cFgtLUcyYlI5ODFWd0tLZ2Uxc1Z6RkQtVXpURG1BRDJCY21oVERpbDd4VXFOb2l4bnF1ZDNpQTk1eVhrY3JEV3ZZNDhBc3R2X3AxSEc2NEJzY3ZGVUlLZ094RVBHRFJjLWRRelc5MEt1VG5saGRVVWx0a3VpcXlVWXVBZnlyU2JSTk5tdmIzeGpE?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 23:01:07 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ29sNmdMSDh5QmpBX3praGdRRURJTWtnWS01TUszVEJCcXlFMlJaVGFnM19QWFBCLXNSLS1uQ0NfcURCbHFobzF5d3ZaYmhMS3VXYmJ6UmZWcExGczlLZ0hJVzA1SmVOUnU2VkhpaHhzWHpDMGlpdXZNMVdXTTdNd3FWUUZTVWFhSXo3cnpYVXBrWWdBdERyOWQ1V0NCb3RQeW9rSXExMzZWalFhUG11elk0aTc4TDZT?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 23:37:04 GMT"
     },
     {
-      "title": "소각장 확충 수년째 표류에도 인천시 '뒷짐'…지역 갈등만 커져",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFFhaUxaUVpzUmwteC1YVXBENkx0eWtETXBqUHpFRFI3VVI3azJ0UkRTbV95UkJQTXBIVFQ2QnBXMFUyLU1mbEFhSEJpZkY4b1JieU9TT1hlRzFFb0ZMa3A5WWM4Yzdyd3RhU2k5eUw4N3d5aVBTY0VXYmFpU1FlSllIX1phUGowdkRKdnJlcV8zZmRCN29fWFRKemF6TjVvVGhhMlhteFNoRjFNZDRmZklZc29iclI3?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 22:21:14 GMT"
+      "title": "[전국 주요 신문 사설](16일 조간)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yVFl3ekw3YzFrT3dYckllSEdrYkpQdnBWeFlMb2kwamZRRXJUeGRFcHI5S0M5ck9ac1R2eE5PRXFhcXQ5NC1kM01oaXZ5VW1zV2VvbHNHVjM3cEHSAWBBVV95cUxNeG9CUFRCNWw3Q042SS1QZ1R4YkRycXZhajZPQTZFY09NLV82T0hVSkZfVFZUV0hERGtsaTVwOGppOXpNSEVQQWRoeDRIMW9SVWY1TzVUY3EweXJ1NXZEVEw?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 23:00:01 GMT"
     },
     {
-      "title": "4월 16일 굿모닝 MBN 주요뉴스",
+      "title": "일본 3대 메가뱅크, 해외 결제망 경쟁 가속화",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSDRVV2N2U1pKc3ZfS2NCS1dCb2lPa2VhcTAtSDFtYVVFTWt1SU5Wd2IxZXVJY09SU0NWei1wNW52UmxtOGlIT3Mzc3kzQ2dkUTBQLWc2ZkRybDhuaTQ4Y2txRHRvRWh2TkE0TFp6MjRKSks3aHcxbVN2aWUwR05pY2JHWmU2VTN3VkFReEFUR2dwSS1CdVA1blhRb1pEOGd2SDBBVDNweDJyZEFuMjkwZ2Y2cU45Vk1UV2c?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 23:36:11 GMT"
+    },
+    {
+      "title": "신안군, 적극행정 경진대회 개최",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lSUEyNm5FMmpZcXZTeGdCOXZCSWRjaTlMTHdqLTRVV0hsaTJNWVhqXzJRcHVOZnBETHdOVHh5MXlReWVkdTMxb3k0VzBsLTFiOGpn?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 22:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PemJMbHUwZ0taaEJGVEJuVVRVZTNxN2tBTDloNkI5NTVsMjdQbXFlaTd2dUppTW9lX29mTG5wcEZLQ3hDNHphZHBFOFVqUHJUc09WWjVySXJ2bGVZZENlS0tFVXdBUDZiVGwtclFMeVpqUHRLRWtmQw?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 23:31:00 GMT"
     },
     {
-      "title": "칠곡휴게소 '안전한 교통문화 정착 힘 모은다'",
+      "title": "에스엔시스, 거제에 친환경 R&D·생산 거점 구축 나서",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQam4zY281WGpCaUgxY3FiaW1NMkFWbFhzZThYQWJ6ZWtNYjR1TDdZR2ZUX1hRSm16aVl6aTZHRkU5QktKMFZpM3o3aGlqZ2k0UlBsUnk0VmRPLVlNRmM5TFJLbERJMnM2eXRVMmhOVmtzb3MtVDhFdFEyRkdoYVU0c2U4TVFrSWxSQ1hXQ21FR3hkUVpLVHdMRVdVUndReVlaWUVCbXc2WTdpWl8yUTlranRQWHQ0bVhD?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 22:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1RqMmM1bGhiZ1ljY2ZuYk9fQ3A2bEJDWUN4NnZzSzM5NkpVS2hkbGw3VVdPYm1wZlNWOXk4YkVCeTNKV0hNUlM3VFN2WFdpaEFnQWpvaS1uRFFQSE9RUlN0VWV2aWxsRWd6X21IaER4RlZkSWRDc1JBWFhGYXJ5Und0YnVWTU53WjBPTW1vY0JhaFJGWDJFQ0Z6T2g1T3VMNngyMDMyQWlNTzVURm5qQTVHXzBnTVE?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 23:31:47 GMT"
     },
     {
-      "title": "[오늘의 증시일정] 트리니티항공·엑시온그룹·캐리 등",
+      "title": "삼성전자, 독일 프랑크푸르트서 '2026 유럽 테크 세미나' 개최",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jcG9nQnEwZXNpR3ZTTW91Ul9hUnhzSk9YN1VzV3NaTVdDeTFPbWdhS3lETU12LVVMd0Nla3FOT2I4M0IxVmMzYk5nSFNFUmhFOUFz?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 22:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42X0ZUVDI4anlHX3lSVTF0V1JGaFhSRTA1RjBwcWltUXRlTmluajFZeXB2RmE2SC0yVGQ4UFV6V3ZKU0NxdTJsR2pOX2ZEak5KYXNF?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 23:39:00 GMT"
     },
     {
-      "title": "ESG 공시 코앞인데…인뱅 1호 케이뱅크만 하세월",
+      "title": "듀스, 故김성재 생일에 신곡 또 하루 공개…과거·미래 조우",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdDZpWGdHWFdsMy03LWdLbHZESi15ZWE0SDhYbzFUOWliX1FwbjY0eGhYWkJXVnY1SFNNeHU4U2VWVXlTdFExOERkcHZUYXNQZEtGS3NhY1l0RFF4TE40bnRDeXhDb2p2MTdpLThWTk8zeHgzQzFvMVB6WEdWb1UxT2xVZUh4TFV0NUNMLXRvQTV3aGxTR3lvTnFxdDFDYzExdjcyOTZfQldIZWZnblhHWWoyc2lublJv?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 22:11:26 GMT"
-    },
-    {
-      "title": "iM증권 \"한섬, 백화점 턴어라운드 최대 수혜…자체 IP 경쟁력 부각 '매수'\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DZUE2SjhacUdvRjdtZWU1WXpnaXdxTGQ0VS1RNFR3UTFmYUtNRXFOU3JlUzVNaFhtTnBsM2xRVW1sU0RCT3lxb2JGODhqaHRMRGhR?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 22:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3UtTkl0UXdYczctZDQ1VXJHR1dxU2l1M01fVkV6WmNNdkctTHIzRXV5YVVJXzR0VU40UzNHc1RvWGIxZzc4eUt5MExRSGxtVnZIVnV5Ri1lNlV6M2xRQ293Tm1tR216MmtEZDFUYk5LbzFINlh4ei13d0hjLXBwRHpNMXNHZ1d0cEtBd2VKb1I3TUY3c253QU8zMl9iVnpRQkdtcS1XSDMyM2t6eXN6b1MwOXktTWtk?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 23:36:11 GMT"
     }
   ],
   "sources": [
