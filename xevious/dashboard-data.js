@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-15T21:08:39.490349+09:00",
+  "generatedAt": "2026-04-15T23:16:04.564888+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,51 +16,51 @@ window.DASHBOARD_DATA = {
       "change": "+30.55",
       "changePercent": "+2.72%",
       "direction": "up",
-      "updatedAt": "2026-04-15 21:08"
+      "updatedAt": "2026-04-15 23:14"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,535.99",
-      "change": "+317.74",
-      "changePercent": "+0.66%",
-      "direction": "up",
-      "updatedAt": "2026-04-14 16:42"
+      "value": "48,379.89",
+      "change": "-156.10",
+      "changePercent": "-0.32%",
+      "direction": "down",
+      "updatedAt": "2026-04-15 10:13"
     },
     {
       "label": "S&P 500",
-      "value": "6,967.38",
-      "change": "+81.14",
-      "changePercent": "+1.18%",
+      "value": "6,982.56",
+      "change": "+15.18",
+      "changePercent": "+0.22%",
       "direction": "up",
-      "updatedAt": "2026-04-14 16:42"
+      "updatedAt": "2026-04-15 10:13"
     },
     {
       "label": "나스닥",
-      "value": "23,639.08",
-      "change": "+455.34",
-      "changePercent": "+1.96%",
+      "value": "23,778.20",
+      "change": "+139.12",
+      "changePercent": "+0.59%",
       "direction": "up",
-      "updatedAt": "2026-04-14 17:15"
+      "updatedAt": "2026-04-15 10:13"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,477.2592",
-      "change": "+6.85",
-      "changePercent": "+0.47%",
+      "value": "1,476.5500",
+      "change": "+6.14",
+      "changePercent": "+0.42%",
       "direction": "up",
-      "updatedAt": "2026-04-15 12:02"
+      "updatedAt": "2026-04-15 14:11"
     },
     {
       "label": "100엔/원",
-      "value": "928.62",
-      "change": "+2.62",
-      "changePercent": "+0.28%",
+      "value": "928.47",
+      "change": "+2.47",
+      "changePercent": "+0.27%",
       "direction": "up",
-      "updatedAt": "2026-04-15 12:00"
+      "updatedAt": "2026-04-15 14:07"
     }
   ],
   "weather": {
@@ -68,24 +68,24 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "15.3°C",
-        "feelsLike": "15.0°C",
+        "temperature": "13.6°C",
+        "feelsLike": "11.6°C",
         "highLow": "최고 23.3° / 최저 8.3°",
-        "humidity": "74%",
-        "wind": "3.6 m/s",
+        "humidity": "63%",
+        "wind": "8.5 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-15 21:00"
+        "updatedAt": "2026-04-15 23:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "14.3°C",
-        "feelsLike": "14.1°C",
+        "temperature": "11.9°C",
+        "feelsLike": "11.6°C",
         "highLow": "최고 23.7° / 최저 7.9°",
-        "humidity": "80%",
-        "wind": "3.6 m/s",
+        "humidity": "86%",
+        "wind": "2.0 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-15 21:00"
+        "updatedAt": "2026-04-15 23:00"
       }
     ]
   },
@@ -169,64 +169,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "이란 외무부 \"파키스탄 통해 미국과 계속 메시지 교환\"",
+      "title": "4월 16일(목) 안동지역 주요 행사 일정을 알립니다",
+      "source": "안동인터넷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkWmprNDQ5dVJ0OXdzZzNRc1laNGlVNnpjOFA1NVg0Y0o0bVJaRTB6b2hZV1ZGNWpuUUpvMDlERXJVOEozc0V4bFdPWHBnTElOSkYxM2gxSk9TMmozNmo1SWZkQ09MT20zU3c?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 13:52:04 GMT"
+    },
+    {
+      "title": "'김호령·김도영 홈런포 터졌다' KIA, 키움 7-5로 부수며 위닝시리즈 달성",
+      "source": "무등일보",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nblF6YkI2WlVacGkzRkQ3ZHJiMzJ2Ri1ZSHJHdmlvcmpHaGNxa2FvT2J0eDNOZ3kxaXRfOUZPcUJHcGdjcmhjQnNIZzA?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 13:39:00 GMT"
+    },
+    {
+      "title": "\"AI가 은행 금고도 턴다\"…미토스 쇼크에 美 월가·정부 비상",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81Qkl3U0VuUEJxXzRaaDA4Mnp5ZTBxQnRxWTNVLU9DdWh5dGVWZWNNN3ptd3lOMWU3MV9BV2JhWU1xcXU5TXZhWFdRM2xwaVBrWVdhMEt5VU4?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 13:40:39 GMT"
+    },
+    {
+      "title": "이란 \"파키스탄 통해 미국과 메시지 지속 교환\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15NHRfSVJkdEM1dEhKSWdXYi1ET1dfVjZyQnBoSjBxSlpYQmVsc3NaRFUxbEhDVHl4UWdudHlkdlRhTDBYV1oySDUybHZ1eGtyNmpkNlVIZ2ZQYi03MWtncA?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 12:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53RWFjbkxwQlprTFI3enNNOU4zdTk0cjNVaUp3cnA3SzE3enRCV2FleHVVR24tandRQW1lbi0yeGxUMEF2Ui0wa3NVZ1VmYW9SWFlN?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 14:05:00 GMT"
     },
     {
-      "title": "김해시-이든인터내셔널, 341억 규모 투자협약 체결",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdDJtSWc5ZVVicXNiYXFQSEtqdFQ2RU0zV2pyX1lyTUtIbzI0a2FDdjAtTVRpTk5pdzQwOTBwSmZWOFJyNzRXLUJBZzU5cWNfNGxjMlUxVk5KYmVkbS0yQmppWHpFRDdEOFhmQ01ocXMzRldYMU93TjUwWWRwOXR0V3lRcnFWejBydF9yVkFnd1U4eVU5eVdSbzNDa1hwd2tIUEYxTEYySXVWY0M2bGt6d29VZFI5bFhF?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 11:50:31 GMT"
+      "title": "한국 女골퍼 아직 우승 못한 ‘까칠한 LPGA 대회’…‘신예들과 한판’ 김효주, ‘골프 한일전’ 황유민, ‘한국 선수끼리’ 전인지",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82aElOdE5fcmRPOENzaGE2c0pqQl9pNlV6OE11NWhFbkxkSjBYR08xY1pPQUxiRU5BbHE2S1l0emlzTEJvQzFHZFlqSDV6MEhJVElrS3pVUF9XNkQtRThV0gFTQVVfeXFMUFZ6LXBiYi13ZWlVTU9neEJoOXNHdDZISnhqSmdoUnAtUHBOY0JveUN4Y0RBMUtha3JMQjh5MTcyenJaYjBsNERMSlY3OUpZcmMyWG8?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 13:45:44 GMT"
     },
     {
-      "title": "한국외대 'HUFS AWARD'에 김세원 방송인·백창호 이사장",
+      "title": "이란戰 협상 재개 기대감… 비트코인 5% 껑충",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93T1dMMkwyenpBZjVzSzIzQWZmYkRVeWJwaVRNZElLTGdOYWdwOF9hVjA4Y2k0V3l6V3RwRUJXWkdrN2pjLWtZMFl0WXVUWF9lYmhlcFhrakZPV2dCTTE1STJyZmJGaWg4bDBR0gFvQVVfeXFMUFM3bjRLeXZIX3o1c3U3aDFDbTNQdXRDOUhoWEhFTEN3ZlYwQWFONE01SVZWM0cyUzE4d2hBOE1mT2Z3bHc1a3I5T3R5MXZ6emQ0d2NBU25VZFdJWUtyWWxhZDNpN2s1YU1QOGJpblE4?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 13:28:07 GMT"
+    },
+    {
+      "title": "[HOT 뉴스] 인천시, ‘행복도시’ 세계 49위 랭크…“국내 2위로 도약”",
+      "source": "비즈월드",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWbm82MG5rcElIZHlveldGb0tMYUxuRDVmNGw1M1I3czE1bTZvdVJJaHNRQXlEalJ1cXp4ZGVldU81ZjV1aTZtdWFGRDY0Xzh3RzdDc3RFY09rYkRBRjNnRkRPeHdULWR5eXNZ?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 13:27:00 GMT"
+    },
+    {
+      "title": "[뉴욕개장]혼조 출발…美·이란 협상 기대감 속 관망세",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Rd3ZYZzI1NkNlZDJCa3NSU3VnLUNVZDF4YTFwdXRyMVRoQWN3d1R0clBrUlBCbXZsSzkyOHJHc2JTSWI4UHc3cy1KNjVUSU5IMTZlWlVaUjJ5cnEwcGNqTmZjVm5oRWRZdGpndzYwRlRlZTZ2bnlQZg?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 12:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11VDJfSjFkRFhwa1ByNUhrLU15QnlwNmN4MlRSdmVZbTNsdDJBN3E3YUczbTRlZ2JfYnVHaDFMQXZmUUtvZEQyelh0cEw5UUY4bEwyX1RyNmpSdktITVNjcg?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 14:03:00 GMT"
     },
     {
-      "title": "에르도안 '美·이란 휴전 연장 노력…이스라엘 방해 말아야'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORklPUU1jUEtiT1ZsRWZieUFMd3JEcHFlQUtEbVhuQWJjdFFZQ2tCRDJpdXlCVVBtLWlQR0tzcXcxSVB5QTlLbjE3TV9veTF3SnNWQUdVNzNhVG0ybjNTUUZFbTNJZzVvQWFvVklHWGVHUWJOdmUxejBtR3U4NF9mOW10d0VPRGI2WEZ2cXdTemw4dUt1RmhLRFVjbEhRNlByOHFHQlJuSDBzcThvNDdKXzduWEFjYXhk?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 11:30:37 GMT"
-    },
-    {
-      "title": "[포토] 김원중 '야수들 고마워'",
+      "title": "[투나잇이슈] 트럼프 \"전쟁 거의 끝나\"…'2차 회담' 급물살",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwN1pZZTZaQ1BlZzhsZnpLbXM1LWthc0ZCQTRKNjR2U19yUEhRNnpCcHVHWnRHajVLNjR4MGd3ZHRMaGN0Wk9KdG1FZ3c4SDNZNGZzN0RReXNlVWJQNk14REVLUFpoT2VoblJYelJsS05tQnYya09mNg?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 12:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1UjhaQ0hvYlIxeGhLM0hFemItN1NBQ0NwOFU2MDRhdlhOTWFnQ25Cb1YzM3ZHMXBxOGlEUFFhTlhGLXpGa1ZYMWhsZTd5ZGJtcC1Z?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 13:53:00 GMT"
     },
     {
-      "title": "이란군 '홍해 봉쇄' 첫 경고…'美 해상봉쇄, 휴전 위반 전조'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbkVnMmpNR3l5c2lVZFhNQnNnUnNZSThPNndLNmdYS3Rocy1mSDhRb3FjdUtwdFhIZGtWTWxaSU9PSG5GU3c1UTlZcUY3c3RzaEotenFZMGxKd0EwaDh1WlJlT1huM0FMMm9xOGdOOGhPMGNLQXhpZ05CVmFFWnlka3Q3azZhLTVuNGhGblBhSE9BSU54c3NHb0xkTHFQclNnM01HVEVoa1JKUi02Si1GUnE1dUlWbExzVkNhTzFHQTJ3aGljRWtWcw?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 11:10:21 GMT"
-    },
-    {
-      "title": "[이시각헤드라인] 4월 15일 뉴스리뷰",
+      "title": "서현철 \"7년 만에 섭외 응답…할 얘기 없어 큰일\" 부담 토로[라스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EdTd4WkJfZjVycXNjbnc0NC1oSFZrV3otcjQ2V3ZKN21iaEV4Zll1ZGppaC1oMERUTXdjcWtmQUlDR0c1cGlaTUNydVotaFBDQ213dmZ4UFFOc2ZPV3JGNw?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 11:34:00 GMT"
-    },
-    {
-      "title": "종합특검, '김건희 수사 무마 의혹' 심우정 전 총장 PC 압수수색",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9acThQTWREQzVKZUhTWVEzR0RZZ1VxcWtfc0lnRDRtd0dQMk01VWVrcmtuVWdYRVVldWZZLXVjMkg4a3FRNUhKUW9vckpjMVlHQ3lheUt2Z3gtVVlrUWVsdWxRVm9fUEQxaWc?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 11:37:00 GMT"
-    },
-    {
-      "title": "[PRNewswire] 아트프라이스, 아트프라이스 뉴스의 성공 확인",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZaUFxU01fZ3ZLbU9CVnI0dERmNm1mOF9DMmkxTGlpZlJZd2xxUWRmdVJ3cnFQS3l6YlNFNldIWHM5czVDREZDQnpiT2RaaDk4Z184?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 11:18:00 GMT"
-    },
-    {
-      "title": "정청래 '밀고' 전재수 '끌고'…지역 연고로 하정우 출마 압박",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aQWdWTjE0TFo0eDRBLWxmMFZQTmJVX0p1Sm9adGdwa3U1WkkyT3FoRnNlRmRLamJneUU5UHZYZ0lhSnV4WldhVWFKRnJqRWNqb1E0?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 11:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yQzZncWxvNmZXUldvaURtYmFmX3BfQl9tUmhPOUNMQ01GU2xBLU56djNHeVVidzRnSlllUUM3U1RHUDM3d3M5S25vQWRqVkxmN3M0?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 14:03:00 GMT"
     }
   ],
   "sources": [
