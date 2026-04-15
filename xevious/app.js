@@ -6,6 +6,7 @@ const refreshIntervalEl = document.getElementById("refreshInterval");
 const koreaMarketsEl = document.getElementById("koreaMarkets");
 const usMarketsEl = document.getElementById("usMarkets");
 const currenciesEl = document.getElementById("currencies");
+const weatherCardEl = document.getElementById("weatherCard");
 const gasCardEl = document.getElementById("gasCard");
 const newsListEl = document.getElementById("newsList");
 const sourceListEl = document.getElementById("sourceList");
@@ -100,31 +101,73 @@ function renderStats(target, items) {
     `).join("");
 }
 
+function renderWeather(weather) {
+    if (!weather || !weather.areas || weather.areas.length === 0) {
+        weatherCardEl.innerHTML = '<p class="empty-state">날씨 정보를 불러오지 못했습니다.</p>';
+        return;
+    }
+
+    const renderedAtText = formatDateTime(viewRenderedAt.toISOString());
+
+    weatherCardEl.innerHTML = `
+        <div class="weather-grid">
+            ${weather.areas.map((area) => `
+                <article class="weather-shell">
+                    <div class="weather-main">
+                        <div>
+                            <p class="stat-label">${escapeHtml(area.location)} 오늘 날씨</p>
+                            <p class="weather-summary">${escapeHtml(area.summary)}</p>
+                        </div>
+                        <p class="weather-temp">${escapeHtml(area.temperature)}</p>
+                    </div>
+                    <div class="weather-details">
+                        <div class="weather-chip">체감 ${escapeHtml(area.feelsLike)}</div>
+                        <div class="weather-chip">${escapeHtml(area.highLow)}</div>
+                        <div class="weather-chip">습도 ${escapeHtml(area.humidity)}</div>
+                        <div class="weather-chip">바람 ${escapeHtml(area.wind)}</div>
+                        <div class="weather-chip">강수확률 ${escapeHtml(area.rainChance)}</div>
+                    </div>
+                    <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
+                    <div class="meta-text">데이터 기준 ${escapeHtml(renderedAtText)}</div>
+                </article>
+            `).join("")}
+        </div>
+    `;
+}
+
 function renderGas(gas) {
-    if (!gas) {
+    if (!gas || !gas.areas || gas.areas.length === 0) {
         gasCardEl.innerHTML = '<p class="empty-state">휘발유 정보를 불러오지 못했습니다.</p>';
         return;
     }
 
     const renderedAtText = formatDateTime(viewRenderedAt.toISOString());
-    const districtList = (gas.districtSamples || [])
-        .slice(0, 5)
-        .map((item) => `${item.district} ${item.price}`)
-        .join(" · ");
-
     gasCardEl.innerHTML = `
-        <div class="gas-highlight">
-            <div>
-                <p class="stat-label">서울 최저 휘발유 가격</p>
-                <p class="gas-price">${escapeHtml(gas.lowestPrice)}</p>
-            </div>
-            <span class="pill flat">${escapeHtml(gas.lowestDistrict)}</span>
+        <div class="gas-grid">
+            ${gas.areas.map((area) => {
+                const districtList = (area.districtSamples || [])
+                    .slice(0, 5)
+                    .map((item) => `${item.district} ${item.price}`)
+                    .join(" · ");
+
+                return `
+                    <article class="gas-area-card">
+                        <div class="gas-highlight">
+                            <div>
+                                <p class="stat-label">${escapeHtml(area.areaLabel)}</p>
+                                <p class="gas-price">${escapeHtml(area.lowestPrice)}</p>
+                            </div>
+                            <span class="pill flat">${escapeHtml(area.lowestDistrict)}</span>
+                        </div>
+                        <p class="gas-station"><strong>${escapeHtml(area.stationName)}</strong></p>
+                        <p class="gas-location">${escapeHtml(area.address)}</p>
+                        <p class="gas-meta">표시 시각 ${escapeHtml(renderedAtText)}</p>
+                        <p class="gas-meta">데이터 기준 ${escapeHtml(renderedAtText)}</p>
+                        <p class="gas-meta">최저가 지역 요약: ${escapeHtml(districtList || "정보 없음")}</p>
+                    </article>
+                `;
+            }).join("")}
         </div>
-        <p class="gas-station"><strong>${escapeHtml(gas.stationName)}</strong></p>
-        <p class="gas-location">${escapeHtml(gas.address)}</p>
-        <p class="gas-meta">표시 시각 ${escapeHtml(renderedAtText)}</p>
-        <p class="gas-meta">데이터 기준 ${escapeHtml(renderedAtText)}</p>
-        <p class="gas-meta">서울 자치구 최저가 예시: ${escapeHtml(districtList || "정보 없음")}</p>
     `;
 }
 
@@ -167,6 +210,7 @@ function render() {
         renderStats(koreaMarketsEl, []);
         renderStats(usMarketsEl, []);
         renderStats(currenciesEl, []);
+        renderWeather(null);
         renderGas(null);
         renderNews([]);
         renderSources([]);
@@ -177,6 +221,7 @@ function render() {
     renderStats(koreaMarketsEl, state.koreaMarkets);
     renderStats(usMarketsEl, state.usMarkets);
     renderStats(currenciesEl, state.currencies);
+    renderWeather(state.weather);
     renderGas(state.gasoline);
     renderNews(state.news);
     renderSources(state.sources);

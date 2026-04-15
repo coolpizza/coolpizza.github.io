@@ -14,6 +14,42 @@ OUTPUT_FILE = BASE_DIR / "dashboard-data.js"
 JSON_OUTPUT_FILE = BASE_DIR / "dashboard-data.json"
 TIMEZONE = dt.timezone(dt.timedelta(hours=9))
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0 Safari/537.36"
+OPINET_KEY = "ZbFgD2Xm6B5PTJzDhTtLJNM3yM5pOE80K+g4g9+pono="
+WEATHER_LOCATIONS = [
+    {"label": "서울", "latitude": 37.5665, "longitude": 126.9780},
+    {"label": "익산", "latitude": 35.9483, "longitude": 126.9577},
+]
+
+WEATHER_CODE_LABELS = {
+    0: "맑음",
+    1: "대체로 맑음",
+    2: "약간 흐림",
+    3: "흐림",
+    45: "안개",
+    48: "착빙 안개",
+    51: "약한 이슬비",
+    53: "이슬비",
+    55: "강한 이슬비",
+    56: "약한 어는 이슬비",
+    57: "어는 이슬비",
+    61: "약한 비",
+    63: "비",
+    65: "강한 비",
+    66: "약한 어는 비",
+    67: "어는 비",
+    71: "약한 눈",
+    73: "눈",
+    75: "강한 눈",
+    77: "진눈깨비",
+    80: "약한 소나기",
+    81: "소나기",
+    82: "강한 소나기",
+    85: "약한 눈 소나기",
+    86: "강한 눈 소나기",
+    95: "뇌우",
+    96: "약한 우박 동반 뇌우",
+    99: "강한 우박 동반 뇌우",
+}
 
 
 class FetchError(RuntimeError):
@@ -40,6 +76,10 @@ def fetch_text(url, data=None):
             continue
 
     return raw.decode("utf-8", errors="ignore")
+
+
+def fetch_json(url, data=None):
+    return json.loads(fetch_text(url, data=data))
 
 
 def digits_from_number_markup(markup):
@@ -194,6 +234,65 @@ def now_text():
     return dt.datetime.now(TIMEZONE).strftime("%Y-%m-%d %H:%M")
 
 
+def format_local_time(iso_text):
+    if not iso_text:
+        return now_text()
+
+    try:
+        parsed = dt.datetime.fromisoformat(iso_text)
+    except ValueError:
+        return iso_text
+
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=TIMEZONE)
+    else:
+        parsed = parsed.astimezone(TIMEZONE)
+
+    return parsed.strftime("%Y-%m-%d %H:%M")
+
+
+def weather_label(code):
+    return WEATHER_CODE_LABELS.get(code, "알 수 없음")
+
+
+def fetch_weather_location(location):
+    url = (
+        "https://api.open-meteo.com/v1/forecast"
+        f"?latitude={location['latitude']}"
+        f"&longitude={location['longitude']}"
+        "&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m,relative_humidity_2m"
+        "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max"
+        "&timezone=Asia%2FSeoul"
+        "&forecast_days=1"
+    )
+    data = fetch_json(url)
+    current = data.get("current", {})
+    daily = data.get("daily", {})
+
+    daily_code = (daily.get("weather_code") or [current.get("weather_code", -1)])[0]
+    max_temp = (daily.get("temperature_2m_max") or [current.get("temperature_2m", 0)])[0]
+    min_temp = (daily.get("temperature_2m_min") or [current.get("temperature_2m", 0)])[0]
+    rain_chance = (daily.get("precipitation_probability_max") or [0])[0]
+
+    return {
+        "location": location["label"],
+        "summary": weather_label(daily_code),
+        "temperature": f"{current.get('temperature_2m', 0):.1f}°C",
+        "feelsLike": f"{current.get('apparent_temperature', 0):.1f}°C",
+        "highLow": f"최고 {max_temp:.1f}° / 최저 {min_temp:.1f}°",
+        "humidity": f"{current.get('relative_humidity_2m', 0)}%",
+        "wind": f"{current.get('wind_speed_10m', 0):.1f} m/s",
+        "rainChance": f"{rain_chance}%",
+        "updatedAt": format_local_time(current.get("time")),
+    }
+
+
+def load_weather_data():
+    return {
+        "areas": [fetch_weather_location(location) for location in WEATHER_LOCATIONS]
+    }
+
+
 def load_market_data():
     korea = [
         parse_google_finance_quote("https://www.google.com/finance/quote/KOSPI:KRX?hl=en", "코스피"),
@@ -221,7 +320,7 @@ def load_opinet_default_page():
     payload = urllib.parse.urlencode(
         {
             "netfunnel_key": "dummy",
-            "opinet_key": "ZbFgD2Xm6B5PTJzDhTtLJNM3yM5pOE80K+g4g9+pono=",
+            "opinet_key": OPINET_KEY,
         }
     ).encode()
     return fetch_text("https://www.opinet.co.kr/searRgSelect.do", data=payload)
@@ -239,16 +338,22 @@ def extract_seoul_districts(html):
     return [item for item in districts if item and item != "시/군/구"]
 
 
-def fetch_district_gasoline(district):
+def load_sigungu_names(sido_name):
+    payload = urllib.parse.urlencode({"SIDO_NM": sido_name}).encode()
+    data = fetch_json("https://www.opinet.co.kr/common/sigunguGisSelect.do", data=payload)
+    return [item["SIGUNGU_NM"] for item in data.get("result", []) if item.get("SIGUNGU_NM")]
+
+
+def fetch_district_gasoline(sido_name, sido_code, district):
     payload = urllib.parse.urlencode(
         {
             "netfunnel_key": "dummy",
-            "opinet_key": "ZbFgD2Xm6B5PTJzDhTtLJNM3yM5pOE80K+g4g9+pono=",
+            "opinet_key": OPINET_KEY,
             "BTN_DIV": "os_btn",
             "BTN_DIV_STR": "",
             "POLL_ALL": "all",
-            "SIDO_NM": "서울특별시",
-            "SIDO_CD": "01",
+            "SIDO_NM": sido_name,
+            "SIDO_CD": sido_code,
             "SIGUNGU_NM": district,
             "SEARCH_MOD": "addr",
             "OS_NM": "",
@@ -278,14 +383,11 @@ def fetch_district_gasoline(district):
     }
 
 
-def load_gasoline_data():
-    default_html = load_opinet_default_page()
-    districts = extract_seoul_districts(default_html)
-    district_results = [fetch_district_gasoline(district) for district in districts]
+def summarize_gasoline_area(area_label, district_results):
     district_results.sort(key=lambda item: item["priceNumber"])
-
     best = district_results[0]
     return {
+        "areaLabel": area_label,
         "lowestPrice": best["price"],
         "lowestDistrict": best["district"],
         "stationName": best["stationName"],
@@ -295,6 +397,25 @@ def load_gasoline_data():
             {"district": item["district"], "price": item["price"]}
             for item in district_results[:5]
         ],
+    }
+
+
+def load_gasoline_data():
+    seoul_html = load_opinet_default_page()
+    seoul_districts = extract_seoul_districts(seoul_html)
+    seoul_results = [fetch_district_gasoline("서울특별시", "01", district) for district in seoul_districts]
+
+    incheon_districts = load_sigungu_names("인천광역시")
+    incheon_results = [fetch_district_gasoline("인천광역시", "04", district) for district in incheon_districts]
+
+    iksan_result = fetch_district_gasoline("전북특별자치도", "13", "익산시")
+
+    return {
+        "areas": [
+            summarize_gasoline_area("서울 최저가", seoul_results),
+            summarize_gasoline_area("인천 최저가", incheon_results),
+            summarize_gasoline_area("익산 최저가", [iksan_result]),
+        ]
     }
 
 
@@ -393,6 +514,7 @@ def load_news():
 
 def build_dashboard_data():
     korea_markets, us_markets, currencies = load_market_data()
+    weather = load_weather_data()
     gasoline = load_gasoline_data()
     news = load_news()
 
@@ -402,6 +524,7 @@ def build_dashboard_data():
         "koreaMarkets": korea_markets,
         "usMarkets": us_markets,
         "currencies": currencies,
+        "weather": weather,
         "gasoline": gasoline,
         "news": news,
         "sources": [
@@ -424,6 +547,10 @@ def build_dashboard_data():
             {
                 "label": "오피넷: 싼 주유소 찾기",
                 "url": "https://www.opinet.co.kr/searRgSelect.do",
+            },
+            {
+                "label": "Open-Meteo: 오늘의 날씨",
+                "url": "https://open-meteo.com/",
             },
             {
                 "label": "Google News RSS",

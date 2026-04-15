@@ -240,7 +240,68 @@ button:hover {
     font-size: 0.9rem;
 }
 
+.weather-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+}
+
+.weather-shell {
+    display: grid;
+    gap: 16px;
+    padding: 18px;
+    border-radius: var(--radius-md);
+    background: linear-gradient(160deg, rgba(255, 255, 255, 0.96), rgba(224, 239, 255, 0.88));
+    border: 1px solid rgba(17, 32, 49, 0.08);
+}
+
+.weather-main {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: end;
+    flex-wrap: wrap;
+}
+
+.weather-summary {
+    margin: 0;
+    font-size: 1.35rem;
+    font-weight: 800;
+}
+
+.weather-temp {
+    margin: 0;
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 800;
+    letter-spacing: -0.04em;
+}
+
+.weather-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.weather-chip {
+    padding: 8px 12px;
+    border-radius: 999px;
+    background: rgba(17, 32, 49, 0.06);
+    color: var(--muted);
+    font-size: 0.92rem;
+    font-weight: 600;
+}
+
 .panel-gas .gas-card {
+    display: block;
+}
+
+.gas-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+}
+
+.gas-area-card {
     display: grid;
     gap: 12px;
     padding: 18px;
@@ -377,6 +438,11 @@ code {
     }
 
     .board-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .weather-grid,
+    .gas-grid {
         grid-template-columns: 1fr;
     }
 }
