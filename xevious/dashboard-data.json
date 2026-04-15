@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-15T10:17:22.826480+09:00",
+  "generatedAt": "2026-04-15T13:18:30.978789+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,151.68",
-      "change": "+183.93",
-      "changePercent": "+3.08%",
+      "value": "6,146.00",
+      "change": "+178.25",
+      "changePercent": "+2.99%",
       "direction": "up",
-      "updatedAt": "2026-04-15 09:42"
+      "updatedAt": "2026-04-15 12:53"
     },
     {
       "label": "코스닥",
-      "value": "1,147.56",
-      "change": "+25.68",
-      "changePercent": "+2.29%",
+      "value": "1,153.62",
+      "change": "+31.74",
+      "changePercent": "+2.83%",
       "direction": "up",
-      "updatedAt": "2026-04-15 10:10"
+      "updatedAt": "2026-04-15 13:15"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,473.0550",
-      "change": "+2.64",
-      "changePercent": "+0.18%",
+      "value": "1,471.6348",
+      "change": "+1.22",
+      "changePercent": "+0.08%",
       "direction": "up",
-      "updatedAt": "2026-04-15 00:59"
+      "updatedAt": "2026-04-15 04:09"
     },
     {
       "label": "100엔/원",
-      "value": "926.96",
-      "change": "+0.96",
-      "changePercent": "+0.10%",
-      "direction": "up",
-      "updatedAt": "2026-04-15 01:09"
+      "value": "925.68",
+      "change": "-0.32",
+      "changePercent": "-0.03%",
+      "direction": "down",
+      "updatedAt": "2026-04-15 04:09"
     }
   ],
   "gasoline": {
@@ -94,64 +94,64 @@
   },
   "news": [
     {
-      "title": "서울소셜벤처허브 뉴스레터(2026.3.)",
-      "source": "분야별정보",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01N1l4Qzg0MkRBR3JYeTVOTHEwY1NOOU83d1ZhUEJKdUxjZWZ0R0NfOWZOX01rbFJLNWlWOE9HdkJVam43TVh4U1RUcGNJTndvRDNISW4zQVBieGF3?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 01:01:23 GMT"
-    },
-    {
-      "title": "늑구 추적 홈페이지 확산⋯\"트럼프, 이란과 '포괄적 합의' 원해\" 外 [오늘의 주요뉴스]",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlU2FOdjdaV09VMUZvZnA1OVdkZm9PZXItWjE5SldfQjFIdjdidGU2NmZUdVBRZTRPVVZNZjljVllFX29tTFlGT3VvZ0Vpb0JHOTFjdg?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 01:11:00 GMT"
-    },
-    {
-      "title": "월가 주요 투자자들 만난 구윤철 부총리",
+      "title": "관세청, '관세행정 정상화 프로젝트' 추진…비정상적 관행 개선",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzOWpoQld1VndtQ3Z1c0lGNDdNOU5uNUR0S3M4UnJBOUROTWNXTGJHRGJQUUpaVTRVOFlxc1pOYlkwZWJHcTl0WlMzb204S21PNFJpZTgza1NGMHZBUmpNNQ?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 01:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZM19vNXRRamdRLVVBVlV2QTYtbjRGZzhFdnFpOUNMQ0lMZHctRU5RRjVkVnM0S2xfSEVxdVhNZEwtZnE5RDkzVENxRWdDYVB5LTg3ZC1wdC13MTlBd09adA?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 04:08:00 GMT"
     },
     {
-      "title": "호주 뉴스 3분 브리핑: 2026년 4월 15일 수요일",
-      "source": "SBS Australia",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdUVlaUdVYlhkMThDOHQwLUZJcE44Wk1ieERUZ2Nqc2laQjBmNzl4a0I4dUZ1cDZ0eFFtVHh5T2tZTzA2QlRwSUtBRzdZN3BsQmRua3ZqVEY2M0xhZGRORDBDbV9kdEFDd1N0dEI4anF5VUlrOVJ2MnBIU05jaWF4OUFOaVZtU3J2NnlyMHpaVk5WUjRHcVVj?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 01:16:14 GMT"
-    },
-    {
-      "title": "헝가리, 16년 만에 정권 교체...韓 배터리 업계 근심",
+      "title": "트럼프 '이란전 거의 끝'…이번 주 이란과 2차회담 거듭 시사",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeklUUVNnZ3lVdnpYR3BseU9lMlhXRC1GNy1xbEp3SWZFX0J5b3BqWUlXU252aGJlRU1kdUVqaDZ3Z0xTOEdnWFFBNnotckVlOWxRUHA2dzhPM3M4V3hSdWxZWFpKeWdOTXFXc2NOUHpjMHBZLVM5SmU1UU5YYTUyWHpVWTI1aHd4Tm5FLVczcDFuRUJMWWVTWVcwVm9GZmRWampYYmh2NWpJRVBUSUR3ZmE2bFc2TlBBT0E?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 01:09:07 GMT"
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeTcwaHVtVUZEVnV0SFhYejR2a0pUVzd5elJCY3ZZT2FVNkVRSl9BOTBPUmxXNW1XV3dPMTFXM3V4aERwUm84MzgtS1ZncGtUN3JJOEhoRzgwb0p4d3VlQ2VfV29CR2NjSDhwRVB3c0JkSVFISzNXSzhxWjhVZGZGbWZpczNleHNtQUVjbWFrOU5JbnF6WVVYdGg0dkJlOTNEZXRaR1pxbE8xNnNIenBkc2ZtWU5kTG5oSmlzVWF0UXpVUUo3U01z?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 03:31:59 GMT"
     },
     {
-      "title": "[종합] 15일 한국의 주요 헤드라인 9뉴스...\"IMF 이후 28년 만에 최고\" 3월 수입물가 16.1% 급등… 중동 전쟁 후폭풍 가시화",
-      "source": "msnews.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxWWY1aC11UmpDZDBzc1dxR3lpaGdlSmd4QWw4RndLOEhLTnVIM3ZQZnZYS3ZhSFRNZS16UjRudTFRZ05jOUYxT2NIdEJnZVJiSGYteEdxaTUxTEo5T2tBQmNTUEZRZnhZR21B?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 00:22:23 GMT"
+      "title": "전주시의회, 2025회계연도 결산검사 현장 점검",
+      "source": "투데이안",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVVXU0SUFQYk1TdU13MlI1cVhhdDlMYnUwRkg1cXdMTzJHemt3RjZHbmt3QUp0TXhqUlNHRl96dDJQNVl0OGJDbTA4RlF0TmZhZlRRR0pqeENwRW5iaXQxTHg1ZWNKTjBj?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 04:07:44 GMT"
     },
     {
-      "title": "한동훈, 부산 북갑 출마 사실상 공식화 … 보궐선거 ‘3자 격돌’ 구도 부상",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GZzJmU3BEVlZMUWxBYXNjM2RPdzVEZmFYSWNiX0R6NkxQNmY3VzRVb2JGektaTk5pLUM3QnA3anNsU2tET1pGLW1yMm9vcnhfcjVnLW9ha3hMd3l0V1N1NFQzZFVvVlE?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 00:33:49 GMT"
+      "title": "[금융 HOT 뉴스] 미래에셋증권 홍콩법인, 국내 증권사 최초 디지털자산 리테일 라이선스 획득",
+      "source": "비즈월드",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Tby1OQWJfajBDdVlTaW53TWRkZEFMeTlxRVNSRTdQaVRkZDZuYVpyamdzTTlXZmhFa3ZUUHhmSHlTdTV4aldFc2k5V1A2cVdjSTZfb2RfM2RKSEJNS3Nnd2tUR0NKOG5fdURB?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 03:44:00 GMT"
     },
     {
-      "title": "구윤철 'K경제 세일즈맨' 변신…'디스카운트' 떼고 '프리미엄' 붙인다",
+      "title": "[오늘의 신상] 오설록·파리바게뜨·오뚜기",
+      "source": "열린뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hd2VxTDRmWDF3SlVQU2N1eXpWbVVXeXdxSk5tTjY5Rmo2WTZmUURTd2loQmV5U1gydFNDQmI1enE5anZRQUxEdDJHbU50WlNhaEN5ZGlsS24wSXBfMDAycDdNS3ZqQQ?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 03:39:23 GMT"
+    },
+    {
+      "title": "속초시, 공영주차장 5부제 일부 제외…전통시장·관광지 '예외'",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WnAwWlprc0pJamY5b1YxYUFwNHNVSGNxRUF4cFJjS0tBTm1ZTW1GVFplWFBuMVhCS3JMOVhkdHlRMkFmZWJTR1RNZW1hb3I2Mmc?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 03:27:13 GMT"
+    },
+    {
+      "title": "가덕도신공항 접근철도 설계단계 안전진단 착수",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SeFk0WEVDN0RYa1B4b01HdWxFOXJzYjk3b2RhSWhfdDNXUDdjUmpmT1RLNmFYUWU5U0p3M0pjMmhoS05JOC1LUlVHbldfM3I3M1Nr?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 01:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tYVNXSlBNZFVXb3BYQ2tuVVB3dEFIdVhZV3BMMlQ4STdmQnRDOGtoZ3pOb3N2Vlg4QTRubW9MbW5wc1NiYmpJWjNFdk5WaFNpNzJ3?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 04:07:00 GMT"
     },
     {
-      "title": "법무법인 세종, '자본시장·금융' 이충연·이동철 고문 영입",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WRi1xa1ZEYkNfV0t6d1c0YUVCNlF2bTE2V1pqVlY5SFBjVEVPdGttZEotOUdOTGlzdndTV1VNOENyRWk3WUJHQlZvSzhlRVJtS2tJ?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 01:00:00 GMT"
+      "title": "우물에서 구조된 '기적의 아기'… 40년 만에 '가정폭력범'으로",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ISkp3WFRPYWJBZHZFNjJlRlhxTzNwc3NzSDV6OHF5dXJxSXg0S0Fsa0puVmpvcGZicEJKcVRhVjhtV2hvX3ppV0t4R1FIejBBeFlLbzNwa3NYbjlNRkI3c1Jn?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 04:00:00 GMT"
     },
     {
-      "title": "럭셔리 여행업계 서울 집결…콘래드, 버츄오소 심포지엄 개최",
+      "title": "[뉴스프레소] 뉴욕증시, 일제히 상승…월가 팽팽한 대립 \"필연적 경제 불황 VS 지금이 바닥\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wdnFWTlN5bUtMcnlyenhwMmVlekZKbWZ3YmF4aWVPVWpCTE52MFpBUEFVQkZFQUVSaU9SQWlNeGc5Wm94UElzZ09kR3ZNM1psWWs4?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 00:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zdlpiUmt6UjVvcGdvaEVrT2pITDRyTGVkOGRIUUpqcWIzMXBCNjI2YVdxVlpOVmp1c2ItM1BDTEV2NjJJeU5TcXhxWEZoNlJINmM5bGJ1R1YwNkw2amhWUA?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 04:04:00 GMT"
+    },
+    {
+      "title": "국민주권정부 규제 구조개혁 추진방안 브리핑",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52R01nMXUydmFZdVJVNndlOUpxSDlJQ1YzbDJMQWZKZWYzRTRJTzUwMWVpRGlpX18wV3Q4ZURWTE1PcjVyeHJUUW9qRWp5X1ZCQWxoTEpWNFZZVko0d1p2TQ?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 04:04:00 GMT"
     }
   ],
   "sources": [
