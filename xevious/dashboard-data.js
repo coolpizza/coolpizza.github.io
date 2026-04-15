@@ -1,22 +1,22 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-15T13:18:30.978789+09:00",
+  "generatedAt": "2026-04-15T17:04:31.520043+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,146.00",
-      "change": "+178.25",
-      "changePercent": "+2.99%",
+      "value": "6,091.39",
+      "change": "+123.64",
+      "changePercent": "+2.07%",
       "direction": "up",
-      "updatedAt": "2026-04-15 12:53"
+      "updatedAt": "2026-04-15 15:30"
     },
     {
       "label": "코스닥",
-      "value": "1,153.62",
-      "change": "+31.74",
-      "changePercent": "+2.83%",
+      "value": "1,152.43",
+      "change": "+30.55",
+      "changePercent": "+2.72%",
       "direction": "up",
-      "updatedAt": "2026-04-15 13:15"
+      "updatedAt": "2026-04-15 17:03"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,471.6348",
-      "change": "+1.22",
-      "changePercent": "+0.08%",
+      "value": "1,475.4000",
+      "change": "+4.99",
+      "changePercent": "+0.34%",
       "direction": "up",
-      "updatedAt": "2026-04-15 04:09"
+      "updatedAt": "2026-04-15 07:56"
     },
     {
       "label": "100엔/원",
-      "value": "925.68",
-      "change": "-0.32",
-      "changePercent": "-0.03%",
-      "direction": "down",
-      "updatedAt": "2026-04-15 04:09"
+      "value": "928.13",
+      "change": "+2.13",
+      "changePercent": "+0.23%",
+      "direction": "up",
+      "updatedAt": "2026-04-15 07:49"
     }
   ],
   "gasoline": {
@@ -75,8 +75,8 @@ window.DASHBOARD_DATA = {
         "price": "1,953원/L"
       },
       {
-        "district": "금천구",
-        "price": "1,959원/L"
+        "district": "성북구",
+        "price": "1,958원/L"
       },
       {
         "district": "동작구",
@@ -94,64 +94,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "관세청, '관세행정 정상화 프로젝트' 추진…비정상적 관행 개선",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZM19vNXRRamdRLVVBVlV2QTYtbjRGZzhFdnFpOUNMQ0lMZHctRU5RRjVkVnM0S2xfSEVxdVhNZEwtZnE5RDkzVENxRWdDYVB5LTg3ZC1wdC13MTlBd09adA?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 04:08:00 GMT"
+      "title": "영암군 '매니페스토 공약이행' 평가 '4년 연속' 최우수 등급",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmczd2VFJCXzl2VzNnRk45eTF5TDBhVHhxblktdUk2VE1TVTZOaHJqSkU2TENWdTF1b3IwSWl0R2dreWlsZXlYckFEWVZlY3dVblZpa2Exa0JFa2pKWU1R?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:51:04 GMT"
     },
     {
-      "title": "트럼프 '이란전 거의 끝'…이번 주 이란과 2차회담 거듭 시사",
+      "title": "트럼프 \"전쟁 곧 끝나\"…닛케이 0.44%↑[Asia마감]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40alVydVBUeDlBTHFsZUlYb211T2M1d01QQmFtVnlmc21DTTVkeFJNTHNxakx6aEF3cFJTeG1QbmtxXy1Vb3lKMnoteS0tdURUeklBc3RpNWctQ2hRQ3RBS2FoaHU5VUlYQ2UxYmJiQzJRdGw0N04yXw?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:32:00 GMT"
+    },
+    {
+      "title": "블록펫 파산, RCPS 투자 구조 갈등…드러난 벤처투자 사각지대",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeTcwaHVtVUZEVnV0SFhYejR2a0pUVzd5elJCY3ZZT2FVNkVRSl9BOTBPUmxXNW1XV3dPMTFXM3V4aERwUm84MzgtS1ZncGtUN3JJOEhoRzgwb0p4d3VlQ2VfV29CR2NjSDhwRVB3c0JkSVFISzNXSzhxWjhVZGZGbWZpczNleHNtQUVjbWFrOU5JbnF6WVVYdGg0dkJlOTNEZXRaR1pxbE8xNnNIenBkc2ZtWU5kTG5oSmlzVWF0UXpVUUo3U01z?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 03:31:59 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWlkdzdHbUlVcjJNcW9ENVBJSzZTTXEzZnJXYmRPZ25yeFRrOVllQU0xOENUbzI4d042UUkyeFp1NV80T3FYMkxmbTVHeGkxOTJkdzZEM1ZTdlFhUGdraEVuZWRCNG82VF9lSldRUkhuSVZtUlJ4Y0VJSktPdW9RXzdvcGFiUS1pZFZSVUF6V0gyMGNjN1ZJVk9EQUZLMF8zLVZTazRnaTEta3V2MndnWlRmazFYdkZsZ0E?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:50:05 GMT"
     },
     {
-      "title": "전주시의회, 2025회계연도 결산검사 현장 점검",
-      "source": "투데이안",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVVXU0SUFQYk1TdU13MlI1cVhhdDlMYnUwRkg1cXdMTzJHemt3RjZHbmt3QUp0TXhqUlNHRl96dDJQNVl0OGJDbTA4RlF0TmZhZlRRR0pqeENwRW5iaXQxTHg1ZWNKTjBj?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 04:07:44 GMT"
+      "title": "하남시, 교통 현안 해결 위해 전문가와 현장 점검 실시",
+      "source": "디스커버리뉴스(DISCOVERYNEWS)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaV1QzTERqR09mWWQtUkNIVERUTGVCVFpBNjdGN2xBMDg4SW1PdVBQUFdVNk9XS0x0Q0NCVnU3a1lkV0phZVFieFFtTEF1eFNzN0xjX1R3TE14NUlqTkRuaElzeGFabmYxZnlUN2c4akFPdw?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:08:00 GMT"
     },
     {
-      "title": "[금융 HOT 뉴스] 미래에셋증권 홍콩법인, 국내 증권사 최초 디지털자산 리테일 라이선스 획득",
-      "source": "비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Tby1OQWJfajBDdVlTaW53TWRkZEFMeTlxRVNSRTdQaVRkZDZuYVpyamdzTTlXZmhFa3ZUUHhmSHlTdTV4aldFc2k5V1A2cVdjSTZfb2RfM2RKSEJNS3Nnd2tUR0NKOG5fdURB?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 03:44:00 GMT"
+      "title": "서울 집값 상승세 2개월째 둔화…강남3구 하락 전환(종합)",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWRONTRrVmx3MjFrRXgzTUJhMENGbTZ4NE1GNzJMc1VGenMtc0R2aGttSGxGZ1UtenMtdFV0clhVWm5jcFpfSVNLYVI4WTBwd3IxbUkwQ1RhUXBFZVVnSXptLXVUT3BNOFRGSW5idVRPcUtkSkdYSDM0S1NIN196d2l3ODA1RFVvQllaWlUwU0V2bzJSOHV0SDktdDVTT2JSUktXU2lRSzdJSEVudjVKcUNNRUtLZ2tEenFmMGZBZ1pBRHBTaXNrWEx3?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:37:56 GMT"
     },
     {
-      "title": "[오늘의 신상] 오설록·파리바게뜨·오뚜기",
-      "source": "열린뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hd2VxTDRmWDF3SlVQU2N1eXpWbVVXeXdxSk5tTjY5Rmo2WTZmUURTd2loQmV5U1gydFNDQmI1enE5anZRQUxEdDJHbU50WlNhaEN5ZGlsS24wSXBfMDAycDdNS3ZqQQ?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 03:39:23 GMT"
-    },
-    {
-      "title": "속초시, 공영주차장 5부제 일부 제외…전통시장·관광지 '예외'",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WnAwWlprc0pJamY5b1YxYUFwNHNVSGNxRUF4cFJjS0tBTm1ZTW1GVFplWFBuMVhCS3JMOVhkdHlRMkFmZWJTR1RNZW1hb3I2Mmc?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 03:27:13 GMT"
-    },
-    {
-      "title": "가덕도신공항 접근철도 설계단계 안전진단 착수",
+      "title": "포스코이앤씨, 일부 발주처에 \"중동전쟁 리스크\" 안내",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tYVNXSlBNZFVXb3BYQ2tuVVB3dEFIdVhZV3BMMlQ4STdmQnRDOGtoZ3pOb3N2Vlg4QTRubW9MbW5wc1NiYmpJWjNFdk5WaFNpNzJ3?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 04:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9waDdwUFVtV1hTRGdOT01BQi1LVW5nbEQ2b1pCZncyUWJXNk9iRGYzaFpTNzJGWVFvLWYyclBpNjZ6dkptUzR2OTF5azVJZXVIMVR1NEthY3dMNl9pWUNUbw?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:54:00 GMT"
     },
     {
-      "title": "우물에서 구조된 '기적의 아기'… 40년 만에 '가정폭력범'으로",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ISkp3WFRPYWJBZHZFNjJlRlhxTzNwc3NzSDV6OHF5dXJxSXg0S0Fsa0puVmpvcGZicEJKcVRhVjhtV2hvX3ppV0t4R1FIejBBeFlLbzNwa3NYbjlNRkI3c1Jn?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 04:00:00 GMT"
+      "title": "[TOPs Pick] [제약] 동성제약, 최용석 전 파마노비아코리아 대표 영입 外",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnpuUkp2bTJvRHZoazBsNjJLUjA3UGRnenJKdlNJWG9VQVJZejZmMHZGMjE2U2NPU3Z5SXVrTzh3S19GWGJKUC1nMTJzWDNaNVFMcUVyOGRyMnJPMWhUVXktaFZsS3lmSGFmUXg5N2JYYXlUeXdDM3U4WUh1ZkcwOW0zR056cXZ5UEgyeEF1Wm9sbllCWG42TnlyTVMwdVZiSFh1emxYVlNjMGFpYVNFOGw5TG03UG05?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:55:09 GMT"
     },
     {
-      "title": "[뉴스프레소] 뉴욕증시, 일제히 상승…월가 팽팽한 대립 \"필연적 경제 불황 VS 지금이 바닥\"",
+      "title": "주요주주 케이에스인더스트리, 인스코비 주식 2000만주 취득",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zdlpiUmt6UjVvcGdvaEVrT2pITDRyTGVkOGRIUUpqcWIzMXBCNjI2YVdxVlpOVmp1c2ItM1BDTEV2NjJJeU5TcXhxWEZoNlJINmM5bGJ1R1YwNkw2amhWUA?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 04:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14d2x6Z3lybE5tdGN0ZFBMd2gwQWFpalpJY2xFSGFBOGZIWnAyYk4tamI5MjhMTHZxUW5xbnF5WWZfWE41V3FYaFZDcEIwR1V3NFpR?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:25:00 GMT"
     },
     {
-      "title": "국민주권정부 규제 구조개혁 추진방안 브리핑",
+      "title": "카카오페이·토스증권 MTS 장애 최다…핀테크 증권 전산 안정성 ‘경고등’",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3FqNG8tcnlIX0lqbEdTTmFfUjRQMzhrQmFSNUd0WmhnYlVrZ0hUZUNoRGd5Z1ZHOUgxb1Vxdl9yOUxyMDZOc3hTVXZiTXEzSEhOZEVqYVBTLV9zQjNodXg5Z1pXQUpCR0ZyWkpLaGFpdlFCZXUyX05XTm0zbG1DTWlNS2ZkTzVxd2o2ejBTYlljSHIyMlRYRHQ4WkhqVlNSc01OMHJMbU5DOVlRbzZZYy1adDNEZ1hscmc?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:40:07 GMT"
+    },
+    {
+      "title": "신영에셋 \"분야별 전문가 영입으로 사업 전문성 제고\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52R01nMXUydmFZdVJVNndlOUpxSDlJQ1YzbDJMQWZKZWYzRTRJTzUwMWVpRGlpX18wV3Q4ZURWTE1PcjVyeHJUUW9qRWp5X1ZCQWxoTEpWNFZZVko0d1p2TQ?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 04:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ncUszTzRCT2FLUDdlUXN6MTJEdjYyX1JJQkFGdUxjZVVESDREcjh1RzJRNko1Zi1QbWpYQkd4dHBsLVQ2a21iTk1CUzVPLXl5MFpB?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:33:00 GMT"
     }
   ],
   "sources": [
