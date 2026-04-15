@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T06:33:34.911282+09:00",
+  "generatedAt": "2026-04-16T08:03:34.513241+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@
       "change": "+30.55",
       "changePercent": "+2.72%",
       "direction": "up",
-      "updatedAt": "2026-04-16 06:29"
+      "updatedAt": "2026-04-16 07:59"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.1594",
-      "change": "+3.75",
-      "changePercent": "+0.25%",
+      "value": "1,475.0792",
+      "change": "+4.67",
+      "changePercent": "+0.32%",
       "direction": "up",
-      "updatedAt": "2026-04-15 21:23"
+      "updatedAt": "2026-04-15 22:49"
     },
     {
       "label": "100엔/원",
-      "value": "927.17",
-      "change": "+1.17",
-      "changePercent": "+0.13%",
+      "value": "928.45",
+      "change": "+2.45",
+      "changePercent": "+0.26%",
       "direction": "up",
-      "updatedAt": "2026-04-15 21:23"
+      "updatedAt": "2026-04-15 22:56"
     }
   ],
   "weather": {
@@ -68,24 +68,24 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "9.1°C",
-        "feelsLike": "7.0°C",
+        "temperature": "10.2°C",
+        "feelsLike": "8.3°C",
         "highLow": "최고 23.4° / 최저 9.1°",
-        "humidity": "73%",
-        "wind": "5.6 m/s",
+        "humidity": "69%",
+        "wind": "4.9 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-16 06:15"
+        "updatedAt": "2026-04-16 07:45"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "7.4°C",
-        "feelsLike": "5.0°C",
+        "temperature": "10.6°C",
+        "feelsLike": "9.0°C",
         "highLow": "최고 25.7° / 최저 7.3°",
-        "humidity": "85%",
-        "wind": "8.4 m/s",
+        "humidity": "74%",
+        "wind": "4.3 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-16 06:15"
+        "updatedAt": "2026-04-16 07:45"
       }
     ]
   },
@@ -97,7 +97,7 @@
         "lowestDistrict": "강서구",
         "stationName": "HD현대오일뱅크㈜직영 양화교셀프주유소",
         "address": "서울 강서구 공항대로 653",
-        "updatedAt": "2026-04-16 05:36:50",
+        "updatedAt": "2026-04-16 07:48:25",
         "districtSamples": [
           {
             "district": "강서구",
@@ -169,64 +169,64 @@
   },
   "news": [
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "title": "[AI기자의 News Briefing] 4월16일 오늘의 주요 뉴스를 전해 드립니다.",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NTWNRcVF0VTYyaVlhdGRFdWlGX2Z0RXo5c202andvejZ5NEh4Z0J6azFnQnFQXzRoekNyV3dDeF9uUVZGY25iWlA5X0t2SE45V3cwcWExVU9FMjR6TFFXZmdUeVJYM2dwOEE?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 22:10:04 GMT"
+    },
+    {
+      "title": "[뉴스광장 제주 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81N01HblFuZ19mV3JHekt4SXFjUWJ3SE1LNWh3RElxV19OWHRmOGhQTjBlVnY0MTBEN2d1RWxMRVBlalJld3hXcUlDSVUwNTV4eWg0S1lsSGtMd3M?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 22:50:00 GMT"
+    },
+    {
+      "title": "4월 16일 굿모닝 MBN 이 시각 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RWXA0d2dZRkt6REQzWUxnbGNRM0tlRXBEX3U3R1cwejRhOUdJR3VtSHBTbUNjeWt4S1hUc2ZtdTVZczB6NWpPSVl4OTM5cjNKakpV?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 21:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RTzdMcUpkMjlJNnFEanNWbHF3Vzg1OERfb1UxOWluaHZ2QmF2UmxiY283TElnRWItYkIwc0VHTjQtWFJBUVhkYlluemx2U1dlZVV3?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 22:53:00 GMT"
     },
     {
-      "title": "4월 16일 여수시 주요일정",
-      "source": "남해안신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kYWRteW5JQUlmMEF3d1VtNWlXSDREdTRzOVI3MHJkSWZiZnpPSVZTYnVnRjZLeHlIejA2WFdfVkZLU3VId0FNcWhwZ1BqdXVVcWJDR3o1SnpXNEVmenJlZjhUXzc2RUI5?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 20:49:36 GMT"
-    },
-    {
-      "title": "'존엄하게 죽을 권리'…우루과이, 안락사법 시행",
+      "title": "IBK캐피탈, 기업승계 펀드 출범…정책금융 투자로 확장",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNGpCVW44anJyajFSdTNDQ3lsZGV4VXBtaTdub1duN3h6b05rQ1ZkeUxHUTlCRjZtajlJclF6eVNVU1FvOVp4RUZJdTlmY3dxVV9LN09oY3NaUjN4N2RVNWIxYXJBWTljVzFnM1RaU3FkYjNxTEFIMnRmR3VWS1FveUpYeEcweVd5V1ZUSFdkSVhUZUZ5ZUVHNDlyb3dQYzJKMHJ2YTlhQmFLYkJIT0c5Zy03MGxvZno0?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 21:30:56 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamtEYXRaa1lNLWIwRGN4cWZYNXc5Wk1HOEdzVGhnYV9xaFU3Mzc5cFgtLUcyYlI5ODFWd0tLZ2Uxc1Z6RkQtVXpURG1BRDJCY21oVERpbDd4VXFOb2l4bnF1ZDNpQTk1eVhrY3JEV3ZZNDhBc3R2X3AxSEc2NEJzY3ZGVUlLZ094RVBHRFJjLWRRelc5MEt1VG5saGRVVWx0a3VpcXlVWXVBZnlyU2JSTk5tdmIzeGpE?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 23:01:07 GMT"
     },
     {
-      "title": "[속보] 뉴욕증시, 혼조...나스닥 1.59%↑",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZSmZQdWc4VjN0VVVoMXpTUWxRX1dTZGo2bk96eFUtNHFHSkwzWU8tUDNINGJKa0NqR3lRcjZXYUd4WGlHQ0doWVo1RmZJWHRBam9UdERLcTFualV4dmJKQURyblhxa1FfM182VWJvRGpvdDNk?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 21:14:00 GMT"
-    },
-    {
-      "title": "[이런말저런글] 잘 정의하는 일이 글에 정의로운 길",
+      "title": "소각장 확충 수년째 표류에도 인천시 '뒷짐'…지역 갈등만 커져",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFJhZzlKNS1wME9QN0xjMEdZNC00QUVSRDZlNDQzNF9qZ3VYeExldXE0Z3dRVGpyVUxPS2lMeWdvWnFnVUpEMGRiSEJ0WXF3UmN5Xy0yUkhQOGdRQ0J6ZWxZUTlxQlh0aVdDUkJha3Q5Z1VCYlp4VFRTOXF5dm8zbDh6dXJ2ZlRTb2J2MmE1Rm11NWtQMUJOLW14ZUlJZ1RJMW4wMnVfczVEQlZtNE0ydGFnTTdYYWpu?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 21:00:52 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFFhaUxaUVpzUmwteC1YVXBENkx0eWtETXBqUHpFRFI3VVI3azJ0UkRTbV95UkJQTXBIVFQ2QnBXMFUyLU1mbEFhSEJpZkY4b1JieU9TT1hlRzFFb0ZMa3A5WWM4Yzdyd3RhU2k5eUw4N3d5aVBTY0VXYmFpU1FlSllIX1phUGowdkRKdnJlcV8zZmRCN29fWFRKemF6TjVvVGhhMlhteFNoRjFNZDRmZklZc29iclI3?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 22:21:14 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 산업용 전기료 낮엔 내리고 밤엔 올린다",
+      "title": "4월 16일 굿모닝 MBN 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11bXNKRDUzZi16eVMwV3J3bjRKX2NBWS1hOV9rZHZ1MVE2N3RrVTBqLUdGUGtXYU9RUHZKdy1UREZlaVVKLTdNdHFqM01lY1BRQkp3?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 21:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lSUEyNm5FMmpZcXZTeGdCOXZCSWRjaTlMTHdqLTRVV0hsaTJNWVhqXzJRcHVOZnBETHdOVHh5MXlReWVkdTMxb3k0VzBsLTFiOGpn?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 22:07:00 GMT"
     },
     {
-      "title": "[속보] 뉴욕증시, 혼조…나스닥 1.59%↑",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Deklxa0ZzNWZKc3R4UExlVTZBQ1EtNnpIdnhDendFSTMxX1FOMl8ybFRmMlpLTXdHQzNTYk9WMkplbDVmVHNYbWV0WGwtMFJ5TmZN?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 21:15:00 GMT"
-    },
-    {
-      "title": "서울 분양 소형 비중 54%…수도권 분양 소형 쏠림 심화",
+      "title": "칠곡휴게소 '안전한 교통문화 정착 힘 모은다'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUlDRDYzNVA1TjhHLTI0a1R2eUxXYmFucnl4ZmJwLWdWQXplZEdqNDAyNEVRYzlGZHI1MzFWRTJoT1p6bHFHaHFMcDM1dlJ1c0R4X3U1Z2Nocl9GUDIyUjVWN0hDNkt4N0k3MUJBb0lWM3JoM25HT05RWEhkckJuZHV0YjNhZzN5S096TTdWOFBWdUM0NTVraVl0UkR5SmNmN1lWc2ZBc0NOTEZPcEpmcG1OZll6MEkzS1hXcXpvVXZsdTdzM2c1ejhR?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 21:21:36 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQam4zY281WGpCaUgxY3FiaW1NMkFWbFhzZThYQWJ6ZWtNYjR1TDdZR2ZUX1hRSm16aVl6aTZHRkU5QktKMFZpM3o3aGlqZ2k0UlBsUnk0VmRPLVlNRmM5TFJLbERJMnM2eXRVMmhOVmtzb3MtVDhFdFEyRkdoYVU0c2U4TVFrSWxSQ1hXQ21FR3hkUVpLVHdMRVdVUndReVlaWUVCbXc2WTdpWl8yUTlranRQWHQ0bVhD?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 22:26:00 GMT"
     },
     {
-      "title": "[속보] 국제유가, 강보합…WTI 0.01% ↑",
+      "title": "[오늘의 증시일정] 트리니티항공·엑시온그룹·캐리 등",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MMVRtbTFKQldhT1dkbEdDYkdOQW9QcEJfUG5SczE4dnZaUTEwZEVVSG8tUDlyWWt0ZWR4bE9QZlQ1d01yOE1WVTEwVG9jZkIxSVdVbXloVWY1UmNDV044aQ?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 21:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jcG9nQnEwZXNpR3ZTTW91Ul9hUnhzSk9YN1VzV3NaTVdDeTFPbWdhS3lETU12LVVMd0Nla3FOT2I4M0IxVmMzYk5nSFNFUmhFOUFz?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 22:43:00 GMT"
     },
     {
-      "title": "주한미군사령관, 내주 美의회 청문회 출석…사드반출 이슈될 듯",
+      "title": "ESG 공시 코앞인데…인뱅 1호 케이뱅크만 하세월",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHM0VlNBZWhzRWdMYm1VQU1kVlFSUzJhWExONUhHWEplV2JXQVhuZlNOUGpEaWp6cWs0RUFyRGs5VkR3blVVR1BiVU1qWDBCQWYzbHEydlZISWZVV2NZMTR2MFJzVGV3NGp4SlZnUVpvaExIc2w0elZiMDN5SHNsdDFqVWlPV2tZWnhSM0loWC1yMlF4dlBYaWJ4R1p4QlhsdXAxWnRPaUhHSGFfdS1OVG55WUtmQlhPOUE?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 20:40:46 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdDZpWGdHWFdsMy03LWdLbHZESi15ZWE0SDhYbzFUOWliX1FwbjY0eGhYWkJXVnY1SFNNeHU4U2VWVXlTdFExOERkcHZUYXNQZEtGS3NhY1l0RFF4TE40bnRDeXhDb2p2MTdpLThWTk8zeHgzQzFvMVB6WEdWb1UxT2xVZUh4TFV0NUNMLXRvQTV3aGxTR3lvTnFxdDFDYzExdjcyOTZfQldIZWZnblhHWWoyc2lublJv?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 22:11:26 GMT"
+    },
+    {
+      "title": "iM증권 \"한섬, 백화점 턴어라운드 최대 수혜…자체 IP 경쟁력 부각 '매수'\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DZUE2SjhacUdvRjdtZWU1WXpnaXdxTGQ0VS1RNFR3UTFmYUtNRXFOU3JlUzVNaFhtTnBsM2xRVW1sU0RCT3lxb2JGODhqaHRMRGhR?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 22:37:00 GMT"
     }
   ],
   "sources": [
