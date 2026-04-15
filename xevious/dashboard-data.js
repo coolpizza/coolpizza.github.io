@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-16T02:45:49.847866+09:00",
+  "generatedAt": "2026-04-16T05:38:27.730277+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,51 +16,51 @@ window.DASHBOARD_DATA = {
       "change": "+30.55",
       "changePercent": "+2.72%",
       "direction": "up",
-      "updatedAt": "2026-04-16 02:43"
+      "updatedAt": "2026-04-16 05:33"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,379.87",
-      "change": "-156.12",
-      "changePercent": "-0.32%",
+      "value": "48,463.72",
+      "change": "-72.27",
+      "changePercent": "-0.15%",
       "direction": "down",
-      "updatedAt": "2026-04-15 13:38"
+      "updatedAt": "2026-04-15 16:20"
     },
     {
       "label": "S&P 500",
-      "value": "6,997.36",
-      "change": "+29.98",
-      "changePercent": "+0.43%",
+      "value": "7,022.95",
+      "change": "+55.57",
+      "changePercent": "+0.80%",
       "direction": "up",
-      "updatedAt": "2026-04-15 13:41"
+      "updatedAt": "2026-04-15 16:20"
     },
     {
       "label": "나스닥",
-      "value": "23,865.48",
-      "change": "+226.40",
-      "changePercent": "+0.96%",
+      "value": "24,016.02",
+      "change": "+376.94",
+      "changePercent": "+1.59%",
       "direction": "up",
-      "updatedAt": "2026-04-15 13:41"
+      "updatedAt": "2026-04-15 16:32"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,475.9098",
-      "change": "+5.50",
-      "changePercent": "+0.37%",
+      "value": "1,476.1394",
+      "change": "+5.73",
+      "changePercent": "+0.39%",
       "direction": "up",
-      "updatedAt": "2026-04-15 17:36"
+      "updatedAt": "2026-04-15 20:30"
     },
     {
       "label": "100엔/원",
-      "value": "927.68",
-      "change": "+1.68",
-      "changePercent": "+0.18%",
+      "value": "928.91",
+      "change": "+2.91",
+      "changePercent": "+0.31%",
       "direction": "up",
-      "updatedAt": "2026-04-15 17:28"
+      "updatedAt": "2026-04-15 20:32"
     }
   ],
   "weather": {
@@ -68,24 +68,24 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "10.8°C",
-        "feelsLike": "8.8°C",
-        "highLow": "최고 23.4° / 최저 9.3°",
-        "humidity": "74%",
-        "wind": "7.2 m/s",
+        "temperature": "9.3°C",
+        "feelsLike": "7.0°C",
+        "highLow": "최고 23.4° / 최저 9.1°",
+        "humidity": "73%",
+        "wind": "7.1 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-16 02:30"
+        "updatedAt": "2026-04-16 05:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "9.3°C",
-        "feelsLike": "7.4°C",
-        "highLow": "최고 25.6° / 최저 6.8°",
-        "humidity": "89%",
-        "wind": "9.0 m/s",
+        "temperature": "8.0°C",
+        "feelsLike": "5.9°C",
+        "highLow": "최고 25.7° / 최저 7.3°",
+        "humidity": "84%",
+        "wind": "7.0 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-16 02:30"
+        "updatedAt": "2026-04-16 05:30"
       }
     ]
   },
@@ -93,15 +93,15 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,953원/L",
+        "lowestPrice": "1,958원/L",
         "lowestDistrict": "강서구",
         "stationName": "HD현대오일뱅크㈜직영 양화교셀프주유소",
         "address": "서울 강서구 공항대로 653",
-        "updatedAt": "2026-04-15 09:08:39",
+        "updatedAt": "2026-04-16 05:36:50",
         "districtSamples": [
           {
             "district": "강서구",
-            "price": "1,953원/L"
+            "price": "1,958원/L"
           },
           {
             "district": "성북구",
@@ -169,64 +169,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "여야, 내일 본회의서 정치개혁·민생법안 처리 합의",
+      "title": "[오늘의 주요일정] 정치·정부 (16일, 목)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQYk1QNU93akd4dlNPaGx6YjQxQmMxSUI2YmYyNWVsYjdHbm5yYVlOcU9FX0hQTEFodU50SG9EQkVaRC1LLVcyTWUtNEFnNHNJRzVYZzc4X2NxQ2M?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 광주·전남(16일, 목)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtb1VIQVJtQndmcWlUYklQd0hHNVhJSFNXdlFfZFNFSHZpTFRfNXF1WUotRnRvLW9TLWtEYUtGRjBWRGl0Z3JLLTZ4VHhjUDB3RGxF?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 17:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUeWk5aGQ1Wm5NQzlZejVDdkdEYUlTY1lSYjVZNm5zdndQMm9yRU1pYXVtS2hlVFlFbW5sXzlYcVFjNnV3SGlUSzFSelNWcW5QblVv?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "유럽증시, 이란 전쟁 엇갈린 뉴스 속 기업 실적 주목하며 대부분 하락… 명품 업종 부진",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YWFJlRHJhUkZBSUtFU19GX0hYbDBBOGNac3JXVXFGdV85R29ka2NyNEo4TGkwTFAwVk1SRlRqbU4yUzJMQWRyRlZDRnk2MnhvY2dEYXJIX3FGbDV6?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 17:10:00 GMT"
+      "title": "[오늘의 주요일정] 광주·전남(16일, 목)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yclozb3FlNGhYQWR3TWw0M18xajZjWjgtVXdJS1FGMG9PZzhaWG1SbDBnS29WdkxpLUYzUEt4S2FveC11RFdVX0JFbWFJZXAwMUdXQjhZcVhkNGloajM0?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "김건희 '매관매직' 6월 26일 선고…다음 달 결심",
+      "title": "[오늘의 주요일정] 경기(16일, 목)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IMzYxWlJxNUwwWXNxY1FjUGRmMmJwUDFQZEhmRGRtZWZKR1FKTkdhOGhhTmJjWEdHUXRTUWloeHMyMllDMHpNdlJBUDhEUzZUQWhr?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 17:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lNm5rUVJkV21CcXVNSmhkSjl0SWkzb1AxcU4wWTh1UmppUWxyOTZSYUFXOXBud0lSdDJpeWM4bC1Xa3ljOGNsSk5NQjJzd05zeUI0?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "[청계광장]BK21 5단계, 논문보다 사람을 키워야",
+      "title": "[오늘의 주요 일정] 울산(16일, 목)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLaGFJWHI2RUs1eERxVFplMlIwLWwyUHJMMFlaNGt1RjVvUnpYODFlaDdPNUFFenhnazlTU2NxaE9xZDlyWVhmaHFmVnF6WWZnaHc?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 전북(16일, 목)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NMWtjT245elhGazlkYXIwUW9yY1JGWV84eU5pUUdqREJCdFgtZE10YlNvNnJ5YlAtU0lZaGpXdUNMTk16X1NCbXlXcXVQZEZjU1RN?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 17:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mR0x4Nlh3Rm9oRXVSMWR1UVlRSUdoa2puZEl6TkdzUUtuYzBCa18xZzRvRW9HVVR6bTRwWE1mWlBGU3ZhdVZIV0RsT05iODNSTHJn?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "유혜리, 상하이 '럭스아시아 2026'서 한국인 유일 '올해의 인플루언서' 선정",
-      "source": "더쎈뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tczh6RFYwSlExTHAtejdCUVRQYWdYNjhUSW55YjlmQkxGZVNyeVpnX1NZTEZvYk9QcV9WWEhTd0ZYNmpmSHdFdGc1MVFWRDJyRnpPSEZHRS10WUJCemVlcHVPYm5nRFVt?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 16:50:36 GMT"
+      "title": "[오늘의 주요일정] 전북(16일, 목)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xbjhwSHdRU0ZtRk40RjNpVk5uZk5uSm96c3hBam42akRpZWJVQXg4VXdXZ2RpMjdvSFgxX21oX0gwVVBKQjRWNzR4SERqVHktdmdsYQ?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "\"美·이란 '2주 휴전' 추가 연장 검토중\"…'실무회담' 열리나",
+      "title": "[오늘의 주요 일정] 울산(16일, 목)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Kcko0R2Q1MkFzV0dJTnFEdkstLS1jdUtjc0FzSnczWndWYmNTVDZYLXJmczB5YVZrSnRpeGo0N1Y4QnFJX21mMno4WERxRUxIRVFzMnRYT3NkX0g3cXI1cThJTm5GcG9aLWc?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 17:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96b2NjRGxZMmNtMGstbXdGbXpXNDR0clc4ek0td01ocTJ4SlhsZmRjZjUybndoTUp1ZER0SzVxNDFJcnM5RnFiWEVxQjdkcXZTVndv?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "부산북갑 한동훈 딜레마…장동혁 '웃음 사진' 빈축",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41ZmxNdm8xU295X0E5RGd0Xzg0Y1A5anJrVGJnX0VObWJZYmRCVUpMZ2pEaUlwZmh1QkFsTFJfTE9jbkVId2ttWW5WbFpEUmNrbi14RlVvazZJWmpyZ3NQTEl4ZTMxUlZIV1E?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 17:05:00 GMT"
+      "title": "[오늘의 주요일정] 부산·경남(16일, 목)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LSVJCSVh3SEJSZGcxZFpJTWVjYUExMmR2RDVDR0pOSUVMQV9QOGdwWjZTbFVmN0VIQkV2QW42Q25BREFqc0Z2SUdmQ1BSUzl6WnYtajhyUG1SNzZaQ1V3?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "[MT시평]외환시장서 나타나는 4개 현상",
+      "title": "[오늘의 주요일정] 세종·충북(16일, 목)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4Q05RYUJUS1BTMUhnYXNsdFA2bzdGVXN2TUtBWnpZWjMxWEpJUE9yaVgwSHN4d3RVRDA4MWctZDlOc2VYamJqTm1OX1I3T1d4SnBz?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 17:00:00 GMT"
-    },
-    {
-      "title": "[사설]TSMC 7배 달라는 삼전 노조",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vNE82Qjh5NkZxLTNuRnI5cTM2cTZKTXlGOTdmY2h4ell4dTBQUUpBUXZjX1FlZWFOaXJxeFNwNWRxT2NWM0ZWTWRpQVR6aUtURWlF?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 17:00:00 GMT"
-    },
-    {
-      "title": "\"나 갑자기 울 것 같아\" 정희, 영식♥정숙 핑크 기류에 결국 눈물",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vRGZielhzQmY5LXZwWWRfR1Q5MklsOUVyY2Y4dFYyWTN1bXJNaWlJdEJtb2otOS11YVM5aXZFZUNvYmo5UDRqYkR4RmZnYlhKZW92ZUJqY19ESU03OERzQg?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 16:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsNEJaUlN4NHltY19TdGpYcFRIU185ZHpBc3hjZUR0RWhRRlJUdnVpMEwxY2FyZl9OVVZNd09vRjdiMkt5SV9VODF0WTl1VlBRR2tr?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 20:01:00 GMT"
     }
   ],
   "sources": [
