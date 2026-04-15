@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T17:04:31.520043+09:00",
+  "generatedAt": "2026-04-15T18:45:22.577199+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -8,7 +8,7 @@
       "change": "+123.64",
       "changePercent": "+2.07%",
       "direction": "up",
-      "updatedAt": "2026-04-15 15:30"
+      "updatedAt": "2026-04-15 18:05"
     },
     {
       "label": "코스닥",
@@ -16,7 +16,7 @@
       "change": "+30.55",
       "changePercent": "+2.72%",
       "direction": "up",
-      "updatedAt": "2026-04-15 17:03"
+      "updatedAt": "2026-04-15 18:44"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,475.4000",
-      "change": "+4.99",
-      "changePercent": "+0.34%",
+      "value": "1,478.7951",
+      "change": "+8.39",
+      "changePercent": "+0.57%",
       "direction": "up",
-      "updatedAt": "2026-04-15 07:56"
+      "updatedAt": "2026-04-15 09:37"
     },
     {
       "label": "100엔/원",
-      "value": "928.13",
-      "change": "+2.13",
-      "changePercent": "+0.23%",
+      "value": "931.04",
+      "change": "+5.04",
+      "changePercent": "+0.54%",
       "direction": "up",
-      "updatedAt": "2026-04-15 07:49"
+      "updatedAt": "2026-04-15 09:37"
     }
   ],
   "gasoline": {
@@ -94,64 +94,64 @@
   },
   "news": [
     {
-      "title": "영암군 '매니페스토 공약이행' 평가 '4년 연속' 최우수 등급",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmczd2VFJCXzl2VzNnRk45eTF5TDBhVHhxblktdUk2VE1TVTZOaHJqSkU2TENWdTF1b3IwSWl0R2dreWlsZXlYckFEWVZlY3dVblZpa2Exa0JFa2pKWU1R?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 07:51:04 GMT"
+      "title": "'미토스' 충격에 전세계 비상…AI가 해킹 공격",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZVYwT0t2OU1LdU10d1R1alpXTG9zWU9pMnVKMHFFVzN3WElZQUF6ZEthdDNrN3ZnTGVqaFdUVEV4ZWNyY1pZNTV2M0ppSUNuT1dGSGVHM3BOa2w1cDNwWXBpTHYzdzg?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 09:42:13 GMT"
     },
     {
-      "title": "트럼프 \"전쟁 곧 끝나\"…닛케이 0.44%↑[Asia마감]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40alVydVBUeDlBTHFsZUlYb211T2M1d01QQmFtVnlmc21DTTVkeFJNTHNxakx6aEF3cFJTeG1QbmtxXy1Vb3lKMnoteS0tdURUeklBc3RpNWctQ2hRQ3RBS2FoaHU5VUlYQ2UxYmJiQzJRdGw0N04yXw?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 07:32:00 GMT"
+      "title": "법무부, 업무회의 생중계…법무행정 신뢰 제고 기대",
+      "source": "법률신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wbTVQZjBiNjlveGJkcm5LMWVTdm56WEJEcjJxdEdBV2p6NUxfUktHS0VqZWRQRUJiMDlvc2J4dzRRWWhYd18xemNYY3dHNFRoeEhUZE12MVBYcW5Pd0FKVjhzelVDT2hDcFNvb2Nn0gFyQVVfeXFMUE12NGxxTlVhVld3Z0tnS2p1YzlYYTlzdHFHbmNmbUtUdmtQQXdCcWN4M0pCam9BWGphc1JBN3V6RnRuVWFtTlk1VmVBUjNXeEZLdHAxTlNsR0ZfaGtnQThsT0d1UWV4ZzhnX1JmQzdJNFJn?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 09:07:49 GMT"
     },
     {
-      "title": "블록펫 파산, RCPS 투자 구조 갈등…드러난 벤처투자 사각지대",
+      "title": "원유發 공급망 차질에…日, 동남아 국가들에 15조원 금융지원(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWlkdzdHbUlVcjJNcW9ENVBJSzZTTXEzZnJXYmRPZ25yeFRrOVllQU0xOENUbzI4d042UUkyeFp1NV80T3FYMkxmbTVHeGkxOTJkdzZEM1ZTdlFhUGdraEVuZWRCNG82VF9lSldRUkhuSVZtUlJ4Y0VJSktPdW9RXzdvcGFiUS1pZFZSVUF6V0gyMGNjN1ZJVk9EQUZLMF8zLVZTazRnaTEta3V2MndnWlRmazFYdkZsZ0E?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 07:50:05 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTTdsSk9TUkE0M3ltdno2bTNwVmoxaHN3MUlLdmJobkwyVjZwRF9lOHpjc01lRWNkQlRiYzU4ZlZja1hiVXZBaWRhQlJNSUk4NlktQ2NIa3ZvckhXYmc1MndPckxSdVd4Mkg3SElKOTJCY1J5UDZBMDFqWllFaXZpQm8tNWRBY2UyZmJ4Q0JaUWhrem9nX1RnaGdrYmxtOW5CMi1SbUx1Ym0tY241X1JYZnFMRDg2QXQ3RU1v?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 09:39:43 GMT"
     },
     {
-      "title": "하남시, 교통 현안 해결 위해 전문가와 현장 점검 실시",
-      "source": "디스커버리뉴스(DISCOVERYNEWS)",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaV1QzTERqR09mWWQtUkNIVERUTGVCVFpBNjdGN2xBMDg4SW1PdVBQUFdVNk9XS0x0Q0NCVnU3a1lkV0phZVFieFFtTEF1eFNzN0xjX1R3TE14NUlqTkRuaElzeGFabmYxZnlUN2c4akFPdw?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 07:08:00 GMT"
-    },
-    {
-      "title": "서울 집값 상승세 2개월째 둔화…강남3구 하락 전환(종합)",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWRONTRrVmx3MjFrRXgzTUJhMENGbTZ4NE1GNzJMc1VGenMtc0R2aGttSGxGZ1UtenMtdFV0clhVWm5jcFpfSVNLYVI4WTBwd3IxbUkwQ1RhUXBFZVVnSXptLXVUT3BNOFRGSW5idVRPcUtkSkdYSDM0S1NIN196d2l3ODA1RFVvQllaWlUwU0V2bzJSOHV0SDktdDVTT2JSUktXU2lRSzdJSEVudjVKcUNNRUtLZ2tEenFmMGZBZ1pBRHBTaXNrWEx3?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 07:37:56 GMT"
-    },
-    {
-      "title": "포스코이앤씨, 일부 발주처에 \"중동전쟁 리스크\" 안내",
+      "title": "AI-양자 하이브리드 플랫폼 구축…엔비디아 전용 모델 '아이징' 출시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9waDdwUFVtV1hTRGdOT01BQi1LVW5nbEQ2b1pCZncyUWJXNk9iRGYzaFpTNzJGWVFvLWYyclBpNjZ6dkptUzR2OTF5azVJZXVIMVR1NEthY3dMNl9pWUNUbw?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 07:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NSWFQc2lIZlAtbVZJV1Fabktsc0V4ai1YTGJpNkc3elFfR0JLM3ZwUjN1WGZ2bFBoa2tDM0wtZmlUc1Ruc0VJQ3NLanNJbnZxdjBB?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 09:35:00 GMT"
     },
     {
-      "title": "[TOPs Pick] [제약] 동성제약, 최용석 전 파마노비아코리아 대표 영입 外",
+      "title": "K-뷰티 성장 축, 중국서 미국·유럽으로 이동",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ycWxTUFUwb3hydXNSTkpXYlBrS1NjSnFxVzFid2JCWUJfSlBmZms3Y1FPckZIQXhQdFg4eFVCVFdTZTdtN25TRGRkWndZcENGV0N2SDBldzZJcTNuUzlnSTdZNDRJQ0Z1eWRR0gFvQVVfeXFMUC1ibllGbFE5OHNJQkNmb09aakZPUm9NMXk5Rml4WVQ2TjF3aVctWTkybVlYLV8xdl9TbEVsTkc4Sk1iMmpTa1VuNEVnS0QxaEV0TWFpcHNoX2txeHBxSmdQMWpVdkVPenJUZG05RWN3?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 09:00:00 GMT"
+    },
+    {
+      "title": "법무부, '월간 업무회의' 유튜브로 생중계",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94QTFFZEJtX0Q1VWU2YnZMamh2Uk9kbzJjSl9DRENhUHc1dm5VOGU0Q0Y4ZkM2dElDMXJKbkZHM1F0OFFuUFJWSEIxVXY3dzJnWlRCMTlDelFEWHN6QnVpQWI5LS1JWTQ?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 09:01:06 GMT"
+    },
+    {
+      "title": "포스코이앤씨, 전쟁 리스크에 공사비·공기 지연 사전 공지",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnpuUkp2bTJvRHZoazBsNjJLUjA3UGRnenJKdlNJWG9VQVJZejZmMHZGMjE2U2NPU3Z5SXVrTzh3S19GWGJKUC1nMTJzWDNaNVFMcUVyOGRyMnJPMWhUVXktaFZsS3lmSGFmUXg5N2JYYXlUeXdDM3U4WUh1ZkcwOW0zR056cXZ5UEgyeEF1Wm9sbllCWG42TnlyTVMwdVZiSFh1emxYVlNjMGFpYVNFOGw5TG03UG05?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 07:55:09 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTExsNkF2QWlSVTBYam5HdTZrVU1hYlFrQWhIbEYtU25OVzRXSElLMUp1NDdxSDlEQWdhQVF2cGFqM1M1eWcyX2h5R2NVbkZKc0owdGpyYzRNNDVNNktrUUZRTkVkSTNaT1hGS2FmcG9VTjk2M21CTHFGZzlGS0VkUG4wX3dGUUtIVTc1R3QwRUtHRzVQUGFGS1QxQ3hSZGN1Y2k3cTRua2VvWVNkcHF1akxhbWJUVHVMU0E?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 09:30:21 GMT"
     },
     {
-      "title": "주요주주 케이에스인더스트리, 인스코비 주식 2000만주 취득",
+      "title": "현대위아, 현대로템에 방산 매각 추진…시너지 노린다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14d2x6Z3lybE5tdGN0ZFBMd2gwQWFpalpJY2xFSGFBOGZIWnAyYk4tamI5MjhMTHZxUW5xbnF5WWZfWE41V3FYaFZDcEIwR1V3NFpR?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 07:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zOV9abmhzRWpRZ3cwSTV4RjVrcFF5ZWRpREQ3UEFLM29kaVVQOTZZYldFZEUxdU5hTjZlaHJ1WFgzS3Z1RDRRZzV4NXQzOG03am9r?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 09:19:00 GMT"
     },
     {
-      "title": "카카오페이·토스증권 MTS 장애 최다…핀테크 증권 전산 안정성 ‘경고등’",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3FqNG8tcnlIX0lqbEdTTmFfUjRQMzhrQmFSNUd0WmhnYlVrZ0hUZUNoRGd5Z1ZHOUgxb1Vxdl9yOUxyMDZOc3hTVXZiTXEzSEhOZEVqYVBTLV9zQjNodXg5Z1pXQUpCR0ZyWkpLaGFpdlFCZXUyX05XTm0zbG1DTWlNS2ZkTzVxd2o2ejBTYlljSHIyMlRYRHQ4WkhqVlNSc01OMHJMbU5DOVlRbzZZYy1adDNEZ1hscmc?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 07:40:07 GMT"
-    },
-    {
-      "title": "신영에셋 \"분야별 전문가 영입으로 사업 전문성 제고\"",
+      "title": "박수현 의원, 민주당 충남도지사 후보 선출",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ncUszTzRCT2FLUDdlUXN6MTJEdjYyX1JJQkFGdUxjZVVESDREcjh1RzJRNko1Zi1QbWpYQkd4dHBsLVQ2a21iTk1CUzVPLXl5MFpB?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 07:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxSWRTSUdxSk5aYV9DbmNNNjJjWGRjMkc3Zk9STGFyTXgxOXEyaFRPLU56dW5lamhpOVpaV2VWSk04LVlQdVV0cE0wVjRCMHZucjhsMWotSHFCV2ViUzQ5WVhrNEZNaEtCWjNpc05R?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 09:38:00 GMT"
+    },
+    {
+      "title": "\"부딪치면 제가 정리\"…李 대통령, 규제합리화에 '드라이브'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UY004LUNqMkJRUkxCTHk2cVliRF96UVNWZzc3cnFhSkd5dlhRb1ByWlc5c0hEUGRHRGpWck1mUFo4ekhoNk8ybDZfTlV5WDAtWmdZ?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 09:00:00 GMT"
     }
   ],
   "sources": [
