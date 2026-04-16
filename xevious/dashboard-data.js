@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-16T20:48:52.602952+09:00",
+  "generatedAt": "2026-04-16T21:53:36.779786+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,24 +16,24 @@ window.DASHBOARD_DATA = {
       "change": "+10.54",
       "changePercent": "+0.91%",
       "direction": "up",
-      "updatedAt": "2026-04-16 20:44"
+      "updatedAt": "2026-04-16 21:49"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
       "value": "48,463.72",
-      "change": "-72.27",
-      "changePercent": "-0.15%",
-      "direction": "down",
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
       "updatedAt": "2026-04-15 16:42"
     },
     {
       "label": "S&P 500",
       "value": "7,022.95",
-      "change": "+55.57",
-      "changePercent": "+0.80%",
-      "direction": "up",
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
       "updatedAt": "2026-04-15 16:41"
     },
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,476.5694",
-      "change": "+1.51",
-      "changePercent": "+0.10%",
+      "value": "1,475.3049",
+      "change": "+0.24",
+      "changePercent": "+0.02%",
       "direction": "up",
-      "updatedAt": "2026-04-16 11:37"
+      "updatedAt": "2026-04-16 12:41"
     },
     {
       "label": "100엔/원",
-      "value": "928.76",
-      "change": "-0.24",
-      "changePercent": "-0.03%",
+      "value": "927.62",
+      "change": "-1.38",
+      "changePercent": "-0.15%",
       "direction": "down",
-      "updatedAt": "2026-04-16 11:29"
+      "updatedAt": "2026-04-16 12:45"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "16.5°C",
-        "feelsLike": "16.1°C",
+        "temperature": "14.8°C",
+        "feelsLike": "13.7°C",
         "highLow": "최고 24.5° / 최저 9.0°",
-        "humidity": "68%",
-        "wind": "3.6 m/s",
+        "humidity": "61%",
+        "wind": "3.2 m/s",
         "rainChance": "0%",
-        "pm10": "28.8 μg/m³",
-        "pm25": "25.7 μg/m³",
-        "airQuality": "보통",
-        "airQualityIndex": "36",
-        "updatedAt": "2026-04-16 20:30"
+        "pm10": "36.0 μg/m³",
+        "pm25": "32.7 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "47",
+        "updatedAt": "2026-04-16 21:45"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "13.3°C",
-        "feelsLike": "13.3°C",
+        "temperature": "12.9°C",
+        "feelsLike": "12.8°C",
         "highLow": "최고 26.3° / 최저 7.3°",
         "humidity": "87%",
-        "wind": "2.9 m/s",
+        "wind": "2.2 m/s",
         "rainChance": "0%",
-        "pm10": "17.5 μg/m³",
-        "pm25": "16.4 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-04-16 20:30"
+        "pm10": "18.9 μg/m³",
+        "pm25": "18.0 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-04-16 21:45"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "\"모범적 사용자로서 비정규직과 노·정 교섭을\"[포토뉴스]",
+      "title": "[포토] 우강훈 '이제야 웃어요' : 네이트 스포츠",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YMXNubmdvOWpvX21nZTJ5YVRPSVdIcmFGelJmVXE1TnFlcVg0MTVneTRsVWRjWGpXVlhVLWZ6WlRYVGZWd3RiU3Bmci1GZHMwc1dPN0JGNEdwNkxaLWtTbkYwbl9IbHN0MXFWVzlzTURxdVVSVUFrRA?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 11:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RREgzakdrTFRCUWxwTkl4eE1TOGVfaW44ci1OYmprSE5IcWFyNXZvWU4zT2dicTRta0ZFcnEzUnN1WHZaRW9XcEZzSW9VYjNlekUwc0x3?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:30:00 GMT"
     },
     {
-      "title": "이스라엘, '정상 접촉' 관측 속 레바논 남동부 맹폭…11명 사망",
+      "title": "이스라엘, 공습으로 레바논 남부 마지막 다리 파괴",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02b3pCU25ySTQ3SDNzMlgtazgzeldsTmFOSzFkLU9NZTNDWUtWRHVQcXBoWkN4ZTUyVm1GWkNuYzZ5bi1PckJyVldVZm80T244Yk4w?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:37:00 GMT"
+    },
+    {
+      "title": "민주평통자문회의 수석부의장에 강창일 전 의원",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zV3pUZDBBc0xTdDNINmpBY0hOUHZRNjQ5MG9xWGlHMGpHd2hmd1oxZjFpMWQ3QW9zT01veHBDaXJUNG1ua3BmNHB2YkhnQ041WGxodHZJUktQc29DYi1XbUFuZnN1MTNydFBnTWVPajRoZ3NpWVR6SQ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:16:00 GMT"
+    },
+    {
+      "title": "국외소재문화유산재단 이사장에 박정혜 교수",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14ZVhGTFVTaVVZQk5qSkJlODRhcGZaaEhOdVM1QUV2Nm5aLWRWS29aUGZkTHROekFBNUcwaWwtYXBvcm1ianRoMzZ5Q0VZZDg1djY4?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:16:08 GMT"
+    },
+    {
+      "title": "코스피, 다시 6200선 돌파 '시선 집중'[포토뉴스]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lbk15RTFnWWNGWnpyZEZwU3FTN2ZkQVRfdnZ6VjV2ZERtOUFJeHljRFJqVVJEMWtXU0xKZnhmMEI2cmQ2bjFUWDNLU3lZbXBTM3Bz?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:07:00 GMT"
+    },
+    {
+      "title": "구윤철 \"중동 리스크 해소되면 환율 안정\"",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdDZfVEl1VERhSm9sSXUtaWV3YWFXX3Rkbi1uUWR5akdXUEJMM3JJYTY3SXowTTY1ZU9mOXk2SWRTVG0xSWF2akxqSVItX2g5cFR5YXhZdW8wRnN2MV9jak5ZSEpHalk?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:02:18 GMT"
+    },
+    {
+      "title": "이란 협상 앞두고‥미, 차세대 폭격기 B-21 공중급유 사진 공개",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PcjRkZFBNRGZBMFJzZkE3Z09kQzFGdTRqSUpuazl3R2pOTlRPNjNhNEFTS2s0YXJYM1U1NjhSVWNUUEN0OWhzZ0lzTXBTWnBLOEM1dWJxODFuR0JqSHlfdHJYSnV0Q1E3a1E2bncyZHU2aWRu0gF0QVVfeXFMTU9yNGRkUE1EZkEwUnNmQTdnT2RDMUZ1NGpJSm5rOXdHak5OVE82M2E0QVNLazRhclgzVTU2OFJVY1RQQ3Q5aHNnSXNNcFNacEs4QzV1YnE4MW5HQmpIeV90clhKdXRDUTdrUTZudzJkdTZpZG4?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:05:55 GMT"
+    },
+    {
+      "title": "IMF '아시아, 중동전쟁 따른 에너지 충격에 상당히 노출'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYU9jUjJSWDhsTHZ3cFNmcjdTYTB4M0t1cERhVVFnNHd2QU83NzF3M1hwSXRsWW5tOWcyYTJYVFF2MDlLc1YyTFVDV1VoYlFaTXNDdjVlZ0RTdHR5MEZxNGlSWXVfSEU0ajl3WVVWcUowaTNTbmdpOE9tMEo3OF85NG1KTTNpQnRCSEFtM1c1Q0l2SXZmUlYyVkdualNXbXJsOExjT25mV3F4eFFtR0VyZ0ZrN25jeEUwMnc?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 11:28:12 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeU90dGFCczRGWG5Vb3RwR0ZramxmU0tvRWNwU0cwTjFRZTQ4N3BFNWs5NTRKRHRuWGYzX2NaSko4dzRhY3ZhTHJJTExWYlE0MnUyVEsyQjlGMnpZV2NRYWEtOFRRRE50MjZHd2x3U0lESDZMWnJXRHJJbmRuSWs1bkVWQVZQQS1qd1B5WmhqV0dOQ05sVE9IdEVwLTJwV29BMUhSdUUtaEl5aUgtUlRUUWFQTEtwTUoy?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:43:59 GMT"
     },
     {
-      "title": "검찰, ‘10조원대 전분당 담합’ 핵심 임원 기소",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00UG02THVSOVgycHhySXpUM2E5MTN5UXoyLTlnNWNDSUgyMXRJUlM3eGhlOFYxaEhXcGpiZmc2M1BaMGpmV2pSWllOcXhRU2ZYU2dxNmtfUTF1Q0VnUDRWRkhaUGQ3N28wWENsOUMwM29KN0xq?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 11:02:00 GMT"
+      "title": "[헬스 HOT 뉴스] '국가바이오혁신위' 본격 가동…\"바이오 정책 총괄 민관협력 플랫폼\"",
+      "source": "비즈월드",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZFVvOU9LMkp4bm1LZ05aLWYwYkFQR0t6Vjc3R1BnOWNCWi1JQzExc0hrUnFLUDhjVFlkMGFsYVBYM1ozOVZTNk9tSVdXVnJEVGE0WkRGYV9hLW9WbEp5TUg5eWgyUkFSX1A0?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:12:00 GMT"
     },
     {
-      "title": "[비하인드 뉴스] 민주당 의원들 빠진 자리…'윤어게인'이 눈독?",
+      "title": "때이른 더위에…그늘막으로 '옹기종기' 피신[포토뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zSzV0MURsSVB6YUdsMGNTWlBSUWw4R1I4U0dPekxTb2ZqRnlya0c4RF9mVDVvZHdPM21NZ01iUHVpaGhfVTBFN0UzZ1d6STJmZEpR?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 11:16:00 GMT"
-    },
-    {
-      "title": "'김관영 무소속 출마하라' 응원 화환 파손···경찰 수사",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05VVdCNmJ0MUtFUGpxYXAwVHRyeXBuZzJVRVhUcGZQWVgxRXVTY2pCTy1hWWdfd3FZbldhOE1ubVR6dlJRSndPeUlKQU1qZUFaSVc1MXpUM2V6SzBZZkVFVzdGeTlHVHlFNFpDMXlzU1A3dUtpWFNHNg?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 11:43:00 GMT"
-    },
-    {
-      "title": "이 대통령, 영·프 주도 '호르무즈 안정화' 다자 정상회의 참석",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00MGpKWTc5aFBfRnpRaWJWdm5CYW5CSEtqeV9RV0p4Ymo1TkFmNE5CUmhVSXdIdXoxeTZpUkpZenpaN3RFRGZQeUJsY2dFSk45cEpv?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 11:34:00 GMT"
-    },
-    {
-      "title": "[포토] 치리노스, 오스틴 위로에 울컥",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CSEJvQV9STTFvVFZKNkY0aUhVQ1hmS3dEazNHRmJFV1hWc0lYRmFYVG90U3ltREpvWHpzU1VwYVdkbzlaMzlLM0R2MlRRcVFxNmhpYWpB?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 11:34:00 GMT"
-    },
-    {
-      "title": "[내일 날씨] 전국 흐리고 남부·제주 비···더위 꺾여",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MblBIV2g5S0xvcmFJaTVpQ01FY0xTMmdEUWhraUYxZHZ2NFl2cExtMWpFMGRlbktMeW9uM2lqbm9DQTdoOVZYMV9WYmNmd1VNS0E1RmRuVTlhX1JDWjZuRFozRmN0a0d3ZmxVN2JQQlRZaUF1Wngteg?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 11:18:00 GMT"
-    },
-    {
-      "title": "파키스탄, 미·이란 2차 종전 협상 준비 착수",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BM29GbjVsNTEtZUhxSTB4Nm1QbHphX0U5YmRCVVA3S1BidEZNalhac1ZRZ0VrNWJNZm9Hb2REQWFfcXV1UkxVUl9qMVBtd1E5YXI4?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 11:02:07 GMT"
-    },
-    {
-      "title": "검찰, 고 유병언 차명 의심 재산 아파트 추징·보전 취소",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KazlhU25rLVhkeUoyV1RoVkpwTlRkQ0FxTkpSY1VDaTRYQ0pQZVE2OWh5czVPclhsTlNKU3M1UXVmWEFnSDFLX05iZjM2ZGgxZTRPUkVpSGVsVjZpNm1kOQ?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 11:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xX0N0OTU2dXZIUnphUFZueElJU2VfTjhDbUowdGg4dVZYUFVOcFJmWV9hWW4yUE55R05fbnd3amJ5LTQ3VC1wNHVESVB5bHdYeVBXeklZSU1teXhSUUNBQg?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:07:00 GMT"
     }
   ],
   "sources": [
