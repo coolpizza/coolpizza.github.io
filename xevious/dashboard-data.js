@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-17T07:06:54.495094+09:00",
+  "generatedAt": "2026-04-17T07:54:09.892884+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@ window.DASHBOARD_DATA = {
       "change": "+10.54",
       "changePercent": "+0.91%",
       "direction": "up",
-      "updatedAt": "2026-04-17 07:02"
+      "updatedAt": "2026-04-17 07:51"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,478.9193",
-      "change": "+3.86",
+      "value": "1,478.9392",
+      "change": "+3.88",
       "changePercent": "+0.26%",
       "direction": "up",
-      "updatedAt": "2026-04-16 21:55"
+      "updatedAt": "2026-04-16 22:49"
     },
     {
       "label": "100엔/원",
-      "value": "929.28",
-      "change": "+0.28",
-      "changePercent": "+0.03%",
+      "value": "929.42",
+      "change": "+0.42",
+      "changePercent": "+0.04%",
       "direction": "up",
-      "updatedAt": "2026-04-16 22:01"
+      "updatedAt": "2026-04-16 22:36"
     }
   ],
   "weather": {
@@ -68,31 +68,31 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "9.6°C",
-        "feelsLike": "7.6°C",
-        "highLow": "최고 16.9° / 최저 9.6°",
-        "humidity": "66%",
-        "wind": "3.2 m/s",
-        "rainChance": "0%",
-        "pm10": "18.1 μg/m³",
-        "pm25": "17.3 μg/m³",
+        "temperature": "14.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "60%",
+        "wind": "1.2 m/s",
+        "rainChance": "30%",
+        "pm10": "19.8 μg/m³",
+        "pm25": "19.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "36",
+        "airQualityIndex": "39",
         "updatedAt": "2026-04-17 07:00"
       },
       {
         "location": "익산",
-        "summary": "약한 비",
-        "temperature": "9.7°C",
-        "feelsLike": "8.4°C",
-        "highLow": "최고 15.7° / 최저 9.5°",
-        "humidity": "90%",
-        "wind": "5.8 m/s",
-        "rainChance": "15%",
-        "pm10": "22.4 μg/m³",
-        "pm25": "19.8 μg/m³",
+        "summary": "흐림",
+        "temperature": "13.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "80%",
+        "wind": "0.3 m/s",
+        "rainChance": "30%",
+        "pm10": "24.6 μg/m³",
+        "pm25": "21.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "29",
+        "airQualityIndex": "25",
         "updatedAt": "2026-04-17 07:00"
       }
     ]
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rQU1fWXJPdGdQZ28zdzE4ZVJCWUs4d2dqRW5ZeXF2MGNqS0lKYTl3bTgtWlZ2MkFxZzgxcWdxQkFQbmU3MFEwRW83RjVrOFBPaDY3bU9BWUdLaXhhSDRRSk1vLVltbW9IZWfSAWZBVV95cUxOYTFndTNBN3RSVVF1SDVCTVduQVJuVnljNVlrNzd5ell2UklRamxEMHNHb09wTWo1RkpLSWpQQkM0NzhvVjZZd0dFVWRaMExlSEZTM3Y2QkROa2RYM3dlNDlYeXZSMVE?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 21:09:00 GMT"
+      "title": "[AI기자의 News Briefing] 4월17일 오늘의 주요 뉴스를 전해 드립니다.",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzbWJTNzRFZ3M3cHl0V3pIaVNNY0c5SHczWWgyTVIyZ1F0YVAzMlE0Q05kMHhMbjBkQkh0RVdDY0JnY0RMc1RzR1I4aEVUalY2ZmpVN19ud3pIOHVzZHZvVXZTanVzYkpEbmc?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:06:37 GMT"
     },
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "title": "4월 17일 굿모닝 MBN 이 시각 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUzkwOWl1UGRIRVE1dTB2RHhyOVl2bHpQWHZPT2dVQlNocUZzcHV1dXNvSDhYXzBsWVFjbExrNkhORFliX2U2M1R0X3l6UVVmWTRv?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 21:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WUThLU0hVeEFFamU0ZElEVDVEaW1zXzdMU0szVEx3QW1fUmQ1WFFNcG10dVZLQWI3UGtVenJzMWFEelhncDF0Rm1PVkF5MWg0aHZrYjRrZFVhU3pTNHlzUQ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:41:00 GMT"
     },
     {
-      "title": "[26년 4월 17일(금)] 상폐위기 감추고 “2차전지 합니다”…간판에 속은 1만5천명 ‘피눈물’ - 비티의 오늘 주요 뉴스 요약",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPai1hQTllX0NXcmJVNDM0WlR5Mi1YWENIakVfNHdoMGJNWFAzd1djekM5a3JRdVppS2ZmTW01WVJFR05mLVJsbDJUNmszeEg5SlVYLTRFQjlRMGFiU1M5Z0lBV1pBY3h4Z1NPYU52UlhkZnZiTlc2OUlmSHRvZFBuUw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 21:34:24 GMT"
+      "title": "4월 17일 굿모닝 MBN 주요뉴스",
+      "source": "mbn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcFN6b3RWMVVqMERXMVVLVERTdUVIeU1HQUdYOVBrLTBiWmlRNk9KSHlXZDRhZ0xhcmo3Qnk1Ti13anh3X2NnOWRJWmtvUXpSWVdJbnFPdTBtT2NfRFJEelpGdG1iRXRyY2ZUWXlQcThXaExrM2ZXOVRDVWJ1S3ZIZ1M5bTJTdlQ5SWtB0gFMQVVfeXFMTkctM25oZm9iaHNRUGdibjZHY1g2U3U5LUlqTWdWTmpKVWs4c2ZBS2VlSFlWR043dkNrMkgyRVhWRDBXbklzNDJsd28wag?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:00:35 GMT"
     },
     {
-      "title": "호르무즈 통항위한 영·프 주도 40개국 정상회의…한국도 참석",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDdxTlVXRHo2Ti1hTE4tU0tVWVlvTndxMjNLb2NXX012enMxdnJoWVZ2X1lBdm1jSzZHbE0xMW9JNWlVa0VqenM4S0R0RWhlSTZCcV85MWtvUWVhbkZILXhjZ2d4aWlfd2tSd0MwOWtEaHNYcTRsUThobnVZVk1ONmZ0NkItOEx0N3VlcENac2JSaU1aNXlhZ0RHZWtKa0NsZktXal93R19tZnBXMGRWVjR2c2N0Z3ByR2c?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 21:32:43 GMT"
+      "title": "4월 17일 여수시 주요일정",
+      "source": "남해안신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZYW9ZNnZ2akx1RElBemkxOTVrTEpnd3B0WHVqSHVlNjJBV05NdnBtUU1OLVJTSy1ZaDN2WENuSGRfUG9oQzE2WlpoYmZhWmptWjlmd3Q5WUttZ2VEVlZiMXItZHpZYVo4?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:04:12 GMT"
     },
     {
-      "title": "미국ㆍ이란 휴전 기대감에 뉴욕증시 S&P500·나스닥 이틀째 최고치 [상보]",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHMjFGeWZvVnhPUlBoalUySGZQUDhlVW9oZXc0WlVTdGJGX21NQm50djlSaDVHaEJ0b3lKaDB6WTVxUEJ3T0ZKcG9FNnVBTDBVUVdiRWo4ZnBYZjduU2JWeVJCZHVIaGZ1X0pCTTJR?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:04:00 GMT"
+      "title": "EU집행위, 구글측에 DMA 준수위한 데이터개방 등 요구",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QbzZ2Um5nd2pqdzlFWW5mWFlrc2RUbUZCb0RhbjB5MmhoRjZzdXl3ZzJiZ2FTbmtJYXNPbVJTU2RWSm5QOTFpNl91eV9TRjdady14UGluS20tcjVmV0E?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:09:35 GMT"
     },
     {
-      "title": "[4월 17일 간추린 뉴스] 휴와 다이애나가 펼치는 SF 액션 어드밴처 '프래그마타'",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KVG01a3VJNjViSThhbU1xeG0wYmpDVE5zYnZRV2VCQmxKRDUyTk1Vc0dDMk9vWmFDOU1KSWRETzhpUVBiZVliVmtGSXpjTFR1LWRUQWpWQzZnRVBUM0E?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:00:01 GMT"
-    },
-    {
-      "title": "롯데물산·호텔롯데, 본업 회복에도 케미칼에 발목",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVBGVmo2SE9aVzNuTmVEU1BfNnljQUxPT3VkcDNWMl83dzJkenFHX3ZtMTk4ZEkzMjVOZDNSQXJZeHhOS0xQRmhna1RVU09JWTFfaFlIcFNTU1lESkprTWlIUWVFY1Q3bWx5S2Rtc19BUmwyak1EdHNUT0k3QVplT3RPZ2ZOWjVOeGduVEdkc2YtX0l3Z0hLY2VUVUl2R0w1RTNIQ25sM1dEcUE0SjdIb0VnNXd3TXNz?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:02:45 GMT"
-    },
-    {
-      "title": "트럼프 \"종전 합의 주말에 열릴 수도···합의 매우 근접\"",
+      "title": "[오늘의 IR] 코리아에프티",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iMXdwb0tfLUF0X29WN05OSmR0TWhmenpMVlpVdWp5bUpUVlRJS1lTbFRxY3NEbU1RLVRxZl9Cemc2Y3AtQm13VUZTQjczYWctREwxWVBwXzRiUThjQ2RDdA?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 21:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55YW1RRDhSOWtsNHBDdUtQTlJMemZnelpnTTFiOE9zTm5DNHZEdC1KVWZGeWctWDVGd1FST3BRQlFQWDQ1NDBuOG5zcmxIczJOVEQw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:29:00 GMT"
     },
     {
-      "title": "[속보] 국제유가, 급등...WTI 3.72%↑",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vRkRDcFdQZERqSS1xT1FmVlJqVlJUVVJ3YnVwZ2NxU1VJWEt1MTZMY0poMjB0VVVpeGpyZ1NHZ3ZSUWpvZFVyeUNWX0VUS1Vac0xCVVoyNTNpTXp1OW9pdWVEeHd6TGZfakh6VUtR?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 21:17:00 GMT"
+      "title": "여야, 오늘 본회의 열어 정치개혁 법안 처리 추진",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrWUNNbjZIZDJ6dnBDaTdDWjV3VGdSS1NCblY0RHp4RHZYTmNOb3owNFpQOFdMT1JETi1tUl9MODNQVXprUmhJMFRXY0p6cmRycFpj?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:25:00 GMT"
     },
     {
-      "title": "[구미소식]구미시 글로벌 K-미식 관광 성지 도약 등",
+      "title": "현대차 노조, 완전월급제 도입 주장...로봇 현장 투입 가능성 대비 조치",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDN0MEQwand2UzVtSjJLczNmMkhzWk1TWHBMcW1JUF9pWHVEa0ZDaVpxSXdpdnVkZ1FULS1tMGoxTmNINmlyQUdrV2VhMHdOQkRBZEEycEJENzZ3bHZqM20tNXB6RnU2OGo3TEEzNjBkZ2RsMWp2XzBYeFNNOGRSMThqTTl4UllBVDRoaHVFUjg1dFlOUTlpNDAxbE5WXzRLSVJoekxxV0NkcUo3N25VUHBRS3B1S1c4?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 21:57:45 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZSV3kxSGhuNGNWU2ZLeE1MdFlHVXdNRUF2OGpXNVZxYi1UWlBCTGNSZHZrWDVZNHMtNnJlWXZ5V1VvVVViSnEtbU91aURBX0M0QnlVVmE2X2J4clNUMWZjeEtxVFJoVENueFd6YWRMWjJqY3J2bnhGQy1vcjlrN0hMSHd2alh0ckdCNjhPaHc5bzZfaXdSRFAxdkdwX2NYTjZUcHFBOGJuWWNtbTJsbWNhQS1fYjhCZHc?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:52:49 GMT"
+    },
+    {
+      "title": "법원, '이 대통령 명예 훼손 혐의' 전한길 구속영장 기각",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90VDg4dVlpaHlKc29zaFlsM0g2VWdsSGM3bm9tZ0w3TElWd2Jac3pqQ0lMTmNneGRmRjdFbER5bFVpckg4VVoyQklDb1NyZjEyWnVJd21oU24xd2d1V3RadTZMM1BEVjhWSDAxTmRJVUh5ZHBlZlVrdQ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:25:00 GMT"
+    },
+    {
+      "title": "TSMC AI 열풍에 올해 1분기 58% 급증 순이익 사상최대",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8teXNvbVJOcG1haWxOQjh2YjdFYzhFb0JvZ0NjTW4xT0JfODVpV3poZlVFNFBHMUZSMG1EMkZxNE5Hel9waWcxWmJCRHlFZDB6Sll1QmJwWFdRdWQ0RVE?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:19:48 GMT"
     }
   ],
   "sources": [
