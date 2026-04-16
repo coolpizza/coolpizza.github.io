@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T04:49:53.773700+09:00",
+  "generatedAt": "2026-04-17T05:37:02.188601+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,51 +16,51 @@
       "change": "+10.54",
       "changePercent": "+0.91%",
       "direction": "up",
-      "updatedAt": "2026-04-17 04:47"
+      "updatedAt": "2026-04-17 05:33"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,593.14",
-      "change": "+129.42",
-      "changePercent": "+0.27%",
+      "value": "48,578.72",
+      "change": "+115.00",
+      "changePercent": "+0.24%",
       "direction": "up",
-      "updatedAt": "2026-04-16 15:47"
+      "updatedAt": "2026-04-16 16:20"
     },
     {
       "label": "S&P 500",
-      "value": "7,038.69",
-      "change": "+15.74",
-      "changePercent": "+0.22%",
+      "value": "7,041.28",
+      "change": "+18.33",
+      "changePercent": "+0.26%",
       "direction": "up",
-      "updatedAt": "2026-04-16 15:46"
+      "updatedAt": "2026-04-16 16:20"
     },
     {
       "label": "나스닥",
-      "value": "24,091.43",
-      "change": "+75.41",
-      "changePercent": "+0.31%",
+      "value": "24,102.70",
+      "change": "+86.68",
+      "changePercent": "+0.36%",
       "direction": "up",
-      "updatedAt": "2026-04-16 15:46"
+      "updatedAt": "2026-04-16 16:31"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,479.3000",
-      "change": "+4.24",
-      "changePercent": "+0.29%",
+      "value": "1,479.7393",
+      "change": "+4.68",
+      "changePercent": "+0.32%",
       "direction": "up",
-      "updatedAt": "2026-04-16 19:41"
+      "updatedAt": "2026-04-16 20:30"
     },
     {
       "label": "100엔/원",
-      "value": "929.34",
-      "change": "+0.34",
-      "changePercent": "+0.04%",
+      "value": "929.76",
+      "change": "+0.76",
+      "changePercent": "+0.08%",
       "direction": "up",
-      "updatedAt": "2026-04-16 19:33"
+      "updatedAt": "2026-04-16 20:31"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "15.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "55%",
-        "wind": "0.9 m/s",
-        "rainChance": "30%",
-        "pm10": "25.8 μg/m³",
-        "pm25": "23.3 μg/m³",
+        "temperature": "9.9°C",
+        "feelsLike": "8.0°C",
+        "highLow": "최고 16.9° / 최저 9.6°",
+        "humidity": "67%",
+        "wind": "3.0 m/s",
+        "rainChance": "0%",
+        "pm10": "22.5 μg/m³",
+        "pm25": "21.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-04-17 04:00"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-04-17 05:30"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "11.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "55%",
-        "wind": "0.5 m/s",
-        "rainChance": "30%",
-        "pm10": "18.5 μg/m³",
-        "pm25": "15.3 μg/m³",
+        "summary": "약한 비",
+        "temperature": "9.7°C",
+        "feelsLike": "8.4°C",
+        "highLow": "최고 15.7° / 최저 9.5°",
+        "humidity": "92%",
+        "wind": "6.3 m/s",
+        "rainChance": "15%",
+        "pm10": "20.7 μg/m³",
+        "pm25": "16.9 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "33",
-        "updatedAt": "2026-04-17 04:00"
+        "airQualityIndex": "31",
+        "updatedAt": "2026-04-17 05:30"
       }
     ]
   },
@@ -101,15 +101,15 @@
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,958원/L",
+        "lowestPrice": "1,959원/L",
         "lowestDistrict": "강서구",
-        "stationName": "HD현대오일뱅크㈜직영 양화교셀프주유소",
-        "address": "서울 강서구 공항대로 653",
-        "updatedAt": "2026-04-16 07:48:25",
+        "stationName": "지에스칼텍스㈜ 경인고속주유소",
+        "address": "서울 강서구 국회대로 225 (화곡동)",
+        "updatedAt": "2026-04-17 00:12:28",
         "districtSamples": [
           {
             "district": "강서구",
-            "price": "1,958원/L"
+            "price": "1,959원/L"
           },
           {
             "district": "동작구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "고성군 주요 정책사업 점검 회의 가져",
-      "source": "고성미래신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlcjN0dzlyMnlVRlI5M1V5N3NiLU1zX1c0SDU5b19CRS1WM3RvaE5KM2NObGdIdms2My00dVluTGJMd0p2VnpDc21kdjJMTEtLVUFWV0JMR2RObTBMS2psZDVsQW9zREsz?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 19:02:40 GMT"
+      "title": "[월가 레이더] S&P500 사상 최고 이틀째⋯나스닥 12연속·2009년 이후 최장",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVaHptOS1IYkRra3lnaTczWTYxZlBmLTNYb1JuY3JnQUJXaUljMC05dUJtSkxiTjZKM1Vra0tFY1FYOFFMZFZxMWt0T2M4dnYwWVdfZnpDam03T25ZekE?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 20:23:17 GMT"
     },
     {
-      "title": "축구 경기 중 심판 피살…\"계획 범죄 가능성\" 에콰도르 충격",
+      "title": "[오늘의 주요일정] 부산·경남(17일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBRDBFQm1pT2Nyci1NU19FLU9CNldzdnhkZ2tOSlE3TFNqMlZQRS1jZmp1V1hBYmtEdjZ2Ukt2c1NzUXA1cXU5Zm9JNHZrbUNyOTBXNE9jNWhydmZ2ZzNN?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 전북(17일, 금)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PSm9ObkNHTE40WjdLNkktQzNZcEFndWJ6T3ZmVXR3bEdfMWdfNmpPbHBxb01qSkpPNFVuNkM5Vkw5SU9MNE4yZFBQUEpSVEt5Qk5yU2tNcVc3SmxZQ1dSa0hudjZidnNyZ2tFalo0MkNJQ0ljdVJIeg?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 19:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jTFA2bkZMTGxvclY1LU9jM0dTNU5jMWpWeHlDU3BvLVdkU0szWFcxdmxIT2RneFQtSDV3dHZSd2tHUEJmSzFTdmhid0hhZnNiaFhv?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "구윤철 '한국을 국제기구 AI 허브로…'유엔 AI 본부' 될수도'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWxYMjdUcE0tM3lEcThZSU10cHFvTXJQbm53a3kwVmNieTZUcEctZFljQ0dyRXVNeHJkMHdZSFA2T0ViendTbjFWcjJrd2Z5SEVtSFNGWVVQSHB0TW5peEk5S2kya0lpU3dIdl9WUmx4b05BVW9TaG9aRDEtbTlKcDRiZXNXcjlJOThZdEgwRkFFSklIczVKVnhFQ1B0RjI0RG5uUXY2bkl3LVZEbEpsRE80R0wtMU9E?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 18:58:51 GMT"
+      "title": "[오늘의 주요일정] 전북(17일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SX2dVeU9FOUhublRGVEFHb3QyVHU2TDRGZHowNzlMbWF4QVRRU0JlUFBEcmZwY090U2UyUGhnRlB5ZFMxNHlaWFFQM2FTMzhXa1lERg?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "\"중동 상황 극복\" 손잡은 여야정",
+      "title": "[오늘의 주요일정] 정치·정부 (17일, 금)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CQzZoa2xzS1NfcDF4MGZ3cTJ4UFhIVDFGV2JHX3JvRGtScGYxbld1NUdDR0N3Ym9TNU1leGZfRFJkYlJNN09uTm45TDRMUVNjS29USEQ4OVBMQ3lVMk5kRGxDOWlBR0hkbGhFNGhHTTVzcXRjRVVGNg?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 19:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DOHFTWGFPR19vb054akZ0d0xZMERycnRZdXUyR21RaUlyWWFsRkpnVEFqTFRTQ2hGTGh1akVveEN0YzdtRkxNZVp3NURDNndxcWw4?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "李, '김부겸 지지' 홍준표 만난다…오늘 靑서 오찬",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PNmF4ZkROOWp3M2dHUjc0UDNCeUNJTHUwS3FWZWVRdWtreTJhbXRnQ2RPb2tRd3NOY05jTm1Cb0w3eVlUVnN5SGdtbk1FYW1KS2V3?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 19:33:00 GMT"
+      "title": "[오늘의 주요 일정] 울산(17일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JTnhQTTg4azBFb1JXX1lCYU5EOHR1ZWtVWlo2YzhhYW9GUDVKd0lwV001YVRqSU5vbzctekN1OGFkU2Vzc2dTcWVpeC0yMlVlY1E?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "\"서민 음식은 이제 옛말\" 칼국수 1만원 돌파…외식비 줄인상",
+      "title": "[오늘의 주요일정] 대전·충남(17일, 금)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCUWp1d1lTRXhFeEtZdGJjbU5iQ0J2Ujlxa2JCdVZRZEVzUW1DdE9mOGFSODhjRGR6Ym51UTVxSzFWZGdzQk5pMy13V1pmdWZSQW5Z?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 19:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LMTZwVlQyZ2NMd3VSMlV4VlB5SDlMQTNhR2h2ODhsUFBRaXhZVnNXU1N5U2I0R01QRGE5UmJhUC01NEFtaGgtalF3QmE0aUttU0lj?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 20:02:00 GMT"
     },
     {
-      "title": "국힘 공천 '현역 불패'…與는 '전원 물갈이'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9meXFUSHptbWdhalo4RlFvMWttQ2t1cDZSM1JacHFnaGFJUW5hU09kV3NUc0E4TGdDRl9OLW9jV01ITXFzU21JWm5URGQ3WngtZkNDSGhoakFmZGNxQXhCZXZqNjVkWm1CSzQ0dUxn?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 19:32:00 GMT"
+      "title": "[오늘의 주요일정] 대전·충남(17일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13aVJpclBwbGdoWXZHRE1HLWpRTzd0UDlDTWUyU0pHSTIxUzhOZllrak5Jb0lGRkhndDVLUHpmczdMSlZwSzE3YXgxWXpVT0lBY0VTWHBDdHNwa3pEMnNTTw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "李 \"첨단기술·인재, 안보 차원 보호를\"",
+      "title": "[오늘의 주요일정] 광주·전남(17일, 금)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54VGtCX0t2VHNHaGpLWmlRN2RQa1Z1bEUxZWJ1Y2hjWXJ2RXdXaDI3TEJsTlBUUWE3YkE5UDZVUTlRQTJDSGNicmRSd0FIYXZhdVlZ?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 19:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRdHJBRUJreTB3cHozQW0xS050OHhiM1g5QWJKcGtScGo3Yy1SWS1Oc3JvTzFQVlI5SnVwYTVOY1AzRmhZNHNieTB1LWstd3h5NVZj?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "떠오른 사회연대경제, 시장의 틈 메울까",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50WjRpV20zSVRILVRTYVQ2QzN2UWxPUzNUamFkWXc4REJnSWxGdFE1OXVBQUdiYnVHMUxidVFFaEJNZ2x6ZHVCWThfb2U1YkFaaEdN?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 19:00:00 GMT"
-    },
-    {
-      "title": "美재무도 이랬다저랬다…기준금리 향방 어디로",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBranphQnNQSTAtU1YyUHRGU3hONjNBd0JrRGZhZ0tEYTQ5MzNnYXJPOWNGR0UyWUJ4Z2t4bkgtSFI1LXdUZV9NQV9FWDczUmFfNFpv?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 19:04:00 GMT"
+      "title": "[오늘의 주요일정] 광주·전남(17일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGa1NlTGh6U2swLVpXWFJReU5vMEVmdEtFYlhYNGlEVXItMVdVb1pKV2c0aUJ6N0VRQXJPU3ltSENzME9Qazh3MHctb1U0NWFpd3REWjZLOHlhUzgtaUhV?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
     }
   ],
   "sources": [
