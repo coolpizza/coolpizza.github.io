@@ -126,6 +126,9 @@ function renderWeather(weather) {
                         <div class="weather-chip">습도 ${escapeHtml(area.humidity)}</div>
                         <div class="weather-chip">바람 ${escapeHtml(area.wind)}</div>
                         <div class="weather-chip">강수확률 ${escapeHtml(area.rainChance)}</div>
+                        <div class="weather-chip">대기질 ${escapeHtml(area.airQuality)}${area.airQualityIndex ? ` (${escapeHtml(area.airQualityIndex)})` : ""}</div>
+                        <div class="weather-chip">미세먼지 ${escapeHtml(area.pm10)}</div>
+                        <div class="weather-chip">초미세먼지 ${escapeHtml(area.pm25)}</div>
                     </div>
                     <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
                     <div class="meta-text">데이터 기준 ${escapeHtml(renderedAtText)}</div>

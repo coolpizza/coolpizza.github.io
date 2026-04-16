@@ -52,6 +52,14 @@ WEATHER_CODE_LABELS = {
     99: "강한 우박 동반 뇌우",
 }
 
+AQI_LABELS = [
+    (20, "좋음"),
+    (40, "보통"),
+    (60, "약간 나쁨"),
+    (80, "나쁨"),
+    (100, "매우 나쁨"),
+]
+
 
 class FetchError(RuntimeError):
     pass
@@ -266,8 +274,19 @@ def weather_label(code):
     return WEATHER_CODE_LABELS.get(code, "알 수 없음")
 
 
+def aqi_label(value):
+    if value is None:
+        return "정보 없음"
+
+    for threshold, label in AQI_LABELS:
+        if value <= threshold:
+            return label
+
+    return "매우 나쁨"
+
+
 def fetch_weather_location(location):
-    url = (
+    weather_url = (
         "https://api.open-meteo.com/v1/forecast"
         f"?latitude={location['latitude']}"
         f"&longitude={location['longitude']}"
@@ -276,14 +295,26 @@ def fetch_weather_location(location):
         "&timezone=Asia%2FSeoul"
         "&forecast_days=1"
     )
-    data = fetch_json(url, timeout=25, retries=2)
-    current = data.get("current", {})
-    daily = data.get("daily", {})
+    air_url = (
+        "https://air-quality-api.open-meteo.com/v1/air-quality"
+        f"?latitude={location['latitude']}"
+        f"&longitude={location['longitude']}"
+        "&current=pm10,pm2_5,european_aqi"
+        "&timezone=Asia%2FSeoul"
+    )
+
+    weather_data = fetch_json(weather_url, timeout=25, retries=2)
+    air_data = fetch_json(air_url, timeout=25, retries=2)
+
+    current = weather_data.get("current", {})
+    daily = weather_data.get("daily", {})
+    air_current = air_data.get("current", {})
 
     daily_code = (daily.get("weather_code") or [current.get("weather_code", -1)])[0]
     max_temp = (daily.get("temperature_2m_max") or [current.get("temperature_2m", 0)])[0]
     min_temp = (daily.get("temperature_2m_min") or [current.get("temperature_2m", 0)])[0]
     rain_chance = (daily.get("precipitation_probability_max") or [0])[0]
+    aqi_value = air_current.get("european_aqi")
 
     return {
         "location": location["label"],
@@ -294,6 +325,10 @@ def fetch_weather_location(location):
         "humidity": f"{current.get('relative_humidity_2m', 0)}%",
         "wind": f"{current.get('wind_speed_10m', 0):.1f} m/s",
         "rainChance": f"{rain_chance}%",
+        "pm10": f"{air_current.get('pm10', 0):.1f} μg/m³",
+        "pm25": f"{air_current.get('pm2_5', 0):.1f} μg/m³",
+        "airQuality": aqi_label(aqi_value),
+        "airQualityIndex": None if aqi_value is None else f"{aqi_value:.0f}",
         "updatedAt": format_local_time(current.get("time")),
     }
 
@@ -574,7 +609,7 @@ def build_dashboard_data():
                 "url": "https://www.opinet.co.kr/searRgSelect.do",
             },
             {
-                "label": "Open-Meteo: 오늘의 날씨",
+                "label": "Open-Meteo: 날씨 및 대기질",
                 "url": "https://open-meteo.com/",
             },
             {
