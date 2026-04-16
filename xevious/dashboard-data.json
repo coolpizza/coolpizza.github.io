@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T01:07:38.667515+09:00",
+  "generatedAt": "2026-04-17T02:22:27.795316+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,51 +16,51 @@
       "change": "+10.54",
       "changePercent": "+0.91%",
       "direction": "up",
-      "updatedAt": "2026-04-17 01:01"
+      "updatedAt": "2026-04-17 02:19"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,574.67",
-      "change": "+110.95",
-      "changePercent": "+0.23%",
-      "direction": "up",
-      "updatedAt": "2026-04-16 12:01"
+      "value": "48,460.38",
+      "change": "-3.34",
+      "changePercent": "-0.01%",
+      "direction": "down",
+      "updatedAt": "2026-04-16 13:17"
     },
     {
       "label": "S&P 500",
-      "value": "7,048.70",
-      "change": "+25.75",
-      "changePercent": "+0.37%",
+      "value": "7,024.79",
+      "change": "+1.84",
+      "changePercent": "+0.03%",
       "direction": "up",
-      "updatedAt": "2026-04-16 12:00"
+      "updatedAt": "2026-04-16 13:17"
     },
     {
       "label": "나스닥",
-      "value": "24,135.89",
-      "change": "+119.87",
-      "changePercent": "+0.50%",
+      "value": "24,044.42",
+      "change": "+28.40",
+      "changePercent": "+0.12%",
       "direction": "up",
-      "updatedAt": "2026-04-16 12:01"
+      "updatedAt": "2026-04-16 13:17"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,476.9300",
-      "change": "+1.87",
-      "changePercent": "+0.13%",
+      "value": "1,480.6500",
+      "change": "+5.59",
+      "changePercent": "+0.38%",
       "direction": "up",
-      "updatedAt": "2026-04-16 15:58"
+      "updatedAt": "2026-04-16 17:18"
     },
     {
       "label": "100엔/원",
-      "value": "929.19",
-      "change": "+0.19",
-      "changePercent": "+0.02%",
-      "direction": "up",
-      "updatedAt": "2026-04-16 15:56"
+      "value": "928.99",
+      "change": "-0.01",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-16 17:06"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "16.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "50%",
-        "wind": "0.8 m/s",
-        "rainChance": "30%",
-        "pm10": "28.3 μg/m³",
-        "pm25": "27.1 μg/m³",
+        "temperature": "12.2°C",
+        "feelsLike": "10.3°C",
+        "highLow": "최고 15.9° / 최저 10.1°",
+        "humidity": "61%",
+        "wind": "4.7 m/s",
+        "rainChance": "0%",
+        "pm10": "25.4 μg/m³",
+        "pm25": "24.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-04-17 01:00"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-04-17 02:15"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "12.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "60%",
-        "wind": "0.1 m/s",
-        "rainChance": "30%",
-        "pm10": "17.5 μg/m³",
-        "pm25": "17.3 μg/m³",
+        "summary": "약한 비",
+        "temperature": "10.6°C",
+        "feelsLike": "9.9°C",
+        "highLow": "최고 15.6° / 최저 9.8°",
+        "humidity": "93%",
+        "wind": "4.2 m/s",
+        "rainChance": "15%",
+        "pm10": "19.1 μg/m³",
+        "pm25": "18.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "39",
-        "updatedAt": "2026-04-17 01:00"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-17 02:15"
       }
     ]
   },
@@ -135,7 +135,7 @@
         "lowestDistrict": "중구",
         "stationName": "오일캠프주유소",
         "address": "인천 중구 축항대로 282 (신흥동3가)",
-        "updatedAt": "2026-04-16 23:44:53",
+        "updatedAt": "2026-04-17 00:58:31",
         "districtSamples": [
           {
             "district": "중구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[주요경제지표] 2026년 4월 16일자",
+      "title": "트럼프 \"이스라엘·레바논, '열흘 휴전' 합의…백악관 초청\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Jd0EzZWFYUVMtUXRsbjZrdGNnTmZmazZnZ2hra3VTQXhhZkEyZ2lGek5XRlBlOFgwTWlCeXNMN0tHMmRKWFBvTXROUjBuZ3oteC1yVlpyUS1CckZOTW9EMTVvQ1ZUQzFueFE?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 15:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XYTBvS3d2U1FVck1uWkt6WW1jb2JSbVQyOGNMeGxYWmJ2bXNxakZpTzBuMUJZUE1wa1oybkZGcHVyaElRN1FtSmpfbWNsV0ZwODZn?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 16:57:00 GMT"
     },
     {
-      "title": "노은식 김해상의 회장, 시장 후보에 '경제정책공약화 건의문' 전달",
-      "source": "김해뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90eXljYjdOT3RMTDUwUjk5T3ZEOEY4bU1weVZCMXVwQUdFckJZQndOZjZ6MWpubWVDaGlyVWI3UU5QemEzSW9NUnhqZF82X2NiUG5zTkYxYjM1bUdkbUsxUWg3bUtxblJiQ1l6OUNR?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 15:56:45 GMT"
+      "title": "속초시, 권한대행 체제 전환",
+      "source": "서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXenVSQXFCNjhzZnB0d3YtQTFSY1VGTzlqdHZlZHNiSGIxMDhqM3pkSTZzeUZvLWhId0p5d0VrcTZOYkFLQVF1NjhLUWdpNmU3UjhSX182Z1BnTF9iYUJNR3doOXNhZmktc0sw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 16:41:16 GMT"
     },
     {
-      "title": "“북한 아닌 남한서 벌어진 일이라고?” 경악…염전노예 수백명이 거기 있었다 [오늘의 그날]",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ha1E1enJQbzJlSWJDMEVDVGhWR1diN2VRUUJvWm9WTlRlTFQ3aTF5cXptQWh1UWM2MXE1SzV4c1ViaDlmUFhlUDNWWXEwX2k4TTRBOU9KUVFjaEtybEcw0gFTQVVfeXFMTXpBdWNvT3k1eGd0UWdVMngzM3FHZGZFdHItam01NE9rU1lUcE11U2huMzROVGExWlRRMmw5Yml3c2ltVmJpOTJjWDl4WFNLb0I2ZW8?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 15:30:00 GMT"
+      "title": "노인 돌봄수요 20년만에 2.4배로 급증 전망.. 99만명 더 필요",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5b2x1b1hnaTFOOFFPYjJCMk5vai1YOGl4RVlxeUZuNndCNHVTMXpRQjByLXVhTlpyUnpNZ0Mwbko5WEQ3WVZBY3JSX0dQUHJqN2E2bEw2eFVfbWxXTWFHRnB6X0pYQnpST3VR?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 16:27:37 GMT"
     },
     {
-      "title": "낮 최고 21도 더위 주춤…남부지방·제주 등 봄비[오늘날씨]",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmFUbEgyRlVjR3hPTXo2RnhreGZBa3d0LTd3cUFKNUE2ODJpZ2xCUjJBNnp2ek51blVHOHhsR1VKaHlkMzduelNmcGFMSlNIN0F0M0ZtdFgwQlE2TkNGQ0hxOF9HUVhGY3FTbTg0ajVnT2MzTUlQV2Y0aW9JcFIxUGVZZkxRVU1XR2xQVzR3blRXckhsZm1UOWo3T0RwQTRTYXZKZGttS2RaV181ZGlFYU9jN3FwZmgz?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 15:14:06 GMT"
-    },
-    {
-      "title": "[지표로 보는 경제]4월 17일",
+      "title": "李대통령 고향 안동에도 민주당 바람 불까",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ybERnOGpzVzdrLUc4VWNMWElPaGlYbmdUNE9kZ2N6MjVfZ2N6aHZBeWE2Smp4VVRmWW12X19yNjRDLU1GcTByaTJCaWlqUTZjQ3B2SldiWHcyUjV2dGczeUFFZTZVZVE1SjBr?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 15:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAydng1a1JVLTg5VXBTZGxnd1FodHBaSThiYTBKLWZ1RjdFUmt1RUhZakJzLWRmSG5QcjRXRk9XeV9CSDJlM0FaQ2VyMlRmQzN5WXYw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 17:05:00 GMT"
     },
     {
-      "title": "에스투더블유, 'AI 시대 보안 전략 세미나' 성료",
+      "title": "조수연, '모두가 자신의 무가치함과 싸우고 있다' 고윤정 직장 동료 나영 역 낙점",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54emdJMjNfZml6UXVsZ1hWNHh5WlgtT29jOWtkbUwwU3dNWjk3bUlxYkVGMzFYLUh4M1ZsVzZlUXc5YXZqd2lKczdXclRsQlRFUTFxSFlIUzVVNTZFVndJeA?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 15:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PbEdYVjdWV080d1hWNlctMUtPdENCb3dvYkw0TFFfakRsTzV2d3pSa09Lalh5UEFQQ0dReDEtUnZfYXZJUmtQWmRwTlJvUExUYW03ak96c0lienpxSkREQzNzelY1dVBmRnN6Tl9nWF9sYjhTM3JTRw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 16:37:00 GMT"
     },
     {
-      "title": "李대통령·홍준표, 오늘 비공개 회동",
+      "title": "정유미, '러브 어페어' 이선희 역 낙점···이동욱과 부부 케미 기대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ESVZuS2NqWjhkaFJUeWZfSGUzX082NDUyMmoyb1NyUnhWakQxUlc3dTd4My1fc2s0QkdBM3JDR05oakZQaVdxOGtOdjVIZmF6UlNz?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 15:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OaDB2eUhMNUQ5WjBxRGFBY1lNem10Q0ZMRUF5ZGhDR19KZjdjeEZ5VW5XSWJ1WE9LUHdFTWJOUE1WSzdTYlgxUm1nMnVTX2pzNTN6bGhMaDVuNS1Vb2EyWGV5MXFPNEpSYU5SNVJYWE1oQ29wWHJiTA?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 16:23:00 GMT"
     },
     {
-      "title": "美 민주당, 헤그세스 국방 탄핵안 발의",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pZkgtM3E0WnhUS09GVzV3QTJrR19kcnFpYnh5WTgtekNpSTlrY1p4bUNOMlZ6eko1S1c1eXcwOVZ0SlNzRHFsSTJ3cmtiUWp4ZUVxaEVoVWc2OTFpaE9UcA?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 15:46:00 GMT"
+      "title": "익산시 전북연구원 지역발전 동력 확보 위해 머리 맞대 > 뉴스",
+      "source": "더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oa3hZRVhTSVljYUlwdkl2YlZGQ0pPaEYyUUZCcTFEZE1nbmczNGFQRHoxTTlBelRMM0xscHlCWGdpNzA?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 16:41:00 GMT"
     },
     {
-      "title": "동아시아는 벌써 여름…뜨거워진 바다가 '열돔' 씌웠다",
+      "title": "대학원생 성추행한 교수 2심서 선고유예…제자는 자퇴",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5STTBYdTZvd0RLdHozS3kyZmpJX3hWaDJ2OWlXYnJFX0c1MDQ0RkdELUVTQlZ3NWxmQ3BSLW1lbzZfNkl5VEdYc2NRM191Wm9FVlhN?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 15:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUeVdiaGtIb182X1RJeURYWU9QVkJ2SlB5YUVPcUpiM3dic2VNV2liOVZaYTB0dC1DMnhpaFNOa3JBNkQ4UEtSWkN0elVHc3k5TU1pVlhJRU04UnAyWlFWUFJVNjNncWxtdmk3LXRn?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 16:55:00 GMT"
     },
     {
-      "title": "종전협상 막판 변수 '동결 자산'…이란 \"묶인 1000억달러 풀어라\"",
+      "title": "창원, 2강3약 난타전…경남 전체 선거의 바로미터",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwZFN4aGJHYUlKRzYwVnRZSlpqZ2J0cG0wMFpEZFZldEw1UEpmbzcxXzRsaDJZNGp5aG1HNS10M2dKLWZVS0pYWVJINzdWaVg4NjU0?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 15:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwNGJDZW9lRlM4YVljZnlkMXJNc0hGaGF0c09RRTFobDNPWjdFdXJMQnN4bHZId0ZmT3dUZTh2T1BYUEFQQVNCcU1ZZ3FhVTNRbnIw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 17:06:00 GMT"
+    },
+    {
+      "title": "[투데이 窓]'모두의 창업', 혁신과 성장의 잣대 유지해야",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYMzZ5bEtaakN5akxWZFZINU1BUUZNeGwwWXV2NWZwR1pUeVNHcjlzMXk0YkpoUnZJRUVpekNxd2RXWnVzX2JuTUt1UHlWT1RaYzNz?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 17:00:00 GMT"
     }
   ],
   "sources": [
