@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T21:53:36.779786+09:00",
+  "generatedAt": "2026-04-16T21:58:58.619903+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@
       "change": "+10.54",
       "changePercent": "+0.91%",
       "direction": "up",
-      "updatedAt": "2026-04-16 21:49"
+      "updatedAt": "2026-04-16 21:58"
     }
   ],
   "usMarkets": [
@@ -48,52 +48,52 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,475.3049",
-      "change": "+0.24",
-      "changePercent": "+0.02%",
+      "value": "1,475.6351",
+      "change": "+0.58",
+      "changePercent": "+0.04%",
       "direction": "up",
-      "updatedAt": "2026-04-16 12:41"
+      "updatedAt": "2026-04-16 12:56"
     },
     {
       "label": "100엔/원",
-      "value": "927.62",
-      "change": "-1.38",
-      "changePercent": "-0.15%",
+      "value": "927.48",
+      "change": "-1.52",
+      "changePercent": "-0.16%",
       "direction": "down",
-      "updatedAt": "2026-04-16 12:45"
+      "updatedAt": "2026-04-16 12:56"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "14.8°C",
-        "feelsLike": "13.7°C",
-        "highLow": "최고 24.5° / 최저 9.0°",
-        "humidity": "61%",
-        "wind": "3.2 m/s",
-        "rainChance": "0%",
+        "summary": "구름많음",
+        "temperature": "19.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "50%",
+        "wind": "1.8 m/s",
+        "rainChance": "20%",
         "pm10": "36.0 μg/m³",
         "pm25": "32.7 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "47",
-        "updatedAt": "2026-04-16 21:45"
+        "updatedAt": "2026-04-16 21:00"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
-        "temperature": "12.9°C",
-        "feelsLike": "12.8°C",
-        "highLow": "최고 26.3° / 최저 7.3°",
-        "humidity": "87%",
-        "wind": "2.2 m/s",
-        "rainChance": "0%",
+        "summary": "흐림",
+        "temperature": "16.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "65%",
+        "wind": "1.3 m/s",
+        "rainChance": "30%",
         "pm10": "18.9 μg/m³",
         "pm25": "18.0 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "40",
-        "updatedAt": "2026-04-16 21:45"
+        "updatedAt": "2026-04-16 21:00"
       }
     ]
   },
@@ -177,46 +177,10 @@
   },
   "news": [
     {
-      "title": "[포토] 우강훈 '이제야 웃어요' : 네이트 스포츠",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RREgzakdrTFRCUWxwTkl4eE1TOGVfaW44ci1OYmprSE5IcWFyNXZvWU4zT2dicTRta0ZFcnEzUnN1WHZaRW9XcEZzSW9VYjNlekUwc0x3?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 12:30:00 GMT"
-    },
-    {
-      "title": "이스라엘, 공습으로 레바논 남부 마지막 다리 파괴",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02b3pCU25ySTQ3SDNzMlgtazgzeldsTmFOSzFkLU9NZTNDWUtWRHVQcXBoWkN4ZTUyVm1GWkNuYzZ5bi1PckJyVldVZm80T244Yk4w?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 12:37:00 GMT"
-    },
-    {
-      "title": "민주평통자문회의 수석부의장에 강창일 전 의원",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zV3pUZDBBc0xTdDNINmpBY0hOUHZRNjQ5MG9xWGlHMGpHd2hmd1oxZjFpMWQ3QW9zT01veHBDaXJUNG1ua3BmNHB2YkhnQ041WGxodHZJUktQc29DYi1XbUFuZnN1MTNydFBnTWVPajRoZ3NpWVR6SQ?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 12:16:00 GMT"
-    },
-    {
-      "title": "국외소재문화유산재단 이사장에 박정혜 교수",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14ZVhGTFVTaVVZQk5qSkJlODRhcGZaaEhOdVM1QUV2Nm5aLWRWS29aUGZkTHROekFBNUcwaWwtYXBvcm1ianRoMzZ5Q0VZZDg1djY4?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 12:16:08 GMT"
-    },
-    {
-      "title": "코스피, 다시 6200선 돌파 '시선 집중'[포토뉴스]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lbk15RTFnWWNGWnpyZEZwU3FTN2ZkQVRfdnZ6VjV2ZERtOUFJeHljRFJqVVJEMWtXU0xKZnhmMEI2cmQ2bjFUWDNLU3lZbXBTM3Bz?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 12:07:00 GMT"
-    },
-    {
-      "title": "구윤철 \"중동 리스크 해소되면 환율 안정\"",
+      "title": "삼성전자 \"노조 불법 쟁의행위 가처분 신청\"",
       "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdDZfVEl1VERhSm9sSXUtaWV3YWFXX3Rkbi1uUWR5akdXUEJMM3JJYTY3SXowTTY1ZU9mOXk2SWRTVG0xSWF2akxqSVItX2g5cFR5YXhZdW8wRnN2MV9jak5ZSEpHalk?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 12:02:18 GMT"
-    },
-    {
-      "title": "이란 협상 앞두고‥미, 차세대 폭격기 B-21 공중급유 사진 공개",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PcjRkZFBNRGZBMFJzZkE3Z09kQzFGdTRqSUpuazl3R2pOTlRPNjNhNEFTS2s0YXJYM1U1NjhSVWNUUEN0OWhzZ0lzTXBTWnBLOEM1dWJxODFuR0JqSHlfdHJYSnV0Q1E3a1E2bncyZHU2aWRu0gF0QVVfeXFMTU9yNGRkUE1EZkEwUnNmQTdnT2RDMUZ1NGpJSm5rOXdHak5OVE82M2E0QVNLazRhclgzVTU2OFJVY1RQQ3Q5aHNnSXNNcFNacEs4QzV1YnE4MW5HQmpIeV90clhKdXRDUTdrUTZudzJkdTZpZG4?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 12:05:55 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yMk04c3VHaTR1VWtFcVg3d094MHJMdk1DM1dhNjh1a1lFUlJvNnVrdWU5cG84TkRrWWJrXzQ4VHlLWUJqbzhWZE9SWWtQcE1OOWVwZlpqQ0VtSlQwZ1hrQndzV1FGd2M?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:35:19 GMT"
     },
     {
       "title": "IMF '아시아, 중동전쟁 따른 에너지 충격에 상당히 노출'",
@@ -231,10 +195,46 @@
       "publishedAt": "Thu, 16 Apr 2026 12:12:00 GMT"
     },
     {
-      "title": "때이른 더위에…그늘막으로 '옹기종기' 피신[포토뉴스]",
+      "title": "도성훈 교육감, 세월호 12주기에 \"안전 실천\" 인천교육 다짐",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xX0N0OTU2dXZIUnphUFZueElJU2VfTjhDbUowdGg4dVZYUFVOcFJmWV9hWW4yUE55R05fbnd3amJ5LTQ3VC1wNHVESVB5bHdYeVBXeklZSU1teXhSUUNBQg?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 12:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXeFpWZENLblVkNEZPUmFXQ3hIeXBlZGs5NTdRamIxaWxkSFJxOXF3VWZtLTFyZFVGQnoxa0tMTS1PeFVwb2Y4MnEyekM3TXJzRms4?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:47:00 GMT"
+    },
+    {
+      "title": "구윤철 \"중동 리스크 해소되면 환율 안정\"",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdDZfVEl1VERhSm9sSXUtaWV3YWFXX3Rkbi1uUWR5akdXUEJMM3JJYTY3SXowTTY1ZU9mOXk2SWRTVG0xSWF2akxqSVItX2g5cFR5YXhZdW8wRnN2MV9jak5ZSEpHalk?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:02:18 GMT"
+    },
+    {
+      "title": "[포토] 최원영 '여차하면 홈 질주'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16NFY3Sk5hTkJLTm9KTEtKSk4ycWJoRnlEUUxKcjZ3MWRnUUxRb3RKWVlnZ2Q3MGJPbzVLdXRNNHhUb0YwajRmTS1ZYkJMZ052eHNYWTZB?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:33:00 GMT"
+    },
+    {
+      "title": "이스라엘, 공습으로 레바논 남부 마지막 다리 파괴",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02b3pCU25ySTQ3SDNzMlgtazgzeldsTmFOSzFkLU9NZTNDWUtWRHVQcXBoWkN4ZTUyVm1GWkNuYzZ5bi1PckJyVldVZm80T244Yk4w?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:37:00 GMT"
+    },
+    {
+      "title": "민주평통자문회의 수석부의장에 강창일 전 의원",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zV3pUZDBBc0xTdDNINmpBY0hOUHZRNjQ5MG9xWGlHMGpHd2hmd1oxZjFpMWQ3QW9zT01veHBDaXJUNG1ua3BmNHB2YkhnQ041WGxodHZJUktQc29DYi1XbUFuZnN1MTNydFBnTWVPajRoZ3NpWVR6SQ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:16:00 GMT"
+    },
+    {
+      "title": "도끼♥이하이, 열애 화제였지만…신곡은 '차트 밖' [스타이슈]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiQUtNTHNxZWhrenFIMTR6eXFFWVc5bENleGhUa1hNbi1VRTcxcU1OODRZVmRRbmZxQkNwYzZFTFR1d2U1cXB3TkZ4eXRPX0xueTlZ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:31:00 GMT"
+    },
+    {
+      "title": "국외소재문화유산재단 이사장에 박정혜 교수",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14ZVhGTFVTaVVZQk5qSkJlODRhcGZaaEhOdVM1QUV2Nm5aLWRWS29aUGZkTHROekFBNUcwaWwtYXBvcm1ianRoMzZ5Q0VZZDg1djY4?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 12:16:08 GMT"
     }
   ],
   "sources": [
@@ -259,8 +259,8 @@
       "url": "https://www.opinet.co.kr/searRgSelect.do"
     },
     {
-      "label": "Open-Meteo: 날씨 및 대기질",
-      "url": "https://open-meteo.com/"
+      "label": "기상청 단기예보 + Open-Meteo 대기질",
+      "url": "https://apihub.kma.go.kr/apiList.do?seqApi=10"
     },
     {
       "label": "Google News RSS",

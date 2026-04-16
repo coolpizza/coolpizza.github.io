@@ -111,29 +111,37 @@ function renderWeather(weather) {
 
     weatherCardEl.innerHTML = `
         <div class="weather-grid">
-            ${weather.areas.map((area) => `
-                <article class="weather-shell">
-                    <div class="weather-main">
-                        <div>
-                            <p class="stat-label">${escapeHtml(area.location)} 오늘 날씨</p>
-                            <p class="weather-summary">${escapeHtml(area.summary)}</p>
+            ${weather.areas.map((area) => {
+                const chips = [];
+
+                if (area.feelsLike) chips.push(`체감 ${escapeHtml(area.feelsLike)}`);
+                if (area.highLow) chips.push(escapeHtml(area.highLow));
+                if (area.humidity) chips.push(`습도 ${escapeHtml(area.humidity)}`);
+                if (area.wind) chips.push(`바람 ${escapeHtml(area.wind)}`);
+                if (area.rainChance) chips.push(`강수확률 ${escapeHtml(area.rainChance)}`);
+                if (area.airQuality) {
+                    chips.push(`대기질 ${escapeHtml(area.airQuality)}${area.airQualityIndex ? ` (${escapeHtml(area.airQualityIndex)})` : ""}`);
+                }
+                if (area.pm10) chips.push(`미세먼지 ${escapeHtml(area.pm10)}`);
+                if (area.pm25) chips.push(`초미세먼지 ${escapeHtml(area.pm25)}`);
+
+                return `
+                    <article class="weather-shell">
+                        <div class="weather-main">
+                            <div>
+                                <p class="stat-label">${escapeHtml(area.location)} 오늘 날씨</p>
+                                <p class="weather-summary">${escapeHtml(area.summary)}</p>
+                            </div>
+                            <p class="weather-temp">${escapeHtml(area.temperature)}</p>
                         </div>
-                        <p class="weather-temp">${escapeHtml(area.temperature)}</p>
-                    </div>
-                    <div class="weather-details">
-                        <div class="weather-chip">체감 ${escapeHtml(area.feelsLike)}</div>
-                        <div class="weather-chip">${escapeHtml(area.highLow)}</div>
-                        <div class="weather-chip">습도 ${escapeHtml(area.humidity)}</div>
-                        <div class="weather-chip">바람 ${escapeHtml(area.wind)}</div>
-                        <div class="weather-chip">강수확률 ${escapeHtml(area.rainChance)}</div>
-                        <div class="weather-chip">대기질 ${escapeHtml(area.airQuality)}${area.airQualityIndex ? ` (${escapeHtml(area.airQualityIndex)})` : ""}</div>
-                        <div class="weather-chip">미세먼지 ${escapeHtml(area.pm10)}</div>
-                        <div class="weather-chip">초미세먼지 ${escapeHtml(area.pm25)}</div>
-                    </div>
-                    <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
-                    <div class="meta-text">데이터 기준 ${escapeHtml(renderedAtText)}</div>
-                </article>
-            `).join("")}
+                        <div class="weather-details">
+                            ${chips.map((chip) => `<div class="weather-chip">${chip}</div>`).join("")}
+                        </div>
+                        <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
+                        <div class="meta-text">데이터 기준 ${escapeHtml(renderedAtText)}</div>
+                    </article>
+                `;
+            }).join("")}
         </div>
     `;
 }

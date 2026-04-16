@@ -1,6 +1,7 @@
 import datetime as dt
 import html
 import json
+import math
 import re
 import time
 import urllib.parse
@@ -16,6 +17,7 @@ JSON_OUTPUT_FILE = BASE_DIR / "dashboard-data.json"
 TIMEZONE = dt.timezone(dt.timedelta(hours=9))
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0 Safari/537.36"
 OPINET_KEY = "ZbFgD2Xm6B5PTJzDhTtLJNM3yM5pOE80K+g4g9+pono="
+KMA_AUTH_KEY = "Jq3u7QYCT9at7u0GAn_WaA"
 WEATHER_LOCATIONS = [
     {"label": "서울", "latitude": 37.5665, "longitude": 126.9780},
     {"label": "익산", "latitude": 35.9483, "longitude": 126.9577},
@@ -59,6 +61,23 @@ AQI_LABELS = [
     (80, "나쁨"),
     (100, "매우 나쁨"),
 ]
+
+KMA_GRID_WIDTH = 149
+KMA_SKY_LABELS = {
+    1: "맑음",
+    3: "구름많음",
+    4: "흐림",
+}
+KMA_PTY_LABELS = {
+    0: None,
+    1: "비",
+    2: "비/눈",
+    3: "눈",
+    4: "소나기",
+    5: "빗방울",
+    6: "빗방울/눈날림",
+    7: "눈날림",
+}
 
 
 class FetchError(RuntimeError):
@@ -285,7 +304,127 @@ def aqi_label(value):
     return "매우 나쁨"
 
 
-def fetch_weather_location(location):
+def parse_grid_number(value):
+    try:
+        number = float(value)
+    except (TypeError, ValueError):
+        return None
+
+    if number <= -90:
+        return None
+
+    return number
+
+
+def latlon_to_kma_grid(latitude, longitude):
+    re_value = 6371.00877 / 5.0
+    slat1 = 30.0 * (math.pi / 180.0)
+    slat2 = 60.0 * (math.pi / 180.0)
+    olon = 126.0 * (math.pi / 180.0)
+    olat = 38.0 * (math.pi / 180.0)
+
+    sn = math.tan(math.pi * 0.25 + slat2 * 0.5) / math.tan(math.pi * 0.25 + slat1 * 0.5)
+    sn = math.log(math.cos(slat1) / math.cos(slat2)) / math.log(sn)
+    sf = math.tan(math.pi * 0.25 + slat1 * 0.5)
+    sf = (sf ** sn) * math.cos(slat1) / sn
+    ro = math.tan(math.pi * 0.25 + olat * 0.5)
+    ro = re_value * sf / (ro ** sn)
+
+    ra = math.tan(math.pi * 0.25 + latitude * (math.pi / 180.0) * 0.5)
+    ra = re_value * sf / (ra ** sn)
+    theta = longitude * (math.pi / 180.0) - olon
+
+    if theta > math.pi:
+        theta -= 2.0 * math.pi
+    if theta < -math.pi:
+        theta += 2.0 * math.pi
+
+    theta *= sn
+
+    return {
+        "x": int(math.floor(ra * math.sin(theta) + 43 + 0.5)),
+        "y": int(math.floor(ro - ra * math.cos(theta) + 136 + 0.5)),
+    }
+
+
+def latest_kma_tmfc(now=None):
+    current = (now or dt.datetime.now(TIMEZONE)).astimezone(TIMEZONE)
+    release_hours = [2, 5, 8, 11, 14, 17, 20, 23]
+    candidates = [
+        current.replace(hour=hour, minute=0, second=0, microsecond=0)
+        for hour in release_hours
+        if current.hour > hour or (current.hour == hour and current.minute >= 10)
+    ]
+
+    if candidates:
+        return candidates[-1]
+
+    previous_day = current - dt.timedelta(days=1)
+    return previous_day.replace(hour=23, minute=0, second=0, microsecond=0)
+
+
+def latest_kma_tmef(now=None):
+    current = (now or dt.datetime.now(TIMEZONE)).astimezone(TIMEZONE)
+    return current.replace(minute=0, second=0, microsecond=0)
+
+
+def fetch_kma_grid_values(var_name, tmfc, tmef, cache):
+    cache_key = (var_name, tmfc.strftime("%Y%m%d%H"), tmef.strftime("%Y%m%d%H"))
+    if cache_key in cache:
+        return cache[cache_key]
+
+    url = (
+        "https://apihub.kma.go.kr/api/typ01/cgi-bin/url/nph-dfs_shrt_grd"
+        f"?tmfc={tmfc:%Y%m%d%H}"
+        f"&tmef={tmef:%Y%m%d%H}"
+        f"&vars={var_name}"
+        f"&authKey={KMA_AUTH_KEY}"
+    )
+    grid_text = fetch_text(url, timeout=35, retries=2, retry_delay=2.0)
+    values = [parse_grid_number(piece.strip()) for piece in grid_text.replace("\n", "").split(",") if piece.strip()]
+
+    if len(values) != KMA_GRID_WIDTH * 253:
+        raise FetchError(f"기상청 격자 자료 길이가 예상과 다릅니다. ({var_name})")
+
+    cache[cache_key] = values
+    return values
+
+
+def grid_value_at(values, grid):
+    index = (grid["y"] - 1) * KMA_GRID_WIDTH + (grid["x"] - 1)
+    if index < 0 or index >= len(values):
+        raise FetchError("기상청 격자 인덱스가 범위를 벗어났습니다.")
+    return values[index]
+
+
+def kma_weather_summary(sky_code, pty_code):
+    precipitation_label = KMA_PTY_LABELS.get(int(pty_code or 0))
+    if precipitation_label:
+        return precipitation_label
+    return KMA_SKY_LABELS.get(int(sky_code or 0), "정보 없음")
+
+
+def fetch_open_meteo_air_quality(location):
+    air_url = (
+        "https://air-quality-api.open-meteo.com/v1/air-quality"
+        f"?latitude={location['latitude']}"
+        f"&longitude={location['longitude']}"
+        "&current=pm10,pm2_5,european_aqi"
+        "&timezone=Asia%2FSeoul"
+    )
+    air_data = fetch_json(air_url, timeout=25, retries=2)
+    air_current = air_data.get("current", {})
+    aqi_value = air_current.get("european_aqi")
+
+    return {
+        "pm10": f"{air_current.get('pm10', 0):.1f} μg/m³",
+        "pm25": f"{air_current.get('pm2_5', 0):.1f} μg/m³",
+        "airQuality": aqi_label(aqi_value),
+        "airQualityIndex": None if aqi_value is None else f"{aqi_value:.0f}",
+    }
+
+
+def fetch_open_meteo_weather_location(location):
     weather_url = (
         "https://api.open-meteo.com/v1/forecast"
         f"?latitude={location['latitude']}"
@@ -295,26 +434,15 @@ def fetch_weather_location(location):
         "&timezone=Asia%2FSeoul"
         "&forecast_days=1"
     )
-    air_url = (
-        "https://air-quality-api.open-meteo.com/v1/air-quality"
-        f"?latitude={location['latitude']}"
-        f"&longitude={location['longitude']}"
-        "&current=pm10,pm2_5,european_aqi"
-        "&timezone=Asia%2FSeoul"
-    )
-
     weather_data = fetch_json(weather_url, timeout=25, retries=2)
-    air_data = fetch_json(air_url, timeout=25, retries=2)
-
     current = weather_data.get("current", {})
     daily = weather_data.get("daily", {})
-    air_current = air_data.get("current", {})
+    air = fetch_open_meteo_air_quality(location)
 
     daily_code = (daily.get("weather_code") or [current.get("weather_code", -1)])[0]
     max_temp = (daily.get("temperature_2m_max") or [current.get("temperature_2m", 0)])[0]
     min_temp = (daily.get("temperature_2m_min") or [current.get("temperature_2m", 0)])[0]
     rain_chance = (daily.get("precipitation_probability_max") or [0])[0]
-    aqi_value = air_current.get("european_aqi")
 
     return {
         "location": location["label"],
@@ -325,18 +453,58 @@ def fetch_weather_location(location):
         "humidity": f"{current.get('relative_humidity_2m', 0)}%",
         "wind": f"{current.get('wind_speed_10m', 0):.1f} m/s",
         "rainChance": f"{rain_chance}%",
-        "pm10": f"{air_current.get('pm10', 0):.1f} μg/m³",
-        "pm25": f"{air_current.get('pm2_5', 0):.1f} μg/m³",
-        "airQuality": aqi_label(aqi_value),
-        "airQualityIndex": None if aqi_value is None else f"{aqi_value:.0f}",
+        **air,
         "updatedAt": format_local_time(current.get("time")),
     }
 
 
-def load_weather_data():
+def fetch_kma_weather_location(location, tmfc, tmef, grid_cache):
+    grid = latlon_to_kma_grid(location["latitude"], location["longitude"])
+    current_temperature = grid_value_at(fetch_kma_grid_values("TMP", tmfc, tmef, grid_cache), grid)
+    humidity = grid_value_at(fetch_kma_grid_values("REH", tmfc, tmef, grid_cache), grid)
+    wind_speed = grid_value_at(fetch_kma_grid_values("WSD", tmfc, tmef, grid_cache), grid)
+    sky_code = grid_value_at(fetch_kma_grid_values("SKY", tmfc, tmef, grid_cache), grid)
+    precipitation_type = grid_value_at(fetch_kma_grid_values("PTY", tmfc, tmef, grid_cache), grid)
+    rain_chance = grid_value_at(fetch_kma_grid_values("POP", tmfc, tmef, grid_cache), grid)
+
+    if current_temperature is None:
+        raise FetchError(f"{location['label']} 기상청 기온 값을 찾지 못했습니다.")
+
+    try:
+        air = fetch_open_meteo_air_quality(location)
+    except FetchError:
+        air = {
+            "pm10": "정보 없음",
+            "pm25": "정보 없음",
+            "airQuality": "정보 없음",
+            "airQualityIndex": None,
+        }
+
     return {
-        "areas": [fetch_weather_location(location) for location in WEATHER_LOCATIONS]
+        "location": location["label"],
+        "summary": kma_weather_summary(sky_code, precipitation_type),
+        "temperature": f"{current_temperature:.1f}°C",
+        "feelsLike": None,
+        "highLow": None,
+        "humidity": None if humidity is None else f"{humidity:.0f}%",
+        "wind": None if wind_speed is None else f"{wind_speed:.1f} m/s",
+        "rainChance": None if rain_chance is None else f"{rain_chance:.0f}%",
+        **air,
+        "updatedAt": tmef.strftime("%Y-%m-%d %H:%M"),
     }
+
+
+def load_weather_data():
+    tmfc = latest_kma_tmfc()
+    tmef = latest_kma_tmef()
+    grid_cache = {}
+
+    try:
+        areas = [fetch_kma_weather_location(location, tmfc, tmef, grid_cache) for location in WEATHER_LOCATIONS]
+    except FetchError:
+        areas = [fetch_open_meteo_weather_location(location) for location in WEATHER_LOCATIONS]
+
+    return {"areas": areas}
 
 
 def load_market_data():
@@ -609,8 +777,8 @@ def build_dashboard_data():
                 "url": "https://www.opinet.co.kr/searRgSelect.do",
             },
             {
-                "label": "Open-Meteo: 날씨 및 대기질",
-                "url": "https://open-meteo.com/",
+                "label": "기상청 단기예보 + Open-Meteo 대기질",
+                "url": "https://apihub.kma.go.kr/apiList.do?seqApi=10",
             },
             {
                 "label": "Google News RSS",
