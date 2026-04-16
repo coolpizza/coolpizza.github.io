@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-17T03:40:52.806741+09:00",
+  "generatedAt": "2026-04-17T04:49:53.773700+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,51 +16,51 @@ window.DASHBOARD_DATA = {
       "change": "+10.54",
       "changePercent": "+0.91%",
       "direction": "up",
-      "updatedAt": "2026-04-17 03:39"
+      "updatedAt": "2026-04-17 04:47"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,542.31",
-      "change": "+78.59",
-      "changePercent": "+0.16%",
+      "value": "48,593.14",
+      "change": "+129.42",
+      "changePercent": "+0.27%",
       "direction": "up",
-      "updatedAt": "2026-04-16 14:38"
+      "updatedAt": "2026-04-16 15:47"
     },
     {
       "label": "S&P 500",
-      "value": "7,028.80",
-      "change": "+5.85",
-      "changePercent": "+0.08%",
+      "value": "7,038.69",
+      "change": "+15.74",
+      "changePercent": "+0.22%",
       "direction": "up",
-      "updatedAt": "2026-04-16 14:30"
+      "updatedAt": "2026-04-16 15:46"
     },
     {
       "label": "나스닥",
-      "value": "24,042.42",
-      "change": "+26.40",
-      "changePercent": "+0.11%",
+      "value": "24,091.43",
+      "change": "+75.41",
+      "changePercent": "+0.31%",
       "direction": "up",
-      "updatedAt": "2026-04-16 14:37"
+      "updatedAt": "2026-04-16 15:46"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,479.3500",
-      "change": "+4.29",
+      "value": "1,479.3000",
+      "change": "+4.24",
       "changePercent": "+0.29%",
       "direction": "up",
-      "updatedAt": "2026-04-16 18:37"
+      "updatedAt": "2026-04-16 19:41"
     },
     {
       "label": "100엔/원",
-      "value": "929.29",
-      "change": "+0.29",
-      "changePercent": "+0.03%",
+      "value": "929.34",
+      "change": "+0.34",
+      "changePercent": "+0.04%",
       "direction": "up",
-      "updatedAt": "2026-04-16 18:37"
+      "updatedAt": "2026-04-16 19:33"
     }
   ],
   "weather": {
@@ -72,28 +72,28 @@ window.DASHBOARD_DATA = {
         "feelsLike": null,
         "highLow": null,
         "humidity": "55%",
-        "wind": "0.4 m/s",
+        "wind": "0.9 m/s",
         "rainChance": "30%",
-        "pm10": "24.4 μg/m³",
-        "pm25": "22.5 μg/m³",
+        "pm10": "25.8 μg/m³",
+        "pm25": "23.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-04-17 03:00"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-17 04:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.0°C",
+        "temperature": "11.0°C",
         "feelsLike": null,
         "highLow": null,
         "humidity": "55%",
-        "wind": "0.6 m/s",
+        "wind": "0.5 m/s",
         "rainChance": "30%",
         "pm10": "18.5 μg/m³",
-        "pm25": "16.8 μg/m³",
+        "pm25": "15.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-04-17 03:00"
+        "airQualityIndex": "33",
+        "updatedAt": "2026-04-17 04:00"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "'미토스 충격' 앤트로픽, 보안 위험성 낮춘 '오퍼스4.7' 출시",
+      "title": "고성군 주요 정책사업 점검 회의 가져",
+      "source": "고성미래신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlcjN0dzlyMnlVRlI5M1V5N3NiLU1zX1c0SDU5b19CRS1WM3RvaE5KM2NObGdIdms2My00dVluTGJMd0p2VnpDc21kdjJMTEtLVUFWV0JMR2RObTBMS2psZDVsQW9zREsz?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 19:02:40 GMT"
+    },
+    {
+      "title": "축구 경기 중 심판 피살…\"계획 범죄 가능성\" 에콰도르 충격",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PSm9ObkNHTE40WjdLNkktQzNZcEFndWJ6T3ZmVXR3bEdfMWdfNmpPbHBxb01qSkpPNFVuNkM5Vkw5SU9MNE4yZFBQUEpSVEt5Qk5yU2tNcVc3SmxZQ1dSa0hudjZidnNyZ2tFalo0MkNJQ0ljdVJIeg?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 19:40:00 GMT"
+    },
+    {
+      "title": "구윤철 '한국을 국제기구 AI 허브로…'유엔 AI 본부' 될수도'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY29ZRXA5eGpxOXB4dXpONnVnU2VoaVpIc1llTDRHcE5ZYnotSnR6bWl2eHBpdTFhdEh4TzFVTWg2cl9mZVRuTlRtZ2NWWUJzYU1MVjFzemtFanhpZ0loTzEtTU1ia1QzcmRCNnBTaWdRUHU3b3pUUWxtalFOU0Z1NFRSMHNBTUtqb3FuMWFHM3p1SGQyaFRBSldUbmdfeUtBNmVPNEk3dkRCSEVpSHdJR25Nclg2WE1NWWc?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 18:28:49 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWxYMjdUcE0tM3lEcThZSU10cHFvTXJQbm53a3kwVmNieTZUcEctZFljQ0dyRXVNeHJkMHdZSFA2T0ViendTbjFWcjJrd2Z5SEVtSFNGWVVQSHB0TW5peEk5S2kya0lpU3dIdl9WUmx4b05BVW9TaG9aRDEtbTlKcDRiZXNXcjlJOThZdEgwRkFFSklIczVKVnhFQ1B0RjI0RG5uUXY2bkl3LVZEbEpsRE80R0wtMU9E?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 18:58:51 GMT"
     },
     {
-      "title": "'늑구' 포획 그 순간[컷!노컷잇슈]",
+      "title": "\"중동 상황 극복\" 손잡은 여야정",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91cTZRR0lTc0xJUlFEVUNqQ29xVi1RMXJwb0p2ZThlcWJDdDdBT01KbWxOMlBpNmRacnhDTDNnX2Q0ajlRYy12cmtneVA4UUVSSjZNSGVPOU5aaWhpVzMwZw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 18:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CQzZoa2xzS1NfcDF4MGZ3cTJ4UFhIVDFGV2JHX3JvRGtScGYxbld1NUdDR0N3Ym9TNU1leGZfRFJkYlJNN09uTm45TDRMUVNjS29USEQ4OVBMQ3lVMk5kRGxDOWlBR0hkbGhFNGhHTTVzcXRjRVVGNg?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 19:33:00 GMT"
     },
     {
-      "title": "대전 오월드 탈출 늑대 늑구…9일 만에 포획",
+      "title": "李, '김부겸 지지' 홍준표 만난다…오늘 靑서 오찬",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fTXpvcFJwNXptaEFEbHVBQVdGa1U2cHVqMTQyWXZFdFcyaDl6YktQX1R3Ym5ua0pWWXZfODIxQXRVR0d2eGlnSFdmTW96X1NsakYxM3R3Um9qNTQxMFpudTgyU181M2JHLXVia0hLX3ZiS241WG9SMw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 18:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PNmF4ZkROOWp3M2dHUjc0UDNCeUNJTHUwS3FWZWVRdWtreTJhbXRnQ2RPb2tRd3NOY05jTm1Cb0w3eVlUVnN5SGdtbk1FYW1KS2V3?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 19:33:00 GMT"
     },
     {
-      "title": "군, 대드론체계 구축 속도전",
-      "source": "굿모닝충청",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sU3Z5Tkx5b3hYRkxfaFFMS3NJbGdTYnQyamF2VHNmR1ZSaVZsc0JyQ3p4bG9KaXA0NHhqTjdVaHZYeFhrTElxOEJBMWRBMWZuX1cxNHpreDlOaVVzVlQ4YjVTYkNTNHRBV2ZzVWhGQ1AxZw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 18:15:20 GMT"
-    },
-    {
-      "title": "삼성중공업·한화오션 “수주 기대에 기름 부었다”…조선주 다시 꿈틀",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yR2NIWlNiMHBqWVBKYW9lQnRITUJ4Z29IdGszSDlNOHl5dXV3VW5DTnZjOE5IRDFKb0thc0lTdENmUXNqd3BmcUpxQ3lzUVJleF9Wcy1aVjFacVV4YmdVbXZjV2d6OXUt?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 18:15:43 GMT"
-    },
-    {
-      "title": "[여행산업 뉴스] 하나투어, 한국관광공사, 제주관광공사, 제주관광협회",
-      "source": "비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JQ0tYRzEwMzFRZmJ6NmFoMk1ud3JNRURibDVYZUZ3czR0QWM0Z1ZQZkNuX1ZKVHdibzJkZWlfcEpkdFlWNUhYNnpHcjNyejdxZ1k2dVhUaUdaS3J5dGxtR01mc2Z4bWM4TU1z?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 17:41:00 GMT"
-    },
-    {
-      "title": "[美특징주]양자컴퓨팅株, 엔비디아 차세대 AI 모델 공개…주가 급등 랠리",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOclpRa3daUTVQREFySmVnRHVWTVZ6TzlsY1U2NTkxWWNybzJJYkJ3ZkU2M1BseHVlNUo0N3pQRi1oYzFScF8tLVZhQTF0VW5GQmxDUGprYTlrVnJ0ZUVXYU5tak8tVHd0VGhTaHVOZENhUjFKMlVidWxPYmJicmN3dA?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 18:04:17 GMT"
-    },
-    {
-      "title": "\"사진도 서류도 가짜\"…AI로 진화한 보험사기 '비상'",
+      "title": "\"서민 음식은 이제 옛말\" 칼국수 1만원 돌파…외식비 줄인상",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51cXlpWHY0M2NJU042c28yLVBoMTlzSFlXWFU0UWdDUmpJdkhWTVlSVy1GZXhRQlNOa0k0am1zY1NwbTluSWgtX3N3ZXdBNHNHZ0JJ?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 18:11:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCUWp1d1lTRXhFeEtZdGJjbU5iQ0J2Ujlxa2JCdVZRZEVzUW1DdE9mOGFSODhjRGR6Ym51UTVxSzFWZGdzQk5pMy13V1pmdWZSQW5Z?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 19:30:00 GMT"
     },
     {
-      "title": "김혜성, 8G만에 첫 홈런…오타니는 32.2이닝 연속 비자책",
+      "title": "국힘 공천 '현역 불패'…與는 '전원 물갈이'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UUTFjaWlYNGJMZy12SWRuZzdhQ2hjWUNtc2tLWU5HSDhTeUhnLVJHRnhhMUtJVG5iY1ZfMkxvRy1pZS01aWVDOUtXc1FzQzE4emNqWWt3?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 18:21:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9meXFUSHptbWdhalo4RlFvMWttQ2t1cDZSM1JacHFnaGFJUW5hU09kV3NUc0E4TGdDRl9OLW9jV01ITXFzU21JWm5URGQ3WngtZkNDSGhoakFmZGNxQXhCZXZqNjVkWm1CSzQ0dUxn?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 19:32:00 GMT"
     },
     {
-      "title": "이혼하면 갈 곳 없는 외도 아내…남편에 \"천만 원만 빌려달라\" 요청",
+      "title": "李 \"첨단기술·인재, 안보 차원 보호를\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PaGYyYjVLZXRNbVRCTy03VHYtQzZWQy1wY0FKNHp0Nm1mTzBtZDJmM1U1SnYya1BadmkxczJNck94YTRmMTY5Z3QycVFwd1Bma3l4YlBRSnFraFZOVy1KMnozRlVHWDdJbnQ1U05iVmRrY2tvVlE4Mg?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 18:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54VGtCX0t2VHNHaGpLWmlRN2RQa1Z1bEUxZWJ1Y2hjWXJ2RXdXaDI3TEJsTlBUUWE3YkE5UDZVUTlRQTJDSGNicmRSd0FIYXZhdVlZ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 19:16:00 GMT"
+    },
+    {
+      "title": "떠오른 사회연대경제, 시장의 틈 메울까",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50WjRpV20zSVRILVRTYVQ2QzN2UWxPUzNUamFkWXc4REJnSWxGdFE1OXVBQUdiYnVHMUxidVFFaEJNZ2x6ZHVCWThfb2U1YkFaaEdN?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 19:00:00 GMT"
+    },
+    {
+      "title": "美재무도 이랬다저랬다…기준금리 향방 어디로",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBranphQnNQSTAtU1YyUHRGU3hONjNBd0JrRGZhZ0tEYTQ5MzNnYXJPOWNGR0UyWUJ4Z2t4bkgtSFI1LXdUZV9NQV9FWDczUmFfNFpv?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 19:04:00 GMT"
     }
   ],
   "sources": [
