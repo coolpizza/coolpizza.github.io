@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-16T19:38:08.108959+09:00",
+  "generatedAt": "2026-04-16T19:42:45.437408+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@ window.DASHBOARD_DATA = {
       "change": "+10.54",
       "changePercent": "+0.91%",
       "direction": "up",
-      "updatedAt": "2026-04-16 19:37"
+      "updatedAt": "2026-04-16 19:40"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,477.5200",
-      "change": "+2.46",
-      "changePercent": "+0.17%",
+      "value": "1,477.4250",
+      "change": "+2.37",
+      "changePercent": "+0.16%",
       "direction": "up",
-      "updatedAt": "2026-04-16 10:35"
+      "updatedAt": "2026-04-16 10:36"
     },
     {
       "label": "100엔/원",
-      "value": "928.73",
-      "change": "-0.27",
-      "changePercent": "-0.03%",
+      "value": "928.51",
+      "change": "-0.49",
+      "changePercent": "-0.05%",
       "direction": "down",
-      "updatedAt": "2026-04-16 10:36"
+      "updatedAt": "2026-04-16 10:39"
     }
   ],
   "weather": {
@@ -193,6 +193,12 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Thu, 16 Apr 2026 10:17:00 GMT"
     },
     {
+      "title": "민주당 세종시장 후보로 조상호 전 부시장 선출",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fdWZMSDN5c1VEWmtVaWRubHA2WjctU1Vwa2xfZlR2WmtFZXUwNVRNQ1VtRnJpa3ZBYmd0V09iLVNYZFZxRi1CZEw1ME1OUzNUWWtNTHNzQnlDaFBqb2pjcnlJb1JiZFlRNFJraVAwblZvSXFMakx1Ng?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 09:57:00 GMT"
+    },
+    {
       "title": "인생 영화·드라마 보고 또 보고, 끝내 갖는다…불붙은 대본집 시장",
       "source": "뉴스통",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ0doMVZrWXBYbEJxeG1DUkIzdnhVRTNwT3hkT2QtM0UyR3RXVjlpNzVKSzdDRkJDam1jd2h0dmF3Sm5MbGtuQkdPbGFWdExOYTJNbVk1WG4tdk1aWWVQSG5heDkzVE93QUxPSWhjMmNZMEkyQ0tQV2JIdHFVckR0LTF6b1d3TGJtY0ltSWdtc2FrVUZGT1FhWWc4UzJWZWN6Q0JwaTN4TTZfaHRhNFF1T3h6cU04VVU?oc=5",
@@ -217,16 +223,10 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Thu, 16 Apr 2026 09:58:00 GMT"
     },
     {
-      "title": "이원택 추가 고발돼…예술인 모임 식사비 대납 의혹",
+      "title": "[포토] 윤동희 '선제 1타점, 필 소 굿'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xdVVScWgyMFNBeG9nWHRERFdfQ08teGQzWWwtZUV2VDBJNFRMTFQ3ZTBET1QzMW9JM1pja3FoZThsazRjTVdYX0tzcWFxQjdGNHI0?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 10:17:00 GMT"
-    },
-    {
-      "title": "민주당 세종시장 후보로 조상호 전 부시장 선출",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fdWZMSDN5c1VEWmtVaWRubHA2WjctU1Vwa2xfZlR2WmtFZXUwNVRNQ1VtRnJpa3ZBYmd0V09iLVNYZFZxRi1CZEw1ME1OUzNUWWtNTHNzQnlDaFBqb2pjcnlJb1JiZFlRNFJraVAwblZvSXFMakx1Ng?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 09:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WZ2t1RFpsRFVnaXFiLWdDbkdKR0JrQVV3U05JWGs1QzlWZkM4dUNiUVBGcnEyS1pqMjdaakYxNGtGMl9JM3ZMUGduOW1va3VzanRtT2lB?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 10:30:00 GMT"
     }
   ],
   "sources": [
