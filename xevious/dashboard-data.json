@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T07:54:09.892884+09:00",
+  "generatedAt": "2026-04-17T08:34:25.479307+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -13,10 +13,10 @@
     {
       "label": "코스닥",
       "value": "1,162.97",
-      "change": "+10.54",
-      "changePercent": "+0.91%",
-      "direction": "up",
-      "updatedAt": "2026-04-17 07:51"
+      "change": "-0.00",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-17 08:28"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,478.9392",
-      "change": "+3.88",
+      "value": "1,478.9294",
+      "change": "+3.87",
       "changePercent": "+0.26%",
       "direction": "up",
-      "updatedAt": "2026-04-16 22:49"
+      "updatedAt": "2026-04-16 23:19"
     },
     {
       "label": "100엔/원",
-      "value": "929.42",
-      "change": "+0.42",
-      "changePercent": "+0.04%",
+      "value": "929.48",
+      "change": "+0.48",
+      "changePercent": "+0.05%",
       "direction": "up",
-      "updatedAt": "2026-04-16 22:36"
+      "updatedAt": "2026-04-16 23:21"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "14.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "60%",
-        "wind": "1.2 m/s",
-        "rainChance": "30%",
-        "pm10": "19.8 μg/m³",
-        "pm25": "19.0 μg/m³",
+        "temperature": "10.5°C",
+        "feelsLike": "8.8°C",
+        "highLow": "최고 16.9° / 최저 9.8°",
+        "humidity": "67%",
+        "wind": "2.8 m/s",
+        "rainChance": "0%",
+        "pm10": "21.5 μg/m³",
+        "pm25": "20.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "39",
-        "updatedAt": "2026-04-17 07:00"
+        "updatedAt": "2026-04-17 08:15"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "13.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "80%",
-        "wind": "0.3 m/s",
-        "rainChance": "30%",
-        "pm10": "24.6 μg/m³",
-        "pm25": "21.1 μg/m³",
+        "summary": "약한 비",
+        "temperature": "11.1°C",
+        "feelsLike": "10.0°C",
+        "highLow": "최고 15.1° / 최저 9.9°",
+        "humidity": "82%",
+        "wind": "4.5 m/s",
+        "rainChance": "15%",
+        "pm10": "23.8 μg/m³",
+        "pm25": "21.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "25",
-        "updatedAt": "2026-04-17 07:00"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-04-17 08:15"
       }
     ]
   },
@@ -177,10 +177,10 @@
   },
   "news": [
     {
-      "title": "[AI기자의 News Briefing] 4월17일 오늘의 주요 뉴스를 전해 드립니다.",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzbWJTNzRFZ3M3cHl0V3pIaVNNY0c5SHczWWgyTVIyZ1F0YVAzMlE0Q05kMHhMbjBkQkh0RVdDY0JnY0RMc1RzR1I4aEVUalY2ZmpVN19ud3pIOHVzZHZvVXZTanVzYkpEbmc?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:06:37 GMT"
+      "title": "[전국 주요 신문 사설](17일 조간)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qcF82RnRObE85ZldxcXpRUUxKWjczNjJ0allxQjZndkpiWmpKb3RFejNWZmNxNnNtUUdGUHl4OEU0SlVqc3NSTmctTXVJODNOWjgtNFhkLVppZnfSAWBBVV95cUxQNjVLeEt1aDdRNmR4NE9KOUZoZWdHSXZCM2NQUDJPYVdEZTRjLW8tbk5wTDlRbXpBdjFHdHhWSTFtZ1NPRnA3Y0N3WEVzUWZjc1BiOXNGQ2U1VUJubVJnMDQ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 23:02:39 GMT"
     },
     {
       "title": "4월 17일 굿모닝 MBN 이 시각 주요뉴스",
@@ -189,34 +189,16 @@
       "publishedAt": "Thu, 16 Apr 2026 22:41:00 GMT"
     },
     {
-      "title": "4월 17일 굿모닝 MBN 주요뉴스",
-      "source": "mbn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcFN6b3RWMVVqMERXMVVLVERTdUVIeU1HQUdYOVBrLTBiWmlRNk9KSHlXZDRhZ0xhcmo3Qnk1Ti13anh3X2NnOWRJWmtvUXpSWVdJbnFPdTBtT2NfRFJEelpGdG1iRXRyY2ZUWXlQcThXaExrM2ZXOVRDVWJ1S3ZIZ1M5bTJTdlQ5SWtB0gFMQVVfeXFMTkctM25oZm9iaHNRUGdibjZHY1g2U3U5LUlqTWdWTmpKVWs4c2ZBS2VlSFlWR043dkNrMkgyRVhWRDBXbklzNDJsd28wag?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:00:35 GMT"
+      "title": "“생산라인 점거 안 돼”…삼성전자, 교섭 중 가처분 신청",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFk4ZC1YWHpXNUlaR0dwY3BRU2lmMHljblBENUI2T3ljRHl2NFl2QTFyb21PTlF0T2NuYlZPNFRxU1c0ZVN4SFZGNkNkTmk3dUplQXIxYml5Vk9SR2haY01nYWxDMEt0a0NKSzZLVUE5eDA1WkFzc2dZbUo1ZGx3ME1SSjFBME0zZnkxNWhSaC10Rncxa19sQ2tGd1JqU0ZjWl9LQVdJZzVrUUk3aTd1Zi1wVzZfQWE3?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 23:32:53 GMT"
     },
     {
-      "title": "4월 17일 여수시 주요일정",
-      "source": "남해안신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZYW9ZNnZ2akx1RElBemkxOTVrTEpnd3B0WHVqSHVlNjJBV05NdnBtUU1OLVJTSy1ZaDN2WENuSGRfUG9oQzE2WlpoYmZhWmptWjlmd3Q5WUttZ2VEVlZiMXItZHpZYVo4?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:04:12 GMT"
-    },
-    {
-      "title": "EU집행위, 구글측에 DMA 준수위한 데이터개방 등 요구",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QbzZ2Um5nd2pqdzlFWW5mWFlrc2RUbUZCb0RhbjB5MmhoRjZzdXl3ZzJiZ2FTbmtJYXNPbVJTU2RWSm5QOTFpNl91eV9TRjdady14UGluS20tcjVmV0E?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:09:35 GMT"
-    },
-    {
-      "title": "[오늘의 IR] 코리아에프티",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55YW1RRDhSOWtsNHBDdUtQTlJMemZnelpnTTFiOE9zTm5DNHZEdC1KVWZGeWctWDVGd1FST3BRQlFQWDQ1NDBuOG5zcmxIczJOVEQw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:29:00 GMT"
-    },
-    {
-      "title": "여야, 오늘 본회의 열어 정치개혁 법안 처리 추진",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrWUNNbjZIZDJ6dnBDaTdDWjV3VGdSS1NCblY0RHp4RHZYTmNOb3owNFpQOFdMT1JETi1tUl9MODNQVXprUmhJMFRXY0p6cmRycFpj?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:25:00 GMT"
+      "title": "[전국 주요 신문 톱뉴스](17일 조간)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04VUNQbHVqWkJqZWNGNnFhZnJZekNJMzVqYkpNb2hBbjdnaGVycVRMUjVWRXlMOVZDNlJjeG5hc3lROWdMMkxoMnZZLVZqb3pYRHlvdldLY2dUc3fSAWBBVV95cUxOVE1kWXUyYUdBNWE0TlEwczRIeW4wV1hLMlJKckkyY0VZNHY0WmsyWjJFeUlER1NLbzNsUjVLbmhVNTV3OHRYM3FiMGFvRzZINkpwM0ZMRXBPYVp2WnRaNFc?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 23:00:00 GMT"
     },
     {
       "title": "현대차 노조, 완전월급제 도입 주장...로봇 현장 투입 가능성 대비 조치",
@@ -225,16 +207,34 @@
       "publishedAt": "Thu, 16 Apr 2026 22:52:49 GMT"
     },
     {
-      "title": "법원, '이 대통령 명예 훼손 혐의' 전한길 구속영장 기각",
+      "title": "한국타이어 '라우펜', 스코다 옥타비아에 공급",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90VDg4dVlpaHlKc29zaFlsM0g2VWdsSGM3bm9tZ0w3TElWd2Jac3pqQ0lMTmNneGRmRjdFbER5bFVpckg4VVoyQklDb1NyZjEyWnVJd21oU24xd2d1V3RadTZMM1BEVjhWSDAxTmRJVUh5ZHBlZlVrdQ?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5COTE4SlhhTWxVNmFOclhtSE1GQjJmWVRXOENYQ3VfNENRMU0zSG42YnZXVVY4WVNnZnhDYURKMkRZQjVGMU5xOWVEM2d1WENTZEwxVnFPT1JJbmlBS2hxdA?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 23:31:00 GMT"
     },
     {
-      "title": "TSMC AI 열풍에 올해 1분기 58% 급증 순이익 사상최대",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8teXNvbVJOcG1haWxOQjh2YjdFYzhFb0JvZ0NjTW4xT0JfODVpV3poZlVFNFBHMUZSMG1EMkZxNE5Hel9waWcxWmJCRHlFZDB6Sll1QmJwWFdRdWQ0RVE?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:19:48 GMT"
+      "title": "케링, 구글(GOOGL.O)과 협력…구찌 부활 카드로 스마트 안경 츌시한다",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSFVYSWxqajZiajlUSjdZMUl1NVZUZDl0XzV1eWhxZW5GeXpwaGdjVjV3UC1vUFo5Z2FSeWJPUEVPT1Fvbms3a0RPWVBoY2ZxcXVyd2JuNjNSTDVwLWF4OEJwUGVRano4RTA5b1ZLMjdncXJXb0FIZlNvaW9YMXdyMy10SjlsSUtmM1FhTl9GV2VjQkotc3F5azRkY0taVlVPb3ctMkVrbTNOR3pPNF9BTmdhTmlGc051?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 22:57:49 GMT"
+    },
+    {
+      "title": "배달노동자 차량…제주도 무상점검 나서",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92cFlvbTM1WjBweTBwaEZZQjJEdGFidDFadTJYTElMY3dTOGZQdHZ5TXJQTkRLdEZ1c2wtTTZ1S3RkaTRDcWpBcEsxejBHUHliNzhtMl9uRnhURWtZeEJZLQ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 23:16:00 GMT"
+    },
+    {
+      "title": "현대백화점, 하반기 실적 모멘텀 기대-흥국증권",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQ2xSTW1UMlBRRnlmVVhNWUR6aENFODRPNEJQTnZXemR6UjMzUEpSVzA4VGR6ZEd3VjFmVkpXOWJtb2JRcXBMSVp4aFpOTjlvS1RZ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 23:13:00 GMT"
+    },
+    {
+      "title": "안도걸 \"기아, 천궁 미사일 특수차량 개발해 패키지 수출해야\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DZC1SR3l6VlpQRFRMaXJxT2tpcjdYVGY5SldJdndBR19SNWthd3FxWWtXN19EMUppejBSdE5ub3NrWUtZWGM4WW1kYkpOVW1ORnZ3?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 23:18:00 GMT"
     }
   ],
   "sources": [
