@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-17T05:37:02.188601+09:00",
+  "generatedAt": "2026-04-17T06:25:22.313586+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@ window.DASHBOARD_DATA = {
       "change": "+10.54",
       "changePercent": "+0.91%",
       "direction": "up",
-      "updatedAt": "2026-04-17 05:33"
+      "updatedAt": "2026-04-17 06:23"
     }
   ],
   "usMarkets": [
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
       "change": "+115.00",
       "changePercent": "+0.24%",
       "direction": "up",
-      "updatedAt": "2026-04-16 16:20"
+      "updatedAt": "2026-04-16 16:48"
     },
     {
       "label": "S&P 500",
@@ -34,7 +34,7 @@ window.DASHBOARD_DATA = {
       "change": "+18.33",
       "changePercent": "+0.26%",
       "direction": "up",
-      "updatedAt": "2026-04-16 16:20"
+      "updatedAt": "2026-04-16 16:48"
     },
     {
       "label": "나스닥",
@@ -42,25 +42,25 @@ window.DASHBOARD_DATA = {
       "change": "+86.68",
       "changePercent": "+0.36%",
       "direction": "up",
-      "updatedAt": "2026-04-16 16:31"
+      "updatedAt": "2026-04-16 17:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,479.7393",
-      "change": "+4.68",
-      "changePercent": "+0.32%",
+      "value": "1,479.1100",
+      "change": "+4.05",
+      "changePercent": "+0.27%",
       "direction": "up",
-      "updatedAt": "2026-04-16 20:30"
+      "updatedAt": "2026-04-16 21:20"
     },
     {
       "label": "100엔/원",
-      "value": "929.76",
-      "change": "+0.76",
-      "changePercent": "+0.08%",
+      "value": "929.24",
+      "change": "+0.24",
+      "changePercent": "+0.03%",
       "direction": "up",
-      "updatedAt": "2026-04-16 20:31"
+      "updatedAt": "2026-04-16 21:15"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "9.9°C",
-        "feelsLike": "8.0°C",
-        "highLow": "최고 16.9° / 최저 9.6°",
-        "humidity": "67%",
-        "wind": "3.0 m/s",
-        "rainChance": "0%",
-        "pm10": "22.5 μg/m³",
-        "pm25": "21.0 μg/m³",
+        "temperature": "14.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "55%",
+        "wind": "0.9 m/s",
+        "rainChance": "30%",
+        "pm10": "18.9 μg/m³",
+        "pm25": "17.9 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "37",
-        "updatedAt": "2026-04-17 05:30"
+        "airQualityIndex": "36",
+        "updatedAt": "2026-04-17 06:00"
       },
       {
         "location": "익산",
-        "summary": "약한 비",
-        "temperature": "9.7°C",
-        "feelsLike": "8.4°C",
-        "highLow": "최고 15.7° / 최저 9.5°",
-        "humidity": "92%",
-        "wind": "6.3 m/s",
-        "rainChance": "15%",
-        "pm10": "20.7 μg/m³",
-        "pm25": "16.9 μg/m³",
+        "summary": "흐림",
+        "temperature": "12.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "75%",
+        "wind": "0.5 m/s",
+        "rainChance": "30%",
+        "pm10": "22.5 μg/m³",
+        "pm25": "18.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "31",
-        "updatedAt": "2026-04-17 05:30"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-04-17 06:00"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[월가 레이더] S&P500 사상 최고 이틀째⋯나스닥 12연속·2009년 이후 최장",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVaHptOS1IYkRra3lnaTczWTYxZlBmLTNYb1JuY3JnQUJXaUljMC05dUJtSkxiTjZKM1Vra0tFY1FYOFFMZFZxMWt0T2M4dnYwWVdfZnpDam03T25ZekE?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 20:23:17 GMT"
+      "title": "1부 오늘의 주요뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92dy04eWVFQ1FoUjRXMkFxOEQ3X3BTcWpFTGVkWnNkZzFtbEl4dkdfQmVxUkpBVG93RVBlTHB3c3ZNb3NNaGVqNmN3TFNTd2dQYlE3VjZ1VVVuajNEUi1ZbkFnSDJYMVBEaGJMaVk4MW5YRl9rWWg3THln0gF6QVVfeXFMT2JpRDZWalluU25UT0RCbm9IeXpwNzJNQlRLSUZ3YWJfbnR4V2pETThVME5jc09qdG81clFJWlpjNFJ6QjJEN2Zsa0pTR1k2VUNzbjVRQ1pndGxpeU1OT1FGUzBaQi1DWldYM2QzZEFMVzJPTHE3cUpBR1E?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 21:02:42 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(17일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBRDBFQm1pT2Nyci1NU19FLU9CNldzdnhkZ2tOSlE3TFNqMlZQRS1jZmp1V1hBYmtEdjZ2Ukt2c1NzUXA1cXU5Zm9JNHZrbUNyOTBXNE9jNWhydmZ2ZzNN?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
+      "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNTG5TdEJGM25qRnFsblUtM1kzallNT2ZTeU1pd2RmeXVLeFRsdEpYNUZ3QzYzbWlyc1ZXWUhCZ05DZE84a1BfSDRTbklyRXl5WWItakJLTGN1TXPSAWBBVV95cUxOS1JJV0REWnM2dDdkT1JoQlF0MW1kQk15TXp5czNEZ1lzNnhaU0hJZzlmUlVaQmhTNGF0MV80TEpkeERUaXV1OW54WjVmcWtqMjFkRnktUTJkZE0wblhVYWE?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 21:05:01 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 전북(17일, 금)",
+      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rQU1fWXJPdGdQZ28zdzE4ZVJCWUs4d2dqRW5ZeXF2MGNqS0lKYTl3bTgtWlZ2MkFxZzgxcWdxQkFQbmU3MFEwRW83RjVrOFBPaDY3bU9BWUdLaXhhSDRRSk1vLVltbW9IZWfSAWZBVV95cUxOYTFndTNBN3RSVVF1SDVCTVduQVJuVnljNVlrNzd5ell2UklRamxEMHNHb09wTWo1RkpLSWpQQkM0NzhvVjZZd0dFVWRaMExlSEZTM3Y2QkROa2RYM3dlNDlYeXZSMVE?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 21:09:00 GMT"
+    },
+    {
+      "title": "[카드뉴스] 고유가 시대, 생활비 지키는 ‘기름값 절약법’ 5",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ydFF3THdYRnNxdjRZUkMxaHI1TlVsMzVBRy1oeGxYOW05NUxINHpNUmVKMHR6aGVhOXA1a1ZVamZmcmtGTUtoRGh2ZWdQdjBDSFhIcmNDYV9yQQ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 21:00:00 GMT"
+    },
+    {
+      "title": "[모닝와이드] 오늘의 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jTFA2bkZMTGxvclY1LU9jM0dTNU5jMWpWeHlDU3BvLVdkU0szWFcxdmxIT2RneFQtSDV3dHZSd2tHUEJmSzFTdmhid0hhZnNiaFhv?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 20:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUzkwOWl1UGRIRVE1dTB2RHhyOVl2bHpQWHZPT2dVQlNocUZzcHV1dXNvSDhYXzBsWVFjbExrNkhORFliX2U2M1R0X3l6UVVmWTRv?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 21:12:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 전북(17일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SX2dVeU9FOUhublRGVEFHb3QyVHU2TDRGZHowNzlMbWF4QVRRU0JlUFBEcmZwY090U2UyUGhnRlB5ZFMxNHlaWFFQM2FTMzhXa1lERg?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
+      "title": "머스크, 인류 첫 조만장자 눈앞…스페이스X 기업가치 2조 달러 전망",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV3U3OWZWMkZCWVRxTTZ6WWxUMVhELWdhRXVLVmFVNTZnb2s1T3pUQ2lRd01WNFZ4V1ozdFFzWVhYZG80SS03Nzg1a3R6bXd4SnFXNXFqcTN0ay0yNUE4dmt0QjVnWTBMaVpSVzMxU1NhS2daWGVCbFBtQWdlTU02ek9Ldjh2d3paOEZxZGJSRko2YllkekJuWG9KeDBIeElqdEZKa2d2dm1Yd21LNVp3eC1qeFlQNXM2?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 21:23:09 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 정치·정부 (17일, 금)",
+      "title": "[속보] 뉴욕증시, 상승…다우 0.24%↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DOHFTWGFPR19vb054akZ0d0xZMERycnRZdXUyR21RaUlyWWFsRkpnVEFqTFRTQ2hGTGh1akVveEN0YzdtRkxNZVp3NURDNndxcWw4?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bXF3Zkpaa3YwWFdvdGZ4R1NCSWFXeW10TERhUmdMTFpQMGpBQTVUNnk4ZUxEMloycTB2NXhEUnFZWGJscDRqV3k0Q1hwR1ZDNG5RZDhxVWtBUm1rRnpaYTlscWt5SVdXM1E0eE12Q1ozNGlxOXJyMQ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 21:15:00 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 울산(17일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JTnhQTTg4azBFb1JXX1lCYU5EOHR1ZWtVWlo2YzhhYW9GUDVKd0lwV001YVRqSU5vbzctekN1OGFkU2Vzc2dTcWVpeC0yMlVlY1E?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
+      "title": "서울시농업기술센터, 도시농업전문가 양성…30명 모집",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjExXzlUMmluSFp5Um5SV04zSHV3cHdlQ1Y0VWhlVUZEZG01Y2FpLUNrSjR6OWM1cmxLYS1XUlhFVmpqT1hnNXEzemY4MFIxYVczcGhKNzZ0N0gxeXYtXzBuUkFkUWh0Q1RRODJSZGZHcW9Yb3RqTjIycEFqN1FwcFI1WEtUUURBbWRQN2tXa2tWR1lZZHNuZ2owc0VaT1hwQlUwTG1xQTdicUJzdHA4Xy10MGVJbjRZWWc?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 21:03:46 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 대전·충남(17일, 금)",
+      "title": "[속보] 국제유가, 급등...WTI 3.72%↑",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vRkRDcFdQZERqSS1xT1FmVlJqVlJUVVJ3YnVwZ2NxU1VJWEt1MTZMY0poMjB0VVVpeGpyZ1NHZ3ZSUWpvZFVyeUNWX0VUS1Vac0xCVVoyNTNpTXp1OW9pdWVEeHd6TGZfakh6VUtR?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 21:17:00 GMT"
+    },
+    {
+      "title": "[속보] 국제유가, 급등…WTI 3.72%↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LMTZwVlQyZ2NMd3VSMlV4VlB5SDlMQTNhR2h2ODhsUFBRaXhZVnNXU1N5U2I0R01QRGE5UmJhUC01NEFtaGgtalF3QmE0aUttU0lj?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 20:02:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 대전·충남(17일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13aVJpclBwbGdoWXZHRE1HLWpRTzd0UDlDTWUyU0pHSTIxUzhOZllrak5Jb0lGRkhndDVLUHpmczdMSlZwSzE3YXgxWXpVT0lBY0VTWHBDdHNwa3pEMnNTTw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 광주·전남(17일, 금)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRdHJBRUJreTB3cHozQW0xS050OHhiM1g5QWJKcGtScGo3Yy1SWS1Oc3JvTzFQVlI5SnVwYTVOY1AzRmhZNHNieTB1LWstd3h5NVZj?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 광주·전남(17일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGa1NlTGh6U2swLVpXWFJReU5vMEVmdEtFYlhYNGlEVXItMVdVb1pKV2c0aUJ6N0VRQXJPU3ltSENzME9Qazh3MHctb1U0NWFpd3REWjZLOHlhUzgtaUhV?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNaEt5cEZyUEJSSG10R1MwVGVXajRsQXVnVnU2bFdkT3Y0VjdzcXkyQ1loUWVidjFiVXZGclNYYjlXNWY4Wi13bXNpYWM4MEtTYnVldnNqc0d5b0xOc3VYNA?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 21:18:00 GMT"
     }
   ],
   "sources": [
