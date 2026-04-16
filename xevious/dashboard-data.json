@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T02:22:27.795316+09:00",
+  "generatedAt": "2026-04-17T03:40:52.806741+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,51 +16,51 @@
       "change": "+10.54",
       "changePercent": "+0.91%",
       "direction": "up",
-      "updatedAt": "2026-04-17 02:19"
+      "updatedAt": "2026-04-17 03:39"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,460.38",
-      "change": "-3.34",
-      "changePercent": "-0.01%",
-      "direction": "down",
-      "updatedAt": "2026-04-16 13:17"
+      "value": "48,542.31",
+      "change": "+78.59",
+      "changePercent": "+0.16%",
+      "direction": "up",
+      "updatedAt": "2026-04-16 14:38"
     },
     {
       "label": "S&P 500",
-      "value": "7,024.79",
-      "change": "+1.84",
-      "changePercent": "+0.03%",
+      "value": "7,028.80",
+      "change": "+5.85",
+      "changePercent": "+0.08%",
       "direction": "up",
-      "updatedAt": "2026-04-16 13:17"
+      "updatedAt": "2026-04-16 14:30"
     },
     {
       "label": "나스닥",
-      "value": "24,044.42",
-      "change": "+28.40",
-      "changePercent": "+0.12%",
+      "value": "24,042.42",
+      "change": "+26.40",
+      "changePercent": "+0.11%",
       "direction": "up",
-      "updatedAt": "2026-04-16 13:17"
+      "updatedAt": "2026-04-16 14:37"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,480.6500",
-      "change": "+5.59",
-      "changePercent": "+0.38%",
+      "value": "1,479.3500",
+      "change": "+4.29",
+      "changePercent": "+0.29%",
       "direction": "up",
-      "updatedAt": "2026-04-16 17:18"
+      "updatedAt": "2026-04-16 18:37"
     },
     {
       "label": "100엔/원",
-      "value": "928.99",
-      "change": "-0.01",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-04-16 17:06"
+      "value": "929.29",
+      "change": "+0.29",
+      "changePercent": "+0.03%",
+      "direction": "up",
+      "updatedAt": "2026-04-16 18:37"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "12.2°C",
-        "feelsLike": "10.3°C",
-        "highLow": "최고 15.9° / 최저 10.1°",
-        "humidity": "61%",
-        "wind": "4.7 m/s",
-        "rainChance": "0%",
-        "pm10": "25.4 μg/m³",
-        "pm25": "24.1 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-04-17 02:15"
+        "temperature": "15.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "55%",
+        "wind": "0.4 m/s",
+        "rainChance": "30%",
+        "pm10": "24.4 μg/m³",
+        "pm25": "22.5 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-04-17 03:00"
       },
       {
         "location": "익산",
-        "summary": "약한 비",
-        "temperature": "10.6°C",
-        "feelsLike": "9.9°C",
-        "highLow": "최고 15.6° / 최저 9.8°",
-        "humidity": "93%",
-        "wind": "4.2 m/s",
-        "rainChance": "15%",
-        "pm10": "19.1 μg/m³",
-        "pm25": "18.4 μg/m³",
+        "summary": "흐림",
+        "temperature": "12.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "55%",
+        "wind": "0.6 m/s",
+        "rainChance": "30%",
+        "pm10": "18.5 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-04-17 02:15"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-04-17 03:00"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "트럼프 \"이스라엘·레바논, '열흘 휴전' 합의…백악관 초청\"",
+      "title": "'미토스 충격' 앤트로픽, 보안 위험성 낮춘 '오퍼스4.7' 출시",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY29ZRXA5eGpxOXB4dXpONnVnU2VoaVpIc1llTDRHcE5ZYnotSnR6bWl2eHBpdTFhdEh4TzFVTWg2cl9mZVRuTlRtZ2NWWUJzYU1MVjFzemtFanhpZ0loTzEtTU1ia1QzcmRCNnBTaWdRUHU3b3pUUWxtalFOU0Z1NFRSMHNBTUtqb3FuMWFHM3p1SGQyaFRBSldUbmdfeUtBNmVPNEk3dkRCSEVpSHdJR25Nclg2WE1NWWc?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 18:28:49 GMT"
+    },
+    {
+      "title": "'늑구' 포획 그 순간[컷!노컷잇슈]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XYTBvS3d2U1FVck1uWkt6WW1jb2JSbVQyOGNMeGxYWmJ2bXNxakZpTzBuMUJZUE1wa1oybkZGcHVyaElRN1FtSmpfbWNsV0ZwODZn?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 16:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91cTZRR0lTc0xJUlFEVUNqQ29xVi1RMXJwb0p2ZThlcWJDdDdBT01KbWxOMlBpNmRacnhDTDNnX2Q0ajlRYy12cmtneVA4UUVSSjZNSGVPOU5aaWhpVzMwZw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 18:27:00 GMT"
     },
     {
-      "title": "속초시, 권한대행 체제 전환",
-      "source": "서울뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXenVSQXFCNjhzZnB0d3YtQTFSY1VGTzlqdHZlZHNiSGIxMDhqM3pkSTZzeUZvLWhId0p5d0VrcTZOYkFLQVF1NjhLUWdpNmU3UjhSX182Z1BnTF9iYUJNR3doOXNhZmktc0sw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 16:41:16 GMT"
-    },
-    {
-      "title": "노인 돌봄수요 20년만에 2.4배로 급증 전망.. 99만명 더 필요",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5b2x1b1hnaTFOOFFPYjJCMk5vai1YOGl4RVlxeUZuNndCNHVTMXpRQjByLXVhTlpyUnpNZ0Mwbko5WEQ3WVZBY3JSX0dQUHJqN2E2bEw2eFVfbWxXTWFHRnB6X0pYQnpST3VR?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 16:27:37 GMT"
-    },
-    {
-      "title": "李대통령 고향 안동에도 민주당 바람 불까",
+      "title": "대전 오월드 탈출 늑대 늑구…9일 만에 포획",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAydng1a1JVLTg5VXBTZGxnd1FodHBaSThiYTBKLWZ1RjdFUmt1RUhZakJzLWRmSG5QcjRXRk9XeV9CSDJlM0FaQ2VyMlRmQzN5WXYw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 17:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fTXpvcFJwNXptaEFEbHVBQVdGa1U2cHVqMTQyWXZFdFcyaDl6YktQX1R3Ym5ua0pWWXZfODIxQXRVR0d2eGlnSFdmTW96X1NsakYxM3R3Um9qNTQxMFpudTgyU181M2JHLXVia0hLX3ZiS241WG9SMw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 18:22:00 GMT"
     },
     {
-      "title": "조수연, '모두가 자신의 무가치함과 싸우고 있다' 고윤정 직장 동료 나영 역 낙점",
+      "title": "군, 대드론체계 구축 속도전",
+      "source": "굿모닝충청",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sU3Z5Tkx5b3hYRkxfaFFMS3NJbGdTYnQyamF2VHNmR1ZSaVZsc0JyQ3p4bG9KaXA0NHhqTjdVaHZYeFhrTElxOEJBMWRBMWZuX1cxNHpreDlOaVVzVlQ4YjVTYkNTNHRBV2ZzVWhGQ1AxZw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 18:15:20 GMT"
+    },
+    {
+      "title": "삼성중공업·한화오션 “수주 기대에 기름 부었다”…조선주 다시 꿈틀",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yR2NIWlNiMHBqWVBKYW9lQnRITUJ4Z29IdGszSDlNOHl5dXV3VW5DTnZjOE5IRDFKb0thc0lTdENmUXNqd3BmcUpxQ3lzUVJleF9Wcy1aVjFacVV4YmdVbXZjV2d6OXUt?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 18:15:43 GMT"
+    },
+    {
+      "title": "[여행산업 뉴스] 하나투어, 한국관광공사, 제주관광공사, 제주관광협회",
+      "source": "비즈월드",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JQ0tYRzEwMzFRZmJ6NmFoMk1ud3JNRURibDVYZUZ3czR0QWM0Z1ZQZkNuX1ZKVHdibzJkZWlfcEpkdFlWNUhYNnpHcjNyejdxZ1k2dVhUaUdaS3J5dGxtR01mc2Z4bWM4TU1z?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 17:41:00 GMT"
+    },
+    {
+      "title": "[美특징주]양자컴퓨팅株, 엔비디아 차세대 AI 모델 공개…주가 급등 랠리",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOclpRa3daUTVQREFySmVnRHVWTVZ6TzlsY1U2NTkxWWNybzJJYkJ3ZkU2M1BseHVlNUo0N3pQRi1oYzFScF8tLVZhQTF0VW5GQmxDUGprYTlrVnJ0ZUVXYU5tak8tVHd0VGhTaHVOZENhUjFKMlVidWxPYmJicmN3dA?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 18:04:17 GMT"
+    },
+    {
+      "title": "\"사진도 서류도 가짜\"…AI로 진화한 보험사기 '비상'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PbEdYVjdWV080d1hWNlctMUtPdENCb3dvYkw0TFFfakRsTzV2d3pSa09Lalh5UEFQQ0dReDEtUnZfYXZJUmtQWmRwTlJvUExUYW03ak96c0lienpxSkREQzNzelY1dVBmRnN6Tl9nWF9sYjhTM3JTRw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 16:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51cXlpWHY0M2NJU042c28yLVBoMTlzSFlXWFU0UWdDUmpJdkhWTVlSVy1GZXhRQlNOa0k0am1zY1NwbTluSWgtX3N3ZXdBNHNHZ0JJ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 18:11:00 GMT"
     },
     {
-      "title": "정유미, '러브 어페어' 이선희 역 낙점···이동욱과 부부 케미 기대",
+      "title": "김혜성, 8G만에 첫 홈런…오타니는 32.2이닝 연속 비자책",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OaDB2eUhMNUQ5WjBxRGFBY1lNem10Q0ZMRUF5ZGhDR19KZjdjeEZ5VW5XSWJ1WE9LUHdFTWJOUE1WSzdTYlgxUm1nMnVTX2pzNTN6bGhMaDVuNS1Vb2EyWGV5MXFPNEpSYU5SNVJYWE1oQ29wWHJiTA?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 16:23:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UUTFjaWlYNGJMZy12SWRuZzdhQ2hjWUNtc2tLWU5HSDhTeUhnLVJHRnhhMUtJVG5iY1ZfMkxvRy1pZS01aWVDOUtXc1FzQzE4emNqWWt3?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 18:21:00 GMT"
     },
     {
-      "title": "익산시 전북연구원 지역발전 동력 확보 위해 머리 맞대 > 뉴스",
-      "source": "더코리아",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oa3hZRVhTSVljYUlwdkl2YlZGQ0pPaEYyUUZCcTFEZE1nbmczNGFQRHoxTTlBelRMM0xscHlCWGdpNzA?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 16:41:00 GMT"
-    },
-    {
-      "title": "대학원생 성추행한 교수 2심서 선고유예…제자는 자퇴",
+      "title": "이혼하면 갈 곳 없는 외도 아내…남편에 \"천만 원만 빌려달라\" 요청",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUeVdiaGtIb182X1RJeURYWU9QVkJ2SlB5YUVPcUpiM3dic2VNV2liOVZaYTB0dC1DMnhpaFNOa3JBNkQ4UEtSWkN0elVHc3k5TU1pVlhJRU04UnAyWlFWUFJVNjNncWxtdmk3LXRn?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 16:55:00 GMT"
-    },
-    {
-      "title": "창원, 2강3약 난타전…경남 전체 선거의 바로미터",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwNGJDZW9lRlM4YVljZnlkMXJNc0hGaGF0c09RRTFobDNPWjdFdXJMQnN4bHZId0ZmT3dUZTh2T1BYUEFQQVNCcU1ZZ3FhVTNRbnIw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 17:06:00 GMT"
-    },
-    {
-      "title": "[투데이 窓]'모두의 창업', 혁신과 성장의 잣대 유지해야",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYMzZ5bEtaakN5akxWZFZINU1BUUZNeGwwWXV2NWZwR1pUeVNHcjlzMXk0YkpoUnZJRUVpekNxd2RXWnVzX2JuTUt1UHlWT1RaYzNz?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 17:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PaGYyYjVLZXRNbVRCTy03VHYtQzZWQy1wY0FKNHp0Nm1mTzBtZDJmM1U1SnYya1BadmkxczJNck94YTRmMTY5Z3QycVFwd1Bma3l4YlBRSnFraFZOVy1KMnozRlVHWDdJbnQ1U05iVmRrY2tvVlE4Mg?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 18:36:00 GMT"
     }
   ],
   "sources": [
