@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T17:07:57.689525+09:00",
+  "generatedAt": "2026-04-16T19:38:08.108959+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -8,7 +8,7 @@
       "change": "+134.66",
       "changePercent": "+2.21%",
       "direction": "up",
-      "updatedAt": "2026-04-16 15:30"
+      "updatedAt": "2026-04-16 18:05"
     },
     {
       "label": "코스닥",
@@ -16,7 +16,7 @@
       "change": "+10.54",
       "changePercent": "+0.91%",
       "direction": "up",
-      "updatedAt": "2026-04-16 17:04"
+      "updatedAt": "2026-04-16 19:37"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.1151",
-      "change": "-0.94",
-      "changePercent": "-0.06%",
-      "direction": "down",
-      "updatedAt": "2026-04-16 07:59"
+      "value": "1,477.5200",
+      "change": "+2.46",
+      "changePercent": "+0.17%",
+      "direction": "up",
+      "updatedAt": "2026-04-16 10:35"
     },
     {
       "label": "100엔/원",
-      "value": "927.84",
-      "change": "-1.16",
-      "changePercent": "-0.12%",
+      "value": "928.73",
+      "change": "-0.27",
+      "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-16 07:57"
+      "updatedAt": "2026-04-16 10:36"
     }
   ],
   "weather": {
@@ -68,24 +68,24 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "23.2°C",
-        "feelsLike": "22.2°C",
+        "temperature": "17.8°C",
+        "feelsLike": "17.6°C",
         "highLow": "최고 24.0° / 최저 9.0°",
-        "humidity": "35%",
-        "wind": "1.5 m/s",
+        "humidity": "63%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-16 17:00"
+        "updatedAt": "2026-04-16 19:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "23.4°C",
-        "feelsLike": "22.7°C",
+        "temperature": "14.3°C",
+        "feelsLike": "13.6°C",
         "highLow": "최고 26.2° / 최저 7.3°",
-        "humidity": "49%",
-        "wind": "9.4 m/s",
+        "humidity": "80%",
+        "wind": "7.3 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-16 17:00"
+        "updatedAt": "2026-04-16 19:30"
       }
     ]
   },
@@ -127,7 +127,7 @@
         "lowestDistrict": "중구",
         "stationName": "오일캠프주유소",
         "address": "인천 중구 축항대로 282 (신흥동3가)",
-        "updatedAt": "2026-04-16 14:59:47",
+        "updatedAt": "2026-04-16 17:59:43",
         "districtSamples": [
           {
             "district": "중구",
@@ -169,64 +169,64 @@
   },
   "news": [
     {
-      "title": "인도·베트남 순방에 4대그룹 총수 '경제사절단' 동행",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NcnVnMU8zMU5kS3FFWFVEQ0lBd1NTS2g4X21MdWRJelp3RlhyYjVNS2tfZ2RQb1BJVDJFT2xLei1qZzk2d2xNRjVTZ1VnQVNQMFlBbmU5cG95NENhWTlmZVlOakVLR2M?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 07:41:05 GMT"
+      "title": "[한국뉴스 TV] 26년 4월 16일 (목) 오늘의 주요뉴스",
+      "source": "24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TYWJBNWlEMWlaR1ZTREFvREtKc0RKVklRWEhnckdpLVVoRHgyU0RFQ3FTLXFVX0tzZWkyYUNYNnJkRC0tV0EyaENzUHRSVzRFV1R6V0NEazQxZVRHR29TMFV5U2k2TVE?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 10:06:56 GMT"
     },
     {
-      "title": "[오늘의 주요공시] 케이티앤지·대우건설·한전기술 등",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05bGJya0ttdjVYQ2llM21mTUFPSDFGTzBuUjFQM2s3YlF4UlNoeGNkQ3pVRnRUeVVtRG1PQkhmUnhpN3F0SmxFVXl0c1VHcUFGNnQ0?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 07:58:06 GMT"
-    },
-    {
-      "title": "‘블러드본‘ 애니메이션 나온다… 잔혹한 분위기 살린 ’R등급‘",
-      "source": "ipnn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zMGhXZVVXdS01RFoyVURaVUlnNlgzZ2twZE9WSjBCeEdSMHRFVUxJMmpvZk15QVJBbkZGUGFrWE5BMjc3YmJQck91OHJqMFZfZE1OV1hTcXZja05YVzlESGlJTTVOaG4t?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 07:42:42 GMT"
-    },
-    {
-      "title": "17일 호르무즈 통행 국제연대 출범! 한국 주요 역할 맡아 이재명 대통령의 발언은? 이상호의 뉴스비평 2026년 4월 16일 1,416회 [ft.강미정, 김성완, 김지형]",
-      "source": "고발뉴스닷컴",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Q2ZibXRwYmV3Q0FMZ2ZmQi1JRGpZNmlOVHpCOTFUcHhoMkhGNW1hSWo3b2ltVDNCQm1FVWkwcm1CZkRXLUNVZUE4NXlYVDNCSFRwdmtMcEtmUEkwd3dsdjRNOTh4dTZhUlo3SA?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 07:57:52 GMT"
-    },
-    {
-      "title": "경찰, 김어준 유튜브서 '수사 브리핑' 김지미 특검보 수사 착수",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SNnFKNy1GdFUtQVJfTDY2UFREbFZZR2RQblAwZFZpOEdzUkNhR2Q0YS1wNGVQNThtZzNDWU1ndDFHcDIydHhXMGR3bC1RX21uWWIycnpTRm5vWTZtOTg2RWFoUV8?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 07:46:04 GMT"
-    },
-    {
-      "title": "국가바이오혁신위 출범…김 총리 '바이오 중심국가 도약'(종합)",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnUyQmI1bVRZckZUOFROMXNwdmk2ZURJQmVKOF8tRUN0Y0dvNXlYeU1oVDNQQS1veGR6Tk9RYzJxNjRSNjVCWHM5UHBWNTJCcEs5NzFwVzZDR2RxeGRVYXlwMElxaU9hQjlKYnMxdGpNTDg2WFdhcDNWQlFqQVNkZ0dVQkxPeUN0ZmxjTHhsN0JVeEllTmVoVTdZMzZpTjRQUFJ4Q29IaDVpQ0ZWWFhlSVliWXA0OEE?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 07:46:24 GMT"
-    },
-    {
-      "title": "배우 하재숙 남편, 해경 감사장…생업 뒤로하고 수색 참여",
+      "title": "英총리, 주요 SNS 기업 소집…\"아동보호 책임 다하라\"",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FaTdTS3ZDdUVXQmZFUzB3eU8tcjhBZVMzOGpPREdGZ1hMNXlzN3g1WnBzOGFGd3h3QWZoWWNtd0pHTWtxSDZYRHFIZUlqc0oyTkJqWGxPb29zb3fSAWBBVV95cUxPakRkdW9VME5CbEFwQmxlRU1YVUs2U1RfRXVXTG14UkNmenMySURPTjVhZEdLUk5NSHVNY05hNGhwTmtPaGIyRzFMdlB0dng4YjhUaW44NTIzQVZGQ083Q2I?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 07:11:06 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nVTdwQURkdzJWcTlKWWVvel9RRWlTc1NVYXRRRG8wazZpdmFpUVJrZlRreUN3SjlfZW9YN2hfZU5kempjaDFEYWUwanYwT0RWMGJVZ0NoQ3h6QjDSAWBBVV95cUxQemNJeTJONEEyNWlPdlVHOU9UalpnVnZZYzVGMW9EVTNCWEN6eHd5YUJVVkx4OVNYX20zWlQ2ZFZiN3V4NVRRQzExQXZrR0tvWmpMaTk1dFM2Ykt1aE1wZkI?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 09:52:44 GMT"
     },
     {
-      "title": "삼성전자 \"노조 불법쟁의행위 가처분 신청\"…'개인정보 무단수집' 직원 고소",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tNVAtMzRveUdoMWV2RHh2SG5BM29nSnk2cGZ6NlkyNklpbXVKeHF3N3ZaV2VKQ1d4WmxnXzIwY1luNGgtX3o4NFNCQk9TZndTSjhKSFBZdUhVZVNEOU1ybmRPQ0RIVDQ?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 07:20:35 GMT"
-    },
-    {
-      "title": "지오비스타, 시리즈 A 투자 유치 마무리",
+      "title": "'대북송금 조작수사' 특검보 교체…\"공정 우려 해소 차원\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wZHNEOFZVYm1QaC1tWm80b3o3RlF1azBldzdFRGZaeFFQSmdhQ1ZVdjl3WEhwWGp0VDhya3pWbzF4bm1NTmNfRkFqN0tnNmhMN0dJdEo1eTRUNGZQYm9HRkJWQXBITXpvR2pyRE1pMzhvQlJXYkdXYw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 08:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxMjUwNGFXTjVUczVWc3loVVJRQW9pa0MxaHFQQW10V2Q5VWJRYnVXaWdoX3F3Q2tTRzBLWGc1d0FGc1dBY2VoejlUd1pZcTA3ZDlzUk11Y0JHeGlIQzA0MzFJcWl0cnJ0YWZhZHhR?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 10:26:00 GMT"
     },
     {
-      "title": "속초시, 권한대행 체제 전환…배상요 부시장 시정 총괄",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IRkk2bjkzYVFoQ0JvNEs1XzJ4cFhTa3hNdk1OV2dXVkNFbmNsREZSQV9yMkFzcWFVeDdsVGNqWWpHR1E5cFhNeVRvS0o0TFJvNXpMTw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 07:28:15 GMT"
+      "title": "울진군, 악성 민원 강경 대응…출입 제한·퇴거 조치 시행",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oTGNWRm1JTmJYZWUtZ01lckZGbWZEbndGbWk5eUNnZFA3QlVFR3B5REstTTI3bUwyaGFSUjNLNThTR1R6SHhMclVZbjh3TlJGeE1r?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 10:17:00 GMT"
+    },
+    {
+      "title": "인생 영화·드라마 보고 또 보고, 끝내 갖는다…불붙은 대본집 시장",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ0doMVZrWXBYbEJxeG1DUkIzdnhVRTNwT3hkT2QtM0UyR3RXVjlpNzVKSzdDRkJDam1jd2h0dmF3Sm5MbGtuQkdPbGFWdExOYTJNbVk1WG4tdk1aWWVQSG5heDkzVE93QUxPSWhjMmNZMEkyQ0tQV2JIdHFVckR0LTF6b1d3TGJtY0ltSWdtc2FrVUZGT1FhWWc4UzJWZWN6Q0JwaTN4TTZfaHRhNFF1T3h6cU04VVU?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 10:23:03 GMT"
+    },
+    {
+      "title": "“이스라엘-레바논, 내일 담판”…최대 걸림돌 사라지나",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XSnd0aFBERVYzMzI5N1lBQ1MzZ1VTR0pPVzZCSEIyMnVGVTZ1dVR2V0ozYlFWUEZGMlRGMkM5cXpaUjR2dDM2VHNfSFc0dElNZllnenI0aUtkZE9rMm15Nk9Od2F0NXJ5N1dNZ1JBaEpFdmM4SDh3NkVZN0F0Z9IBY0FVX3lxTFBjcWtZdjFsVHhJb1FldDFLbnF3U21CN0Q2dGhWbWVFY3N3cUQ0OVozanVkMWFEUTJheldHQ3ZCUnZvaFJRVVFaRXRMSFphUUtNbF9CcUl0WmNNT0Y5TUJvTEFyZw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 10:00:00 GMT"
+    },
+    {
+      "title": "'김건희에 로저비비에 선물' 김기현 내달 22일 첫 정식 재판",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWHdweG54dFRjdGZXbGlvU2h1U1dhOEI0QTV5NjFxQzhRSmFfY1I5b2hBUEhJX1ZuMmlnTEs3aURZMWVkNXJpaVR2OGxkczZHekhfSGdjTnN3dnJoT1k1NmtVaURDSGhHU1JnUXB5dmRjLUxiSU9XdTVWZ213RlRSYkJISkhTVmp6STdrOUM2eDNJNXY3SWltSWZJaTJDOFBkTExPWDU5YzNlOVpxbUo3QmtoQkNlSXdo?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 10:18:03 GMT"
+    },
+    {
+      "title": "기본 합의 근접…“미-이란, 협상 초안 교환”",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORS1JblBPWDlCbmQ3M2x6VTdJME9yR3Z6MnhZRUFNNVlPOHhaVnVkMUhSX0gyemhLS3dYaGEzUTBZVllCRTFYSTByQUtSUGozWjNqbnZJVk4tSE1nTW44ODBkanBscmFscUt5RkZfTlNTS1NMX3ZnbUVvWVZfeWo3X0t6QdIBY0FVX3lxTFBwTC05andSa2dYZ3BXN1hsNnF2NHB1ZDBhMXFIMTljWE1CNE9Mc2NSMGxTMVNxcHBLVG9PSDE3b1liblBxUzBRNGdNbVN2TzgwSUhROTh5YUlhb0k3MG0xQmhucw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 09:58:00 GMT"
+    },
+    {
+      "title": "이원택 추가 고발돼…예술인 모임 식사비 대납 의혹",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xdVVScWgyMFNBeG9nWHRERFdfQ08teGQzWWwtZUV2VDBJNFRMTFQ3ZTBET1QzMW9JM1pja3FoZThsazRjTVdYX0tzcWFxQjdGNHI0?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 10:17:00 GMT"
+    },
+    {
+      "title": "민주당 세종시장 후보로 조상호 전 부시장 선출",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fdWZMSDN5c1VEWmtVaWRubHA2WjctU1Vwa2xfZlR2WmtFZXUwNVRNQ1VtRnJpa3ZBYmd0V09iLVNYZFZxRi1CZEw1ME1OUzNUWWtNTHNzQnlDaFBqb2pjcnlJb1JiZFlRNFJraVAwblZvSXFMakx1Ng?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 09:57:00 GMT"
     }
   ],
   "sources": [

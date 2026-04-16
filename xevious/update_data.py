@@ -2,6 +2,7 @@ import datetime as dt
 import html
 import json
 import re
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -56,30 +57,40 @@ class FetchError(RuntimeError):
     pass
 
 
-def fetch_text(url, data=None):
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT}, data=data)
-    with urllib.request.urlopen(request, timeout=20) as response:
-        raw = response.read()
-        charset = response.headers.get_content_charset()
+def fetch_text(url, data=None, timeout=20, retries=1, retry_delay=1.5):
+    last_error = None
 
-    if charset:
-        return raw.decode(charset, errors="ignore")
-
-    meta_match = re.search(br'charset=["\']?([a-zA-Z0-9_-]+)', raw[:2000])
-    if meta_match:
-        return raw.decode(meta_match.group(1).decode("ascii", errors="ignore"), errors="ignore")
-
-    for encoding in ("utf-8", "cp949", "euc-kr"):
+    for attempt in range(retries):
         try:
-            return raw.decode(encoding)
-        except UnicodeDecodeError:
-            continue
+            request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT}, data=data)
+            with urllib.request.urlopen(request, timeout=timeout) as response:
+                raw = response.read()
+                charset = response.headers.get_content_charset()
 
-    return raw.decode("utf-8", errors="ignore")
+            if charset:
+                return raw.decode(charset, errors="ignore")
+
+            meta_match = re.search(br'charset=["\']?([a-zA-Z0-9_-]+)', raw[:2000])
+            if meta_match:
+                return raw.decode(meta_match.group(1).decode("ascii", errors="ignore"), errors="ignore")
+
+            for encoding in ("utf-8", "cp949", "euc-kr"):
+                try:
+                    return raw.decode(encoding)
+                except UnicodeDecodeError:
+                    continue
+
+            return raw.decode("utf-8", errors="ignore")
+        except Exception as error:
+            last_error = error
+            if attempt < retries - 1:
+                time.sleep(retry_delay * (attempt + 1))
+
+    raise FetchError(f"요청 실패: {url} ({last_error})")
 
 
-def fetch_json(url, data=None):
-    return json.loads(fetch_text(url, data=data))
+def fetch_json(url, data=None, timeout=20, retries=1):
+    return json.loads(fetch_text(url, data=data, timeout=timeout, retries=retries))
 
 
 def digits_from_number_markup(markup):
@@ -265,7 +276,7 @@ def fetch_weather_location(location):
         "&timezone=Asia%2FSeoul"
         "&forecast_days=1"
     )
-    data = fetch_json(url)
+    data = fetch_json(url, timeout=25, retries=2)
     current = data.get("current", {})
     daily = data.get("daily", {})
 
@@ -323,7 +334,7 @@ def load_opinet_default_page():
             "opinet_key": OPINET_KEY,
         }
     ).encode()
-    return fetch_text("https://www.opinet.co.kr/searRgSelect.do", data=payload)
+    return fetch_text("https://www.opinet.co.kr/searRgSelect.do", data=payload, timeout=30, retries=3)
 
 
 def extract_seoul_districts(html):
@@ -340,7 +351,7 @@ def extract_seoul_districts(html):
 
 def load_sigungu_names(sido_name):
     payload = urllib.parse.urlencode({"SIDO_NM": sido_name}).encode()
-    data = fetch_json("https://www.opinet.co.kr/common/sigunguGisSelect.do", data=payload)
+    data = fetch_json("https://www.opinet.co.kr/common/sigunguGisSelect.do", data=payload, timeout=25, retries=3)
     return [item["SIGUNGU_NM"] for item in data.get("result", []) if item.get("SIGUNGU_NM")]
 
 
@@ -361,7 +372,7 @@ def fetch_district_gasoline(sido_name, sido_code, district):
         }
     ).encode()
 
-    html = fetch_text("https://www.opinet.co.kr/searRgSelect.do", data=payload)
+    html = fetch_text("https://www.opinet.co.kr/searRgSelect.do", data=payload, timeout=30, retries=3)
     price_match = re.search(r'var B027_P\s*=\s*"([^"]+)"', html)
     station_match = re.search(r'var OS_NM\s*=\s*"([^"]+)"', html)
     address_match = re.search(r'var RD_ADDR\s*=\s*"([^"]+)"', html)
@@ -400,13 +411,27 @@ def summarize_gasoline_area(area_label, district_results):
     }
 
 
+def collect_gasoline_results(sido_name, sido_code, districts):
+    results = []
+    for district in districts:
+        try:
+            results.append(fetch_district_gasoline(sido_name, sido_code, district))
+        except FetchError:
+            continue
+
+    if not results:
+        raise FetchError(f"{sido_name} 지역 휘발유 데이터를 모두 가져오지 못했습니다.")
+
+    return results
+
+
 def load_gasoline_data():
     seoul_html = load_opinet_default_page()
     seoul_districts = extract_seoul_districts(seoul_html)
-    seoul_results = [fetch_district_gasoline("서울특별시", "01", district) for district in seoul_districts]
+    seoul_results = collect_gasoline_results("서울특별시", "01", seoul_districts)
 
     incheon_districts = load_sigungu_names("인천광역시")
-    incheon_results = [fetch_district_gasoline("인천광역시", "04", district) for district in incheon_districts]
+    incheon_results = collect_gasoline_results("인천광역시", "04", incheon_districts)
 
     iksan_result = fetch_district_gasoline("전북특별자치도", "13", "익산시")
 
