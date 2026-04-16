@@ -1,22 +1,22 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-16T08:44:05.295111+09:00",
+  "generatedAt": "2026-04-16T17:07:57.689525+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,091.39",
-      "change": "+123.64",
-      "changePercent": "+2.07%",
+      "value": "6,226.05",
+      "change": "+134.66",
+      "changePercent": "+2.21%",
       "direction": "up",
-      "updatedAt": "2026-04-15 18:05"
+      "updatedAt": "2026-04-16 15:30"
     },
     {
       "label": "코스닥",
-      "value": "1,152.43",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-04-16 08:40"
+      "value": "1,162.97",
+      "change": "+10.54",
+      "changePercent": "+0.91%",
+      "direction": "up",
+      "updatedAt": "2026-04-16 17:04"
     }
   ],
   "usMarkets": [
@@ -48,44 +48,44 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,475.0700",
-      "change": "+4.66",
-      "changePercent": "+0.32%",
-      "direction": "up",
-      "updatedAt": "2026-04-15 23:34"
+      "value": "1,474.1151",
+      "change": "-0.94",
+      "changePercent": "-0.06%",
+      "direction": "down",
+      "updatedAt": "2026-04-16 07:59"
     },
     {
       "label": "100엔/원",
-      "value": "928.72",
-      "change": "+2.72",
-      "changePercent": "+0.29%",
-      "direction": "up",
-      "updatedAt": "2026-04-15 23:39"
+      "value": "927.84",
+      "change": "-1.16",
+      "changePercent": "-0.12%",
+      "direction": "down",
+      "updatedAt": "2026-04-16 07:57"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "약간 흐림",
-        "temperature": "11.6°C",
-        "feelsLike": "9.8°C",
-        "highLow": "최고 23.5° / 최저 9.0°",
-        "humidity": "65%",
-        "wind": "4.3 m/s",
+        "summary": "흐림",
+        "temperature": "23.2°C",
+        "feelsLike": "22.2°C",
+        "highLow": "최고 24.0° / 최저 9.0°",
+        "humidity": "35%",
+        "wind": "1.5 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-16 08:30"
+        "updatedAt": "2026-04-16 17:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "11.8°C",
-        "highLow": "최고 25.7° / 최저 7.2°",
-        "humidity": "67%",
-        "wind": "2.0 m/s",
+        "temperature": "23.4°C",
+        "feelsLike": "22.7°C",
+        "highLow": "최고 26.2° / 최저 7.3°",
+        "humidity": "49%",
+        "wind": "9.4 m/s",
         "rainChance": "0%",
-        "updatedAt": "2026-04-16 08:30"
+        "updatedAt": "2026-04-16 17:00"
       }
     ]
   },
@@ -104,10 +104,6 @@ window.DASHBOARD_DATA = {
             "price": "1,958원/L"
           },
           {
-            "district": "성북구",
-            "price": "1,958원/L"
-          },
-          {
             "district": "동작구",
             "price": "1,959원/L"
           },
@@ -118,6 +114,10 @@ window.DASHBOARD_DATA = {
           {
             "district": "성동구",
             "price": "1,959원/L"
+          },
+          {
+            "district": "송파구",
+            "price": "1,959원/L"
           }
         ]
       },
@@ -127,7 +127,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "중구",
         "stationName": "오일캠프주유소",
         "address": "인천 중구 축항대로 282 (신흥동3가)",
-        "updatedAt": "2026-04-16 00:58:03",
+        "updatedAt": "2026-04-16 14:59:47",
         "districtSamples": [
           {
             "district": "중구",
@@ -135,7 +135,7 @@ window.DASHBOARD_DATA = {
           },
           {
             "district": "계양구",
-            "price": "1,957원/L"
+            "price": "1,959원/L"
           },
           {
             "district": "남동구",
@@ -153,15 +153,15 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "익산 최저가",
-        "lowestPrice": "1,900원/L",
+        "lowestPrice": "1,909원/L",
         "lowestDistrict": "익산시",
-        "stationName": "착한14주유소",
-        "address": "전북 익산시 하나로 28",
-        "updatedAt": "2026-04-15 07:02:50",
+        "stationName": "㈜한영 성북지점",
+        "address": "전북 익산시 망성면 익산대로 2802",
+        "updatedAt": "2026-04-15 09:56:07",
         "districtSamples": [
           {
             "district": "익산시",
-            "price": "1,900원/L"
+            "price": "1,909원/L"
           }
         ]
       }
@@ -169,64 +169,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[전국 주요 신문 톱뉴스](16일 조간)",
+      "title": "인도·베트남 순방에 4대그룹 총수 '경제사절단' 동행",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NcnVnMU8zMU5kS3FFWFVEQ0lBd1NTS2g4X21MdWRJelp3RlhyYjVNS2tfZ2RQb1BJVDJFT2xLei1qZzk2d2xNRjVTZ1VnQVNQMFlBbmU5cG95NENhWTlmZVlOakVLR2M?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 07:41:05 GMT"
+    },
+    {
+      "title": "[오늘의 주요공시] 케이티앤지·대우건설·한전기술 등",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05bGJya0ttdjVYQ2llM21mTUFPSDFGTzBuUjFQM2s3YlF4UlNoeGNkQ3pVRnRUeVVtRG1PQkhmUnhpN3F0SmxFVXl0c1VHcUFGNnQ0?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 07:58:06 GMT"
+    },
+    {
+      "title": "‘블러드본‘ 애니메이션 나온다… 잔혹한 분위기 살린 ’R등급‘",
+      "source": "ipnn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zMGhXZVVXdS01RFoyVURaVUlnNlgzZ2twZE9WSjBCeEdSMHRFVUxJMmpvZk15QVJBbkZGUGFrWE5BMjc3YmJQck91OHJqMFZfZE1OV1hTcXZja05YVzlESGlJTTVOaG4t?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 07:42:42 GMT"
+    },
+    {
+      "title": "17일 호르무즈 통행 국제연대 출범! 한국 주요 역할 맡아 이재명 대통령의 발언은? 이상호의 뉴스비평 2026년 4월 16일 1,416회 [ft.강미정, 김성완, 김지형]",
+      "source": "고발뉴스닷컴",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Q2ZibXRwYmV3Q0FMZ2ZmQi1JRGpZNmlOVHpCOTFUcHhoMkhGNW1hSWo3b2ltVDNCQm1FVWkwcm1CZkRXLUNVZUE4NXlYVDNCSFRwdmtMcEtmUEkwd3dsdjRNOTh4dTZhUlo3SA?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 07:57:52 GMT"
+    },
+    {
+      "title": "경찰, 김어준 유튜브서 '수사 브리핑' 김지미 특검보 수사 착수",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SNnFKNy1GdFUtQVJfTDY2UFREbFZZR2RQblAwZFZpOEdzUkNhR2Q0YS1wNGVQNThtZzNDWU1ndDFHcDIydHhXMGR3bC1RX21uWWIycnpTRm5vWTZtOTg2RWFoUV8?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 07:46:04 GMT"
+    },
+    {
+      "title": "국가바이오혁신위 출범…김 총리 '바이오 중심국가 도약'(종합)",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnUyQmI1bVRZckZUOFROMXNwdmk2ZURJQmVKOF8tRUN0Y0dvNXlYeU1oVDNQQS1veGR6Tk9RYzJxNjRSNjVCWHM5UHBWNTJCcEs5NzFwVzZDR2RxeGRVYXlwMElxaU9hQjlKYnMxdGpNTDg2WFdhcDNWQlFqQVNkZ0dVQkxPeUN0ZmxjTHhsN0JVeEllTmVoVTdZMzZpTjRQUFJ4Q29IaDVpQ0ZWWFhlSVliWXA0OEE?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 07:46:24 GMT"
+    },
+    {
+      "title": "배우 하재숙 남편, 해경 감사장…생업 뒤로하고 수색 참여",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZW1ubHBORmo2cElFaS00bUc3ck9pNWVtR0MxbWhqQi14Mmc5Z0JURWphUFNqRU9uWDc0OHMxSl9QMkEwaVFCcnBkd2IwNDBlaUJvZEtvd3REcDDSAWBBVV95cUxNQ0tZTW5KMUJSb2gxSEpwV2YwOEY2blNscmZsQnZuMGllYTE1aGVneTJCNnU2Z1czS2tkbGxDeWY2R0JrbEllWU0zbGtkdlN3YnR1WTdUajU5X2hjMHhURTY?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 23:00:02 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FaTdTS3ZDdUVXQmZFUzB3eU8tcjhBZVMzOGpPREdGZ1hMNXlzN3g1WnBzOGFGd3h3QWZoWWNtd0pHTWtxSDZYRHFIZUlqc0oyTkJqWGxPb29zb3fSAWBBVV95cUxPakRkdW9VME5CbEFwQmxlRU1YVUs2U1RfRXVXTG14UkNmenMySURPTjVhZEdLUk5NSHVNY05hNGhwTmtPaGIyRzFMdlB0dng4YjhUaW44NTIzQVZGQ083Q2I?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 07:11:06 GMT"
     },
     {
-      "title": "[뉴스광장 제주 오프닝]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81N01HblFuZ19mV3JHekt4SXFjUWJ3SE1LNWh3RElxV19OWHRmOGhQTjBlVnY0MTBEN2d1RWxMRVBlalJld3hXcUlDSVUwNTV4eWg0S1lsSGtMd3M?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 22:50:00 GMT"
+      "title": "삼성전자 \"노조 불법쟁의행위 가처분 신청\"…'개인정보 무단수집' 직원 고소",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tNVAtMzRveUdoMWV2RHh2SG5BM29nSnk2cGZ6NlkyNklpbXVKeHF3N3ZaV2VKQ1d4WmxnXzIwY1luNGgtX3o4NFNCQk9TZndTSjhKSFBZdUhVZVNEOU1ybmRPQ0RIVDQ?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 07:20:35 GMT"
     },
     {
-      "title": "4월 16일 굿모닝 MBN 이 시각 주요뉴스",
+      "title": "지오비스타, 시리즈 A 투자 유치 마무리",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RTzdMcUpkMjlJNnFEanNWbHF3Vzg1OERfb1UxOWluaHZ2QmF2UmxiY283TElnRWItYkIwc0VHTjQtWFJBUVhkYlluemx2U1dlZVV3?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 22:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wZHNEOFZVYm1QaC1tWm80b3o3RlF1azBldzdFRGZaeFFQSmdhQ1ZVdjl3WEhwWGp0VDhya3pWbzF4bm1NTmNfRkFqN0tnNmhMN0dJdEo1eTRUNGZQYm9HRkJWQXBITXpvR2pyRE1pMzhvQlJXYkdXYw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 08:01:00 GMT"
     },
     {
-      "title": "낮 최고 28도 초여름 날씨 지속…중부내륙 중심 일교차 20도",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ29sNmdMSDh5QmpBX3praGdRRURJTWtnWS01TUszVEJCcXlFMlJaVGFnM19QWFBCLXNSLS1uQ0NfcURCbHFobzF5d3ZaYmhMS3VXYmJ6UmZWcExGczlLZ0hJVzA1SmVOUnU2VkhpaHhzWHpDMGlpdXZNMVdXTTdNd3FWUUZTVWFhSXo3cnpYVXBrWWdBdERyOWQ1V0NCb3RQeW9rSXExMzZWalFhUG11elk0aTc4TDZT?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 23:37:04 GMT"
-    },
-    {
-      "title": "[전국 주요 신문 사설](16일 조간)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yVFl3ekw3YzFrT3dYckllSEdrYkpQdnBWeFlMb2kwamZRRXJUeGRFcHI5S0M5ck9ac1R2eE5PRXFhcXQ5NC1kM01oaXZ5VW1zV2VvbHNHVjM3cEHSAWBBVV95cUxNeG9CUFRCNWw3Q042SS1QZ1R4YkRycXZhajZPQTZFY09NLV82T0hVSkZfVFZUV0hERGtsaTVwOGppOXpNSEVQQWRoeDRIMW9SVWY1TzVUY3EweXJ1NXZEVEw?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 23:00:01 GMT"
-    },
-    {
-      "title": "일본 3대 메가뱅크, 해외 결제망 경쟁 가속화",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSDRVV2N2U1pKc3ZfS2NCS1dCb2lPa2VhcTAtSDFtYVVFTWt1SU5Wd2IxZXVJY09SU0NWei1wNW52UmxtOGlIT3Mzc3kzQ2dkUTBQLWc2ZkRybDhuaTQ4Y2txRHRvRWh2TkE0TFp6MjRKSks3aHcxbVN2aWUwR05pY2JHWmU2VTN3VkFReEFUR2dwSS1CdVA1blhRb1pEOGd2SDBBVDNweDJyZEFuMjkwZ2Y2cU45Vk1UV2c?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 23:36:11 GMT"
-    },
-    {
-      "title": "신안군, 적극행정 경진대회 개최",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PemJMbHUwZ0taaEJGVEJuVVRVZTNxN2tBTDloNkI5NTVsMjdQbXFlaTd2dUppTW9lX29mTG5wcEZLQ3hDNHphZHBFOFVqUHJUc09WWjVySXJ2bGVZZENlS0tFVXdBUDZiVGwtclFMeVpqUHRLRWtmQw?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 23:31:00 GMT"
-    },
-    {
-      "title": "에스엔시스, 거제에 친환경 R&D·생산 거점 구축 나서",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1RqMmM1bGhiZ1ljY2ZuYk9fQ3A2bEJDWUN4NnZzSzM5NkpVS2hkbGw3VVdPYm1wZlNWOXk4YkVCeTNKV0hNUlM3VFN2WFdpaEFnQWpvaS1uRFFQSE9RUlN0VWV2aWxsRWd6X21IaER4RlZkSWRDc1JBWFhGYXJ5Und0YnVWTU53WjBPTW1vY0JhaFJGWDJFQ0Z6T2g1T3VMNngyMDMyQWlNTzVURm5qQTVHXzBnTVE?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 23:31:47 GMT"
-    },
-    {
-      "title": "삼성전자, 독일 프랑크푸르트서 '2026 유럽 테크 세미나' 개최",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42X0ZUVDI4anlHX3lSVTF0V1JGaFhSRTA1RjBwcWltUXRlTmluajFZeXB2RmE2SC0yVGQ4UFV6V3ZKU0NxdTJsR2pOX2ZEak5KYXNF?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 23:39:00 GMT"
-    },
-    {
-      "title": "듀스, 故김성재 생일에 신곡 또 하루 공개…과거·미래 조우",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3UtTkl0UXdYczctZDQ1VXJHR1dxU2l1M01fVkV6WmNNdkctTHIzRXV5YVVJXzR0VU40UzNHc1RvWGIxZzc4eUt5MExRSGxtVnZIVnV5Ri1lNlV6M2xRQ293Tm1tR216MmtEZDFUYk5LbzFINlh4ei13d0hjLXBwRHpNMXNHZ1d0cEtBd2VKb1I3TUY3c253QU8zMl9iVnpRQkdtcS1XSDMyM2t6eXN6b1MwOXktTWtk?oc=5",
-      "publishedAt": "Wed, 15 Apr 2026 23:36:11 GMT"
+      "title": "속초시, 권한대행 체제 전환…배상요 부시장 시정 총괄",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IRkk2bjkzYVFoQ0JvNEs1XzJ4cFhTa3hNdk1OV2dXVkNFbmNsREZSQV9yMkFzcWFVeDdsVGNqWWpHR1E5cFhNeVRvS0o0TFJvNXpMTw?oc=5",
+      "publishedAt": "Thu, 16 Apr 2026 07:28:15 GMT"
     }
   ],
   "sources": [
