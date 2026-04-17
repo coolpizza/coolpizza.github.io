@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T17:58:04.637968+09:00",
+  "generatedAt": "2026-04-17T19:07:21.951623+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -8,7 +8,7 @@
       "change": "-34.13",
       "changePercent": "-0.55%",
       "direction": "down",
-      "updatedAt": "2026-04-17 15:30"
+      "updatedAt": "2026-04-17 18:05"
     },
     {
       "label": "코스닥",
@@ -16,7 +16,7 @@
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-17 17:53"
+      "updatedAt": "2026-04-17 19:01"
     }
   ],
   "usMarkets": [
@@ -48,52 +48,52 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,480.5650",
-      "change": "+1.64",
-      "changePercent": "+0.11%",
+      "value": "1,479.6294",
+      "change": "+0.71",
+      "changePercent": "+0.05%",
       "direction": "up",
-      "updatedAt": "2026-04-17 08:49"
+      "updatedAt": "2026-04-17 09:51"
     },
     {
       "label": "100엔/원",
-      "value": "930.11",
-      "change": "+1.11",
-      "changePercent": "+0.12%",
+      "value": "930.32",
+      "change": "+1.32",
+      "changePercent": "+0.14%",
       "direction": "up",
-      "updatedAt": "2026-04-17 08:53"
+      "updatedAt": "2026-04-17 10:00"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "15.7°C",
-        "feelsLike": "15.0°C",
-        "highLow": "최고 18.4° / 최저 9.8°",
-        "humidity": "70%",
-        "wind": "5.2 m/s",
-        "rainChance": "5%",
-        "pm10": "23.6 μg/m³",
-        "pm25": "14.3 μg/m³",
+        "summary": "구름많음",
+        "temperature": "17.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "65%",
+        "wind": "2.1 m/s",
+        "rainChance": "20%",
+        "pm10": "19.7 μg/m³",
+        "pm25": "14.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-04-17 17:45"
+        "airQualityIndex": "59",
+        "updatedAt": "2026-04-17 19:00"
       },
       {
         "location": "익산",
-        "summary": "약한 이슬비",
-        "temperature": "14.4°C",
-        "feelsLike": "14.9°C",
-        "highLow": "최고 16.6° / 최저 9.7°",
+        "summary": "비",
+        "temperature": "14.0°C",
+        "feelsLike": null,
+        "highLow": null,
         "humidity": "90%",
-        "wind": "3.3 m/s",
-        "rainChance": "15%",
-        "pm10": "18.8 μg/m³",
-        "pm25": "13.7 μg/m³",
+        "wind": "1.8 m/s",
+        "rainChance": "60%",
+        "pm10": "25.4 μg/m³",
+        "pm25": "19.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "33",
-        "updatedAt": "2026-04-17 17:45"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-04-17 19:00"
       }
     ]
   },
@@ -105,7 +105,7 @@
         "lowestDistrict": "강서구",
         "stationName": "지에스칼텍스㈜ 경인고속주유소",
         "address": "서울 강서구 국회대로 225 (화곡동)",
-        "updatedAt": "2026-04-17 14:58:14",
+        "updatedAt": "2026-04-17 17:59:00",
         "districtSamples": [
           {
             "district": "강서구",
@@ -135,7 +135,7 @@
         "lowestDistrict": "중구",
         "stationName": "오일캠프주유소",
         "address": "인천 중구 축항대로 282 (신흥동3가)",
-        "updatedAt": "2026-04-17 14:59:51",
+        "updatedAt": "2026-04-17 17:59:16",
         "districtSamples": [
           {
             "district": "중구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "AI 음모론",
+      "title": "설탕 100톤과 맞바꾼 북한 술 3500병, 한국 세관에 묶인 이유",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05T01DOGJMclJDZVgxQ0h6OFd3ZTM4bEM2OGxhdlJ1NHNVbTZMdW4zM3BpWGtuYmw2RUlZbTJaN2prMEQ1Nm1jOXhLMjNtYTU5VXhaaVZkdFAtYmRV0gFiQVVfeXFMT2FDeWNwSjBVcmNZNDQ0VFdyMzFEekk0czVkYU84M2Jab245aXRaN196SFcyaEJBam5UYl93eEd4cHBBeW9XeFdPSTRMYUdtZWx5eEp6RThHWW83YngyblBmSWc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 09:24:16 GMT"
+    },
+    {
+      "title": "'세종시로 옮기나' 벌벌 떠는 금융당국",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeUVzcURzVW0yUnlVWHR2c2JtTE9JdmpXd2pSX3lnSWFpQVpyNGxCWm16WWt2ZjloS0FCRmdaNkprM0ZlbWtDdzVyQnlMWGg5bHFCUzZhT1VLRjc5Z2djOExGY2J4MEl4MHJrd3paN0wtRndBT0luempwbmJUYWNzaWRVcl9SdXhrazYzZmlNanpVWXZ4RGRuVWdPMnNZRFI0b2NzenlhVmhNOVowMzUzWF9qMlROTlAwS3c?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 08:46:11 GMT"
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGd5WXhHcUdhM25sbndoT2lRSjN4ZHZsazRiWWU0b2szVWcyT1RRMDllc3llaFJobGcyN2VZTmI3TG5BSDdyQkI5RXIwZ2lscFltYjJ2Rmg4SnpvanlyeE8yZVJNZFBvZmhRRUxvQUE2ejduQzBBMktpcWE3SXRyelphd1Y5MS1Qa3drY1FSTVN4UE1IX09jWjZHb3NIYWwwWVJ6QkxQX3NKU1Nsb0dDQVZtUGJITlh5MC1qQg?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 10:06:14 GMT"
     },
     {
-      "title": "건설 붕괴사고 사망자 2배↑…노동부, 예방 세미나 개최",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTU9JNVJOSmUzaGNjUGp3NEp1aWlqVGxGdUdDOHliamtSOTZkbXA1b2RCaTJEMFNaUW1vWWdlWVlCaU1zMXI1YlQ5WGVXYzdRNFYySkxteHlrRm9PWE5jeVBDZw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 08:01:04 GMT"
+      "title": "헤즈볼라, \"이스라엘 휴전 위반 시 즉각 대응\" 경고",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZGJ2MEJhQmJwSThxZHR0U1VDd0J1Y0U1RENRSlVkVTE5bDBicVEtZGd5R0NGR0F4VDhDT0ZMZ2FFODhoaWtQM2p0dlNKYzN5ZWlsMDkwZXNmd1E?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 09:19:50 GMT"
     },
     {
-      "title": "\"중동 2차 정전협상·실적발표 결과 주목해야\"",
+      "title": "[뉴스룸 오프닝] 원유 싣고 '홍해' 첫 통과 / 방미 일정 '사흘 더' / 집으로 돌아온 '늑구'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYRGV0dVhDUHpqeEFoQ2JEYl81OVhsU3lUNXBVdkwtLW9jeFpvQTJrRXg1SHMxVmY5dGJhNVI1NUtENHJseXJHcm9WYlF0SVlBck9V?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 08:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfTDFsR3JRT09waHlYYTU0RS1hZy1UUjUtYzJubDE3UEotXzRGTFFYLUdFU2M5S0JwdzNZVVRNcEN5VlktLU1NcFdfZnRiRW0zUHRz?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 09:44:00 GMT"
     },
     {
-      "title": "토요일 낮 최고 28도 초여름 날씨 지속…일교차 주의[내일날씨]",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjFKcGhCU3Y5blN0MVNSck5kdUJHRG9BQWdzc2RUSDdfa2ZyNFJ6NXMxTzJaZ2Vnd1hzVXV5UVdaWXppejB4aDl5a2k4X0lZcUxKUVI4N2xzYkxNRTdSOEZ5OVlaZ21YTUJBTzdxd1ZJeXVUa1lxdFB5WWJxbENjRUFySncyNEw0TVQ5Sm1SUy1fOEtIT1RkdnZHTXlZTzI5YjQyaDJvZEk4OVU0S3k1dlJwMXg0STQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 08:50:41 GMT"
+      "title": "[영상] 정태우-지대한-오정연, ‘부여에서 만나요~’",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQYUlZRGRuUkUxUGJaMlk1d0xIZVRCa09BVnBnekRnX3ZKdnJmc1NvM1NXRzdYMkpCak82QldiUVU0aGU4V2dlRWttN0FwOUd4bGl5RmQ5V09pVDN2aXBnQlhUanRQOGxs?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 09:43:04 GMT"
     },
     {
-      "title": "대우건설, 일본 EPC 기업들과 해외 네트워크 강화...글로벌 에너지 시장 전방위 협력",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ0pCZEYwMUptMlRmMUh6bmtCNkg4TUU1OTZrRWNfbDNHWXJVSk9BNzBURFR3NjhtUjFmakxOaXMtRWZYOWYwZVA4LVJfdDJaQ2I4TDI1Z01aOWw5bldob3FKVlFPVkRUSjd2ZEZReEFSOEU4Rkg2MWRJMVNlZHFMbGpqeDJ5VDZzODNhZGlxMW5vbTZ0ejFESkh5cVJGb1lEYktOX1lsdlI1TVJqbWhlOGo0TFhIRW9YN1Z2SHdHZVphNkpyeEEyLTVR?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 08:29:43 GMT"
-    },
-    {
-      "title": "\"늑구 귀환 환영\"…시민들 굿즈 제작 제안도",
+      "title": "이 대통령 참석…\"호르무즈 뚫자\" 40개국 머리 맞댄다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82bklTeVd4RmtyVDZNd05ENTdGcFV3MF93Y0lNdk1jWWZkeUxjLUtUaWJWUlpIX1hyd1M1WG5jQTlhdUg2YXFoZkxLZlpWNlJwQTYw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 08:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LSDVGNUdkSS1IMk4wV2VTSHQ5WUR1T3l0NjlqM1NIMVM3eklPR2wzaDNOZGpLdzdKYXpBQXlicVhTOUdTWF9zTWNoVU93ajJNS3hR?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 09:58:00 GMT"
     },
     {
-      "title": "‘탈석유’ 가속화에 LNG 뜰까",
+      "title": "英총리 또 곤경…보안심사 탈락에도 주미대사 임명 드러나",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkU4S3pBOGp2Q0VPbFFVNS00WnF6VkVRR19yNWQ5YzZYak5qcHZJNmdzWFpYSXM0eHNuVldGV2F5RjhGRElsaVBtS0JLbTZaU3k2QmR4TFVVdUx3VlZNY0h4VW1TWGljT05FaEZQMlJxTDF2WkNQOVlrOEktZXpLdGI5NzBUdWZYMG5xeFdXNGI1aGtIbTN4OUtwaVFCa2JtbG1OdGlsOWplNERNMVZGalNKT1AyNGZnWHlsVg?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 08:48:49 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTY0cWx4T0IyVmJLV2dOMklrZW52XzN1TFpmT19VVnZuelhWZFNKU0RVS180V0xpeEN3UHA1bld1VTJPcjlvR0tES0U2amFJX2lUWkFZUWlTdmlSVUg0dVlFZ2JzbW1qSEp4U19RMFBTMmt6eXUzVW9DYW53dFZHa3ZaalZxdzNHeGZOOXBXaXczd0huWnZXYVdiSXNBSUpOMDMyc3dBSGZvUWFWLXBXQkwxVG9yYmlTMnc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 09:44:55 GMT"
     },
     {
-      "title": "숙명여대-고대구로병원, 난치병 연구·치료제 개발 협약",
+      "title": "여수산단 화학공장서 보수작업 중이던 60대 노동자 추락",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01QlNEdHprTEhrZGhSZ3VoS1JpdE5HSWFOVmRIODNzUTFJUTNHS1hSWmJGLXB6V012ekppMDlFdzR2Vk9ncG9MNldkVmZPTi1iRnJmb2l6S2FJZ3dsck0tUg?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 08:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4ZVpXa1VzekNLaFpzM0Z3dXJ5c092LTZVOGVjTkhSSFc3TFJpbVFmUU15eWJDWG1aa1pLV0EtaEwzZGlMWHFadzJQYUtlSmtuU2xF?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 09:57:00 GMT"
     },
     {
-      "title": "전남도, 7월 출범 통합특별시 주요 과제 점검…'조직 정비'",
+      "title": "충남도, 전문가 추가 영입…AI 드림팀 전력 강화",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbVA2TWV4UjVQVmhJTFlTQXVMdkFVcVRZWldCWHdlblpfTldFdXBnY2UyQ0o3N1dNLTBnZTYtOElKbHJ0dUVmaVBvS01zbjJjMF9OWE1TcUItWHVaQ1Fpdk9Zck9jMnBIUVZRVVg3ZV9BUXNqT212cW9wb2NsMG9DeFplamUzRklUcjJDeU1RaVpoNWFQdUFKZG9lWGhUV3JXN1AtSkZHNERqaVlXUlY0dmRxd3duM24tT3c?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 08:10:34 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGk0M1Z2bEw4d3JvUGNVU29NS3RBOFBEejRkbldMT0dVeF9qQk9zWE1pUHA1TFFmWTc3SVQ0bVVER0pISFF6VzFrOWZ1b1BGVmVhNjI1VFZlVkR3NkFSYXpWQUlUWTkzUGR1MURHRVRZTmFJTE02QTV5MXRQRFNtWUNFQmRheGFSRVktNHJpWnNEbXpLTFB5TjV5Y3hVemxoZGZRN3M2b25mSU9RSUxLVXFxS05DWDZOSnc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 09:09:50 GMT"
     },
     {
-      "title": "국립공원공단, 교통약자 차량 이동 서비스 개시",
+      "title": "구자현 \"대장동 수사 일선 검사 안타까운 소식…참담한 심정\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jaVhwZ0piNUVwOEdXVXhNSkFmQ2k5aHQzWXJESlZBT2hiejc0enZzUGtTdUpIdzBDVDVzeDg3VzNxaGJUdWZuRGVWdVl4VE1BQ2Vz?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 08:38:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbUh1UkNRTmdJbnMwbF9pR0JtVE1QMkFEZUE5TTlSVEIyT24tT2ZYWnJOc0xqWENDQXlIMzVrVXp1MTA3dmY2NEZIRUxfVVFLUWJB?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 09:23:00 GMT"
     }
   ],
   "sources": [
