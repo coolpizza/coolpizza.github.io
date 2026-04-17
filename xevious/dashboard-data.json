@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T21:11:18.667452+09:00",
+  "generatedAt": "2026-04-17T21:53:24.808040+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,24 +16,24 @@
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-17 21:08"
+      "updatedAt": "2026-04-17 21:45"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
       "value": "48,578.72",
-      "change": "+115.00",
-      "changePercent": "+0.24%",
-      "direction": "up",
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
       "updatedAt": "2026-04-16 16:48"
     },
     {
       "label": "S&P 500",
       "value": "7,041.28",
-      "change": "+18.33",
-      "changePercent": "+0.26%",
-      "direction": "up",
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
       "updatedAt": "2026-04-16 16:48"
     },
     {
@@ -48,32 +48,32 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,478.5592",
-      "change": "-0.36",
-      "changePercent": "-0.02%",
+      "value": "1,477.0300",
+      "change": "-1.89",
+      "changePercent": "-0.13%",
       "direction": "down",
-      "updatedAt": "2026-04-17 12:02"
+      "updatedAt": "2026-04-17 12:44"
     },
     {
       "label": "100엔/원",
-      "value": "929.38",
-      "change": "+0.38",
-      "changePercent": "+0.04%",
-      "direction": "up",
-      "updatedAt": "2026-04-17 12:07"
+      "value": "928.93",
+      "change": "-0.07",
+      "changePercent": "-0.01%",
+      "direction": "down",
+      "updatedAt": "2026-04-17 12:45"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "12.3°C",
-        "feelsLike": "12.0°C",
-        "highLow": "최고 18.5° / 최저 9.8°",
-        "humidity": "88%",
-        "wind": "3.0 m/s",
-        "rainChance": "5%",
+        "summary": "맑음",
+        "temperature": "15.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "75%",
+        "wind": "1.0 m/s",
+        "rainChance": "0%",
         "pm10": "43.5 μg/m³",
         "pm25": "27.5 μg/m³",
         "airQuality": "약간 나쁨",
@@ -82,13 +82,13 @@
       },
       {
         "location": "익산",
-        "summary": "약한 이슬비",
-        "temperature": "12.4°C",
-        "feelsLike": "12.2°C",
-        "highLow": "최고 16.5° / 최저 9.7°",
-        "humidity": "96%",
-        "wind": "5.4 m/s",
-        "rainChance": "15%",
+        "summary": "비",
+        "temperature": "14.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "95%",
+        "wind": "1.0 m/s",
+        "rainChance": "60%",
         "pm10": "48.7 μg/m³",
         "pm25": "36.8 μg/m³",
         "airQuality": "약간 나쁨",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "전국 휘발유 평균가 2000원 돌파",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6WGs0OTVDVFJhMm5DZG5GTDF0aHNCN3VNU1hWR2Raa1ltNGVvb0E0dklZUEpUWGlaOEtIYWpzVFpLVzJIcVM4SFlXOFhqTHpqUTdkeUg0UFB6M0ZBbmZKeEFxMzRNcGNRVEo5VnJWdHFVU2JmX1EzMw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:05:00 GMT"
+      "title": "영·프 주도 호르무즈 화상 정상회의 시작…이 대통령 참석해 발언 예정",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdnJCLXBLNkVhQlVudjNEd2JlaEY1V05HcDBnazFFbTFPWmtiUldZYVNCdkJTLVpjRFBYbDZNaHJBRjJtTkxzM090bl9oclZWQTRENV9tRkhWZ0FxSnBXTkNub0xNWWZ0SzBNN3pjbDRRMWEydG43Wk91c1F2QUgxT21YbU9HbmFkVWZianpoR1U3OVJ0RllrdG0yelpXWk9adGdZbHBPUV9iSzFyMVBEZXJ5azlkVzg?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 12:50:23 GMT"
     },
     {
-      "title": "[현장 중계] 중앙대 유홍식 교수 “인터넷신문 이용 증가 속 신뢰도 확보는 여전히 과제”",
-      "source": "리뷰타임스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZ0hXTjV4ZWtRS0Q1WGhNNUpsbGEwQkoxcTNKd0xST0hqYWYxM2s4VTQ3aWMyaHFqUEYtSXlKQXh0Uy1Mbk5nekZoOUtYTG90Q0lOYjRxZnJUSVlvWHJ0aElDcldZYW1RREdNMWRadTE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 11:49:17 GMT"
+      "title": "李 대통령, '호르무즈 해협' 국제 화상회의 참석…곧 발언",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYUlExbVJyOTJpWDVaaXE3V2NSWE5HdU9UMTdPVXQ5TDM3R21SNm9jUHlESjJSeTNyczM2Y3FMUTRhVldTZ2YzN3Jta2pBSmZiYVpqWExiY19jeDlGY21peGpSd2VuZldicHlkcFlmWkxWMnRhOXY0aQ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 12:36:00 GMT"
+    },
+    {
+      "title": "최태원·노소영 재산분할 파기환송심 조정 회부",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYNkEtcWhKdU1FT0NPQnQxTEw0UGlhOW4zYldIZXRUdkFyalU4ZGdZUGYyM2s1RTBDMVVUQjczQzNqN2RValYzamhBX0xBUE52U2tlT0JQUmzSAVhBVV95cUxQWDZBLXFoSnVNRU9DT0J0MUxMNFBpYTluM2JXSGV0VHZBcmpVOGRnWVBmMjNrNUUwQzFVVEI3M0MzajdkVWpWM2poQV9MQVBOdlNrZU9CUFJs?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 11:54:06 GMT"
+    },
+    {
+      "title": "경찰, 경무관 56명 전보…서울청 수사 지휘부 교체",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBObjRXY3gzN2pwVEl5S09NMWNDamhzU2RRVzB4VnBxZ0NwWjdETkQxaEZnTTZVRzhyZUhTOFZPYkx6aXZlZjRTUExsakZZWnQxSFdF?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 12:27:00 GMT"
+    },
+    {
+      "title": "[포토] '오늘은 왠지 또 이길 것 같네' 해리",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lVU1XWFUxYl9VZl9rZE94dlctek5NaVlJWXdSQzhrSE40eVJfbjZMYWdvTFI4NGZjcmI1QkxsLVJURWJUdV84SnE3NjgyUVlVME9jVXB6T3VyaXlM?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 12:21:00 GMT"
+    },
+    {
+      "title": "한국갤럽 \"이 대통령 지지율 66%…3주만 소폭 하락\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LTUdqdjZuYUNGT3l5YkxzZ0pPclBVd1NvQzVTazlXZjZlSUpRTFdRemFkcUlNaVJuYWo2a21qS2RhUGtaMWVHTWVQcXp5aHdrQTRv?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 12:08:00 GMT"
     },
     {
       "title": "환경산업기술원장에 남광우 씨 내정",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ReGYyaVR6emhxUjhCVjBudUZwbVRycnoxTXZON0FYSjJTYW9NMjhMSGFFSnduWnR3UkZEbmFvSlM2OEUxbnUyREFDcC0zTFRyYUln?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnVzR2ZGJmaFdHYWlSR1g3ZDB6Tk9SeElfR1p2ZHNycWpfMkNuRHVEeTlPYWp0c1ZJRERaX2dwbW9YYktsUHNiYlZ5ZEVuYkFmQVFvaFUzX2dWVkQtMEVqUTY2UGJ6alI2ZnVvX09GbXJnT2lsOGVqeg?oc=5",
       "publishedAt": "Fri, 17 Apr 2026 12:02:00 GMT"
     },
     {
-      "title": "전성수 예비후보 \"최호정 의장 경선 불참 안타까워…힘 모아달라\"",
+      "title": "장근석 \"어떤 XX야!\" 배신감에 욕설 투척…위스키 도둑에 분노[구기동프렌즈][별별TV]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tZFl2MGdQSDFZLXNJS0lGRng3a3N4dWMyT2E3X0NJdkhFdFN5QVJxajUyV2lSckdHNXVEN1V2bUw4cVdPdmk2ZjJfdVdZRFZKX1M0?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMVEU5dExnenlUUUpZZTc3U2IyWGUxSm5sRnpmX0tPcGxTb1FtVHRJblI2VFg1NTFNYl9GQ2k4VGJ6cDJ5ZUMxMWFyUlpZQ3A0bkxB?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 12:14:00 GMT"
     },
     {
-      "title": "전날 대표팀 발탁됐는데…'음주운전' 안혜진 \"평생 반성\" 자필 사과문",
+      "title": "與, 국조증인 검사 극단시도에 \"깊은 위로…빠른 쾌유 빈다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UajZDU19tT1dfaTdxc0hpQl9CV2hBbTVtUkFSS2NWOURDUXpCSXFOX3dmdFdBTHdoV0p1N3NtRy1hVmxIMDc0QkhPQVpQY3dXLUFjREgyYVpPM1RLQlItQ0NJRlplcmZ0UlQ4bW9yZU42WTdFNFRoTQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zRzZTYkdVWGlMUl91VWNsQ1JydlVobmFNYXhzVlk1N2lkVFp3Y1FnTEJCUnFJUHlDbFVEWUUzMklCejBBOXNWd2tsT1hHRlpGWGtV?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 12:17:00 GMT"
     },
     {
-      "title": "코로나 변이 'BA.3.2' 증가 조짐···\"현재 접종 백신 유효\"",
+      "title": "돌연 귀국 미룬 장동혁…박지원 \"입국 정지라도\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zcWxoOXczN0w4VjVJLTJGN2M2OWFaMDBfNElsRTlGRGkwbGZUSG5idWdWQ2YwaVZuVkZDNEVZTm84T0ZhMmZlRzRYWXVqZ0c1dkpZ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 11:54:00 GMT"
-    },
-    {
-      "title": "전쟁통에 돈 쓸어 담은 ‘진정한 승자’…줄줄이 ‘깜짝 실적’ 발표한 월가 빅뱅크들",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43Q3BELXBpQ0l3clBpRVdrYXByNnlCbS1TdjdqV1V4ZGlvVEFrd3VMcDBoWWRBcjllb0xKejdqUUxRZl9pU21zeXNBZ2hIaFlmSGfSAVNBVV95cUxNcEZVVzJEbW1VT255QTRnQnFBMWVscDdyaXhfbUs1YnJZUVI1MmtFSEFWZEdJLXFPOHVMMDJiSFNLdldiYVFndUFpVmppRS13UzdGSQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 11:23:29 GMT"
-    },
-    {
-      "title": "전재수·한동훈, '까르띠에 시계' 의혹 맞고소",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNMlppTGNET29EMEFHazFlbXE4cEROREluUXdvaU9oOC1YNGhwbmZTc1M0QW5HSFBUamZqLWhpc0NJSlZnM0tOTERXSzA5Q3pkT3Mw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 11:45:00 GMT"
-    },
-    {
-      "title": "[올댓차이나] 대만 증시, 이익확정 매도로 9일 만에 반락 마감…0.88%↓",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1R3N1dnMHJlRk9TbXd1N3IwVlRWbUVVRVNveXJOZWtubUVNb1JoaHFCOGplZEJQMjVQU1Y0V20tMDNRaUpNVk0tS25pbGZ4VHVObnNXX1BWbHo4VEJla0s0alQyVWtiNlY4aDEyU0RVWi1qZ2c3dVFNSXhjT0JkNUUxNnRLbHdQLWFiQXJkVXhkUHZJa0wxRnBLNTB3T3RzZ1ZsblczWEFmazVESEhoRGhMdjRzRTA?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 11:30:12 GMT"
-    },
-    {
-      "title": "경찰청 경무관 56명 전보 배치…\"서울청 수사지휘부 재편\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DVV9mWTBvQ21FbmFubzBQVWhOS3VpRTRvOHNXSUoyUVlfSU0yVnU5cHQ4QzhPNll1SU9PaVRNSC12bHlzbVV2VmpVa2lsbENZcldF?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 11:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sblJzMGxCaF9LOWs0SnRRR3d2T3FNWFZoRW9MV2RweG50V2VlcllnQzVXYWRuOWtMaVg4bUt1VFAzRDBJV2JiRmFTaEpGLUI0WGZ3?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 12:10:00 GMT"
     }
   ],
   "sources": [
