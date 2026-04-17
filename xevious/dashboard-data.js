@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-17T21:53:24.808040+09:00",
+  "generatedAt": "2026-04-17T23:11:44.321971+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,84 +16,84 @@ window.DASHBOARD_DATA = {
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-17 21:45"
+      "updatedAt": "2026-04-17 23:08"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,578.72",
-      "change": "+0.00",
-      "changePercent": "+0.00%",
-      "direction": "flat",
-      "updatedAt": "2026-04-16 16:48"
+      "value": "49,417.47",
+      "change": "+838.75",
+      "changePercent": "+1.73%",
+      "direction": "up",
+      "updatedAt": "2026-04-17 10:08"
     },
     {
       "label": "S&P 500",
-      "value": "7,041.28",
-      "change": "+0.00",
-      "changePercent": "+0.00%",
-      "direction": "flat",
-      "updatedAt": "2026-04-16 16:48"
+      "value": "7,114.63",
+      "change": "+73.35",
+      "changePercent": "+1.04%",
+      "direction": "up",
+      "updatedAt": "2026-04-17 10:08"
     },
     {
       "label": "나스닥",
-      "value": "24,102.70",
-      "change": "+86.68",
-      "changePercent": "+0.36%",
+      "value": "24,390.72",
+      "change": "+288.02",
+      "changePercent": "+1.19%",
       "direction": "up",
-      "updatedAt": "2026-04-16 17:15"
+      "updatedAt": "2026-04-17 10:07"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,477.0300",
-      "change": "-1.89",
-      "changePercent": "-0.13%",
+      "value": "1,463.1250",
+      "change": "-15.80",
+      "changePercent": "-1.07%",
       "direction": "down",
-      "updatedAt": "2026-04-17 12:44"
+      "updatedAt": "2026-04-17 14:06"
     },
     {
       "label": "100엔/원",
-      "value": "928.93",
-      "change": "-0.07",
-      "changePercent": "-0.01%",
+      "value": "925.37",
+      "change": "-3.63",
+      "changePercent": "-0.39%",
       "direction": "down",
-      "updatedAt": "2026-04-17 12:45"
+      "updatedAt": "2026-04-17 14:02"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "맑음",
-        "temperature": "15.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "75%",
-        "wind": "1.0 m/s",
-        "rainChance": "0%",
-        "pm10": "43.5 μg/m³",
-        "pm25": "27.5 μg/m³",
+        "summary": "흐림",
+        "temperature": "10.5°C",
+        "feelsLike": "10.0°C",
+        "highLow": "최고 18.5° / 최저 9.8°",
+        "humidity": "96%",
+        "wind": "3.3 m/s",
+        "rainChance": "5%",
+        "pm10": "52.9 μg/m³",
+        "pm25": "34.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-04-17 21:00"
+        "airQualityIndex": "58",
+        "updatedAt": "2026-04-17 23:00"
       },
       {
         "location": "익산",
-        "summary": "비",
-        "temperature": "14.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "95%",
-        "wind": "1.0 m/s",
-        "rainChance": "60%",
-        "pm10": "48.7 μg/m³",
-        "pm25": "36.8 μg/m³",
+        "summary": "약한 이슬비",
+        "temperature": "11.7°C",
+        "feelsLike": "11.3°C",
+        "highLow": "최고 16.5° / 최저 9.7°",
+        "humidity": "97%",
+        "wind": "5.8 m/s",
+        "rainChance": "15%",
+        "pm10": "45.5 μg/m³",
+        "pm25": "37.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-04-17 21:00"
+        "airQualityIndex": "51",
+        "updatedAt": "2026-04-17 23:00"
       }
     ]
   },
@@ -146,16 +146,16 @@ window.DASHBOARD_DATA = {
             "price": "1,959원/L"
           },
           {
-            "district": "남동구",
-            "price": "1,959원/L"
-          },
-          {
             "district": "부평구",
             "price": "1,959원/L"
           },
           {
             "district": "서구",
             "price": "1,959원/L"
+          },
+          {
+            "district": "남동구",
+            "price": "1,967원/L"
           }
         ]
       },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "영·프 주도 호르무즈 화상 정상회의 시작…이 대통령 참석해 발언 예정",
+      "title": "제7대 세종경찰청장에 김홍근 경무관 부임",
+      "source": "충청뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwdDRZaUdUT283eTB0YWlxTUlIVUV1TnZ5ZjFnX2RUbFNGSGRwOUxwOWcxOFJsY2NVSnVVem1FZzJSZGsyY2dLZVMwbElxMHgxLTJUMlFuREZzVHBBRFhLTlFrd29fNU9iSXd3?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 13:51:55 GMT"
+    },
+    {
+      "title": "AI 음모론",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdnJCLXBLNkVhQlVudjNEd2JlaEY1V05HcDBnazFFbTFPWmtiUldZYVNCdkJTLVpjRFBYbDZNaHJBRjJtTkxzM090bl9oclZWQTRENV9tRkhWZ0FxSnBXTkNub0xNWWZ0SzBNN3pjbDRRMWEydG43Wk91c1F2QUgxT21YbU9HbmFkVWZianpoR1U3OVJ0RllrdG0yelpXWk9adGdZbHBPUV9iSzFyMVBEZXJ5azlkVzg?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:50:23 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQkFESUY4UXBiZ0hPbGkwVXM0RjYyWDhvUjh6dEVrTDhKYktIdlpSZ2pVUHY4R0E5anRoOFJJbG5UT2lhOElrSmxQQ2ZGTEtQOGdfTk11cVdVM2haUHNoTGZiOTlkYVFkbzJ5dkxtZlhnYnk2cEJHRzM1NjgyQWVQWlpWUmtoM3pMS1haZ25KbjBqNWNMS0hhOGNLZHdFQ0V1OVdQZWZxd2tDOUNFTUtua1FYdmlScFNzMHc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 13:31:59 GMT"
     },
     {
-      "title": "李 대통령, '호르무즈 해협' 국제 화상회의 참석…곧 발언",
+      "title": "[속보]호르무즈 화상회의 종료…李 대통령, 화상 참여국 중 '첫 발언'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYUlExbVJyOTJpWDVaaXE3V2NSWE5HdU9UMTdPVXQ5TDM3R21SNm9jUHlESjJSeTNyczM2Y3FMUTRhVldTZ2YzN3Jta2pBSmZiYVpqWExiY19jeDlGY21peGpSd2VuZldicHlkcFlmWkxWMnRhOXY0aQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRYTROVmVTUjNub0NyNlRpcVZTUnM0UW1zUEJ5N3kzX2NCWFE5ZllOMmMzbUxESHhHZDQ4TTZHMDhyaUo0NlAtQ0J0Mk9Mb3ZJM0I0?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 13:48:00 GMT"
     },
     {
-      "title": "최태원·노소영 재산분할 파기환송심 조정 회부",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYNkEtcWhKdU1FT0NPQnQxTEw0UGlhOW4zYldIZXRUdkFyalU4ZGdZUGYyM2s1RTBDMVVUQjczQzNqN2RValYzamhBX0xBUE52U2tlT0JQUmzSAVhBVV95cUxQWDZBLXFoSnVNRU9DT0J0MUxMNFBpYTluM2JXSGV0VHZBcmpVOGRnWVBmMjNrNUUwQzFVVEI3M0MzajdkVWpWM2poQV9MQVBOdlNrZU9CUFJs?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 11:54:06 GMT"
+      "title": "은행·보험 자본규제 풀어 99조 조달.. \"중동피해 지원 자금여력 확보\"",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nd2NxZXdlbGRDN0pLLWMyQzRsN0lOYlU2WXNqNktpUGtUbnBWY28zMzJSQWZpQUhxT1hHdDNfVjlWb1poUkRvalNxTTJUc2c1VDhzSXNaeUNuSjNzdlEyUmlvX1N0TjNPeVJ3?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 13:55:36 GMT"
     },
     {
-      "title": "경찰, 경무관 56명 전보…서울청 수사 지휘부 교체",
+      "title": "'세종시로 옮기나' 벌벌 떠는 금융당국",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEFRX05QcExUSldlSWVTLVNMcV9HYnZhUVNGUWNkYTdUcV84dXRMekVLa3VFeEV1RFF2eWsxODZLaVk4THQ0TWFSVm5Udjk5U1hOMFBXb1EyNV9QaEhYRUhmbVRiV0w3Z2k4VmhjVnQ1WTlMUTJ6R0l0YUV2STF3dTJKRHB5b1NQWksxckZkZWgtNERBa29LcTlJaGlOd1ZJb04wQnhfVWlVM21FR0ZaNzJKNTVERS1mQnl0bQ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 13:31:59 GMT"
+    },
+    {
+      "title": "'성장엔진·AI' 지역인재 키운다.. 거점국립대 3곳 '전폭 지원'",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwTTZzTWhJUzdSSG50dVZlbjAxSnVGcllOdzhVcnY2SXRiTktHOWtRZUJpWXYyc1phdTFxUURLMmdRRXFmeGt4WWt6RDg1OU4xRDVXcGtSOW95NlNyVkNkOUxmQlV6Ul9CVDV3?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 13:12:42 GMT"
+    },
+    {
+      "title": "트럼프 \"호르무즈 개방 땡큐…對이란 해상봉쇄는 유지\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBObjRXY3gzN2pwVEl5S09NMWNDamhzU2RRVzB4VnBxZ0NwWjdETkQxaEZnTTZVRzhyZUhTOFZPYkx6aXZlZjRTUExsakZZWnQxSFdF?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Haldia3l5TUl2cmlTSTNjNi0zM1lmeks1MzVranE4ckEzZTZfMk9WWkRZY19kUzRyWmVhdmdpWWM2UktlVXluQmVjbDRHa0xZZHhFYk9aM3VXTUdqdzh5ZA?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 13:48:00 GMT"
     },
     {
-      "title": "[포토] '오늘은 왠지 또 이길 것 같네' 해리",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lVU1XWFUxYl9VZl9rZE94dlctek5NaVlJWXdSQzhrSE40eVJfbjZMYWdvTFI4NGZjcmI1QkxsLVJURWJUdV84SnE3NjgyUVlVME9jVXB6T3VyaXlM?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:21:00 GMT"
+      "title": "GA 외형 확대와 소비자보호",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQW90YWZ6cUxhdWh2X1ZIelNMVlgtVUdNSFZ6VzBzMjJXYXZWUnhRYWtfUnV1Y2JFZGFpYm84MGd1WDJHaWM5TlRFWHQxX1FWWnlmcmRCaGhIa3BfVU1zd0E1M3laSDVqSVBkbmczZzJrSjhsMHpldVloLXFGT3FPZ3YtNy1UY2I4dm1CVmNKLWlWUG41RkxadGhtbGMyY0hJQUlfRXZFS3RXRWp3dmZVT1RlMHllSEVrbjBXVF9R?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 13:36:09 GMT"
     },
     {
-      "title": "한국갤럽 \"이 대통령 지지율 66%…3주만 소폭 하락\"",
+      "title": "[PRNewswire] 스타텍®, CCI 글로벌, 합병 완료",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LTUdqdjZuYUNGT3l5YkxzZ0pPclBVd1NvQzVTazlXZjZlSUpRTFdRemFkcUlNaVJuYWo2a21qS2RhUGtaMWVHTWVQcXp5aHdrQTRv?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nM0lsZHNoT3dCaWEzQWE0ZkxhSGp2ekZvXzdwQlpESkVNdWdlSzdCTXAzY3FmR1JTRV95LXRPZFJkYzh0WmJ3bzVVcExZVzVlVE93?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 13:38:00 GMT"
     },
     {
-      "title": "환경산업기술원장에 남광우 씨 내정",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnVzR2ZGJmaFdHYWlSR1g3ZDB6Tk9SeElfR1p2ZHNycWpfMkNuRHVEeTlPYWp0c1ZJRERaX2dwbW9YYktsUHNiYlZ5ZEVuYkFmQVFvaFUzX2dWVkQtMEVqUTY2UGJ6alI2ZnVvX09GbXJnT2lsOGVqeg?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:02:00 GMT"
-    },
-    {
-      "title": "장근석 \"어떤 XX야!\" 배신감에 욕설 투척…위스키 도둑에 분노[구기동프렌즈][별별TV]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMVEU5dExnenlUUUpZZTc3U2IyWGUxSm5sRnpmX0tPcGxTb1FtVHRJblI2VFg1NTFNYl9GQ2k4VGJ6cDJ5ZUMxMWFyUlpZQ3A0bkxB?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:14:00 GMT"
-    },
-    {
-      "title": "與, 국조증인 검사 극단시도에 \"깊은 위로…빠른 쾌유 빈다\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zRzZTYkdVWGlMUl91VWNsQ1JydlVobmFNYXhzVlk1N2lkVFp3Y1FnTEJCUnFJUHlDbFVEWUUzMklCejBBOXNWd2tsT1hHRlpGWGtV?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:17:00 GMT"
-    },
-    {
-      "title": "돌연 귀국 미룬 장동혁…박지원 \"입국 정지라도\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sblJzMGxCaF9LOWs0SnRRR3d2T3FNWFZoRW9MV2RweG50V2VlcllnQzVXYWRuOWtMaVg4bUt1VFAzRDBJV2JiRmFTaEpGLUI0WGZ3?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 12:10:00 GMT"
+      "title": "[올댓차이나] 3월 대만 IT매출 100.9조원·42.8%↑…'AI서버 수요 증대'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzIwV3BmZnZGQzg3UXJVTHBheTVJMHE5QkYyNG5YVFJVaVk0cGhTOUlQR2xOTDJuNFItQjEwWlgyNXJfVDZTdWNqNXNiaktQa0FsXzg1aV85VUdtandFNEJSYTZhdy1mLU51UEJtMGVFeWtkTkhZd05odDhfSlNRN2JkMUJvV0RpMTRTMVBlbElDQ3pfa3JaeVJxaHM3X1hlZjhZblJLVlJVRExLT0Z3ZnBSYmd0cnc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 13:15:28 GMT"
     }
   ],
   "sources": [
