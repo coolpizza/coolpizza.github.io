@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-18T02:11:47.401554+09:00",
+  "generatedAt": "2026-04-18T03:03:29.315236+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,84 +16,84 @@ window.DASHBOARD_DATA = {
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 02:05"
+      "updatedAt": "2026-04-18 02:57"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,675.55",
-      "change": "+1,096.83",
-      "changePercent": "+2.26%",
+      "value": "49,563.32",
+      "change": "+984.60",
+      "changePercent": "+2.03%",
       "direction": "up",
-      "updatedAt": "2026-04-17 13:05"
+      "updatedAt": "2026-04-17 13:56"
     },
     {
       "label": "S&P 500",
-      "value": "7,144.70",
-      "change": "+103.42",
-      "changePercent": "+1.47%",
+      "value": "7,129.98",
+      "change": "+88.70",
+      "changePercent": "+1.26%",
       "direction": "up",
-      "updatedAt": "2026-04-17 13:04"
+      "updatedAt": "2026-04-17 13:56"
     },
     {
       "label": "나스닥",
-      "value": "24,510.51",
-      "change": "+407.81",
-      "changePercent": "+1.69%",
+      "value": "24,462.87",
+      "change": "+360.17",
+      "changePercent": "+1.49%",
       "direction": "up",
-      "updatedAt": "2026-04-17 13:04"
+      "updatedAt": "2026-04-17 13:56"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,460.3400",
-      "change": "-18.58",
-      "changePercent": "-1.26%",
+      "value": "1,463.1192",
+      "change": "-15.80",
+      "changePercent": "-1.07%",
       "direction": "down",
-      "updatedAt": "2026-04-17 16:58"
+      "updatedAt": "2026-04-17 17:52"
     },
     {
       "label": "100엔/원",
-      "value": "923.53",
-      "change": "-5.47",
-      "changePercent": "-0.59%",
+      "value": "925.26",
+      "change": "-3.74",
+      "changePercent": "-0.40%",
       "direction": "down",
-      "updatedAt": "2026-04-17 17:01"
+      "updatedAt": "2026-04-17 17:42"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "맑음",
-        "temperature": "12.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "85%",
-        "wind": "0.7 m/s",
+        "summary": "흐림",
+        "temperature": "9.1°C",
+        "feelsLike": "8.3°C",
+        "highLow": "최고 23.6° / 최저 7.4°",
+        "humidity": "97%",
+        "wind": "3.1 m/s",
         "rainChance": "0%",
         "pm10": "60.5 μg/m³",
         "pm25": "42.3 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "58",
-        "updatedAt": "2026-04-18 02:00"
+        "updatedAt": "2026-04-18 02:45"
       },
       {
         "location": "익산",
-        "summary": "구름많음",
-        "temperature": "13.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "95%",
-        "wind": "2.7 m/s",
-        "rainChance": "20%",
+        "summary": "흐림",
+        "temperature": "10.6°C",
+        "feelsLike": "9.2°C",
+        "highLow": "최고 25.1° / 최저 9.2°",
+        "humidity": "96%",
+        "wind": "9.6 m/s",
+        "rainChance": "0%",
         "pm10": "41.1 μg/m³",
         "pm25": "35.0 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "59",
-        "updatedAt": "2026-04-18 02:00"
+        "updatedAt": "2026-04-18 02:45"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[지표로 보는 경제]4월 18일",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLSGx4YVViUDRHSHZlUEtmcWZuUG5WQ0c2YkcwcU9jRzNrUU9JdENHdDh6WXpNTno1Tkd5QVlBd1JiYi1tSDJpR2YydHp0SThvNFJyeEJ3UE5rT1NGZUFtaG05TGVxNm1mYWdn?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:42:00 GMT"
-    },
-    {
-      "title": "금정구, 올해 1만2849개 일자리 창출 목표",
+      "title": "트럼프 '美·이란, 아마 이번주말 회담…1~2일내 협상타결'(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSERJVmdVM1M5bmMtQm9saHVqQllZTjBCSV9ReFY1NWZ1MENwNnI1VjNZaFdUYjdERnBuLTBsOUo0V25KVENqQWpsdjhrdFFFNW1Td0c1TU1oVkhsLVRrbEN2ZW5XMzRGRHB2VGJaREtoT2I1M25yUnZDMEhhRDVoaERiLWpTTm44X2RRVmJDVmpVVFZ3SjdNZkNuVkpqNzRibnlhTTNEdTZOU1VNU2pxYjdjZmw0YU0t?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:15:55 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdkEwdEp2ZXh3Q3JESVVES1YzaW8yTlJXOTJlT3o3bGdLaFkxdnFWNVF4R0ZPeEdOY2ZjVmpBVnJNT3lOUkl2WEhpcXBjcFpLV2dHUnhRNTNWUGx3VWdEWWp1a1pXSE5xTmdUUmd4T0hhZmZsQUxQZlR3RTlDWGtBN1poOUFhOTIyTm10R1VRQ3d0Q2VNeFRhZE9CeFhrZ2Ffem5sNUtYZk9tejltdjRreGM5NjM2ZmtP?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:41:00 GMT"
     },
     {
-      "title": "[美특징주]알코아, 중동 갈등·기상 악화에 1Q '어닝 쇼크'…주가 7%↓",
+      "title": "미국발 제재·전력난에 산불까지…'설상가상' 쿠바",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wTUxNeHFsaHNqcTF5c3lDZi1tekNCdm1XbTc2eUtwa0hPOFVvdVhRcGdQem9MZVVkQmpmZnJyVHZEeFBZZkp4U191TXdUMXVzWVNlVWlVWnhzSXfSAWBBVV95cUxPdzUxS0hPTERGal93aVpqeVZJZEJBWDFaZHdnblAweDJwMTV6bkQ2a1QyWjd3aHRkcnExSUx0c2FndWxudlZUNWh5cGNSX0tuendYY1JHeU5kb3lub3BFMkw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:23:26 GMT"
+    },
+    {
+      "title": "6·3 지방선거 첫 중대선거구제 도입",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TVEszOWh2SHVtaWpvelpKT0RsY19sMk1ub2lWanFZWDRlRHlHeFpLQUsxaG9VUERBT0g1SVpNaXFrdTZvZ0V0ZUR0NGZKMzZHb1Rn?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:04:00 GMT"
+    },
+    {
+      "title": "[美특징주]배저미터, 핵심 사업부문 성장 둔화에 4Q 실적 실망…주가 폭락",
       "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2RVRU55d3FnOW96YUl0MkdGYkU2MWpkNlpRSk0zZlh5WktRdlI5WnV2VllYS3d0dS1rc0V4Q0p1X25id3NrZUY0aG0waVVySlVQaUxoLVllY2dRWlg2UUFna0c1TG5mSEEzbHZ0ZUlNVTNsblRWNVp5T3haZmE0bg?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:38:49 GMT"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc0lCN1hsczNvUHlOWGN0bEpHR2gzdDJpcEszZEkyTVZUeS04WV8ySnh4X0xIb2pwWUdEMmYxYWdiRUlaU2JOektIYi1YTTZwekVEYTFzRl9VbW5GZGM3dWlFUEU5MURtLXlkY3dnQ181OWFjbXc0V29DOHY2N1JSMQ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:21:07 GMT"
     },
     {
-      "title": "토론하는 오기형 의원",
+      "title": "트럼프 \"아마 이번 주말 협상…1~2일 내 합의\" [美-이란 전쟁]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mcTZoeWtBMzJ6dzRoWVFBa0lfVXhlV3MycFY3LWJUMEM3UkNXVnBSSkUyeWtVRUpGd1p3enpJbS1rcnVxQk9GTUFwNW1aamNSenAw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05VmNKekFEQ2dVTzZxRXhPbHU5TE9FLXhPamZmR1NDRXl0MHZDRHpiNlB3bnhnZHZ0TXVaQnAzOFBEY1VLTkVBTGFDX0NXLTE1RmVV?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:41:00 GMT"
     },
     {
-      "title": "영화의전당, 한불 수교 140주년 2026 프랑스 영화주간",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRy1SMXkxRTlLdm1BeFFQMHFQald0bVBTYkgwUlZvN0lhUENQSldtazI1VDVIZ1hGeHlPb2VIZGVFTElvY0RVcDhxQm9VTTh2cmU0Z2pveU1ZZXp3ZDUwbXlUUjlkZWtHbklIX3hqcVNjVlpRUWF6VnRzZ3hZb09CR2hvQ3h5dy16NEN5UE1YZUJrX3ZDRk51OGo3X0xicllfZFE5UUIxVHZMSnB3Q0xEcXd1eXU0Ri14?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:15:55 GMT"
-    },
-    {
-      "title": "트럼프 \"美·이란, 아마 이번주말 회담…1~2일내 협상타결\"",
+      "title": "트럼프 \"아마 이번 주말 회담…하루 이틀 내 협상 타결\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jVmtNVXVIcWNneHcwWXRtcXBDaVFjS3VWTkZfTVNGMXV1LXBmdDBVWDJNWFFqT0FtWmV3N0dxeThwSm1YQUxFbGJFUkcxTXFZVHo3NXcxaDdLYmgwSVJHZw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 17:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NWmdJcDhzVjV1SmlJYmJSR1BpbmlOdUNRbHBKRldOcDF1OTdVTnFrdFczdDRSMktwSE1CVVNXZk5fenBUeE5rbnlxVTJsQXRQbm1B?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:15:00 GMT"
     },
     {
-      "title": "폭력 시달리는 우크라 징집 공무원…피해 600건 넘어",
+      "title": "[뉴스1 PICK]'정치개혁 법안 국회 통과' 6·3지선 첫 중대선거구제 도입",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zSDk4MTQ0Qk45bXlfNjhJal94cTc5bU5RZk15RUlKSkFSN0s3YWxtQk4zTFJ0TG5VblBPejBfYkVWVGhTWm9sRXZIS01XX3EyMmZj?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:41:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sMzhUVzJqemZ2NlE5TmpKWm9hblZqM2J4WmhJTHIxNUpEdG1xbUc0bnZtRm55M3R4b2FGWTYwVk1malZBS3o5RkZDVUZ6UzYyZEN3?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:10:00 GMT"
     },
     {
-      "title": "[책의 향기]하버드 학생은 왜 '유나바머'가 됐나",
+      "title": "트럼프 \"이란 핵프로그램 무기한 중단 합의…동결자금 해제 없다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oSVF1dmp2U284cy03Z0JXMEJiaVNYakttbk10LXZHd0lJbU82QkxQZmxDUlJreVIxa01meGdmZlhVSUZ6M0RHMzMwLWs3RnR1bVh3?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsakgzektvM2NIZldXNU9aTnR4RGFQdGVuQlFKSWFxTHZKZlZieHFpbF9fNldWWGYxZmYxdXBpeHZGZ0FncGFjZUJHNGJ5Sjl6aTRv?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:25:00 GMT"
     },
     {
-      "title": "'지선서 광역 중대선거구 일부 도입' 공직선거법 개정안 본회의 통과",
+      "title": "민주, 전남 광역의원 1곳·기초의원 23곳 경선 결과 발표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZNGtZZUlsUEg1OXlEc0c4S3p6eVMyelZoSzdmaEJabWlxZ1BDZWRfa1d2a04weTBzbHBVaDRzRElFYWJudFdJMHkzcW0yd2pja1c0?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DdmtMS0x5QlBLS0hxTVh6cUszUnJfUi1wYjNzODZRQ3ktNWRMZU5PMDRYR01SUGdzQWp6Z1JxcWQ3YktSOTZQNEZudzQzS2JrRWxpLXJDcmJxLUh5N3FtdHQ3MGJFT29qbkdrSEFR?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:11:00 GMT"
     },
     {
-      "title": "취업해도 '빚'의 늪…학자금 체납액 '역대 최대'",
+      "title": "지방의원 수 80명 늘어난다…광주에 첫 중대선거구제 도입",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xc3ctQ2taZ2FCc1pnNEZzVWJCUzBoU3hNeGJULVlRTHpRNklYLTdhcjFkYkNocWRMcjlSMHZNeXJUX2ZJdHFnQ3NRbFZlYmlJNlE4?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:39:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zZ1hLdWZBclp5c2pWUHc3RDR4ZkppRmxKRnN6MUlMaHNtdG5NQnlUSEJUSXZ6RW1feWdISlVIMlREOU1UUWxuTGZlMUpXSkJEd1M0?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:07:00 GMT"
     }
   ],
   "sources": [
