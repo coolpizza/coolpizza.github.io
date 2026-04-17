@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-18T07:38:39.638806+09:00",
+  "generatedAt": "2026-04-18T08:11:00.124697+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@ window.DASHBOARD_DATA = {
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 06:57"
+      "updatedAt": "2026-04-18 08:09"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0800",
-      "change": "-11.84",
+      "value": "1,467.0400",
+      "change": "-11.88",
       "changePercent": "-0.80%",
       "direction": "down",
-      "updatedAt": "2026-04-17 21:53"
+      "updatedAt": "2026-04-17 23:03"
     },
     {
       "label": "100엔/원",
-      "value": "927.71",
-      "change": "-1.29",
-      "changePercent": "-0.14%",
+      "value": "924.73",
+      "change": "-4.27",
+      "changePercent": "-0.46%",
       "direction": "down",
-      "updatedAt": "2026-04-17 21:44"
+      "updatedAt": "2026-04-17 23:05"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "11.0°C",
+        "temperature": "14.0°C",
         "feelsLike": null,
         "highLow": null,
-        "humidity": "85%",
-        "wind": "0.3 m/s",
+        "humidity": "75%",
+        "wind": "1.0 m/s",
         "rainChance": "0%",
-        "pm10": "64.5 μg/m³",
-        "pm25": "53.9 μg/m³",
+        "pm10": "61.5 μg/m³",
+        "pm25": "52.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-18 07:00"
+        "airQualityIndex": "64",
+        "updatedAt": "2026-04-18 08:00"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "12.0°C",
+        "temperature": "14.0°C",
         "feelsLike": null,
         "highLow": null,
-        "humidity": "90%",
-        "wind": "2.4 m/s",
+        "humidity": "80%",
+        "wind": "2.2 m/s",
         "rainChance": "0%",
-        "pm10": "46.9 μg/m³",
-        "pm25": "40.4 μg/m³",
+        "pm10": "46.7 μg/m³",
+        "pm25": "40.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-04-18 07:00"
+        "airQualityIndex": "62",
+        "updatedAt": "2026-04-18 08:00"
       }
     ]
   },
@@ -177,10 +177,16 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "1부 오늘의 주요뉴스",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85blpTbk9MbG90dG5qYnlfTnQ5bFlZT1NoZGczZTR6aDhuOWk4NnQ1RWNIYlVRVjEtTk1VcGloaGEzZjdpT3ZydmxFMlBQcWlYaFNVYzdxa1BXbmdEM2hfUVVDVFF6bnZFT3FkMDhNb3h4Zkw5cEhfb1hB0gF6QVVfeXFMT1V0QUZOY29YaVRrb0l0eGR6Ry1EQ2RHaUw0cWRkbzNrNDBublBKaW9nODN1a2pDR2dVZ1liQXdvUzlndk1kelBZVHVGNEI4SU1KMm1zdks4RzNsb21DTG05Mms3cm42M3RlMjNOcC1lQlpLZXRUX3ZxVUE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:01:27 GMT"
+      "title": "다음주 9258가구 분양 쏟아진다…수도권·지방 동시 공급",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHUEpWV29xeWNlUmU0T1JqbWdjZU01Q0lKSm1RU00tVldyMlBrQk9QRkVQYTUzWFIxcE5jWFNVWEZ6cjBHcjNqb24wbEZ2LXpuc1VaMG9wWFp5LXc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 23:00:00 GMT"
+    },
+    {
+      "title": "[ESGC] 대기 중 미세플라스틱, 육지 기원이 해양보다 20배 이상⋯빈 대학 연구팀, 네이처 발표",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlaFBkSFA0VFpmaXBwOFlVaTVFQUJ3cWs0bEpqUXJjWFZuVHNsQ2hIMjAtYkFqVUYxNzRvRENGajQ5d0pldTJFR1kwOE0weEVQM3hLaUVBdkpsZzZBWHc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:37:43 GMT"
     },
     {
       "title": "미·이란, 20일 파키스탄서 2차 종전담판 전망…이견 좁힐까",
@@ -189,52 +195,46 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Fri, 17 Apr 2026 22:36:40 GMT"
     },
     {
-      "title": "에너지 위기에 높아진 목소리 \"더러운 연료와 작별\"[동남아시아 TODAY]",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10eDVIV1JfLXpiRDVPTEJxMDAzSExUd1kwSUVWOTRKWjE5di1jMEEyTXkxYUhtcTFaMlA0VjdoTDJnTUcyZDhJU3FxWVZxV3ctSU5BUnBCNmx4MmdHN1E?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:00:00 GMT"
-    },
-    {
-      "title": "\"상선에 호르무즈 개방\"‥\"해상봉쇄는 유지\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGs0LXR2RExQNm5HeVZ1blhGUkJEQ2JWb0F1RGJKdXJ3RUU5eXdLMkRCVDBhbUFfazVoT3A0aWVJLXVMNzRzTHhHUm5wVnpwUmttT1lqOE5qOEY3OENPN3dHeFY4M040aUw4WlBQaldiQW16VkJCTWQ3UDhlN2t0YmVGa3MwWWFZUE1ZSW41Y0t3am9DQk1wVHdEdW5icEUzZ0NHc2J3ZzRRV2ZBUEtXS0NsOVJ1WjZST2JITkotNEo0d9IBekFVX3lxTFBtdTh5X0djMmUwY1BMZ1FpRF81eS16NzkzX2N3ZVprNUZEM2dMNWJESEc2bnV6c3d6ODFYS0owVzBkSld3X2huSW1NbzA5Z0RpZ3I3aVVlQkgzaDFhSnlFWTJWNWNCTHRMdldISTlJSk03S3U0UDVsVGh3?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:03:46 GMT"
-    },
-    {
-      "title": "트럼프 '이란과 협상중이고, 주말에도…중대이견 그리 많지않아'(종합2보)",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFZ6ckNKaUZmNUFZdEFEaEpFX1FIYmgxbG5jNnFmZnJxc1BwMExzUVBmd3huZWtvR3FoSVRoTV9uQVNUN2VjaC10c1FQYjJiMUNCUlowRWc3eW9LNnZzaXRRNENpQ2h5VWQ4YUJRYTlkV0EtYTQzaXVBZHZYcURkdVFwOTJVVFBWc0YxZ2lla2trMmVfMldlUVVSYVNmTm4xTEhaMVViV19VTXB2cmVIa0xSN1J5bTBHbEhr?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:10:06 GMT"
-    },
-    {
-      "title": "'메타, 내달 전체 인력 10% 구조조정…하반기에 추가 감원'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXNPTlp3TWppQlpiTDhSc2U5dEtGejVIazNaUmtHQnE0a050MXlPMFdTUzV1VzF4NlVDRmpPeWlFb1BOcjJOdlU1Mm1pUm9ZUkdoQjBlY3M1WjVMTVUwQnJRQ0MxeGJISlIzT2VaV0M3bEhocVVNaG1qOU9UOElkWXl3YzFVemNBSm5CZFpPTzZxSk16cjN2UElmaGZ6dkp1ZzZBOXBzN0RtMG54LTdzVkZ2RUpiOGpw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:26:38 GMT"
-    },
-    {
-      "title": "빵지순례부터 반값 장보기까지…백화점·마트 가볼까[위클리 쇼핑]",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVJHX0R6c1VpbmVLZFpmVDl5cDZHUkVta05WVWI1UnpCRmZIaVpoMnpmZmhmWUhQRWJnVzhWejlBUm9MQjdJX1c0WHFxdXA1LS02dFB3MXlsZDZ4OFItYlo2a1pRRGg3Q2R5UDU5M3ZWSE10elF5Z3B2WHA1Q0NKVFJxQ3d5X3psOVNaTEk4VWlEYm5XV0ZPdjY3Qzhic1JJd1ZoRkUzS0ozbElyVDBZVUhyY2pzOVJTdVE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:17:17 GMT"
-    },
-    {
-      "title": "'협상 순항' 강조한 트럼프…\"남은 쟁점 많지 않아\"",
+      "title": "[PRNewswire] DXC 테크놀로지, 컨설팅, 엔지니어링 서비스 부문 임원단 확대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBObWFQSDFxZldqOS05RmUwT1djRWxxVXB4VFNfcXlPelhQa3k1UkFqT29JdGM4a251VjM4dHRCNWhMOFNJQ1dUdHAyZXJGbjc5RXpV?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHWHpMU1NpTm13cXhLVmJCSXhHT0cwa0p4NldEbjVrT2RGTy1UdnYwaUI2OTlWa1MwMDJodm1lTWlNcEJBVktnS1RtSjh0Sk0yek1V?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:59:00 GMT"
     },
     {
-      "title": "“신흥국 투자? 한국부터 담아라”…세계 1위 자산운용사의 ‘낙관론’ 근거는?",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmWFF5Ym41cnlXM01Hdml1TjkzQW1yOU5URU1KdWtRSEl3czdMVzNUMWRSSGIydUF4cTZrTjhCeE9NdWsxMF9ESGRfTUdPMmVPT1FhQTBlYkNqT1pU0gFTQVVfeXFMTmExb3FBWWpmYnQxN0ZMdFo4Zkc5em9pT0FpVEdTc3BWSkJQenVYd0Z2UUcydHhHcjVSNU5Ib2FiX3hwNHE5QVlaN1ZSRTZybHpNbTA?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:59:34 GMT"
+      "title": "\"메타, 내달 전체 인력 10% 구조조정…하반기에 추가 감원\"",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14dGxYdTVXVnNSeDVOX3R0a0tCNlBUNm00dlNwdnNjVzRyUXMyYXpLVUJaSWU3Ni1JbUZwTTBOeDFRMVJpSWJ5MFVrV2JPT1FwbVE?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:22:52 GMT"
     },
     {
-      "title": "석유화학 불가항력 확산…공급망 위기 속 사업재편도 안갯속",
+      "title": "국제유가, 호르무즈 해협 개방ㆍ2차 종전 협상 기대에 급락…WTI 11%↓[상보]",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pV0xFeklKSmxSRFprZEFvV2JZTUM1MURteGNKaWotYVpjU0d5SWdfV1ZLTTFNbW1GaUFjS3VpeEFiVm5ESEd3SUJvM1BWbHVWQm83RUNLcWpNdy1fMEdpTWZzZFNqTHB6RXNHVFFn?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:56:00 GMT"
+    },
+    {
+      "title": "국제유가, 호르무즈해협 선박 통항 전면허용 소식에 급락",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByckVKNllkNkEtU2xHcVVoMzgzNVBWRnFDRU5lcXZOXzdwQzRSc2V2WEUzVlVUMUxrWUV0UUR2bFEwNnVGbkZVaWstT2ZRSXZKbkFCV1MzcndaU281SlE?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:34:35 GMT"
+    },
+    {
+      "title": "제천 비닐하우스·증평 사료공장서 불…인명피해 없어",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IM1B2R2I1Sk9pSzBVY0JvZm5JYWRFUjIyM0NvUVdDRWs2dFgxODZTRFJjRW5zX0ViZHRmZjVEckhqbU0yZVhrakNLb09IOXJ6elNIa1BEdjBhOE9FNG0xZk1YdHo?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPdGlwR2RfY0ZxdmROVEN2NnNwZG8tRnVmSFhfdlI5cGc4aEpHNDd1aWs1RE8xVnh6YnJiWVoxZjdXR0hBUnVpbUp2RUwxdEhDYzc4a1dOOFRrcTdLMVlN?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:43:36 GMT"
+    },
+    {
+      "title": "여자배구 국가대표팀 '차상현호' 20일 소집…14명 옥석 가리기",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVB5czFoRWJDLWlpaVFZYjJaR2hNR2FpNll4UWQwTHFaYWxzTDB3VlB3ZjdEOUkyaFNqZUZxUHlENF9YUVptN20xanFtYjNsWnRWb1dITzRjY0R5ZmdXWW1qTnJweWw5ZUMzM2MxbEdqcWtVWnlIMFJPbXRTOUVsNjR5X2lJZ1VsNnZuQ1ZHUUNfYlVDSGZVbVNocGUzYXY4NGFyS2U0eFhrektEYWpWNnlVTlNxbmZyOFE?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:41:41 GMT"
+    },
+    {
+      "title": "'박진성 시인 성희롱 폭로' 김현진씨 사망…향년 28세",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxQXpLM21KUWdWTDRobE5MeGJkTzBVbFRVdGc2Z0ZRRFBMTXM5YXJMZUZ4SndlOEhJWkJVck5xSmVwTnZ3Nm9yWUZmMEJrLUsyMVVCd0NaQUxRMTA0XzFCWQ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:47:00 GMT"
     }
   ],
   "sources": [
