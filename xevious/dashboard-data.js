@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-18T03:58:01.963394+09:00",
+  "generatedAt": "2026-04-18T04:50:35.194297+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,84 +16,84 @@ window.DASHBOARD_DATA = {
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 03:51"
+      "updatedAt": "2026-04-18 04:47"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,466.19",
-      "change": "+887.47",
-      "changePercent": "+1.83%",
+      "value": "49,455.69",
+      "change": "+876.97",
+      "changePercent": "+1.81%",
       "direction": "up",
-      "updatedAt": "2026-04-17 14:51"
+      "updatedAt": "2026-04-17 15:46"
     },
     {
       "label": "S&P 500",
-      "value": "7,121.84",
-      "change": "+80.56",
-      "changePercent": "+1.14%",
+      "value": "7,123.86",
+      "change": "+82.58",
+      "changePercent": "+1.17%",
       "direction": "up",
-      "updatedAt": "2026-04-17 14:51"
+      "updatedAt": "2026-04-17 15:47"
     },
     {
       "label": "나스닥",
-      "value": "24,436.92",
-      "change": "+334.22",
-      "changePercent": "+1.39%",
+      "value": "24,459.17",
+      "change": "+356.47",
+      "changePercent": "+1.48%",
       "direction": "up",
-      "updatedAt": "2026-04-17 14:51"
+      "updatedAt": "2026-04-17 15:46"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,465.4598",
-      "change": "-13.46",
-      "changePercent": "-0.91%",
+      "value": "1,466.4094",
+      "change": "-12.51",
+      "changePercent": "-0.85%",
       "direction": "down",
-      "updatedAt": "2026-04-17 18:45"
+      "updatedAt": "2026-04-17 19:40"
     },
     {
       "label": "100엔/원",
-      "value": "924.99",
-      "change": "-4.01",
+      "value": "924.98",
+      "change": "-4.02",
       "changePercent": "-0.43%",
       "direction": "down",
-      "updatedAt": "2026-04-17 18:51"
+      "updatedAt": "2026-04-17 19:36"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "맑음",
-        "temperature": "12.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "85%",
-        "wind": "0.4 m/s",
+        "summary": "흐림",
+        "temperature": "7.5°C",
+        "feelsLike": "6.5°C",
+        "highLow": "최고 23.6° / 최저 7.4°",
+        "humidity": "99%",
+        "wind": "2.3 m/s",
         "rainChance": "0%",
-        "pm10": "63.3 μg/m³",
-        "pm25": "45.1 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-04-18 03:00"
+        "pm10": "66.8 μg/m³",
+        "pm25": "48.7 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-18 04:45"
       },
       {
         "location": "익산",
-        "summary": "맑음",
-        "temperature": "12.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "90%",
-        "wind": "2.6 m/s",
+        "summary": "흐림",
+        "temperature": "9.4°C",
+        "feelsLike": "7.9°C",
+        "highLow": "최고 25.2° / 최저 9.1°",
+        "humidity": "96%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
-        "pm10": "41.1 μg/m³",
-        "pm25": "35.3 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-04-18 03:00"
+        "pm10": "42.4 μg/m³",
+        "pm25": "36.8 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-18 04:45"
       }
     ]
   },
@@ -177,6 +177,18 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "대구·경북, 흐리다 차차 맑아져…아침 6도·한낮 27도",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenpoNGNRUlM5a2RJM1pEaE9TampWUVFkaXkwa2Z5U3ZXU1JrMEVvbWVBdmx3VU5lblNPWFpnbktmWHM2S2pmQUtEcWNHS25NdWh6a0hRUzR3OFRRZlNIbUNDNDBBRE5uWU1jMjBlMlNXcTgtbTJ2YnFnYmlhZ3YtWDZteDNuclo5ZjZjcVp0dndaOTZIZXBNbVFzMnBMOV8taWJtczNJbmZ4X2FfWnItX3B5anNJSkN1?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 19:17:04 GMT"
+    },
+    {
+      "title": "제주 서귀포 서남서쪽 바다서 규모 2.1 지진…\"피해 없을 듯\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1id3NGSVdwcGNEUWZGYkNfVk9uT1lKNTNsSEtDbWRtR3h1dG4yUW9SNUg1M3NuY2JJMV9LSXF5Nm5PYTJIZGdSUWgwYXBIQ1ZOal9j?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 19:33:00 GMT"
+    },
+    {
       "title": "[뉴욕유가] 호르무즈 해협 봉쇄 푼 이란…WTI 11% 급락",
       "source": "뉴스통",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVlVRFdEajRWVU4tMGtnQ044OTBSamNxal8wRS0tdzUxYWJyOTJ5UXpaMjI2TmE0bjY5QWQyOHdoR1RBNmJTZFlEcEx5QkxvUHJVenQ4SlM5bG85aVVicXRqalZZMFRodTdyZ0FCOWUwMlRrRVhLa2M5T1VtaXY4dEN2eFFzVWNIYk1nMmZScWpKR2lSbUNER21LbWd5M0xhUzZ4YmhZMDFjazBzcWl3Y2VxSncydWFF?oc=5",
@@ -185,56 +197,44 @@ window.DASHBOARD_DATA = {
     {
       "title": "월가 IB들, 사모신용 위험 헤지 본격화…위기 베팅 상품 거래 개시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yQXlHWW1VUGxMdWd2T2R5ZTV3VWU3VjVVMnRQdzAxQ1lCMWp0VkVxWjZfT0tEMlNoaHRVeXdpbTBTTTF2R09nYkd4WTdwREtmQlBYSnFFejBDOHZzU0xObg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tNHdUZDFqUjk0RUtVcl8xMk1ubGprRDY4U3FoaUMwSzdtU08tRmpVTHFyV0tSbTZuZzQxV0dxVXNLWms5YjJOdEtkUGZrR3N3M2xj?oc=5",
       "publishedAt": "Fri, 17 Apr 2026 18:53:00 GMT"
     },
     {
-      "title": "[산업 HOT 뉴스] ‘아시안 팝 페스티벌 2026’ 최종 라인업 공개",
-      "source": "비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83ajl0OEJud0wxRGZPd1MyZTVyc2xRYWxjNmxSTVhER0xqZVpTYnZrQzJaUzlNdnUwNjE4T2VxdEVRM2FMSXNkeHdJa1pHZXo4OWlqQjBIYzRCTXR0UTJCcEpfVFUyeXEtQmc?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 18:34:00 GMT"
-    },
-    {
-      "title": "트럼프 \"이번 주말 협상 재개할 듯…1~2일 안에 타결될 것\"",
+      "title": "[오늘 날씨] 전라·경상·제주, 주말 비 소식…중부지방은 '맑음'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CWmlMUmRsQzJET0dmNTJkbFpqbEY2YjBLaGo1Mi1xMzZsdnNzd00ySkU1WloyUVRZa0hZUXRiQVdEVkpIOEpkcFRack9mdG5EVHpqRFpZamJ5ZDJ5SmJ3eA?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 18:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNbjVUcktUVmlvc2NnU0plV2lTTHZuM1Y4bGplcDlzcVBNb2NtdUFSM3pjcUcxN0k5cFVla3FBNWNhUWtNNEEyYlFPYmYzU1ZwMjUw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 19:24:00 GMT"
     },
     {
-      "title": "경찰, 체납 차량 합동단속…\"하루 1,077대 적발\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9abF9hZk1qemV6dkFBQmNlSUk4c2RxcFhmR2RSQkpkS2hfWUlBbTg1dEp4UE1YU1NGTkhlVEFidHFmYWtUWDZtVlNUX2lwY2xiUWFz?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 18:44:00 GMT"
-    },
-    {
-      "title": "방진회, '한·크로아티아 협력의 날' 개최",
-      "source": "굿모닝충청",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85RjVlSnNiSHdwVGktc3V2NUljQVNQTThJdzh2amFyUzA0aGRoWno1STV4RFUyTzBxUXlUcHJrWjJWNTNPT2wtVE1KTEh1YkV3eFJDWTdEVURYTGhLR0pCMkdQSlI0eWZZRkF3LXVKLWJFQQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 18:45:44 GMT"
-    },
-    {
-      "title": "GTA 5, Red Dead 베테랑: 채용은 동전 던지기",
-      "source": "games.gg",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNGZWeTFfcVQxUm40Qkp0SlZtQUdEbkpzRVU5RXJCZGF6djdzckpld3YyVXNUVnFUQVY4ejdDQWhNTndQNkp3bDRJSTBSY2N4b2JOU3FQTE91OHVFS0tFVS1WOWg3V2tOZjMycU5fTXZYcmJkR0t2eGNzODBaVFFCanBLUHhzRjJad3ljTkZzZVI3NGo2d211VnFCVGtKdU0weUtOVmpDUlpxMVBxVURhak9QV0lHakJySUEwcl85aURpeXF2Z0F5cjdpNk93bWpYRjMtbkJRQklnTlE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 18:52:39 GMT"
-    },
-    {
-      "title": "이란 \"美와 수일 내 예비합의 가능성…핵문제 이견은 여전\"",
+      "title": "\"호르무즈 출구 향하는 선박 20척 포착\"…통항 재개 조짐에도 업계는 '신중'",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44clFxTDhhTGVEVUFZTUpKb3lMSS1kbHRsNl9EaHpDMmxnaGtJcWo5d0xqQzlsQ2JiWGdJcFZZOG1aeDR1MmxpbW9PS0RtVEh5ZGlORXltWUs0dl9iUTJieDVR?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 18:07:35 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MWHUyTlVqVVpKMkVSRVhQdlhCZjBUM2N1aTNXeC1pTDdZX1BENUlTb2VkXzJudnRWRDJzTDJwSmtfTHBoSGVWUDVKVWVMcGZHWDVYWFhSNjI5RERiUEQ1OVBB?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 19:13:08 GMT"
     },
     {
-      "title": "\"김민재 이스탄불에서 에이전트가 직접 협상\" KIM, 튀르키예 페네르바체 복귀하나…'은사' 지휘 이탈리아 명문 유벤투스도 관심",
-      "source": "엑스포츠뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12Vjl4b1pwcVp2UmJiLXppSkRaSWtSV0VnWHhMZmFoSXNTaDV2OS1iTTFuZnllUzZpb3ZUcVZpZk5iaU1Rd3VyNm1FYm1MUkxJR1REUw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 18:29:37 GMT"
+      "title": "시작도 끝도, 이란의 핵 프로그램이다 [4강의 시선]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50SkFqTmpRcGJMMC1nNTFlTlUtUGgxa0h0V0RKbVB1a1hZZldvRmxzT1hGMjd1ZERBTWVGZDBic0M4V1hIY09XYXN5cE5IZVBMOFVJ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 19:31:00 GMT"
     },
     {
-      "title": "[도지코인 전망] DOGE 다시 불붙었다…밈코인 시장 ‘리더십’ 되찾나",
-      "source": "99Bitcoins",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFl5aF9lSUhiaVhoT0VaLW5FNERKRzNlQkhRbHd5aklMVlM3RzN3TXRqLTVNeTNxWGd4cWktXzNTX0JUdHRZQ1AtdWtWOXFIMnN5QTZzUk9KZnpiNHVVSDVfaU1JSW15WENyZndxMVBIeFJQbjc3Z2UzTzBhUDZXUlJwZ3Q0aVF3a2NKUGxR?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 18:26:10 GMT"
+      "title": "트럼프 \"미국과 이란, 아마 이번 주말 회담…1~2일 내 협상 타결\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53UHpTNFFiNW1hMGZOaXRGV0hXbzhkbUVRR3l2TGpqcUpzeTdYSG53aXpxNndMVGVNUjV1Z0VveEl6WWJhMm1Rd3lhb0dsUVNrNGFrQU1aMkRBdzZqVk9NVw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 19:16:00 GMT"
+    },
+    {
+      "title": "트럼프 \"美-이란, 아마 이번 주말 회담 열릴 것\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50S0lsWE5ncHJXUUJ0RE5lTEZHUzZBT2xwRjRrZ2VzZkU3Yk82ZUVjRVZYUlJxQ1BYM2pTaUpZTElDTnZiNzZYY0Rtd01WY2pCZHRn?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 19:28:00 GMT"
+    },
+    {
+      "title": "트럼프 \"·이란, 아마 이번주말 회담…1~2일내 협상타결\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBobU5FaWRhekZHQm96YVByRXBEV1hSNjVTV1B2Qmt0N1Z0bmQ5ck9SSEVrMWtTNVpFSHFXR1RoZmJxaFBMTDRmbUdOZHFkT0VuT2sw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 19:13:00 GMT"
     }
   ],
   "sources": [
