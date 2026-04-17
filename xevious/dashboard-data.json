@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T16:24:03.480266+09:00",
+  "generatedAt": "2026-04-17T17:58:04.637968+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-17 16:13"
+      "updatedAt": "2026-04-17 17:53"
     }
   ],
   "usMarkets": [
@@ -48,52 +48,52 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,484.6100",
-      "change": "+5.69",
-      "changePercent": "+0.38%",
+      "value": "1,480.5650",
+      "change": "+1.64",
+      "changePercent": "+0.11%",
       "direction": "up",
-      "updatedAt": "2026-04-17 07:10"
+      "updatedAt": "2026-04-17 08:49"
     },
     {
       "label": "100엔/원",
-      "value": "931.74",
-      "change": "+2.74",
-      "changePercent": "+0.29%",
+      "value": "930.11",
+      "change": "+1.11",
+      "changePercent": "+0.12%",
       "direction": "up",
-      "updatedAt": "2026-04-17 07:12"
+      "updatedAt": "2026-04-17 08:53"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "구름많음",
-        "temperature": "20.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "40%",
-        "wind": "2.4 m/s",
-        "rainChance": "20%",
-        "pm10": "27.5 μg/m³",
-        "pm25": "16.8 μg/m³",
+        "summary": "흐림",
+        "temperature": "15.7°C",
+        "feelsLike": "15.0°C",
+        "highLow": "최고 18.4° / 최저 9.8°",
+        "humidity": "70%",
+        "wind": "5.2 m/s",
+        "rainChance": "5%",
+        "pm10": "23.6 μg/m³",
+        "pm25": "14.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "56",
-        "updatedAt": "2026-04-17 16:00"
+        "airQualityIndex": "57",
+        "updatedAt": "2026-04-17 17:45"
       },
       {
         "location": "익산",
-        "summary": "비",
-        "temperature": "15.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "80%",
-        "wind": "1.7 m/s",
-        "rainChance": "60%",
-        "pm10": "14.1 μg/m³",
-        "pm25": "11.1 μg/m³",
+        "summary": "약한 이슬비",
+        "temperature": "14.4°C",
+        "feelsLike": "14.9°C",
+        "highLow": "최고 16.6° / 최저 9.7°",
+        "humidity": "90%",
+        "wind": "3.3 m/s",
+        "rainChance": "15%",
+        "pm10": "18.8 μg/m³",
+        "pm25": "13.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-04-17 16:00"
+        "airQualityIndex": "33",
+        "updatedAt": "2026-04-17 17:45"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "봉쇄후 첫 홍해 무사 통과부터 삼성전자 노조 총파업 예고까지 이시각 주요뉴스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmNWc3a0JyYkVJdjhuVVZyN05McmJyN3VBZi1rWEpzOVVRSGg5MjB1RXBYckRZaUJiTHg4ZGNReWFiNC1QQXppZ3BJYmh1QS00RkpnTjVqa0JxdkhPZ3lMVmg3S2p1VVUyNzdYNTNoblTSAXRBVV95cUxPWTBNTG9ZbFRGaHhaMGc2Wld6UHdTZkFKVFZVRFV2WFA3eGVqdFQ2RktVd1RkN0tPZkF3dWx0eGl1aWw2YjM3VE1aM0xGZ3NNMUlOOVVnUEUxbTBMaXZyRV9LSS12U1RZMEU5ZmF1QUhabkdxYQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 06:48:16 GMT"
-    },
-    {
-      "title": "또 다른 세계 무역 요충지 ‘말라카 해협’에 대한 우려가 커지는 이유",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92WmhMYVRIcUNhdm03LUEzQTN3MWZUeTdnNDhXOTdPOUdtdGNwcS1BQ0otem9Tckw3cHdFVl9GM3hHeVduMXpXUGdCUllENllsblE0cXVpSVUxR3lM0gFiQVVfeXFMT00zNDZ6VUoxa25JU0ZFZFpHcUpBSmJtb1ltMTk1T3l1QkgtTnRnM09LMTUtR2pTMjgwTktZdzE1ZXNmZ3BHWGFHVFI1ZVhMN0RZTEtBTFEyU0NUUE1oM1YtVGc?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 06:45:00 GMT"
-    },
-    {
-      "title": "전남-광주 교육청 교육행정통합 협의회 개최",
-      "source": "교차로저널",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDTGJ2RkpvLUlaNU1aaWRlUDNBRHVZRkgxdGJ6M2FMNUw5dldDZUk0RFZEemx4QjBUczVJWjAyR2dwWU1OdDA1Um9SVHEzeFdPV1JRRHFpUG15eDByU3dPQUxDd01sY2ha?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 07:07:11 GMT"
-    },
-    {
-      "title": "22억 달러 외국인 배당금 지급…환율 1480원대 복귀(종합)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jaEhJVk51UGctNS1nNVZzUllmYjRSSWlwTnZEcVd1dWNRVXJjMnBUS3FBb0R2dXI2bVE3VHRzQVBoeUxPVzQ0dFo1c1RVY19SMERmWUIzT1NQekxxTExJ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 07:07:10 GMT"
-    },
-    {
-      "title": "[증시 레이더] 코스피 숨 고르기⋯ 6,200선 반납",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DcVpucjlCLVdvNUozLW5wTlBxWEZ6M0lEc3RDeWxEclRZY1Rrc3NSZXE4R282Zm5VeWJvVWNCRWtLd0VmbFUyV1NtcklzYl9NaU5LLUtOdjE0cUVCWUE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 06:52:19 GMT"
-    },
-    {
-      "title": "하루 10분 호주 뉴스: 4월 17일 금요일",
-      "source": "SBS Australia",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGNHYnFnZTNNQUdjSGRrMGdpa1o2SUZTbnVjMkNMUXdpQ1NZQU0wNHNWczFBTWJjXzk0TGFFRXgxa1Rvazl5Zmo3ZjBFOWJIVjNTb2IzeHZfMk5lWnFScTU0djJYOEhrUkNXc01yLTJIeVJtVl94RVBac1BKcEd2TGk0NVF3bjZqbFNlQ3VPeS1oRl9MMndz?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 06:28:29 GMT"
-    },
-    {
-      "title": "챗GPT, 한글 HWP·HWPX 지원…공공업무 활용 확대",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wdHlFMmk4TFNVa3I3Y204Zk1HY3pvRnBrU09hVElXZjFadmtIaXo0c0dzMlR2R2dSN2l1cUZITDVXS1d5aVlaTzctTjdfX1ptWTU2S2pPMDhXalE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 06:43:27 GMT"
-    },
-    {
-      "title": "\"미국·이란 2차 종전담판 주요 걸림돌은 여전히 핵물질 규제\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kdTZVaFVORGNuYVgxUndZeGExNXJmUzJ1RW0ySXhwVmIxUHR4X29yMjFIX0tnc3VwRkpvTlhQZWczbXdFQTNPZTBKQW90Z0ZIaE04?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 07:11:00 GMT"
-    },
-    {
-      "title": "[TOPs Pick] [유통] NS홈쇼핑, 롯데글로벌로지스와 배송 경쟁력 강화 MOU 체결 外",
+      "title": "AI 음모론",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXY5TzZNcVZtYXY2T2pqdm9mSlBmNlVUMWtoMDQxQUlyNE1mTXAydHlCaGhrdmY5T1JaSmc4LUxrN3N0cWhIRkRHejZTb09ReUo1V3pUdzJRekVhc3JvcURFVU5rd0hkY3lYZWtiam5hanlwY0xLbnVYb2Q2ekdfQlU4R2pUSGhCRW1TamFDcWJaZUxTLUNPeHpqc0xnZFQwUnZqcU9YQ01TWHAxUUFWNzhSWUdiWXZwSVE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 06:54:27 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeUVzcURzVW0yUnlVWHR2c2JtTE9JdmpXd2pSX3lnSWFpQVpyNGxCWm16WWt2ZjloS0FCRmdaNkprM0ZlbWtDdzVyQnlMWGg5bHFCUzZhT1VLRjc5Z2djOExGY2J4MEl4MHJrd3paN0wtRndBT0luempwbmJUYWNzaWRVcl9SdXhrazYzZmlNanpVWXZ4RGRuVWdPMnNZRFI0b2NzenlhVmhNOVowMzUzWF9qMlROTlAwS3c?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 08:46:11 GMT"
     },
     {
-      "title": "박종원 민주당 담양군수 예비후보, 후보 확정 소감 밝혀",
-      "source": "교차로저널",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tUGZFbHFMdzBxa0l1UnZBUU5acVpqbTZRNFpDRG4yN0oxYzYyaVZOdnlEWnRJUVR4aDB3TmZmQXlTNDBjNmpsb3JmTlpyOUVYOTVlYWtRdHZ1ay1PQXJuTGhReWN1ZFh4?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 07:05:01 GMT"
+      "title": "건설 붕괴사고 사망자 2배↑…노동부, 예방 세미나 개최",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTU9JNVJOSmUzaGNjUGp3NEp1aWlqVGxGdUdDOHliamtSOTZkbXA1b2RCaTJEMFNaUW1vWWdlWVlCaU1zMXI1YlQ5WGVXYzdRNFYySkxteHlrRm9PWE5jeVBDZw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 08:01:04 GMT"
+    },
+    {
+      "title": "\"중동 2차 정전협상·실적발표 결과 주목해야\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYRGV0dVhDUHpqeEFoQ2JEYl81OVhsU3lUNXBVdkwtLW9jeFpvQTJrRXg1SHMxVmY5dGJhNVI1NUtENHJseXJHcm9WYlF0SVlBck9V?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 08:50:00 GMT"
+    },
+    {
+      "title": "토요일 낮 최고 28도 초여름 날씨 지속…일교차 주의[내일날씨]",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjFKcGhCU3Y5blN0MVNSck5kdUJHRG9BQWdzc2RUSDdfa2ZyNFJ6NXMxTzJaZ2Vnd1hzVXV5UVdaWXppejB4aDl5a2k4X0lZcUxKUVI4N2xzYkxNRTdSOEZ5OVlaZ21YTUJBTzdxd1ZJeXVUa1lxdFB5WWJxbENjRUFySncyNEw0TVQ5Sm1SUy1fOEtIT1RkdnZHTXlZTzI5YjQyaDJvZEk4OVU0S3k1dlJwMXg0STQ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 08:50:41 GMT"
+    },
+    {
+      "title": "대우건설, 일본 EPC 기업들과 해외 네트워크 강화...글로벌 에너지 시장 전방위 협력",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ0pCZEYwMUptMlRmMUh6bmtCNkg4TUU1OTZrRWNfbDNHWXJVSk9BNzBURFR3NjhtUjFmakxOaXMtRWZYOWYwZVA4LVJfdDJaQ2I4TDI1Z01aOWw5bldob3FKVlFPVkRUSjd2ZEZReEFSOEU4Rkg2MWRJMVNlZHFMbGpqeDJ5VDZzODNhZGlxMW5vbTZ0ejFESkh5cVJGb1lEYktOX1lsdlI1TVJqbWhlOGo0TFhIRW9YN1Z2SHdHZVphNkpyeEEyLTVR?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 08:29:43 GMT"
+    },
+    {
+      "title": "\"늑구 귀환 환영\"…시민들 굿즈 제작 제안도",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82bklTeVd4RmtyVDZNd05ENTdGcFV3MF93Y0lNdk1jWWZkeUxjLUtUaWJWUlpIX1hyd1M1WG5jQTlhdUg2YXFoZkxLZlpWNlJwQTYw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 08:47:00 GMT"
+    },
+    {
+      "title": "‘탈석유’ 가속화에 LNG 뜰까",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkU4S3pBOGp2Q0VPbFFVNS00WnF6VkVRR19yNWQ5YzZYak5qcHZJNmdzWFpYSXM0eHNuVldGV2F5RjhGRElsaVBtS0JLbTZaU3k2QmR4TFVVdUx3VlZNY0h4VW1TWGljT05FaEZQMlJxTDF2WkNQOVlrOEktZXpLdGI5NzBUdWZYMG5xeFdXNGI1aGtIbTN4OUtwaVFCa2JtbG1OdGlsOWplNERNMVZGalNKT1AyNGZnWHlsVg?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 08:48:49 GMT"
+    },
+    {
+      "title": "숙명여대-고대구로병원, 난치병 연구·치료제 개발 협약",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01QlNEdHprTEhrZGhSZ3VoS1JpdE5HSWFOVmRIODNzUTFJUTNHS1hSWmJGLXB6V012ekppMDlFdzR2Vk9ncG9MNldkVmZPTi1iRnJmb2l6S2FJZ3dsck0tUg?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 08:48:00 GMT"
+    },
+    {
+      "title": "전남도, 7월 출범 통합특별시 주요 과제 점검…'조직 정비'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbVA2TWV4UjVQVmhJTFlTQXVMdkFVcVRZWldCWHdlblpfTldFdXBnY2UyQ0o3N1dNLTBnZTYtOElKbHJ0dUVmaVBvS01zbjJjMF9OWE1TcUItWHVaQ1Fpdk9Zck9jMnBIUVZRVVg3ZV9BUXNqT212cW9wb2NsMG9DeFplamUzRklUcjJDeU1RaVpoNWFQdUFKZG9lWGhUV3JXN1AtSkZHNERqaVlXUlY0dmRxd3duM24tT3c?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 08:10:34 GMT"
+    },
+    {
+      "title": "국립공원공단, 교통약자 차량 이동 서비스 개시",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jaVhwZ0piNUVwOEdXVXhNSkFmQ2k5aHQzWXJESlZBT2hiejc0enZzUGtTdUpIdzBDVDVzeDg3VzNxaGJUdWZuRGVWdVl4VE1BQ2Vz?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 08:38:00 GMT"
     }
   ],
   "sources": [
