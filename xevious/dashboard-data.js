@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-18T00:15:09.186188+09:00",
+  "generatedAt": "2026-04-18T01:17:37.206855+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,33 +67,33 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "9.7°C",
-        "feelsLike": "9.1°C",
-        "highLow": "최고 23.8° / 최저 7.8°",
-        "humidity": "97%",
-        "wind": "2.9 m/s",
+        "summary": "맑음",
+        "temperature": "13.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "85%",
+        "wind": "0.3 m/s",
         "rainChance": "0%",
-        "pm10": "57.4 μg/m³",
-        "pm25": "39.0 μg/m³",
+        "pm10": "59.5 μg/m³",
+        "pm25": "41.0 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "57",
-        "updatedAt": "2026-04-18 00:00"
+        "updatedAt": "2026-04-18 01:00"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "11.4°C",
-        "feelsLike": "10.8°C",
-        "highLow": "최고 25.2° / 최저 9.2°",
-        "humidity": "97%",
-        "wind": "6.0 m/s",
-        "rainChance": "0%",
-        "pm10": "43.5 μg/m³",
-        "pm25": "36.6 μg/m³",
+        "summary": "구름많음",
+        "temperature": "13.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "95%",
+        "wind": "2.2 m/s",
+        "rainChance": "20%",
+        "pm10": "41.9 μg/m³",
+        "pm25": "35.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "54",
-        "updatedAt": "2026-04-18 00:00"
+        "airQualityIndex": "57",
+        "updatedAt": "2026-04-18 01:00"
       }
     ]
   },
@@ -105,7 +105,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "강서구",
         "stationName": "지에스칼텍스㈜ 경인고속주유소",
         "address": "서울 강서구 국회대로 225 (화곡동)",
-        "updatedAt": "2026-04-17 17:59:00",
+        "updatedAt": "2026-04-17 23:57:55",
         "districtSamples": [
           {
             "district": "강서구",
@@ -135,7 +135,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "중구",
         "stationName": "오일캠프주유소",
         "address": "인천 중구 축항대로 282 (신흥동3가)",
-        "updatedAt": "2026-04-17 17:59:16",
+        "updatedAt": "2026-04-17 23:43:08",
         "districtSamples": [
           {
             "district": "중구",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "트럼프 '이란과 거래 없이 고농축 우라늄 전량 확보할 것'",
+      "title": "'공급망위험 분쟁' 앤트로픽, 백악관 회동…미토스도입 논의할듯",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOejFPNWl3UWZvWFVUZXhhT0JzeHhlTEwycm0wU1pKcWdMczVXWDc3d2pESV9vQ2VKQ1prUGN6SmFvRHg0dm9LOXVUWVhhelZwT093RWtfUVE2NkhrVnczOHJxUEsxQWpnVWRUVjBFdjJrUEthdjJPakVWb3d2NmYzSEdDQVRNVDFzMEthcHBnUXR1UWx6Ml9lSWVocEUtQ3RfVEZjZlk0LXp6MXdlVFpmZWpNbk04dUda?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:45:44 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjJRM3BQYXJMaG5EQm5LVDA1OUtmeDcwM0N0NnV2Nk9DT2h4X3RLUTd5SXVKQ1JqYUZhbWxqVGlVSjVOeDN1aHpaY0FpRWJNLUhRUWZaN3hYTkx0ZFZtZk9YbE12X2tYNmlNLUdzSU5zUjd0SUdZZjBib1g2MF9jdVdmQkRfc29zWF9tMVU1VjNPMm8ySDVZa1JNbmtTcDVydklPVWMzRERxejd4MVZJMWY5dDZ5R2p1?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:10:54 GMT"
     },
     {
-      "title": "호르무즈 정상회의 발언하는 이재명 대통령",
+      "title": "발언대로 향하는 사회민주당 한창민 대표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iZnRxbDlFeDJISVo0X0tYUm9xM0h2R2RLNUFEVVU0UWtPSXpHM3lMMXk3ampTWHlYTkMxTHdlVVd3bEVJZmV3US1NcWFRMzA1RlZsbTk5TldWWXMtQ0Q3OWY2V3YwQ25PdUlIYWN3?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:23:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82SlVyOXh3cGs4U0Flb1luNjJNU3NPZHVSUmNvTTllZVVJSmp2dUNkUk51UlI4XzA2NVRKMkFzcE16Smp3VklBWDk3TlZsZHBKaHdWdkVxMk1MdzhYTi1pV1ZrZ3RPbGxVMU1STEdB?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 15:47:00 GMT"
     },
     {
-      "title": "'한국민영방송의 날'…방미통위, 현장 의견 청취",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xMFRRS1d3LVZmNWRnNlhhS1ZjZDlqR3F6a1phMGJ5dDcybVpNNFFaanZ3VExRNEZ2UHBHcWZzcWsydHR2T0ZoeE41SHBKaFVybUJj?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:53:00 GMT"
+      "title": "2026년 4월 17일 세계 경제 뉴스 주요 내용",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZlVGaEJ3N21MRXNVNmV2T29fVVYzQV9GS1RjLUgteHpOMmE5SWdsREpWMXh2Z0NyWFhKMU45azVXTFQzV0MzNm10NTlSVV9Kd2w2bEhiVlM0cnVybXpPRUVMWTRranpsal9laWxCNGZacU9qYkVsclFNLVNpZW8?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 15:24:58 GMT"
     },
     {
-      "title": "구성환, '꽃분이' 떠난 뒤 12kg 빠졌다…\"힘든 마음 이겨내려 국토대장정 \"[나혼산]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfNDJGeWlVdjBkcVZuSlJDMUUyWVZJV0RnekFKQXNzOTM4ckZmWHZOelFvZ0hsUHprYWpDTF9aVkM4SFhfRnVIU29hUEpwbWN2VXFR?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:50:00 GMT"
-    },
-    {
-      "title": "'한국민영방송의 날'…방미통위, 현장 의견 청취",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5ZW5HVWtXbWZsTURkc25yNXV6STRUb2xLUm5pM1FIZF9HWmFkNEZGM0ZkNy1RenZfRngydTkyZGw2YlFiNll6OXVjd1RRRExDUl96S3BOR0hyejVPYmFmZA?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:52:50 GMT"
-    },
-    {
-      "title": "[포토]문정민,첫 날 선두권을 바라본다",
+      "title": "[美특징주]여행株, 유가 급락에 일제히 상승…항공·크루즈株 강세",
       "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0tUS3FhQkRzZGxzMGFqWWYzYWlqNmFjeGd5cVhQQWVkVnA0dnJyNWxHWW5iblNyejl4NGRUdDFWOUR1b1BkU2NyWXY0TERPYUVZOW96OTlybWgwTjVnZFVRRDBTYmNreEs3SUp3TzNENkg4ay1JMVFUNE1ac2Fobg?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:54:42 GMT"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHVFU1NCa2FkWnpXaEFCZUhydFE0MGtFM1V2SEV1dDJsaVI2ZU1EZjhTaHJtWjQxRE4xakNoUllzb2xReWRUZVY2SlpsRXhNSjNESWNmbVJONEdBaEFfOG03VjRBcDAxT2NYOW9ubmlhSFVfYndlaTFNc1RHblROYg?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:00:06 GMT"
     },
     {
-      "title": "더 또렷해진 '트럼프 민심이반'…美민주당 뉴저지 보선 대승",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EN05QNGxaZEd2d1k5aFVGaWZDUHZ1MHVQWUdvM2huU0h6cGNBRXgyVXhUOWtPSFlMRWVjWnlYNEtTYWplRlRLZ2VGVDg3RjQ2Zmh6NFB6R0ZRVFRNakRSM3lFVnpFdlBmYTZUZUg4SHFNZlJPNW5fVQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:48:00 GMT"
+      "title": "영화의전당, 한불 수교 140주년 2026 프랑스 영화주간",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRy1SMXkxRTlLdm1BeFFQMHFQald0bVBTYkgwUlZvN0lhUENQSldtazI1VDVIZ1hGeHlPb2VIZGVFTElvY0RVcDhxQm9VTTh2cmU0Z2pveU1ZZXp3ZDUwbXlUUjlkZWtHbklIX3hqcVNjVlpRUWF6VnRzZ3hZb09CR2hvQ3h5dy16NEN5UE1YZUJrX3ZDRk51OGo3X0xicllfZFE5UUIxVHZMSnB3Q0xEcXd1eXU0Ri14?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:15:55 GMT"
     },
     {
-      "title": "트레이스트로닉, 한국 지사 확장",
+      "title": "[속보] '사실상 지구당 부활·광역 비례 증원' 본회의 통과",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4teWNNbHZ0U1o2SWhPQjM3Q0F6b3JvdFZ3RXhrTEdZNmtlZWdnSklmejg5S3VCRjJmMkFPU3B2OW1XSVBORTNCQTZUMVlRUUU0aTVB?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wRVFlY0w3YktLLVFwSTdlMGpSR2FwcGs1bHNTY2JxMTF2c0w3bDczNDNCMmRjTTdVSnlyRkdMMU9COUFXeGNuWFZKUGZGT0NfLTJR?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:03:00 GMT"
     },
     {
-      "title": "대한민국 과학축제",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sVzF3Y21SLWpMRjlkQTFtM0hTS1daOTFWcFdYZnFDZXZaNWU2ckxiMFlaNFdZX2RKa19EZ3hORVd2Mmg4dlJ0N04wOFUzZnQtZGhN?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:16:00 GMT"
+      "title": "2026년 4월 17일 베트남 경제 뉴스 주요 내용",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUjh5aV94Y2dMc2ZQLWR1aFhQaDU5dThzRlFVMy0xMHJGdlVITi1ONUpRcVRBbWcwc08xeUZ6QUNxMzNYU0lGVDBuZnFEaHNIT1hmS3R4bzVoUjJiYTJQaTV3T1NtU1YzNi1ISzJpVVcxUHY0dFU5R1YwTmN2LVU?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 15:24:58 GMT"
     },
     {
-      "title": "도쿄일렉트론, 첨단 패키징 위한 신형 개별 칩 검사 장비 '프렉사(Prexa) SDP' 출시",
+      "title": "22년 만에 사실상 '지구당' 부활",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYWVJfSHlWRGE5eXRiYnZKMVl5dFVvUkFUOUdTanR1cy1NVVVlSXhXMTJiWW9KZ3lBYXBwMURxbl8wNkFMcDJOekNhclZyQWFRVC1XaWFDZ3p2ODRfV3l4SXdQcHF0eEUzSk5qb1JJbTNfT2Myc0h5ZQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Fd2pkdkdlRU1QT1hvYzVXdjM4ZUR4S1ZrUWROakEyM19xdXA5RWJiYmF0NGtsbTg5OXY5d0l6RWxsdVpfZ2NJVUdlYm1jNl9YNXpr?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:06:00 GMT"
+    },
+    {
+      "title": "트럼프, 호르무즈 봉쇄 종료 선언…'핵잔해도 모두 수거'(종합)",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeG9OdGx0OEZJbDJGS2lVZm5zcmtPeEdFV3RUQ3AtZ0Z1SDViR21DR1kwSGo5WjJmNzNzcm9LODVuMmYxSC1NY1JCYWhxcFE3dEpTdEQ3ZEZlaDlmTDRDVFJsMUFDekk1SU9WUWxhR1VyOHpfXzFvQ1N0bTBfNWw5a2RNYlpzeVFxTTZkeUNJZE5oa1pFakNuM3dydi1CaGFVUXQyb3lvQjAzRGQwQmxrbldIMFZyVDQ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 15:30:49 GMT"
+    },
+    {
+      "title": "[북카페] '동아시아의 풀뿌리 세계시민' 외",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhd0MzalRRdjNWMUJfRE1Lbmo0cFFoNHhoWUFYLWkyb3psQjF6RVB4UmVFQ0tiT3FjSmFweXhJWnR5T2dmdXFhc0gwZi16dEJkWDNN?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 15:43:00 GMT"
     }
   ],
   "sources": [
