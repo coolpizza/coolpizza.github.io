@@ -18,6 +18,8 @@ TIMEZONE = dt.timezone(dt.timedelta(hours=9))
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0 Safari/537.36"
 OPINET_KEY = "ZbFgD2Xm6B5PTJzDhTtLJNM3yM5pOE80K+g4g9+pono="
 KMA_AUTH_KEY = "Jq3u7QYCT9at7u0GAn_WaA"
+OPINET_TIMEOUT = 12
+OPINET_RETRIES = 2
 WEATHER_LOCATIONS = [
     {"label": "서울", "latitude": 37.5665, "longitude": 126.9780},
     {"label": "익산", "latitude": 35.9483, "longitude": 126.9577},
@@ -118,6 +120,16 @@ def fetch_text(url, data=None, timeout=20, retries=1, retry_delay=1.5):
 
 def fetch_json(url, data=None, timeout=20, retries=1):
     return json.loads(fetch_text(url, data=data, timeout=timeout, retries=retries))
+
+
+def load_existing_dashboard_data():
+    if not JSON_OUTPUT_FILE.exists():
+        return {}
+
+    try:
+        return json.loads(JSON_OUTPUT_FILE.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
 
 
 def digits_from_number_markup(markup):
@@ -537,7 +549,12 @@ def load_opinet_default_page():
             "opinet_key": OPINET_KEY,
         }
     ).encode()
-    return fetch_text("https://www.opinet.co.kr/searRgSelect.do", data=payload, timeout=30, retries=3)
+    return fetch_text(
+        "https://www.opinet.co.kr/searRgSelect.do",
+        data=payload,
+        timeout=OPINET_TIMEOUT,
+        retries=OPINET_RETRIES,
+    )
 
 
 def extract_seoul_districts(html):
@@ -554,7 +571,12 @@ def extract_seoul_districts(html):
 
 def load_sigungu_names(sido_name):
     payload = urllib.parse.urlencode({"SIDO_NM": sido_name}).encode()
-    data = fetch_json("https://www.opinet.co.kr/common/sigunguGisSelect.do", data=payload, timeout=25, retries=3)
+    data = fetch_json(
+        "https://www.opinet.co.kr/common/sigunguGisSelect.do",
+        data=payload,
+        timeout=OPINET_TIMEOUT,
+        retries=OPINET_RETRIES,
+    )
     return [item["SIGUNGU_NM"] for item in data.get("result", []) if item.get("SIGUNGU_NM")]
 
 
@@ -575,7 +597,12 @@ def fetch_district_gasoline(sido_name, sido_code, district):
         }
     ).encode()
 
-    html = fetch_text("https://www.opinet.co.kr/searRgSelect.do", data=payload, timeout=30, retries=3)
+    html = fetch_text(
+        "https://www.opinet.co.kr/searRgSelect.do",
+        data=payload,
+        timeout=OPINET_TIMEOUT,
+        retries=OPINET_RETRIES,
+    )
     price_match = re.search(r'var B027_P\s*=\s*"([^"]+)"', html)
     station_match = re.search(r'var OS_NM\s*=\s*"([^"]+)"', html)
     address_match = re.search(r'var RD_ADDR\s*=\s*"([^"]+)"', html)
@@ -614,6 +641,32 @@ def summarize_gasoline_area(area_label, district_results):
     }
 
 
+def fallback_gasoline_area(previous_gasoline, area_label, error):
+    if not previous_gasoline:
+        print(f"[gasoline] {area_label} fallback unavailable: {error}")
+        return None
+
+    for area in previous_gasoline.get("areas", []):
+        if area.get("areaLabel") == area_label:
+            print(f"[gasoline] Reusing previous snapshot for {area_label}: {error}")
+            return area
+
+    print(f"[gasoline] {area_label} fallback unavailable: {error}")
+    return None
+
+
+def fallback_snapshot(section_name, previous_value, error, empty_value=None):
+    if previous_value is not None:
+        print(f"[{section_name}] Reusing previous snapshot: {error}")
+        return previous_value
+
+    if empty_value is not None:
+        print(f"[{section_name}] Fallback unavailable, using empty value: {error}")
+        return empty_value
+
+    raise error
+
+
 def collect_gasoline_results(sido_name, sido_code, districts):
     results = []
     for district in districts:
@@ -628,23 +681,37 @@ def collect_gasoline_results(sido_name, sido_code, districts):
     return results
 
 
-def load_gasoline_data():
-    seoul_html = load_opinet_default_page()
-    seoul_districts = extract_seoul_districts(seoul_html)
-    seoul_results = collect_gasoline_results("서울특별시", "01", seoul_districts)
+def load_gasoline_data(previous_gasoline=None):
+    areas = []
 
-    incheon_districts = load_sigungu_names("인천광역시")
-    incheon_results = collect_gasoline_results("인천광역시", "04", incheon_districts)
+    try:
+        seoul_html = load_opinet_default_page()
+        seoul_districts = extract_seoul_districts(seoul_html)
+        seoul_results = collect_gasoline_results("서울특별시", "01", seoul_districts)
+        areas.append(summarize_gasoline_area("서울 최저가", seoul_results))
+    except FetchError as error:
+        fallback_area = fallback_gasoline_area(previous_gasoline, "서울 최저가", error)
+        if fallback_area:
+            areas.append(fallback_area)
 
-    iksan_result = fetch_district_gasoline("전북특별자치도", "13", "익산시")
+    try:
+        incheon_districts = load_sigungu_names("인천광역시")
+        incheon_results = collect_gasoline_results("인천광역시", "04", incheon_districts)
+        areas.append(summarize_gasoline_area("인천 최저가", incheon_results))
+    except FetchError as error:
+        fallback_area = fallback_gasoline_area(previous_gasoline, "인천 최저가", error)
+        if fallback_area:
+            areas.append(fallback_area)
 
-    return {
-        "areas": [
-            summarize_gasoline_area("서울 최저가", seoul_results),
-            summarize_gasoline_area("인천 최저가", incheon_results),
-            summarize_gasoline_area("익산 최저가", [iksan_result]),
-        ]
-    }
+    try:
+        iksan_result = fetch_district_gasoline("전북특별자치도", "13", "익산시")
+        areas.append(summarize_gasoline_area("익산 최저가", [iksan_result]))
+    except FetchError as error:
+        fallback_area = fallback_gasoline_area(previous_gasoline, "익산 최저가", error)
+        if fallback_area:
+            areas.append(fallback_area)
+
+    return {"areas": areas}
 
 
 def clean_google_news_title(title):
@@ -740,11 +807,28 @@ def load_news():
     ]
 
 
-def build_dashboard_data():
-    korea_markets, us_markets, currencies = load_market_data()
-    weather = load_weather_data()
-    gasoline = load_gasoline_data()
-    news = load_news()
+def build_dashboard_data(previous_data=None):
+    previous_data = previous_data or {}
+    try:
+        korea_markets, us_markets, currencies = load_market_data()
+    except FetchError as error:
+        korea_markets = fallback_snapshot("koreaMarkets", previous_data.get("koreaMarkets"), error, empty_value=[])
+        us_markets = fallback_snapshot("usMarkets", previous_data.get("usMarkets"), error, empty_value=[])
+        currencies = fallback_snapshot("currencies", previous_data.get("currencies"), error, empty_value=[])
+
+    try:
+        weather = load_weather_data()
+    except FetchError as error:
+        weather = fallback_snapshot("weather", previous_data.get("weather"), error, empty_value={"areas": []})
+
+    gasoline = load_gasoline_data(previous_data.get("gasoline"))
+    if not gasoline.get("areas"):
+        gasoline = fallback_snapshot("gasoline", previous_data.get("gasoline"), FetchError("No gasoline areas were fetched."), empty_value={"areas": []})
+
+    try:
+        news = load_news()
+    except FetchError as error:
+        news = fallback_snapshot("news", previous_data.get("news"), error, empty_value=[])
 
     return {
         "generatedAt": dt.datetime.now(TIMEZONE).isoformat(),
@@ -796,7 +880,8 @@ def write_output(data):
 
 
 def main():
-    data = build_dashboard_data()
+    previous_data = load_existing_dashboard_data()
+    data = build_dashboard_data(previous_data)
     write_output(data)
     print(f"Updated {OUTPUT_FILE.name}")
 
