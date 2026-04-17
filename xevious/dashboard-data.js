@@ -1,22 +1,22 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-17T09:07:06.833812+09:00",
+  "generatedAt": "2026-04-17T12:42:37.671801+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,226.05",
-      "change": "+134.66",
-      "changePercent": "+2.21%",
-      "direction": "up",
-      "updatedAt": "2026-04-16 18:05"
+      "value": "6,186.94",
+      "change": "-39.11",
+      "changePercent": "-0.63%",
+      "direction": "down",
+      "updatedAt": "2026-04-17 12:09"
     },
     {
       "label": "코스닥",
-      "value": "1,161.52",
-      "change": "-1.45",
-      "changePercent": "-0.12%",
-      "direction": "down",
-      "updatedAt": "2026-04-17 09:03"
+      "value": "1,165.67",
+      "change": "+2.70",
+      "changePercent": "+0.23%",
+      "direction": "up",
+      "updatedAt": "2026-04-17 12:36"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,482.2000",
-      "change": "+3.28",
-      "changePercent": "+0.22%",
+      "value": "1,480.2900",
+      "change": "+1.37",
+      "changePercent": "+0.09%",
       "direction": "up",
-      "updatedAt": "2026-04-16 23:30"
+      "updatedAt": "2026-04-17 03:30"
     },
     {
       "label": "100엔/원",
-      "value": "930.83",
-      "change": "+1.83",
-      "changePercent": "+0.20%",
-      "direction": "up",
-      "updatedAt": "2026-04-17 00:02"
+      "value": "928.24",
+      "change": "-0.76",
+      "changePercent": "-0.08%",
+      "direction": "down",
+      "updatedAt": "2026-04-17 03:36"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.2°C",
-        "feelsLike": "9.7°C",
-        "highLow": "최고 16.9° / 최저 9.8°",
-        "humidity": "66%",
-        "wind": "2.3 m/s",
-        "rainChance": "0%",
-        "pm10": "23.2 μg/m³",
-        "pm25": "21.1 μg/m³",
-        "airQuality": "보통",
-        "airQualityIndex": "39",
-        "updatedAt": "2026-04-17 09:00"
+        "temperature": "20.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "45%",
+        "wind": "1.6 m/s",
+        "rainChance": "30%",
+        "pm10": "33.8 μg/m³",
+        "pm25": "25.8 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "45",
+        "updatedAt": "2026-04-17 12:00"
       },
       {
         "location": "익산",
-        "summary": "약한 비",
-        "temperature": "12.7°C",
-        "feelsLike": "11.7°C",
-        "highLow": "최고 15.1° / 최저 9.9°",
-        "humidity": "74%",
-        "wind": "3.5 m/s",
-        "rainChance": "15%",
-        "pm10": "23.7 μg/m³",
-        "pm25": "20.9 μg/m³",
+        "summary": "비",
+        "temperature": "17.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "60%",
+        "wind": "1.9 m/s",
+        "rainChance": "60%",
+        "pm10": "18.2 μg/m³",
+        "pm25": "15.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "31",
-        "updatedAt": "2026-04-17 09:00"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-04-17 12:00"
       }
     ]
   },
@@ -105,7 +105,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "강서구",
         "stationName": "지에스칼텍스㈜ 경인고속주유소",
         "address": "서울 강서구 국회대로 225 (화곡동)",
-        "updatedAt": "2026-04-17 07:58:30",
+        "updatedAt": "2026-04-17 10:58:23",
         "districtSamples": [
           {
             "district": "강서구",
@@ -135,7 +135,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "중구",
         "stationName": "오일캠프주유소",
         "address": "인천 중구 축항대로 282 (신흥동3가)",
-        "updatedAt": "2026-04-17 07:59:58",
+        "updatedAt": "2026-04-17 10:59:10",
         "districtSamples": [
           {
             "district": "중구",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "거제시, 공공배달앱 할인 이벤트…2만 원 이상 주문 시 단계별 쿠폰 제공",
-      "source": "거제저널",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04THVUeVNCQTBzR3g3OHpZX05QdkJUNTVVQmJhTTdiMS1iRUxUdkZzNHZlazlpSFAwdnlIVEJGbWY0VUVIZ2NwQnRhWDMtRlJEVEdXSDZOaUFHR20tRjhhbUxGTGNlRUo4X0Y0a0dBNVRYeVE?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 23:58:48 GMT"
+      "title": "[12뉴스] 오늘의 주요뉴스",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2cjdSb2NfbXRVOU44bWNXWFdsczVsTmVPYklSdUlNQW5YTkJndzhBWENfMTFDUmM5ZklBZHpNb2o5RjdBanRxX3hYMWJSUGxwU3ZkNmRTNmFVeEV5SXhiRmZNa19HQ25PT2fSAWZBVV95cUxQbG9kOE0wbHJ5OWtkd1YtTm9jQVV1SWpvMnV2NnpUdlBEeWl6YWpDWjY3LWRfRFF0OHA1dFRWd1FzMG81OTlKNjJfWEZlOEFhbzJRODZJdWpJUDVfdTlnM2I0RUdrV3c?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 03:03:00 GMT"
     },
     {
-      "title": "[AI픽] LG유플러스, 일본 통신사와 6G·AI 협력 강화한다.",
+      "title": "정부 \"중동전쟁 장기화로 경기 하방 위험 증대\"",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94ZlFEQjhCQ2xTMDVid1puQkswR2hTNVRYWl9vaTE2WUpEbHZoclVUelZuOE54VkxzcENjQ2NrMFdmSE1ES0FDTUktUlJZeGdUWDhiQmlkdG9pSGhXZXc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 03:04:09 GMT"
+    },
+    {
+      "title": "화순군 꽃강길서 500만 봄꽃과 함께하는 봄 축제 개최",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVg3Z2VVdS1pY2lnWG8yX0lkODNQWDdmQ0xmUmlMQk40UjB1MUVHbnByNnJ0cFJNSFlaZ2JnY2h6RkxpYnFiN0NNNjZiYjBKVkR5bmU0WGU2aVpjYXo1MzFhd3ZBNkNXRkYzbWxJMWExaVhGd0txMjRKRkNVV296aDhYc1F5bnRqN1VKa1NLNVRnOGMtbUtLdGxGZ2tZb0d4UnRYYmM0TmM4cHhPSEtPNmZpMGhfSnRwUHc?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 00:03:11 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmVsQldWWlJaUWo2bjZHY09aRExlTm85T20xMGVQLW1uNDBUV3NpeDBrTlA5QWM0cGo0WHl3QXNTTUNHUlpQZ3hHeTBYb185ZEFOVlpFODhFWUZFcVpFemxoejlENDE1UFUzSXo2aE1YVU1hSG9jbU1FYjhnMEFDUDdnaFNZMm5La01HaFl2U2p0b29vVGxKVzlFUHNuMURtZmZ3SElDa0NuN1NmcEJhSGlCejZnSkU?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 03:29:13 GMT"
     },
     {
-      "title": "대한항공, WTCE 2026 주요 어워즈 3곳서 수상",
+      "title": "다시금 지하 세계로... 4A게임즈, FPS 신작 ‘메트로 2039’ 발표",
+      "source": "ipnn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5S2RPR3RnOTF0cnJBVGxSRmpNbnVBTFFyYUVhOHFuQTJRbHdoaExacEtpM0hJc0NJZDFtV3hoN2NoUG1aNnRwVlpJcy1VNU9ZajVqWVJ3X2otWFNvc3BBNVhHWEdFc1Bl?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 03:09:34 GMT"
+    },
+    {
+      "title": "YTN 민영화 취소 '찬반 팽팽'…방미통위, 법률자문단 꾸린다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2b1RkZ0pXVVAtZHJpc2xVLWw1aW52TlFrM2JMeHBKbGFadm04anhZaERxMGpCay1yejhRMkw2RFN0R3hqX2tOQ3laYjBUMDdQTXlCb0swd3NKOFNJc1dVaQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 00:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU5RWExSR3U0SzhLeVl6T0pNZ2FFYklfZ2FTWWduYkJXVXpvT2prMmRuTDgtbDl5THRMYzBCMWlpQ3ZjR1VCX0pvaXNjQjBNUlgw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 03:32:00 GMT"
     },
     {
-      "title": "[AI픽] NC AI, ADB 워크숍 초청…산업형 AX 전략 발표",
+      "title": "영화 스포일러 기사도 저작권 침해…日 법원 첫 유죄 판결",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObi1NRDRXNzBBS3FDRm05MzNXcTlYUWN0M0FTZ1JMOVV2YTJleEN5NTQ3bUw5N3ZkaS1EVjRxb0hITkhESzVMOWpsSnNlU1dpSFRIekVfR1NoQ2ZESndTaVpBWHdKelVYTTlEYkpYbXRoYzh4bVFEa1FhTVlyQi1zZ3lZbDI4Wk9HOEJkSGpLQnBJR0ZtQjZveTAxRnRvblRGOU1oRkVfOGhhYm96elpGNVVWYllwRUdvM0Qw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 00:03:11 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFFkRnNNNlA2UjlvZDZDVVFFQy0wb1JtWkdaQzVJLWlyNnlpdWFESjh4S3BOQTJndk56X1Q0LUZaZnVQTnNCaHBYMmxBVXNBRElXY2kzTkZWYWlOdEh4Zjc5ZW1xdVBhYmMtU3l6SDRjUUJST0FZczV3QkJvYzVxZ2ZrWG0tdkhRUm5SUHZ5WVcxcVd6b01KM1NZdEh2bDBpUmZQWE4yVHN4M2tNbk5hdktvZUxHLVhF?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 03:18:47 GMT"
     },
     {
-      "title": "GS샵, 4060대 라이프스타일 마케팅 힘준다",
+      "title": "BTS 1840만 시청에 '깜짝'…넷플릭스, 라이브 판 키운다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOGxydHRCZ1VBT1h1QjJVbU1LaVl6SVloZWtDeE9RMVg4SV9CN0FLWlR5ak0zZk8xajB4ZV9oRGlMRm1LNmx4UnFGNWpqS2hMODRQNlgtaXh1bHQtMEtRYg?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 00:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uVmtsTElna1BlRF8zVkJBTjZRYUR1NUhGcWg1Q0JkaGtsUFhnSFBKajQ5bjN5TjV3Yk45LWJDZWx4cXluOGtCZFQtcm5YRzNHc0xv?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 03:27:00 GMT"
     },
     {
-      "title": "“생산라인 점거 안 돼”…삼성전자, 교섭 중 가처분 신청",
+      "title": "구윤철 '이달말 차량용 요소수 공공비축분 방출'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjZaZ2VCMHZ6TTZNR2pCaHYxc1pjT19uSVJQazVMaHpfVko0c3NYNk1JalhNSzhJT011djNDYzllR3lNbG1Td21JdF9OZ3JScE1iVUZrSi1sRXVtSlppbm5hMUZ3aWhKckpXVmpLei1VanpBaUI1ZUJUSXQwdjVST2Rza1JsVlcyT2JUbkd5UXFrNEMxekxncy1HVGR0eUtqa3VHTWhZejFHdG5OWlRTWml0bGpoaWJJUF80a1kxQjN0TDNRbC1HMHh3?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 23:48:01 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGc2dlNPTWRGZXFzUEhqTFpxVVhrTmE5UHBLT2NGRlY5UU5wc3M0QXpwTE5WU2pSTHNvY2tvYnFWQTRRZ3hnN0d1Y0hicXBZUllNT2o2ZUlrOTlwMUVFa0t0NXpmYm5KN0tXNExWTS1YT2d5anFvdGh0akxrbExUTkxDVzg3WU1wTXFNM2FURTd2WHJMb2tkVmhfcmg0MUxOX1Z2TmJ0S01yRG5VdVZCWFVhUHdJb3RRbGc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 02:48:36 GMT"
     },
     {
-      "title": "하나은행, 강소기업협회 회원사에 금리·수수료 우대",
+      "title": "방미통위, YTN 최대주주 변경 승인 취소 논의 착수",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mbVAwV0MyZzVQM2ZQd1kxLUhWc1EwSDJLRXl0WHluLTNEUXNNVmJjRVlPaW52eXBEZEZ3eTJTODdiR0hFaFBZU002OUdhblpFbk9F?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 23:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81YVhDYmlKNUI0RmYtQUJPR25nbW5NYk1FVGlqVENTcjVjX0NzOFc4WVJtUi1CT2x4QUs2QzFmWU5kZkdqM3V6RG1LajhCVC1lNk5v?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 03:18:00 GMT"
     },
     {
-      "title": "구윤철 '4월 말 차량용 요소 방출'…美서 비상경제회의본부 회의",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWk1fdW16T2lsYnNkb3Nqczh0enNMVllQUjhLTDVSbktPMlF1cmc1cnctLTh5SElJTVVrejJyZ1c5eFZMU1dkMDZmWS12LWZYR1hiVHdSNm5lazRpdW53V2dNYUYzZ0stdWhYb204ODU3bGZNUjhJcmhkbDRhZmRfdUI1OTdIbTROQnZpVG84ZU5fLUZfUlI1Y1V2X3lnenNadERzeERRaGltdEtUcGZudV9tWUFnNEh2d0E?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 23:43:06 GMT"
-    },
-    {
-      "title": "KPMG \"글로벌 기업 74%, 경기 둔화에도 AI 투자 지속\"",
+      "title": "방미통위, YTN 현안 공식 논의 착수…법률자문단 구성",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MZWpjUTAzSlZjY2hhMGFFUVBSS0RfQ2NDRmVQX0REQi1ORUlKTFNzYjRBaVpNZ2ZPSjBaSkJadGc1bjVGLVBMcVZSeEprSlN3RU42RjFyb0Z0dERMY19tRVNOaHNHalBnNmZmWFRCQ2Q4ZlBEOE9lXw?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 23:17:00 GMT"
-    },
-    {
-      "title": "'뉴욕댁' 이진, 韓 완전히 돌아왔나…옥주현 의미심장 글 [스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FU1lKVUpuT3lfRFJrRFpqR0JQTE13N2NaWlRfRC1yTWF5YUZqUE42Zm96TEZERVRERmdINi1zbVJhZlU4OFdZMUh6LUF5ZVRrQk9n?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 23:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xS1lNUnpZLVFLVkpNV1M4bW1CTWcwc2s1OTVuOVFzRFJpU3hJbTdLSXF5dTBHdDFZRE8xd04tUjAtbjZocmktaVdES3ZveDFEX1c0?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 03:05:00 GMT"
     }
   ],
   "sources": [
