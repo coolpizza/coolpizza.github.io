@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-18T01:17:37.206855+09:00",
+  "generatedAt": "2026-04-18T02:11:47.401554+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,51 +16,51 @@ window.DASHBOARD_DATA = {
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 00:11"
+      "updatedAt": "2026-04-18 02:05"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,573.74",
-      "change": "+995.02",
-      "changePercent": "+2.05%",
+      "value": "49,675.55",
+      "change": "+1,096.83",
+      "changePercent": "+2.26%",
       "direction": "up",
-      "updatedAt": "2026-04-17 11:10"
+      "updatedAt": "2026-04-17 13:05"
     },
     {
       "label": "S&P 500",
-      "value": "7,133.45",
-      "change": "+92.17",
-      "changePercent": "+1.31%",
+      "value": "7,144.70",
+      "change": "+103.42",
+      "changePercent": "+1.47%",
       "direction": "up",
-      "updatedAt": "2026-04-17 11:09"
+      "updatedAt": "2026-04-17 13:04"
     },
     {
       "label": "나스닥",
-      "value": "24,487.42",
-      "change": "+384.72",
-      "changePercent": "+1.60%",
+      "value": "24,510.51",
+      "change": "+407.81",
+      "changePercent": "+1.69%",
       "direction": "up",
-      "updatedAt": "2026-04-17 11:11"
+      "updatedAt": "2026-04-17 13:04"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,458.1700",
-      "change": "-20.75",
-      "changePercent": "-1.40%",
+      "value": "1,460.3400",
+      "change": "-18.58",
+      "changePercent": "-1.26%",
       "direction": "down",
-      "updatedAt": "2026-04-17 15:08"
+      "updatedAt": "2026-04-17 16:58"
     },
     {
       "label": "100엔/원",
-      "value": "923.62",
-      "change": "-5.38",
-      "changePercent": "-0.58%",
+      "value": "923.53",
+      "change": "-5.47",
+      "changePercent": "-0.59%",
       "direction": "down",
-      "updatedAt": "2026-04-17 15:03"
+      "updatedAt": "2026-04-17 17:01"
     }
   ],
   "weather": {
@@ -68,17 +68,17 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "13.0°C",
+        "temperature": "12.0°C",
         "feelsLike": null,
         "highLow": null,
         "humidity": "85%",
-        "wind": "0.3 m/s",
+        "wind": "0.7 m/s",
         "rainChance": "0%",
-        "pm10": "59.5 μg/m³",
-        "pm25": "41.0 μg/m³",
+        "pm10": "60.5 μg/m³",
+        "pm25": "42.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-04-18 01:00"
+        "airQualityIndex": "58",
+        "updatedAt": "2026-04-18 02:00"
       },
       {
         "location": "익산",
@@ -87,13 +87,13 @@ window.DASHBOARD_DATA = {
         "feelsLike": null,
         "highLow": null,
         "humidity": "95%",
-        "wind": "2.2 m/s",
+        "wind": "2.7 m/s",
         "rainChance": "20%",
-        "pm10": "41.9 μg/m³",
-        "pm25": "35.5 μg/m³",
+        "pm10": "41.1 μg/m³",
+        "pm25": "35.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-04-18 01:00"
+        "airQualityIndex": "59",
+        "updatedAt": "2026-04-18 02:00"
       }
     ]
   },
@@ -120,12 +120,12 @@ window.DASHBOARD_DATA = {
             "price": "1,959원/L"
           },
           {
-            "district": "성동구",
-            "price": "1,959원/L"
+            "district": "양천구",
+            "price": "1,966원/L"
           },
           {
-            "district": "구로구",
-            "price": "1,960원/L"
+            "district": "강북구",
+            "price": "1,967원/L"
           }
         ]
       },
@@ -135,7 +135,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "중구",
         "stationName": "오일캠프주유소",
         "address": "인천 중구 축항대로 282 (신흥동3가)",
-        "updatedAt": "2026-04-17 23:43:08",
+        "updatedAt": "2026-04-18 00:52:34",
         "districtSamples": [
           {
             "district": "중구",
@@ -177,28 +177,28 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "'공급망위험 분쟁' 앤트로픽, 백악관 회동…미토스도입 논의할듯",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjJRM3BQYXJMaG5EQm5LVDA1OUtmeDcwM0N0NnV2Nk9DT2h4X3RLUTd5SXVKQ1JqYUZhbWxqVGlVSjVOeDN1aHpaY0FpRWJNLUhRUWZaN3hYTkx0ZFZtZk9YbE12X2tYNmlNLUdzSU5zUjd0SUdZZjBib1g2MF9jdVdmQkRfc29zWF9tMVU1VjNPMm8ySDVZa1JNbmtTcDVydklPVWMzRERxejd4MVZJMWY5dDZ5R2p1?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:10:54 GMT"
-    },
-    {
-      "title": "발언대로 향하는 사회민주당 한창민 대표",
+      "title": "[지표로 보는 경제]4월 18일",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82SlVyOXh3cGs4U0Flb1luNjJNU3NPZHVSUmNvTTllZVVJSmp2dUNkUk51UlI4XzA2NVRKMkFzcE16Smp3VklBWDk3TlZsZHBKaHdWdkVxMk1MdzhYTi1pV1ZrZ3RPbGxVMU1STEdB?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 15:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLSGx4YVViUDRHSHZlUEtmcWZuUG5WQ0c2YkcwcU9jRzNrUU9JdENHdDh6WXpNTno1Tkd5QVlBd1JiYi1tSDJpR2YydHp0SThvNFJyeEJ3UE5rT1NGZUFtaG05TGVxNm1mYWdn?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:42:00 GMT"
     },
     {
-      "title": "2026년 4월 17일 세계 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZlVGaEJ3N21MRXNVNmV2T29fVVYzQV9GS1RjLUgteHpOMmE5SWdsREpWMXh2Z0NyWFhKMU45azVXTFQzV0MzNm10NTlSVV9Kd2w2bEhiVlM0cnVybXpPRUVMWTRranpsal9laWxCNGZacU9qYkVsclFNLVNpZW8?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 15:24:58 GMT"
+      "title": "금정구, 올해 1만2849개 일자리 창출 목표",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSERJVmdVM1M5bmMtQm9saHVqQllZTjBCSV9ReFY1NWZ1MENwNnI1VjNZaFdUYjdERnBuLTBsOUo0V25KVENqQWpsdjhrdFFFNW1Td0c1TU1oVkhsLVRrbEN2ZW5XMzRGRHB2VGJaREtoT2I1M25yUnZDMEhhRDVoaERiLWpTTm44X2RRVmJDVmpVVFZ3SjdNZkNuVkpqNzRibnlhTTNEdTZOU1VNU2pxYjdjZmw0YU0t?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:15:55 GMT"
     },
     {
-      "title": "[美특징주]여행株, 유가 급락에 일제히 상승…항공·크루즈株 강세",
+      "title": "[美특징주]알코아, 중동 갈등·기상 악화에 1Q '어닝 쇼크'…주가 7%↓",
       "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHVFU1NCa2FkWnpXaEFCZUhydFE0MGtFM1V2SEV1dDJsaVI2ZU1EZjhTaHJtWjQxRE4xakNoUllzb2xReWRUZVY2SlpsRXhNSjNESWNmbVJONEdBaEFfOG03VjRBcDAxT2NYOW9ubmlhSFVfYndlaTFNc1RHblROYg?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:00:06 GMT"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2RVRU55d3FnOW96YUl0MkdGYkU2MWpkNlpRSk0zZlh5WktRdlI5WnV2VllYS3d0dS1rc0V4Q0p1X25id3NrZUY0aG0waVVySlVQaUxoLVllY2dRWlg2UUFna0c1TG5mSEEzbHZ0ZUlNVTNsblRWNVp5T3haZmE0bg?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:38:49 GMT"
+    },
+    {
+      "title": "토론하는 오기형 의원",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mcTZoeWtBMzJ6dzRoWVFBa0lfVXhlV3MycFY3LWJUMEM3UkNXVnBSSkUyeWtVRUpGd1p3enpJbS1rcnVxQk9GTUFwNW1aamNSenAw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:35:00 GMT"
     },
     {
       "title": "영화의전당, 한불 수교 140주년 2026 프랑스 영화주간",
@@ -207,34 +207,34 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Fri, 17 Apr 2026 16:15:55 GMT"
     },
     {
-      "title": "[속보] '사실상 지구당 부활·광역 비례 증원' 본회의 통과",
+      "title": "트럼프 \"美·이란, 아마 이번주말 회담…1~2일내 협상타결\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wRVFlY0w3YktLLVFwSTdlMGpSR2FwcGs1bHNTY2JxMTF2c0w3bDczNDNCMmRjTTdVSnlyRkdMMU9COUFXeGNuWFZKUGZGT0NfLTJR?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jVmtNVXVIcWNneHcwWXRtcXBDaVFjS3VWTkZfTVNGMXV1LXBmdDBVWDJNWFFqT0FtWmV3N0dxeThwSm1YQUxFbGJFUkcxTXFZVHo3NXcxaDdLYmgwSVJHZw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:03:00 GMT"
     },
     {
-      "title": "2026년 4월 17일 베트남 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUjh5aV94Y2dMc2ZQLWR1aFhQaDU5dThzRlFVMy0xMHJGdlVITi1ONUpRcVRBbWcwc08xeUZ6QUNxMzNYU0lGVDBuZnFEaHNIT1hmS3R4bzVoUjJiYTJQaTV3T1NtU1YzNi1ISzJpVVcxUHY0dFU5R1YwTmN2LVU?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 15:24:58 GMT"
-    },
-    {
-      "title": "22년 만에 사실상 '지구당' 부활",
+      "title": "폭력 시달리는 우크라 징집 공무원…피해 600건 넘어",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Fd2pkdkdlRU1QT1hvYzVXdjM4ZUR4S1ZrUWROakEyM19xdXA5RWJiYmF0NGtsbTg5OXY5d0l6RWxsdVpfZ2NJVUdlYm1jNl9YNXpr?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 16:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zSDk4MTQ0Qk45bXlfNjhJal94cTc5bU5RZk15RUlKSkFSN0s3YWxtQk4zTFJ0TG5VblBPejBfYkVWVGhTWm9sRXZIS01XX3EyMmZj?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:41:00 GMT"
     },
     {
-      "title": "트럼프, 호르무즈 봉쇄 종료 선언…'핵잔해도 모두 수거'(종합)",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeG9OdGx0OEZJbDJGS2lVZm5zcmtPeEdFV3RUQ3AtZ0Z1SDViR21DR1kwSGo5WjJmNzNzcm9LODVuMmYxSC1NY1JCYWhxcFE3dEpTdEQ3ZEZlaDlmTDRDVFJsMUFDekk1SU9WUWxhR1VyOHpfXzFvQ1N0bTBfNWw5a2RNYlpzeVFxTTZkeUNJZE5oa1pFakNuM3dydi1CaGFVUXQyb3lvQjAzRGQwQmxrbldIMFZyVDQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 15:30:49 GMT"
-    },
-    {
-      "title": "[북카페] '동아시아의 풀뿌리 세계시민' 외",
+      "title": "[책의 향기]하버드 학생은 왜 '유나바머'가 됐나",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhd0MzalRRdjNWMUJfRE1Lbmo0cFFoNHhoWUFYLWkyb3psQjF6RVB4UmVFQ0tiT3FjSmFweXhJWnR5T2dmdXFhc0gwZi16dEJkWDNN?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 15:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oSVF1dmp2U284cy03Z0JXMEJiaVNYakttbk10LXZHd0lJbU82QkxQZmxDUlJreVIxa01meGdmZlhVSUZ6M0RHMzMwLWs3RnR1bVh3?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:42:00 GMT"
+    },
+    {
+      "title": "'지선서 광역 중대선거구 일부 도입' 공직선거법 개정안 본회의 통과",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZNGtZZUlsUEg1OXlEc0c4S3p6eVMyelZoSzdmaEJabWlxZ1BDZWRfa1d2a04weTBzbHBVaDRzRElFYWJudFdJMHkzcW0yd2pja1c0?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:22:00 GMT"
+    },
+    {
+      "title": "취업해도 '빚'의 늪…학자금 체납액 '역대 최대'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xc3ctQ2taZ2FCc1pnNEZzVWJCUzBoU3hNeGJULVlRTHpRNklYLTdhcjFkYkNocWRMcjlSMHZNeXJUX2ZJdHFnQ3NRbFZlYmlJNlE4?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 16:39:00 GMT"
     }
   ],
   "sources": [
