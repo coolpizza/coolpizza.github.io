@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-18T07:02:01.397150+09:00",
+  "generatedAt": "2026-04-18T07:38:39.638806+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "10.0°C",
+        "temperature": "11.0°C",
         "feelsLike": null,
         "highLow": null,
-        "humidity": "90%",
-        "wind": "0.2 m/s",
+        "humidity": "85%",
+        "wind": "0.3 m/s",
         "rainChance": "0%",
-        "pm10": "68.7 μg/m³",
-        "pm25": "53.0 μg/m³",
+        "pm10": "64.5 μg/m³",
+        "pm25": "53.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "63",
-        "updatedAt": "2026-04-18 06:00"
+        "airQualityIndex": "62",
+        "updatedAt": "2026-04-18 07:00"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "11.0°C",
+        "temperature": "12.0°C",
         "feelsLike": null,
         "highLow": null,
         "humidity": "90%",
-        "wind": "2.5 m/s",
+        "wind": "2.4 m/s",
         "rainChance": "0%",
-        "pm10": "44.5 μg/m³",
-        "pm25": "39.2 μg/m³",
+        "pm10": "46.9 μg/m³",
+        "pm25": "40.4 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-18 06:00"
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-18 07:00"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "title": "1부 오늘의 주요뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85blpTbk9MbG90dG5qYnlfTnQ5bFlZT1NoZGczZTR6aDhuOWk4NnQ1RWNIYlVRVjEtTk1VcGloaGEzZjdpT3ZydmxFMlBQcWlYaFNVYzdxa1BXbmdEM2hfUVVDVFF6bnZFT3FkMDhNb3h4Zkw5cEhfb1hB0gF6QVVfeXFMT1V0QUZOY29YaVRrb0l0eGR6Ry1EQ2RHaUw0cWRkbzNrNDBublBKaW9nODN1a2pDR2dVZ1liQXdvUzlndk1kelBZVHVGNEI4SU1KMm1zdks4RzNsb21DTG05Mms3cm42M3RlMjNOcC1lQlpLZXRUX3ZxVUE?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:01:27 GMT"
+    },
+    {
+      "title": "미·이란, 20일 파키스탄서 2차 종전담판 전망…이견 좁힐까",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGktUG11N2hCLTZZVDJBS3BJU2kyQ2NJek54MERQRm1Wb0cxenlzU0pubU1fVXJNUFRzNDNXMk9DNFN0eUZWWGFWTl9jY19fNFo1SHpud1FqWDg3aTE5LTF3R0lFbnJLblFvbVVtbmJKbnRTc1VQWWxFNHltaVlFeE1PQUx5d2JEY1A3d2kwS0VhUDNYc1l6cXRIRnhSbmE4bHhVaWJzQ0RRSjlWY2RaU1BzMW9NQjA5OXlDdUhyaEhwbWtSVDM0ZWV3?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:36:40 GMT"
+    },
+    {
+      "title": "에너지 위기에 높아진 목소리 \"더러운 연료와 작별\"[동남아시아 TODAY]",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10eDVIV1JfLXpiRDVPTEJxMDAzSExUd1kwSUVWOTRKWjE5di1jMEEyTXkxYUhtcTFaMlA0VjdoTDJnTUcyZDhJU3FxWVZxV3ctSU5BUnBCNmx4MmdHN1E?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:00:00 GMT"
+    },
+    {
+      "title": "\"상선에 호르무즈 개방\"‥\"해상봉쇄는 유지\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGs0LXR2RExQNm5HeVZ1blhGUkJEQ2JWb0F1RGJKdXJ3RUU5eXdLMkRCVDBhbUFfazVoT3A0aWVJLXVMNzRzTHhHUm5wVnpwUmttT1lqOE5qOEY3OENPN3dHeFY4M040aUw4WlBQaldiQW16VkJCTWQ3UDhlN2t0YmVGa3MwWWFZUE1ZSW41Y0t3am9DQk1wVHdEdW5icEUzZ0NHc2J3ZzRRV2ZBUEtXS0NsOVJ1WjZST2JITkotNEo0d9IBekFVX3lxTFBtdTh5X0djMmUwY1BMZ1FpRF81eS16NzkzX2N3ZVprNUZEM2dMNWJESEc2bnV6c3d6ODFYS0owVzBkSld3X2huSW1NbzA5Z0RpZ3I3aVVlQkgzaDFhSnlFWTJWNWNCTHRMdldISTlJSk03S3U0UDVsVGh3?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:03:46 GMT"
+    },
+    {
+      "title": "트럼프 '이란과 협상중이고, 주말에도…중대이견 그리 많지않아'(종합2보)",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFZ6ckNKaUZmNUFZdEFEaEpFX1FIYmgxbG5jNnFmZnJxc1BwMExzUVBmd3huZWtvR3FoSVRoTV9uQVNUN2VjaC10c1FQYjJiMUNCUlowRWc3eW9LNnZzaXRRNENpQ2h5VWQ4YUJRYTlkV0EtYTQzaXVBZHZYcURkdVFwOTJVVFBWc0YxZ2lla2trMmVfMldlUVVSYVNmTm4xTEhaMVViV19VTXB2cmVIa0xSN1J5bTBHbEhr?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:10:06 GMT"
+    },
+    {
+      "title": "'메타, 내달 전체 인력 10% 구조조정…하반기에 추가 감원'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXNPTlp3TWppQlpiTDhSc2U5dEtGejVIazNaUmtHQnE0a050MXlPMFdTUzV1VzF4NlVDRmpPeWlFb1BOcjJOdlU1Mm1pUm9ZUkdoQjBlY3M1WjVMTVUwQnJRQ0MxeGJISlIzT2VaV0M3bEhocVVNaG1qOU9UOElkWXl3YzFVemNBSm5CZFpPTzZxSk16cjN2UElmaGZ6dkp1ZzZBOXBzN0RtMG54LTdzVkZ2RUpiOGpw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:26:38 GMT"
+    },
+    {
+      "title": "빵지순례부터 반값 장보기까지…백화점·마트 가볼까[위클리 쇼핑]",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVJHX0R6c1VpbmVLZFpmVDl5cDZHUkVta05WVWI1UnpCRmZIaVpoMnpmZmhmWUhQRWJnVzhWejlBUm9MQjdJX1c0WHFxdXA1LS02dFB3MXlsZDZ4OFItYlo2a1pRRGg3Q2R5UDU5M3ZWSE10elF5Z3B2WHA1Q0NKVFJxQ3d5X3psOVNaTEk4VWlEYm5XV0ZPdjY3Qzhic1JJd1ZoRkUzS0ozbElyVDBZVUhyY2pzOVJTdVE?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:17:17 GMT"
+    },
+    {
+      "title": "'협상 순항' 강조한 트럼프…\"남은 쟁점 많지 않아\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxVmlIYlNieDM0eXdZdmpFMDlRMzlJSlJ2WlBXNUZYTXVPZFVSZ3IyU1BWclQzb1VjQ3E5cm1WOVdqSUlWeDEwNERqT0JHSDNtWHI4?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBObWFQSDFxZldqOS05RmUwT1djRWxxVXB4VFNfcXlPelhQa3k1UkFqT29JdGM4a251VjM4dHRCNWhMOFNJQ1dUdHAyZXJGbjc5RXpV?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:25:00 GMT"
     },
     {
-      "title": "[26년 4월 18일(토)] “엄마가 사준 3000만원어치 SK하이닉스 주식, 9억까지 올라” - 비티의 오늘 주요 뉴스 요약",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObFBRX01ybkw3MUdYLUtiRmo4UnJRUkVKam1NSXRfcmp2azlRd0NwcFFkZmd4c3Z5ak1KU0tkM3IzMnRRQ0NpRlotdUNUMGRpNDVyNVNXU3h1bUtTS29hSkFXTjF6Um9OU0RfdS1BVFFaTW1fMFY2U054QnJMTE5Bbg?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:40:00 GMT"
+      "title": "“신흥국 투자? 한국부터 담아라”…세계 1위 자산운용사의 ‘낙관론’ 근거는?",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmWFF5Ym41cnlXM01Hdml1TjkzQW1yOU5URU1KdWtRSEl3czdMVzNUMWRSSGIydUF4cTZrTjhCeE9NdWsxMF9ESGRfTUdPMmVPT1FhQTBlYkNqT1pU0gFTQVVfeXFMTmExb3FBWWpmYnQxN0ZMdFo4Zkc5em9pT0FpVEdTc3BWSkJQenVYd0Z2UUcydHhHcjVSNU5Ib2FiX3hwNHE5QVlaN1ZSRTZybHpNbTA?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 21:59:34 GMT"
     },
     {
-      "title": "대구·경북 일교차 큰 날씨…낮 기온 20∼26도",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVQwSjZGTTlBRDdMUWNmWWNzTGxLLUthRmh6cGhGem5jUzVfRzNVbHE3WEw2SS1SVlZodjBUaXBFa2YwZFR4TUhXYlhfQnAyT0ZhdGw5SUx1NldtWlZQREJxUm9Ga0tCV0ZQdXd5NVpmNFJ3MXdGc3BWbmFwVnVoSnFlMVQ3MkdGbHBFUkI3cTJUVzVSbm9MSEd5NHRvNlpJNmI5UTZUYnBOUHVtRklJT2RqR0VsbG93?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:31:47 GMT"
-    },
-    {
-      "title": "前CIA국장 수사 검사 사임…美법무부, 트럼프 정적 기소 속도?",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUmQ2SXc2S19DY1Y5UURsNndVTVI1S0tJalkteUQxbUtGRUdJOGZvNlJsS19QU0lSWnRkS0VKTy1GeS1sTF9Wa0dvalRNNnlrbVYzcFgxWnR4VjFvNk96QkRnQ0tNR3dYRWJ6MmJYQjBwaDZkX29yZnh0eWNmcWxoZDYyWVExM00zU0dNSTRvN2hpS0RCMDdTdHZKaUsyZWd3X1ZGdWd1OEJpNXVNUUtfSjR3S2FDSThC?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:51:34 GMT"
-    },
-    {
-      "title": "'광역 비례 10%→14%' 정치개혁 법안 본회의 통과",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtMVJreERGQVU2bTVheUtHX2VQemRJekotS2RqSV9OM2s2ek1DMzF6RlhjeTg4TTlpWHlBTVVwMDVUcVJDUXMybzk4cUVuWXBPRnZB?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:25:00 GMT"
-    },
-    {
-      "title": "방미 구윤철 '韓경제에 대한 국제사회 기대·관심 높아짐 느껴'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVzZxV29vdngwRjhISnhfUDdzRUVjVXZ4WXN2Y1dxMDdyeHBLTC1SUkFTU0ZSamRRYV9VSnNhWE5pUnkxRzBGa3haZUZWcnJJV1cwZi0zbjM5TXFMQTZacWp3TVJkOUdkSmQ2ZlZiSmstNHY5T1BmMWM0NHp0aWFRdG1BZVZrLWp5aDVteGNOUHBzMTdhUkJIX0RCZ1lHYWlTVktZd0ZZWlBtd3pwdVkzczRhMVZ2ZG5YYUNYd0VoNFhSVExwUUlxZm9R?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:16:44 GMT"
-    },
-    {
-      "title": "[속보] 국제유가, 급락…WTI 11%↓·브렌트 9%↓",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1od2FsMUVFdzZSSDltNUdra2dDNmNJbEFSamJYRUZkRlBoREMwZUJ5czFyQk1IZG0wOERwbFBXV1pxTmZpZkxUbGRmNWNGYXBEaERwZnM5My1COVFEdUpad0M1T2lMZ2VfcWhmMEZmaDRBWG9wSTE4Tw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:15:00 GMT"
-    },
-    {
-      "title": "기초연금 수급자라면…통신비 할인과 일자리 등 혜택 챙겨야",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjJESzhfZ2RfblJyQUowU1JUNGs4X0JmVVpSczBmd1VmVk1XOVRWQ3ZvWmtGbFBsM25kTkRRTFVSdGVCSGJkQjBDeU54VFR3aW5zZVMyLVFZQUdMcUVyR29HWlNQU0pqYjRKbWxaUEUtVlRiQVlpLVNqNlFKeS1tQWtYUEU4MWt6Znp1SkZsYUpWWnYyRTdvcjZsY1hBZVcyaUdoZGZLVVpMeF83czhMOWU2VV82R1Br?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:16:28 GMT"
-    },
-    {
-      "title": "\"사퇴 지연, 꼼수 안 쓴다\"…'미니 총선' 된 재보궐",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6N0d1d1JSdGI0NWNHdVVJdThOSWlnajhvQl94SGtuU29RdUVmcHB2VGxFQ2tiNjMydVBjd3pzNE55QXVvNzZ4dUVEOGpsMXhrb09j?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:43:00 GMT"
-    },
-    {
-      "title": "인구 107만명 늘 부족했던 의사·간호사…'AI가 해결사'[빠정예진]",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGwtaWpCS2JZbXFqVWdRUWtEb3N6QUExSGhMbGhRU25qM1ZHZkg5OExhaUFwWEd1RHAzZU9EY0p6TXpWRFBKTzA3eHg2dm9ZZG1McFJ6Qmoza3VfQkNiS0ctT0wzOHM1V3ptdElPTjQ5V080Tm5hRkhJV1RwX29GWEhOaE81cEZjSjNENGN4NV9aSlhnYlFBWENsQU0zTFdXQ2RLcEU4ZnNzRzYzSWc3eDVfeW9wRDdu?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:16:42 GMT"
+      "title": "석유화학 불가항력 확산…공급망 위기 속 사업재편도 안갯속",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IM1B2R2I1Sk9pSzBVY0JvZm5JYWRFUjIyM0NvUVdDRWs2dFgxODZTRFJjRW5zX0ViZHRmZjVEckhqbU0yZVhrakNLb09IOXJ6elNIa1BEdjBhOE9FNG0xZk1YdHo?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 22:00:00 GMT"
     }
   ],
   "sources": [
