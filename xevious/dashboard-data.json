@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T01:09:12.896493+09:00",
+  "generatedAt": "2026-04-19T02:01:03.398177+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,7 +48,7 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1100",
+      "value": "1,467.1073",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.3°C",
-        "feelsLike": "13.0°C",
+        "temperature": "12.7°C",
+        "feelsLike": "12.3°C",
         "highLow": "최고 26.2° / 최저 11.1°",
-        "humidity": "83%",
-        "wind": "3.6 m/s",
+        "humidity": "86%",
+        "wind": "4.3 m/s",
         "rainChance": "0%",
         "pm10": "78.9 μg/m³",
         "pm25": "57.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-19 01:00"
+        "updatedAt": "2026-04-19 01:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
         "temperature": "14.7°C",
-        "feelsLike": "14.5°C",
+        "feelsLike": "14.6°C",
         "highLow": "최고 24.6° / 최저 11.3°",
         "humidity": "78%",
-        "wind": "3.3 m/s",
+        "wind": "2.3 m/s",
         "rainChance": "5%",
         "pm10": "49.1 μg/m³",
         "pm25": "26.8 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "54",
-        "updatedAt": "2026-04-19 01:00"
+        "updatedAt": "2026-04-19 01:45"
       }
     ]
   },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-18 23:43:11",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-18 23:18:34",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "서울 30도 육박 초여름 더위…제주도 강한 비[오늘날씨]",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ3U0YzE5UEU2TDd6cUpyV211RmlpNlk4VkNMTXJ3R29Ba0JNMUlOcVlvWXBVZzRta2Vpc2RlTUExWmZHZlc0Z1dQbTh1enBkVzJ5LWdyZ2tmNVBPcVp4N1Vza3VfZG5XV1doVU1ZRzBjWmpxRThrZHE0XzFqOVVxWnhBWFNIMmZOVzVpUVBKbUk5dTlXMUVMLUYwanRKS3FzeHhhYWpETUtManhFSkU1QTA1ZDFSbklE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:13:25 GMT"
-    },
-    {
-      "title": "지드래곤, 손흥민과 LA서 만났다…'월클'들의 만남",
+      "title": "\"SON 옆에서 웃던 그녀, 日 여축 국대였다\" 명품 복근으로 시선 강탈…\"역시 일본 레이디 가가\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5haWZEcHV2dzRJWHQwOGJNYU9MbFRZYmlmUzl6UjBaUzIxV0lfV0RwUG1RNi1Uc05GMzQ2S0ZoMm45b1pEUHJfSE11YlBERGI0am9N?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:38:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11YVJqMW80U0FYQnNuWEVlclRKMmdfTG1hUkhYdlB4aDJoYkN3YUN0Q2ZzbktFWDlydGRiTkJVWEt0Yy1tSFE5RHZBdktDdjVOelhHUjZB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:50:00 GMT"
     },
     {
-      "title": "양상국, '시골쥐' 플러팅 기술 공개…\"女에 DM 많이 와…실제 인기 많다\"[전참시][별별TV]",
+      "title": "옹진군, 장봉도 벚꽃축제서 감염병 예방 캠페인 전개",
+      "source": "서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04NVU2Zi03T3Z6aDZRdVU3Vjd0b1lPaXVKWEZVMTZNdTJsTlE3MmdmOUNFekJGRy1tWENhekgtdE9jQzhNMmN2VmlNSUp3bnlZX2tvRDBXY19RQ1lPaEk5Q0dlRmdodm5FY1JB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:18:16 GMT"
+    },
+    {
+      "title": "'70억 유산 거부→장례식 불참' 헐크 호건 딸, 뒤로는 경찰 찾아 '바디캠 영상' 요구 이유 \"부친 사망 마약 때문 아니다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iRGIwekhrMlBTS1ZVbWlYZXIwS1NwZ19FblpiencxMmM5OVlUb1NjOFNQZy1lUHB6U0pBM18zZENicm5tem10ODk4Zmh5Wmd6bGN4YWR1TzhIN3VsS0UyLXJRbXF1Szho?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ycTJ1OWZoR01yZzJnMVdoVHNycEF4UkhQVENjemlSOXRhRkFIck03dWdGc1RxMzRGaUdVRXR4OE94dFlxMDBqODBuVVVUcTl0VDBYU05xUlNqMHB3R1o1VGR1dDQwMlJTRmxmdWhNTi1QbUhoMEM3eA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:31:00 GMT"
     },
     {
-      "title": "'10년 차 레이서' 양상국, 빗길 레이싱 중 정면 충돌…\"불타는 차에서 겨우 탈출\"[전참시][★밤TView]",
+      "title": "황희찬 좌절 '교체+15분 활약' 팀 패배 막긴 부족했다···울버햄튼, 리즈에 0-3 패 '2부 강등' 가시화[PL·리뷰]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GLTJWQkExU0NHTF93YWRFQ0diN3o0SHduSnJsa2lOU3ZxM1ZjMnJuNEhzVjlhOHgxMElyaF9mZHB1N25obDFyV1gwOWRzbnM1S253?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:38:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LbW5mTzBNUnlaM3RTazAzbXBWUFNzSmJQeGwwajE1OFk0dzRXSHFuc1Vpb3hvb0xyZERsTjE3LTJiQnlKY2JIak85Wk5ueTVXcnlkUGJBYzUzUHNrb0Yxb0hXSFBlN29X?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:25:00 GMT"
     },
     {
-      "title": "美, 니카라과 내무차관 美입국 금지 제재…\"인권침해 연루\"",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xYjVmZDBSRVdIbGRib2pzcmViR2c1NThpdzNySnBLbThOSjMyUEJ4LUFNcVNGd3BDZl9FS09lenAzNGNmLVJ2QW1tTE05YTZpWUlSckhfdk1LQ1nSAWBBVV95cUxNaC1KbTIwZ2g1TG85QTEzYmlHQmE4RWxudUwtWUI4bnJPaHIxQkp4Ry1RRzJmTGwzcXp4bjRiejVGUmNraFN5Y3lFSXVuczJjcnhDb3J6ajBzTWR4Ui1jSXQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:13:36 GMT"
-    },
-    {
-      "title": "“너도나도 일본 간다더니”…여행객 1500만명 눈앞에 ‘증편 카드’ 나왔다",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oSTJKUUdkUUp0dlV6RjFaQkJjek9NVF9kZGVpSU8zUHZ3dENDcG1aSkpLdUpBRTg5NjZ4Ql9oaTVUVUtDZTVBZnY2QmM5elgxVU81bHZoY1E4SUY40gFTQVVfeXFMT21XMWpEWHZwMkptbmd6SkFzWkNmZFNnTExSdWNvWUQ4clNUVkxfQks2WXYtNEhFQzQwRUpCd3JIbjBXODl5NFlzVlZscGNZSllWRnc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:39:00 GMT"
-    },
-    {
-      "title": "[법조트렌드①] 검사라는 명패는 왜 시민에게 공포가 됐나",
-      "source": "케이트렌디뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VTW9ZN0ZWX0RJTnNtelozVUFNNmNieXVMMjRHbVJndkc2ZGRnMjh6NTRNLWFWMF95bml2YzJPSGN0dUdyWGVrN3N3Zkh2THNwazAxcjhSTEpLQzVoaWN2alN4OFBMZmNYR2VYYUpmRQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:41:41 GMT"
-    },
-    {
-      "title": "한화 2군에 'ERA 0.86' 괴물이 산다, '불꽃야구 그 투수' 2주 뒤면 콜업 가능",
+      "title": "우크라 \"크림반도서 러 군함 3척에 드론 공습\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaZmtnVVcyWDdDLU8yeUJWWkVfYk9SVFhTWHlRRXMwSEVtZk5rRzhRaEdVNjM3Q2lSdkdwR1FRSUx4TjNHNVcyMTQyWmhtRlhnTFE5dEtjdFZJOS1peWtnQ2ZsMThWdDZLcEdsRXZNcDBWV0U2TElaUQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uWi1mc2VVVUtqSTJUM3BHUVNrRlpQdlhaTWFEOGVHSHBZTzZUS05falFYRWxOVVQ2dHJSM3JUczlRQ0pvanZWdVNFeGNWdERVVUhB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:20:00 GMT"
     },
     {
-      "title": "동공 풀려 길바닥에 꿇은 '골프 황제'…우즈, 마약성 진통제 처방 기록도 은폐 시도 \"사생활이다\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16WUhINEhmSGdVbzdOSmI2TWFvWFRrN29mN2lTVVN3d0l5UUxkNlZNcEMzaG5LQnVUZkd2ekR0YkdTZjd5STJaTUN4NDNVOUI3NGstZ25VVkpGeFNq?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:55:00 GMT"
+      "title": "\"美, 이란 선박 전방위 나포 준비\"…'경제전' 수위 높여 협상 압박",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHQUk3LXBiQUJVYnI4S0RKVS14elBxbV9Uc2QwVTdxUFFHejR2MUZWV2swS2ZNcXdyYkpNTEZWeVpXbTNPd1pSaHhud1J1bFlPV2hMT1lQZ3VZUzZzNFZ5X9IBeEFVX3lxTE9lYWpPV3MzR3RScTdyUDVnQkRhakZZc3V5UDhWWjd0Y3NWem1FWkM1QlduQk9EQ3BaQ19SNWxrTjFDU3NlSF9DZEhxcFVZb3NleHEzbDNzemJrcDhRYzlFaEozQ1E4LS1MT3BNNzl0QlVhR2tlcVRrdA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:44:49 GMT"
     },
     {
-      "title": "'비극' EPL 레전드, 48세에 열차 사고로 사망 \"차량과 기차 충돌…경위 조사 중\"",
+      "title": "[르뽀] 푸꾸옥, APEC 국제행사 대비 관광·비즈니스 인프라 확충",
+      "source": "디스커버리뉴스(DISCOVERYNEWS)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02YUx3QlNJeGFZX1BRMWZUd0xJbEROS2IwZ3ktMkhZVy0yVXV0MmtXZVZ3UmNjZXVPN3YwZlRXMldoOGZaTDRhREVZSkstNFI0U29vZWZkUllPWklYX0ZMM3NJZFpObWw0RnlPQ1NDOFVQQQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:32:30 GMT"
+    },
+    {
+      "title": "방위산업 뉴스 4월 18일: 미 공군, AI 지휘 시스템 도입 예정",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQlJfRFdiVm9LbzRFNHdxWFN4UkNjaGJhT0lPSkdpLWZjRXlsNkFQaTFqbi0tUDBkVC1iQzdOUThLRDF1eEp6MzlWUV9qYWZMMDN6UUhPeUpfN0Jjb3JXcVlaTThKUnN3LTh2MFlaemdQbnBrSllhM2VPdGVXcTZlSzNOcmIzbjlXbWpZdVpIdVRVMmtC?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:11:05 GMT"
+    },
+    {
+      "title": "RAVE 펌프앤덤프 의혹…$25000 현상금, 거래소 압박",
+      "source": "BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPZUxpcVM1U2F1QUhHUVpLOWV4eVZoUTQwMWtjalpUMi1aTmszSi1Td3lvVWJURURQbmhzTEJQbjYxb1pTNndqOG94Y0dBSmZrRTBmMmF0bXZfd0RrNlhiZUVWLTZoeUpEVzEw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:13:29 GMT"
+    },
+    {
+      "title": "'80주년' 국립민속박물관 \"한국 넘어 세계민속박물관 도약을\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZU1NnS2ZNVmZUZTRuQTFJb19ZdUk1dnBlUkJPZDdHY3F3WWxSOXBfTFJtZjhKNFRZamFKcHpjMzJKMjVUUHdhbENvN25VaGduS2J6SWMzc1NMZWppMV93QUVBT3pEUGoyOWRhNGRDZkphS3hRTVVNZQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TZGpSQ09CdHRQblp5a2dwX3V1Z2dEX0pUazBWNWRjckZURzd0Sk40Uno5SkJ5WG82UlFmejV1Rkw3bkpQWVZLTWUyTGtQa0tzSG8zalUwS2NNZzRPclN3Wg?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:55:00 GMT"
     }
   ],
   "sources": [
