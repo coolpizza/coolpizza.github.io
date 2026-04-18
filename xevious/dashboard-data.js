@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-19T07:23:15.452574+09:00",
+  "generatedAt": "2026-04-19T08:01:45.727586+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -56,11 +56,11 @@ window.DASHBOARD_DATA = {
     },
     {
       "label": "100엔/원",
-      "value": "927.69",
-      "change": "-0.31",
+      "value": "924.73",
+      "change": "-0.27",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-19 06:18"
+      "updatedAt": "2026-04-19 07:52"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "10.0°C",
-        "feelsLike": "9.3°C",
+        "temperature": "11.4°C",
+        "feelsLike": "11.0°C",
         "highLow": "최고 25.6° / 최저 9.6°",
-        "humidity": "94%",
-        "wind": "3.3 m/s",
+        "humidity": "88%",
+        "wind": "1.6 m/s",
         "rainChance": "0%",
-        "pm10": "102.9 μg/m³",
-        "pm25": "61.9 μg/m³",
+        "pm10": "75.2 μg/m³",
+        "pm25": "59.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-04-19 07:15"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-04-19 07:45"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "12.1°C",
-        "feelsLike": "11.8°C",
+        "temperature": "13.0°C",
+        "feelsLike": "13.1°C",
         "highLow": "최고 24.8° / 최저 11.1°",
-        "humidity": "97%",
-        "wind": "5.6 m/s",
+        "humidity": "96%",
+        "wind": "4.6 m/s",
         "rainChance": "5%",
-        "pm10": "41.3 μg/m³",
-        "pm25": "30.5 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "50",
-        "updatedAt": "2026-04-19 07:15"
+        "pm10": "33.1 μg/m³",
+        "pm25": "23.8 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "39",
+        "updatedAt": "2026-04-19 07:45"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "NCC 가동률 60%대로 하락…나프타 대란에 정부 '전방위 총력전'",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nUHRISHhpdVVOZUs2bXpISWNpek5yQU1DSU1hbzlGVVozRW1maGp4ZFpJMDBwUkh0RkxkSmdWRklmWTZqUnE4ZFJHMFN2bl9IQUVlUA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:35:00 GMT"
+    },
+    {
+      "title": "민주주의 출발점 4·19…부산, 66주년 기념식 개최",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnBXU1R5eXhJa2tZdzFKczA5WUdhZ09za0FodHIwbmczcGJ1MGllR1FZOTBxbk1aeWJVVEVPNWFpS0tTYXlMeWYwTWwzQjFPZlVXaUprdHdwXzNWVUgtSHBob0RjdDJpaEdHUHdlZTZsRDA5eE1fRUpFamxSMDNOUkM3WXg4d1hSTGZIUTRtQU03ajlwSHFBWUJoWk1wc3lxSlF2TV9LOEI3SmhNRC1wbVJkaUtDY29x?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:59:50 GMT"
+    },
+    {
+      "title": "합참, 北 또 탄도 미사일 발사…발사체 제원 분석 중",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MbjZCQlVXU3RMYlJnLXJXNkJGbjRmTC1XTWE2cVJkSnVNWkJLR3BONmp2ZkJGdk8xT1lVMnZ6YWRGb01tTEFDdFZTb3ZrX21wRkZ3?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:37:00 GMT"
+    },
+    {
+      "title": "[특파원 시선] 덜레스 국제공항의 訪美 사절단들",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzN5eTJ5eFNjVVJtR3lweDBEWUxQbmRjZ1VZWGNiajVueDhkUHJpamJSZkFHM2NJVFVxQ3Q5RVcyNTRORy1mQUxFM3BLYjRJXzVtQnhUYVdFam9LWENjVnRaV0padnh3R1M1RTRheXpTVEhMM0lCZjFFazJfRjdxOHdYT2JPTFMxRlUxdmZlZXBNdV9fTDRzMF9ZVGZFS1VIR21vdXlTaTBYUk8xdzJYZDBTRXZkelFGRnc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:04:50 GMT"
+    },
+    {
+      "title": "합참 \"北, 동해상으로 탄도미사일 수발 발사\"…11일 만에 도발 재개",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LeGc4N2ZUalJNcDIzbE45WURBMUR4RjhqLWk5WXlGQTlCSExkLWlhNkptdWc0aFA2aVYxS1U1cE1fc2lIaGlzWmNNdHZkLXRBajdSTW1CSjUwZnBIVVNuMGk1S0dhMUFiZnNSSDJVeF9rRG5rUUlCcQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:49:00 GMT"
+    },
+    {
+      "title": "중동발 불확실성에도 유통업계는 '훈풍'…1분기 실적회복 기대",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUk16eFo1QVVMYzZHRE1IOExaNndOcHc0X3U3TkJWdUM5TDBDVlAtUlEzNVJ0ZWxfY2RteFJ4Mm1oZ1pxVWt4UWR1WHhoRVJUY2hzZm1PYTYxZklWbzUtVDFKY1ZlNEVMdFV0YXpjcWlET3lIeG1Sc1dNOE04MXo1WThDR1d3bmxqQ0pEWVEzOWR1S0VjS2xVS2VVWmRONWRUaTNTWDhLZFBBMjVGUDRGMTY4WkJiaDlIcXc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:03:58 GMT"
+    },
+    {
+      "title": "저승에서 타라고?…'2억 벤츠' 함께 묻은 중국 장례식",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UbWxwRHhHU0dTMms2UlBITGJYcm9UVTdQU1BRWXRXczVpUFlTVGtuMnFtYU5WaFBfd0FUWFpYdERfMlVleGRLbTRRYWxOM3BZTGc4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:37:00 GMT"
+    },
+    {
+      "title": "헤즈볼라 대표, 이스라엘 정전위반 보복 ..5개 조건 제시",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVN0Z3FIWXdHaU1zNk1SQUNabmNqSjhLcGlXdlNtd1ptamY5RFlBdVpzaldVdm1LTlE2MnM4elEzOWFfQV9NN1g3SC1wVm5QYThhT1dPNzAwa0xPVUVjcGZRVUNtck10VE9MRklWa01EaUhzUVVSbHVabFE2SjVLcVFDcS11ZjJubGVQLVZwTkx3dXdVSkxvWWxFRXhlelRTOUFnUUNGRVlKX0R6NEhOX3Rabl9NVVdzdlE?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:03:58 GMT"
+    },
+    {
+      "title": "'GD 열애설' 이주연 \"♥결별 이유? 내가 잘 질려서\" 쿨하게 밝혔다[스타이슈]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sZHBPc2gwQUR6emN4RENUT3A3NlkxblYzdXpYTUFiTW9sNjV0LUpWVkJhYUZnVGVrZjNSNHdlcndZWlpoY1FVMkNaUWM0TmlPUXQ4dHloWnlMc3k5ZFc1dndYQjR6dmg1?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:20:00 GMT"
+    },
+    {
       "title": "이란, 미국의 봉쇄 해제 때까지 호르무즈 폐쇄",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4eVpHb1UxZmpkTXdsbHB4Ny1ueTZoMEVlY2JNWHJtZlYwWEtPWmxNek5mRjBDYUhENTVYRDlGU19rZHhHQTRubnFCSFBXOGQzVDFxdnQ3WXpRaDQ20gFiQVVfeXFMTzlIR1JlV2M3VUFhM01kdW1yZG1Qem5vd2V0dGE2MlpqdHdENmppRkRsTDlfaG4xZ2oyZF9RYzYwTHFYZUc0Zm1KalMzc09ncEp2TUdHMUZsMm1NaE9taGh0ZkE?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 22:07:22 GMT"
-    },
-    {
-      "title": "다시 불붙은 반도체 투심…삼전 '빚투' 이달 들어 7.6% 늘어",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkFfZ0M0clRWelRYbXlCaVNBeXRrbmVLOFUwM2Z5TEs5NVpOU01ibmdwNXlPM0JVM05jdlZXQ3dqV1phU2l0MnFzSUY4LVU0WTNQVHQ4NnB4SGVzZ0xtNDBYN3ZWeE00X2U1bzVHTGFEbGFCcW9GSVRjSkJSUllpQ01MYlhlb2wyWXhMUDZSa2pRb3pkUXE3UTIyY1FnVjN3aE0zeEt3WDhFRWF5Z0JsbE5lZEtkdGlv?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:08:58 GMT"
-    },
-    {
-      "title": "[특파원 시선] 덜레스 국제공항의 訪美 사절단들",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VNFFsazd5bEY0eWlkcWVUNXZvZURRMXJTQXNDb1UyWHRfV0RHa0Nid3FoSHlRXzlNSk5ETENtTGVzMFN4alp6NGpmR1Z3WldBdFNJ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:00:00 GMT"
-    },
-    {
-      "title": "李대통령, 오늘부터 인도·베트남 순방…경제협력·공급망 공조 강화",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xSTNjbXFrVUh6UHJMN2RycDRka2FxbGdUaW11R0xRbEtJWTFIdU90cVU1bFllU2t0T09feGtkODA4Qy1wZ3dUc1RaNUVicUwxa0pKOHN2Y0t2VGtET0E0NQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:45:00 GMT"
-    },
-    {
-      "title": "'SILKY VOICE JIMIN' 방탄소년단 지민, 도쿄돔에 울려퍼진 'Heavenly Vocal'…감동 손편지 '퍼펙트'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kXzVLLUU4WHlSeC1JQXBnbjk3LTZCNFROVDVyNm5UR0F0Q054UFRBanBIc3UzcjNzaDRxLVFmVXI2dW43TGdDLW5EUkUyV0d0WFBlYXpyeW9OWEVmdnlKZQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:14:00 GMT"
-    },
-    {
-      "title": "\"10점 만점에 10점\" 이찬원도 놀란 소림사 스님들의 비밀 [서프라이즈 미스터리 살롱]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95Y0lyVHNxX0V2MnNkY1VoaUxoeDZiU21za3dlRmQzeXlscC1YV3FFR3BERzRGNWpSTkdzRTA1TmlJWVB0a2M1RkVPNm1DVEEwejVV?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:07:00 GMT"
-    },
-    {
-      "title": "티빙, 점유율 높이는 동안 적자 쌓였다…\"웨이브 합병 시급해\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hWmZ0OVhRcDRZTVFSVGJsc0RPNG85S2xRX1U1OUV0TWlZTXdwRm5KOFd4MWlDeEFBQ0l2Y1ZtYWt3X1g0TXhkYmFscVU2RHIzQ0h0RUN1ZDNrUHRrM3NLU3ExUHJRSmIyRV92YXYzT05iTGdyOUZDOQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:00:00 GMT"
-    },
-    {
-      "title": "\"정수기, 작아야 산다\"…밀리미터 단위로 번지는 '초소형화' 전쟁",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLbVFFelFuOFhXODlWa3lnb2FBSklPeWxCeFJMYkZfdU9GdFVqNVl2eDRpR0JtNklRdnZ2UEtoeEw1ajhkRUVrRWt4OFFGRFZBaHpfSE03RjhrYS1mUV9WNQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:00:00 GMT"
-    },
-    {
-      "title": "중동발 불확실성에도 유통업계는 '훈풍'…1분기 실적회복 기대",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZcF9YcUpQWWpfdmsyWlZLT2hXck9TZEk4Sm9WZGkybl8wN29TNUR2M2RyUUd6dHdRTlVxQ3JLdTVNdFFWam1uRHJMRXZoYXNoZ05z?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:01:00 GMT"
-    },
-    {
-      "title": "HD건설기계, 합병후 첫 성적표 '청신호'…영업익 전년比 31%↑ 전망",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpeUhaSzE1XzhhSmFZMkV6MUlPVUFReHY3aFdycnVLVF9HcUI3RkNueGxsTWRTS3c3SzQ4dWo0em56S1ZBWGdIUFRBZGZ1Y0JpZ1RZVlkzbk1IMWVnNlpSRA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:02:00 GMT"
     }
   ],
   "sources": [
