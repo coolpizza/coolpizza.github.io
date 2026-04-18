@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-18T12:58:36.386682+09:00",
+  "generatedAt": "2026-04-18T14:30:32.565160+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@ window.DASHBOARD_DATA = {
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 12:52"
+      "updatedAt": "2026-04-18 14:26"
     }
   ],
   "usMarkets": [
@@ -48,52 +48,52 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0393",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
-      "direction": "down",
+      "value": "1,467.1073",
+      "change": "+0.07",
+      "changePercent": "+0.00%",
+      "direction": "up",
       "updatedAt": "2026-04-18 01:07"
     },
     {
       "label": "100엔/원",
-      "value": "927.69",
-      "change": "-0.31",
-      "changePercent": "-0.03%",
-      "direction": "down",
-      "updatedAt": "2026-04-18 03:45"
+      "value": "931.21",
+      "change": "+3.21",
+      "changePercent": "+0.35%",
+      "direction": "up",
+      "updatedAt": "2026-04-18 05:26"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "맑음",
+        "summary": "흐림",
         "temperature": "22.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "30%",
-        "wind": "1.0 m/s",
+        "feelsLike": "23.9°C",
+        "highLow": "최고 23.1° / 최저 7.5°",
+        "humidity": "51%",
+        "wind": "2.6 m/s",
         "rainChance": "0%",
-        "pm10": "56.0 μg/m³",
-        "pm25": "17.9 μg/m³",
+        "pm10": "70.5 μg/m³",
+        "pm25": "18.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-18 12:00"
+        "updatedAt": "2026-04-18 14:15"
       },
       {
         "location": "익산",
-        "summary": "맑음",
-        "temperature": "23.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "45%",
-        "wind": "2.1 m/s",
+        "summary": "흐림",
+        "temperature": "24.7°C",
+        "feelsLike": "25.9°C",
+        "highLow": "최고 25.1° / 최저 9.0°",
+        "humidity": "53%",
+        "wind": "11.6 m/s",
         "rainChance": "0%",
-        "pm10": "19.4 μg/m³",
-        "pm25": "10.7 μg/m³",
+        "pm10": "56.5 μg/m³",
+        "pm25": "18.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-18 12:00"
+        "updatedAt": "2026-04-18 14:15"
       }
     ]
   },
@@ -150,12 +150,12 @@ window.DASHBOARD_DATA = {
             "price": "1,966원/L"
           },
           {
-            "district": "남동구",
+            "district": "미추홀구",
             "price": "1,967원/L"
           },
           {
-            "district": "미추홀구",
-            "price": "1,967원/L"
+            "district": "남동구",
+            "price": "1,969원/L"
           }
         ]
       },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "이 시각 주요뉴스 (26. 04. 18. 12시)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PLUk1UVBBbXN0ZmVXZlRqNVRKcXZRaldHdDhHcmJjdkJuclZLcnQ4S2twLVFZSERIT2E0MmFtMzlKdW9fYU90M3F1dlhsRVBhQWVB?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 03:23:00 GMT"
+      "title": "\"육우→한우, 호주산→뉴질랜드산\"…원산지 속인 레스토랑 직원",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HM0c1LS1WdGFYQnh5OXdmaDUzOF9lN2cxTnBCbmQtZ1Rfa2JzSVNLRm4tWXRUMnM5Y1ZmeTNwNDBNNlRWeHR5NTBYT0IxeW1XOHdCbQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 04:42:38 GMT"
     },
     {
-      "title": "트럼프 '시진핑, 호르무즈 개방 환영…역사적 회담 기대'",
+      "title": "트럼프 \"이란과 합의 안되면 휴전 연장 없이 폭격할수도\" 압박",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DT203eUVsaWtKamVPVl9yQlNTaTJ6ZWw3bVZlVWEzWlZnckl2dEI4VTJsZzNHWnhuYjAyX253V0dNTHljUEJBNW1IVW1sVUEzbUROejRMVDJpNVpHc1NYVVRDRTRET1A3b0E?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 05:07:00 GMT"
+    },
+    {
+      "title": "방탄소년단, 도쿄돔 콘서트 전석 매진→日 주요 스포츠 신문 1면 장식",
+      "source": "supple.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvOE9nSmRmS0hZc19CdWdla2hWYnExRzYyVGFVaHF3Wk1JUmtaRkZkcGVQVnlDUlpPWUNUR2hXaWhrWlVxUTRjT0QxaDB2VnpUTmJ6dzVhSTVvaFFy?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 05:20:00 GMT"
+    },
+    {
+      "title": "알파드라이브원 '멋진 모습으로 출국' [★영상]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUTHN2bnh6TUExMkRYSlhteFRiT213Vm9WT290MzNZQmRMdlAxX3BvZ0NOWUZCUi1XS0dZNlh5T0VGS0piYTEtVlFNYmQ0Z0hTZDgyRGtpaW45cXQzVEtrTQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 04:53:00 GMT"
+    },
+    {
+      "title": "벚꽃 지고 '겹벚꽃' 활짝…핑크빛으로 물든 봄나들이길",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzOWdONVNUd05BV250VEs1ZEtmMURMa1JkT0hRWGlxNjRwcTl3blk4bzROT0xiQ045VVZ4R1VDMkx1dU51S0ltRkFta3YtcEQ5QmNV?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 05:00:00 GMT"
+    },
+    {
+      "title": "민주당 전주병 선대본 지지에…조지훈 \"새로운 전주로 화답\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CYy1rR0xwcFBBTTRxSzRKM3puWXR6SjhqaW9KaV9zeHZ6TTlydFk2UUQ3c1VDWl92OVJxNGdlRWo4c1ZEVDlKTDhFMXNqaG1JVXc4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 04:50:00 GMT"
+    },
+    {
+      "title": "집 팔아 20억 차익…9000만→3억6000만원, 양도세 늘어나나 [부동산 아토즈]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKdTl6MEJqM2FnRVJuQXozTXgyYl9NQXBlZVpNb3BQVjN0RUFJUERXTHFCTjhDNmNmNk1kb2RwWW84dk1rX0ZDQldyV0xHRlBHcUVqSkRNcDNQWlhINVludGpSaWpqbmV2T2c?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 05:01:00 GMT"
+    },
+    {
+      "title": "저비용항공사 유류할증료 6배 급등…'여행 수요 위축 우려'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcnlTczJfSG5QUXpXRmtyZkZsX2pDYzBheWxhWkQ4ZmQ1VDRHVEFmbUlHT1VVSWdqcExWZXdtOWpuTmRRNWV3RjZ4elZ6YnBmNmRfVUlwRUw2TWpBNEtrTkdQeDZkNW5ONk5xTnJ6dkZCQ2pyMkxXWEJFNVRocFgzdXVPcy1pNVFvSW1Ib3BGVXBjREFhWXdEUUhhZFJGQ0dhNW5DdHMtLUYzSnpzVW5Nbm1PanFORWg4?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 03:42:34 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXpxdXBfWWFwdmRVTWRnUGdadFJLQVZJUU1EVGJVdHFvTGRQanJVR09Kc0hMa3BUekRpLW56aC1SclVyOXBUc1ZhUXFZa3JXYmx5SGtJTHA3VDJ3cl8zSGV0WmpINEVpWHdBQzRWNTFvS2lsWU1OVUo5dlRpOEFWT0pYZEt3UThDYUZwemxIc3p1WFMzbXQ0TEMzeHFsZjBfcnhKMG1OOXk0bUxOUGlmNTZ1MkFYbjA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 05:12:09 GMT"
     },
     {
-      "title": "트럼프는 왜 파키스탄을 휴전 중재국으로 '픽' 했나 [뉴스+]",
+      "title": "한국강사아카데미, ‘한국강사신문 칼럼니스트 온라인 과정’ 개설",
+      "source": "한국강사신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrNDFscWlxbnpHZTNOd2lPcHplVktpcHZZZEg0Yy1YVm9Od2RTVDIwSDdfY3lHNUNYSGRSNW5sUEpYVkdhRlNWRS1aejZLWlIxSXYyd2VvcDR0ZnhQZEhfMG11VHduS0xEN3lHdzRFVmk?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 05:08:20 GMT"
+    },
+    {
+      "title": "레오 14세 교황, AI 기술 위험성 경고…\"갈등·공포·폭력 부른다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QZ0MwbFhhOXVSa2ZuNWtFV3Jyd0VOd0FqVFhHS0V3XzRKb2o2d2tDbXdKT0k4QllEN2ZqZTNkYlhWVUp3dGQ2MXozVXdwSXJzeDdvZE9mNlIxQzNWLVlPUA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 03:50:00 GMT"
-    },
-    {
-      "title": "전북경찰, 과태료 상습 체납 차량 41대 적발…번호판 27대 영치",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUmdyNE1CY3EtLWJMQ1gyamdSUzdIXzhuQnRydDRUZGw4Z3o5YlR0TVlmTlFHOVBnWV90aGFZSFZjZHJhVmw2QmxRdUJhOTktTVJOd01JRzRtZ1lfMUhGUw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 03:54:00 GMT"
-    },
-    {
-      "title": "\"비행기 무거워 못 떠, 6명 내려라\"…승객 하차 요구한 저가 항공사",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJN0k5SzZDbkJCQ2FVb2FQaFdTYjBhbnFEa0xNQWVqbXZkcE5HOGRjQWtfOThEN3h2bVhpcFh0SkVfN2prS2h4UjdlWXBXckE2ai1qZjJMTTdGZUR5M3dCNw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 03:38:00 GMT"
-    },
-    {
-      "title": "'인플루언서 수사 무마 의혹' 경찰청 간부 직위해제",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuY2dxTFEwVXJ0dlpXNVMzLWoydmN2RGgxMFhudS00MUt6OVEwb1lSYmROQk85OXdFcW5oX3ZqOGFXTFlyWVpFaW9QanZ4TXZaOHRj?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 03:47:00 GMT"
-    },
-    {
-      "title": "'인플루언서 수사 무마' 경찰청 간부 직위해제",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xYTU2WEl2REVJUElOdjJjUXpSQ3p0dF9ZWkVtZTA2dS1XOXhxdm44VFJ1bmloSlJwLS1sS2VPN0hEM1RqRHBfbVFHT2xlVDJiRllV?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 03:15:00 GMT"
-    },
-    {
-      "title": "울산웨일즈-울산과학대, '현장 맞춤형 스포츠 인재 양성' 위해 손잡는다",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mQjRqdXgxTVFtY0JZYkFHc3VJU0l0NHZxc2dsWUhrbE54VkRrdk5rVTRXbFpTVzdsdkRfQnhNTWo3WjR0aWk5LWtPd21hMUVoMWtIREhBZDYxODBK?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 03:13:00 GMT"
-    },
-    {
-      "title": "호르무즈발 에너지 위기 속…미국, 러시아산 원유 판매 한달 더 허용",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sNGF5WnF4TW56azRlZlRySnpqc3JPc01VOW1DbVh6WjZBN0dyUXItWUZjSlFpaTdLNHMzdzR3bXdCM1RqdXdDeTA1aHZHMW04WnU4?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 03:27:00 GMT"
-    },
-    {
-      "title": "구윤철 부총리, 스콧 베선트 미국 재무장관 면담",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwLXpadFBMbGR2ckNKZG5sdHRjV3ZaVWF5YlgycERaVDhxM3E5Y0tjWDZ1Zi1qcVJqTmVtMWhrWURkaVFhaEJ5TjhjSnZGSi1zejFZ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 03:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYUjgyTmxpYkIwMGpwTjNKWlZjRnFkellQOFNsRXJEVGlWRExsejZPdWxUcHpNT2V5bWhPa0V4bFRpYnpVbzkwNHFsUU94LUpZY09Z?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 05:18:00 GMT"
     }
   ],
   "sources": [
