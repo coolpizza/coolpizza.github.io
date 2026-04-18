@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-18T20:57:01.585391+09:00",
+  "generatedAt": "2026-04-18T21:33:59.759618+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,7 +48,7 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1100",
+      "value": "1,467.1073",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
@@ -56,11 +56,11 @@ window.DASHBOARD_DATA = {
     },
     {
       "label": "100엔/원",
-      "value": "938.52",
-      "change": "+10.52",
-      "changePercent": "+1.13%",
-      "direction": "up",
-      "updatedAt": "2026-04-18 20:51"
+      "value": "927.69",
+      "change": "-0.31",
+      "changePercent": "-0.03%",
+      "direction": "down",
+      "updatedAt": "2026-04-18 21:25"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "16.4°C",
-        "feelsLike": "16.6°C",
+        "temperature": "15.9°C",
+        "feelsLike": "16.0°C",
         "highLow": "최고 23.8° / 최저 7.5°",
-        "humidity": "75%",
-        "wind": "3.3 m/s",
+        "humidity": "77%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "pm10": "51.7 μg/m³",
-        "pm25": "27.2 μg/m³",
+        "pm10": "59.6 μg/m³",
+        "pm25": "36.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-18 20:45"
+        "updatedAt": "2026-04-18 21:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "16.5°C",
-        "feelsLike": "16.8°C",
+        "temperature": "15.9°C",
+        "feelsLike": "16.4°C",
         "highLow": "최고 24.9° / 최저 9.0°",
-        "humidity": "81%",
-        "wind": "5.2 m/s",
+        "humidity": "83%",
+        "wind": "3.8 m/s",
         "rainChance": "0%",
-        "pm10": "44.8 μg/m³",
-        "pm25": "20.4 μg/m³",
+        "pm10": "50.4 μg/m³",
+        "pm25": "22.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-04-18 20:45"
+        "airQualityIndex": "57",
+        "updatedAt": "2026-04-18 21:15"
       }
     ]
   },
@@ -177,10 +177,16 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "XRP, 주요 코인 중 가장 강한 흐름…주간 수익률 8% 앞서",
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KOFF0VXBMeDdVSURxeFlyY0g2eWFhZ3RjSl9sR1ljMUdiZk5qV21TOEJSWGpiWGE5cmNGa3ZVNnIzZTBMRW5Fa2IxenlCSkRidUpOek5aY2Q0aW5Ea0RCU2t5N2RYRzJiZEk2UGhPOEFZVU0?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:04:57 GMT"
+      "title": "[6·3김해]홍태용 '시민 일상과 삶이 편안한 도시로 보답'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX25qODYwMUppMDB0YUpYNURRYmJWa3JlVzNPbU44UVFWdzJtNVhuNG9lMGFlbW5pdXhMeGRCWFU5MVBJNkpKYm1yTHJpQm9nWVFyUnhfaXM5WjNwZkQxTDlSNnlnWkJzQWhFNWdfOFpGT0JIZU1FRzF3VjYwUFFDOTFyeGRESG0xWVplSTBSVndST0oxY1JmUlZQdmNrQlo0a2lZOTNudmp4Q19YbVU4ZXBwZ3o0Rkcw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 12:13:02 GMT"
+    },
+    {
+      "title": "이란, 유조선 공격에 최고지도자까지 '강경 메시지'…긴장 재점화",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wUG93TnZtM3ZzbVJfQXE2cjNBTnN4UzIyM1RQRnNocXlNZ0RYOUZwWHRRWFJBdlZPdEx0UXZoaTZGaFNQNmdhaG5nMTNwclJ6UUlZRWdMQUlZbUYxQ1oyN3B6cmRVWWdIaXp4SF85dmNiSG5Na3FINg?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 12:28:00 GMT"
     },
     {
       "title": "이란 외무차관 '미국과 2차 협상 날짜 안잡혀'(종합)",
@@ -189,16 +195,22 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 18 Apr 2026 11:36:53 GMT"
     },
     {
-      "title": "민주당, 제주지사 후보에 위성곤 확정…광역단체장 공천 완료",
+      "title": "이란 이슬람혁명수비대 , 호르무즈서 유조선에 무경고 발포",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Y3l4Zmg5OTFFdll1aUJDWUx6V1J6S0VCZ0RlZ01Pc3NoVTl5b2N3TG9FcTNwZkJXMFRWUW9GenRCS2NYRklnVGwzMEJPS2dOb2xj?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xbnk0WnljVldoUEtFWFVhYUN1QmIxWERZTzV5NS11UzNwYnAxREpwWjFNZ0hLbWZRVnNpaHZJMXhSbWdQcHZ2TldqYzJycEJaQUMyQmtzSURCeWRmZDFNMnhkRF9WeWhFZFotamUwLTJtdER6TDEtWA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:59:00 GMT"
     },
     {
-      "title": "‘니케’ 3.5주년 업데이트…주인공은 ‘아이돌 아니스’",
-      "source": "mkbn.mk.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqYlpkZXJiWjAyWWZSRTBwTXNhX3hNMW92U3ItNXVVSW9nelZIdUhudk5iRExXUXpYTmhlNUxGU3dxRXh2OXdLV1RfdzFZdEE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:33:03 GMT"
+      "title": "로또 1220회 1등 14명·2등 85명…각 당첨금 얼마?",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUU0VPUjZrcHp0QTBaQU1vTnh4dWtGOGtPVlFBMlIxcWhUSzVzaWJfeDdzbmF1NktheHFmTXAyN19mWWxrMHo3cy1VRXpnT1JGa0ZPcVRZZmtKNGZEZ2VRVjRDZDBxODBUMlAxakVyb3c2VUV6TGtBcg?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 12:14:00 GMT"
+    },
+    {
+      "title": "[포토] 이유찬 '민석이 지금 오열'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pYWQxQVd3TzAwSEdYdHpzdUFZbGh5UVhfTXNkU01odG1sNFJtZlQ5ZURqWi0yaUVtZ0Z0ZjJlZmcxNFlWWEdOamFod2ZRdE90QWNhTWZtUGJteVVJOGtHRmVXSlBiUnMybUE?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:43:00 GMT"
     },
     {
       "title": "인플루언서 '수사 무마 의혹' 경찰 간부 직위해제",
@@ -207,34 +219,22 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 18 Apr 2026 11:37:00 GMT"
     },
     {
-      "title": "[포토] 김민석, 김원형 감독과 주먹치기",
+      "title": "고아라, 세월 역주행 미모 자랑 \"2026년 맞아?\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JWF90VHRrM29MbGI0a3hUYkJpM1hSV3RwUnJMTlFOVkM4Z0hYbHRuTWF6MV9hUjM5RVNoN3MydGl4TjkwRU5HWHFiYURITXFBS0JUajBYV2ppTEVsRjJrSTJQUUtIN0Q2amVZSlFPNlRJeXg5VGtRNQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TUjF3dV9OQWRKZDdyXzRUamlkTGF5d0paZ3RzZkVhMGNQNmJ6aEt1NVI2WExoODJQcjkya0QxQTFlWjJRWGtpdzNPWEVXNjFXZUpjR1Jpc0haaVlya254Zg?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:54:00 GMT"
     },
     {
-      "title": "[포토] 이유찬 '얼마든지 게토리 샤워'",
+      "title": "대장동 수사검사 극단선택 시도에 구자현 \"참담\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RV21ESWtvQTZtRGd0T3lRNzg0a0JrNTF5OF9FRVhCeUFIU1V5RVFVQlVscjJaWGpnUVFKTENZWUZDMzZNN2hLWi10Y2lvZG4xZHZNcEpTeTJWdDhHM19fWmJzWVZrdTdIT3hhNDFrbmM1d0RheVZiRQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43M21XSTJkYnQ5YU84RHVSbHJMRjMwVzJXSkFKNnd4WFduRHV5R05yZEhsMXQ0QXV0UGpCRVR0SUJwejBWRzU4WHBXTnE4SEJ3Mmw4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:41:00 GMT"
     },
     {
-      "title": "애플, AI 학회서 연구 60여건·기술 데모 공개",
+      "title": "'인플루언서 수사 무마 의혹' 경찰청 간부 직위 해제",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lbUpxeXdielEyMHRhMTN5WjZqcFlMYVlCeDI4NlNLNGF1VW03LUx3UWpEVzdRLUlkUWJDVFJEYlo4VHk5eUFaWmJCa01GaFkzZEhr?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:42:00 GMT"
-    },
-    {
-      "title": "부산 사상구 단독주택 화재…70대 남성 숨져",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kZk9ZZ0psbHczNUJIMEFWc2RfcHQ3YnpkS1lwWl9uLUJWdldRT1QtSHhoVzFnNjZQWlhjTk01RDA3YUlFNDdFOFlZV2w2RGI4NWhJ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:17:00 GMT"
-    },
-    {
-      "title": "험지 도는 정청래…장동혁 '집 나온 가장' 비판",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92aDkxR0xOTFBWWnVtR25FbGZmR0hNc2lGeWUtOGx5SUpVSzUwUi1JY0ZmS1B4amtrZHlBcWtOVkNKUVpQQ2VZV3hSSFRHdXdWcnM4?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EQTY3QnRFZUVRZHhzek5iUmVUMTZLemdTSmd2ZFVmX2RDT3FxLWlfLXRIR09KMndUZFpjZTBuZE5mRjktUlF1SlZJZVJ5THNFQjBv?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:37:00 GMT"
     }
   ],
   "sources": [
