@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T19:06:50.171487+09:00",
+  "generatedAt": "2026-04-18T19:46:06.983225+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1100",
+      "value": "1,467.1073",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
-      "updatedAt": "2026-04-18 18:18"
+      "updatedAt": "2026-04-18 19:22"
     },
     {
       "label": "100엔/원",
-      "value": "938.52",
-      "change": "+10.52",
-      "changePercent": "+1.13%",
+      "value": "928.29",
+      "change": "+3.29",
+      "changePercent": "+0.36%",
       "direction": "up",
-      "updatedAt": "2026-04-18 18:57"
+      "updatedAt": "2026-04-18 19:39"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "18.9°C",
-        "feelsLike": "18.8°C",
+        "temperature": "17.2°C",
+        "feelsLike": "17.0°C",
         "highLow": "최고 23.3° / 최저 7.5°",
-        "humidity": "63%",
-        "wind": "4.4 m/s",
+        "humidity": "68%",
+        "wind": "4.5 m/s",
         "rainChance": "0%",
-        "pm10": "67.3 μg/m³",
-        "pm25": "19.3 μg/m³",
+        "pm10": "52.4 μg/m³",
+        "pm25": "21.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "64",
-        "updatedAt": "2026-04-18 18:45"
+        "airQualityIndex": "63",
+        "updatedAt": "2026-04-18 19:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "20.1°C",
-        "feelsLike": "20.8°C",
+        "temperature": "18.4°C",
+        "feelsLike": "19.3°C",
         "highLow": "최고 24.9° / 최저 9.0°",
-        "humidity": "67%",
-        "wind": "3.9 m/s",
+        "humidity": "76%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "pm10": "79.4 μg/m³",
-        "pm25": "23.8 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-18 18:45"
+        "pm10": "40.3 μg/m³",
+        "pm25": "17.3 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "60",
+        "updatedAt": "2026-04-18 19:30"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "'이란, 美와 2차 협상 아직 합의 안 해'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1huR0xFeFY5M1BnMDNiaWtKaEhSa090eWhzZTE5YlRIcEk1MkJGUHJpSnlBczZtdG1pN1NEZDNBMnctdUN1Rnpzb0dRQWk3UHpKM0FBVDdMOFNDVEVpV3hPQ1otMUVoaFNjZ1JITDkzVEh4QzRCRzJMR3V3S2RPWHV2c3FwZG9NUS1SRjQ4ZlZLeFpSUlpqdXZHWkRPWEdLX09GNGdNanRXR0dXVlIzdzZlR3hYMG1z?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 10:03:14 GMT"
-    },
-    {
-      "title": "[포토] 백재현 '짜릿한 동점타'",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtcmsyQWFkRDNFUVlzRVVxcnJ1Tkc1NG0tdU5nWG9YS2hrZ0NOdWVSajJZNmpkb1JoTkM0TzJLYmxVNmZaTmRtZVlGT18xVWF1ZUl3akRCbVF2UWhL?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 09:59:00 GMT"
-    },
-    {
-      "title": "안호영 \"이원택 재감찰, 납득할 결론 나와야\"",
+      "title": "4월 18일 MBN 뉴스센터 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyb3BXUHJGdjJHNnhvT0hVbVpMLTZXZURMOEc1UjNNNlFtbGV2d3JpZWFCa0I1b215eTg0NkluMTZxUWJLdWNnZXk1T0x4ckpidEpB?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 09:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtbVRvVHE3SnJ5UVlnd0REUEI2akc2cUoxR2Fsa3I1QktLbUU4cC0yX3pOQUZjTEdBM2t0UklETzN0VXN4aGxYSzJUdzBEUWx3cmRR?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 10:37:00 GMT"
     },
     {
-      "title": "이란, 호르무즈 해협 개방 발표 하루 만에 번복…군부 \"다시 통제\"",
+      "title": "따뜻한 봄 날씨에 피크닉 나선 시민들",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OGkxMktYN3dTbV9CUGVRenIyZDVFdDVncU9fUG4wVndzUnlLWkhoWXNYeUxoQU01bkcxdFc1T2FNNUhaYkxCbmhUYnBnZFUxcFJFQjR4bmhFMndNZDU1eFV0TGtZTGNnOGladjZPSXlZTXhXaHY3bg?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 09:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11N2lEdTVVek8taF8yc09OZ1owclgzaW56NnJDcTJ2V0x4NEQ3c0JrcnRoajdVLUR5eGk2dERsSno4Z3RFSU9ObXJlREExN28wN1Rn?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 10:23:00 GMT"
     },
     {
-      "title": "[포토] 나성범 '슬슬 추격해볼까'",
+      "title": "[포토] 김범수 '무조건 막는다' : 네이트 스포츠",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5OVpybmREbFZoRGp4RnVwcU5vVkdLdDV3U1V5WGJ5cndRREhiLUNMaVN1WE9oVmczVnBrRlJpRUt0Y2hNRlFNSk1BN2J2ZUZvaW9nNDF1c2VtTE9Yc2RteDFfMS13dWlpR2c?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 09:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ibTJpMVA0STA3R253VWwwdFN4MVhseV9od2JZYmRGcnNUOXdSeE9Lc1NHMWtoY3R5R0xkUUZ1UWdsYk9LaWVoRjNhNTgxQXFMYm1RdnZB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 10:34:00 GMT"
     },
     {
-      "title": "\"일본 남성이 성추행\" 주장 확산…경찰 사실관계 수사",
+      "title": "고양 10층 건물 옥상서 고등학생 추락사···경찰 조사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2aTZvbWcxaGdheDZlaWdfZWhXeWo4dHVoT09YMVNDelhMVS15dFFSTFZNZlVFLXl4X2NQQVlkZ2MzUjhnTTV2WWVNUUt2VHBiZGQw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 09:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZWVdZaENmc0I3OHpMVlM1M1duUUV6cjloLUw3clU1WjBvcm5XRzFBQzh4eENlY2FfUXhRVGs4UVlKMFFJR2U1OVFXbEtQV254b3pXWVZ1akQ5a3NqeGd3cQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 10:34:00 GMT"
     },
     {
-      "title": "[속보] 더불어민주당 제주지사 후보로 위성곤 확정",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92U1Y3elRLOU1HRFJwRl9vQmxublY0b1lCSExQald0cXA0VkJJOFBfSng4R29ZUW1CdENTSVdKMmQ4T09Wb2VYQW9LUDBlaHQxeWZz?oc=5",
+      "title": "정준하, '식신' 타이틀에 금 갔다 \"히밥·쯔양에 밀려..이제 퇴물\" 맹비난[놀뭐][별별TV]",
+      "source": "starnewskorea.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMng4NlFreGd6ancyQnRySk9BQUVaNDZnYjhuT3hhUTFsTW05OHVIU2VpbkZQbnN5RXZERmo4akl2UGdQQ29qZ0JjTktoTjdYUFEyTXFUdDFSbVVCbExNRHEwbzl6RGhVNkc5VU9KZzJKbUJWdVNZYWF3c0Q4cDZNbA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 10:33:13 GMT"
+    },
+    {
+      "title": "붙이는 치료제로 전립선암 치료",
+      "source": "위클리코리아",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdGI1WVRtZHkwVTBoN1NHZGM1NnJKTllfb3VrWi1rWk83ekdFS055dmtYbVFPWUZMLWdvczJ3b0hRZFV3MkZyV3QzTHNPVGdVT2pFN21tUTlUcXNPX2VyTG9LNUtwMEJDR21kenlrTkoybHpHUGt0dmtleXFNYWhmQ3A4N1VWei1FV255MFBCUUJFcHBzZWZxVnZVbVRuUFJjcmdwMHhiMk5CVFF6QlluNlFDYjl1U044TWVRczNPbmxFTlNPTS01MXRVRF9DRW5oNlJrenFaZzRWdTV0dGZta3FDMnFEXzBub2w4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 09:36:08 GMT"
+    },
+    {
+      "title": "'블랙핑크 지수 언니' 김지윤, 인형 같은 비주얼 '군포 한효주'",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWY5M1B4SndFOUlVWmFYd2FscFJjYkJMQ1FHb09sZVVSbTI2TzNkSmZCaHhKbjYtSXlrdkZ5Tzd6bkhvakRFRV9zZERyVDNUQ09ja29ERWVWRDRBTGc2VVhQZG9rZlRsN0hva3dsN2JhQ1BJUWwzS3pYcVI4SndMVE4yVnZrZTJLSHc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 09:29:00 GMT"
+    },
+    {
+      "title": "[속보] 與 제주지사 후보에 위성곤...野 문성유와 맞대결",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd1l6YXBlUloyNndzRW5tMW5aSFhfZmJ6ejR3YU1fMGh6eWE0b2psdVo4RXcybGdzaG00aDFlV3lvcVA2WUNOWnpOQUZObjlWai1HR28zQ1ZXbDRvckpPc29Xc1JvdmZ1SHdxcHNITWdOT3ZCN2dYbTlaVHlsUUh5WEFGZ1dsQQ?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 09:18:00 GMT"
     },
     {
-      "title": "[속보] 민주당 제주지사 후보에 위성곤 확정",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zS0ktOUcxVWpnXzU5bHNqWEwxOVh3VXRycWNpVWNETFQydncyc3NjLWNjX0lfUjB3SGNkVFcwZzFTWXF2MDJOaWhkMFk0WTUtbzhj?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 09:26:00 GMT"
+      "title": "집이 1만평 ‘부잣집 도련님’ 늑구, 소고기 식사 마치고 회복 중",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KdDZqWTNFNENhZ1lzd284OVljdWFIMlNGWGdBMGlySzVRdjdVbVR6Y2E3M0RTTGx3TC1mQ3dCTTFwQ0hFTGUzUWN5V3FSRHBnZkdPaTZ2SUR2ZW1IbnpuRFQzcmxZckdnN1N5UkFuRjV0Zw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 09:08:00 GMT"
     },
     {
-      "title": "'46세' 김동완, 10대 때부터 흡연…금연패치 붙인 채 고백 \"끊고 싶은 것\" [스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zLTBjcXJjNjhaQTZYcEpvRGFhTWM1TFFnWEUtYzJ0b2NQdDVqcldkZUF1S1cyWUxfamx3d1VQM3BCaDZOS0pWTUpZUVJuNFlUbVVF?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 09:30:00 GMT"
-    },
-    {
-      "title": "[포토] 김민석 '호랑이 날개 꺾었다'",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3T3lNS1o5akJoVnliTC10Q3VDRVQ0OWcwSnRUa29uV3lOSXptMFFwcGxBZ2JHVl96RGp3LS1FMW16bjFPanhWMERRQTk0Tm9tbWNocFY3SjRibVFI?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 09:07:00 GMT"
+      "title": "보석 석방된 전광훈 \"대한민국 망했다\"",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQXQ3czUyNVBjSHByS01sZTUxd2diRE51cjJWRHpsU0JXOE5MRjducXJndUZaUHdOM1JzUHdHUTdBQk1PTkNrUVU0SWxTa01Qc0lfZUtCMnJtYU13S0ZuazZwamJzd2t2S2RzaHlvc1ZwYXhJRGkySl9OT3JYWHlnSnFwalg2LVRnQ05YY2JaTXU?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:49:25 GMT"
     }
   ],
   "sources": [
