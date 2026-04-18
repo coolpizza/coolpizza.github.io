@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T10:10:50.293120+09:00",
+  "generatedAt": "2026-04-18T12:58:36.386682+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 10:05"
+      "updatedAt": "2026-04-18 12:52"
     }
   ],
   "usMarkets": [
@@ -52,7 +52,7 @@
       "change": "-0.00",
       "changePercent": "-0.00%",
       "direction": "down",
-      "updatedAt": "2026-04-18 00:41"
+      "updatedAt": "2026-04-18 01:07"
     },
     {
       "label": "100엔/원",
@@ -60,7 +60,7 @@
       "change": "-0.31",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-18 00:54"
+      "updatedAt": "2026-04-18 03:45"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "18.0°C",
+        "temperature": "22.0°C",
         "feelsLike": null,
         "highLow": null,
-        "humidity": "45%",
-        "wind": "1.2 m/s",
+        "humidity": "30%",
+        "wind": "1.0 m/s",
         "rainChance": "0%",
-        "pm10": "29.9 μg/m³",
-        "pm25": "19.4 μg/m³",
+        "pm10": "56.0 μg/m³",
+        "pm25": "17.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "65",
-        "updatedAt": "2026-04-18 10:00"
+        "airQualityIndex": "64",
+        "updatedAt": "2026-04-18 12:00"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "19.0°C",
+        "temperature": "23.0°C",
         "feelsLike": null,
         "highLow": null,
-        "humidity": "60%",
-        "wind": "2.0 m/s",
+        "humidity": "45%",
+        "wind": "2.1 m/s",
         "rainChance": "0%",
-        "pm10": "29.6 μg/m³",
-        "pm25": "23.3 μg/m³",
+        "pm10": "19.4 μg/m³",
+        "pm25": "10.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-18 10:00"
+        "updatedAt": "2026-04-18 12:00"
       }
     ]
   },
@@ -105,7 +105,7 @@
         "lowestDistrict": "양천구",
         "stationName": "SK에너지(주) 경인주유소",
         "address": "서울 양천구 국회대로 170 (신정동)",
-        "updatedAt": "2026-04-18 07:56:53",
+        "updatedAt": "2026-04-18 10:56:37",
         "districtSamples": [
           {
             "district": "양천구",
@@ -135,7 +135,7 @@
         "lowestDistrict": "중구",
         "stationName": "오일캠프주유소",
         "address": "인천 중구 축항대로 282 (신흥동3가)",
-        "updatedAt": "2026-04-18 07:59:37",
+        "updatedAt": "2026-04-18 10:59:41",
         "districtSamples": [
           {
             "district": "중구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[전국 주요 신문 톱뉴스](18일 조간)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qN2hGZE5zY2o3clVPTFpvTXd0ajFLVHFXeXJ1X2pLazdsMlVLb3VnaUdWOG0xTzZMTk5xakpZOG0waEZ1ZG5EQWp2bDI5Wks2ejNjQm5GZDl4cTjSAWBBVV95cUxPekRPUDhLQVc5NnlkUG9lSFJSYjRGd2Q0bnZ4R2d4RnlBSy1Ic1Ayb3ExcURwejlnS2NuMlhYd3hkd3JLTDJtVFhVWWtpTjhsQmlBcDhESkZoVExGUDJ5eVI?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 01:00:01 GMT"
+      "title": "이 시각 주요뉴스 (26. 04. 18. 12시)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PLUk1UVBBbXN0ZmVXZlRqNVRKcXZRaldHdDhHcmJjdkJuclZLcnQ4S2twLVFZSERIT2E0MmFtMzlKdW9fYU90M3F1dlhsRVBhQWVB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 03:23:00 GMT"
     },
     {
-      "title": "화창한 토요일 교통량 증가…서울→부산 5시간 20분",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PY3E2dGE5am9vUWNGQm1GemFybXhhUXVlb04xczBZSkg5bmdHS1RyVS02UUozQkRKMzRYZjZ5YkxDWHZhcUQ5LU95VVFoUFlVR0JTN0lZM0U2TmhBUkJTMVFB?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 00:54:34 GMT"
-    },
-    {
-      "title": "[내주날씨] 더위 한풀 꺾이며 평년기온으로…낮 최고 17∼24도",
+      "title": "트럼프 '시진핑, 호르무즈 개방 환영…역사적 회담 기대'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE8xUTlwTTRVVldxWGNpeXl2emZ1NzN4LUgxT0MwNnowX0FWM1FwbEFNTkp1elJ1Z3NyS2dqSnhvM3FoVC1PMnQxTFF3M0RxekhxQVBUcFc1cUtzSThqOHZIQ3pONXotaG1nbEwzRXFTejc1V1JNQXRFUEk2RXp4anBPSWlyRElYSnlmbzg0Z1E5a0JIbzZOWUQ3bzh0a2FLNzliMWVsd1BrbTBfbVNkLUJjTmI2bV9vTnc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 01:07:22 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcnlTczJfSG5QUXpXRmtyZkZsX2pDYzBheWxhWkQ4ZmQ1VDRHVEFmbUlHT1VVSWdqcExWZXdtOWpuTmRRNWV3RjZ4elZ6YnBmNmRfVUlwRUw2TWpBNEtrTkdQeDZkNW5ONk5xTnJ6dkZCQ2pyMkxXWEJFNVRocFgzdXVPcy1pNVFvSW1Ib3BGVXBjREFhWXdEUUhhZFJGQ0dhNW5DdHMtLUYzSnpzVW5Nbm1PanFORWg4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 03:42:34 GMT"
     },
     {
-      "title": "이재명 대통령, 차지호 의원에게 감사패 수여",
+      "title": "트럼프는 왜 파키스탄을 휴전 중재국으로 '픽' 했나 [뉴스+]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9heERhLVl1dmRsNTJvdWZSVU0xTmI2NUNlWHZPM191VnBpX1dGNW8yQTcxZ0FIRVNfSUNsNVRGaEZNd2YzNTBRd2xVblo2UXVOS250UWMwYWJ3b01NZHJRMA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 00:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QZ0MwbFhhOXVSa2ZuNWtFV3Jyd0VOd0FqVFhHS0V3XzRKb2o2d2tDbXdKT0k4QllEN2ZqZTNkYlhWVUp3dGQ2MXozVXdwSXJzeDdvZE9mNlIxQzNWLVlPUA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 03:50:00 GMT"
     },
     {
-      "title": "李대통령, 與 차지호 의원에 감사패…'글로벌 AI허브 설립 지원'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObkNuZGI2bmdmSTZQMEF3elJsRmVrdklnMDhlRGtNNkdJbm1vRnpHS3BUNEZsQjA1RjdCeUFWLWE5YlQzcjRGdE96TE1MT282eWhBNzgydFg4Y0xUYXhiV1pZSm4xOFlYZlFIUkNRWHJraTlkQjdhVWRoQ3Rfc2VlcW50OHFmOFNpRGlLek5veDRCU3IzZHJ0REJLcWJUNVhjY3FjQmloWTg1NGEyRlU0YlZUaG5ZbEkxbF84MThUT2R0RVV5RHlYOQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 00:46:48 GMT"
-    },
-    {
-      "title": "민주당 김제선 청장, 대전 중구청장 선거 후보 최종 확정",
+      "title": "전북경찰, 과태료 상습 체납 차량 41대 적발…번호판 27대 영치",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NM0lUVDN3M1prSEhFR090NElnYzdkVFEyb2F5RVJoUE1JLU1NQVNsZkYxRU1sTTBCZW9sZGxERXpxZ0x6Rk5pWktwVDlOWXRMLTBtQ0htdmU0bzd5ejZ6bWlTd3FUbFJlSkViNjNB?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 00:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUmdyNE1CY3EtLWJMQ1gyamdSUzdIXzhuQnRydDRUZGw4Z3o5YlR0TVlmTlFHOVBnWV90aGFZSFZjZHJhVmw2QmxRdUJhOTktTVJOd01JRzRtZ1lfMUhGUw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 03:54:00 GMT"
     },
     {
-      "title": "부하에 당직 떠넘기고 수당 챙겼나…현직 경찰 팀장 '감찰'",
+      "title": "\"비행기 무거워 못 떠, 6명 내려라\"…승객 하차 요구한 저가 항공사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VZWRiUGRJU0FWNXNNRThXVWNFQU5udGhsYVZzdnJIUVI2XzByc1ctbEVhMmhvdVgteld1dEYtdV9Bb19HbldhZ1lSTGZEMDhMYWkw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 01:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJN0k5SzZDbkJCQ2FVb2FQaFdTYjBhbnFEa0xNQWVqbXZkcE5HOGRjQWtfOThEN3h2bVhpcFh0SkVfN2prS2h4UjdlWXBXckE2ai1qZjJMTTdGZUR5M3dCNw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 03:38:00 GMT"
     },
     {
-      "title": "경부고속도로 오산IC 다중 추돌사고…1명 중상",
+      "title": "'인플루언서 수사 무마 의혹' 경찰청 간부 직위해제",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIMDNZWkpNeW84d1FmdFRsc1F3cVI5U1lpWHlDQU5jNFhjMzdjODFuNHpzN0YtSnJqVzVSX0plQTJQZVJjWDJlZkEySW1QMG1sb3Nr?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 00:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuY2dxTFEwVXJ0dlpXNVMzLWoydmN2RGgxMFhudS00MUt6OVEwb1lSYmROQk85OXdFcW5oX3ZqOGFXTFlyWVpFaW9QanZ4TXZaOHRj?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 03:47:00 GMT"
     },
     {
-      "title": "'무소속' 한동훈·'국힘' 박형준…부산서 손잡을까?[노컷브이]",
+      "title": "'인플루언서 수사 무마' 경찰청 간부 직위해제",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IMzlLTW94dlhFb1NqUmVpMW5TMllMX2FGdFV4azNrb3p2cVdWZHhNVG16QURneHdBMzF1Z3lGTzFXdElKRl9ENC0xQndTalR5RGw0?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 00:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xYTU2WEl2REVJUElOdjJjUXpSQ3p0dF9ZWkVtZTA2dS1XOXhxdm44VFJ1bmloSlJwLS1sS2VPN0hEM1RqRHBfbVFHT2xlVDJiRllV?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 03:15:00 GMT"
     },
     {
-      "title": "전북도 사칭 물품 구매 유도 드러나…\"안사면 과태료\"",
+      "title": "울산웨일즈-울산과학대, '현장 맞춤형 스포츠 인재 양성' 위해 손잡는다",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mQjRqdXgxTVFtY0JZYkFHc3VJU0l0NHZxc2dsWUhrbE54VkRrdk5rVTRXbFpTVzdsdkRfQnhNTWo3WjR0aWk5LWtPd21hMUVoMWtIREhBZDYxODBK?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 03:13:00 GMT"
+    },
+    {
+      "title": "호르무즈발 에너지 위기 속…미국, 러시아산 원유 판매 한달 더 허용",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqbEFPc282ek9HSTdJamh2QkoxemFiWG1ZNWNyUDE1NVh6RGFtTmRRZnZib1hmLURJSGc3RE9oNmJlX1lUS2NuaEc3SnFMeDFCMGtR?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 00:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sNGF5WnF4TW56azRlZlRySnpqc3JPc01VOW1DbVh6WjZBN0dyUXItWUZjSlFpaTdLNHMzdzR3bXdCM1RqdXdDeTA1aHZHMW04WnU4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 03:27:00 GMT"
+    },
+    {
+      "title": "구윤철 부총리, 스콧 베선트 미국 재무장관 면담",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwLXpadFBMbGR2ckNKZG5sdHRjV3ZaVWF5YlgycERaVDhxM3E5Y0tjWDZ1Zi1qcVJqTmVtMWhrWURkaVFhaEJ5TjhjSnZGSi1zejFZ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 03:26:00 GMT"
     }
   ],
   "sources": [
