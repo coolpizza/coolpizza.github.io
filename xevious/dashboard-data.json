@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T02:30:39.044346+09:00",
+  "generatedAt": "2026-04-19T03:05:17.391766+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -56,11 +56,11 @@
     },
     {
       "label": "100엔/원",
-      "value": "924.73",
-      "change": "-0.27",
+      "value": "927.69",
+      "change": "-0.31",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-19 02:24"
+      "updatedAt": "2026-04-19 02:49"
     }
   ],
   "weather": {
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-18 23:18:34",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-18 23:43:11",
         "districtSamples": [
           {
             "district": "계양구",
@@ -183,34 +183,16 @@
       "publishedAt": "Sat, 18 Apr 2026 17:23:15 GMT"
     },
     {
-      "title": "\"美, 이란 선박 전방위 나포 준비\"…'경제전' 수위 높여 협상 압박",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHQUk3LXBiQUJVYnI4S0RKVS14elBxbV9Uc2QwVTdxUFFHejR2MUZWV2swS2ZNcXdyYkpNTEZWeVpXbTNPd1pSaHhud1J1bFlPV2hMT1lQZ3VZUzZzNFZ5X9IBeEFVX3lxTE9lYWpPV3MzR3RScTdyUDVnQkRhakZZc3V5UDhWWjd0Y3NWem1FWkM1QlduQk9EQ3BaQ19SNWxrTjFDU3NlSF9DZEhxcFVZb3NleHEzbDNzemJrcDhRYzlFaEozQ1E4LS1MT3BNNzl0QlVhR2tlcVRrdA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:44:49 GMT"
+      "title": "[속보] “엔진주 오후 돌연 점화”…한화엔진·STX엔진·HD현대마린엔진 동반 급등세",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lekZzdkpSYXhHam9SOVV5TmpXdjU3T3JLRE1idGQ2LTR3S21VUVlGYmVtdDRFcm8ycHZaTFFNTURGQW5QN05YMFVvZ21PTFlaRnZrdXFGMFFpUkFUMHpNUlNENlk3SUsy?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 17:59:51 GMT"
     },
     {
-      "title": "'최고 157㎞' 안우진이 직접 밝혔다! 변화구 61%나 던진 이유 \"아직 투구 감각 완벽하지 않아서…\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mTEhpZExQRWd6c0ZBRkxral85dFJoWDMwRm1iX2Zlb2dmMk1vZkc5X1hXdjVWUEU1MzB3QUhubU0xM0hyRExUQzFpNDJDVmJBUHBKUE94a181QVk3?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 17:05:00 GMT"
-    },
-    {
-      "title": "[르뽀] 푸꾸옥, APEC 국제행사 대비 관광·비즈니스 인프라 확충",
-      "source": "디스커버리뉴스(DISCOVERYNEWS)",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02YUx3QlNJeGFZX1BRMWZUd0xJbEROS2IwZ3ktMkhZVy0yVXV0MmtXZVZ3UmNjZXVPN3YwZlRXMldoOGZaTDRhREVZSkstNFI0U29vZWZkUllPWklYX0ZMM3NJZFpObWw0RnlPQ1NDOFVQQQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:32:30 GMT"
-    },
-    {
-      "title": "\"SON 옆에서 웃던 그녀, 日 여축 국대였다\" 명품 복근으로 시선 강탈…\"역시 일본 레이디 가가\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fOTdVNXZFWXFRdHRXMWF3YmlrWnhPNWRTbDN3QVpLMks3RUt6SUVLcVRrenZtSVpfYkxKMnk5cHNNcDJFU2RpVUlDSjJFU3k2V0ZORDZ4bXJmbnRydlhoekI3d3FVTWhPa1E?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:50:00 GMT"
-    },
-    {
-      "title": "'70억 유산 거부→장례식 불참' 헐크 호건 딸, 뒤로는 경찰 찾아 '바디캠 영상' 요구 이유 \"부친 사망 마약 때문 아니다\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ycTJ1OWZoR01yZzJnMVdoVHNycEF4UkhQVENjemlSOXRhRkFIck03dWdGc1RxMzRGaUdVRXR4OE94dFlxMDBqODBuVVVUcTl0VDBYU05xUlNqMHB3R1o1VGR1dDQwMlJTRmxmdWhNTi1QbUhoMEM3eA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:31:00 GMT"
+      "title": "\"호재 쏟아졌는데 -10%\"...월드코인, 대기업 협업에도 투자자들 '탈출'",
+      "source": "코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1eUxsdUhVYWxiVVF0WkluSmZjN1hEelF1Sm9XX0FqUGRLVFNTWUNhWE9lRnRoMkxQUDVoLUlCTGZkeWE0NENJam1n?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 18:00:00 GMT"
     },
     {
       "title": "\"소아청소년 5명 중 1명 비만\"…생활습관 관리가 해법",
@@ -235,6 +217,24 @@
       "source": "GameGPU",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjEzcFg0bk4xX0k5VExSMlY5a0FrYWQ0MjM1cGdzbExvQktJT0JGblZDNjgtVjZKejJZWTRMVjZhc1JCTV8yaHZENHZfLVhYOXVqMkZyM0hFX0N5MW1pMEc2LUlBOHBkbEk1blg3MDB0OFZWdmlTWWVXems3RWw0TzBLMmtHWUt0VU9jVnBQQVZzbDhoWExuejRxS1BBRXdPQjdyUERiWGZpNm1JSnc?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 15:34:50 GMT"
+    },
+    {
+      "title": "트럼프, 이란의 호르무즈 재봉쇄에도 \"대화 순조롭게 진행\"",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlRra0pRMVNzb1BLZ09XQTAzNTdScENBN2IxV2pFZDNrTkxwV2VRVDEtXzZYUjlkZ1FSb0drQzBDSTlSVkNnb1lIdGx6Ym1YWU1KdTlMbXljbzM5RDhhMXJsM0hPUkZjMFhrVHVzdk91aHBfRXEzRXBHd3BDUkxiT0dkTXFTeE13XzBwTEhlS2JibjlUbWJrRDlqaXNqZw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:39:51 GMT"
+    },
+    {
+      "title": "오영실 \"20대에 의사 남편과 결혼해 아이 낳았다고 방송국에서 눈칫밥 먹어\" ('동치미')",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuOFN0ZG1UakdOR2N3M2ZqZ1JxYXR6RzJ3Y2Y3WmZKVnY1bFFNUjgwME04V3ZnTGJacW1LZ0ZMUjA0SWxSM3dMM3pQWmpzYVRlSjk4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:31:00 GMT"
+    },
+    {
+      "title": "미·이란, 2차 종전 담판 20일 파키스탄서 열 듯…핵 이견 여전",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qbDVGTlVOYkdYVDZTZ0wzS3VYSEItSnRvRFVtMDF0dVR2aVdPM2NJRi1kQ0VHSzdoQllzTU1ITmtkZEVNT1pKWnlmejB5ck9fOVVHUkZUd2F2WHlqNmZhSXUtYndvVnRoLTF3dzQ4UQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:57:00 GMT"
     }
   ],
   "sources": [
