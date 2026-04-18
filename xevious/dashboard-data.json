@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T00:04:24.654086+09:00",
+  "generatedAt": "2026-04-19T00:43:56.873977+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,7 +48,7 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1100",
+      "value": "1,467.1073",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.4°C",
-        "feelsLike": "13.3°C",
+        "temperature": "13.3°C",
+        "feelsLike": "13.4°C",
         "highLow": "최고 26.2° / 최저 11.1°",
         "humidity": "84%",
-        "wind": "2.4 m/s",
+        "wind": "0.8 m/s",
         "rainChance": "0%",
         "pm10": "73.6 μg/m³",
         "pm25": "55.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-04-19 00:00"
+        "updatedAt": "2026-04-19 00:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "13.8°C",
-        "feelsLike": "13.5°C",
+        "temperature": "14.2°C",
+        "feelsLike": "14.0°C",
         "highLow": "최고 24.6° / 최저 11.3°",
-        "humidity": "87%",
-        "wind": "6.0 m/s",
+        "humidity": "83%",
+        "wind": "4.8 m/s",
         "rainChance": "5%",
         "pm10": "53.8 μg/m³",
         "pm25": "27.8 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "54",
-        "updatedAt": "2026-04-19 00:00"
+        "updatedAt": "2026-04-19 00:30"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "안민석, 선거인단 모집 마감 속 교육격차·교권 해법과 실행력 재부각",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92SVJwOGQxSWtTQml1TklHMEtSOUVIb1A2cHNOaUtTZ3V0ZnNFNUVlOG54cld3amhOSzJ3bi15VHNaRFZhVWxwVU5CanFDUQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:57:19 GMT"
+      "title": "美, 니카라과 내무차관 美입국 금지 제재…'인권침해 연루'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnd4Tm16Z2l5OGoxZ3FDdHBvY1FvaWo3YUZwOERYUTJpcFFCR3RvM2dVb3hRUFNPQ2dwOGNNYlJJTDZvbDR0OXk4TUotNGl6VktuUVVpQ04xY0pCaWQyMnRQMTI2cWRrRkJQTk9KbkdCZHEyRG5sbnhlNUdOS2Q2b1d4QklpQlQ3RWoyMzZscEY5Q1QyTDhTYXJSMUtWcXd3a3RuTThLSzNzSGVTOU03bEZGMW5UMi02aGc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:18:43 GMT"
     },
     {
-      "title": "민주 \"정치검찰 시대 끝내고 사법정의 바로 세울 것\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14X2d1andCNzJCWUZFREdaUHFaOHJPNHZIZDU0X3BJTzYxNm00eXVzODFHcTd4UUk1eGQzMWU0VmU1RVhacmF2cHdTLTlGSGdBWktB?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:19:00 GMT"
-    },
-    {
-      "title": "상해전기, 2025년 견조한 실적 기록…신규 수주 사상 최고치 달성",
+      "title": "2025 중국 및 글로벌 발전 보고서, 하이난에서 출간",
       "source": "코리아이글뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZSEp3UzBvcDlhT3ZLaEZaM09vSEgzQ2I3aldLN3FuSFRqaTZyVDVIUTZlazB1MHNCeWltTjJLVFBxSjBTdmNjdVZNS3FnSGd1VHRrZDFhVEFzMjZjenZkbXZnYllsblNNTFYyZXc4UWlMUQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SY3NxMFBza3k2dUpjeE9raWZ1YmVWNWVycV9ZQ0I0OFB5T1FjTm9IVWdPOUVLcmdUdkVBLWN2RHZSM255LXl3S3R5Y0xxR3BadThRcW83Y1lrbTYzc1pxanlGb0s3MGRjNWpTV3BJT2J6UQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:54:00 GMT"
     },
     {
-      "title": "목포시, '상반기 특별교부세 확부 현안사업' 건의",
-      "source": "한국뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kZS1YbmdURDJ6NjlKZ2s5SDJCQzZfd0gxdzhxQTc2RU9sVlg4YjFyNUEtbGpBbUUzWVhCMlpYN2l5NmczV2czMnlZdFh5elhJUTVMVTdsVE9GTjdfdTMxeE1wNXEwZw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:04:49 GMT"
-    },
-    {
-      "title": "'첫사랑은 저주다'…유주, 새 싱글 발매 앞두고 커밍순 이미지 공개",
+      "title": "'10년 차 레이서' 양상국, 빗길 레이싱 중 정면 충돌…\"불타는 차에서 겨우 탈출\"[전참시][★밤TView]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZUlctWXhsSE02eWxseTgwbzVxV1ZLR2pYYmN3eHlYdHpDMFRWcmMtUXRjY28tanZKelp6Rl9qU1hfN1lTSVFVeFZaUENqNnM0WGRWb0FmZHdzVEx4ckFUNA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAweWhGM2RiYjZNUHhHcS1sX2FKWUhYY0RrZjE1bGZCaHRNeUFWOEFncTFIUVVLaDA3VHhrNlQtMEZrNmE0VGtaTTk1ZXZTM0EzZ0pkSVp6TWo2V1NCX2ZUUQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:38:00 GMT"
     },
     {
-      "title": "목포시, '스마트 광역교통 인프라 구축계획' 보고회 개최",
-      "source": "한국뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RalZ3bGFkNmNoQ011OWhvVE9henk3WHduMVRZMWxBa3NXWDFMbXpWYW4wSU9VQXBIYkI1V3V1WVBkQUxTMjgzY0tyVHpLLTBsb1hET3R5Z3haWTFxbTV6ZDY5bmFJQQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:05:03 GMT"
+      "title": "서울 30도 육박 초여름 더위…제주도 강한 비[오늘날씨]",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ3U0YzE5UEU2TDd6cUpyV211RmlpNlk4VkNMTXJ3R29Ba0JNMUlOcVlvWXBVZzRta2Vpc2RlTUExWmZHZlc0Z1dQbTh1enBkVzJ5LWdyZ2tmNVBPcVp4N1Vza3VfZG5XV1doVU1ZRzBjWmpxRThrZHE0XzFqOVVxWnhBWFNIMmZOVzVpUVBKbUk5dTlXMUVMLUYwanRKS3FzeHhhYWpETUtManhFSkU1QTA1ZDFSbklE?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:13:25 GMT"
+    },
+    {
+      "title": "지드래곤, 손흥민과 LA서 만났다…'월클'들의 만남",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUNS10eGdoQl9ZRlltSzFVVGtCazhkT2xHeWpCRXJQUjdyOXRCYlVtQWxvbDBmSFFSUFVKeV9tVHlYR2hzS0tqdEtoLTg2dmtXVnlsMzJTek1YeXRDelpqbw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:38:00 GMT"
+    },
+    {
+      "title": "양상국, '시골쥐' 플러팅 기술 공개…\"女에 DM 많이 와…실제 인기 많다\"[전참시][별별TV]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adDZmY3IwMHNDLVJJVjFqcW90TDRxOThmc2U3YWI0YXlHNTlDTko4bjV3ZTVmdEI5ZnZXQkR3R2lYcmFjaHcyV1B5UDRZRGZlUjdJ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:10:00 GMT"
     },
     {
       "title": "이주연 \"아이돌 시절, 남자 그룹 중 한 명씩 날 좋아해\" 인기 과시[전참시]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nTnVyUFc4RWp5R2dkclpybUFJZXZvQjNUQUxFUXE1Rm5YUzgxOWdmemR3ZmRNTTZvZ0NvNEdNdXRKOTc2eGJDMWpGbDV0ZzJERGlOZnV1dDRpNkh2VkZZckhVYTBRSkF4aTl5Wk1R?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCLUdlVEQ4TFdaZkRETHczY0dBSnhpeEFRWDdwanV2aFNWdmFzeVEzbmFtZ19Zd1NZeXdwZ3ZNc2NoUVNYLTNIRXp6aUJqRnJ5TGd4VVkwa0NDZEViWFFlaUFHeGJ5ZTJoWjNoMHAzTTZaR0dFdWJOaQ?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 14:47:00 GMT"
     },
     {
-      "title": "통영시, 권한대행 체제 시정 운영",
-      "source": "한국뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5dEwwYzNDOC10Q3EyOTF0Nm1GeTROb25vM2V0amhuWkhMUFktSE11ZXJTWEIwcFo0RFRPZjM0MExqUjg4WjdST0lCNkx4V2I2WEJWenhid191YVNvR2h6MGZ5a2tJUQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:06:19 GMT"
+      "title": "이더리움 매집 지갑 보유량 33% 급증…다음 목표가 3000달러?",
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tNWxTZGE0bkRwanhZTnNqdXRucWJHdmFmRkdLQkg5d3pMckFJTXd4WU5rbVZPVV94ZU5XeGlSQVd5dXFoZmxBRVRydWtuUEZVa0NXU0x6Z0g1NUxwejhMcDd1NzBDd2ZqNUh0dzhNanhab0k?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:01:00 GMT"
     },
     {
-      "title": "국민의힘 \"특검, 수사 없이 정치만…하명 수사소\"",
+      "title": "호르무즈 다시 막혔지만…트럼프 \"이란과 협상 순조롭게 진행\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14WUlwcFJGd1R2ZnI3ZG43d1B6azc2eFhSYTd2VmtreU1yOVZRcmhONjdBSjZ5S1hxbkgwbWgyd3E5UEZQZG1HWXE4bG0xb2Q5YkhR?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBd2EzSDl0QktOWWhWbG9yQTVfN1F5dUJ3RFhScHFzQVhHQzREazdfeDBkdlpodmJyM1kyOUlJZVJVWlNaRnpadVlDckk2amlFemxZ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:08:00 GMT"
     },
     {
-      "title": "국민의힘, 여권 '1주택 장특공 폐지' 발의에 \"부동산 핵폭탄\"",
+      "title": "평창군, 시설물 정밀 안전 점검으로 군민 보호 강화",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OZXlCVG5FZnM2ZlJ2QWZMSVRkVHpCTkNFeEZKR1BrakRRRWhsb2hZUy1ETlNINnY2MG1DS2ZzbzZFekp6RGFlT21ZRF9pbkk2UWM0?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBabVQzdUVfM3V3N05XMEhzbjJVeV9sdVNFZm1scFpxdjF5QW14MWFfMk5aWURUd2NwNFVXMzQyeGJhMUFQcGxVczgyM2RvSGhwQUlZ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:25:00 GMT"
     }
   ],
   "sources": [
