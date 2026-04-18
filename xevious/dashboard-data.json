@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T17:07:15.100572+09:00",
+  "generatedAt": "2026-04-18T17:34:04.191087+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "22.7°C",
-        "feelsLike": "22.4°C",
+        "temperature": "22.3°C",
+        "feelsLike": "22.1°C",
         "highLow": "최고 23.3° / 최저 7.5°",
-        "humidity": "49%",
+        "humidity": "51%",
         "wind": "5.1 m/s",
         "rainChance": "0%",
         "pm10": "80.3 μg/m³",
         "pm25": "19.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-18 17:00"
+        "updatedAt": "2026-04-18 17:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "24.2°C",
-        "feelsLike": "23.6°C",
+        "temperature": "23.8°C",
+        "feelsLike": "23.3°C",
         "highLow": "최고 24.9° / 최저 9.0°",
-        "humidity": "47%",
-        "wind": "8.9 m/s",
+        "humidity": "48%",
+        "wind": "8.1 m/s",
         "rainChance": "0%",
         "pm10": "86.1 μg/m³",
         "pm25": "22.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-18 17:00"
+        "updatedAt": "2026-04-18 17:15"
       }
     ]
   },
@@ -183,10 +183,28 @@
       "publishedAt": "Sat, 18 Apr 2026 08:01:00 GMT"
     },
     {
-      "title": "메이저 11회 우승 일본 가미지, 코리아오픈 휠체어테니스 2관왕",
+      "title": "린클, '프라임 S' 출시 예고…제품 라인업 확대",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuYXZmaU5BQmJIeC1Eb1RVdDFsSjI1ZWMzeWd0RC1lYzFQQUMwZDA3aGJNeU9neTZYRmxDMEFyTzRqU2lQTTVDNDAzZXlvTVpVc0tB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:00:00 GMT"
+    },
+    {
+      "title": "[부고] 윤학수 씨(대한전문건설협회장 중앙회장) 모친상",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jZXlGZWtsalJEZFBiM1N2ZTNMY2l3cGlfazVzTE9IeXQ1Mmh0Tm9vOS1lbHl6R0hUcXVWUWc2VUthNmRISGc0SUdJckJzUUxVUzgyVHZKOTdmV1BRbkFpbFI4NUU1aXUxZ1JHclB5T2JKMkEyTnQ5eQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:22:00 GMT"
+    },
+    {
+      "title": "이미주, 라방 켜자마자 '성희롱+악플' 눈살…\"왜 자꾸 입을 가리래\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pSDljUnNKVF93SUZIeGlvcEQtbzNySFdHVXhTTVV0M0dkdDdRRmtkQUlORG5sZHhYck5QZHpKWm5oWXB5RVFjcG9ld0dsT0VBSlJF?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 07:35:00 GMT"
+    },
+    {
+      "title": "특검보 교체까지 나섰지만…종합특검, 계속되는 공정성 논란",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOak8wVDRLb3lhNE55WFBUS2dCVDluQXVDLV9oWkV2Z3lSaWViWmx0eUlPcWNhWGhENGxla0s4LUZ1c2w4QkhfdW5SSzg2clRtZXdRRzEzVHRQUmtwRHZmUnB5OVFIdzBxWG9zQzBDRDVZZ3dkZWlValU5RVpGVVBZX2tSV3h5NzR1YTRSeDhsQ1d0eXNjNzl3NFpWaXcyNDdSZG4wRnVidkU3bWNGTUFFRGVWay11amIxRkE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:12:36 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0lWRDJVMFc5RHpGR2htX2c5QW9mU08zY0piaEYyX3luOUpzaERmSTlCLTczS2d1RXVxTGZodEhHbEtISVRYSmZPQmdGZ2VGa3NjXzItQTNKUUd0TTRQZWRobEZ4UHBCSWVycUV0b05aTWtObTJmN0o5MENVeFpUc0VNQmJ1Y2ZqLVMybW04MVJqcm4yaGl4eEdhZllUZC1NOTd1TEMxdENNVVJBT01vTk9kbXgySGs?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:27:24 GMT"
     },
     {
       "title": "핵우라늄 놓고 이견 팽팽⋯미 “반출 합의” vs 이란 “절대 불가”",
@@ -195,46 +213,28 @@
       "publishedAt": "Sat, 18 Apr 2026 08:02:00 GMT"
     },
     {
-      "title": "내일 낮 29도 '초여름' 더위...일교차 20도 안팎",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91eXcxSGdHYnhxVktwdF9heVMyTFk0andETUttc1o0N2hUdGpIcjVSTVNNZU5LLTZRcndfa1N1RkJEcHdFdHF3ODNvR0NLTlB4a05DREFfa1U2MWhSQlVwcjl6RFZJLWMycXBMR9IBb0FVX3lxTE9odFpRenpQa3cxcDBIbWdkcEhIY1RyX1ZlYV92QkFQMVo3QzBvTGRuemJsUE5ZekpWRkRWRWw4OUMtcUNueTMzRDJHUkUzREFKWkRsSGlnT203TXpqd09TZE4zWVV0dUx2MzF6ODJ1QQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:08:12 GMT"
+      "title": "낮 최고 29도 일교차 주의…제주도엔 봄비[내일날씨]",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd0FlNVBBWDZNdlJ5QU5jcUxraWEzVWk4SFlRV3ZSbTFKU01FVGlFcGdsVDR2ek1tWXdVcC11QlFyT0gzMWtoZFBpa1k3UjR3Snd6dmZNVHprT1dtZG9qTkZDQUhtYUQ3RmlEMnZzdllLTGdCTFBwREpIQzhyQTlGNVpaaTRGYVJZdEd4SXFnYlo3S2RyNXFFVWZXbHl5ZHNpRlJWRHRHbVFkZkxTNWRKTTQ0YjVfakE?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:32:25 GMT"
     },
     {
-      "title": "린클, '프라임 S' 출시 예고…제품 라인업 확대",
+      "title": "이란 민간항공청 \"민항기에 영공 부분 재개방\"···폐쇄 49일만",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qdDg0S1lPV0w5cmJ1T2ZuTFJFTVp5MTZGWkNFRnBGQVlvZVFHenhGTUFDdXhKeXBTd3ZtNnl1Z0pGVFdfckxBY3d6SXdKaDhGN1NDQzVUVkZZUXI0S05TUEJ1bE1GVXY5clpXd3RqUWxTX3FBYXhoSw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 08:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3bGFuaHM5eEdDUEI3Z1dkdWZjbjdBTF8xb2JxM0wxUjl3a0tGMUdMaW5nd1o1S1FvYkxYclo3OFBnVjd6RlJsZHotcXRIOG1IRGYwd1hKb0FESktzclZhT2xHVkhDMUtWaHc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:28:00 GMT"
     },
     {
-      "title": "[포토] 윤아 '시구의 셰프'",
+      "title": "'환연2' 이나연, 금수저 인정…父 재벌 2세 의혹에 입 열었다 \"행복한 환경서 자라\" [스타이슈]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQTRSX3JDTnlKZGg1bnFITDFWSTFkejNRY3dSbURiRWw1UUpqQjF1dGJKdXU3Y0VSV3NmYXgtQWJkd05mM1djZ1Z5Z1lOSUVOMjdscDZIbVJCOXM2c2FHUQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 08:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TdHd0SXJremFYUXVyeUl2YjhyWGZsQmFkNDBmUkFHUTVaRWdmQ1lwZU5uRVBSSDhFSXBPQ3FrclM0THE1QmhTOGNSVzVFNGhxMS1CZlZ6c1paUWItR0pMSA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:15:00 GMT"
     },
     {
-      "title": "마약 교육서 만났는데 함께 대마 흡입…\"죄질 나빠\" 징역형",
+      "title": "[포토] 윤아, 두목곰 향해 주먹 불끈",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1MGJUNVB4dWpyVVJMbDloZlR6cnBsdjRHVUlWajk2aFVhVnV3U00yTWxLeGFKM0czRlRDQUZNd2tRQ2owZzNLa1dPeUk5dE95a0s4?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:51:00 GMT"
-    },
-    {
-      "title": "[포토] 김혜빈 아나 '만개한 스마일퀸'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EWnJFSG5hMTFoZGRpUDUtTTRnbC11UVcxdXlWLUc0SEQ4QXJydFlZbWpYYXVpTktFZGV1OXNESjF0SXJrWW05TnpwdjEzN19pZms0YV93?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:56:00 GMT"
-    },
-    {
-      "title": "AI 붐에 중국 '가장 비싼주식' 마오타이에서 반도체 회사로 바뀌었다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vRU9GLXI0VENjUVFfcDM5T2pPOUp1bXZKQm5xdnFxNHE0WnZ6VEs5bzdMeWVtS1otelJtdURSUGlaUVlWeXlnbzhVaGRzcnphRml3?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:53:00 GMT"
-    },
-    {
-      "title": "텍스트 너머의 시대, 미디어의 새 판 (上)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuX1IzYzF4dDgzUGpqd0RSQnpLa1BvZV9wc09USGljQk1meWdhX05PWHVQcUstdWROMTBFN3hWM3pmOEhvS3g3UGstOW5HOHN1NEc4?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 08:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5reHE4MG0xMkRhU1UzWURVY01lVVNGWVFRWDlRU3ZJdHRSeDA2MUtPdHpJNFViY1RBSjRwdUJZSmtkUTdLZXNLVGx6QmFQaUxZY1g2cFc4YzlkUHVvbU90VEQwOHBKaGpzendZWUtwUTdReFhMN3h4UA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:08:00 GMT"
     }
   ],
   "sources": [
