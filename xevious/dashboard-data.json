@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T05:53:27.420006+09:00",
+  "generatedAt": "2026-04-19T06:25:13.636010+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -56,11 +56,11 @@
     },
     {
       "label": "100엔/원",
-      "value": "924.73",
-      "change": "-0.27",
+      "value": "927.69",
+      "change": "-0.31",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-19 05:48"
+      "updatedAt": "2026-04-19 06:18"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "10.8°C",
-        "feelsLike": "10.1°C",
+        "temperature": "10.2°C",
+        "feelsLike": "9.5°C",
         "highLow": "최고 25.6° / 최저 9.6°",
-        "humidity": "88%",
-        "wind": "3.1 m/s",
+        "humidity": "91%",
+        "wind": "2.8 m/s",
         "rainChance": "0%",
-        "pm10": "102.7 μg/m³",
-        "pm25": "60.3 μg/m³",
+        "pm10": "105.9 μg/m³",
+        "pm25": "59.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "69",
-        "updatedAt": "2026-04-19 05:45"
+        "updatedAt": "2026-04-19 06:15"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "11.1°C",
-        "feelsLike": "10.2°C",
+        "temperature": "11.2°C",
+        "feelsLike": "10.4°C",
         "highLow": "최고 24.8° / 최저 11.1°",
         "humidity": "98%",
-        "wind": "8.4 m/s",
+        "wind": "7.7 m/s",
         "rainChance": "5%",
-        "pm10": "48.4 μg/m³",
-        "pm25": "29.0 μg/m³",
+        "pm10": "45.4 μg/m³",
+        "pm25": "29.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "52",
-        "updatedAt": "2026-04-19 05:45"
+        "airQualityIndex": "51",
+        "updatedAt": "2026-04-19 06:15"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (19일, 일)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5WlhSTXZqOTZKeVd6WVRCalFaZlRzblR2d3BWa29PU3FGb1Z3eFNELUpJakZQSlF5MGZZOXM3T1FOQUtleW9jWF81bWJVZ0hqNWpoRkJRS2otek0?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "IMF '내년 한국 부채비율, 선진 非기축통화국 평균 넘을 듯'",
+      "title": "극우 맞서 결집한 좌파 정상들…트럼프 겨냥 '전쟁반대' 구호(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcnFMVGgtZHhPUTQxdHVKQklGWWFsSHJjME5hU29MR3VoZVI5MnhXSWFGaS1nRExXVHFMZWloWk5pd0FYRlZRNm03Y19VRWV4YlhvZTNmNHU1UlhJUUJ0QUFLMFVZc0RIUmxyWjRjcFF2azNRMHdVdVJTd1lvRHBkM1pWdnQ4LTEzbGlXNWtCNE1sczRmd2JfaTQwQTVnM2lrTXdhY2tHbXBSekVWMGxsX1dIVVE3UDM5?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:48:54 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFI5VXdvVTFqaXJuamJYM3NNckE0YmVDSmh6NXQxdHdnVy1kc0dWczdNTG1Xc19nek1qS0Eyc2tZb3FOUnU5cENaZkNnTC1BUTVwakhXTTFDd0xiUUxxb2JYOWNOd1p1UFBIRmJBeE9FRlhTTWtya2lvaDZOZTBtV3M4NDJGazZPVjEydlpVNnV6amJHZk5MX3lSRmswUzFXaGp6MXBKVGFLbG5SRzYwZ1pncVRvLVhsVzM2X3RpTEVfRUNZRHNHSk1R?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:03:55 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(19일, 일)",
+      "title": "이란 '호르무즈 재통제'에도 트럼프는 \"대화 순조롭게 진행\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tT0kxbXE5dGRyaTJFak9GbEQ4YzZKMjhYenRWX1JHbjlXcDZYWUcwM1JKYjAzWHZ0M0dqMndVR2lUZzZRNThvU05tX1hBMW9zdWFn?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rM1FLRVA3dzNFdHl0SHlOamtramR2ejcxTXBKcGIybFk2NDhBMU1mZnN1VnFBUlJNRnROUy04TFF1cW16QlFCTU1IVnZSWDNQb1Bz?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:12:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(19일, 일)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xdDN2LXZqM2d2WXRrT3VPc1V3LUs3eS1jNHZmNzAzUzY1V1FMY1piSHNMTTdiTmlMdVpfTHc4WXFnajJfQXpuVi1tb0p4YVItTVRueDk2TjZZc2JMaHhr?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "李대통령, 오늘부터 인도·베트남 국빈방문…공급망 안정 모색",
+      "title": "車보험 물적담보 보험금 5년새 30%↑…부품·정비·렌터카 누수",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN01OY3lQTmRkajllSW9ZcWVDTXpQalhKb0dVR0t5X3pNaGVpbzdVbXFOd2dweF9IRmxBTmVEcFFla1ZiM0t3RHR4Zl9NM1Z3Z3B3ckROaHhnUi1KMzVDaXIwR213aVF5aW9rRnI3ZHM5TDdGaDhoWDFRTVdjWWE2XzNrT0RqZFRzREtkQno3cXdyWUwzMklmMWRzWEhxUUNVM00xT2ZIenVLXzNYM2FaZmRnRlUxSTlC?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:04:20 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDlaMFRiMGNIb25seFJhbi01UFNLOHFwU1BTV05nYnZxZWYtb1VjMGNIOFRiUF9rLWZiNklPaUlZcGRwU3ZRdGQwMi0zTGRkYlYtNHZHZF9BMXhzOTlmZFZWREpRNUotNVVGejVxdVBrc29ZVzViTUhCbGVWMUU4TnJnZjhvQm9odzNMNEw1RnpZTlRmMVU5RHJObElYbzl6SW5nZ3ZNVHR3OWgyVDYtSmhlSGVfTHNL?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 20:59:27 GMT"
     },
     {
-      "title": "'저당'의 재정의…'식이섬유 설계' 경쟁 붙었다",
+      "title": "이란에 쏠린 눈?…우크라이나도 악전고투 지속",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNOEJZU0xab2dMX2hFa2RtVm92WEduZmpnNDVESWZxRi1zLWk5dWdkamZNQUt0N3puZ3ZrV3ZfcEwzRXR3NkNETENzblcwQU1FU2VNOUVORHVkZHFua2xlNw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CUWZ0R3FicXZpNlYxYXhvYkloNnJPaVZkanBseDF1RmlpQWM4OHNOaC10azRGRmJvM1IyMWxVdEg0MzNBWlhLRV9VRVdmOFgxbGxr?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:01:00 GMT"
+    },
+    {
+      "title": "롯데백화점, 제주서 파트너사 동행 워크숍 개최",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BemRqeXFId1lIREx5SlBESzR3U1c2bndKb2FYR3NldlBVZmRkVnVVcHp4Y2tlclRUNE1EUnFmUE1kREE3bjZDd3YwWEF1MF9aMGN3?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:01:00 GMT"
+    },
+    {
+      "title": "삼성·SK·현대차·LG, '인도-베트남' 국빈 경제사절단 참여",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aYVF0cWJjenc2MDJ4dWF5REVyQ0ZmQmtRaHpZczB1SlJvY0ZEV0gtMlF1NlBkOTFMbGdRaXBVaTlQV21mQnFxZjFOQXprWDNYaktr?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:00:00 GMT"
+    },
+    {
+      "title": "롯데마트, 나들이 시즌 맞아 '동원 청정램' 양고기 할인 행사",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3TlBDZHNPX3d1WmVHTEZxRmdOYm5KTVl3MmZDRVFVR2pJckpjTFBRLW5YdTlVeVIxa1RDNVRZY294UTRRRlBOR0tQMDNPZkJwelVz?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:01:00 GMT"
+    },
+    {
+      "title": "이마트, 봄맞이 리빙·생활용품 할인전···인기 브랜드 모아",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LZ2ppSDJiMGFDZXlSZUFZYlFqa1BVZ3E0LXotb185YUdXTnNHMFhBeWxNUDZqcTBocDNCbFd2SHhxV0h3bVE2c0lYbkFzbE40NFhv?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:01:00 GMT"
+    },
+    {
+      "title": "'메모리 3위' 마이크론, 한국에 PR 둥지…삼성·SK '안방' 공략",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFM0YUFIazF4SHZmM1VYQXo0LWFybzM2UWN5cnpUMHQyZ0tUNHZ5bDhSN24wUGNLYnJhS0tiMTczSTJZdEcwOEFmQkRVYXlrRXNxMVAxd2JlMVRmZXV0TTFDN3lZRVNYcWE5djZZVVVLaGRTOEtScXlhZW1CUGFGVE82a0s4OXo2ck9wRHRPTGhXY2dIcUs5MGxNZDBmS0FxQTBWR2JNUE01Mm8zN2tCWEloMDJBMjJ6WkE?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:03:55 GMT"
     },
     {
       "title": "예지원, 제작진 코피 터뜨린 '강철 체력'…'아형'에서 10년 만에 조우[★밤TV]",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRmdxMnhVNDVrLXZrVnFhalRzNzhlWEUzbGNWdnFDZHl2OE5xdTlWOHd6aUNRQUxVMlVaeVhvXzVpc1AzUWQ2STMzUl9HcFFDY2ppZDJoRFRmNEN2MW9mbkQ0bDZRQzJ1LUhuOXFVNnlBS1o4SmF3bw?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 20:30:00 GMT"
-    },
-    {
-      "title": "\"AI, 해킹 주도권까지 쥔다\"…'미토스 충격'에 정부 보안 비상",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QNmJnYnhLQ2hqUjEwWngxbzVxUXRfR1dlTTdyRUktZ2xBUXB3X0g2NnJQYS1wclRaaHY1RmhhVC12bHFLbkVoMkF2MzFNekE4bFN2SXpNdUlPM1F4LXphZA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:02:00 GMT"
-    },
-    {
-      "title": "[오늘의 날씨] 경기(19일, 일)…낮 최고 29도 '맑음'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3V08taWQ0c1MzdURDdXdtQ0FobFptMzhBNF95SkVOZXFqNkdab3R1dGZ2YTFyZ3l5TFl0dFA1VGFFVC11MjVJNlZYczBRY0tIWlBJ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "'펜 카메라' 불법 촬영 논란에 고소전까지…서울 '재건축' 곳곳 잡음",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96cUFZQ1FrQ0Ryc0tGM2ZnQmpnMlRYaWZIUXF1cmZib083SXBGWjM5Nnl0bzBqU1JLbFZwbm5IVWNLNHh0TUtjZE1pbVJ3RmNqR3pIWll5VEREM2EtX1ZoYnR0ZThKc1pFbzdkQjBMN1VnWE8wV1h5Wg?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:07:00 GMT"
     }
   ],
   "sources": [
