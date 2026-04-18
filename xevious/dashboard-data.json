@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T08:01:45.727586+09:00",
+  "generatedAt": "2026-04-19T08:31:50.180482+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,11 +48,11 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0300",
-      "change": "-0.01",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-04-19 01:37"
+      "value": "1,467.0400",
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
+      "updatedAt": "2026-04-19 08:11"
     },
     {
       "label": "100엔/원",
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.4°C",
-        "feelsLike": "11.0°C",
-        "highLow": "최고 25.6° / 최저 9.6°",
-        "humidity": "88%",
-        "wind": "1.6 m/s",
+        "temperature": "12.8°C",
+        "feelsLike": "12.3°C",
+        "highLow": "최고 25.7° / 최저 10.4°",
+        "humidity": "79%",
+        "wind": "2.1 m/s",
         "rainChance": "0%",
-        "pm10": "75.2 μg/m³",
-        "pm25": "59.1 μg/m³",
+        "pm10": "71.5 μg/m³",
+        "pm25": "59.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "65",
-        "updatedAt": "2026-04-19 07:45"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-04-19 08:15"
       },
       {
         "location": "익산",
-        "summary": "약한 이슬비",
-        "temperature": "13.0°C",
-        "feelsLike": "13.1°C",
-        "highLow": "최고 24.8° / 최저 11.1°",
-        "humidity": "96%",
-        "wind": "4.6 m/s",
+        "summary": "흐림",
+        "temperature": "13.9°C",
+        "feelsLike": "14.4°C",
+        "highLow": "최고 24.7° / 최저 11.0°",
+        "humidity": "93%",
+        "wind": "2.4 m/s",
         "rainChance": "5%",
-        "pm10": "33.1 μg/m³",
-        "pm25": "23.8 μg/m³",
+        "pm10": "31.8 μg/m³",
+        "pm25": "24.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "39",
-        "updatedAt": "2026-04-19 07:45"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-19 08:15"
       }
     ]
   },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-18 23:43:11",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-18 23:18:34",
         "districtSamples": [
           {
             "district": "계양구",
@@ -183,10 +183,28 @@
       "publishedAt": "Sat, 18 Apr 2026 22:35:00 GMT"
     },
     {
-      "title": "민주주의 출발점 4·19…부산, 66주년 기념식 개최",
+      "title": "'미토스'가 던진 경고…AI 보안 패러다임 전환 기로",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10UGhLMkZZWlBGYzRtMXlZbjdEcEVCR0RLQk5TSl94cHZjQmg1NDNscHhLLTIxVE5jLVhFTmRRcUZsT0VybWZKb2ZCcDdzaHZMblhB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:21:00 GMT"
+    },
+    {
+      "title": "수입 의존도 높은 핵심광물…'산업 흔들릴까' 공급망 점검",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnBXU1R5eXhJa2tZdzFKczA5WUdhZ09za0FodHIwbmczcGJ1MGllR1FZOTBxbk1aeWJVVEVPNWFpS0tTYXlMeWYwTWwzQjFPZlVXaUprdHdwXzNWVUgtSHBob0RjdDJpaEdHUHdlZTZsRDA5eE1fRUpFamxSMDNOUkM3WXg4d1hSTGZIUTRtQU03ajlwSHFBWUJoWk1wc3lxSlF2TV9LOEI3SmhNRC1wbVJkaUtDY29x?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:59:50 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHk4WXBWRUZpMGszeDFjX1NpaGI0SWltTnR5UXRXVHpZYVZaN0wzSWlJSC0wRmFwR0ZBSDN3eW5HUE1ic2YwTWZRMVY4SmZEbDRQSTdJMmFwZ2ZYRmlIV3VhV2dmVk56N0JXY1RyQXdQTEluRWNQejNhaV9kQkU4VzBuZWU4VnQ5QXpWY0Z1bkpEeWdHTFFOcTA0Y1RoOXRPTjJwcXJoWmxEQmROMlVmOFFtWGJ0V1VPMVE?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:13:59 GMT"
+    },
+    {
+      "title": "내달 16일부터 단양 시루섬 생태탐방교 주말 임시개방",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFd5NXJMaGFOOGRXdHYtZ3NYdnRwVXp1dmtxT0VTN0N5eGpWVVFFbGd6UHp3aEk2M19NNjh1WUU5ZDQydG9FbkhtWE1CdWpXZ2xvX3BlYVp3a1psc01NZkRGRzhyeGU5VUdpMU9oRTJZU0pidWxQamJDSDBpd3JoUUpFQ1BOVGw3TjhRNVFtNDdwOFBSXy1USG5SRWNuZFY3blZSSjBacG83c29HZkVfYzByVl8wODIw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:04:34 GMT"
+    },
+    {
+      "title": "\"물값 2000원, 외국인 많아서 \"…광장시장이 또",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ObHhZSmVFZElXVVBqeWZnRGhoeUZBX3hVYk5EM1FEeXlyX2IwY1lVaEtEODZBOHFKbFF4T091TXVubm9TZHVjRF9aMkhTcWJNYnZZ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:08:00 GMT"
     },
     {
       "title": "합참, 北 또 탄도 미사일 발사…발사체 제원 분석 중",
@@ -195,22 +213,10 @@
       "publishedAt": "Sat, 18 Apr 2026 22:37:00 GMT"
     },
     {
-      "title": "[특파원 시선] 덜레스 국제공항의 訪美 사절단들",
+      "title": "민주주의 출발점 4·19…부산, 66주년 기념식 개최",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzN5eTJ5eFNjVVJtR3lweDBEWUxQbmRjZ1VZWGNiajVueDhkUHJpamJSZkFHM2NJVFVxQ3Q5RVcyNTRORy1mQUxFM3BLYjRJXzVtQnhUYVdFam9LWENjVnRaV0padnh3R1M1RTRheXpTVEhMM0lCZjFFazJfRjdxOHdYT2JPTFMxRlUxdmZlZXBNdV9fTDRzMF9ZVGZFS1VIR21vdXlTaTBYUk8xdzJYZDBTRXZkelFGRnc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:04:50 GMT"
-    },
-    {
-      "title": "합참 \"北, 동해상으로 탄도미사일 수발 발사\"…11일 만에 도발 재개",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LeGc4N2ZUalJNcDIzbE45WURBMUR4RjhqLWk5WXlGQTlCSExkLWlhNkptdWc0aFA2aVYxS1U1cE1fc2lIaGlzWmNNdHZkLXRBajdSTW1CSjUwZnBIVVNuMGk1S0dhMUFiZnNSSDJVeF9rRG5rUUlCcQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:49:00 GMT"
-    },
-    {
-      "title": "중동발 불확실성에도 유통업계는 '훈풍'…1분기 실적회복 기대",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUk16eFo1QVVMYzZHRE1IOExaNndOcHc0X3U3TkJWdUM5TDBDVlAtUlEzNVJ0ZWxfY2RteFJ4Mm1oZ1pxVWt4UWR1WHhoRVJUY2hzZm1PYTYxZklWbzUtVDFKY1ZlNEVMdFV0YXpjcWlET3lIeG1Sc1dNOE04MXo1WThDR1d3bmxqQ0pEWVEzOWR1S0VjS2xVS2VVWmRONWRUaTNTWDhLZFBBMjVGUDRGMTY4WkJiaDlIcXc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:03:58 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnBXU1R5eXhJa2tZdzFKczA5WUdhZ09za0FodHIwbmczcGJ1MGllR1FZOTBxbk1aeWJVVEVPNWFpS0tTYXlMeWYwTWwzQjFPZlVXaUprdHdwXzNWVUgtSHBob0RjdDJpaEdHUHdlZTZsRDA5eE1fRUpFamxSMDNOUkM3WXg4d1hSTGZIUTRtQU03ajlwSHFBWUJoWk1wc3lxSlF2TV9LOEI3SmhNRC1wbVJkaUtDY29x?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:59:50 GMT"
     },
     {
       "title": "저승에서 타라고?…'2억 벤츠' 함께 묻은 중국 장례식",
@@ -219,22 +225,16 @@
       "publishedAt": "Sat, 18 Apr 2026 22:37:00 GMT"
     },
     {
-      "title": "헤즈볼라 대표, 이스라엘 정전위반 보복 ..5개 조건 제시",
+      "title": "'문단 거목' 윤후명 작가 1주기…학술대회·추모제 열린다",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVN0Z3FIWXdHaU1zNk1SQUNabmNqSjhLcGlXdlNtd1ptamY5RFlBdVpzaldVdm1LTlE2MnM4elEzOWFfQV9NN1g3SC1wVm5QYThhT1dPNzAwa0xPVUVjcGZRVUNtck10VE9MRklWa01EaUhzUVVSbHVabFE2SjVLcVFDcS11ZjJubGVQLVZwTkx3dXdVSkxvWWxFRXhlelRTOUFnUUNGRVlKX0R6NEhOX3Rabl9NVVdzdlE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:03:58 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1J1RkdxbFN2NzlwYzBmTjNIblE4U0hJdWpiRUdVSnRvcmk5N3ZHd191T0w5NThDT3ladkJGcnZnVU1iRXdqYU1BaTBfZGlZRy1QSG1GMWNIcHY4d1R2aEtSU3MyR0drMXdZUXRJaXJ1SmM4YjBxcC04VlhCc3B1cEUzZHh6algxeDBTSjlXc1ZzVUVjR1Vpek5mWUhsaHFwQTlidVR3LWNEMWpGZWYtekRId1NSSVg4Wnc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:04:51 GMT"
     },
     {
-      "title": "'GD 열애설' 이주연 \"♥결별 이유? 내가 잘 질려서\" 쿨하게 밝혔다[스타이슈]",
+      "title": "합참 \"北, 동해상으로 탄도미사일 수발 발사\"…11일 만에 도발 재개",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sZHBPc2gwQUR6emN4RENUT3A3NlkxblYzdXpYTUFiTW9sNjV0LUpWVkJhYUZnVGVrZjNSNHdlcndZWlpoY1FVMkNaUWM0TmlPUXQ4dHloWnlMc3k5ZFc1dndYQjR6dmg1?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:20:00 GMT"
-    },
-    {
-      "title": "이란, 미국의 봉쇄 해제 때까지 호르무즈 폐쇄",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4eVpHb1UxZmpkTXdsbHB4Ny1ueTZoMEVlY2JNWHJtZlYwWEtPWmxNek5mRjBDYUhENTVYRDlGU19rZHhHQTRubnFCSFBXOGQzVDFxdnQ3WXpRaDQ20gFiQVVfeXFMTzlIR1JlV2M3VUFhM01kdW1yZG1Qem5vd2V0dGE2MlpqdHdENmppRkRsTDlfaG4xZ2oyZF9RYzYwTHFYZUc0Zm1KalMzc09ncEp2TUdHMUZsMm1NaE9taGh0ZkE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:07:22 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xQTJQakVBUWtua2gzVktNLUVwY0JmWkFiWWZlM2ZlVnE4TnY2UXZpVFlhTGFvdi1FTkl5XzJ3SzAtRTFOU180YlRxVF9pOXEzNW1J?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:49:00 GMT"
     }
   ],
   "sources": [
