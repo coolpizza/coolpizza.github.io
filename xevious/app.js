@@ -12,6 +12,8 @@ const newsListEl = document.getElementById("newsList");
 const sourceListEl = document.getElementById("sourceList");
 const REFRESH_STORAGE_KEY = "xevious-refresh-minutes";
 const DATA_ENDPOINT = "./dashboard-data.json";
+const SCRIPT_DATA_ENDPOINT = "./dashboard-data.js";
+const IS_FILE_PROTOCOL = window.location.protocol === "file:";
 
 let autoRefreshTimer = 0;
 let viewRenderedAt = new Date();
@@ -30,6 +32,14 @@ function formatDateTime(isoText) {
         dateStyle: "medium",
         timeStyle: "short"
     }).format(date);
+}
+
+function currentDataTimestamp() {
+    return state?.generatedAt || null;
+}
+
+function itemDataTimestamp(item) {
+    return item?.updatedAt || currentDataTimestamp() || viewRenderedAt.toISOString();
 }
 
 function formatPublishedDateTime(text) {
@@ -96,7 +106,7 @@ function renderStats(target, items) {
                 <span class="delta-text">${escapeHtml(item.change)} / ${escapeHtml(item.changePercent)}</span>
             </div>
             <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
-            <div class="meta-text">데이터 기준 ${escapeHtml(renderedAtText)}</div>
+            <div class="meta-text">데이터 기준 ${escapeHtml(formatDateTime(itemDataTimestamp(item)))}</div>
         </article>
     `).join("");
 }
@@ -138,7 +148,7 @@ function renderWeather(weather) {
                             ${chips.map((chip) => `<div class="weather-chip">${chip}</div>`).join("")}
                         </div>
                         <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
-                        <div class="meta-text">데이터 기준 ${escapeHtml(renderedAtText)}</div>
+                        <div class="meta-text">데이터 기준 ${escapeHtml(formatDateTime(itemDataTimestamp(area)))}</div>
                     </article>
                 `;
             }).join("")}
@@ -173,7 +183,7 @@ function renderGas(gas) {
                         <p class="gas-station"><strong>${escapeHtml(area.stationName)}</strong></p>
                         <p class="gas-location">${escapeHtml(area.address)}</p>
                         <p class="gas-meta">표시 시각 ${escapeHtml(renderedAtText)}</p>
-                        <p class="gas-meta">데이터 기준 ${escapeHtml(renderedAtText)}</p>
+                        <p class="gas-meta">데이터 기준 ${escapeHtml(formatDateTime(itemDataTimestamp(area)))}</p>
                         <p class="gas-meta">최저가 지역 요약: ${escapeHtml(districtList || "정보 없음")}</p>
                     </article>
                 `;
@@ -228,7 +238,7 @@ function render() {
         return;
     }
 
-    generatedAtEl.textContent = `최근 새로고침: ${formatDateTime(viewRenderedAt.toISOString())} | 데이터 기준: ${formatDateTime(viewRenderedAt.toISOString())} (${state.timezone || "시간대 미표시"})`;
+    generatedAtEl.textContent = `최근 새로고침: ${formatDateTime(viewRenderedAt.toISOString())} | 데이터 기준: ${formatDateTime(currentDataTimestamp() || viewRenderedAt.toISOString())} (${state.timezone || "시간대 미표시"})`;
     renderStats(koreaMarketsEl, state.koreaMarkets);
     renderStats(usMarketsEl, state.usMarkets);
     renderStats(currenciesEl, state.currencies);
@@ -238,8 +248,38 @@ function render() {
     renderSources(state.sources);
 }
 
+function loadDashboardScript() {
+    return new Promise((resolve, reject) => {
+        const existingScript = document.getElementById("dashboardDataScript");
+        const script = document.createElement("script");
+
+        script.id = "dashboardDataScript";
+        script.src = `${SCRIPT_DATA_ENDPOINT}?t=${Date.now()}`;
+        script.onload = () => resolve(window.DASHBOARD_DATA || null);
+        script.onerror = () => reject(new Error("dashboard-data.js load failed"));
+
+        if (existingScript && existingScript.parentNode) {
+            existingScript.parentNode.removeChild(existingScript);
+        }
+
+        document.body.appendChild(script);
+    });
+}
+
 async function fetchLatestDashboardData() {
     try {
+        if (IS_FILE_PROTOCOL) {
+            const nextState = await loadDashboardScript();
+
+            if (!nextState) {
+                throw new Error("dashboard-data.js returned no data");
+            }
+
+            state = nextState;
+            render();
+            return;
+        }
+
         const response = await fetch(`${DATA_ENDPOINT}?t=${Date.now()}`, {
             cache: "no-store"
         });
@@ -284,7 +324,7 @@ function initializeRefreshControl() {
     });
 }
 
-if ("serviceWorker" in navigator) {
+if (!IS_FILE_PROTOCOL && "serviceWorker" in navigator) {
     window.addEventListener("load", () => {
         navigator.serviceWorker.register("./service-worker.js").catch(() => {
             // Keep the dashboard usable even when offline caching is unavailable.
