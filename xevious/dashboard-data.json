@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T08:11:00.124697+09:00",
+  "generatedAt": "2026-04-18T09:08:09.831982+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 08:09"
+      "updatedAt": "2026-04-18 08:53"
     }
   ],
   "usMarkets": [
@@ -52,7 +52,7 @@
       "change": "-11.88",
       "changePercent": "-0.80%",
       "direction": "down",
-      "updatedAt": "2026-04-17 23:03"
+      "updatedAt": "2026-04-17 23:12"
     },
     {
       "label": "100엔/원",
@@ -60,40 +60,40 @@
       "change": "-4.27",
       "changePercent": "-0.46%",
       "direction": "down",
-      "updatedAt": "2026-04-17 23:05"
+      "updatedAt": "2026-04-17 23:53"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "맑음",
-        "temperature": "14.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "75%",
-        "wind": "1.0 m/s",
+        "summary": "흐림",
+        "temperature": "9.7°C",
+        "feelsLike": "9.1°C",
+        "highLow": "최고 23.2° / 최저 7.5°",
+        "humidity": "95%",
+        "wind": "2.3 m/s",
         "rainChance": "0%",
         "pm10": "61.5 μg/m³",
         "pm25": "52.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-18 08:00"
+        "updatedAt": "2026-04-18 08:45"
       },
       {
         "location": "익산",
-        "summary": "맑음",
-        "temperature": "14.0°C",
-        "feelsLike": null,
-        "highLow": null,
-        "humidity": "80%",
-        "wind": "2.2 m/s",
+        "summary": "흐림",
+        "temperature": "14.5°C",
+        "feelsLike": "13.5°C",
+        "highLow": "최고 25.1° / 최저 8.7°",
+        "humidity": "78%",
+        "wind": "8.1 m/s",
         "rainChance": "0%",
         "pm10": "46.7 μg/m³",
         "pm25": "40.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "62",
-        "updatedAt": "2026-04-18 08:00"
+        "updatedAt": "2026-04-18 08:45"
       }
     ]
   },
@@ -101,20 +101,12 @@
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,959원/L",
-        "lowestDistrict": "강서구",
-        "stationName": "지에스칼텍스㈜ 경인고속주유소",
-        "address": "서울 강서구 국회대로 225 (화곡동)",
-        "updatedAt": "2026-04-17 23:57:55",
+        "lowestPrice": "1,966원/L",
+        "lowestDistrict": "양천구",
+        "stationName": "SK에너지(주) 경인주유소",
+        "address": "서울 양천구 국회대로 170 (신정동)",
+        "updatedAt": "2026-04-18 07:56:53",
         "districtSamples": [
-          {
-            "district": "강서구",
-            "price": "1,959원/L"
-          },
-          {
-            "district": "동작구",
-            "price": "1,959원/L"
-          },
           {
             "district": "양천구",
             "price": "1,966원/L"
@@ -124,8 +116,16 @@
             "price": "1,967원/L"
           },
           {
-            "district": "영등포구",
+            "district": "강서구",
             "price": "1,968원/L"
+          },
+          {
+            "district": "구로구",
+            "price": "1,969원/L"
+          },
+          {
+            "district": "노원구",
+            "price": "1,969원/L"
           }
         ]
       },
@@ -135,7 +135,7 @@
         "lowestDistrict": "중구",
         "stationName": "오일캠프주유소",
         "address": "인천 중구 축항대로 282 (신흥동3가)",
-        "updatedAt": "2026-04-18 00:52:34",
+        "updatedAt": "2026-04-18 07:59:37",
         "districtSamples": [
           {
             "district": "중구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "다음주 9258가구 분양 쏟아진다…수도권·지방 동시 공급",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHUEpWV29xeWNlUmU0T1JqbWdjZU01Q0lKSm1RU00tVldyMlBrQk9QRkVQYTUzWFIxcE5jWFNVWEZ6cjBHcjNqb24wbEZ2LXpuc1VaMG9wWFp5LXc?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 23:00:00 GMT"
-    },
-    {
-      "title": "[ESGC] 대기 중 미세플라스틱, 육지 기원이 해양보다 20배 이상⋯빈 대학 연구팀, 네이처 발표",
+      "title": "[파이낸셜 워치(157)] 달러가치, 호르무즈해협 통행 허용에 급락세-장중 7주만 최저치",
       "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlaFBkSFA0VFpmaXBwOFlVaTVFQUJ3cWs0bEpqUXJjWFZuVHNsQ2hIMjAtYkFqVUYxNzRvRENGajQ5d0pldTJFR1kwOE0weEVQM3hLaUVBdkpsZzZBWHc?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:37:43 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56dTdHOXBsT3BSTm9ob0I1ckxCMjNBbHNPN0dnMnNvRDNFUjBnWUdOblh6MHlPZzVJa0gzYzhERGVNUmZCemdlX2VMZUgxb2owSTZaSXBfQkpWSnVtWWc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 23:54:03 GMT"
     },
     {
-      "title": "미·이란, 20일 파키스탄서 2차 종전담판 전망…이견 좁힐까",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGktUG11N2hCLTZZVDJBS3BJU2kyQ2NJek54MERQRm1Wb0cxenlzU0pubU1fVXJNUFRzNDNXMk9DNFN0eUZWWGFWTl9jY19fNFo1SHpud1FqWDg3aTE5LTF3R0lFbnJLblFvbVVtbmJKbnRTc1VQWWxFNHltaVlFeE1PQUx5d2JEY1A3d2kwS0VhUDNYc1l6cXRIRnhSbmE4bHhVaWJzQ0RRSjlWY2RaU1BzMW9NQjA5OXlDdUhyaEhwbWtSVDM0ZWV3?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:36:40 GMT"
+      "title": "[위클리 PICK 3] 삼성전자 노사갈등 격화부터 다주택자 담보대출 만기 연장 제한까지",
+      "source": "오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Xbl9YeFFrcWZzbFJxU1J2V05xSW4yVDg3bEVYdUp4Nk5QM3B0S2tJZVdxOTQ2dXFEQ0x4ZThreUhHUWlGakV6SEp1djB2V0lBOTVQQUtSUzljOC1UcWNVbW5XQkx6T2RqVm5lQmZ0cVk?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 00:00:00 GMT"
     },
     {
-      "title": "[PRNewswire] DXC 테크놀로지, 컨설팅, 엔지니어링 서비스 부문 임원단 확대",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHWHpMU1NpTm13cXhLVmJCSXhHT0cwa0p4NldEbjVrT2RGTy1UdnYwaUI2OTlWa1MwMDJodm1lTWlNcEJBVktnS1RtSjh0Sk0yek1V?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:59:00 GMT"
-    },
-    {
-      "title": "\"메타, 내달 전체 인력 10% 구조조정…하반기에 추가 감원\"",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14dGxYdTVXVnNSeDVOX3R0a0tCNlBUNm00dlNwdnNjVzRyUXMyYXpLVUJaSWU3Ni1JbUZwTTBOeDFRMVJpSWJ5MFVrV2JPT1FwbVE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:22:52 GMT"
-    },
-    {
-      "title": "국제유가, 호르무즈 해협 개방ㆍ2차 종전 협상 기대에 급락…WTI 11%↓[상보]",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pV0xFeklKSmxSRFprZEFvV2JZTUM1MURteGNKaWotYVpjU0d5SWdfV1ZLTTFNbW1GaUFjS3VpeEFiVm5ESEd3SUJvM1BWbHVWQm83RUNLcWpNdy1fMEdpTWZzZFNqTHB6RXNHVFFn?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:56:00 GMT"
-    },
-    {
-      "title": "국제유가, 호르무즈해협 선박 통항 전면허용 소식에 급락",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByckVKNllkNkEtU2xHcVVoMzgzNVBWRnFDRU5lcXZOXzdwQzRSc2V2WEUzVlVUMUxrWUV0UUR2bFEwNnVGbkZVaWstT2ZRSXZKbkFCV1MzcndaU281SlE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:34:35 GMT"
-    },
-    {
-      "title": "제천 비닐하우스·증평 사료공장서 불…인명피해 없어",
+      "title": "비트코인 랠리에 스트래티지 12% 폭등(상보)",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPdGlwR2RfY0ZxdmROVEN2NnNwZG8tRnVmSFhfdlI5cGc4aEpHNDd1aWs1RE8xVnh6YnJiWVoxZjdXR0hBUnVpbUp2RUwxdEhDYzc4a1dOOFRrcTdLMVlN?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:43:36 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUXZkeFh5NVdYanczaTdNMHlBZzVuZmtwMHBicFpoOTRPeDRUNFJScWFVay1qMG5nTURmZy0yS2JYZnR5VnNDdTAwVElMbktQWUZYU3NlbVo?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 23:16:07 GMT"
     },
     {
-      "title": "여자배구 국가대표팀 '차상현호' 20일 소집…14명 옥석 가리기",
+      "title": "구윤철 \"한국 투자 기회 많다\"…G20서 공급망 역할 강조",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wMmNDS2VrbGF5QWVlWG85dzhQZjlQS2k1QktQbDlFcUNXRmZ6SFdZWmxvbUNHWDNEX2E2ZE1ldlhhTE0yT3RpVk1CV2VyY3RmU2RHQnF0YWZqS19Kdmtlc284eGc0X0FVWTZweQ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 23:40:42 GMT"
+    },
+    {
+      "title": "미 국무부 대표단, 지난 11일 쿠바 방문",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVB5czFoRWJDLWlpaVFZYjJaR2hNR2FpNll4UWQwTHFaYWxzTDB3VlB3ZjdEOUkyaFNqZUZxUHlENF9YUVptN20xanFtYjNsWnRWb1dITzRjY0R5ZmdXWW1qTnJweWw5ZUMzM2MxbEdqcWtVWnlIMFJPbXRTOUVsNjR5X2lJZ1VsNnZuQ1ZHUUNfYlVDSGZVbVNocGUzYXY4NGFyS2U0eFhrektEYWpWNnlVTlNxbmZyOFE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:41:41 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTG9YVWZFUlNocHUtNk9wcnE4ZGF3RHZrRmo0TE1BQ3NOaURZRFpIdlRTbFBOYWk0U0hScWhaVEJ4SjVqZ1RSMVVZTzU5MWtnY1o5M3hLYlVxUnlRaXRpZkNNVG1XX2I2anFJTE5sSk9tSlhxMURNdWxZcVBVZUhjVWR4c3VGUW5ZTEhzaDB3bXYwYTBudU5sMWg4V1NLeU9EN2dkRXlZcUxOYnRDOFBlVkRJeVpMRlNP?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 23:26:43 GMT"
     },
     {
-      "title": "'박진성 시인 성희롱 폭로' 김현진씨 사망…향년 28세",
+      "title": "토요일 낮 최고기온 27도…일교차 주의하세요",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxQXpLM21KUWdWTDRobE5MeGJkTzBVbFRVdGc2Z0ZRRFBMTXM5YXJMZUZ4SndlOEhJWkJVck5xSmVwTnZ3Nm9yWUZmMEJrLUsyMVVCd0NaQUxRMTA0XzFCWQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 22:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKYlhwLWZzaWdzcUJFYWxSQm1VVUhyczhJREpTZ0xMMGhqb0UyQXk2SWNjQTY5aHcxNWhSdnJKVmxoZ21IR1hmc3B3MGlsZVRaLUUzVWFSamhBQ0hBN0Qyb1ZaVGprYzJabEQ2RTRPZW5XMFIwSnB2UQ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 23:21:00 GMT"
+    },
+    {
+      "title": "한세대, 오순절 운동의 공공신학적 의의 국제심포지엄 내달 21일 개최",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXBHNS1KRDB6akd0b2ZXYzhOODk3VUthUk4xRWxac1dvVGYxLXkzZXR1cUg4WlhueGNKWXFGOTVDTDV3NlY3anpBai1pNUtSME1wTmtBNnZjbTE3cjdrY0lYSlBQZTU1c3JFa2ppd2o3QUVFbDZiU0tLZFZCNHhOZENUY1BnaDNwbW50cGJQZ0FXUFlFR2RoRUhTSzl5N2RMYUo1ckhCN05ycTk0Umx1SGRaVzFPYTQ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 23:36:43 GMT"
+    },
+    {
+      "title": "용인 경남아너스빌 공사현장서 감전 추정 사고…60대 근로자 사망",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ckJtb3kzZVc3Tzh5VTBVZ0g5YUJVNExwc2JrSnE2QlVWS0hFYmtQWE5HX0I0Mmt1dTlPNjZrSE1peE5oWnM0U3hCMWFYalQ1ejJr?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 23:17:00 GMT"
+    },
+    {
+      "title": "주말도 초여름 더위 계속…서울 27도·대구 26도",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaUZucTFGX09UYXRTZFBaaGxwV3V0ckVGTmJiTm9ta0pTb1BCRm5BRW5IUHhFMnhzS0FDaTAxRkRmRFI4RFRzODNrelFscjRabkxNUzNZbVJmSlI0eS1HNDNQSm5QNTFpbHZaNmJpMkpWcjBEWWNmRnFJWjhIdzF1MklNVWpfMlNIaHZnV3hqbkZfa3dOcGVmNFFhVGFlclV3NHdQcDBfcVFjNDM3bFA1V0NTNXB3ZjNlOWc?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 23:16:43 GMT"
+    },
+    {
+      "title": "정옥임 \"장동혁 영어연설? 충남 보령식 엑센트\"[한판승부]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wb2daT0FjUkJmYjdSSmlaemV6NFYtRXZ0Q0hmVWxUMWZra0tmd2VBWHJrVkZEc2RmbTNhMWRuUFJQZGZZT05LLTA1b2RrMTJYNWt3?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 23:32:00 GMT"
     }
   ],
   "sources": [
