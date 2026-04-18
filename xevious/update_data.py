@@ -2,6 +2,7 @@ import datetime as dt
 import html
 import json
 import math
+import os
 import re
 import time
 import urllib.parse
@@ -19,7 +20,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 OPINET_HOME_URL = "https://www.opinet.co.kr/"
 OPINET_SEARCH_URL = "https://www.opinet.co.kr/searRgSelect.do"
 OPINET_KEY_PATTERN = r"frm\.opinet_key\.value\s*=\s*'([^']+)'"
-KMA_AUTH_KEY = "Jq3u7QYCT9at7u0GAn_WaA"
+KMA_AUTH_KEY = os.environ.get("KMA_AUTH_KEY", "").strip()
 OPINET_TIMEOUT = 12
 OPINET_RETRIES = 2
 WEATHER_LOCATIONS = [
@@ -404,6 +405,9 @@ def fetch_kma_grid_values(var_name, tmfc, tmef, cache):
     cache_key = (var_name, tmfc.strftime("%Y%m%d%H"), tmef.strftime("%Y%m%d%H"))
     if cache_key in cache:
         return cache[cache_key]
+
+    if not KMA_AUTH_KEY:
+        raise FetchError("KMA_AUTH_KEY 환경 변수가 설정되지 않았습니다.")
 
     url = (
         "https://apihub.kma.go.kr/api/typ01/cgi-bin/url/nph-dfs_shrt_grd"

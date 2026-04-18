@@ -22,6 +22,8 @@ jobs:
           python-version: "3.13"
 
       - name: Refresh dashboard snapshot
+        env:
+          KMA_AUTH_KEY: ${{ secrets.KMA_AUTH_KEY }}
         run: python xevious/update_data.py
 
       - name: Commit updated snapshot
