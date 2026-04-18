@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-18T21:33:59.759618+09:00",
+  "generatedAt": "2026-04-18T22:41:42.861081+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,7 +48,7 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1073",
+      "value": "1,467.1100",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "15.9°C",
-        "feelsLike": "16.0°C",
+        "temperature": "14.2°C",
+        "feelsLike": "14.2°C",
         "highLow": "최고 23.8° / 최저 7.5°",
-        "humidity": "77%",
-        "wind": "2.9 m/s",
+        "humidity": "82%",
+        "wind": "3.1 m/s",
         "rainChance": "0%",
-        "pm10": "59.6 μg/m³",
-        "pm25": "36.6 μg/m³",
+        "pm10": "64.3 μg/m³",
+        "pm25": "46.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "63",
-        "updatedAt": "2026-04-18 21:15"
+        "airQualityIndex": "64",
+        "updatedAt": "2026-04-18 22:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "15.9°C",
-        "feelsLike": "16.4°C",
+        "temperature": "14.6°C",
+        "feelsLike": "14.5°C",
         "highLow": "최고 24.9° / 최저 9.0°",
-        "humidity": "83%",
-        "wind": "3.8 m/s",
+        "humidity": "84%",
+        "wind": "5.0 m/s",
         "rainChance": "0%",
-        "pm10": "50.4 μg/m³",
-        "pm25": "22.5 μg/m³",
+        "pm10": "59.6 μg/m³",
+        "pm25": "26.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-04-18 21:15"
+        "airQualityIndex": "55",
+        "updatedAt": "2026-04-18 22:30"
       }
     ]
   },
@@ -135,15 +135,11 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "중구",
         "stationName": "오일캠프주유소",
         "address": "인천 중구 축항대로 282 (신흥동3가)",
-        "updatedAt": "2026-04-18 14:59:21",
+        "updatedAt": "2026-04-18 17:59:45",
         "districtSamples": [
           {
             "district": "중구",
             "price": "1,956원/L"
-          },
-          {
-            "district": "계양구",
-            "price": "1,965원/L"
           },
           {
             "district": "서구",
@@ -155,6 +151,10 @@ window.DASHBOARD_DATA = {
           },
           {
             "district": "남동구",
+            "price": "1,969원/L"
+          },
+          {
+            "district": "부평구",
             "price": "1,969원/L"
           }
         ]
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[6·3김해]홍태용 '시민 일상과 삶이 편안한 도시로 보답'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX25qODYwMUppMDB0YUpYNURRYmJWa3JlVzNPbU44UVFWdzJtNVhuNG9lMGFlbW5pdXhMeGRCWFU5MVBJNkpKYm1yTHJpQm9nWVFyUnhfaXM5WjNwZkQxTDlSNnlnWkJzQWhFNWdfOFpGT0JIZU1FRzF3VjYwUFFDOTFyeGRESG0xWVplSTBSVndST0oxY1JmUlZQdmNrQlo0a2lZOTNudmp4Q19YbVU4ZXBwZ3o0Rkcw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 12:13:02 GMT"
+      "title": "[뉴스9 제주 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85OUhoV0dhdGxwRkVxZ0NPdWNkLWhxakgtN0QzdmVtY1llR2ctY2k3VE9TNlVpdWpKWGYydnRMYlREc2Q5SUdhSVBIOHozaExlTHlHMWI3MC0wS2M?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:15:00 GMT"
     },
     {
-      "title": "이란, 유조선 공격에 최고지도자까지 '강경 메시지'…긴장 재점화",
+      "title": "컨셉은 아이돌! ‘니케’ 3.5주년 업데이트&혜택 모아보기",
+      "source": "ipnn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tNmozcGtZdXNNRXUtLUFFbmcxM0dEOWxiOGIxTFdOS0RLd2I0UjhQOGk0cGFOVmV6YllFMzJ6YnQyTXV2WUJVcmJEbkg2NEZYUnpEWVhKU2NsS3VOWFk3OTZ5a291Y2Ft?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:31:06 GMT"
+    },
+    {
+      "title": "美·이란, 2차 종전협상 20일 파키스탄 수도 이슬라마바드 개최 전망",
+      "source": "문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jX3RlS18zREprQmlUSzZ4aXB5VC1PZTNjYXRSVFhQMXdiY05LQ1RrU3UtNUxpNmVYQzRLRExTcnJURVFDdmdrdXZUSXNva2l0?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:34:25 GMT"
+    },
+    {
+      "title": "이상민, 재혼 직전 스토킹 당했다 \"신고해도 기소유예…결국 이사\"[스타이슈]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wUG93TnZtM3ZzbVJfQXE2cjNBTnN4UzIyM1RQRnNocXlNZ0RYOUZwWHRRWFJBdlZPdEx0UXZoaTZGaFNQNmdhaG5nMTNwclJ6UUlZRWdMQUlZbUYxQ1oyN3B6cmRVWWdIaXp4SF85dmNiSG5Na3FINg?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 12:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1veU5vYy1tY3NWQTdPeGNmdUJHNjBldzJCcy1pakl3c01MdUhwaXN2SG5YLVROaEJYUUJDUWR6UmNJX2wxbHN3OG9wSFJuN1prUFFvTUF1TFdHNUFaWV9FSzQxR0VJREZOUDVCeDZEUHRzbm9VZ0NxRA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:37:00 GMT"
     },
     {
-      "title": "이란 외무차관 '미국과 2차 협상 날짜 안잡혀'(종합)",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYzNuS3FzZHdLWlcyVnB0azZOSDEyTUZfaThuSy1UQm5LMmNaZnQ0ZUFDeThhd2VzeHl4M0xmM2p0UVF1X21WeFd6cDVkdHJXMDE1b1FIdm9Lc0IzenhRQmJhaEVFc1VYdTl6czhXU0tob0xuWVlXTFB1T3ZhLUYxSExHWmtLU1hzS29qSUdhT3hERTFRalFtMWhBUGsza1NqRkpacjVKbDhpSDBaZ2xrT2dMR1gyRmNEZTlVd20yWFRPUGZNR3QtZGF3VQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:36:53 GMT"
+      "title": "백악관, 앤트로픽 CEO와 회동…‘미토스’ 놓고 협력·갈등 병존",
+      "source": "프리진뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hZGZMeWxUZTd0V3YzMVVueTFPcnVCWUFuMVhZT0FEWFFYNnc2OGd5Nmxpc0d4M3FOUk9VbTg1WTJxdWwtaTAta1VRaENQSDU5STBxRjhZVExmUTh6ZWdscERlT0gySVBjVkE0bXE2bw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:32:47 GMT"
     },
     {
-      "title": "이란 이슬람혁명수비대 , 호르무즈서 유조선에 무경고 발포",
+      "title": "필로폰 밀수 혐의 30대 무죄 “빌려준 통관번호”",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUURnMTlhaU1nenNWdFI2QjhPbFpMY3hBODdaaDYzaDEyVUdlY25TRV9nUjBrN1Z1TzI0T3l5anZXUC1mNXZ0ejllZlViOHNSWlNhRC1pM3Mtbk0?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:14:00 GMT"
+    },
+    {
+      "title": "“갑각류도 통증 느낀다… 바닷가재, 진통제 맞으면 덜 아파해”",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHTGMyRzhKQWNWS1dYSnNVaU9ST1NqODZyM3g0TGxRQnhOM2VQYXc0Nm9Pb0YxR1dmVThHZ0lELUwweHRUTDVfem44ZE1kbEs4MTRRWmtXMUxyUklWVFQ4SkN3?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:30:00 GMT"
+    },
+    {
+      "title": "니케 3.5주년 주인공은 ‘아니스’와 ‘네온’",
+      "source": "게임톡",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uaHkzYndyWm51Y2FOa0lmM29lSHZnX254ZnpESUZjTUtHWUJTRkNxdnlod1FtUVFjUTViWk15aFhaMjk5SXZpSHNmUUdxc0NFMnBESEhtYmplZEJzRWZrTTd6WVhOeHFPOUx0UA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 12:54:47 GMT"
+    },
+    {
+      "title": "'결혼' 심유리, 챔피언 벨트 들고 신부 입장…6년 열애 끝 결실",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xbnk0WnljVldoUEtFWFVhYUN1QmIxWERZTzV5NS11UzNwYnAxREpwWjFNZ0hLbWZRVnNpaHZJMXhSbWdQcHZ2TldqYzJycEJaQUMyQmtzSURCeWRmZDFNMnhkRF9WeWhFZFotamUwLTJtdER6TDEtWA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94WjE3bmwwUUJTa0Z6Z0lrSDJiZU01b0V1eFh6VnpvYmY4QzJNOV91X3BvbUllb1pOVmNwY1RHQlpqSzc0ODhCOENoQ1M1ZnZUMnFoeDBSSjc3b2Z2bWxEQlN6c0RtcldNSFRHODRhd2ZYbE1EanoxZQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:33:00 GMT"
     },
     {
-      "title": "로또 1220회 1등 14명·2등 85명…각 당첨금 얼마?",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUU0VPUjZrcHp0QTBaQU1vTnh4dWtGOGtPVlFBMlIxcWhUSzVzaWJfeDdzbmF1NktheHFmTXAyN19mWWxrMHo3cy1VRXpnT1JGa0ZPcVRZZmtKNGZEZ2VRVjRDZDBxODBUMlAxakVyb3c2VUV6TGtBcg?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 12:14:00 GMT"
-    },
-    {
-      "title": "[포토] 이유찬 '민석이 지금 오열'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pYWQxQVd3TzAwSEdYdHpzdUFZbGh5UVhfTXNkU01odG1sNFJtZlQ5ZURqWi0yaUVtZ0Z0ZjJlZmcxNFlWWEdOamFod2ZRdE90QWNhTWZtUGJteVVJOGtHRmVXSlBiUnMybUE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:43:00 GMT"
-    },
-    {
-      "title": "인플루언서 '수사 무마 의혹' 경찰 간부 직위해제",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5UUNicUpvSFRqY3lzMGNwUlFXYk03dW5PaV9CdENhQ01WanhRZEFVN2JnbHNUTUg2WWt3Uzg2bFpfYXN1UFprTDNUY3VHVzc4Z3VZ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:37:00 GMT"
-    },
-    {
-      "title": "고아라, 세월 역주행 미모 자랑 \"2026년 맞아?\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TUjF3dV9OQWRKZDdyXzRUamlkTGF5d0paZ3RzZkVhMGNQNmJ6aEt1NVI2WExoODJQcjkya0QxQTFlWjJRWGtpdzNPWEVXNjFXZUpjR1Jpc0haaVlya254Zg?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:54:00 GMT"
-    },
-    {
-      "title": "대장동 수사검사 극단선택 시도에 구자현 \"참담\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43M21XSTJkYnQ5YU84RHVSbHJMRjMwVzJXSkFKNnd4WFduRHV5R05yZEhsMXQ0QXV0UGpCRVR0SUJwejBWRzU4WHBXTnE4SEJ3Mmw4?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:41:00 GMT"
-    },
-    {
-      "title": "'인플루언서 수사 무마 의혹' 경찰청 간부 직위 해제",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EQTY3QnRFZUVRZHhzek5iUmVUMTZLemdTSmd2ZFVmX2RDT3FxLWlfLXRIR09KMndUZFpjZTBuZE5mRjktUlF1SlZJZVJ5THNFQjBv?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:37:00 GMT"
+      "title": "44년 만에 송환된 유대인 식당 테러 주범…히샴 하브, 프랑스서 재판 앞둬",
+      "source": "스페셜타임스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkbjVlZEZQdzMyYnFUZ3ZXbkE1ODhGNUZWUDBOOFZxbUVyZFRzMUtabEw5YVEzTmwtMWJNTFVwUndkQ0k4V2E0ZGU1aUJJa1JiMl9xWkFLX05IckpXZDE5cHl4QmhYaGtHbTdQVnpvYV9QUQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:05:45 GMT"
     }
   ],
   "sources": [
