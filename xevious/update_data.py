@@ -695,6 +695,51 @@ def fallback_snapshot(section_name, previous_value, error, empty_value=None):
     raise error
 
 
+def comparable_item(item):
+    if not isinstance(item, dict):
+        return item
+
+    return {key: value for key, value in item.items() if key != "updatedAt"}
+
+
+def preserve_item_updated_at(item, previous_item):
+    if not previous_item:
+        return item
+
+    if comparable_item(item) == comparable_item(previous_item) and previous_item.get("updatedAt"):
+        item["updatedAt"] = previous_item["updatedAt"]
+
+    return item
+
+
+def preserve_list_updated_at(items, previous_items, key_name):
+    previous_by_key = {
+        item.get(key_name): item
+        for item in (previous_items or [])
+        if isinstance(item, dict) and item.get(key_name)
+    }
+
+    return [
+        preserve_item_updated_at(item, previous_by_key.get(item.get(key_name)))
+        if isinstance(item, dict)
+        else item
+        for item in items
+    ]
+
+
+def preserve_snapshot_generated_at(data, previous_data):
+    if not previous_data:
+        return data
+
+    comparable_current = {key: value for key, value in data.items() if key != "generatedAt"}
+    comparable_previous = {key: value for key, value in previous_data.items() if key != "generatedAt"}
+
+    if comparable_current == comparable_previous and previous_data.get("generatedAt"):
+        data["generatedAt"] = previous_data["generatedAt"]
+
+    return data
+
+
 def collect_gasoline_results(sido_name, sido_code, districts):
     results = []
     for district in districts:
@@ -858,7 +903,25 @@ def build_dashboard_data(previous_data=None):
     except FetchError as error:
         news = fallback_snapshot("news", previous_data.get("news"), error, empty_value=[])
 
-    return {
+    korea_markets = preserve_list_updated_at(korea_markets, previous_data.get("koreaMarkets"), "label")
+    us_markets = preserve_list_updated_at(us_markets, previous_data.get("usMarkets"), "label")
+    currencies = preserve_list_updated_at(currencies, previous_data.get("currencies"), "label")
+
+    if weather.get("areas"):
+        weather["areas"] = preserve_list_updated_at(
+            weather["areas"],
+            previous_data.get("weather", {}).get("areas"),
+            "location",
+        )
+
+    if gasoline.get("areas"):
+        gasoline["areas"] = preserve_list_updated_at(
+            gasoline["areas"],
+            previous_data.get("gasoline", {}).get("areas"),
+            "areaLabel",
+        )
+
+    data = {
         "generatedAt": dt.datetime.now(TIMEZONE).isoformat(),
         "timezone": "Asia/Seoul",
         "koreaMarkets": korea_markets,
@@ -898,6 +961,8 @@ def build_dashboard_data(previous_data=None):
             },
         ],
     }
+
+    return preserve_snapshot_generated_at(data, previous_data)
 
 
 def write_output(data):

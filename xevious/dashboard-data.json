@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T16:46:26.230191+09:00",
+  "generatedAt": "2026-04-18T17:07:15.100572+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 16:44"
+      "updatedAt": "2026-04-18 16:28"
     }
   ],
   "usMarkets": [
@@ -48,7 +48,7 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1073",
+      "value": "1,467.1100",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
@@ -56,11 +56,11 @@
     },
     {
       "label": "100엔/원",
-      "value": "931.21",
-      "change": "+3.21",
-      "changePercent": "+0.35%",
+      "value": "928.29",
+      "change": "+0.29",
+      "changePercent": "+0.03%",
       "direction": "up",
-      "updatedAt": "2026-04-18 16:34"
+      "updatedAt": "2026-04-18 17:05"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "23.0°C",
-        "feelsLike": "22.7°C",
+        "temperature": "22.7°C",
+        "feelsLike": "22.4°C",
         "highLow": "최고 23.3° / 최저 7.5°",
-        "humidity": "47%",
-        "wind": "4.7 m/s",
+        "humidity": "49%",
+        "wind": "5.1 m/s",
         "rainChance": "0%",
-        "pm10": "80.6 μg/m³",
+        "pm10": "80.3 μg/m³",
         "pm25": "19.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-18 16:30"
+        "updatedAt": "2026-04-18 17:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "24.5°C",
-        "feelsLike": "24.0°C",
+        "temperature": "24.2°C",
+        "feelsLike": "23.6°C",
         "highLow": "최고 24.9° / 최저 9.0°",
-        "humidity": "48%",
-        "wind": "10.2 m/s",
+        "humidity": "47%",
+        "wind": "8.9 m/s",
         "rainChance": "0%",
-        "pm10": "80.3 μg/m³",
-        "pm25": "21.9 μg/m³",
+        "pm10": "86.1 μg/m³",
+        "pm25": "22.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-18 16:30"
+        "updatedAt": "2026-04-18 17:00"
       }
     ]
   },
@@ -177,46 +177,22 @@
   },
   "news": [
     {
+      "title": "이번주 국내 주요 금융일정(4.20~4.24)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85WEdBaFdHdmVodVpDSE9icE5zbFBwU3FUQXdNMWdhNjNnLVpEaTdfUmRkcXZxWGVlOWdhRlUycmpTVGs4aFpYZHdXVkpMSGoxbmpubWRQY3ZGd25LVjd1VXNNTVFPaklpWENqTTBkWDhKaHZwMTNZQw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:01:00 GMT"
+    },
+    {
       "title": "메이저 11회 우승 일본 가미지, 코리아오픈 휠체어테니스 2관왕",
       "source": "뉴스통",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOak8wVDRLb3lhNE55WFBUS2dCVDluQXVDLV9oWkV2Z3lSaWViWmx0eUlPcWNhWGhENGxla0s4LUZ1c2w4QkhfdW5SSzg2clRtZXdRRzEzVHRQUmtwRHZmUnB5OVFIdzBxWG9zQzBDRDVZZ3dkZWlValU5RVpGVVBZX2tSV3h5NzR1YTRSeDhsQ1d0eXNjNzl3NFpWaXcyNDdSZG4wRnVidkU3bWNGTUFFRGVWay11amIxRkE?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 07:12:36 GMT"
     },
     {
-      "title": "'어제는 홈런, 오늘은 멀티 출루+도루' 김혜성의 다재다능, 다저스는 15승 최선착",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tUThVME5pZFZlQU0zaEJRUFpweXhMN0tsYzdqbEV6aVZ4SzFSMmFtT0JuNkRXNE95SVBGcGhXSFZKU3dzd0ZaS3A3OEJMQnNtbnVGWUJJZlhlMEVES3diWjFHc24ydmZoNUJxVTJsWUNmTENkYWxMYg?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:17:00 GMT"
-    },
-    {
-      "title": "방탄소년단, 日 스포츠 신문 1면 장악…'도쿄돔 열광'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXp3OGQ4bWlEZExSYWNPb3gwR2E0TjQwX2NEWm1QSzM0V2xiNG5tMHM4ZmhRbHQ3MkRjUnpUT2N4OVY3UjM2UFlzbUY5c251ODFsQTcxMlhyZ09jNEhGeUtjUlQzcHMydmhGSlJEcXNLOXVmcURhdUlSOHBXbzZnbE51X1UyT1pIZmNmaFdrQVlaTGNzWXF1WmNjNlM4NjlnQTcyOFQxd3JVb3hYSHhRNWhudFROQ2FG?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:47:41 GMT"
-    },
-    {
-      "title": "일본 나가노시 서남서쪽에서 규모 5.1 지진 발생",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13Z0g1Mmd6b2MzVzRaRU05bC1oaXVteE1SSFVzaEczSm9QV2J6eGFaQ3R5MDdaenpsOGZZNE01MExaRjZwYTFfY1REUk81ZDNyTEZR?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:51:00 GMT"
-    },
-    {
-      "title": "이미주, 라방 켜자마자 '성희롱+악플' 눈살…\"왜 자꾸 입을 가리래\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pSDljUnNKVF93SUZIeGlvcEQtbzNySFdHVXhTTVV0M0dkdDdRRmtkQUlORG5sZHhYck5QZHpKWm5oWXB5RVFjcG9ld0dsT0VBSlJF?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:35:00 GMT"
-    },
-    {
-      "title": "'올림픽 농구 한 경기 최다득점' 오스카 슈미트 별세",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13UlhROV9LQk1GeUVjNWZ5am1lNDBaYWYzdW13NFRJVjZSV05FNjlfQ3pJc1pJMmotMEdjSmRqVjB0NE1keVZoNjhuWnV3NGc5MktR?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:53:00 GMT"
-    },
-    {
-      "title": "디지털 트윈: AI로 만든 내 쌍둥이에게 회사 일을 대신 시킬 수 있을까?",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0waW15U3l5SFdEOWdHR2txb0hNN1pVVWN6UHVvckVjM1Z6YXhXRmNtekM0alJJWVhnQTFDMDN3eVd2dDlsclE2MTA1UmVwd04wTy1WeXhER1ppUDBp0gFiQVVfeXFMTW1WYUY5ZlZlbzliMFdYRTFtSU55MEs3LWkxQzlKVzhoMzRfeWZ6Q3BkVkk5ajZLX3VKSVRZcV94M2FTdXM2aVYzampPaUpyVi00NDFyM3RXZWgzSUJvb1dwMFE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:04:46 GMT"
+      "title": "핵우라늄 놓고 이견 팽팽⋯미 “반출 합의” vs 이란 “절대 불가”",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UUGd0bEZIUzVhUkhvNDFrT0t1LTZra3dqZXVvNVhobDlDWUR0Ym5Wei1BNm9TRHJ1V0dMUWxheXptY2J2NjJmT3c5MVhZOWpoR0ppUThfS2tOZnRMWlZrSVlkOEYxelFSaVRlM2pWcFd2Ylo0?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:02:00 GMT"
     },
     {
       "title": "내일 낮 29도 '초여름' 더위...일교차 20도 안팎",
@@ -225,16 +201,40 @@
       "publishedAt": "Sat, 18 Apr 2026 07:08:12 GMT"
     },
     {
-      "title": "이응우 충남 계룡시장, ‘현장 중심 안전소통’ 3단계…생활자원 회수센터·대체소각시설 점검",
-      "source": "행정수도뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OV1dvRE9oTTZjdUZYOTZKbG5hQzBWRTlVaTFsSWJmdU9fdWNaSEZ0Sk5wM05QSlVUd3FMSUdBQ2JOeGdNT3hxU0RlaHlWSEdQUWtkNEQ4LTYxTVNxeXMtZy16Q2tUUQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:51:55 GMT"
+      "title": "린클, '프라임 S' 출시 예고…제품 라인업 확대",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qdDg0S1lPV0w5cmJ1T2ZuTFJFTVp5MTZGWkNFRnBGQVlvZVFHenhGTUFDdXhKeXBTd3ZtNnl1Z0pGVFdfckxBY3d6SXdKaDhGN1NDQzVUVkZZUXI0S05TUEJ1bE1GVXY5clpXd3RqUWxTX3FBYXhoSw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:00:00 GMT"
     },
     {
-      "title": "'주민 40명' 스페인 농촌 마을 “새로 온 주민에게 '공짜 집 · 일자리' 제공”",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZcHo5VUF4YVdyVE9mMWVJMWc4TXhyVzZrLWxDQ2EzU2FEa1Z1YmRVdWVENWtmc01hVFNDeW5mdHJaeldUU3ctM1ZYVnRtWnpaejh2SWw0clkxNUwzYnNMaWFn?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:30:00 GMT"
+      "title": "[포토] 윤아 '시구의 셰프'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQTRSX3JDTnlKZGg1bnFITDFWSTFkejNRY3dSbURiRWw1UUpqQjF1dGJKdXU3Y0VSV3NmYXgtQWJkd05mM1djZ1Z5Z1lOSUVOMjdscDZIbVJCOXM2c2FHUQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:03:00 GMT"
+    },
+    {
+      "title": "마약 교육서 만났는데 함께 대마 흡입…\"죄질 나빠\" 징역형",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1MGJUNVB4dWpyVVJMbDloZlR6cnBsdjRHVUlWajk2aFVhVnV3U00yTWxLeGFKM0czRlRDQUZNd2tRQ2owZzNLa1dPeUk5dE95a0s4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 07:51:00 GMT"
+    },
+    {
+      "title": "[포토] 김혜빈 아나 '만개한 스마일퀸'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EWnJFSG5hMTFoZGRpUDUtTTRnbC11UVcxdXlWLUc0SEQ4QXJydFlZbWpYYXVpTktFZGV1OXNESjF0SXJrWW05TnpwdjEzN19pZms0YV93?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 07:56:00 GMT"
+    },
+    {
+      "title": "AI 붐에 중국 '가장 비싼주식' 마오타이에서 반도체 회사로 바뀌었다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vRU9GLXI0VENjUVFfcDM5T2pPOUp1bXZKQm5xdnFxNHE0WnZ6VEs5bzdMeWVtS1otelJtdURSUGlaUVlWeXlnbzhVaGRzcnphRml3?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 07:53:00 GMT"
+    },
+    {
+      "title": "텍스트 너머의 시대, 미디어의 새 판 (上)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuX1IzYzF4dDgzUGpqd0RSQnpLa1BvZV9wc09USGljQk1meWdhX05PWHVQcUstdWROMTBFN3hWM3pmOEhvS3g3UGstOW5HOHN1NEc4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 08:01:00 GMT"
     }
   ],
   "sources": [
