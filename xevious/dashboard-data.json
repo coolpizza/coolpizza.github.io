@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T03:57:49.484539+09:00",
+  "generatedAt": "2026-04-19T04:38:45.919289+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.2°C",
-        "feelsLike": "10.7°C",
+        "temperature": "11.4°C",
+        "feelsLike": "11.1°C",
         "highLow": "최고 25.6° / 최저 9.6°",
-        "humidity": "90%",
-        "wind": "3.0 m/s",
+        "humidity": "87%",
+        "wind": "1.3 m/s",
         "rainChance": "0%",
-        "pm10": "91.5 μg/m³",
-        "pm25": "61.0 μg/m³",
+        "pm10": "98.0 μg/m³",
+        "pm25": "61.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "67",
-        "updatedAt": "2026-04-19 03:45"
+        "airQualityIndex": "68",
+        "updatedAt": "2026-04-19 04:30"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "12.6°C",
-        "feelsLike": "12.5°C",
+        "temperature": "11.9°C",
+        "feelsLike": "11.4°C",
         "highLow": "최고 24.8° / 최저 11.1°",
-        "humidity": "91%",
-        "wind": "3.1 m/s",
+        "humidity": "95%",
+        "wind": "5.8 m/s",
         "rainChance": "5%",
-        "pm10": "48.8 μg/m³",
-        "pm25": "27.0 μg/m³",
+        "pm10": "49.5 μg/m³",
+        "pm25": "28.1 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "53",
-        "updatedAt": "2026-04-19 03:45"
+        "updatedAt": "2026-04-19 04:30"
       }
     ]
   },
@@ -177,34 +177,34 @@
   },
   "news": [
     {
-      "title": "알래스카 명소 ‘트레이시 암’ 크루즈 항로서 제외 > 시애틀 뉴스/핫이슈",
-      "source": "SeattleN",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00ME9zTjFGQjRtRnNHTkFKNW5HZXBQSEdGMU5WaEFFbERPc1lHMnM4RmRyc2FXTUNjREQ4RGQxYWxGN0VKUGNRQTBR?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 18:33:45 GMT"
-    },
-    {
-      "title": "'GD 열애설' 이주연, 과거 인기 언급 \"남자 그룹 중의 한 명씩은…\"",
+      "title": "강남 집값 또 떨어졌다, 7주 연속 하락…\"집 살 때 아냐\" 관망세 지속",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ba0Q1ZHNLaXF6cFhhZm9OZ0tuMUVtNV8yUDh5a1Z6SDJwV1pBc01XMllNTW0yeGdxcDJKNm51ZmcwNXVxZHRPdG9qQ2NPZk5FUlU4?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 18:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mVEt3aElDUnhNSDlSaXdiQTNiVUFGMFQ3dzRzM01zRU1vVTNOYW5DVTMyWFZzRWt5R3FYMUt6RTBEZDhUT1ZUckhoYUJvV2pFWHIw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 19:19:00 GMT"
     },
     {
-      "title": "[속보] “엔진주 오후 돌연 점화”…한화엔진·STX엔진·HD현대마린엔진 동반 급등세",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lekZzdkpSYXhHam9SOVV5TmpXdjU3T3JLRE1idGQ2LTR3S21VUVlGYmVtdDRFcm8ycHZaTFFNTURGQW5QN05YMFVvZ21PTFlaRnZrdXFGMFFpUkFUMHpNUlNENlk3SUsy?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 17:59:51 GMT"
+      "title": "강진원 강진군수 예비후보 무소속 출정…‘공천 갈등 넘어 군민 선택으로",
+      "source": "더쎈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xMkhNNmt0R0hGcTkybXFrQjdDTXROUjdfMkZ3MHZVRXhJb1NBNzAxb28zbk5RTWpVcTAydmRGQVd2bW1IeS1seEM5TnVTWEl0c3JWWHotNzQwVTBCX3pxeW5sdmpMXzN0?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 18:58:27 GMT"
+    },
+    {
+      "title": "이란 \"통행료 내면 호르무즈 해협 우선 통과\"…선박 피격 속 바빠진 백악관",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tMDBsTm44Tmo4ZVlFNm42YXQ2Zi16QkZKT3BjSnVrcnNMWTEtd25lQnZaNUJEVXR0Nl9ycXlYelZqYlJYMkQybURHOGhmVGFPRzRz?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 19:25:00 GMT"
+    },
+    {
+      "title": "\"황재균 그립네!\" 이강철이 뜬금없이 은퇴 선수 떠올린 이유→대체 왜?",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uaVJkYWlOZWNyN0hsVmVBaGN2NXUyQl9CWGlWZ2ZDR09uX3NOWFFIVEFNbHdleTltVUZSNEpPT1ZsX1NPejlBS1RPUkxqaVFNUW1mZDN6aFBmaVVy?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 19:01:00 GMT"
     },
     {
       "title": "'39년만' 역사 초대박 사나이→마침내 감격의 데뷔 첫 승! 무사 만루 위기 대탈출 \"이게 되네, 격한 포효 세리머니 이유는…\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3Q1dHQ3c1dk9maTlYTGR4MXJrNEhUcC0zMDNzNE11WTVDNFFCYXJlNWpIQ0JqNVZCdW1ZWWdoUTVGMEx4SENIUEhLeWFfeDNlX0cwckFETjdpQjljNGdNMw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56OUJ0eXNIOHdKbnpZZGZLSkhSaGxUWkpreG93UVJTVFBJcFhlYWs4bjdYbjNBWXJxNl9Qa1k1LVZfQnotaUxyOEJveXU4SGRJUlh2U2tjNFF2Z0l2?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 18:54:00 GMT"
-    },
-    {
-      "title": "폰세, 수술명 밝혀졌다! 결국 무릎인대 재건술 \"2027 스캠 복귀 준비\" 사령탑도 확언",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00RlJLclRqaUhzejZpUm4wWjkycENiYkNESGUxOWVaZThWODZ3N28wbEI5N0JuT2FmaHBfaldGUGYweHlBTW9tdDFFbGwyNGhOdWFoY3VRMXFNdjhk?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 18:33:00 GMT"
     },
     {
       "title": "우주의 첫 별, '삼대별'의 흔적을 밝히다",
@@ -219,10 +219,10 @@
       "publishedAt": "Sat, 18 Apr 2026 16:45:29 GMT"
     },
     {
-      "title": "양상국, 故박지선 향한 그리움 \"돈 빌려주고도 안 받는 착한 사람..잊히니 속상\"(전참시)",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGZqbWhfRUxZVlRGR3BGczRkd1RvRzU4VklpVS1laUpfM0h4dy1tWjZDX3p3WkdVOW9GazNiZFB4Y281blpKbWRfSmUzMFpNNTdaellqaldFR2cwY0Y4eGtOS0xmb2xBYTZVVlRyVzlwSHJfVHB1UlB4MTgybFBoelMyWGpPQ05uNGhYVnJJSQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:42:00 GMT"
+      "title": "‘GD와 6번 열애설♥’ 이주연 “질려서 헤어져” (‘전참시’) - 스타투데이",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zUE15cll3R0dPNldTWjFtd0xSSHBJekNMSmdCdl9OTWtWMklkajQ0X0VhMzdER3V5aTFOTnYxM25uVl9RcWZyV1BqRjltcWp6R2plVnBVNDJMNDNHaXJqN0tvRGQ5Zw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:15:54 GMT"
     },
     {
       "title": "[Vacheron Constantin③] 에제리와 아메리칸 1921, 유산 위에 덧댄 새 이유",
