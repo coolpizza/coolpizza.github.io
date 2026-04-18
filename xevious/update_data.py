@@ -289,7 +289,11 @@ def parse_google_finance_quote(url, label, value_multiplier=1):
     if timestamp_match and offset_match:
         tz_offset_ms = int(html.unescape(offset_match.group(1)).replace('"', ""))
         quote_tz = dt.timezone(dt.timedelta(milliseconds=tz_offset_ms))
-        updated_at = dt.datetime.fromtimestamp(int(timestamp_match.group(1)), tz=quote_tz).strftime("%Y-%m-%d %H:%M")
+        updated_at = (
+            dt.datetime.fromtimestamp(int(timestamp_match.group(1)), tz=quote_tz)
+            .astimezone(TIMEZONE)
+            .strftime("%Y-%m-%d %H:%M")
+        )
 
     return {
         "label": label,

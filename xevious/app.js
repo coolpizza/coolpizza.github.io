@@ -38,8 +38,8 @@ function currentDataTimestamp() {
     return state?.generatedAt || null;
 }
 
-function itemDataTimestamp(item) {
-    return item?.updatedAt || currentDataTimestamp() || viewRenderedAt.toISOString();
+function itemSourceTimestamp(item) {
+    return item?.updatedAt || null;
 }
 
 function formatPublishedDateTime(text) {
@@ -97,6 +97,8 @@ function renderStats(target, items) {
 
     const renderedAtText = formatDateTime(viewRenderedAt.toISOString());
 
+    const snapshotTimestamp = currentDataTimestamp() || viewRenderedAt.toISOString();
+
     target.innerHTML = items.map((item) => `
         <article class="stat-card">
             <p class="stat-label">${escapeHtml(item.label)}</p>
@@ -105,8 +107,9 @@ function renderStats(target, items) {
                 <span class="pill ${badgeClass(item.direction)}">${badgeText(item.direction)}</span>
                 <span class="delta-text">${escapeHtml(item.change)} / ${escapeHtml(item.changePercent)}</span>
             </div>
-            <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
-            <div class="meta-text">데이터 기준 ${escapeHtml(formatDateTime(itemDataTimestamp(item)))}</div>
+            <div class="meta-text">화면 갱신 ${escapeHtml(renderedAtText)}</div>
+            <div class="meta-text">스냅샷 생성 ${escapeHtml(formatDateTime(snapshotTimestamp))}</div>
+            <div class="meta-text">원본 기준 ${escapeHtml(formatDateTime(itemSourceTimestamp(item) || snapshotTimestamp))}</div>
         </article>
     `).join("");
 }
@@ -118,6 +121,8 @@ function renderWeather(weather) {
     }
 
     const renderedAtText = formatDateTime(viewRenderedAt.toISOString());
+
+    const snapshotTimestamp = currentDataTimestamp() || viewRenderedAt.toISOString();
 
     weatherCardEl.innerHTML = `
         <div class="weather-grid">
@@ -147,8 +152,9 @@ function renderWeather(weather) {
                         <div class="weather-details">
                             ${chips.map((chip) => `<div class="weather-chip">${chip}</div>`).join("")}
                         </div>
-                        <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
-                        <div class="meta-text">데이터 기준 ${escapeHtml(formatDateTime(itemDataTimestamp(area)))}</div>
+                        <div class="meta-text">화면 갱신 ${escapeHtml(renderedAtText)}</div>
+                        <div class="meta-text">스냅샷 생성 ${escapeHtml(formatDateTime(snapshotTimestamp))}</div>
+                        <div class="meta-text">원본 기준 ${escapeHtml(formatDateTime(itemSourceTimestamp(area) || snapshotTimestamp))}</div>
                     </article>
                 `;
             }).join("")}
@@ -163,6 +169,7 @@ function renderGas(gas) {
     }
 
     const renderedAtText = formatDateTime(viewRenderedAt.toISOString());
+    const snapshotTimestamp = currentDataTimestamp() || viewRenderedAt.toISOString();
     gasCardEl.innerHTML = `
         <div class="gas-grid">
             ${gas.areas.map((area) => {
@@ -182,8 +189,9 @@ function renderGas(gas) {
                         </div>
                         <p class="gas-station"><strong>${escapeHtml(area.stationName)}</strong></p>
                         <p class="gas-location">${escapeHtml(area.address)}</p>
-                        <p class="gas-meta">표시 시각 ${escapeHtml(renderedAtText)}</p>
-                        <p class="gas-meta">데이터 기준 ${escapeHtml(formatDateTime(itemDataTimestamp(area)))}</p>
+                        <p class="gas-meta">화면 갱신 ${escapeHtml(renderedAtText)}</p>
+                        <p class="gas-meta">스냅샷 생성 ${escapeHtml(formatDateTime(snapshotTimestamp))}</p>
+                        <p class="gas-meta">원본 기준 ${escapeHtml(formatDateTime(itemSourceTimestamp(area) || snapshotTimestamp))}</p>
                         <p class="gas-meta">최저가 지역 요약: ${escapeHtml(districtList || "정보 없음")}</p>
                     </article>
                 `;
@@ -238,7 +246,7 @@ function render() {
         return;
     }
 
-    generatedAtEl.textContent = `최근 새로고침: ${formatDateTime(viewRenderedAt.toISOString())} | 데이터 기준: ${formatDateTime(currentDataTimestamp() || viewRenderedAt.toISOString())} (${state.timezone || "시간대 미표시"})`;
+    generatedAtEl.textContent = `화면 갱신: ${formatDateTime(viewRenderedAt.toISOString())} | 스냅샷 생성: ${formatDateTime(currentDataTimestamp() || viewRenderedAt.toISOString())} (${state.timezone || "시간대 미표시"})`;
     renderStats(koreaMarketsEl, state.koreaMarkets);
     renderStats(usMarketsEl, state.usMarkets);
     renderStats(currenciesEl, state.currencies);
