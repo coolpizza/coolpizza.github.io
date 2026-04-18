@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T09:08:09.831982+09:00",
+  "generatedAt": "2026-04-18T10:10:50.293120+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 08:53"
+      "updatedAt": "2026-04-18 10:05"
     }
   ],
   "usMarkets": [
@@ -48,52 +48,52 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0400",
-      "change": "-11.88",
-      "changePercent": "-0.80%",
+      "value": "1,467.0393",
+      "change": "-0.00",
+      "changePercent": "-0.00%",
       "direction": "down",
-      "updatedAt": "2026-04-17 23:12"
+      "updatedAt": "2026-04-18 00:41"
     },
     {
       "label": "100엔/원",
-      "value": "924.73",
-      "change": "-4.27",
-      "changePercent": "-0.46%",
+      "value": "927.69",
+      "change": "-0.31",
+      "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-17 23:53"
+      "updatedAt": "2026-04-18 00:54"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "9.7°C",
-        "feelsLike": "9.1°C",
-        "highLow": "최고 23.2° / 최저 7.5°",
-        "humidity": "95%",
-        "wind": "2.3 m/s",
+        "summary": "맑음",
+        "temperature": "18.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "45%",
+        "wind": "1.2 m/s",
         "rainChance": "0%",
-        "pm10": "61.5 μg/m³",
-        "pm25": "52.2 μg/m³",
+        "pm10": "29.9 μg/m³",
+        "pm25": "19.4 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "64",
-        "updatedAt": "2026-04-18 08:45"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-04-18 10:00"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "14.5°C",
-        "feelsLike": "13.5°C",
-        "highLow": "최고 25.1° / 최저 8.7°",
-        "humidity": "78%",
-        "wind": "8.1 m/s",
+        "summary": "맑음",
+        "temperature": "19.0°C",
+        "feelsLike": null,
+        "highLow": null,
+        "humidity": "60%",
+        "wind": "2.0 m/s",
         "rainChance": "0%",
-        "pm10": "46.7 μg/m³",
-        "pm25": "40.6 μg/m³",
+        "pm10": "29.6 μg/m³",
+        "pm25": "23.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-18 08:45"
+        "airQualityIndex": "63",
+        "updatedAt": "2026-04-18 10:00"
       }
     ]
   },
@@ -116,15 +116,15 @@
             "price": "1,967원/L"
           },
           {
+            "district": "금천구",
+            "price": "1,967원/L"
+          },
+          {
             "district": "강서구",
             "price": "1,968원/L"
           },
           {
             "district": "구로구",
-            "price": "1,969원/L"
-          },
-          {
-            "district": "노원구",
             "price": "1,969원/L"
           }
         ]
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[파이낸셜 워치(157)] 달러가치, 호르무즈해협 통행 허용에 급락세-장중 7주만 최저치",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56dTdHOXBsT3BSTm9ob0I1ckxCMjNBbHNPN0dnMnNvRDNFUjBnWUdOblh6MHlPZzVJa0gzYzhERGVNUmZCemdlX2VMZUgxb2owSTZaSXBfQkpWSnVtWWc?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 23:54:03 GMT"
+      "title": "[전국 주요 신문 톱뉴스](18일 조간)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qN2hGZE5zY2o3clVPTFpvTXd0ajFLVHFXeXJ1X2pLazdsMlVLb3VnaUdWOG0xTzZMTk5xakpZOG0waEZ1ZG5EQWp2bDI5Wks2ejNjQm5GZDl4cTjSAWBBVV95cUxPekRPUDhLQVc5NnlkUG9lSFJSYjRGd2Q0bnZ4R2d4RnlBSy1Ic1Ayb3ExcURwejlnS2NuMlhYd3hkd3JLTDJtVFhVWWtpTjhsQmlBcDhESkZoVExGUDJ5eVI?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 01:00:01 GMT"
     },
     {
-      "title": "[위클리 PICK 3] 삼성전자 노사갈등 격화부터 다주택자 담보대출 만기 연장 제한까지",
-      "source": "오피니언뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Xbl9YeFFrcWZzbFJxU1J2V05xSW4yVDg3bEVYdUp4Nk5QM3B0S2tJZVdxOTQ2dXFEQ0x4ZThreUhHUWlGakV6SEp1djB2V0lBOTVQQUtSUzljOC1UcWNVbW5XQkx6T2RqVm5lQmZ0cVk?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 00:00:00 GMT"
-    },
-    {
-      "title": "비트코인 랠리에 스트래티지 12% 폭등(상보)",
+      "title": "화창한 토요일 교통량 증가…서울→부산 5시간 20분",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUXZkeFh5NVdYanczaTdNMHlBZzVuZmtwMHBicFpoOTRPeDRUNFJScWFVay1qMG5nTURmZy0yS2JYZnR5VnNDdTAwVElMbktQWUZYU3NlbVo?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 23:16:07 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PY3E2dGE5am9vUWNGQm1GemFybXhhUXVlb04xczBZSkg5bmdHS1RyVS02UUozQkRKMzRYZjZ5YkxDWHZhcUQ5LU95VVFoUFlVR0JTN0lZM0U2TmhBUkJTMVFB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 00:54:34 GMT"
     },
     {
-      "title": "구윤철 \"한국 투자 기회 많다\"…G20서 공급망 역할 강조",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wMmNDS2VrbGF5QWVlWG85dzhQZjlQS2k1QktQbDlFcUNXRmZ6SFdZWmxvbUNHWDNEX2E2ZE1ldlhhTE0yT3RpVk1CV2VyY3RmU2RHQnF0YWZqS19Kdmtlc284eGc0X0FVWTZweQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 23:40:42 GMT"
-    },
-    {
-      "title": "미 국무부 대표단, 지난 11일 쿠바 방문",
+      "title": "[내주날씨] 더위 한풀 꺾이며 평년기온으로…낮 최고 17∼24도",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTG9YVWZFUlNocHUtNk9wcnE4ZGF3RHZrRmo0TE1BQ3NOaURZRFpIdlRTbFBOYWk0U0hScWhaVEJ4SjVqZ1RSMVVZTzU5MWtnY1o5M3hLYlVxUnlRaXRpZkNNVG1XX2I2anFJTE5sSk9tSlhxMURNdWxZcVBVZUhjVWR4c3VGUW5ZTEhzaDB3bXYwYTBudU5sMWg4V1NLeU9EN2dkRXlZcUxOYnRDOFBlVkRJeVpMRlNP?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 23:26:43 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE8xUTlwTTRVVldxWGNpeXl2emZ1NzN4LUgxT0MwNnowX0FWM1FwbEFNTkp1elJ1Z3NyS2dqSnhvM3FoVC1PMnQxTFF3M0RxekhxQVBUcFc1cUtzSThqOHZIQ3pONXotaG1nbEwzRXFTejc1V1JNQXRFUEk2RXp4anBPSWlyRElYSnlmbzg0Z1E5a0JIbzZOWUQ3bzh0a2FLNzliMWVsd1BrbTBfbVNkLUJjTmI2bV9vTnc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 01:07:22 GMT"
     },
     {
-      "title": "토요일 낮 최고기온 27도…일교차 주의하세요",
+      "title": "이재명 대통령, 차지호 의원에게 감사패 수여",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKYlhwLWZzaWdzcUJFYWxSQm1VVUhyczhJREpTZ0xMMGhqb0UyQXk2SWNjQTY5aHcxNWhSdnJKVmxoZ21IR1hmc3B3MGlsZVRaLUUzVWFSamhBQ0hBN0Qyb1ZaVGprYzJabEQ2RTRPZW5XMFIwSnB2UQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 23:21:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9heERhLVl1dmRsNTJvdWZSVU0xTmI2NUNlWHZPM191VnBpX1dGNW8yQTcxZ0FIRVNfSUNsNVRGaEZNd2YzNTBRd2xVblo2UXVOS250UWMwYWJ3b01NZHJRMA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 00:44:00 GMT"
     },
     {
-      "title": "한세대, 오순절 운동의 공공신학적 의의 국제심포지엄 내달 21일 개최",
+      "title": "李대통령, 與 차지호 의원에 감사패…'글로벌 AI허브 설립 지원'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXBHNS1KRDB6akd0b2ZXYzhOODk3VUthUk4xRWxac1dvVGYxLXkzZXR1cUg4WlhueGNKWXFGOTVDTDV3NlY3anpBai1pNUtSME1wTmtBNnZjbTE3cjdrY0lYSlBQZTU1c3JFa2ppd2o3QUVFbDZiU0tLZFZCNHhOZENUY1BnaDNwbW50cGJQZ0FXUFlFR2RoRUhTSzl5N2RMYUo1ckhCN05ycTk0Umx1SGRaVzFPYTQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 23:36:43 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObkNuZGI2bmdmSTZQMEF3elJsRmVrdklnMDhlRGtNNkdJbm1vRnpHS3BUNEZsQjA1RjdCeUFWLWE5YlQzcjRGdE96TE1MT282eWhBNzgydFg4Y0xUYXhiV1pZSm4xOFlYZlFIUkNRWHJraTlkQjdhVWRoQ3Rfc2VlcW50OHFmOFNpRGlLek5veDRCU3IzZHJ0REJLcWJUNVhjY3FjQmloWTg1NGEyRlU0YlZUaG5ZbEkxbF84MThUT2R0RVV5RHlYOQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 00:46:48 GMT"
     },
     {
-      "title": "용인 경남아너스빌 공사현장서 감전 추정 사고…60대 근로자 사망",
+      "title": "민주당 김제선 청장, 대전 중구청장 선거 후보 최종 확정",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ckJtb3kzZVc3Tzh5VTBVZ0g5YUJVNExwc2JrSnE2QlVWS0hFYmtQWE5HX0I0Mmt1dTlPNjZrSE1peE5oWnM0U3hCMWFYalQ1ejJr?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 23:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NM0lUVDN3M1prSEhFR090NElnYzdkVFEyb2F5RVJoUE1JLU1NQVNsZkYxRU1sTTBCZW9sZGxERXpxZ0x6Rk5pWktwVDlOWXRMLTBtQ0htdmU0bzd5ejZ6bWlTd3FUbFJlSkViNjNB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 00:43:00 GMT"
     },
     {
-      "title": "주말도 초여름 더위 계속…서울 27도·대구 26도",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaUZucTFGX09UYXRTZFBaaGxwV3V0ckVGTmJiTm9ta0pTb1BCRm5BRW5IUHhFMnhzS0FDaTAxRkRmRFI4RFRzODNrelFscjRabkxNUzNZbVJmSlI0eS1HNDNQSm5QNTFpbHZaNmJpMkpWcjBEWWNmRnFJWjhIdzF1MklNVWpfMlNIaHZnV3hqbkZfa3dOcGVmNFFhVGFlclV3NHdQcDBfcVFjNDM3bFA1V0NTNXB3ZjNlOWc?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 23:16:43 GMT"
-    },
-    {
-      "title": "정옥임 \"장동혁 영어연설? 충남 보령식 엑센트\"[한판승부]",
+      "title": "부하에 당직 떠넘기고 수당 챙겼나…현직 경찰 팀장 '감찰'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wb2daT0FjUkJmYjdSSmlaemV6NFYtRXZ0Q0hmVWxUMWZra0tmd2VBWHJrVkZEc2RmbTNhMWRuUFJQZGZZT05LLTA1b2RrMTJYNWt3?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 23:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VZWRiUGRJU0FWNXNNRThXVWNFQU5udGhsYVZzdnJIUVI2XzByc1ctbEVhMmhvdVgteld1dEYtdV9Bb19HbldhZ1lSTGZEMDhMYWkw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 01:02:00 GMT"
+    },
+    {
+      "title": "경부고속도로 오산IC 다중 추돌사고…1명 중상",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIMDNZWkpNeW84d1FmdFRsc1F3cVI5U1lpWHlDQU5jNFhjMzdjODFuNHpzN0YtSnJqVzVSX0plQTJQZVJjWDJlZkEySW1QMG1sb3Nr?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 00:32:00 GMT"
+    },
+    {
+      "title": "'무소속' 한동훈·'국힘' 박형준…부산서 손잡을까?[노컷브이]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IMzlLTW94dlhFb1NqUmVpMW5TMllMX2FGdFV4azNrb3p2cVdWZHhNVG16QURneHdBMzF1Z3lGTzFXdElKRl9ENC0xQndTalR5RGw0?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 00:12:00 GMT"
+    },
+    {
+      "title": "전북도 사칭 물품 구매 유도 드러나…\"안사면 과태료\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqbEFPc282ek9HSTdJamh2QkoxemFiWG1ZNWNyUDE1NVh6RGFtTmRRZnZib1hmLURJSGc3RE9oNmJlX1lUS2NuaEc3SnFMeDFCMGtR?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 00:12:00 GMT"
     }
   ],
   "sources": [
