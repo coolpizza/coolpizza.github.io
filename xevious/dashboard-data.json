@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T03:05:17.391766+09:00",
+  "generatedAt": "2026-04-19T03:57:49.484539+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0300",
-      "change": "-0.01",
-      "changePercent": "-0.00%",
-      "direction": "down",
+      "value": "1,467.1073",
+      "change": "+0.07",
+      "changePercent": "+0.00%",
+      "direction": "up",
       "updatedAt": "2026-04-19 01:37"
     },
     {
       "label": "100엔/원",
-      "value": "927.69",
-      "change": "-0.31",
+      "value": "924.73",
+      "change": "-0.27",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-19 02:49"
+      "updatedAt": "2026-04-19 03:45"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "12.3°C",
-        "feelsLike": "11.8°C",
-        "highLow": "최고 25.8° / 최저 10.3°",
-        "humidity": "87%",
-        "wind": "4.3 m/s",
+        "temperature": "11.2°C",
+        "feelsLike": "10.7°C",
+        "highLow": "최고 25.6° / 최저 9.6°",
+        "humidity": "90%",
+        "wind": "3.0 m/s",
         "rainChance": "0%",
-        "pm10": "85.0 μg/m³",
-        "pm25": "58.9 μg/m³",
+        "pm10": "91.5 μg/m³",
+        "pm25": "61.0 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "67",
-        "updatedAt": "2026-04-19 02:15"
+        "updatedAt": "2026-04-19 03:45"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "13.5°C",
-        "feelsLike": "13.1°C",
-        "highLow": "최고 24.7° / 최저 11.5°",
-        "humidity": "86%",
-        "wind": "5.4 m/s",
+        "summary": "약한 이슬비",
+        "temperature": "12.6°C",
+        "feelsLike": "12.5°C",
+        "highLow": "최고 24.8° / 최저 11.1°",
+        "humidity": "91%",
+        "wind": "3.1 m/s",
         "rainChance": "5%",
-        "pm10": "48.0 μg/m³",
-        "pm25": "26.6 μg/m³",
+        "pm10": "48.8 μg/m³",
+        "pm25": "27.0 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "53",
-        "updatedAt": "2026-04-19 02:15"
+        "updatedAt": "2026-04-19 03:45"
       }
     ]
   },
@@ -177,10 +177,16 @@
   },
   "news": [
     {
-      "title": "경기아트센터, 공연장 4곳 상시 공기질 관리 체계로 안심 관람 지원",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zSGdsWERMSHJKQkktWnV5WFNvRXRsdkJzLUttbGxyYUtjdFRrcV9naTczTlBnLWdJVUR2b2d5cnBEYzdlU2lJeHhPSUozdw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 17:23:15 GMT"
+      "title": "알래스카 명소 ‘트레이시 암’ 크루즈 항로서 제외 > 시애틀 뉴스/핫이슈",
+      "source": "SeattleN",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00ME9zTjFGQjRtRnNHTkFKNW5HZXBQSEdGMU5WaEFFbERPc1lHMnM4RmRyc2FXTUNjREQ4RGQxYWxGN0VKUGNRQTBR?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 18:33:45 GMT"
+    },
+    {
+      "title": "'GD 열애설' 이주연, 과거 인기 언급 \"남자 그룹 중의 한 명씩은…\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ba0Q1ZHNLaXF6cFhhZm9OZ0tuMUVtNV8yUDh5a1Z6SDJwV1pBc01XMllNTW0yeGdxcDJKNm51ZmcwNXVxZHRPdG9qQ2NPZk5FUlU4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 18:27:00 GMT"
     },
     {
       "title": "[속보] “엔진주 오후 돌연 점화”…한화엔진·STX엔진·HD현대마린엔진 동반 급등세",
@@ -189,10 +195,22 @@
       "publishedAt": "Sat, 18 Apr 2026 17:59:51 GMT"
     },
     {
-      "title": "\"호재 쏟아졌는데 -10%\"...월드코인, 대기업 협업에도 투자자들 '탈출'",
-      "source": "코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1eUxsdUhVYWxiVVF0WkluSmZjN1hEelF1Sm9XX0FqUGRLVFNTWUNhWE9lRnRoMkxQUDVoLUlCTGZkeWE0NENJam1n?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 18:00:00 GMT"
+      "title": "'39년만' 역사 초대박 사나이→마침내 감격의 데뷔 첫 승! 무사 만루 위기 대탈출 \"이게 되네, 격한 포효 세리머니 이유는…\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3Q1dHQ3c1dk9maTlYTGR4MXJrNEhUcC0zMDNzNE11WTVDNFFCYXJlNWpIQ0JqNVZCdW1ZWWdoUTVGMEx4SENIUEhLeWFfeDNlX0cwckFETjdpQjljNGdNMw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 18:54:00 GMT"
+    },
+    {
+      "title": "폰세, 수술명 밝혀졌다! 결국 무릎인대 재건술 \"2027 스캠 복귀 준비\" 사령탑도 확언",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00RlJLclRqaUhzejZpUm4wWjkycENiYkNESGUxOWVaZThWODZ3N28wbEI5N0JuT2FmaHBfaldGUGYweHlBTW9tdDFFbGwyNGhOdWFoY3VRMXFNdjhk?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 18:33:00 GMT"
+    },
+    {
+      "title": "우주의 첫 별, '삼대별'의 흔적을 밝히다",
+      "source": "브랜드경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IM2VfS3p4UHNjcFUtM2Y5LURhbnFncmRKU2I4RWJDY2ZYTTRnVWIxU0RoNHJHZW80dUtUOTdZbUF3Y1IxbUVQMWZJTEw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 18:19:20 GMT"
     },
     {
       "title": "\"소아청소년 5명 중 1명 비만\"…생활습관 관리가 해법",
@@ -217,24 +235,6 @@
       "source": "GameGPU",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjEzcFg0bk4xX0k5VExSMlY5a0FrYWQ0MjM1cGdzbExvQktJT0JGblZDNjgtVjZKejJZWTRMVjZhc1JCTV8yaHZENHZfLVhYOXVqMkZyM0hFX0N5MW1pMEc2LUlBOHBkbEk1blg3MDB0OFZWdmlTWWVXems3RWw0TzBLMmtHWUt0VU9jVnBQQVZzbDhoWExuejRxS1BBRXdPQjdyUERiWGZpNm1JSnc?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 15:34:50 GMT"
-    },
-    {
-      "title": "트럼프, 이란의 호르무즈 재봉쇄에도 \"대화 순조롭게 진행\"",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlRra0pRMVNzb1BLZ09XQTAzNTdScENBN2IxV2pFZDNrTkxwV2VRVDEtXzZYUjlkZ1FSb0drQzBDSTlSVkNnb1lIdGx6Ym1YWU1KdTlMbXljbzM5RDhhMXJsM0hPUkZjMFhrVHVzdk91aHBfRXEzRXBHd3BDUkxiT0dkTXFTeE13XzBwTEhlS2JibjlUbWJrRDlqaXNqZw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:39:51 GMT"
-    },
-    {
-      "title": "오영실 \"20대에 의사 남편과 결혼해 아이 낳았다고 방송국에서 눈칫밥 먹어\" ('동치미')",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuOFN0ZG1UakdOR2N3M2ZqZ1JxYXR6RzJ3Y2Y3WmZKVnY1bFFNUjgwME04V3ZnTGJacW1LZ0ZMUjA0SWxSM3dMM3pQWmpzYVRlSjk4?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:31:00 GMT"
-    },
-    {
-      "title": "미·이란, 2차 종전 담판 20일 파키스탄서 열 듯…핵 이견 여전",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qbDVGTlVOYkdYVDZTZ0wzS3VYSEItSnRvRFVtMDF0dVR2aVdPM2NJRi1kQ0VHSzdoQllzTU1ITmtkZEVNT1pKWnlmejB5ck9fOVVHUkZUd2F2WHlqNmZhSXUtYndvVnRoLTF3dzQ4UQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:57:00 GMT"
     }
   ],
   "sources": [
