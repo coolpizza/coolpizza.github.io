@@ -16,7 +16,9 @@ OUTPUT_FILE = BASE_DIR / "dashboard-data.js"
 JSON_OUTPUT_FILE = BASE_DIR / "dashboard-data.json"
 TIMEZONE = dt.timezone(dt.timedelta(hours=9))
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0 Safari/537.36"
-OPINET_KEY = "ZbFgD2Xm6B5PTJzDhTtLJNM3yM5pOE80K+g4g9+pono="
+OPINET_HOME_URL = "https://www.opinet.co.kr/"
+OPINET_SEARCH_URL = "https://www.opinet.co.kr/searRgSelect.do"
+OPINET_KEY_PATTERN = r"frm\.opinet_key\.value\s*=\s*'([^']+)'"
 KMA_AUTH_KEY = "Jq3u7QYCT9at7u0GAn_WaA"
 OPINET_TIMEOUT = 12
 OPINET_RETRIES = 2
@@ -86,6 +88,9 @@ class FetchError(RuntimeError):
     pass
 
 
+_opinet_public_key_cache = None
+
+
 def fetch_text(url, data=None, timeout=20, retries=1, retry_delay=1.5):
     last_error = None
 
@@ -130,6 +135,21 @@ def load_existing_dashboard_data():
         return json.loads(JSON_OUTPUT_FILE.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
         return {}
+
+
+def get_opinet_public_key():
+    global _opinet_public_key_cache
+
+    if _opinet_public_key_cache:
+        return _opinet_public_key_cache
+
+    page = fetch_text(OPINET_HOME_URL, timeout=OPINET_TIMEOUT, retries=OPINET_RETRIES)
+    key_match = re.search(OPINET_KEY_PATTERN, page)
+    if not key_match:
+        raise FetchError("오피넷 공개 접근 키를 찾을 수 없습니다.")
+
+    _opinet_public_key_cache = key_match.group(1).strip()
+    return _opinet_public_key_cache
 
 
 def digits_from_number_markup(markup):
@@ -546,11 +566,11 @@ def load_opinet_default_page():
     payload = urllib.parse.urlencode(
         {
             "netfunnel_key": "dummy",
-            "opinet_key": OPINET_KEY,
+            "opinet_key": get_opinet_public_key(),
         }
     ).encode()
     return fetch_text(
-        "https://www.opinet.co.kr/searRgSelect.do",
+        OPINET_SEARCH_URL,
         data=payload,
         timeout=OPINET_TIMEOUT,
         retries=OPINET_RETRIES,
@@ -584,7 +604,7 @@ def fetch_district_gasoline(sido_name, sido_code, district):
     payload = urllib.parse.urlencode(
         {
             "netfunnel_key": "dummy",
-            "opinet_key": OPINET_KEY,
+            "opinet_key": get_opinet_public_key(),
             "BTN_DIV": "os_btn",
             "BTN_DIV_STR": "",
             "POLL_ALL": "all",
@@ -598,7 +618,7 @@ def fetch_district_gasoline(sido_name, sido_code, district):
     ).encode()
 
     html = fetch_text(
-        "https://www.opinet.co.kr/searRgSelect.do",
+        OPINET_SEARCH_URL,
         data=payload,
         timeout=OPINET_TIMEOUT,
         retries=OPINET_RETRIES,
