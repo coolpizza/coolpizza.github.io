@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T04:38:45.919289+09:00",
+  "generatedAt": "2026-04-19T05:04:44.382403+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -56,11 +56,11 @@
     },
     {
       "label": "100엔/원",
-      "value": "924.73",
-      "change": "-0.27",
+      "value": "927.69",
+      "change": "-0.31",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-19 03:45"
+      "updatedAt": "2026-04-19 04:52"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.4°C",
-        "feelsLike": "11.1°C",
+        "temperature": "11.9°C",
+        "feelsLike": "11.5°C",
         "highLow": "최고 25.6° / 최저 9.6°",
-        "humidity": "87%",
-        "wind": "1.3 m/s",
+        "humidity": "84%",
+        "wind": "1.1 m/s",
         "rainChance": "0%",
-        "pm10": "98.0 μg/m³",
-        "pm25": "61.7 μg/m³",
+        "pm10": "102.7 μg/m³",
+        "pm25": "60.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-04-19 04:30"
+        "airQualityIndex": "69",
+        "updatedAt": "2026-04-19 05:00"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "11.9°C",
-        "feelsLike": "11.4°C",
+        "temperature": "11.3°C",
+        "feelsLike": "10.5°C",
         "highLow": "최고 24.8° / 최저 11.1°",
-        "humidity": "95%",
-        "wind": "5.8 m/s",
+        "humidity": "98%",
+        "wind": "8.4 m/s",
         "rainChance": "5%",
-        "pm10": "49.5 μg/m³",
-        "pm25": "28.1 μg/m³",
+        "pm10": "48.4 μg/m³",
+        "pm25": "29.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "53",
-        "updatedAt": "2026-04-19 04:30"
+        "airQualityIndex": "52",
+        "updatedAt": "2026-04-19 05:00"
       }
     ]
   },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-18 23:43:11",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-18 23:18:34",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "강남 집값 또 떨어졌다, 7주 연속 하락…\"집 살 때 아냐\" 관망세 지속",
+      "title": "[오늘의 주요일정] 정치·정부 (19일, 일)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mVEt3aElDUnhNSDlSaXdiQTNiVUFGMFQ3dzRzM01zRU1vVTNOYW5DVTMyWFZzRWt5R3FYMUt6RTBEZDhUT1ZUckhoYUJvV2pFWHIw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 19:19:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MRkc5YnRPOGVYVDJtd1p6eHo2MG1uWHhFazh2dEJxZk9xUjVsZTcwRlZlWnkwM3hUVFliaDlJSjktZWZlcmVnQm92aEkwc0h5eXlQM1lfRnBrdEdueFZxZw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "강진원 강진군수 예비후보 무소속 출정…‘공천 갈등 넘어 군민 선택으로",
-      "source": "더쎈뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xMkhNNmt0R0hGcTkybXFrQjdDTXROUjdfMkZ3MHZVRXhJb1NBNzAxb28zbk5RTWpVcTAydmRGQVd2bW1IeS1seEM5TnVTWEl0c3JWWHotNzQwVTBCX3pxeW5sdmpMXzN0?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 18:58:27 GMT"
+      "title": "조국·한동훈의 험지론이 김부겸 사례와 다른 이유",
+      "source": "노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwT2haaWQ4eFdJeXl2cmxvcngzNUota0ZsZFM5d0FIZHpfaU0wX1pESUwtaE9VTEFBaUdPWHVzdFBabkQzMFZHMkpsdlNRbXUyTVE?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "이란 \"통행료 내면 호르무즈 해협 우선 통과\"…선박 피격 속 바빠진 백악관",
+      "title": "‘2026 어린이를 통한 교회 부흥 컨퍼런스’",
+      "source": "한국교회장로닷컴",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xNlBCdjJzbnQ0OVJVQzJwN3VNamtuczRuSEw5anZoVVFDa2dlUkxkMFpoQ1kxSWc3YUF2OUN5TnlrTEVuVWFaUGNlc3FFaW1TUVRyblhuQ1BmYlVzMUt5bzlDVnFhb0RCV2Nr?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 19:46:51 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 부산·경남(19일, 일)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tMDBsTm44Tmo4ZVlFNm42YXQ2Zi16QkZKT3BjSnVrcnNMWTEtd25lQnZaNUJEVXR0Nl9ycXlYelZqYlJYMkQybURHOGhmVGFPRzRz?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 19:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvZW5GaVFhaTBERl9qWno3V2haUkl2R2VJd1RSWjJrX1lIMVpjWG1aLUE5MjV3TUc4TkU5eEpfVHJVX25wMHk0bGo3THNaSTdzM0hzNzU1ZXljMUlYTjctcA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "\"황재균 그립네!\" 이강철이 뜬금없이 은퇴 선수 떠올린 이유→대체 왜?",
+      "title": "'연정훈 ♥' 한가인 \"스무살 때 남친 있었다…고마운 사람\" 깜짝 고백[스타이슈]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uaVJkYWlOZWNyN0hsVmVBaGN2NXUyQl9CWGlWZ2ZDR09uX3NOWFFIVEFNbHdleTltVUZSNEpPT1ZsX1NPejlBS1RPUkxqaVFNUW1mZDN6aFBmaVVy?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 19:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SdldEbjlLMk14ekRPODRqbzF4cnpJMFN6d2lLaHJnN29HdEdaN25ublNaWVRJQXpyRDJNNnR5YU1ocDZ3UUNPUGV6UnNJVEpMRmRvTWtJaGRNV3BPUHNidDRwdllmY3hoWkdFUGtUeVd5T1NXbmg0Qg?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "'39년만' 역사 초대박 사나이→마침내 감격의 데뷔 첫 승! 무사 만루 위기 대탈출 \"이게 되네, 격한 포효 세리머니 이유는…\"",
+      "title": "[오늘의 날씨] 경기(19일, 일)…낮 최고 29도 '맑음'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56OUJ0eXNIOHdKbnpZZGZLSkhSaGxUWkpreG93UVJTVFBJcFhlYWs4bjdYbjNBWXJxNl9Qa1k1LVZfQnotaUxyOEJveXU4SGRJUlh2U2tjNFF2Z0l2?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 18:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOd1RiNXBkaU9WMUJ3THNuRklYbDF2bk1kM2MyVTlNblRuT094RXFYd1pYVVNQNThJa1JiRW1XRXlqemt2WWJUc2hFVml3SnFMemhBN01rbmlQdmQtYWJZRQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "우주의 첫 별, '삼대별'의 흔적을 밝히다",
-      "source": "브랜드경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IM2VfS3p4UHNjcFUtM2Y5LURhbnFncmRKU2I4RWJDY2ZYTTRnVWIxU0RoNHJHZW80dUtUOTdZbUF3Y1IxbUVQMWZJTEw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 18:19:20 GMT"
+      "title": "양상국, 故 박지선 추억하며 먹먹 \"힘들 때 돈도 빌려줬었다\" 고백",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfMDhEb1BpMG5POGdtWkM2dUZJdkRKNDhmczBsNlFNMlZKMkpjcUFZMjlmLVkxZ2RuQ1h2X3U0ZlE4OXJqcTZTa1pzdV9NMC1nX1JxYXItRXVqeldvVnh0Sw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 19:55:00 GMT"
     },
     {
-      "title": "\"소아청소년 5명 중 1명 비만\"…생활습관 관리가 해법",
-      "source": "라이프인",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nbG5SY1lIN0tTbVZJcGlZcWg4ZHNSQ0R1OHBicUdiQXpPZnk0aU5YZW95aWVtY21ZbmcyWEVsRGk2SS1KaFZuYmhBTmVOc05fQWZxaDExWUNUblk0VmRXNnh0a2lrdnB1?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:45:29 GMT"
+      "title": "'홍명보호 스리백 주문' 속 김문환의 확신 \"대표팀선 윙백? 주문 달라도 역할 인지하면 문제 없다\" [상암 현장]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JRjRXSGxmWGZwODVMLWdSOVNOaldiUzlGMXUtTEJIVF9CNk0xMXZzN1RpYzllMWpEMVJYLTI4c0tWVEUyUTFZUDNiMUJKSUZDZ1diTF9WRUFLV2ph?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 19:51:00 GMT"
     },
     {
-      "title": "‘GD와 6번 열애설♥’ 이주연 “질려서 헤어져” (‘전참시’) - 스타투데이",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zUE15cll3R0dPNldTWjFtd0xSSHBJekNMSmdCdl9OTWtWMklkajQ0X0VhMzdER3V5aTFOTnYxM25uVl9RcWZyV1BqRjltcWp6R2plVnBVNDJMNDNHaXJqN0tvRGQ5Zw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:15:54 GMT"
+      "title": "\"단숨에 4배 폭등\" 통행료 '59억' 내고 새치기…호르무즈 막히자 '이곳' 초과열",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnbTAxcHpsQ1FuMTJnVzFvMzJvU3ZpS3FHS3hSbFMwbldJWlozRnZWRTlaVm9MRWpNNThaaG9FNy1WSGxqNkl5QTBjZFc2cnNuQ0xB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 19:37:00 GMT"
     },
     {
-      "title": "[Vacheron Constantin③] 에제리와 아메리칸 1921, 유산 위에 덧댄 새 이유",
-      "source": "케이트렌디뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yRWh4MWVUM3V1UGk1S3JULTEyZGN6Ym4yNktfZ2s2WVdSUVJqaHNJNkhnbHdmOUw2VWN4emY0eEtyOUVyNEF3YVVkNExMUFUzS0hxVG83VXdJMHV5VTJoWXlHMXI1MkRFUGxaRjBLNA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:38:00 GMT"
-    },
-    {
-      "title": "Black Flag Resynced에는 RT 기능이 추가된 새로운 Anvil과 새로운 물 물리 효과가 포함될 예정입니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjEzcFg0bk4xX0k5VExSMlY5a0FrYWQ0MjM1cGdzbExvQktJT0JGblZDNjgtVjZKejJZWTRMVjZhc1JCTV8yaHZENHZfLVhYOXVqMkZyM0hFX0N5MW1pMEc2LUlBOHBkbEk1blg3MDB0OFZWdmlTWWVXems3RWw0TzBLMmtHWUt0VU9jVnBQQVZzbDhoWExuejRxS1BBRXdPQjdyUERiWGZpNm1JSnc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 15:34:50 GMT"
+      "title": "양상국 \"손흥민과 밤새 연락하던 사이\"…상상 초월 친분 공개",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14c1FmUUdKRGc3Z1NDZU4yQ1JCWmxTWlJtODBZZXRPVGlYcVJlT00ta1pUSE91ck9HbmVrZ0ZKbjE2UGYzdnZGZmd3eTR0Qjd1bUdB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 19:41:00 GMT"
     }
   ],
   "sources": [
