@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T23:24:49.009469+09:00",
+  "generatedAt": "2026-04-19T00:04:24.654086+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.7°C",
-        "feelsLike": "13.6°C",
-        "highLow": "최고 23.8° / 최저 7.5°",
-        "humidity": "83%",
-        "wind": "3.0 m/s",
+        "temperature": "13.4°C",
+        "feelsLike": "13.3°C",
+        "highLow": "최고 26.2° / 최저 11.1°",
+        "humidity": "84%",
+        "wind": "2.4 m/s",
         "rainChance": "0%",
-        "pm10": "68.5 μg/m³",
-        "pm25": "52.2 μg/m³",
+        "pm10": "73.6 μg/m³",
+        "pm25": "55.4 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "64",
-        "updatedAt": "2026-04-18 23:15"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-04-19 00:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "14.3°C",
-        "feelsLike": "14.0°C",
-        "highLow": "최고 24.9° / 최저 9.0°",
-        "humidity": "85%",
-        "wind": "6.2 m/s",
-        "rainChance": "0%",
-        "pm10": "60.5 μg/m³",
-        "pm25": "28.2 μg/m³",
+        "temperature": "13.8°C",
+        "feelsLike": "13.5°C",
+        "highLow": "최고 24.6° / 최저 11.3°",
+        "humidity": "87%",
+        "wind": "6.0 m/s",
+        "rainChance": "5%",
+        "pm10": "53.8 μg/m³",
+        "pm25": "27.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-04-18 23:15"
+        "airQualityIndex": "54",
+        "updatedAt": "2026-04-19 00:00"
       }
     ]
   },
@@ -177,16 +177,22 @@
   },
   "news": [
     {
-      "title": "오세훈 \"보수 재건\"…'명픽' 정원오와 맞대결 성사",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDUDZ0ckY4WTNWeUxDOVZhdWVtQmVKdDBWNS0wN3h4V1ViaUxkT25LcUtfVzBYejd3U3U4b3JLYlA0bXRGcGxvLUdoNmhfemNsQmtN?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:14:00 GMT"
+      "title": "안민석, 선거인단 모집 마감 속 교육격차·교권 해법과 실행력 재부각",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92SVJwOGQxSWtTQml1TklHMEtSOUVIb1A2cHNOaUtTZ3V0ZnNFNUVlOG54cld3amhOSzJ3bi15VHNaRFZhVWxwVU5CanFDUQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:57:19 GMT"
     },
     {
-      "title": "연세대학교, 2027학년도 입학전형 대폭 수정... 최주영 \"연세대는 도전하는 학생을 원한다\"",
-      "source": "베타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ub0Frb05qcTRPQzFtVXhTeTljdk41amxJM3JKMkhkZmFaYnh4Q19PVkEtMVFQaTFZV1BxbjB0Y1RQNENKczNFLTdfSkltTFZrZ3FXWHppam5hRkg2QUZZMG9mdG0?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:51:53 GMT"
+      "title": "민주 \"정치검찰 시대 끝내고 사법정의 바로 세울 것\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14X2d1andCNzJCWUZFREdaUHFaOHJPNHZIZDU0X3BJTzYxNm00eXVzODFHcTd4UUk1eGQzMWU0VmU1RVhacmF2cHdTLTlGSGdBWktB?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:19:00 GMT"
+    },
+    {
+      "title": "상해전기, 2025년 견조한 실적 기록…신규 수주 사상 최고치 달성",
+      "source": "코리아이글뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZSEp3UzBvcDlhT3ZLaEZaM09vSEgzQ2I3aldLN3FuSFRqaTZyVDVIUTZlazB1MHNCeWltTjJLVFBxSjBTdmNjdVZNS3FnSGd1VHRrZDFhVEFzMjZjenZkbXZnYllsblNNTFYyZXc4UWlMUQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:34:00 GMT"
     },
     {
       "title": "목포시, '상반기 특별교부세 확부 현안사업' 건의",
@@ -195,28 +201,10 @@
       "publishedAt": "Sat, 18 Apr 2026 14:04:49 GMT"
     },
     {
-      "title": "컨셉은 아이돌! ‘니케’ 3.5주년 업데이트&혜택 모아보기",
-      "source": "ipnn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tNmozcGtZdXNNRXUtLUFFbmcxM0dEOWxiOGIxTFdOS0RLd2I0UjhQOGk0cGFOVmV6YllFMzJ6YnQyTXV2WUJVcmJEbkg2NEZYUnpEWVhKU2NsS3VOWFk3OTZ5a291Y2Ft?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:31:06 GMT"
-    },
-    {
-      "title": "이환 “캐릭터 뽑기 천장 90회에 픽뚫 없다”",
-      "source": "게임톡",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBha2YyVEZlYzIzOUh4bmZKa1I1RTNrdW9JVlF0RVR5RjFfbEd3bEhKeExRTXpScWFJbHNIazVLeU5UQkp4X3hRMmZBelNUY1lzMXhrckZkbjd4VktBOUR6bmFTWExQYkN4bE1PWg?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:54:20 GMT"
-    },
-    {
-      "title": "[포토]최은우,부드럽고 노련한 임팩트",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3UzUDd3akVvTC0weXpFVGZmZ1hlbjdlMXFyMzQ2Z1VGck94cndWOVBpdG8xaWl5WEdnVmxKd0l4UDNJZDVnSDM2dEpkSWNXRzdCdXhFU2VsVlRIdlhUcjYxaWNkYW5RS3FZOE81Nl9yVkJ4dWFrLU9LdnBLUHB2bw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:05:00 GMT"
-    },
-    {
-      "title": "이란 군부 \"2차 협상 합의 아직\"…호르무즈 개방 선언에 제동",
+      "title": "'첫사랑은 저주다'…유주, 새 싱글 발매 앞두고 커밍순 이미지 공개",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XNGE3RUpBME9DMjJtbEJkU3c1UFl0aHBMTkQ2SFFkWkhJcmZoaDRtdDJla3BjSXdYVFgwWUQzNU1nLTBocE9xVUlaczl2QXJuZmpV?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZUlctWXhsSE02eWxseTgwbzVxV1ZLR2pYYmN3eHlYdHpDMFRWcmMtUXRjY28tanZKelp6Rl9qU1hfN1lTSVFVeFZaUENqNnM0WGRWb0FmZHdzVEx4ckFUNA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:49:00 GMT"
     },
     {
       "title": "목포시, '스마트 광역교통 인프라 구축계획' 보고회 개최",
@@ -225,16 +213,28 @@
       "publishedAt": "Sat, 18 Apr 2026 14:05:03 GMT"
     },
     {
-      "title": "'재혼' 28기 영호♥옥순 청첩장 모임…같은 기수 다 모였다 \"행복하게 살길\"",
+      "title": "이주연 \"아이돌 시절, 남자 그룹 중 한 명씩 날 좋아해\" 인기 과시[전참시]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnRmhOYUxlQkVBQXd0ZExrc1ZnY3RQNWJoVUxvRnJ1RVRzcno0eGF1aGxnd1NfQUkxTUlOX0J1MGZFWEZ1bGNMNkl6VHYxdkhRVXluNGFuUE1vMTZFTENrNw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 14:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nTnVyUFc4RWp5R2dkclpybUFJZXZvQjNUQUxFUXE1Rm5YUzgxOWdmemR3ZmRNTTZvZ0NvNEdNdXRKOTc2eGJDMWpGbDV0ZzJERGlOZnV1dDRpNkh2VkZZckhVYTBRSkF4aTl5Wk1R?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:47:00 GMT"
     },
     {
-      "title": "이란 외무차관 \"미국과 2차 협상 날짜 안 잡혀\"",
+      "title": "통영시, 권한대행 체제 시정 운영",
+      "source": "한국뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5dEwwYzNDOC10Q3EyOTF0Nm1GeTROb25vM2V0amhuWkhMUFktSE11ZXJTWEIwcFo0RFRPZjM0MExqUjg4WjdST0lCNkx4V2I2WEJWenhid191YVNvR2h6MGZ5a2tJUQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:06:19 GMT"
+    },
+    {
+      "title": "국민의힘 \"특검, 수사 없이 정치만…하명 수사소\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fUl8wTVVGQmVyTUZQVkRuUElwaFp6TUljUDZXbHFaRnl2em9LVm94YWdWWTE0bXNDclMwcEVBYjA2MDQ5UWRQOW1Md1p6ejlqQ3ow?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14WUlwcFJGd1R2ZnI3ZG43d1B6azc2eFhSYTd2VmtreU1yOVZRcmhONjdBSjZ5S1hxbkgwbWgyd3E5UEZQZG1HWXE4bG0xb2Q5YkhR?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:24:00 GMT"
+    },
+    {
+      "title": "국민의힘, 여권 '1주택 장특공 폐지' 발의에 \"부동산 핵폭탄\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OZXlCVG5FZnM2ZlJ2QWZMSVRkVHpCTkNFeEZKR1BrakRRRWhsb2hZUy1ETlNINnY2MG1DS2ZzbzZFekp6RGFlT21ZRF9pbkk2UWM0?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:15:00 GMT"
     }
   ],
   "sources": [
