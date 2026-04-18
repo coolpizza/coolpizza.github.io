@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-19T07:05:29.811063+09:00",
+  "generatedAt": "2026-04-19T07:23:15.452574+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "9.8°C",
-        "feelsLike": "9.2°C",
+        "temperature": "10.0°C",
+        "feelsLike": "9.3°C",
         "highLow": "최고 25.6° / 최저 9.6°",
         "humidity": "94%",
-        "wind": "2.1 m/s",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "105.9 μg/m³",
-        "pm25": "59.4 μg/m³",
+        "pm10": "102.9 μg/m³",
+        "pm25": "61.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "69",
-        "updatedAt": "2026-04-19 06:45"
+        "updatedAt": "2026-04-19 07:15"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "11.6°C",
-        "feelsLike": "11.0°C",
+        "temperature": "12.1°C",
+        "feelsLike": "11.8°C",
         "highLow": "최고 24.8° / 최저 11.1°",
-        "humidity": "98%",
-        "wind": "6.6 m/s",
+        "humidity": "97%",
+        "wind": "5.6 m/s",
         "rainChance": "5%",
-        "pm10": "45.4 μg/m³",
-        "pm25": "29.4 μg/m³",
+        "pm10": "41.3 μg/m³",
+        "pm25": "30.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "51",
-        "updatedAt": "2026-04-19 06:45"
+        "airQualityIndex": "50",
+        "updatedAt": "2026-04-19 07:15"
       }
     ]
   },
@@ -177,10 +177,22 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[특파원 시선] 덜레스 국제공항의 訪美 사절단들",
+      "title": "이란, 미국의 봉쇄 해제 때까지 호르무즈 폐쇄",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4eVpHb1UxZmpkTXdsbHB4Ny1ueTZoMEVlY2JNWHJtZlYwWEtPWmxNek5mRjBDYUhENTVYRDlGU19rZHhHQTRubnFCSFBXOGQzVDFxdnQ3WXpRaDQ20gFiQVVfeXFMTzlIR1JlV2M3VUFhM01kdW1yZG1Qem5vd2V0dGE2MlpqdHdENmppRkRsTDlfaG4xZ2oyZF9RYzYwTHFYZUc0Zm1KalMzc09ncEp2TUdHMUZsMm1NaE9taGh0ZkE?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:07:22 GMT"
+    },
+    {
+      "title": "다시 불붙은 반도체 투심…삼전 '빚투' 이달 들어 7.6% 늘어",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzN5eTJ5eFNjVVJtR3lweDBEWUxQbmRjZ1VZWGNiajVueDhkUHJpamJSZkFHM2NJVFVxQ3Q5RVcyNTRORy1mQUxFM3BLYjRJXzVtQnhUYVdFam9LWENjVnRaV0padnh3R1M1RTRheXpTVEhMM0lCZjFFazJfRjdxOHdYT2JPTFMxRlUxdmZlZXBNdV9fTDRzMF9ZVGZFS1VIR21vdXlTaTBYUk8xdzJYZDBTRXZkelFGRnc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:04:50 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkFfZ0M0clRWelRYbXlCaVNBeXRrbmVLOFUwM2Z5TEs5NVpOU01ibmdwNXlPM0JVM05jdlZXQ3dqV1phU2l0MnFzSUY4LVU0WTNQVHQ4NnB4SGVzZ0xtNDBYN3ZWeE00X2U1bzVHTGFEbGFCcW9GSVRjSkJSUllpQ01MYlhlb2wyWXhMUDZSa2pRb3pkUXE3UTIyY1FnVjN3aE0zeEt3WDhFRWF5Z0JsbE5lZEtkdGlv?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:08:58 GMT"
+    },
+    {
+      "title": "[특파원 시선] 덜레스 국제공항의 訪美 사절단들",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VNFFsazd5bEY0eWlkcWVUNXZvZURRMXJTQXNDb1UyWHRfV0RHa0Nid3FoSHlRXzlNSk5ETENtTGVzMFN4alp6NGpmR1Z3WldBdFNJ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:00:00 GMT"
     },
     {
       "title": "李대통령, 오늘부터 인도·베트남 순방…경제협력·공급망 공조 강화",
@@ -189,34 +201,16 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 18 Apr 2026 21:45:00 GMT"
     },
     {
-      "title": "중동발 불확실성에도 유통업계는 '훈풍'…1분기 실적회복 기대",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWRMZThtRndiQWFldnVpYXBHdjdPUEVMMGpHZWx0NnRWWUM5cktkSVBXMTRaU3M2TGJrZ01hRFRaWG9XbXpnWlBSWHFoNTVVNjJMamNfZUhJUXFNRHVPZnpWMHJLT2k0T0JpWWtPRDNoY1RnUkdVeTZyaG5qYVZJN01RSU1nZ19TUDRlcV9rSkxxTUdiT2dDcTNNdmRrd3NYMlFNREc5Vm1HUGllUUxiRVVTM21sd2RS?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:04:29 GMT"
-    },
-    {
-      "title": "대북송금 조작 증거? '리호남 행적 논란' 쟁점은?",
+      "title": "'SILKY VOICE JIMIN' 방탄소년단 지민, 도쿄돔에 울려퍼진 'Heavenly Vocal'…감동 손편지 '퍼펙트'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mSlowc2NIX0t4U2NSUkFOeUI1NDBvX2hVVmpMVEVEVFNsUVNnRV8zdHBNTU5QOG9KSlY0cy0zaGpuZlRiaVZHQ3V4VzdsZFFEMExZ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kXzVLLUU4WHlSeC1JQXBnbjk3LTZCNFROVDVyNm5UR0F0Q054UFRBanBIc3UzcjNzaDRxLVFmVXI2dW43TGdDLW5EUkUyV0d0WFBlYXpyeW9OWEVmdnlKZQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:14:00 GMT"
     },
     {
-      "title": "배달앱 수수료 내리나…상생 합의 논의 재개",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbl9JN2U5RVJ0V1VrNWdxYm12T1hBV09QdWlCZWV5SGtaaUdVWksyM0dxNG5adHJmb0dlUlJPNW14Q182V2ExM2s3RmJQbzlRRktGWVFxV3c0ZkNrUDh4OVpsUHVVdGZaZ2ZJVW5BMmY3SjRLcFl3MzNvUG5sMkFzMThhZkFkVGpQbVpqX19nNWM4a0VOaGlEOXdUY1VOMkJFVzFxcDhwMm03bEhlRUpycHAzcDJBVTZi?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:09:28 GMT"
-    },
-    {
-      "title": "이번주부터 액상형 전자담배도 '담배' 규제…흡연율 영향줄까",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEJNN29oZEVZOWRkYzJpLUw2dl9uOEhxZkJiemptUFh2WlNoTVhWUUhZNGVVYjlzMHNPOFc0dU4tNDNyT3RxekE1TjhjNVFCVnM0UW9wYkx6UkQzRmwycTYxUTMzZzJoVGQ3VVJ0VlF5YmhZa2MyVEFRLXZWUmZUYmNnVjBpTk8xSWhkZmVONEd1YTFuZU5vbjhMQXpvZDUxb1J5bGl0WHZtWHI1M0lOTmxiT1pENkIxTVhN?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:09:24 GMT"
-    },
-    {
-      "title": "목포시 \"서남권 메가시티 교통 허브 도약\" 4대 과제 논의",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FVnhrMEQyS1IzMVFUeVNrQ0gybGJzNmFoQk5nbDMya3FHZ3dKdVc3V1ZlbTlsYkJfZ1JCVW1vbXdTZkFsZ1JmSzVUckIxT0JZZ0w4QmEyR3JURVBLMHhCbmZRT0tGY1dlbHFVVQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:35:30 GMT"
+      "title": "\"10점 만점에 10점\" 이찬원도 놀란 소림사 스님들의 비밀 [서프라이즈 미스터리 살롱]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95Y0lyVHNxX0V2MnNkY1VoaUxoeDZiU21za3dlRmQzeXlscC1YV3FFR3BERzRGNWpSTkdzRTA1TmlJWVB0a2M1RkVPNm1DVEEwejVV?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:07:00 GMT"
     },
     {
       "title": "티빙, 점유율 높이는 동안 적자 쌓였다…\"웨이브 합병 시급해\"",
@@ -225,16 +219,22 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 18 Apr 2026 22:00:00 GMT"
     },
     {
-      "title": "헤즈볼라 대표, 이스라엘 정전위반 보복…5개 조건 제시",
+      "title": "\"정수기, 작아야 산다\"…밀리미터 단위로 번지는 '초소형화' 전쟁",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vdURhMnAwMzVSNWhURFp5TXRBMnA2TEUyMEdYWTBIeWhETC02UEFoTHZkVnBZdHZWM2Q2VFlObmkxVzdSM1d5Z3hQWU5JcUtYTXQyTkNDRTVwUUNGMHRlcQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLbVFFelFuOFhXODlWa3lnb2FBSklPeWxCeFJMYkZfdU9GdFVqNVl2eDRpR0JtNklRdnZ2UEtoeEw1ajhkRUVrRWt4OFFGRFZBaHpfSE03RjhrYS1mUV9WNQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:00:00 GMT"
     },
     {
-      "title": "광역전철 부정승차 4년간 1만4천여건…'빅데이터 단속'에 증가세",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcm1JVFBnMkhtV0Z2S1dCQ3FlemZMcU9QbXdXTTFQVFJCVnJxSTVtbld2M05sRWR3d2VCMFJBS3pFV0pRQ1RHemFwZFZKYzlCVUh4WE9ic0tlUE9rMGhaeXd2NlhZZHVoX3JpRk5JQlUxNXZmTW1jc19NaUU0SmktYndUTkJFQnl2MXRRbnVfWV9fbENlS2UtckdUREhEV3NaM2p6Z2hrenNwUFFsWUVkTzV6NnBuWlpu?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:04:39 GMT"
+      "title": "중동발 불확실성에도 유통업계는 '훈풍'…1분기 실적회복 기대",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZcF9YcUpQWWpfdmsyWlZLT2hXck9TZEk4Sm9WZGkybl8wN29TNUR2M2RyUUd6dHdRTlVxQ3JLdTVNdFFWam1uRHJMRXZoYXNoZ05z?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:01:00 GMT"
+    },
+    {
+      "title": "HD건설기계, 합병후 첫 성적표 '청신호'…영업익 전년比 31%↑ 전망",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpeUhaSzE1XzhhSmFZMkV6MUlPVUFReHY3aFdycnVLVF9HcUI3RkNueGxsTWRTS3c3SzQ4dWo0em56S1ZBWGdIUFRBZGZ1Y0JpZ1RZVlkzbk1IMWVnNlpSRA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:02:00 GMT"
     }
   ],
   "sources": [
