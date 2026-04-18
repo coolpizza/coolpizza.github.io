@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-18T16:29:29.429510+09:00",
+  "generatedAt": "2026-04-18T16:46:26.230191+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@ window.DASHBOARD_DATA = {
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 16:28"
+      "updatedAt": "2026-04-18 16:44"
     }
   ],
   "usMarkets": [
@@ -48,7 +48,7 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1100",
+      "value": "1,467.1073",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
@@ -56,11 +56,11 @@ window.DASHBOARD_DATA = {
     },
     {
       "label": "100엔/원",
-      "value": "928.29",
-      "change": "+3.29",
-      "changePercent": "+0.36%",
+      "value": "931.21",
+      "change": "+3.21",
+      "changePercent": "+0.35%",
       "direction": "up",
-      "updatedAt": "2026-04-18 16:25"
+      "updatedAt": "2026-04-18 16:34"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "23.2°C",
-        "feelsLike": "22.8°C",
+        "temperature": "23.0°C",
+        "feelsLike": "22.7°C",
         "highLow": "최고 23.3° / 최저 7.5°",
-        "humidity": "46%",
+        "humidity": "47%",
         "wind": "4.7 m/s",
         "rainChance": "0%",
         "pm10": "80.6 μg/m³",
         "pm25": "19.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-18 16:15"
+        "updatedAt": "2026-04-18 16:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "24.7°C",
+        "temperature": "24.5°C",
         "feelsLike": "24.0°C",
         "highLow": "최고 24.9° / 최저 9.0°",
         "humidity": "48%",
-        "wind": "11.0 m/s",
+        "wind": "10.2 m/s",
         "rainChance": "0%",
         "pm10": "80.3 μg/m³",
         "pm25": "21.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-18 16:15"
+        "updatedAt": "2026-04-18 16:30"
       }
     ]
   },
@@ -177,28 +177,46 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "메이저 11회 우승 일본 가미지, 코리아오픈 휠체어테니스 2관왕",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOak8wVDRLb3lhNE55WFBUS2dCVDluQXVDLV9oWkV2Z3lSaWViWmx0eUlPcWNhWGhENGxla0s4LUZ1c2w4QkhfdW5SSzg2clRtZXdRRzEzVHRQUmtwRHZmUnB5OVFIdzBxWG9zQzBDRDVZZ3dkZWlValU5RVpGVVBZX2tSV3h5NzR1YTRSeDhsQ1d0eXNjNzl3NFpWaXcyNDdSZG4wRnVidkU3bWNGTUFFRGVWay11amIxRkE?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 07:12:36 GMT"
+    },
+    {
+      "title": "'어제는 홈런, 오늘은 멀티 출루+도루' 김혜성의 다재다능, 다저스는 15승 최선착",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tUThVME5pZFZlQU0zaEJRUFpweXhMN0tsYzdqbEV6aVZ4SzFSMmFtT0JuNkRXNE95SVBGcGhXSFZKU3dzd0ZaS3A3OEJMQnNtbnVGWUJJZlhlMEVES3diWjFHc24ydmZoNUJxVTJsWUNmTENkYWxMYg?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 07:17:00 GMT"
+    },
+    {
+      "title": "방탄소년단, 日 스포츠 신문 1면 장악…'도쿄돔 열광'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXp3OGQ4bWlEZExSYWNPb3gwR2E0TjQwX2NEWm1QSzM0V2xiNG5tMHM4ZmhRbHQ3MkRjUnpUT2N4OVY3UjM2UFlzbUY5c251ODFsQTcxMlhyZ09jNEhGeUtjUlQzcHMydmhGSlJEcXNLOXVmcURhdUlSOHBXbzZnbE51X1UyT1pIZmNmaFdrQVlaTGNzWXF1WmNjNlM4NjlnQTcyOFQxd3JVb3hYSHhRNWhudFROQ2FG?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 06:47:41 GMT"
+    },
+    {
+      "title": "일본 나가노시 서남서쪽에서 규모 5.1 지진 발생",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13Z0g1Mmd6b2MzVzRaRU05bC1oaXVteE1SSFVzaEczSm9QV2J6eGFaQ3R5MDdaenpsOGZZNE01MExaRjZwYTFfY1REUk81ZDNyTEZR?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 06:51:00 GMT"
+    },
+    {
+      "title": "이미주, 라방 켜자마자 '성희롱+악플' 눈살…\"왜 자꾸 입을 가리래\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pSDljUnNKVF93SUZIeGlvcEQtbzNySFdHVXhTTVV0M0dkdDdRRmtkQUlORG5sZHhYck5QZHpKWm5oWXB5RVFjcG9ld0dsT0VBSlJF?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 07:35:00 GMT"
+    },
+    {
+      "title": "'올림픽 농구 한 경기 최다득점' 오스카 슈미트 별세",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13UlhROV9LQk1GeUVjNWZ5am1lNDBaYWYzdW13NFRJVjZSV05FNjlfQ3pJc1pJMmotMEdjSmRqVjB0NE1keVZoNjhuWnV3NGc5MktR?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 06:53:00 GMT"
+    },
+    {
       "title": "디지털 트윈: AI로 만든 내 쌍둥이에게 회사 일을 대신 시킬 수 있을까?",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0waW15U3l5SFdEOWdHR2txb0hNN1pVVWN6UHVvckVjM1Z6YXhXRmNtekM0alJJWVhnQTFDMDN3eVd2dDlsclE2MTA1UmVwd04wTy1WeXhER1ppUDBp0gFiQVVfeXFMTW1WYUY5ZlZlbzliMFdYRTFtSU55MEs3LWkxQzlKVzhoMzRfeWZ6Q3BkVkk5ajZLX3VKSVRZcV94M2FTdXM2aVYzampPaUpyVi00NDFyM3RXZWgzSUJvb1dwMFE?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 07:04:46 GMT"
-    },
-    {
-      "title": "무안 주요행사(4월20~26일)",
-      "source": "의왕미디어저널",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPYng5WEc0SmdwUENBbHhCY3oxWmRVSVhXcWtZLWQ4cXpZY0Q0QzNWUXppaHhnNllfVzg5YkhDNlBWMllHNWdTSF9mR21XRVowTzNvTko5dTdFbV9TSjFWQjdMSXVBcjJsV0E?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:50:23 GMT"
-    },
-    {
-      "title": "메이저 11회 우승 일본 가미지, 코리아오픈 휠체어테니스 2관왕",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkxUdFZSZHFlRWRHS2tCb3ZrVzRiUDlVRmhfRUM4d0wtdWdkWkEzX1IwcmZEVjZRNjlzLVJhTnp0YWhVek85QWl3VWlUVGlhMUxwc0ZRbnZ5cFdXbktWRmNkc3lLLUtFdFNlYnVMeWIwUDE4azlUQUpzTXZ2QnN3cmg3OGtvRVFQR3hfV2dSTXdpZVQ3bG1ycGd4VVhYU25COUE4Z24wNGc0RTF3d3Q4Nkt4ZE0zUS1F?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:12:13 GMT"
-    },
-    {
-      "title": "오세훈 \"선거 기간 장동혁 역할 많지 않아…후보들에게 짐\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUejRzYlVnWFVxSXpOVThPVktXbXhYb3FXeDBKM0hvR0JySDByQWtiSFNxZlptUFNkRFZTVHNsc2RMLWhYZmozTmdoamYtc3FvNFNv?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:15:00 GMT"
     },
     {
       "title": "내일 낮 29도 '초여름' 더위...일교차 20도 안팎",
@@ -213,28 +231,10 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 18 Apr 2026 06:51:55 GMT"
     },
     {
-      "title": "미국, 러시아 원유 판매 한 달 더 허용",
-      "source": "아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90ckprTTdmWWFOT2V2RVdrTGc2NzlXYWZyczFjc0pvY1IzYnBOM2VvQXlHNVl5NjVTVy1PU0x6RXF5TTNiTzZiMXM4YWE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:35:47 GMT"
-    },
-    {
-      "title": "[헬스 HOT 뉴스] 국산 신약 '자큐보', 1분기 처방액 212억…\"존재감 확대\"",
-      "source": "비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuVFNyU2NpbVBPakQtLVlxLWNhQVBadFlubWdVRnJab0ZuaVVma3lFbGJNelh4cVJsSFY0cW5KSDBtTW9YZVdZeHktLWhkaVVXOHFtbmw1R0xoX3FfVnZfNFFrbUJHcEsxSWc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:35:00 GMT"
-    },
-    {
-      "title": "방탄소년단, 일본 5개 스포츠 신문 1면 장식…도쿄돔 '전석 매진'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YcWNwTXA5TThCUkc5X0l6OGNKTVVYYlVqaEhTbGNIVzhNWUljSVdRRDA2ZVFCZnpiWWxUS1Fsd0FEelczeUZPYXZrR3hQcHVvRUE1akVRRUdZeXU5cEM4SExpRWRaa09teWNPWmdpM0l2V29nYmI2Uw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 07:20:00 GMT"
-    },
-    {
-      "title": "방탄소년단, 日 스포츠 신문 1면 장악…'도쿄돔 열광'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXp3OGQ4bWlEZExSYWNPb3gwR2E0TjQwX2NEWm1QSzM0V2xiNG5tMHM4ZmhRbHQ3MkRjUnpUT2N4OVY3UjM2UFlzbUY5c251ODFsQTcxMlhyZ09jNEhGeUtjUlQzcHMydmhGSlJEcXNLOXVmcURhdUlSOHBXbzZnbE51X1UyT1pIZmNmaFdrQVlaTGNzWXF1WmNjNlM4NjlnQTcyOFQxd3JVb3hYSHhRNWhudFROQ2FG?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:47:41 GMT"
+      "title": "'주민 40명' 스페인 농촌 마을 “새로 온 주민에게 '공짜 집 · 일자리' 제공”",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZcHo5VUF4YVdyVE9mMWVJMWc4TXhyVzZrLWxDQ2EzU2FEa1Z1YmRVdWVENWtmc01hVFNDeW5mdHJaeldUU3ctM1ZYVnRtWnpaejh2SWw0clkxNUwzYnNMaWFn?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 07:30:00 GMT"
     }
   ],
   "sources": [
