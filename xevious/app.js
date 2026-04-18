@@ -89,13 +89,14 @@ function badgeText(direction) {
     return "보합";
 }
 
-function renderStats(target, items) {
+function renderStats(target, items, options = {}) {
     if (!items || items.length === 0) {
         target.innerHTML = '<p class="empty-state">표시할 데이터가 없습니다.</p>';
         return;
     }
 
     const renderedAtText = formatDateTime(viewRenderedAt.toISOString());
+    const sharedDataTimestamp = options.dataTimestamp || null;
 
     target.innerHTML = items.map((item) => `
         <article class="stat-card">
@@ -106,7 +107,7 @@ function renderStats(target, items) {
                 <span class="delta-text">${escapeHtml(item.change)} / ${escapeHtml(item.changePercent)}</span>
             </div>
             <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
-            <div class="meta-text">데이터 기준 ${escapeHtml(formatDateTime(itemSourceTimestamp(item) || currentDataTimestamp() || viewRenderedAt.toISOString()))}</div>
+            <div class="meta-text">데이터 기준 ${escapeHtml(formatDateTime(sharedDataTimestamp || itemSourceTimestamp(item) || currentDataTimestamp() || viewRenderedAt.toISOString()))}</div>
         </article>
     `).join("");
 }
@@ -239,8 +240,8 @@ function render() {
     }
 
     generatedAtEl.textContent = `표시 시각: ${formatDateTime(viewRenderedAt.toISOString())} | 데이터 기준: ${formatDateTime(currentDataTimestamp() || viewRenderedAt.toISOString())} (${state.timezone || "시간대 미표시"})`;
-    renderStats(koreaMarketsEl, state.koreaMarkets);
-    renderStats(usMarketsEl, state.usMarkets);
+    renderStats(koreaMarketsEl, state.koreaMarkets, { dataTimestamp: currentDataTimestamp() });
+    renderStats(usMarketsEl, state.usMarkets, { dataTimestamp: currentDataTimestamp() });
     renderStats(currenciesEl, state.currencies);
     renderWeather(state.weather);
     renderGas(state.gasoline);
