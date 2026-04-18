@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T22:41:42.861081+09:00",
+  "generatedAt": "2026-04-18T23:24:49.009469+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -56,11 +56,11 @@
     },
     {
       "label": "100엔/원",
-      "value": "927.69",
-      "change": "-0.31",
+      "value": "924.73",
+      "change": "-0.27",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-18 21:25"
+      "updatedAt": "2026-04-18 23:22"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "14.2°C",
-        "feelsLike": "14.2°C",
+        "temperature": "13.7°C",
+        "feelsLike": "13.6°C",
         "highLow": "최고 23.8° / 최저 7.5°",
-        "humidity": "82%",
-        "wind": "3.1 m/s",
+        "humidity": "83%",
+        "wind": "3.0 m/s",
         "rainChance": "0%",
-        "pm10": "64.3 μg/m³",
-        "pm25": "46.2 μg/m³",
+        "pm10": "68.5 μg/m³",
+        "pm25": "52.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-18 22:30"
+        "updatedAt": "2026-04-18 23:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "14.6°C",
-        "feelsLike": "14.5°C",
+        "temperature": "14.3°C",
+        "feelsLike": "14.0°C",
         "highLow": "최고 24.9° / 최저 9.0°",
-        "humidity": "84%",
-        "wind": "5.0 m/s",
+        "humidity": "85%",
+        "wind": "6.2 m/s",
         "rainChance": "0%",
-        "pm10": "59.6 μg/m³",
-        "pm25": "26.1 μg/m³",
+        "pm10": "60.5 μg/m³",
+        "pm25": "28.2 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "55",
-        "updatedAt": "2026-04-18 22:30"
+        "updatedAt": "2026-04-18 23:15"
       }
     ]
   },
@@ -142,6 +142,10 @@
             "price": "1,956원/L"
           },
           {
+            "district": "계양구",
+            "price": "1,965원/L"
+          },
+          {
             "district": "서구",
             "price": "1,966원/L"
           },
@@ -151,10 +155,6 @@
           },
           {
             "district": "남동구",
-            "price": "1,969원/L"
-          },
-          {
-            "district": "부평구",
             "price": "1,969원/L"
           }
         ]
@@ -177,10 +177,22 @@
   },
   "news": [
     {
-      "title": "[뉴스9 제주 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85OUhoV0dhdGxwRkVxZ0NPdWNkLWhxakgtN0QzdmVtY1llR2ctY2k3VE9TNlVpdWpKWGYydnRMYlREc2Q5SUdhSVBIOHozaExlTHlHMWI3MC0wS2M?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:15:00 GMT"
+      "title": "오세훈 \"보수 재건\"…'명픽' 정원오와 맞대결 성사",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDUDZ0ckY4WTNWeUxDOVZhdWVtQmVKdDBWNS0wN3h4V1ViaUxkT25LcUtfVzBYejd3U3U4b3JLYlA0bXRGcGxvLUdoNmhfemNsQmtN?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:14:00 GMT"
+    },
+    {
+      "title": "연세대학교, 2027학년도 입학전형 대폭 수정... 최주영 \"연세대는 도전하는 학생을 원한다\"",
+      "source": "베타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ub0Frb05qcTRPQzFtVXhTeTljdk41amxJM3JKMkhkZmFaYnh4Q19PVkEtMVFQaTFZV1BxbjB0Y1RQNENKczNFLTdfSkltTFZrZ3FXWHppam5hRkg2QUZZMG9mdG0?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:51:53 GMT"
+    },
+    {
+      "title": "목포시, '상반기 특별교부세 확부 현안사업' 건의",
+      "source": "한국뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kZS1YbmdURDJ6NjlKZ2s5SDJCQzZfd0gxdzhxQTc2RU9sVlg4YjFyNUEtbGpBbUUzWVhCMlpYN2l5NmczV2czMnlZdFh5elhJUTVMVTdsVE9GTjdfdTMxeE1wNXEwZw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:04:49 GMT"
     },
     {
       "title": "컨셉은 아이돌! ‘니케’ 3.5주년 업데이트&혜택 모아보기",
@@ -189,52 +201,40 @@
       "publishedAt": "Sat, 18 Apr 2026 13:31:06 GMT"
     },
     {
-      "title": "美·이란, 2차 종전협상 20일 파키스탄 수도 이슬라마바드 개최 전망",
-      "source": "문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jX3RlS18zREprQmlUSzZ4aXB5VC1PZTNjYXRSVFhQMXdiY05LQ1RrU3UtNUxpNmVYQzRLRExTcnJURVFDdmdrdXZUSXNva2l0?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:34:25 GMT"
-    },
-    {
-      "title": "이상민, 재혼 직전 스토킹 당했다 \"신고해도 기소유예…결국 이사\"[스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1veU5vYy1tY3NWQTdPeGNmdUJHNjBldzJCcy1pakl3c01MdUhwaXN2SG5YLVROaEJYUUJDUWR6UmNJX2wxbHN3OG9wSFJuN1prUFFvTUF1TFdHNUFaWV9FSzQxR0VJREZOUDVCeDZEUHRzbm9VZ0NxRA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:37:00 GMT"
-    },
-    {
-      "title": "백악관, 앤트로픽 CEO와 회동…‘미토스’ 놓고 협력·갈등 병존",
-      "source": "프리진뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hZGZMeWxUZTd0V3YzMVVueTFPcnVCWUFuMVhZT0FEWFFYNnc2OGd5Nmxpc0d4M3FOUk9VbTg1WTJxdWwtaTAta1VRaENQSDU5STBxRjhZVExmUTh6ZWdscERlT0gySVBjVkE0bXE2bw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:32:47 GMT"
-    },
-    {
-      "title": "필로폰 밀수 혐의 30대 무죄 “빌려준 통관번호”",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUURnMTlhaU1nenNWdFI2QjhPbFpMY3hBODdaaDYzaDEyVUdlY25TRV9nUjBrN1Z1TzI0T3l5anZXUC1mNXZ0ejllZlViOHNSWlNhRC1pM3Mtbk0?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:14:00 GMT"
-    },
-    {
-      "title": "“갑각류도 통증 느낀다… 바닷가재, 진통제 맞으면 덜 아파해”",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHTGMyRzhKQWNWS1dYSnNVaU9ST1NqODZyM3g0TGxRQnhOM2VQYXc0Nm9Pb0YxR1dmVThHZ0lELUwweHRUTDVfem44ZE1kbEs4MTRRWmtXMUxyUklWVFQ4SkN3?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:30:00 GMT"
-    },
-    {
-      "title": "니케 3.5주년 주인공은 ‘아니스’와 ‘네온’",
+      "title": "이환 “캐릭터 뽑기 천장 90회에 픽뚫 없다”",
       "source": "게임톡",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uaHkzYndyWm51Y2FOa0lmM29lSHZnX254ZnpESUZjTUtHWUJTRkNxdnlod1FtUVFjUTViWk15aFhaMjk5SXZpSHNmUUdxc0NFMnBESEhtYmplZEJzRWZrTTd6WVhOeHFPOUx0UA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 12:54:47 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBha2YyVEZlYzIzOUh4bmZKa1I1RTNrdW9JVlF0RVR5RjFfbEd3bEhKeExRTXpScWFJbHNIazVLeU5UQkp4X3hRMmZBelNUY1lzMXhrckZkbjd4VktBOUR6bmFTWExQYkN4bE1PWg?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:54:20 GMT"
     },
     {
-      "title": "'결혼' 심유리, 챔피언 벨트 들고 신부 입장…6년 열애 끝 결실",
+      "title": "[포토]최은우,부드럽고 노련한 임팩트",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3UzUDd3akVvTC0weXpFVGZmZ1hlbjdlMXFyMzQ2Z1VGck94cndWOVBpdG8xaWl5WEdnVmxKd0l4UDNJZDVnSDM2dEpkSWNXRzdCdXhFU2VsVlRIdlhUcjYxaWNkYW5RS3FZOE81Nl9yVkJ4dWFrLU9LdnBLUHB2bw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:05:00 GMT"
+    },
+    {
+      "title": "이란 군부 \"2차 협상 합의 아직\"…호르무즈 개방 선언에 제동",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94WjE3bmwwUUJTa0Z6Z0lrSDJiZU01b0V1eFh6VnpvYmY4QzJNOV91X3BvbUllb1pOVmNwY1RHQlpqSzc0ODhCOENoQ1M1ZnZUMnFoeDBSSjc3b2Z2bWxEQlN6c0RtcldNSFRHODRhd2ZYbE1EanoxZQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XNGE3RUpBME9DMjJtbEJkU3c1UFl0aHBMTkQ2SFFkWkhJcmZoaDRtdDJla3BjSXdYVFgwWUQzNU1nLTBocE9xVUlaczl2QXJuZmpV?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:14:00 GMT"
     },
     {
-      "title": "44년 만에 송환된 유대인 식당 테러 주범…히샴 하브, 프랑스서 재판 앞둬",
-      "source": "스페셜타임스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkbjVlZEZQdzMyYnFUZ3ZXbkE1ODhGNUZWUDBOOFZxbUVyZFRzMUtabEw5YVEzTmwtMWJNTFVwUndkQ0k4V2E0ZGU1aUJJa1JiMl9xWkFLX05IckpXZDE5cHl4QmhYaGtHbTdQVnpvYV9QUQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:05:45 GMT"
+      "title": "목포시, '스마트 광역교통 인프라 구축계획' 보고회 개최",
+      "source": "한국뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RalZ3bGFkNmNoQ011OWhvVE9henk3WHduMVRZMWxBa3NXWDFMbXpWYW4wSU9VQXBIYkI1V3V1WVBkQUxTMjgzY0tyVHpLLTBsb1hET3R5Z3haWTFxbTV6ZDY5bmFJQQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:05:03 GMT"
+    },
+    {
+      "title": "'재혼' 28기 영호♥옥순 청첩장 모임…같은 기수 다 모였다 \"행복하게 살길\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnRmhOYUxlQkVBQXd0ZExrc1ZnY3RQNWJoVUxvRnJ1RVRzcno0eGF1aGxnd1NfQUkxTUlOX0J1MGZFWEZ1bGNMNkl6VHYxdkhRVXluNGFuUE1vMTZFTENrNw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 14:18:00 GMT"
+    },
+    {
+      "title": "이란 외무차관 \"미국과 2차 협상 날짜 안 잡혀\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fUl8wTVVGQmVyTUZQVkRuUElwaFp6TUljUDZXbHFaRnl2em9LVm94YWdWWTE0bXNDclMwcEVBYjA2MDQ5UWRQOW1Md1p6ejlqQ3ow?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:59:00 GMT"
     }
   ],
   "sources": [
