@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-19T02:01:03.398177+09:00",
+  "generatedAt": "2026-04-19T02:30:39.044346+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1073",
-      "change": "+0.07",
-      "changePercent": "+0.00%",
-      "direction": "up",
-      "updatedAt": "2026-04-18 19:22"
+      "value": "1,467.0300",
+      "change": "-0.01",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-19 01:37"
     },
     {
       "label": "100엔/원",
-      "value": "927.69",
-      "change": "-0.31",
+      "value": "924.73",
+      "change": "-0.27",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-19 00:53"
+      "updatedAt": "2026-04-19 02:24"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "12.7°C",
-        "feelsLike": "12.3°C",
-        "highLow": "최고 26.2° / 최저 11.1°",
-        "humidity": "86%",
+        "temperature": "12.3°C",
+        "feelsLike": "11.8°C",
+        "highLow": "최고 25.8° / 최저 10.3°",
+        "humidity": "87%",
         "wind": "4.3 m/s",
         "rainChance": "0%",
-        "pm10": "78.9 μg/m³",
-        "pm25": "57.4 μg/m³",
+        "pm10": "85.0 μg/m³",
+        "pm25": "58.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-04-19 01:45"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-04-19 02:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "14.7°C",
-        "feelsLike": "14.6°C",
-        "highLow": "최고 24.6° / 최저 11.3°",
-        "humidity": "78%",
-        "wind": "2.3 m/s",
+        "temperature": "13.5°C",
+        "feelsLike": "13.1°C",
+        "highLow": "최고 24.7° / 최저 11.5°",
+        "humidity": "86%",
+        "wind": "5.4 m/s",
         "rainChance": "5%",
-        "pm10": "49.1 μg/m³",
-        "pm25": "26.8 μg/m³",
+        "pm10": "48.0 μg/m³",
+        "pm25": "26.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "54",
-        "updatedAt": "2026-04-19 01:45"
+        "airQualityIndex": "53",
+        "updatedAt": "2026-04-19 02:15"
       }
     ]
   },
@@ -177,34 +177,10 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "\"SON 옆에서 웃던 그녀, 日 여축 국대였다\" 명품 복근으로 시선 강탈…\"역시 일본 레이디 가가\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11YVJqMW80U0FYQnNuWEVlclRKMmdfTG1hUkhYdlB4aDJoYkN3YUN0Q2ZzbktFWDlydGRiTkJVWEt0Yy1tSFE5RHZBdktDdjVOelhHUjZB?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:50:00 GMT"
-    },
-    {
-      "title": "옹진군, 장봉도 벚꽃축제서 감염병 예방 캠페인 전개",
-      "source": "서울뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04NVU2Zi03T3Z6aDZRdVU3Vjd0b1lPaXVKWEZVMTZNdTJsTlE3MmdmOUNFekJGRy1tWENhekgtdE9jQzhNMmN2VmlNSUp3bnlZX2tvRDBXY19RQ1lPaEk5Q0dlRmdodm5FY1JB?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:18:16 GMT"
-    },
-    {
-      "title": "'70억 유산 거부→장례식 불참' 헐크 호건 딸, 뒤로는 경찰 찾아 '바디캠 영상' 요구 이유 \"부친 사망 마약 때문 아니다\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ycTJ1OWZoR01yZzJnMVdoVHNycEF4UkhQVENjemlSOXRhRkFIck03dWdGc1RxMzRGaUdVRXR4OE94dFlxMDBqODBuVVVUcTl0VDBYU05xUlNqMHB3R1o1VGR1dDQwMlJTRmxmdWhNTi1QbUhoMEM3eA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:31:00 GMT"
-    },
-    {
-      "title": "황희찬 좌절 '교체+15분 활약' 팀 패배 막긴 부족했다···울버햄튼, 리즈에 0-3 패 '2부 강등' 가시화[PL·리뷰]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LbW5mTzBNUnlaM3RTazAzbXBWUFNzSmJQeGwwajE1OFk0dzRXSHFuc1Vpb3hvb0xyZERsTjE3LTJiQnlKY2JIak85Wk5ueTVXcnlkUGJBYzUzUHNrb0Yxb0hXSFBlN29X?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:25:00 GMT"
-    },
-    {
-      "title": "우크라 \"크림반도서 러 군함 3척에 드론 공습\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uWi1mc2VVVUtqSTJUM3BHUVNrRlpQdlhaTWFEOGVHSHBZTzZUS05falFYRWxOVVQ2dHJSM3JUczlRQ0pvanZWdVNFeGNWdERVVUhB?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:20:00 GMT"
+      "title": "경기아트센터, 공연장 4곳 상시 공기질 관리 체계로 안심 관람 지원",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zSGdsWERMSHJKQkktWnV5WFNvRXRsdkJzLUttbGxyYUtjdFRrcV9naTczTlBnLWdJVUR2b2d5cnBEYzdlU2lJeHhPSUozdw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 17:23:15 GMT"
     },
     {
       "title": "\"美, 이란 선박 전방위 나포 준비\"…'경제전' 수위 높여 협상 압박",
@@ -213,28 +189,52 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 18 Apr 2026 16:44:49 GMT"
     },
     {
+      "title": "'최고 157㎞' 안우진이 직접 밝혔다! 변화구 61%나 던진 이유 \"아직 투구 감각 완벽하지 않아서…\"",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mTEhpZExQRWd6c0ZBRkxral85dFJoWDMwRm1iX2Zlb2dmMk1vZkc5X1hXdjVWUEU1MzB3QUhubU0xM0hyRExUQzFpNDJDVmJBUHBKUE94a181QVk3?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 17:05:00 GMT"
+    },
+    {
       "title": "[르뽀] 푸꾸옥, APEC 국제행사 대비 관광·비즈니스 인프라 확충",
       "source": "디스커버리뉴스(DISCOVERYNEWS)",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02YUx3QlNJeGFZX1BRMWZUd0xJbEROS2IwZ3ktMkhZVy0yVXV0MmtXZVZ3UmNjZXVPN3YwZlRXMldoOGZaTDRhREVZSkstNFI0U29vZWZkUllPWklYX0ZMM3NJZFpObWw0RnlPQ1NDOFVQQQ?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 16:32:30 GMT"
     },
     {
-      "title": "방위산업 뉴스 4월 18일: 미 공군, AI 지휘 시스템 도입 예정",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQlJfRFdiVm9LbzRFNHdxWFN4UkNjaGJhT0lPSkdpLWZjRXlsNkFQaTFqbi0tUDBkVC1iQzdOUThLRDF1eEp6MzlWUV9qYWZMMDN6UUhPeUpfN0Jjb3JXcVlaTThKUnN3LTh2MFlaemdQbnBrSllhM2VPdGVXcTZlSzNOcmIzbjlXbWpZdVpIdVRVMmtC?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:11:05 GMT"
-    },
-    {
-      "title": "RAVE 펌프앤덤프 의혹…$25000 현상금, 거래소 압박",
-      "source": "BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPZUxpcVM1U2F1QUhHUVpLOWV4eVZoUTQwMWtjalpUMi1aTmszSi1Td3lvVWJURURQbmhzTEJQbjYxb1pTNndqOG94Y0dBSmZrRTBmMmF0bXZfd0RrNlhiZUVWLTZoeUpEVzEw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:13:29 GMT"
-    },
-    {
-      "title": "'80주년' 국립민속박물관 \"한국 넘어 세계민속박물관 도약을\"",
+      "title": "\"SON 옆에서 웃던 그녀, 日 여축 국대였다\" 명품 복근으로 시선 강탈…\"역시 일본 레이디 가가\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TZGpSQ09CdHRQblp5a2dwX3V1Z2dEX0pUazBWNWRjckZURzd0Sk40Uno5SkJ5WG82UlFmejV1Rkw3bkpQWVZLTWUyTGtQa0tzSG8zalUwS2NNZzRPclN3Wg?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 16:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fOTdVNXZFWXFRdHRXMWF3YmlrWnhPNWRTbDN3QVpLMks3RUt6SUVLcVRrenZtSVpfYkxKMnk5cHNNcDJFU2RpVUlDSjJFU3k2V0ZORDZ4bXJmbnRydlhoekI3d3FVTWhPa1E?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:50:00 GMT"
+    },
+    {
+      "title": "'70억 유산 거부→장례식 불참' 헐크 호건 딸, 뒤로는 경찰 찾아 '바디캠 영상' 요구 이유 \"부친 사망 마약 때문 아니다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ycTJ1OWZoR01yZzJnMVdoVHNycEF4UkhQVENjemlSOXRhRkFIck03dWdGc1RxMzRGaUdVRXR4OE94dFlxMDBqODBuVVVUcTl0VDBYU05xUlNqMHB3R1o1VGR1dDQwMlJTRmxmdWhNTi1QbUhoMEM3eA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:31:00 GMT"
+    },
+    {
+      "title": "\"소아청소년 5명 중 1명 비만\"…생활습관 관리가 해법",
+      "source": "라이프인",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nbG5SY1lIN0tTbVZJcGlZcWg4ZHNSQ0R1OHBicUdiQXpPZnk0aU5YZW95aWVtY21ZbmcyWEVsRGk2SS1KaFZuYmhBTmVOc05fQWZxaDExWUNUblk0VmRXNnh0a2lrdnB1?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 16:45:29 GMT"
+    },
+    {
+      "title": "양상국, 故박지선 향한 그리움 \"돈 빌려주고도 안 받는 착한 사람..잊히니 속상\"(전참시)",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGZqbWhfRUxZVlRGR3BGczRkd1RvRzU4VklpVS1laUpfM0h4dy1tWjZDX3p3WkdVOW9GazNiZFB4Y281blpKbWRfSmUzMFpNNTdaellqaldFR2cwY0Y4eGtOS0xmb2xBYTZVVlRyVzlwSHJfVHB1UlB4MTgybFBoelMyWGpPQ05uNGhYVnJJSQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:42:00 GMT"
+    },
+    {
+      "title": "[Vacheron Constantin③] 에제리와 아메리칸 1921, 유산 위에 덧댄 새 이유",
+      "source": "케이트렌디뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yRWh4MWVUM3V1UGk1S3JULTEyZGN6Ym4yNktfZ2s2WVdSUVJqaHNJNkhnbHdmOUw2VWN4emY0eEtyOUVyNEF3YVVkNExMUFUzS0hxVG83VXdJMHV5VTJoWXlHMXI1MkRFUGxaRjBLNA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:38:00 GMT"
+    },
+    {
+      "title": "Black Flag Resynced에는 RT 기능이 추가된 새로운 Anvil과 새로운 물 물리 효과가 포함될 예정입니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjEzcFg0bk4xX0k5VExSMlY5a0FrYWQ0MjM1cGdzbExvQktJT0JGblZDNjgtVjZKejJZWTRMVjZhc1JCTV8yaHZENHZfLVhYOXVqMkZyM0hFX0N5MW1pMEc2LUlBOHBkbEk1blg3MDB0OFZWdmlTWWVXems3RWw0TzBLMmtHWUt0VU9jVnBQQVZzbDhoWExuejRxS1BBRXdPQjdyUERiWGZpNm1JSnc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 15:34:50 GMT"
     }
   ],
   "sources": [
