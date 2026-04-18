@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T20:27:11.929974+09:00",
+  "generatedAt": "2026-04-18T20:57:01.585391+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,7 +48,7 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1073",
+      "value": "1,467.1100",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
@@ -56,11 +56,11 @@
     },
     {
       "label": "100엔/원",
-      "value": "928.29",
-      "change": "+3.29",
-      "changePercent": "+0.36%",
+      "value": "938.52",
+      "change": "+10.52",
+      "changePercent": "+1.13%",
       "direction": "up",
-      "updatedAt": "2026-04-18 19:39"
+      "updatedAt": "2026-04-18 20:51"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "17.0°C",
-        "feelsLike": "17.1°C",
+        "temperature": "16.4°C",
+        "feelsLike": "16.6°C",
         "highLow": "최고 23.8° / 최저 7.5°",
-        "humidity": "73%",
-        "wind": "4.0 m/s",
+        "humidity": "75%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
         "pm10": "51.7 μg/m³",
         "pm25": "27.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-18 20:15"
+        "updatedAt": "2026-04-18 20:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "17.5°C",
-        "feelsLike": "17.3°C",
+        "temperature": "16.5°C",
+        "feelsLike": "16.8°C",
         "highLow": "최고 24.9° / 최저 9.0°",
-        "humidity": "76%",
-        "wind": "9.1 m/s",
+        "humidity": "81%",
+        "wind": "5.2 m/s",
         "rainChance": "0%",
         "pm10": "44.8 μg/m³",
         "pm25": "20.4 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "60",
-        "updatedAt": "2026-04-18 20:15"
+        "updatedAt": "2026-04-18 20:45"
       }
     ]
   },
@@ -183,16 +183,46 @@
       "publishedAt": "Sat, 18 Apr 2026 11:04:57 GMT"
     },
     {
-      "title": "4월 18일 MBN 뉴스센터 주요뉴스",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtbVRvVHE3SnJ5UVlnd0REUEI2akc2cUoxR2Fsa3I1QktLbUU4cC0yX3pOQUZjTEdBM2t0UklETzN0VXN4aGxYSzJUdzBEUWx3cmRR?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 10:37:00 GMT"
+      "title": "이란 외무차관 '미국과 2차 협상 날짜 안잡혀'(종합)",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYzNuS3FzZHdLWlcyVnB0azZOSDEyTUZfaThuSy1UQm5LMmNaZnQ0ZUFDeThhd2VzeHl4M0xmM2p0UVF1X21WeFd6cDVkdHJXMDE1b1FIdm9Lc0IzenhRQmJhaEVFc1VYdTl6czhXU0tob0xuWVlXTFB1T3ZhLUYxSExHWmtLU1hzS29qSUdhT3hERTFRalFtMWhBUGsza1NqRkpacjVKbDhpSDBaZ2xrT2dMR1gyRmNEZTlVd20yWFRPUGZNR3QtZGF3VQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:36:53 GMT"
     },
     {
-      "title": "[포토] 김민석 '위기 뒤에 찬스라 했나'",
+      "title": "민주당, 제주지사 후보에 위성곤 확정…광역단체장 공천 완료",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDX2NHTDNSX3JWdE90UGpjSG5ONElJMWxfSmNYNEFVVmowSURPYWJRR1Q0RE5sOXYtUUhPN3VXdWJneE9VVHVDOHZ2RG13bWdnTnJ4dnRwWFhnOEhoN01TM1FYQmVOQTAya3lFOERhbjFqQVlRX2dWYQ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:23:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Y3l4Zmg5OTFFdll1aUJDWUx6V1J6S0VCZ0RlZ01Pc3NoVTl5b2N3TG9FcTNwZkJXMFRWUW9GenRCS2NYRklnVGwzMEJPS2dOb2xj?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:48:00 GMT"
+    },
+    {
+      "title": "‘니케’ 3.5주년 업데이트…주인공은 ‘아이돌 아니스’",
+      "source": "mkbn.mk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqYlpkZXJiWjAyWWZSRTBwTXNhX3hNMW92U3ItNXVVSW9nelZIdUhudk5iRExXUXpYTmhlNUxGU3dxRXh2OXdLV1RfdzFZdEE?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:33:03 GMT"
+    },
+    {
+      "title": "인플루언서 '수사 무마 의혹' 경찰 간부 직위해제",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5UUNicUpvSFRqY3lzMGNwUlFXYk03dW5PaV9CdENhQ01WanhRZEFVN2JnbHNUTUg2WWt3Uzg2bFpfYXN1UFprTDNUY3VHVzc4Z3VZ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:37:00 GMT"
+    },
+    {
+      "title": "[포토] 김민석, 김원형 감독과 주먹치기",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JWF90VHRrM29MbGI0a3hUYkJpM1hSV3RwUnJMTlFOVkM4Z0hYbHRuTWF6MV9hUjM5RVNoN3MydGl4TjkwRU5HWHFiYURITXFBS0JUajBYV2ppTEVsRjJrSTJQUUtIN0Q2amVZSlFPNlRJeXg5VGtRNQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:46:00 GMT"
+    },
+    {
+      "title": "[포토] 이유찬 '얼마든지 게토리 샤워'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RV21ESWtvQTZtRGd0T3lRNzg0a0JrNTF5OF9FRVhCeUFIU1V5RVFVQlVscjJaWGpnUVFKTENZWUZDMzZNN2hLWi10Y2lvZG4xZHZNcEpTeTJWdDhHM19fWmJzWVZrdTdIT3hhNDFrbmM1d0RheVZiRQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:35:00 GMT"
+    },
+    {
+      "title": "애플, AI 학회서 연구 60여건·기술 데모 공개",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lbUpxeXdielEyMHRhMTN5WjZqcFlMYVlCeDI4NlNLNGF1VW03LUx3UWpEVzdRLUlkUWJDVFJEYlo4VHk5eUFaWmJCa01GaFkzZEhr?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:42:00 GMT"
     },
     {
       "title": "부산 사상구 단독주택 화재…70대 남성 숨져",
@@ -201,40 +231,10 @@
       "publishedAt": "Sat, 18 Apr 2026 11:17:00 GMT"
     },
     {
-      "title": "[포토] 홍민규, 친정팀 상대로 씽씽투",
+      "title": "험지 도는 정청래…장동혁 '집 나온 가장' 비판",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mMlkyRUJwRjZsRU5qV0YzdWVxZFB2YXFwTGE0cUFydndudGRJRWdGSjlTSk56Tnd6cmgtdldrdW5CZFNmVURIX1dpbHR2QXVpa3FqTkhyQ2FzZjlzcVRxNTZxbG40SVlkS0RhaHRRczEyLXJTam5nOA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 11:21:00 GMT"
-    },
-    {
-      "title": "협상 앞두고 샅바 싸움?···\"이란, 미국과 2차 협상 아직 합의 안 해\" 이란 매체 보도",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CZUtpOXFrZlJqV0J5ZHQ2eUQwdUpzZnNrYk41OW1UZ25UeGpIRXJQdVZSN1d5UXpUUEtmcnFzNVBsdTlwMmE0RDZOOTNTbkdQUjNOSzM1clV6ZTdKM3V2Z0pZWjBYRWNJUnc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 10:55:00 GMT"
-    },
-    {
-      "title": "[포토] 김택연, 만루 위기 삭제 후 포효",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBcHpQNEw2NTljUnN0WVM3Y2pxek0yWm83VDkzaGstR1BWSDZRSmNLMFBaX0pnNm1QNnJBbHNxNE4wZWdGaDkyanRIUEdycmFsZG41RU13?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 10:52:00 GMT"
-    },
-    {
-      "title": "[포토] 동점타 정수빈, 승부는 원점",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QWVdyWVZpcmVDWVNfS1ZTYmlETGRwQ05hMmtaZDFkMmFrS1lNdEl6QW45ZkEzOVFkTS1SUzY0N3l5LTlvaVdMcG9lRjY4R0ZBMlJwWUc1VTF6bng3QVhWbk9NWjFuSkJHQ2c?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 10:47:00 GMT"
-    },
-    {
-      "title": "고양 10층 건물 옥상서 고등학생 추락사···경찰 조사",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cc3NKQnRHU29ieWZIWXpaajEtSi1ObFR2SUNvVkx1TUZSR183WVczT3YtdHZqSUFBQkpaVWJ3Z2RZeTVvT0tyaEdPVC1qQnhBeUxr?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 10:34:00 GMT"
-    },
-    {
-      "title": "정준하, '식신' 타이틀에 금 갔다 \"히밥·쯔양에 밀려..이제 퇴물\" 맹비난[놀뭐][별별TV]",
-      "source": "ASIA ARTIST AWARDS 2025",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LNFZYVG1kUHViejlLckQ5SThaRzRnUmJHM0NzN3RrTUdoWGRfUmhKTDJLcnpnaF9xQndLTk1qcnBuMUxHTFdHUkxYaWt5UU1HeHc0THZfdDVQQkdQcXRWRw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 10:46:59 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92aDkxR0xOTFBWWnVtR25FbGZmR0hNc2lGeWUtOGx5SUpVSzUwUi1JY0ZmS1B4amtrZHlBcWtOVkNKUVpQQ2VZV3hSSFRHdXdWcnM4?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 11:28:00 GMT"
     }
   ],
   "sources": [
