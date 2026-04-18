@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T06:25:13.636010+09:00",
+  "generatedAt": "2026-04-19T07:05:29.811063+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "10.2°C",
-        "feelsLike": "9.5°C",
+        "temperature": "9.8°C",
+        "feelsLike": "9.2°C",
         "highLow": "최고 25.6° / 최저 9.6°",
-        "humidity": "91%",
-        "wind": "2.8 m/s",
+        "humidity": "94%",
+        "wind": "2.1 m/s",
         "rainChance": "0%",
         "pm10": "105.9 μg/m³",
         "pm25": "59.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "69",
-        "updatedAt": "2026-04-19 06:15"
+        "updatedAt": "2026-04-19 06:45"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "11.2°C",
-        "feelsLike": "10.4°C",
+        "temperature": "11.6°C",
+        "feelsLike": "11.0°C",
         "highLow": "최고 24.8° / 최저 11.1°",
         "humidity": "98%",
-        "wind": "7.7 m/s",
+        "wind": "6.6 m/s",
         "rainChance": "5%",
         "pm10": "45.4 μg/m³",
         "pm25": "29.4 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "51",
-        "updatedAt": "2026-04-19 06:15"
+        "updatedAt": "2026-04-19 06:45"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "극우 맞서 결집한 좌파 정상들…트럼프 겨냥 '전쟁반대' 구호(종합)",
+      "title": "[특파원 시선] 덜레스 국제공항의 訪美 사절단들",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFI5VXdvVTFqaXJuamJYM3NNckE0YmVDSmh6NXQxdHdnVy1kc0dWczdNTG1Xc19nek1qS0Eyc2tZb3FOUnU5cENaZkNnTC1BUTVwakhXTTFDd0xiUUxxb2JYOWNOd1p1UFBIRmJBeE9FRlhTTWtya2lvaDZOZTBtV3M4NDJGazZPVjEydlpVNnV6amJHZk5MX3lSRmswUzFXaGp6MXBKVGFLbG5SRzYwZ1pncVRvLVhsVzM2X3RpTEVfRUNZRHNHSk1R?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:03:55 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzN5eTJ5eFNjVVJtR3lweDBEWUxQbmRjZ1VZWGNiajVueDhkUHJpamJSZkFHM2NJVFVxQ3Q5RVcyNTRORy1mQUxFM3BLYjRJXzVtQnhUYVdFam9LWENjVnRaV0padnh3R1M1RTRheXpTVEhMM0lCZjFFazJfRjdxOHdYT2JPTFMxRlUxdmZlZXBNdV9fTDRzMF9ZVGZFS1VIR21vdXlTaTBYUk8xdzJYZDBTRXZkelFGRnc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:04:50 GMT"
     },
     {
-      "title": "이란 '호르무즈 재통제'에도 트럼프는 \"대화 순조롭게 진행\"",
+      "title": "李대통령, 오늘부터 인도·베트남 순방…경제협력·공급망 공조 강화",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rM1FLRVA3dzNFdHl0SHlOamtramR2ejcxTXBKcGIybFk2NDhBMU1mZnN1VnFBUlJNRnROUy04TFF1cW16QlFCTU1IVnZSWDNQb1Bz?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xSTNjbXFrVUh6UHJMN2RycDRka2FxbGdUaW11R0xRbEtJWTFIdU90cVU1bFllU2t0T09feGtkODA4Qy1wZ3dUc1RaNUVicUwxa0pKOHN2Y0t2VGtET0E0NQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:45:00 GMT"
     },
     {
-      "title": "車보험 물적담보 보험금 5년새 30%↑…부품·정비·렌터카 누수",
+      "title": "중동발 불확실성에도 유통업계는 '훈풍'…1분기 실적회복 기대",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDlaMFRiMGNIb25seFJhbi01UFNLOHFwU1BTV05nYnZxZWYtb1VjMGNIOFRiUF9rLWZiNklPaUlZcGRwU3ZRdGQwMi0zTGRkYlYtNHZHZF9BMXhzOTlmZFZWREpRNUotNVVGejVxdVBrc29ZVzViTUhCbGVWMUU4TnJnZjhvQm9odzNMNEw1RnpZTlRmMVU5RHJObElYbzl6SW5nZ3ZNVHR3OWgyVDYtSmhlSGVfTHNL?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:59:27 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWRMZThtRndiQWFldnVpYXBHdjdPUEVMMGpHZWx0NnRWWUM5cktkSVBXMTRaU3M2TGJrZ01hRFRaWG9XbXpnWlBSWHFoNTVVNjJMamNfZUhJUXFNRHVPZnpWMHJLT2k0T0JpWWtPRDNoY1RnUkdVeTZyaG5qYVZJN01RSU1nZ19TUDRlcV9rSkxxTUdiT2dDcTNNdmRrd3NYMlFNREc5Vm1HUGllUUxiRVVTM21sd2RS?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:04:29 GMT"
     },
     {
-      "title": "이란에 쏠린 눈?…우크라이나도 악전고투 지속",
+      "title": "대북송금 조작 증거? '리호남 행적 논란' 쟁점은?",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CUWZ0R3FicXZpNlYxYXhvYkloNnJPaVZkanBseDF1RmlpQWM4OHNOaC10azRGRmJvM1IyMWxVdEg0MzNBWlhLRV9VRVdmOFgxbGxr?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mSlowc2NIX0t4U2NSUkFOeUI1NDBvX2hVVmpMVEVEVFNsUVNnRV8zdHBNTU5QOG9KSlY0cy0zaGpuZlRiaVZHQ3V4VzdsZFFEMExZ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:25:00 GMT"
     },
     {
-      "title": "롯데백화점, 제주서 파트너사 동행 워크숍 개최",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BemRqeXFId1lIREx5SlBESzR3U1c2bndKb2FYR3NldlBVZmRkVnVVcHp4Y2tlclRUNE1EUnFmUE1kREE3bjZDd3YwWEF1MF9aMGN3?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:01:00 GMT"
-    },
-    {
-      "title": "삼성·SK·현대차·LG, '인도-베트남' 국빈 경제사절단 참여",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aYVF0cWJjenc2MDJ4dWF5REVyQ0ZmQmtRaHpZczB1SlJvY0ZEV0gtMlF1NlBkOTFMbGdRaXBVaTlQV21mQnFxZjFOQXprWDNYaktr?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:00:00 GMT"
-    },
-    {
-      "title": "롯데마트, 나들이 시즌 맞아 '동원 청정램' 양고기 할인 행사",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3TlBDZHNPX3d1WmVHTEZxRmdOYm5KTVl3MmZDRVFVR2pJckpjTFBRLW5YdTlVeVIxa1RDNVRZY294UTRRRlBOR0tQMDNPZkJwelVz?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:01:00 GMT"
-    },
-    {
-      "title": "이마트, 봄맞이 리빙·생활용품 할인전···인기 브랜드 모아",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LZ2ppSDJiMGFDZXlSZUFZYlFqa1BVZ3E0LXotb185YUdXTnNHMFhBeWxNUDZqcTBocDNCbFd2SHhxV0h3bVE2c0lYbkFzbE40NFhv?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:01:00 GMT"
-    },
-    {
-      "title": "'메모리 3위' 마이크론, 한국에 PR 둥지…삼성·SK '안방' 공략",
+      "title": "배달앱 수수료 내리나…상생 합의 논의 재개",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFM0YUFIazF4SHZmM1VYQXo0LWFybzM2UWN5cnpUMHQyZ0tUNHZ5bDhSN24wUGNLYnJhS0tiMTczSTJZdEcwOEFmQkRVYXlrRXNxMVAxd2JlMVRmZXV0TTFDN3lZRVNYcWE5djZZVVVLaGRTOEtScXlhZW1CUGFGVE82a0s4OXo2ck9wRHRPTGhXY2dIcUs5MGxNZDBmS0FxQTBWR2JNUE01Mm8zN2tCWEloMDJBMjJ6WkE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 21:03:55 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbl9JN2U5RVJ0V1VrNWdxYm12T1hBV09QdWlCZWV5SGtaaUdVWksyM0dxNG5adHJmb0dlUlJPNW14Q182V2ExM2s3RmJQbzlRRktGWVFxV3c0ZkNrUDh4OVpsUHVVdGZaZ2ZJVW5BMmY3SjRLcFl3MzNvUG5sMkFzMThhZkFkVGpQbVpqX19nNWM4a0VOaGlEOXdUY1VOMkJFVzFxcDhwMm03bEhlRUpycHAzcDJBVTZi?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:09:28 GMT"
     },
     {
-      "title": "예지원, 제작진 코피 터뜨린 '강철 체력'…'아형'에서 10년 만에 조우[★밤TV]",
+      "title": "이번주부터 액상형 전자담배도 '담배' 규제…흡연율 영향줄까",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEJNN29oZEVZOWRkYzJpLUw2dl9uOEhxZkJiemptUFh2WlNoTVhWUUhZNGVVYjlzMHNPOFc0dU4tNDNyT3RxekE1TjhjNVFCVnM0UW9wYkx6UkQzRmwycTYxUTMzZzJoVGQ3VVJ0VlF5YmhZa2MyVEFRLXZWUmZUYmNnVjBpTk8xSWhkZmVONEd1YTFuZU5vbjhMQXpvZDUxb1J5bGl0WHZtWHI1M0lOTmxiT1pENkIxTVhN?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:09:24 GMT"
+    },
+    {
+      "title": "목포시 \"서남권 메가시티 교통 허브 도약\" 4대 과제 논의",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FVnhrMEQyS1IzMVFUeVNrQ0gybGJzNmFoQk5nbDMya3FHZ3dKdVc3V1ZlbTlsYkJfZ1JCVW1vbXdTZkFsZ1JmSzVUckIxT0JZZ0w4QmEyR3JURVBLMHhCbmZRT0tGY1dlbHFVVQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:35:30 GMT"
+    },
+    {
+      "title": "티빙, 점유율 높이는 동안 적자 쌓였다…\"웨이브 합병 시급해\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRmdxMnhVNDVrLXZrVnFhalRzNzhlWEUzbGNWdnFDZHl2OE5xdTlWOHd6aUNRQUxVMlVaeVhvXzVpc1AzUWQ2STMzUl9HcFFDY2ppZDJoRFRmNEN2MW9mbkQ0bDZRQzJ1LUhuOXFVNnlBS1o4SmF3bw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 20:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hWmZ0OVhRcDRZTVFSVGJsc0RPNG85S2xRX1U1OUV0TWlZTXdwRm5KOFd4MWlDeEFBQ0l2Y1ZtYWt3X1g0TXhkYmFscVU2RHIzQ0h0RUN1ZDNrUHRrM3NLU3ExUHJRSmIyRV92YXYzT05iTGdyOUZDOQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:00:00 GMT"
+    },
+    {
+      "title": "헤즈볼라 대표, 이스라엘 정전위반 보복…5개 조건 제시",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vdURhMnAwMzVSNWhURFp5TXRBMnA2TEUyMEdYWTBIeWhETC02UEFoTHZkVnBZdHZWM2Q2VFlObmkxVzdSM1d5Z3hQWU5JcUtYTXQyTkNDRTVwUUNGMHRlcQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 21:57:00 GMT"
+    },
+    {
+      "title": "광역전철 부정승차 4년간 1만4천여건…'빅데이터 단속'에 증가세",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcm1JVFBnMkhtV0Z2S1dCQ3FlemZMcU9QbXdXTTFQVFJCVnJxSTVtbld2M05sRWR3d2VCMFJBS3pFV0pRQ1RHemFwZFZKYzlCVUh4WE9ic0tlUE9rMGhaeXd2NlhZZHVoX3JpRk5JQlUxNXZmTW1jc19NaUU0SmktYndUTkJFQnl2MXRRbnVfWV9fbENlS2UtckdUREhEV3NaM2p6Z2hrenNwUFFsWUVkTzV6NnBuWlpu?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:04:39 GMT"
     }
   ],
   "sources": [
