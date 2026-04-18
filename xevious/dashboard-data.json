@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T15:45:26.044344+09:00",
+  "generatedAt": "2026-04-18T15:51:46.648440+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -16,7 +16,7 @@
       "change": "+7.07",
       "changePercent": "+0.61%",
       "direction": "up",
-      "updatedAt": "2026-04-18 15:43"
+      "updatedAt": "2026-04-18 15:51"
     }
   ],
   "usMarkets": [
@@ -48,7 +48,7 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1073",
+      "value": "1,467.1100",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
@@ -56,11 +56,11 @@
     },
     {
       "label": "100엔/원",
-      "value": "928.29",
-      "change": "+3.29",
-      "changePercent": "+0.36%",
+      "value": "931.21",
+      "change": "+6.21",
+      "changePercent": "+0.67%",
       "direction": "up",
-      "updatedAt": "2026-04-18 06:29"
+      "updatedAt": "2026-04-18 06:50"
     }
   ],
   "weather": {
@@ -69,31 +69,31 @@
         "location": "서울",
         "summary": "흐림",
         "temperature": "23.3°C",
-        "feelsLike": "23.7°C",
+        "feelsLike": "23.4°C",
         "highLow": "최고 23.3° / 최저 7.5°",
-        "humidity": "47%",
-        "wind": "4.0 m/s",
+        "humidity": "46%",
+        "wind": "4.3 m/s",
         "rainChance": "0%",
         "pm10": "75.4 μg/m³",
         "pm25": "18.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-18 15:30"
+        "updatedAt": "2026-04-18 15:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
         "temperature": "24.9°C",
-        "feelsLike": "25.1°C",
+        "feelsLike": "24.7°C",
         "highLow": "최고 24.9° / 최저 9.0°",
         "humidity": "50%",
-        "wind": "10.8 m/s",
+        "wind": "11.3 m/s",
         "rainChance": "0%",
         "pm10": "71.2 μg/m³",
         "pm25": "20.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-18 15:30"
+        "updatedAt": "2026-04-18 15:45"
       }
     ]
   },
@@ -161,15 +161,15 @@
       },
       {
         "areaLabel": "익산 최저가",
-        "lowestPrice": "1,909원/L",
+        "lowestPrice": "1,800원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 성북지점",
-        "address": "전북 익산시 망성면 익산대로 2802",
-        "updatedAt": "2026-04-15 09:56:07",
+        "stationName": "사금주유소",
+        "address": "전북 익산시 춘포면 궁성로 86",
+        "updatedAt": "2026-04-18 15:48:27",
         "districtSamples": [
           {
             "district": "익산시",
-            "price": "1,909원/L"
+            "price": "1,800원/L"
           }
         ]
       }
@@ -177,16 +177,22 @@
   },
   "news": [
     {
+      "title": "무안 주요행사(4월20~26일)",
+      "source": "의왕미디어저널",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPYng5WEc0SmdwUENBbHhCY3oxWmRVSVhXcWtZLWQ4cXpZY0Q0QzNWUXppaHhnNllfVzg5YkhDNlBWMllHNWdTSF9mR21XRVowTzNvTko5dTdFbV9TSjFWQjdMSXVBcjJsV0E?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 06:50:23 GMT"
+    },
+    {
+      "title": "방탄소년단, 日 스포츠 신문 1면 장악…'도쿄돔 열광'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXp3OGQ4bWlEZExSYWNPb3gwR2E0TjQwX2NEWm1QSzM0V2xiNG5tMHM4ZmhRbHQ3MkRjUnpUT2N4OVY3UjM2UFlzbUY5c251ODFsQTcxMlhyZ09jNEhGeUtjUlQzcHMydmhGSlJEcXNLOXVmcURhdUlSOHBXbzZnbE51X1UyT1pIZmNmaFdrQVlaTGNzWXF1WmNjNlM4NjlnQTcyOFQxd3JVb3hYSHhRNWhudFROQ2FG?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 06:47:41 GMT"
+    },
+    {
       "title": "8.5t 화물차에 쾅쾅쾅…세종포천고속도로 6중 추돌, 12명 중경상",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wLVdwS3ZJaHBmc2xJRjhLdkdweDhoRzRCUHlzb2tkbDFFR2RpZFQ2ODU4Rk4zVEppZ1BnNzVYQTNmOW1iRl9zTHlfLU93V3BWNHJWaVQzVldiZ2oxSjZsVjlJTWNNb2pMMDJCdXJXUjQ1WDN2TjV3VA?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 06:41:00 GMT"
-    },
-    {
-      "title": "올림픽 농구에서 1천93점 기록…브라질 선수 오스카 슈미트 별세",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGp5Ty0zZXRJNnBrcDk2MEQ0azk4TzhOeUJsc1QzZjh2eS12YVp0Q1NXRGU4N0xzRXF1YnFpdjZBNkV1dUd2NnlPdTlzS0pSLVU2bnRVNWczaklSZ2JUMFhCeURhUFlEd285cGZaRW5hOGJOSTJsaHF2R0lJbGUxbmtvUG1VSUM5LWFsdzRCdWNnM18zUnVzS210MW5wRW5CeGhWUG1ic19idVVibll6cXNwamhOTzFVYWc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:32:12 GMT"
     },
     {
       "title": "[헬스 HOT 뉴스] 국산 신약 '자큐보', 1분기 처방액 212억…\"존재감 확대\"",
@@ -195,16 +201,16 @@
       "publishedAt": "Sat, 18 Apr 2026 06:35:00 GMT"
     },
     {
-      "title": "트럼프, ‘22일 데드라인’ 못박아…“이란과 합의 불발 시 공습 재개”",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82UzQzZDdtZU1Wb0V3VUJJQmFtanJtdTN4eGluWWwzMl9Id2hEUE16ZlNNaElRZkdmNkx4QnZyTVFGX2d0bUpuU2Z4WDRnY01MRFpfYUJoUHVfVTZ6eFFvTXo3VUZ4cUo5OVJ6cg?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 05:47:00 GMT"
-    },
-    {
       "title": "미국, 러시아 원유 판매 한 달 더 허용",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12aU9BbkpCRkxjWDFTbUF2STZ3Nkg3SUJLTmRhTDFCWm9DbGMxcTJ1dEFCTExyaUNpVUViRmZYUE9UMDNjSnRmWDAwNnR5cnpibmFJ?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 06:36:00 GMT"
+    },
+    {
+      "title": "올림픽 농구에서 1천93점 기록…브라질 선수 오스카 슈미트 별세",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGp5Ty0zZXRJNnBrcDk2MEQ0azk4TzhOeUJsc1QzZjh2eS12YVp0Q1NXRGU4N0xzRXF1YnFpdjZBNkV1dUd2NnlPdTlzS0pSLVU2bnRVNWczaklSZ2JUMFhCeURhUFlEd285cGZaRW5hOGJOSTJsaHF2R0lJbGUxbmtvUG1VSUM5LWFsdzRCdWNnM18zUnVzS210MW5wRW5CeGhWUG1ic19idVVibll6cXNwamhOTzFVYWc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 06:32:12 GMT"
     },
     {
       "title": "[포토] 김홍택, 강한 타구로 날린다",
@@ -219,22 +225,16 @@
       "publishedAt": "Sat, 18 Apr 2026 06:25:00 GMT"
     },
     {
+      "title": "안호영, 이원택 '식사비 대납' 재감찰, 납득할 결론 나와야\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SVl96ek5MUGFKak1PYkhkal93RHZJWFJkUTZHemg4aW03T28zX2o1X1BDaWwyalQzcWk4dXZoNUx0UjBSOTQ3NXVWT0xzMUFxNnBSU1l1Q2F3WXR6YTBMOFpJTEM0R3ZraFY1M2l3?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 06:37:00 GMT"
+    },
+    {
       "title": "日 나가노현 나가노시 서남서쪽서 규모 5.1 지진 발생",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ySjhLejd1U3NpZVVUSjlRYU1ydHg4dG81a0RiZi1mQlJIN2V4ZHN2aHpwb1hLMGMzWmsyT1BoV3pUSy1xU1JyLTRqbzI1aXVySTY4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYy1GSEpnSVh6bW5XQUZfbTh0QXFqZDJjS18yVGp2WUFjb3FJMnJtRnpKOWlaV1l0R1BkZ1F0Qkt3N3A4N0pPZVlVSVExY0pWa3R4OHEyY28yd3NpTmtRQnNCR3IydDk3VktqdmctbnpnYzM0QzAzMQ?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 06:39:00 GMT"
-    },
-    {
-      "title": "세종포천고속도로 금광터널서 6중 추돌 사고…12명 중경상",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10cl95bDVRM1FkS3pMTTViRVV2VU9OLTRoeDFWa1ZPLXZXWkwtOTZwR2txUXYtbzV5MEJQSmYyU2NDVkVabU53TktIRjU2bWNvcmtV?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:15:00 GMT"
-    },
-    {
-      "title": "트럼프 \"UFO 관련 흥미로운 문서 찾았다…조만간 공개\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaSE1CazJMRmlVNnA3LTdZbUIxV3NYRzB1X3hkZG5rUExPS3h0LUVkTjlmZDdySXNORVc1ZXhhaGdjbnZJM1NiSXZJdU1YZjBEM3cw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 06:02:00 GMT"
     }
   ],
   "sources": [
