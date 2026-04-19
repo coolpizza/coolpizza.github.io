@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T04:15:16.213939+09:00",
+  "generatedAt": "2026-04-20T04:57:27.898563+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0400",
-      "change": "+0.00",
+      "value": "1,467.1100",
+      "change": "+0.07",
       "changePercent": "+0.00%",
-      "direction": "flat",
-      "updatedAt": "2026-04-20 03:27"
+      "direction": "up",
+      "updatedAt": "2026-04-20 04:32"
     },
     {
       "label": "100엔/원",
-      "value": "929.01",
-      "change": "+1.01",
-      "changePercent": "+0.11%",
+      "value": "929.93",
+      "change": "+1.93",
+      "changePercent": "+0.21%",
       "direction": "up",
-      "updatedAt": "2026-04-20 04:03"
+      "updatedAt": "2026-04-20 04:51"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "8.5°C",
-        "feelsLike": "7.8°C",
+        "temperature": "8.4°C",
+        "feelsLike": "7.6°C",
         "highLow": "최고 13.5° / 최저 7.0°",
         "humidity": "99%",
-        "wind": "2.3 m/s",
+        "wind": "2.6 m/s",
         "rainChance": "20%",
         "pm10": "87.3 μg/m³",
         "pm25": "57.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "75",
-        "updatedAt": "2026-04-20 04:00"
+        "updatedAt": "2026-04-20 04:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "11.4°C",
-        "feelsLike": "11.1°C",
+        "temperature": "11.5°C",
+        "feelsLike": "11.9°C",
         "highLow": "최고 12.9° / 최저 4.9°",
         "humidity": "99%",
-        "wind": "4.9 m/s",
+        "wind": "0.4 m/s",
         "rainChance": "13%",
         "pm10": "40.4 μg/m³",
         "pm25": "27.9 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "47",
-        "updatedAt": "2026-04-20 04:00"
+        "updatedAt": "2026-04-20 04:45"
       }
     ]
   },
@@ -177,16 +177,40 @@
   },
   "news": [
     {
+      "title": "이란 “미국과 2차 평화협상 거부”…해상봉쇄·과도한 요구에 불참",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXYyaGVBQTlJMW9NdmZvcVdUMmpEeW1pVUdSd2xvWEViX0hnV3VzZDBJQVRsbHltcU02RXloUUZjaGM1UFU5ZExESS1SSmZSNlZUaDFUeXd2YmFWck5YS2JzUTBJLTJUM0UwMnBJNWNUSlBMZ0ZYWnFfeDZROFNYRWRsdHdoZkV5dnFDS1hta1Fsd2R3Q3lsYTZOdGxYdFVjUWRpYjNycktuQ09oQlRwb1E0OS1LOVJU?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:25:59 GMT"
+    },
+    {
       "title": "재계 총수들 총출동…'세일즈 외교' 나섰다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CaGQ0LTYxcWhQMGZtYkQyMnF6WDh5c0VmTl9xcnBNQnVkZ1IzQy0wWlM2VzA0ZnhSbG82QkZ5SzBNVzVVQmt6eUtKZ0NxWHl3OWI5MC04aUZhb1FwY2Q4LQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfWUJrUHpmTnRMeEh1VFdjdndDWDZ0MkhpVHNkOHJfQm05eUU0ZUFJRHIzQnlkOHdnakxadnczMmhUcWM3eU8zSF9oQ2otbmxjZF9F?oc=5",
       "publishedAt": "Sun, 19 Apr 2026 19:04:00 GMT"
     },
     {
-      "title": "불가리아 총선서 친러 세력 승리 유력…연정 구성 불가피",
+      "title": "대구·경북 일부 5㎜ 미만 비…아침 10도·한낮 24도",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzdNMENIUEpxZV9EdWJWaE1jWXc4aXpRWXo4SHBzOERnb3p4a1E0RzU2R2I0Mm5oUXAtSGhpQ1ZwSnJMcTE1c1NEdlAwN1FXM3IzN1Z0RWJTdndMN1p5Wm5kTEFmLXdMcDhFRTQ2c1czR2V0Mkw0S2hxTFA3OWFjLTJMampvSERib0lrZlRBMDlWUlVia3dSN2ZQYllPNU1uZlNVUVZqNnZ1a3lNazRmZTlDdVBfSUNT?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 18:20:56 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVp1VElDLW8xeWpQZ3dqTm5mY0I2YWc5Qjdnd05qUHhrbjNmelZQenpNZ0RNbHEzUTZ3MlZrdXFIc1VWQy1hSDlDS3Fpb2ktcHB4bmtYYnVQY2twekNYSjFsMkJsa1NFdS1NdDJqMGtXejhmb1d6d3lpaDdHS3E3UjB5WTNZS3FRR24zS0Q4bEJweG1fREExc1JnVlJpVlBoWlQ0ZTdzVjlGZ0F6RU9FcXgyalBObXE3?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:16:17 GMT"
+    },
+    {
+      "title": "'이란, 전쟁 재개 대비돼…바브엘만데브 등 분쟁지 될 것'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalFHSzYtSno2dVhCSXlyU2x6OFdtVTd0UHBqY3Z1V3RiVDJ1RkNCS3hZRnhPRUFyZGZ5dmRDS1c5dk5DUm43YWs0ZzJIOV9DSWlZRjdMSmRncTluVXEtSk5CUklnc0p6VVpYb0dSNU00Q0pvUDMzSTdrSXR4OU9sc1RJRUdOd3JaWGRoeUNGUFhTV1V1S3hwWnRNMXdMRnlabFMwci1GTW9vdGVfYTc1b2t2b3Z0ek9F?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:20:59 GMT"
+    },
+    {
+      "title": "인도와 조선·베트남과 원전…글로벌 사우스 외교 본격 가동",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBY3BtRl91N1lJdC1DNkMyd1ZtREJmZW5NTGFzYWtqNzlaQXZ2UWZ5RldXc2pldzBYd1puTTJsSnVHb0NLZ05zVjd5UXEwVHpKWHUycUx1TnRYLUNXWV9PMHgwWGNnTVV2WHlmclhxMWtfUnQwY3FLQQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:10:00 GMT"
+    },
+    {
+      "title": "정청래 '李 정치고향' 성남 방문 따라다닌 김용",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNWYyaGptY3pLZVdKMzlhYV9FTTRhNzR0eVFSc3BmT2pDZ0otSUhIczBkTlBHRTBpaVBPak9LcktPWmNCMDBxd09hSEtVZ3RkRXRn?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:33:00 GMT"
     },
     {
       "title": "\"자…점점 더 작아집니다\" 빈틈 노리는 정수기 시장",
@@ -195,10 +219,10 @@
       "publishedAt": "Sun, 19 Apr 2026 19:05:00 GMT"
     },
     {
-      "title": "[기획] 악마성 40주년, 돌아온 캐슬바니아의 모든 것",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFYmYwZExVLU5nSDE4WHIxQjgzSy1YMUpJWTEyaDBwOUF5elZLMmJTWWFjM19TbG1QNm91RUVTR3ZKbUs2MHVQRGZaNExuczZ1MWw1b2x2LVUzanJoaGc?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 18:32:34 GMT"
+      "title": "기존 치료제 넘어선 신약데이터 '속속'…AACR 빛낸 K바이오",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fcllzVkdINVFPTVlPdTJlRV9GemJURXhvejZ3UDhlZzlldzZhZnE5R0xDSUEzUVRmS05vTkE1Q0JvRDJXa0ZsTDUyYUtIYlBMdERR?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:11:00 GMT"
     },
     {
       "title": "지선 앞두고 허가 급한데…재건축 시공사 선정 '발목'",
@@ -207,33 +231,9 @@
       "publishedAt": "Sun, 19 Apr 2026 19:04:00 GMT"
     },
     {
-      "title": "인도와 조선·베트남과 원전…글로벌 사우스 외교 본격 가동",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40b3dHalo4aHMzcjB0eEh5S2NteWoxcFB4SnR6LU94RFNkQl8yUURQYVRydmtjak1aT05jSGlqNGl1T3dZSmhDNnNZVnJlend0eV9N?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:10:00 GMT"
-    },
-    {
       "title": "코스피 6400 넘나…하이닉스에 쏠린 눈",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ubnVwX2pVazZIblpsV3Q5eC1RamZQQ2NFTVhwSHNHUTUzTWdLLVVYV283bFlBU05EMXJHMUhFbDZfWV8xeUk4dzhQb0pIQlRKN1hB?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:03:00 GMT"
-    },
-    {
-      "title": "'헬스장 폐업' 양치승, '흑백요리사' 나갔다가 3초 등장…통편집 굴욕",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vZFh2bF9Pc3gyaGJycjRoMEh3a1otU3NlQ0h5SEVpZ2tIS0tSNEVwWThwVFJ5UHBjN3Y5RS1maldraGZuS25vTWZ4djBpS1pNcTRlSUJpMjc5N0FJWWx1eWJHSEpOeWVPcWtmMVFDTnZLV3paOFJCTQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 18:52:00 GMT"
-    },
-    {
-      "title": "이재명 대통령, 인도 국빈 방문…모디와 정상회담·경제협력 확대 논의",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16T2VLTmNuS3dpX25tYzZQSWI4S2FPZWFPb0VfSUhMSlczTnF5NTFCckN0dUs2ZUQ2UktoX25fWHFJTDF2NEh5cTdYRXZoM0ZjbjNfbFNqUFZsRGxRMTczRnlrYlVpNEc4MFpKMlRKVFNGOFZYbzQ0dQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:06:00 GMT"
-    },
-    {
-      "title": "또 닫힌 호르무즈 해협…종전협상 안갯속",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zcWltV1QyS3lXMFFva0lkREd1N1BsbmhSMnZEV2dxdnJWcGZqRmkzdFpheXAyMUh2b0ZUcktsTl9oSk5FQTVpV2haOTYtRXVEMDlCLWMxUGZQMDZSTnQxNUdhb18wRnRvN3M1NkdqRnI4MnFvQzFkUg?oc=5",
       "publishedAt": "Sun, 19 Apr 2026 19:03:00 GMT"
     }
   ],
