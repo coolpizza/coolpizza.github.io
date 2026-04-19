@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T05:25:49.018393+09:00",
+  "generatedAt": "2026-04-20T06:01:37.455234+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1092",
+      "value": "1,467.1100",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
-      "updatedAt": "2026-04-20 04:32"
+      "updatedAt": "2026-04-20 05:21"
     },
     {
       "label": "100엔/원",
-      "value": "924.16",
-      "change": "-0.84",
-      "changePercent": "-0.09%",
-      "direction": "down",
-      "updatedAt": "2026-04-20 05:20"
+      "value": "929.80",
+      "change": "+1.80",
+      "changePercent": "+0.19%",
+      "direction": "up",
+      "updatedAt": "2026-04-20 05:46"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "8.4°C",
+        "temperature": "8.3°C",
         "feelsLike": "7.5°C",
         "highLow": "최고 13.5° / 최저 7.0°",
         "humidity": "99%",
-        "wind": "2.9 m/s",
+        "wind": "2.6 m/s",
         "rainChance": "20%",
         "pm10": "88.5 μg/m³",
         "pm25": "55.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "76",
-        "updatedAt": "2026-04-20 05:15"
+        "updatedAt": "2026-04-20 05:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
         "temperature": "11.5°C",
-        "feelsLike": "11.6°C",
+        "feelsLike": "11.3°C",
         "highLow": "최고 12.9° / 최저 4.9°",
         "humidity": "99%",
-        "wind": "2.6 m/s",
+        "wind": "4.8 m/s",
         "rainChance": "13%",
         "pm10": "39.0 μg/m³",
         "pm25": "26.5 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "48",
-        "updatedAt": "2026-04-20 05:15"
+        "updatedAt": "2026-04-20 05:45"
       }
     ]
   },
@@ -105,7 +105,7 @@
         "lowestDistrict": "양천구",
         "stationName": "SK에너지(주) 경인주유소",
         "address": "서울 양천구 국회대로 170 (신정동)",
-        "updatedAt": "2026-04-19 17:59:45",
+        "updatedAt": "2026-04-19 19:59:58",
         "districtSamples": [
           {
             "district": "양천구",
@@ -124,8 +124,8 @@
             "price": "1,969원/L"
           },
           {
-            "district": "영등포구",
-            "price": "1,969원/L"
+            "district": "금천구",
+            "price": "1,974원/L"
           }
         ]
       },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "KH에너지㈜직영 에이원주유소",
-        "address": "인천 계양구 벌말로 583 (하야동)",
-        "updatedAt": "2026-04-19 12:51:56",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-19 18:09:05",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,10 +177,16 @@
   },
   "news": [
     {
-      "title": "[오늘의 주요 일정] 울산(20일, 월)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ndmhkUTBCbHlyUEt6YUZTaDIydFpHREFBczRyNnliWTRSblNSNkJBVDlkQy1PVlRicFRHMjlhTW42d0dSQ3I1UE51TVJKTFRCc2c?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:00:00 GMT"
+      "title": "[카드뉴스] 은퇴 후 투자, '국민성장펀드' 궁금증 정리",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Z2VudGFMaE9KYm5RdWVmRjJjQnkzM2EtSnFnaGlVZllycHgwSS1vSVZDLTZXYlEtOWtKZ0pVVng1VzBMUnBsLURxY3pxMFdUVUM1clhJd091QQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:00:00 GMT"
+    },
+    {
+      "title": "‘전쟁범죄’, ‘유류값’, ‘장거리 양자 자기 측정법’",
+      "source": "뉴스톱",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zNncwUVJBZUR2NFFUU1Z3RHdqZ1JzVTc1RmZIcFRnazRQRThvUlVfQTYyVlF0NVpJVDlQeGdzdnk1TG81akZsZHNjUG1LU1VBdjNzbjhCOW9zc1lpVG8xNVJjeFRia005SlY0Rmg5cw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:47:23 GMT"
     },
     {
       "title": "[오늘의 주요일정] 정치·정부 (20일, 월)",
@@ -189,16 +195,22 @@
       "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 경기(20일, 월)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zZk45TE5nUkp5dTZDbE1pc2FpNzJ4SmYxVHV2R2p0djYybFd6VWt0Wmw2enc1MnltVFRYWTdyNG5vVXprZjJib3VGNEhSek8tQ3RjYW1B?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:00:00 GMT"
+      "title": "진주시, 안전 취약시설 84곳 집중 안전점검",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzRMSFdaOFlvdnVSd0Npek43Mk5iejVZbllQVnBjWGNWaDJFYm5rU3FPRVh0dUpWX1c5a2FDdmpwX09udC15ZjlQc0RIR1FINWNteVY5ZkVpN2VxM3lvYTlDOERWQlMzUGhlRThyS1NqS1pNZ3dLMmc5dVFzMTAtb21hUkUxZ0dCbGhLSDR1TW8xTjZ5dE9aNFdVMHNJNUdReGhmZk53TExnbHdQM3NvOHFlRXZJSTg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:36:43 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 울산(20일, 월)",
+      "title": "[오늘의 주요 일정] 경기(20일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NV05iYXExd3dEdDJMY2tNaTFtZFY1Y1dySkM1MnRsOFh3N2NHRlpJdnZSaWV3dEJBc2FCcTJuNUFOQmszQUJXQlBfNkhIMFJPVl9yVjBOeWZNYVpqLTlvRw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GZk9VSFJmZ0pPX2RsdWF0TFF4NEV1dFlaUEMxVGc1Tml6UTZwZTZhY2lxWmhrQXM1UWRCUHhZcDBqLVhZVmc5bGJVQ2pld3R1cnp3?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "[심층] 은행업, 머니무브 우려 과도...견조한 이익 성장 지속",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTNtMlZJRXZwa2hsZ21penZTYVBNSW5tNWQ1WVlHZ2NqbEdyeE9Damx3MEF0VmRqZmxyX2VZWnhmR1VkRjBQNmd2RGFUek1WdE1VVjE5emU0TWtwUmY3ZHFyTkl2a1I3cG9lc2RzeExpaUF4d1VoMGdTVTRMNnA1R0pyeDF1YVRxZ1ppNWYyZms0clNpUll2VFdyTW0tc2puaU1qSTRNaFlBN3BEMHBLTmd2Rzhrb2tyVmc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:05:42 GMT"
     },
     {
       "title": "[오늘의 주요일정] 전북(20일, 월)",
@@ -207,34 +219,22 @@
       "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(20일, 월)",
+      "title": "[오늘의 주요일정] 대전·충남(20일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oRElRR0Z5TXQ0dFlZcDNjZlZMOEVPY3owT1Z2cWJ1V00xT3l6azgycjc5Rkg2Qmpfczl6WWFKOUN5M2h6bmR4bHBDbkRnOFBmRVZn?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:01:00 GMT"
-    },
-    {
-      "title": "귀국하는 장동혁 대표",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWGJSb1g4Zzh1Z1FoUnRxb0J6ZGxuVDkxSzVtNXBfOFV2dDJuSXduV1BkUlVEWGNhVzEyYUJnaHMwUGxjNE5td1pSZ1BuY0E0MjdZcXVBUGpfSDNVTEh4WFdrUHRaWHY5dTN0b1V3?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:57:00 GMT"
-    },
-    {
-      "title": "공항 도착한 김민수 최고위원",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhcDU3ODBUNjAzcjU3WmhST3pNaVZ5ZDJMV0UwNDVPZlpJSjgxek42d2F5eVFmbGZzV1ozTEpJMElIcC1QbTB3SXFiZG9YcGwwMEF3?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:57:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 충북·세종(20일, 월)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40LVhYQ1cyYmpEd21TR2RIaElUTW5nOGhzWmJRZThFU2l1UF8zRXBDMEdkanB0bUNlUl9Ec3Bqak9LSDU4YVpnM0ZoRmN2Zk02T3hJ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:01:00 GMT"
-    },
-    {
-      "title": "[속보] 트럼프 \"미국 해상봉쇄 돌파하려던 이란 화물선 나포\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51ZVloWjBzeFpwVjA1NHpkbU1TWmVhNEg0R3N2bm5fenU4Tm1CM2lrOGFoNmdLRHdSUmRzSzh1WE96cEdNYnowbExiYktiX251aHBNOTF3bGJobDFCNFVwVg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZDNjTlhBTjdCV2FZWndNcEdmUkl6STdfd2RGVjF2SzFSeVpvU2tBd2RBanFVWWk5TVd4aUdDYzBERVdGcVFSRWV5OC1mS1RfM29v?oc=5",
       "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "\"美루이지애나서 총격사건…1~14세 8명 사망\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UclZTMmtLWkE1b1c4RnN5b05SYS0zcE5xQ1VfcXJYYkpzS1V5VjhDWEJCWXJ1Wkg0dDM1M0dTV1FGVVVTcWxPY0J5QWNYR3czOE53?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:47:00 GMT"
+    },
+    {
+      "title": "정청래, 오늘 '장동혁 지역구' 충남 보령서 최고위…박수현 동행",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pX2VxejZZd2xoU0hadGp5ZzZhYkF2NnFnUVUyQV9kUmt3MVEteFNnM3Z2TWw4SnlWN3plVVdCWTFSVXNGSFdWbHhwak1CbmV6bGtr?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:39:00 GMT"
     }
   ],
   "sources": [
