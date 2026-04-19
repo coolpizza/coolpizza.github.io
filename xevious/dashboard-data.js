@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-19T09:17:55.646065+09:00",
+  "generatedAt": "2026-04-19T11:15:22.682469+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -56,11 +56,11 @@ window.DASHBOARD_DATA = {
     },
     {
       "label": "100엔/원",
-      "value": "924.73",
-      "change": "-0.27",
+      "value": "927.69",
+      "change": "-0.31",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-19 07:52"
+      "updatedAt": "2026-04-19 11:02"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "14.4°C",
-        "feelsLike": "14.0°C",
-        "highLow": "최고 25.7° / 최저 10.4°",
-        "humidity": "73%",
-        "wind": "1.8 m/s",
+        "temperature": "20.5°C",
+        "feelsLike": "22.3°C",
+        "highLow": "최고 25.6° / 최저 10.3°",
+        "humidity": "57%",
+        "wind": "1.4 m/s",
         "rainChance": "0%",
-        "pm10": "71.5 μg/m³",
-        "pm25": "59.8 μg/m³",
+        "pm10": "75.2 μg/m³",
+        "pm25": "35.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-04-19 08:45"
+        "airQualityIndex": "68",
+        "updatedAt": "2026-04-19 11:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "15.1°C",
-        "feelsLike": "15.9°C",
-        "highLow": "최고 24.7° / 최저 11.0°",
-        "humidity": "90%",
-        "wind": "2.4 m/s",
+        "temperature": "20.7°C",
+        "feelsLike": "22.3°C",
+        "highLow": "최고 23.2° / 최저 10.7°",
+        "humidity": "69%",
+        "wind": "1.8 m/s",
         "rainChance": "5%",
-        "pm10": "31.8 μg/m³",
-        "pm25": "24.6 μg/m³",
+        "pm10": "53.1 μg/m³",
+        "pm25": "19.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-04-19 08:45"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-04-19 11:00"
       }
     ]
   },
@@ -112,34 +112,42 @@ window.DASHBOARD_DATA = {
             "price": "1,966원/L"
           },
           {
+            "district": "강북구",
+            "price": "1,967원/L"
+          },
+          {
             "district": "금천구",
             "price": "1,967원/L"
           },
           {
+            "district": "강서구",
+            "price": "1,968원/L"
+          },
+          {
             "district": "구로구",
-            "price": "1,969원/L"
-          },
-          {
-            "district": "노원구",
-            "price": "1,969원/L"
-          },
-          {
-            "district": "영등포구",
             "price": "1,969원/L"
           }
         ]
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,966원/L",
-        "lowestDistrict": "서구",
-        "stationName": "(주)자연에너지 한강주유소",
-        "address": "인천 서구 서곶로 415 (연희동)",
-        "updatedAt": "2026-04-19 06:01:57",
+        "lowestPrice": "1,965원/L",
+        "lowestDistrict": "계양구",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-19 06:12:37",
         "districtSamples": [
+          {
+            "district": "계양구",
+            "price": "1,965원/L"
+          },
           {
             "district": "서구",
             "price": "1,966원/L"
+          },
+          {
+            "district": "미추홀구",
+            "price": "1,967원/L"
           },
           {
             "district": "남동구",
@@ -148,14 +156,6 @@ window.DASHBOARD_DATA = {
           {
             "district": "부평구",
             "price": "1,969원/L"
-          },
-          {
-            "district": "강화군",
-            "price": "1,970원/L"
-          },
-          {
-            "district": "미추홀구",
-            "price": "1,975원/L"
           }
         ]
       },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "대한민국 대표 경제전문 멀티미디어 뉴스통신 채널",
-      "source": "뉴스토마토",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzTTJBSmxKSmRHdFZzdkJxZ1lSaDNpbDNSUzB3SDZtb25LVVZMdWRfRlg2Wms5alIwQmszVkFCUUNzUUlYY2xZY3BXLWk4N3BoSHJqeE1QS29Ed1NodWF2dkJRSlo4WHhmSUh2WU5ieHo?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 23:46:20 GMT"
-    },
-    {
-      "title": "울산 남울주소방서, 소방안전 안내서 제작·배포",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEUUYyZXJobl9aWENZS0hFRzlPbVdtQmJGSjJGdGNYSTIxM2VPbUlsWFh1RlFvRmRLQ01CZkFlbThJLXpEd3NXa2xfZXFyNzdWNHc?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 00:00:00 GMT"
-    },
-    {
-      "title": "창원시, 지역 명소 담은 영화·다큐 6편 지원…영상산업 활성화",
+      "title": "궁능유적본부 '단종과 정순왕후의 발자취 따라'...국가유산 체험 프로그램 마련",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFBwdlVBY0Zma3ZKUHhNZkpGTDRXaWdjcnh4dU5EYU1nLWlyRlNiZXBLSEtJejdrTjJjWDNKS0lRME9nMGl5Y3FqbUtkU21HcWFQT19vajVGRk1ISFloVFhHZTlzZ2tXU0g5cFBMTjlnQUt4SWdpRE5RaEV1SE90QWFYcnBYUTF1VmxJdGlOQ21EUlpVbnhVQ3Q1YVVrR0FSSndVWjhVR1R4dHNqZ2hOUG01dGU0a3RsOUE?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 00:04:15 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3lYRWZnTlkzM25wb2VhQ1pXWThBWGJKUl8zdU1HZDREZ3RfTWVIMXpGNmhmMDBjOUlmU1R6R3lxWTJQT28yRy1wZ3lvdDV5YTFYSWJpb3hrbWx1emduZC1GX3dVX0FHWDdoQzJkUldLOGlhUUpoZV92LXl1NGVaWFoyNWZkakphN19nLWgyV1VIVVFyMDVQdGRoNVFjTEhJMWFQd2JmQ2VxZUVoWHdLbFBFODVWN0swNEo0?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 02:10:04 GMT"
     },
     {
-      "title": "北 탄도미사일 발사…靑 긴급 안보상황점검회의 진행",
+      "title": "유공자와 기념 촬영하는 이재명 대통령",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nLWNuX1lOcUg3akRBYXo4ZkhLVHV4dnpGZnEtd1ZudS1ySk1scF9yOTVFNFMwRERrTy1tbHhOcFlqNUc3STNma0ZNS2xCMzZ2YkgxUm1ZRl9KMTVDdE5VSUx2R0h4VkxJMWtzelJPT2VicUVIZWgxNg?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 00:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45VE9Wc3I4dy1CaWFFX1VHcEdVdjgycWRGT043MFVFTzFHdmZQcjhTM0p1OHIwYWpTZnpRS0VheDJKTmZ0S2ZsSkFSZVNGSXM2TVNJ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 01:57:00 GMT"
     },
     {
-      "title": "경북 곳곳 21세기 대군부인에 등장…관광 홍보 기대",
+      "title": "'세계 최대 산업기술전' 독일 하노버 산업박람회에 통합한국관",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHhxTXBaVHRqSzlJU19XNFFxaG1RN3VSOEk0TG43STdTTWFhR25lcUhfdzBSRGp5YzdFUXRTYzEzell1dWVzMl9QZ0xKWklYREpfM2cwMm5jbFN6RUVuZmJiUVg5cWZiM1ZOY3pYRDdfTHgxMFJVQzJvMWNMeEh1M3V2Vm9JeFIzd0thVnFUSXdSUXNObS1WWnJfUHpnQnRIVHNfLXU2blBPSjItR0Q4Z3hVM29yejg?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 23:54:20 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdlZDTDBxVW1rWWUzaHNTNVRwUVdPWHhOcW1yMjFNOHI0bzFibjMxS0dhdHZJZlY2VWRoSWJ1OV9uUDdrbExJU1ZYTWVSUXBpTUhkcWFHcUlsVHliT2k0YnlQMzlUT2VYZHRKUlBwSU1UaGJpQW9raXViUHE3YkNsUC1yRDdqbFBUSEpqNGtJXzlFaWNvQlZOeTlrV0lmNVZtMGFNNGhKeU5HLWxfN1hod2pQeS1FS2h6b0E?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 02:14:36 GMT"
     },
     {
-      "title": "교황 레오 14세 \"트럼프와 논쟁, 내 관심사 아냐\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96blJQRWl0eWlrMFVMVHlsMnRSaF93dF91SGtvRDlkX1E4RTdEMkZqcU01aTZQS2p5T203MERiem9HRS1Xd3hNZVM1NFdZcjkzTjg0?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 00:04:00 GMT"
-    },
-    {
-      "title": "소노인터내셔널, 네덜란드 법인 청산…해외 지배구조 재편",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Rl82N1JEeWlWaFhXWWd2RUg0WXE0MVMzdkg4Y3l2bUt2LXI2enZGa2cxU1EtWmwwZEhUd1hoMUhxWEJzbXRfM0VOQmFVMzJscmQ4?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 00:01:00 GMT"
-    },
-    {
-      "title": "영화 '왕사남' 단종 앓이…밤도깨비와 함께 장릉 여행 떠나요",
+      "title": "어항·여객터미널 등 해양수산시설 869곳 안전점검",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzRBc0VMREplRFdSZzJhQ1d5QjVFZUUtTHdzUllTTnBJU2d0anY2VTdVWTlILVBzak11MVdtekNMRVJ1YUNpZHd1dGZpMFJOR3pMQmU4dzNBMTk0MEJNSGFZem9TcjdRelBzeHpjQTZPQUdkU0xvX0RSZ1JWbFZzQld0MWJhQzVTZDJxN0FhUnQxWC1tbDJsNGZ0THJrWXBjLXpSQ1lQTHlaek80ZnBmWUpDNERIaGZPNmc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 23:28:26 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWm5Lcmg0WWEyN2g1ay0xbTlzbF8tRW5UcVR3LWZacHZzRjRYUWZzQWZzNFNjdnkwRmt0bS1PS2ZSVVN0QmNYSWpDZGdTenpCMXNmblppRHhMVFpKdEJKcDZFQ3BRWGt5YlBieXJTTEMyd1d6dlFLcnBmSkpVaGlGNE5jT0laUDNDZTVlQTNLZXktWXUyd3RwaDBDdTNzMk5DRE1jN2JtMldkcHBldzA1dUEwLWQ2UU9U?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 02:04:09 GMT"
     },
     {
-      "title": "청주시, 사회·문화·산업 분야 \"시민 대상 모십니다\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GaDJxLXBNZzBadG9JcG1MN29ZaFE0bTdMSFBLM0k4bXZtUUxiNlVJMFZJRXRZQ0I0NUtVVHJYTXFDWGFES25UYkZDRUVwdmkxd0NR?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 23:38:00 GMT"
+      "title": "1분기 제조업 시황·매출 하락세…2분기 정유업 전망 암울",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSy1pQkpVT2YzWFFNLWc5aVZMekYyNXJaT1JXZFdTOGNTSUtwcURCc2VaTkx2LUJhZlNNT2FDbTdGYjJJLUlaYkQ3MGE5T1hWeEMwSGpCekd1a0lOejZfdkJxVUhaeWJOUTNfcTR2SlJmYUxqcERyN3lySEJPZm1MOUtnY1JsWnoxUkJCLUhTMGQtX2lNbEtJSWpvbGlVdk44Q3dwcTFzQ0lmNmdZVUpCR3BsWlE3bGV5?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 02:09:10 GMT"
     },
     {
-      "title": "익산 단독주택서 불…50대 거주자 숨져",
+      "title": "프로야구 시즌, 관람객 '통증' 주의",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OX2YybWpaZUR3aDc1VFdSWDRXaXZiZ1VBODFqbm9QOGM3OHJfUnEwenZ6NWVzUW9SX0tIbUFrWEVqVGdsSm1vNFpUS0lQVFB0ZGtz?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 23:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80MVhlbkFDUWlRb3o2WnE3RUJweE8xazJHak9DM0J0d3VrNUQ3d2EtZ3lCUnlLd2JYTkw2MWt5TDJhbTB6Ty13T29nclJQSzBLUE9mRTVOdHlVMjk5aXdMc0xfSmNLcEt3bDBmRFRmVFhKY3ZibHNqLQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 02:05:00 GMT"
+    },
+    {
+      "title": "현대엘리베이터, 고층용 모듈러 공법 상용화…공기 80% 단축",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQjIxQmVjbmt1ZkJvXzNrdEtpSmY0Y01welotLXN5c3VaNnF6MjZPb1kzZzJDbzdSTWZwV19vbjRIT2hVUDRKcG0yOFdLQWpEREk0dnpfSmg1bE5KbW1RQlgzdDNpZ0tZSWNXSl9IWGF5S05sQ1N3ZlRwa3pDTVZ5SHI0dUQyNVJfM2x0N2ppbDc0cXFDcmtZSERkZUtRNU9zUzh0SkJVUm5kd3YzNnpsNUNfcHkycmI1OTJxeVJaQXNaWFB6SlMyZ1BYRQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 02:00:51 GMT"
+    },
+    {
+      "title": "'중동發 뉴스에 요동' 역외 거래서 변동성 커진 환율…\"꼬리가 몸통 흔들어\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XTkw1dWVDNkt0WVYwRi1iUkk2czc4MnpLUWQ4X2pPN3hmaVNZWURFQ1JYT3JLQVlwSHVEcEpoMkNNSklSbFdKNjE1QWxfUjI2X1JZ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 01:38:00 GMT"
+    },
+    {
+      "title": "'시각장애인에게도 이미지 전달' 배민, AI로 음식 설명한다",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHg0V01fcWI1QW9sRkNLS29BVFZBdHRUam1HeGVrRlczMmhnM1lZWkJkVzhQQURUT1hjaHVlMUh6VmVTZUtuSWVlYUs4cDRDdTh6X0NvbVFQRXlzOG1pbXBVUFVJLWdKR2g3YkZhX0Y1X3lnNEczWW5GYUUyR2tab181eXEwR1FBWmlaUXVCWjZWWXBCd3FyNUFNQy1VM3Q3SXhQNWkxUzF2MG1nZ2w0SVpPUU1BNEk2?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 01:44:08 GMT"
+    },
+    {
+      "title": "'월 최대 6.4만원' 쿠팡 와우카드, 편의점 적립 혜택 2배 확대",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUVvdkJLekNBSE1xc0ZFVDR0VDQwREhHNlY3ZmtlaU56cG1uQVJjMng2UTdlblRITkFLQWVPMUNwYVljSU9BNjZLVmNteFVHWTlhQzlyc1pzWUpuaHJiUzJTYmhqSk9LcGhtcjJPM0pEWm9uN3dkUlU3dk05ck9GSVE1ci1WTkw2VnM2dmkyT0NrQTBhZVBHWm1KTkUzY293aUJ3dE1JY3UzRVVnN2JxM1c4ZzZYTVhz?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 01:44:08 GMT"
     }
   ],
   "sources": [
