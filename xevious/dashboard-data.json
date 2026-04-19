@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T17:03:28.921334+09:00",
+  "generatedAt": "2026-04-19T17:54:35.928082+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "22.5°C",
-        "feelsLike": "22.3°C",
+        "temperature": "21.5°C",
+        "feelsLike": "21.2°C",
         "highLow": "최고 24.4° / 최저 10.3°",
-        "humidity": "53%",
-        "wind": "6.2 m/s",
+        "humidity": "52%",
+        "wind": "4.7 m/s",
         "rainChance": "0%",
-        "pm10": "66.6 μg/m³",
-        "pm25": "27.0 μg/m³",
+        "pm10": "62.4 μg/m³",
+        "pm25": "25.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "70",
-        "updatedAt": "2026-04-19 16:45"
+        "updatedAt": "2026-04-19 17:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "19.7°C",
-        "feelsLike": "19.9°C",
+        "temperature": "17.2°C",
+        "feelsLike": "17.4°C",
         "highLow": "최고 23.5° / 최저 10.7°",
-        "humidity": "75%",
-        "wind": "10.7 m/s",
+        "humidity": "82%",
+        "wind": "8.6 m/s",
         "rainChance": "0%",
-        "pm10": "31.1 μg/m³",
-        "pm25": "13.3 μg/m³",
+        "pm10": "33.4 μg/m³",
+        "pm25": "16.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-04-19 16:45"
+        "airQualityIndex": "41",
+        "updatedAt": "2026-04-19 17:45"
       }
     ]
   },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-19 11:08:35",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-19 14:56:12",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "李 대통령 인도·베트남 순방…이번주(20~25일) 주요일정",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15RXR6Q2EtNEJCZmhZVHBqU3hCbl9SM0hIeGdSQ0Vmc0xlakoxZUNoVFR3aENjVlI4bU03Z0Jmc2RxdXdRcC10NXVRUF9GZDdLYkJOMFdwd2FrWGc?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:51:20 GMT"
-    },
-    {
-      "title": "[르포] '회담일 언제?' 숨죽인 이슬라마바드…긴장 속 '폭풍전야'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHowTXhjZlQxSHNBZENrTXB0dDdiQk9sTUx4aG54ZFI1WmhmUDlaeXZIVWRoNWRRd0Z3OEF0eHlEaGhUY2pnUG9aMkx6ZUd5WHpNQ181RlpsbzB4NF9vZi1mRmxhdVVyWlluZm1rWHVHTm1wYkx4b21FVjJkRTVWY040UHg2dTlXbkVlNm5NTm9ENDNENXRUXzZJb0lwaWFXYTc2c0paMl8ta2l3UTd1TXpPenBPZ2hzeFE?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:44:54 GMT"
-    },
-    {
-      "title": "물빛광장에서 주말 즐기는 시민들",
+      "title": "국민의힘 대구시장 경선 토론회",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QX3ZCdDY3cjNxQjY5MmJYaXZJU3hySF9YNHMxR1g2OFFXTldvb1VkVEZYLWZaLWdZekhRNnhCaEdpSEpGay1meGs0ZGRLRUlhLVhV?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tZktOWWRnNElMT2NUSmkxdEFJcnBTTFVCU0tWdmNBSlkyeV9IZnVuN1NReXBZTnJhTFI0eTNfQUVSb195bXZkcWg1dTZOYUEtNjZxN3BoTlFwUklhNmR6SA?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 08:48:00 GMT"
     },
     {
-      "title": "과천시 \"민간임대주택사업자 주요 제도 변경사항 숙지하세요\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qei1hSnZXSUhOYjlGNnNsVjBRdDQ4dnpSQU5QYUtSVzNQdHBNMFlia1hqbTJmV3JqOFRmTE9wV2dNQkZMbjdpa2hMNEZaNHRNc0lDdHZB?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:19:12 GMT"
-    },
-    {
-      "title": "한산한 이슬라마바드 시내 주요 도로",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhZlFCZjBJQkIxU0libHRBcFJELXRFU1ExOVo3OHlOOE5BNmlTZXlNRUd6S0pscVlpX0R5SmV4eDFXVXpXcVFFYnVhaW5ySU50V2o0?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:45:00 GMT"
-    },
-    {
-      "title": "세계 경제도 폭풍전야…또 노딜 땐 유가·환율 쇼크",
+      "title": "전국에 비 소식…오후부터 황사 유입[내일날씨]",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVW5SY0JRX3FwaXlDMlZhY1oycmZoMzEyQ3dJbkVJTjk5Q2hhbzZ5Nl9LOHZ3Q1d2Y25pY2RKQWo1MVNlS0N0UUVGSkJ6UjBkOXo3ZG5VeHpfaGVlV0l5bHRYRFY0c1BoRGh4YlVDbk9FZUQ4cG5fUEt0MjIyZTFFVWZDaHNweXFMOGJNTHkzQktmVzkxNXZhZ3BrTnotUnpvWFpBSUZoNm5tTmtWelNCY3BDNy10Rjc2?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:15:20 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTFYZ2JRV2FfWHlXNl9obnFFbWJnYXBIQ3lfeGJ4blZsZEZCRFExSlhCVDA4RzlsVkc4aEJUT2Vtajg3bnYyVXgtZFFha2IybFQ3RzlsektDaWtnRnVBcS16OHNodkFfTjVsNU1SYnNaSVJjWUN2NHRsaXhnSDBHOFZUNHF2emxNZk00cXJ4ZUNPbHFUU3d4Q1MyRTJaNnA0YXMtakh0NUhlSWdOb1F0QlpMWDIzeTZB?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 08:50:14 GMT"
     },
     {
-      "title": "뜨거운 4월의 물놀이",
+      "title": "이번주 용인·대전 등 8485가구 청약…분양시장 봄 기지개",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pejR5RUlVMVlkRkZrYlpYbk05QldkeVNGMmZOS2p4RzVLQ0RuekdWclBzNTdKRHRoaktmUGZNeWM2alNpY2ZaLUc3WXZ3bG5kM1d0WEI0SGjSAVhBVV95cUxNaXo0eUVJVTFZZEZGa2JaWG5NOUJXZHlTRjJmTktqeEc1S0NEbnpHVnJQczU3SkR0aGpLZlBmTXljNmpTaWNmWi1HN1l2d2xuZDNXdFhCNEho?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 08:00:29 GMT"
+    },
+    {
+      "title": "[청년골프] 장수연, KLPGA ‘넥센 · 세인트나인 Masters 2026’티샷",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5saDJPOWY2ME9uRVpFZDBHMDhkeGJUa0ZoZjU0Ry1qOWdhcjUtanlqMEJoTTZhUVRKZE84d1htV3ZGaFpFbld6Q0poQmpScnhhMjV2R1cxSEdjczJRREpYcjVpdU56LWV0Qnc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 08:28:20 GMT"
+    },
+    {
+      "title": "이란 대통령 \"트럼프, 근거 없어 핵 권리 포기 요구\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XYjFoSFZLZ0ROd0thY0hEWjdMa2lRaGhLQmxhb192R0NhTnpwSm5aX1NmbnItQWE3Y2dHa3BfSkJxRC1QanRhYkt6ajRlSnJac3FFWThILUZEX3dUQWMtag?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fcDZieWdheXNCTW1ONV9JbHZ1U0lsX2JHek9HQzQxcVgxZFo4X2plY1o0X2RSOWxZSW9zOG55SUVBUlBGV1kzdThldnBmZi1TS1lwWXBlOTRyZ3NZTXFVelc4eTRTaFJOemc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 08:37:00 GMT"
     },
     {
-      "title": "김재욱 칠곡군수 예비후보 재선 도전…'더 큰 변화 이룰 것'",
+      "title": "오세훈 '등산, 서울 관광 새로운 효자…서울투어노믹스 실현'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMEhaamFyTzZYQVhiWXVLUnVTMjFFZl9IbDZSUkw4UFRFMUhUc3dMRDljREVMWFBnWHg0ckZRaDU0RWs5U0xVRHd3ZTVUN1BpZWV2NUh0cEF0WTBmUmg0YU83TFR3bWIxbnlUQi1GdnpxdndscmJkZVhDenlJeWxibFRtSVVVdG9yYTM3SlZOamFuOWo4Ym45Z2dDd2NuaVRMYm9pM3RxU2lYQWY2d2dzQlpkSVFpWnZf?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:15:29 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVplSDQ1Qko4QnZvUEY4Nk5kQ2RJWml1emVBS0h6aWFYSC1KakFiZk9ZeWFLbnZqSGJ2ZnJiY1JSeE1hZFlyMUNDVnR5cUVWWGdwdGJzR2ttemFMLTVpajVMaEVWaWFMakZIcTJDcWIxMExwcF9mbXRRb1R0RXFSX2RwQklMUXktYTBjeWltSmp6VFJLUTJzRVRUTXM4TkgyT2xHRWxSWDlYVFVXLXFZd0d4MHIwaTVyMXFmdVdEME0wU09GeTBaQjdR?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 08:35:40 GMT"
     },
     {
-      "title": "[포토] '무리해서 다치지만 않으면 좋겠습니다' 서정원",
+      "title": "오세훈 시장, 19일(일) 서울등산관광센터 관악산점 현장 점검",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3clVncU9BMzllQXJOUkhDeDJuNWRMdTdlN3VQVjZUakpQZW9DZng5M2VZS0N0VE9hUlJLUnFnMVRkclVGNkFOR2JMMHdiWVV1TTN4ZzNNQnM2WERhNzYxQUYzMzNKQmtQZkE?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 08:02:37 GMT"
+    },
+    {
+      "title": "김용 보석 출마 놓고 민주당 분분…'대법 판결나야' vs '정치검찰 피해자 족쇄'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSU55TzZENDNLUWh6SWw4MVlZV1RyZGw1YzJmSGpObWpXMGQxVXhxNjFkUnktcEVsbXU3Z2FINzd4TXdwQ2x1QW5kWnZVdGVtS3o2UkdLMHFscWR5QnpRYzRfcVYwTlkyTDZXeThPaXNqek1LLUQzdDF5NVgtd0xMWUJMd3RZeGx2RTNNeUFtT3hkaDNYa2luOTFNRDJMTzlTMFdGYUpraFI0cTlqbFNPSzRTLUZxZG1DRXc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 08:40:50 GMT"
+    },
+    {
+      "title": "교육비 서울 사립대 추월…'대학 서열'까지 흔드나",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SeTVkdXQwa2oxa2lFZVk0XzE2VXdsX1FORm10M3FqLVpramNGZFMzTzh1SXluZmFFUVVDcFVoMzhkVklCd3VxSTJoYUQtbGN5QXc0b1g3MGFvb1h2UGsxbVBHZS1qMUFvcnhoQUdabldfVUFCZlAtSQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aRXVYN2Z2ZTFOLXRrak1tS2pzRk5DcU5LUGNRX2RidlluS1JGV2s4U1A0b0tEQk9lMXBBbzNHbnh2aE9JUk8yY19uR0JtTzUtc0liVVFWejNJdXJsUEhrQg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 08:44:00 GMT"
     },
     {
-      "title": "파키스탄, 美·이란 종전 2차회담 대비…경비 대폭 강화",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYndqWVpEUVBNM01paHlicjMtR1pOOUlrbU92dUZqamlDVWJDYnpvcXZiUlg1a0p3NG1pRnlRektPSUlGbGdlSDNVWEN0V3BuN1NuSlFjNkw5UFJtMUx4RHJWUFo2dzJfOEJkQ0VvckY5clNOREMxR1F1WWlnVTVya20tTUNnajVBYTJBWjdTY05KWlYtNDRjamVCSkFsc3VlbklEWncyX2RWc2Q2NlYwSjdkcDEwV2ot?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:04:51 GMT"
+      "title": "'원주시장 수성 전 본격화'…국힘 원강수, 20일 공식 출마 선언",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kOE1UTl90dlFpZ3I4WmEzR0d4dDRKaHJCV0dQRkdZanVlMWpXc0cydTBoY29WcnAtcndWcUxhdzRlLWpvNmNDOWZkbUNlSUE3SzQ4?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 08:43:00 GMT"
     }
   ],
   "sources": [
