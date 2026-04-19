@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-19T08:31:50.180482+09:00",
+  "generatedAt": "2026-04-19T09:17:55.646065+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,10 +48,10 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0400",
-      "change": "+0.00",
-      "changePercent": "+0.00%",
-      "direction": "flat",
+      "value": "1,467.0393",
+      "change": "-0.00",
+      "changePercent": "-0.00%",
+      "direction": "down",
       "updatedAt": "2026-04-19 08:11"
     },
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "12.3°C",
+        "temperature": "14.4°C",
+        "feelsLike": "14.0°C",
         "highLow": "최고 25.7° / 최저 10.4°",
-        "humidity": "79%",
-        "wind": "2.1 m/s",
+        "humidity": "73%",
+        "wind": "1.8 m/s",
         "rainChance": "0%",
         "pm10": "71.5 μg/m³",
         "pm25": "59.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-19 08:15"
+        "updatedAt": "2026-04-19 08:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "13.9°C",
-        "feelsLike": "14.4°C",
+        "temperature": "15.1°C",
+        "feelsLike": "15.9°C",
         "highLow": "최고 24.7° / 최저 11.0°",
-        "humidity": "93%",
+        "humidity": "90%",
         "wind": "2.4 m/s",
         "rainChance": "5%",
         "pm10": "31.8 μg/m³",
         "pm25": "24.6 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "38",
-        "updatedAt": "2026-04-19 08:15"
+        "updatedAt": "2026-04-19 08:45"
       }
     ]
   },
@@ -105,42 +105,38 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "양천구",
         "stationName": "SK에너지(주) 경인주유소",
         "address": "서울 양천구 국회대로 170 (신정동)",
-        "updatedAt": "2026-04-18 14:58:09",
+        "updatedAt": "2026-04-19 07:59:03",
         "districtSamples": [
           {
             "district": "양천구",
             "price": "1,966원/L"
           },
           {
-            "district": "강북구",
-            "price": "1,967원/L"
-          },
-          {
             "district": "금천구",
             "price": "1,967원/L"
           },
           {
-            "district": "강서구",
-            "price": "1,968원/L"
+            "district": "구로구",
+            "price": "1,969원/L"
           },
           {
-            "district": "구로구",
+            "district": "노원구",
+            "price": "1,969원/L"
+          },
+          {
+            "district": "영등포구",
             "price": "1,969원/L"
           }
         ]
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,965원/L",
-        "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-18 23:18:34",
+        "lowestPrice": "1,966원/L",
+        "lowestDistrict": "서구",
+        "stationName": "(주)자연에너지 한강주유소",
+        "address": "인천 서구 서곶로 415 (연희동)",
+        "updatedAt": "2026-04-19 06:01:57",
         "districtSamples": [
-          {
-            "district": "계양구",
-            "price": "1,965원/L"
-          },
           {
             "district": "서구",
             "price": "1,966원/L"
@@ -154,22 +150,26 @@ window.DASHBOARD_DATA = {
             "price": "1,969원/L"
           },
           {
-            "district": "중구",
-            "price": "1,969원/L"
+            "district": "강화군",
+            "price": "1,970원/L"
+          },
+          {
+            "district": "미추홀구",
+            "price": "1,975원/L"
           }
         ]
       },
       {
         "areaLabel": "익산 최저가",
-        "lowestPrice": "1,909원/L",
+        "lowestPrice": "1,929원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 성북지점",
-        "address": "전북 익산시 망성면 익산대로 2802",
-        "updatedAt": "2026-04-15 09:56:07",
+        "stationName": "오일스타㈜익산지점 착한8주유소",
+        "address": "전북 익산시 용동면 익산대로 2538",
+        "updatedAt": "2026-04-19 07:39:44",
         "districtSamples": [
           {
             "district": "익산시",
-            "price": "1,909원/L"
+            "price": "1,929원/L"
           }
         ]
       }
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "NCC 가동률 60%대로 하락…나프타 대란에 정부 '전방위 총력전'",
+      "title": "대한민국 대표 경제전문 멀티미디어 뉴스통신 채널",
+      "source": "뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzTTJBSmxKSmRHdFZzdkJxZ1lSaDNpbDNSUzB3SDZtb25LVVZMdWRfRlg2Wms5alIwQmszVkFCUUNzUUlYY2xZY3BXLWk4N3BoSHJqeE1QS29Ed1NodWF2dkJRSlo4WHhmSUh2WU5ieHo?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:46:20 GMT"
+    },
+    {
+      "title": "울산 남울주소방서, 소방안전 안내서 제작·배포",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nUHRISHhpdVVOZUs2bXpISWNpek5yQU1DSU1hbzlGVVozRW1maGp4ZFpJMDBwUkh0RkxkSmdWRklmWTZqUnE4ZFJHMFN2bl9IQUVlUA?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEUUYyZXJobl9aWENZS0hFRzlPbVdtQmJGSjJGdGNYSTIxM2VPbUlsWFh1RlFvRmRLQ01CZkFlbThJLXpEd3NXa2xfZXFyNzdWNHc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 00:00:00 GMT"
     },
     {
-      "title": "'미토스'가 던진 경고…AI 보안 패러다임 전환 기로",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10UGhLMkZZWlBGYzRtMXlZbjdEcEVCR0RLQk5TSl94cHZjQmg1NDNscHhLLTIxVE5jLVhFTmRRcUZsT0VybWZKb2ZCcDdzaHZMblhB?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 23:21:00 GMT"
-    },
-    {
-      "title": "수입 의존도 높은 핵심광물…'산업 흔들릴까' 공급망 점검",
+      "title": "창원시, 지역 명소 담은 영화·다큐 6편 지원…영상산업 활성화",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHk4WXBWRUZpMGszeDFjX1NpaGI0SWltTnR5UXRXVHpZYVZaN0wzSWlJSC0wRmFwR0ZBSDN3eW5HUE1ic2YwTWZRMVY4SmZEbDRQSTdJMmFwZ2ZYRmlIV3VhV2dmVk56N0JXY1RyQXdQTEluRWNQejNhaV9kQkU4VzBuZWU4VnQ5QXpWY0Z1bkpEeWdHTFFOcTA0Y1RoOXRPTjJwcXJoWmxEQmROMlVmOFFtWGJ0V1VPMVE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 23:13:59 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFBwdlVBY0Zma3ZKUHhNZkpGTDRXaWdjcnh4dU5EYU1nLWlyRlNiZXBLSEtJejdrTjJjWDNKS0lRME9nMGl5Y3FqbUtkU21HcWFQT19vajVGRk1ISFloVFhHZTlzZ2tXU0g5cFBMTjlnQUt4SWdpRE5RaEV1SE90QWFYcnBYUTF1VmxJdGlOQ21EUlpVbnhVQ3Q1YVVrR0FSSndVWjhVR1R4dHNqZ2hOUG01dGU0a3RsOUE?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 00:04:15 GMT"
     },
     {
-      "title": "내달 16일부터 단양 시루섬 생태탐방교 주말 임시개방",
+      "title": "北 탄도미사일 발사…靑 긴급 안보상황점검회의 진행",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nLWNuX1lOcUg3akRBYXo4ZkhLVHV4dnpGZnEtd1ZudS1ySk1scF9yOTVFNFMwRERrTy1tbHhOcFlqNUc3STNma0ZNS2xCMzZ2YkgxUm1ZRl9KMTVDdE5VSUx2R0h4VkxJMWtzelJPT2VicUVIZWgxNg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 00:06:00 GMT"
+    },
+    {
+      "title": "경북 곳곳 21세기 대군부인에 등장…관광 홍보 기대",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFd5NXJMaGFOOGRXdHYtZ3NYdnRwVXp1dmtxT0VTN0N5eGpWVVFFbGd6UHp3aEk2M19NNjh1WUU5ZDQydG9FbkhtWE1CdWpXZ2xvX3BlYVp3a1psc01NZkRGRzhyeGU5VUdpMU9oRTJZU0pidWxQamJDSDBpd3JoUUpFQ1BOVGw3TjhRNVFtNDdwOFBSXy1USG5SRWNuZFY3blZSSjBacG83c29HZkVfYzByVl8wODIw?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 23:04:34 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHhxTXBaVHRqSzlJU19XNFFxaG1RN3VSOEk0TG43STdTTWFhR25lcUhfdzBSRGp5YzdFUXRTYzEzell1dWVzMl9QZ0xKWklYREpfM2cwMm5jbFN6RUVuZmJiUVg5cWZiM1ZOY3pYRDdfTHgxMFJVQzJvMWNMeEh1M3V2Vm9JeFIzd0thVnFUSXdSUXNObS1WWnJfUHpnQnRIVHNfLXU2blBPSjItR0Q4Z3hVM29yejg?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:54:20 GMT"
     },
     {
-      "title": "\"물값 2000원, 외국인 많아서 \"…광장시장이 또",
+      "title": "교황 레오 14세 \"트럼프와 논쟁, 내 관심사 아냐\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ObHhZSmVFZElXVVBqeWZnRGhoeUZBX3hVYk5EM1FEeXlyX2IwY1lVaEtEODZBOHFKbFF4T091TXVubm9TZHVjRF9aMkhTcWJNYnZZ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 23:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96blJQRWl0eWlrMFVMVHlsMnRSaF93dF91SGtvRDlkX1E4RTdEMkZqcU01aTZQS2p5T203MERiem9HRS1Xd3hNZVM1NFdZcjkzTjg0?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 00:04:00 GMT"
     },
     {
-      "title": "합참, 北 또 탄도 미사일 발사…발사체 제원 분석 중",
+      "title": "소노인터내셔널, 네덜란드 법인 청산…해외 지배구조 재편",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MbjZCQlVXU3RMYlJnLXJXNkJGbjRmTC1XTWE2cVJkSnVNWkJLR3BONmp2ZkJGdk8xT1lVMnZ6YWRGb01tTEFDdFZTb3ZrX21wRkZ3?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Rl82N1JEeWlWaFhXWWd2RUg0WXE0MVMzdkg4Y3l2bUt2LXI2enZGa2cxU1EtWmwwZEhUd1hoMUhxWEJzbXRfM0VOQmFVMzJscmQ4?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 00:01:00 GMT"
     },
     {
-      "title": "민주주의 출발점 4·19…부산, 66주년 기념식 개최",
+      "title": "영화 '왕사남' 단종 앓이…밤도깨비와 함께 장릉 여행 떠나요",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnBXU1R5eXhJa2tZdzFKczA5WUdhZ09za0FodHIwbmczcGJ1MGllR1FZOTBxbk1aeWJVVEVPNWFpS0tTYXlMeWYwTWwzQjFPZlVXaUprdHdwXzNWVUgtSHBob0RjdDJpaEdHUHdlZTZsRDA5eE1fRUpFamxSMDNOUkM3WXg4d1hSTGZIUTRtQU03ajlwSHFBWUJoWk1wc3lxSlF2TV9LOEI3SmhNRC1wbVJkaUtDY29x?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:59:50 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzRBc0VMREplRFdSZzJhQ1d5QjVFZUUtTHdzUllTTnBJU2d0anY2VTdVWTlILVBzak11MVdtekNMRVJ1YUNpZHd1dGZpMFJOR3pMQmU4dzNBMTk0MEJNSGFZem9TcjdRelBzeHpjQTZPQUdkU0xvX0RSZ1JWbFZzQld0MWJhQzVTZDJxN0FhUnQxWC1tbDJsNGZ0THJrWXBjLXpSQ1lQTHlaek80ZnBmWUpDNERIaGZPNmc?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:28:26 GMT"
     },
     {
-      "title": "저승에서 타라고?…'2억 벤츠' 함께 묻은 중국 장례식",
+      "title": "청주시, 사회·문화·산업 분야 \"시민 대상 모십니다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UbWxwRHhHU0dTMms2UlBITGJYcm9UVTdQU1BRWXRXczVpUFlTVGtuMnFtYU5WaFBfd0FUWFpYdERfMlVleGRLbTRRYWxOM3BZTGc4?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GaDJxLXBNZzBadG9JcG1MN29ZaFE0bTdMSFBLM0k4bXZtUUxiNlVJMFZJRXRZQ0I0NUtVVHJYTXFDWGFES25UYkZDRUVwdmkxd0NR?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:38:00 GMT"
     },
     {
-      "title": "'문단 거목' 윤후명 작가 1주기…학술대회·추모제 열린다",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1J1RkdxbFN2NzlwYzBmTjNIblE4U0hJdWpiRUdVSnRvcmk5N3ZHd191T0w5NThDT3ladkJGcnZnVU1iRXdqYU1BaTBfZGlZRy1QSG1GMWNIcHY4d1R2aEtSU3MyR0drMXdZUXRJaXJ1SmM4YjBxcC04VlhCc3B1cEUzZHh6algxeDBTSjlXc1ZzVUVjR1Vpek5mWUhsaHFwQTlidVR3LWNEMWpGZWYtekRId1NSSVg4Wnc?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 23:04:51 GMT"
-    },
-    {
-      "title": "합참 \"北, 동해상으로 탄도미사일 수발 발사\"…11일 만에 도발 재개",
+      "title": "익산 단독주택서 불…50대 거주자 숨져",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xQTJQakVBUWtua2gzVktNLUVwY0JmWkFiWWZlM2ZlVnE4TnY2UXZpVFlhTGFvdi1FTkl5XzJ3SzAtRTFOU180YlRxVF9pOXEzNW1J?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 22:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OX2YybWpaZUR3aDc1VFdSWDRXaXZiZ1VBODFqbm9QOGM3OHJfUnEwenZ6NWVzUW9SX0tIbUFrWEVqVGdsSm1vNFpUS0lQVFB0ZGtz?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:52:00 GMT"
     }
   ],
   "sources": [
