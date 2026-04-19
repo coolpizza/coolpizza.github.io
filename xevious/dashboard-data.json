@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T19:59:39.138992+09:00",
+  "generatedAt": "2026-04-19T20:37:03.427469+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0393",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-04-19 08:11"
+      "value": "1,467.0400",
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
+      "updatedAt": "2026-04-19 18:18"
     },
     {
       "label": "100엔/원",
-      "value": "924.73",
-      "change": "-0.27",
+      "value": "927.69",
+      "change": "-0.31",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-19 19:10"
+      "updatedAt": "2026-04-19 20:31"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "17.9°C",
-        "feelsLike": "18.0°C",
+        "temperature": "16.1°C",
+        "feelsLike": "16.2°C",
         "highLow": "최고 25.7° / 최저 10.3°",
-        "humidity": "70%",
-        "wind": "4.1 m/s",
+        "humidity": "77%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "65.2 μg/m³",
-        "pm25": "31.7 μg/m³",
+        "pm10": "67.1 μg/m³",
+        "pm25": "36.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "70",
-        "updatedAt": "2026-04-19 19:45"
+        "updatedAt": "2026-04-19 20:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "13.6°C",
-        "feelsLike": "13.4°C",
+        "temperature": "12.9°C",
+        "feelsLike": "12.8°C",
         "highLow": "최고 23.5° / 최저 10.7°",
-        "humidity": "93%",
-        "wind": "6.6 m/s",
+        "humidity": "96%",
+        "wind": "5.9 m/s",
         "rainChance": "0%",
-        "pm10": "27.8 μg/m³",
-        "pm25": "18.7 μg/m³",
+        "pm10": "32.7 μg/m³",
+        "pm25": "22.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "38",
-        "updatedAt": "2026-04-19 19:45"
+        "updatedAt": "2026-04-19 20:30"
       }
     ]
   },
@@ -183,58 +183,58 @@
       "publishedAt": "Sun, 19 Apr 2026 10:37:04 GMT"
     },
     {
-      "title": "구윤철 만난 IMF 총재 '한국 재정여력 충분히 갖춰'(종합)",
+      "title": "구윤철, 美 재무장관과 회동…환율·대미투자·핵심광물 협력 논의",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYlI3NFBJbDItaTUtcDBpbWEydEJZdTN5cVB2Wm5wTXlneEZWUHVicFBjc2ZQOEc1N3VsZFFyQksyMVB3RW9hdXcyXzR1VnV6TW42YjlJTmR2bktPSGUtNFhCQjEtQXRoZ2dEazRVTTJ3ajZtZWpQTVZlUWg0eEpTdmlRNkZxaEdDbHpvaVpXd09NRTZtMlZKOENLOE9EWXgzMTBrUjBTa2MzMzREUHBLODhpVGN6MS03?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:05:05 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXBNejFPcXRSM3NfYWI1YU12OHZfSkR1ZW12clZVVF9BZWxTNENaRkY4VGY1azQ5SHlkZ1pqRDh5UmZpY19ram5ZbGEyeVc4SXE2aWtTTFRyU3FyNlRqaXBwZ1dUQUpnUUZpVUdmNVFOaFNnWWRxQm1kbVlmU00wOENZQkVmMW5PckViVkVsTHhyM1JJS2xiUlJMb3J6a1VuRTVmUVh6aC1QeGgxZ3drMXVYd29FRGNy?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:15:00 GMT"
     },
     {
-      "title": "부산 에코델타시티 세 번째 푸르지오 '트레파크'",
+      "title": "'196㎝'의 공중제비[포토뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14MU1XOHEtbkVvWHdMZFV3VU5iOS1JSTBsTFIxWWtZd2JiVlBuNldVWUpyYUVaVUZpaGJ3WGhMT0R1cUZraW1LU0VYZ0dvcXVpYTBjWUI2Z0I3X2FUM21DMXBpTzhTNjBSSnNFSDlyaEk0dzVXMWZ1UQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44NjJYT2tMcTYxYW5uOFlBa3VFYzFKaVlLZDBUSml3S2MxdlliQ1dQVENwNjc4Y3ZRZmw0Sk1FeURVZ3lKN2pYZEN1NlZ1MWRGT1A0V2RoelVXTFpZck5BWm54X0w3Q1NGTUh2RkdLODZPRXJLWVl6eA?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:26:00 GMT"
     },
     {
-      "title": "\"전쟁 반대\"…트럼프 맞서 좌파 정상들 결집",
+      "title": "[속보] 李대통령, 인도 도착…내일 모디 총리와 정상회담",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kYmpCZUwyYUdBRzd6TlRUWlFCRi01NnJUdlRGSGs0VjR0Vjk0NTQ3Zi16ZHBZWnN0RGVpY2N5OUNmZUtGZUs4M2U2MGlhLUJfYUU0?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IUm01RzBJSTk4VU15WEYzNmtYTndSc3JHa0dGOWFuLU90VEo3NVZEWkoxcC1vQWllLXdidUg3ZGJyTE1ZWlZ1cjBvSEs2ckVYR0R3?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:19:05 GMT"
     },
     {
-      "title": "최고 44층…울산 '힐스테이트 선암호수공원'",
+      "title": "'수급 불안' 비료…사재기 대신 이참에 다이어트 하시죠",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xQzU5YzVUcjVHZXZMU2VmclFscEQtQ0JWcktxemVURDdpNGZzU19yZ085NnpnS0N0N3IyTndaRkZYcHQxVXBqSGJaaTkySnJidWw0?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTWw0TjZnMGJGdXRTZEw5RWh5OEVQbUxDa1hIUWlqcm5GeVFrUE9XLUZZdFMzWHVqcVhjU1ZVT2lFaXJuWDRxRTJtMkNhMHljODF2bXBjWEY4Mm1SRElPZWxPaWVuMjhDUU16SlRkTWo3blpsZTJnWg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:33:00 GMT"
     },
     {
-      "title": "[포토] '반데사르 고생이 많네' 신세계",
+      "title": "일본 잡은 매운맛, 다음엔 너구리다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aUTVtVzdIZjZvUkhNVDZ5azJmQUs1Y1B4TG4zQ2g0cWdnRlhNelJncW9DNGpfaDJyWmM1M0ttcjcySEpyZVVIY3NHLXRCWlRsdkRPdGR3bDByaDJ3ZVJsOTJZNkFfYzlDT1ZlUEktX0Ezb0lfWUZaSQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05ZVNyV2FTTzdKZzVJRHZzQ2R4bHpRbVRJOVhyWW5aU0tHeWlXVTYzWFBXZVhXUjJSdnNkN1QtTFphc2U2d2FqV2ZnS0R2YTA0TkhxNUhvRmhwbGpaQWQ3bDJ4RTBDOVlIUkxtWThDSVZGQjVEa2w1cg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:33:00 GMT"
     },
     {
-      "title": "이스라엘군 \"휴전 파기 시 이란 에너지시설 등 새 타깃 공격\"",
+      "title": "[포토] '다치지말고' 서정원감독",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10T29hdEZCVzZtMnlxWDlRZlpqTTlnYUIwdzdzYzdyZGQzdVZuMTIwWVg5RTNYb2RKWUJjcmd1UHFGaHJXSzE5R2lZY19EVjJkMVdF?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dzlGTDYyWlhjeWdFSXRYNXl4azF3NkR4UUlUQnl1ck1BVW41eXNiSlQ3UzFMcDhZX2Q2SzZNWGlRbHZJbW9BOWFaa2VFeGltd3J4VS1iWGdwOEdUclEtaUtNUEJtS3hiOTBHdGJZQ1JKSWZpNF9yUg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:22:00 GMT"
     },
     {
-      "title": "[포토] '팬서비스는 우리가 최고지' 반데사르",
+      "title": "오일머니 끊기나…LIV 골프 '흔들'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kVGFSbEFLaUFibGV6Sl9GekdYUXlpWUl3ckV5Tm4zWjNIOHhHOG1KcGxFZnF4OGx4WWdhQ0R3ZjNsSmdPUUYweldPVWM5SkVwcTlMYzJuMkdWSjUx?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHN1A5WlFwaW5JZ1JsVnA0RGx1bWV1ZEYtTTJIZGZkNVZ1R0RMemx5b3BjNVZudlF6OGpsTjZMRjlOWUx2eWZsUEJ0aFlDZk95dmtFTUFWWmM1OFhEZFVtdVBfUmVfRGNlUTk4QkVBOG9YaUJ4aS1Obw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:22:00 GMT"
     },
     {
-      "title": "인천계양 A9블록 신혼희망타운 317가구 모집",
+      "title": "'약물 운전 혐의' 타이거 우즈, 스위스서 심리 치료 중",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GZk1kRDFPSGFxNkVpVy1ER25sdmpUek4tNXhBTERvM0tQX0dJU0EtYkRSUmNnQm1UWmxTaGI4V2Q3LXZkT184bF96WHhQR1FlZTFv?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQcVNBV1FFUS1XRmVMLVhmdkVZcmVhelNXWEhKZFhUekdjS0dYSzVaaloyMU1GWmtHYnhsbzBWenVhUUFzSWdzQ1dmSDhzd25LN29R?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:25:00 GMT"
     },
     {
-      "title": "이 대통령 '특별감찰관' 추천 재요청…확고한 의지 표명",
+      "title": "한미 재무수장 \"원화 과도한 변동성 바람직하지 않아\" 공감대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwdVFZNzZJeUVwZWF2UHVfcWM1NW95SlkyTlVaZkxFUzRRQ0RkbkZhcmE4b2ZkNG9tU0VwWHJEeTQ2TENPUjJYYktkaHpHZHhNNi1n?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qVHp3cDRKZmhBczUwZC1wdURodS1wejV2V1FCRnp5dTlCLWw0QzFEdmFCX2RxM2hualJFcVBvZWFpcFBOYThWYl81b0ZxYzRkVVNlZzdueGFfMVJTemFHWQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:00:00 GMT"
     }
   ],
   "sources": [
