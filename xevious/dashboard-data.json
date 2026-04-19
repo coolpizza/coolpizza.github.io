@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T06:34:15.617168+09:00",
+  "generatedAt": "2026-04-20T07:03:04.249901+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1092",
-      "change": "+0.07",
-      "changePercent": "+0.00%",
-      "direction": "up",
-      "updatedAt": "2026-04-20 05:21"
+      "value": "1,466.1594",
+      "change": "-0.88",
+      "changePercent": "-0.06%",
+      "direction": "down",
+      "updatedAt": "2026-04-20 06:34"
     },
     {
       "label": "100엔/원",
-      "value": "929.30",
-      "change": "+1.30",
-      "changePercent": "+0.14%",
-      "direction": "up",
-      "updatedAt": "2026-04-20 06:28"
+      "value": "922.68",
+      "change": "-2.32",
+      "changePercent": "-0.25%",
+      "direction": "down",
+      "updatedAt": "2026-04-20 06:57"
     }
   ],
   "weather": {
@@ -69,31 +69,31 @@
         "location": "서울",
         "summary": "흐림",
         "temperature": "8.2°C",
-        "feelsLike": "7.3°C",
+        "feelsLike": "7.1°C",
         "highLow": "최고 13.5° / 최저 7.0°",
         "humidity": "99%",
-        "wind": "2.8 m/s",
+        "wind": "4.1 m/s",
         "rainChance": "20%",
         "pm10": "86.1 μg/m³",
         "pm25": "54.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "76",
-        "updatedAt": "2026-04-20 06:15"
+        "updatedAt": "2026-04-20 06:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "11.5°C",
+        "temperature": "11.6°C",
         "feelsLike": "11.3°C",
         "highLow": "최고 12.9° / 최저 4.9°",
         "humidity": "99%",
-        "wind": "4.9 m/s",
+        "wind": "4.8 m/s",
         "rainChance": "13%",
         "pm10": "38.6 μg/m³",
         "pm25": "25.8 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "48",
-        "updatedAt": "2026-04-20 06:15"
+        "updatedAt": "2026-04-20 06:45"
       }
     ]
   },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "KH에너지㈜직영 에이원주유소",
-        "address": "인천 계양구 벌말로 583 (하야동)",
-        "updatedAt": "2026-04-19 12:51:56",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-20 00:53:50",
         "districtSamples": [
           {
             "district": "계양구",
@@ -163,9 +163,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,959원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 성북지점",
-        "address": "전북 익산시 망성면 익산대로 2802",
-        "updatedAt": "2026-04-19 08:42:11",
+        "stationName": "대선주유소",
+        "address": "전북 익산시 성당면 함낭로 222",
+        "updatedAt": "2026-04-19 21:08:39",
         "districtSamples": [
           {
             "district": "익산시",
@@ -189,16 +189,10 @@
       "publishedAt": "Sun, 19 Apr 2026 21:32:41 GMT"
     },
     {
-      "title": "이란 \"2차 회담 사실 아냐‥전쟁 가능성 높아\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YWjFCZEtjSF9nMENIUThSLW15Z1J5T0Q2V2tzQ1ZIdFNSbF9OYzRhSnNoSjNNQ3JkOENFb1dRQzlURDZMRERnemRFdXB4VUpJdmJlV01Hc0VuaEZqdko3aldpdmUtX2JhZk5hMEh4YXpJZllMMXQzWERB0gF6QVVfeXFMTXRtNDZMUi0tYWwzYXRlNkFZd1RrSGVfZGtBaGtHaWVsOVMzSTdFVUlPNUVkcWJjc3JaU3FXSlpQZGxLWWhLX0ZOZVhSM1lFWkh3T0l0X0cwNDlhdEtZUGxKcS10QmdHQ0toZEFHdnVoRExaV1c2bHpJZXc?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 21:06:47 GMT"
-    },
-    {
-      "title": "울산시, 기후변화주간 운영…22일 '전국 동시 소등' 참여",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTZkQ253Tm5vVktwWi1GaDBEdlRtNXBmbTBhdDJPV0NMOGlDT2ZTNHFiaXlodXE5SmJMb0h3QXNYUk80NHJNYngteWkyenhZZTFxZ2dNa053d1NsUDdFTzdJUGVWVjNzd01zcEtNaUpLd3pUTjl6WHlrM3FQR2EtM0hScDdYbm1fVGxOMm1mWm9mNjlXUnZiSm9hQVRxT1lncHlJZXpsNi1vdjc3ZWhXcXpWelJnUnFha3c?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 21:07:21 GMT"
+      "title": "'곡우'에 전국 봄비…'초여름 더위' 주춤, 오후엔 황사(종합)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84TEZRQTBOOXNsREFfZW5zWjBsbUxWNkE0MGxEM3FQS3dVODlqVXhvbWFkblBWczk5QXc0LTM2a2hOU3dZNUtlTnpOZ19YYkxJRmNhR0xaMTlPQWdlWVlLaGxxTG8?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:30:00 GMT"
     },
     {
       "title": "\"제발 쏘지 마\" 3번 무전‥급히 해협 탈출",
@@ -207,10 +201,22 @@
       "publishedAt": "Sun, 19 Apr 2026 21:11:23 GMT"
     },
     {
-      "title": "\"울산만 남았다\"? 정부 특별법, 석화 구조조정 '최후통첩'",
+      "title": "[코스피·코스닥 전 거래일(17일) 주요공시]",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5bGU0SFlhMG1SREk4MXJ5RXozTjdNbWc1VUE5ZkRwUnZ1djl5OGRoOFJyWFREdHdtTHQxZTgzNDZGbVZsVFdaTWRmNVhFMXRRR2c?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:05:01 GMT"
+    },
+    {
+      "title": "울산시, 기후변화주간 운영…22일 '전국 동시 소등' 참여",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTZkQ253Tm5vVktwWi1GaDBEdlRtNXBmbTBhdDJPV0NMOGlDT2ZTNHFiaXlodXE5SmJMb0h3QXNYUk80NHJNYngteWkyenhZZTFxZ2dNa053d1NsUDdFTzdJUGVWVjNzd01zcEtNaUpLd3pUTjl6WHlrM3FQR2EtM0hScDdYbm1fVGxOMm1mWm9mNjlXUnZiSm9hQVRxT1lncHlJZXpsNi1vdjc3ZWhXcXpWelJnUnFha3c?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:07:21 GMT"
+    },
+    {
+      "title": "이재명 대통령, 인도 외무장관 접견",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VZ0dtRWk0bXVzQ0VWVXdLQXBHVmpwdjNiVTZxcFU2alk1S1FoM2RlUjh0dmNQQUs3Sjl4TThsNk9MVjlRTnloWjFuendXbFY2YUdj?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 21:21:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tcmVtckdnaGxpUEktWlhFZHV5Z0Y1eHhxdTdtVkd4RDVWcGJYNkhFTG9JS0tGMV9hTTVtQjhhZDhKdUJacE5KUV9aVWo0a3dzck1R?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:45:00 GMT"
     },
     {
       "title": "파키스탄 중재 총력‥'핵-호르무즈' 빅딜 될까",
@@ -219,22 +225,16 @@
       "publishedAt": "Sun, 19 Apr 2026 21:09:55 GMT"
     },
     {
-      "title": "완도 '순직사고 소방합동조사단' 오늘 활동 개시",
+      "title": "[속보]북한, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81b2s2cW95UjMta2ZiSTVpclNkdUFGZ1lMTUdvZFdaR3dKRGRwOGk1Z1hSdXEzX2VyRmFRUHlrbUlnRDZ0Xy1NZEszRGRITjZGdW1v?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NRVd2TlVOLVBJcFh2RE1uUkNaQ2g1TnpDdU11QTBQbFN3WHkzVEhLUl9IaUVRaHBDRy1zOE10Y1ptcHMwUDJEc0JOcVBwdXFIV1Fpb3pEcmtnREJKTUZrUE9JOWUyWlphWHROajcwRmN6T2oxZE51aw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:53:00 GMT"
     },
     {
-      "title": "\"이란, 전쟁 재개 대비‥홍해 등 분쟁지 될 것\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MQUh1SzdpSkdNWXpMZTFReXFySS1rVUFCa3VuYjRPN21hRmlPamViSEtNX1hwMFc5UEF1QkxuR3FzX1JwSjZoTjlBcy1oM2Z5aTc5MklaNktVUEJuZXRrV0ZTYU9uMXRiYVRaeEFuMHR5TDhR0gF0QVVfeXFMUDlKTjRJY2stUzZ1cDdDakQwMjdSRXliMkFVdFF6cFlyMHhjZC1Md1FsLTVLeWk2Q25wMGNZNlpaRzM4ZDladjhCUVkwOUsxZ1R6NjRWSU5obnpHdFhDb3BqLUx1VFM3Um5BRlBuNXVmRnpKMko?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:37:59 GMT"
-    },
-    {
-      "title": "'아차' 하면 6만원 날아간다…오늘부터 우회전 집중단속",
+      "title": "[오늘의 주요 일정] 경찰, 두 달간 우회전 위반 집중단속…\"잠시 멈춤\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR1puMEFiN1pkbkFqNlVQNkpkWlB2VW5pcHU2MDYzNmxXbHFzWFJPVzgyWkF1TUJ4XzFqcGx3UGNNVUVJMVB5M2t1bEJqYW11aGRNSl9WcVlTVU8ycDVIbHVTZkY1MXVWNURQLWdfR3hiaUNrTWRDSTdfVDZNLUMxNGpB?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxaWIzcVRHcWxnM1NlQ3dYeGdiYXBOTEdhVkI3RWhFdWhleXd4aVdyakhvbU50eDJTQ25nVWxTZ2wxRVgzdkJLLWpOc0RCaXl2V3JZ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:49:00 GMT"
     }
   ],
   "sources": [
