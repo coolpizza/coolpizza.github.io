@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T14:12:59.681216+09:00",
+  "generatedAt": "2026-04-19T15:54:29.799084+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "25.6°C",
-        "feelsLike": "28.0°C",
-        "highLow": "최고 25.6° / 최저 10.3°",
-        "humidity": "48%",
-        "wind": "4.0 m/s",
+        "temperature": "24.2°C",
+        "feelsLike": "24.6°C",
+        "highLow": "최고 25.3° / 최저 10.3°",
+        "humidity": "53%",
+        "wind": "6.1 m/s",
         "rainChance": "0%",
-        "pm10": "72.4 μg/m³",
-        "pm25": "29.3 μg/m³",
+        "pm10": "70.1 μg/m³",
+        "pm25": "28.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "70",
-        "updatedAt": "2026-04-19 14:00"
+        "updatedAt": "2026-04-19 15:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "23.2°C",
-        "feelsLike": "23.9°C",
-        "highLow": "최고 23.2° / 최저 10.7°",
-        "humidity": "60%",
-        "wind": "6.3 m/s",
+        "temperature": "21.7°C",
+        "feelsLike": "22.3°C",
+        "highLow": "최고 22.9° / 최저 10.7°",
+        "humidity": "68%",
+        "wind": "9.2 m/s",
         "rainChance": "0%",
-        "pm10": "39.3 μg/m³",
-        "pm25": "14.3 μg/m³",
+        "pm10": "34.3 μg/m³",
+        "pm25": "12.7 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "51",
-        "updatedAt": "2026-04-19 14:00"
+        "updatedAt": "2026-04-19 15:45"
       }
     ]
   },
@@ -131,12 +131,16 @@
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,965원/L",
-        "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-19 10:59:50",
+        "lowestPrice": "1,957원/L",
+        "lowestDistrict": "동구",
+        "stationName": "대박주유소",
+        "address": "인천 동구 송미로 50",
+        "updatedAt": "2026-04-19 15:12:09",
         "districtSamples": [
+          {
+            "district": "동구",
+            "price": "1,957원/L"
+          },
           {
             "district": "계양구",
             "price": "1,965원/L"
@@ -151,10 +155,6 @@
           },
           {
             "district": "남동구",
-            "price": "1,969원/L"
-          },
-          {
-            "district": "부평구",
             "price": "1,969원/L"
           }
         ]
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[동포의 창] 러시아 카잔 학교서 K-종이접기로 한국어 교육 '활기'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDU0bHRjQ1VYLXduTk5TUXhlYnowZlFxaHExSEF2M3k2QlItbGFfZjFQN05WRnFRN2hnVHNwQmZiRG54SVZGelFVekZScnk3YmVCR19uUUY5T3ppRm9VT1lfbGxjYTZVOUp5WGd1QjllM2pfUG02OWsxbVZIcFMweDdsOFJObjJIT1o4b0FQbmdrWUYxMEplWHVFb3JLTzdJU2dBQmJLQ1U2WlVOSVNnUzloX3V6YmphUFE?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 05:04:43 GMT"
-    },
-    {
-      "title": "모란시장 방문한 정청래",
+      "title": "트럼프 종전 운 띄웠지만…평화 협상 다시 안갯속으로",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UQU1maXBsQ3F5d1haLWF1T3R6bHV6VWlZbU5FNmk3QmFoUkdBV05yZFhjM0M4SU5yQWVqVlFiSDN6T0h1RTl5bEljVzMtT0d0bFlqaGt4cjQtZ1ExYW1nQXRZb01fMS1MZXN4TUNB?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 04:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CRHFpQlNjR0pTRlNHcDNsUEVYbDVYTE1mdVNNZ3BJM2dwNDlLTjU1ZHFXelFZZ3FWbEJoLVQ2UXI4a1R6UFg1bGRVWmpsLXRJNDBXbnQwc3RTdS1DVlI5NWtkM01SakZHbDU1SXc2QUhpSENuLWVMVg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 06:45:00 GMT"
     },
     {
-      "title": "'내년 韓부채비율, 선진非기축통화 넘어'…정부 '실적치는 낮아'(종합)",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnVWODNhQ3EyckRFMzdOdmJsUHN5bWNzSFpNTktBdFphdEJWdWdnNXpLUEROUFdlTGNDYmdRdzcxYlZZbW5YSDl3c3JvRW5aa0JsT0FHczh6Vm01RUg4cTlJS2V0WXZyRUJlN3dVX0ZtVVhFZnBCUVp2eFlNQ0xzOXlzdXM3cW9sdUtmZENZS0RoSUZ0Ym9Xa2xRWTZCM2JnTnI2RHBYcDlsYlNzQmpUTGVTdURwVkgzVFE?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 04:44:42 GMT"
-    },
-    {
-      "title": "[포토] 정상훈 '칭따오 응원단장'",
+      "title": "노원구 시민들과 인사하는 정원오 서울시장 후보",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sUExfOGdCUlVpQktyekVUWThsVFN1T1o3aV9rbkI3RFNnRW8wdW5xOUFhcUwzNHBEN2hJUzJUaEVFTUtZdjFSNk9TSFMzWFZYeTZKV0ZCdUJMa3VvY3JsZk1qTFVhNTJEb3Y3NEhILWRENjhhVzVGMg?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 05:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11elNmbGlJcUlfX1hJbXRDbktSVjhjX2dDcTM4bG5QQzdwZkxEZm1wanU5ZEk3bExDcGdab2VXTTVMZTVRdG9pNGswQWtJOWl3R2VZRkg2MUNFTG5aZmEwSDI1RlRHMDFoMkg0OWtn?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 06:37:00 GMT"
     },
     {
-      "title": "李 대통령 인도·베트남 순방…이재용·정의선·구광모 동행 출국",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXgyVElPU1FRUEpSZDEzNGxPUDZtNnItSTE3OVhyRXdTSllDMUl3RENiYmhRN21NdkQyaXdDZ0JvR1p4TXR6Tm1QRUY1TXgzSXExTjBtVXgycWc4T0R6b0lWTG5XSGt4Um1pRmJ5TjYwNktPdWxhMjFDeThGWDhQdEluVUdqSUxBdXU2dXFpSUhJeGxJeTh0SnBPLWI3empCTkYxNE9SWVZvZHBQUldoNGNEbnhBOEk?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 04:44:42 GMT"
-    },
-    {
-      "title": "청주시, '13회 시민대상' 후보자 접수…내달 29일까지",
+      "title": "뱃살 확인 시설물 체험하는 오세훈 시장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zNE1BZkVxNnJRZW5WQ3hicWFYTEx2UVZhU1pnbUp5N0wxbl9IMHVKQ0c1U0Q5UGFwaGxRUlBKUkhfRFJJVWlNQzhaT2t1SGlEN2Mw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 05:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwMjRmSUk1Z1VEaUFUWUkxZlNPTkZpOW9IaXBiQzgtNGdDZ3Q2SUlsOVVDbmdjczMybnBMLU5kNVJtVzVVREZjUHhpRHZfcUZZcGZ4ajNLM3FBazVJemdkZw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 06:37:00 GMT"
     },
     {
-      "title": "한국 부채 증가 속도 빨라진다…내년 비기축통화국 평균 웃돌 전망",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWHZyWVRWdUMxYk1PbWQ2dmtKdnpYU0NMWE5KSkxBTUVlZVRES011a2pSWEJOVk04VnozNGhrTEFHcFhfbnJlSXdBMVVfOEpWYzhBNGVTNDZ6c0Jxdk1zQlZoSE44cGJ0Mm1ra2JBM1E3YmZNNkFpaGx1ZVNMOTBhdmE5SVZ3RmFIZGNRNmxDOVM2UjdGY0RiTFpoNFdTOVY1Szc5X0dTRHhVaHlMU3h3aUVNazZ3Q1R4?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 04:33:39 GMT"
-    },
-    {
-      "title": "인도 경제사절단 동행 위해 출국하는 정의선 회장",
+      "title": "농심 빵부장, '빵부장 솔티꽈배기'로 라인강화",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfSTB2M3MwRXF2dUNWUWhxRDNSMy1IS0JfTXJ5WG4tbjZ0TUFSZ1RHSDhzSTVLUklkM05ZV1RuSUxvY2VOVFlxLXU1SzZnend3WndN?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 04:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xSFVGRml4cmw0VVNkQTZCLW5TRGFybXdsZWwzOTlWbU5iQ1NvSjBHNkI2M2pycFU5UVE5SEhrcU84UVltdzdWM2tMRTJsWE9ybHJoZFJmWk1Td0JOR3Y4RQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 06:17:00 GMT"
     },
     {
-      "title": "이 대통령, 인도·베트남 순방 출국…\"에너지 공급망 공조\"",
+      "title": "[포토] 주예지 '과몰입이 어때서'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fd1FlNU5wVGYzaXJxdTV0M3k4Zk50WnFfa1BfdXV3NTU1bkd1eWtLNFRtNFRSbkxuX2NLbmU3N2FfRkF0TG9KVmxOWF9DM01jajUw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 04:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4YmxaSzFEUExPZmIxcnFDWHNjVy1jS01DYXVxeEM1S0pibFk2ZGR6Ym42bzhleVNZdEFoVnUxZ2t5Z2kxUHFmbHZEVWNmSnV4ckhZb2dB?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 06:36:00 GMT"
     },
     {
-      "title": "한국화학산업협회 \"필수소재 공급 최선 다할 것\"",
+      "title": "더위를 피해 나무 그늘 밑에 모인 시민들",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3NldwczloQWhNUUphd0ZPbV95dk91YmliTTRPRVFaT0gxRFpWSF8xSGhMOXNBZE9USWhPOGQ0QWI2TnFYa0JIR1JtejBoRmxwZ0M0?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 04:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZWjBWQ3Y0d2JGdVR2QnJkS0hHSnVKNTBCQXV5c0JnOEg2akI4Qnp0X2dpWFd0S0J2eGVHVmVfWEJfQkJTQlY1ektSeFRfUlhuaGJFOUdsRV9oSl9aSGNKX3NWTkdOV3RTZFlybkt3?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 06:03:00 GMT"
+    },
+    {
+      "title": "[내일 날씨]'깜짝 더위' 기세 꺾인다…전국 곳곳 봄비",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DbGRSV25pb1N5TlFXMF92VlcySmR4UkR2SXZ4TldDRjA4a0xfRDFIczdTZUo3N1FHTGNHYmprTHdfcDMyZzlIc1V6MG84OEVKUVM0M2p0Sm9ETHJuXzNQbw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 06:42:00 GMT"
+    },
+    {
+      "title": "[부동산] 서울 포함 전국 부동산 안정세 확실",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ETE1ZeGlOYXIxLWkzSXBqeF9fOUtUVFJiVk0zbHA3TmQ1X0tCdGpkVFFpZEhSMTBMLW1aZVhwamxjNDJabzZrRHBYcXptNXpkNzBVYXZKU3ktelJ2Vkl4Z0NYbEpGMlhiSktDSFdzcC04QVNkVG15ZA?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 06:09:00 GMT"
+    },
+    {
+      "title": "HD현중, 미국 최대 방산전시회 참가",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yMUVnRjBKYTN2Mmh3X0pRdU5uSzFWMFc0cGQ0T0h2RGYtd05VR3VPcHVuWGxnc1NGSENzc1ZZZE0xUGU1MkF5SnBuWE9tTGpfR3Zr?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 06:04:00 GMT"
+    },
+    {
+      "title": "강원 낮 기온 30도 '초여름 날씨'…주요 관광지·명산 나들이객 북적",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jU3h3ZWluNktBQW9zd1VrREQyS3FIcW9TRFl5bXdmU1VrQnRCVk9qVHpFRzY2TlY2MHA1Ykx3emEtNEozSkRVdkFOTUhWWU5HYkNr?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 06:05:00 GMT"
     }
   ],
   "sources": [
