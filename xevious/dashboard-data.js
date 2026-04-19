@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-19T21:01:23.442362+09:00",
+  "generatedAt": "2026-04-19T22:03:57.377174+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,11 +48,11 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0400",
-      "change": "+0.00",
-      "changePercent": "+0.00%",
-      "direction": "flat",
-      "updatedAt": "2026-04-19 18:18"
+      "value": "1,467.0393",
+      "change": "-0.00",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-19 10:05"
     },
     {
       "label": "100엔/원",
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "15.5°C",
-        "feelsLike": "15.6°C",
+        "temperature": "13.7°C",
+        "feelsLike": "13.7°C",
         "highLow": "최고 25.7° / 최저 10.3°",
-        "humidity": "79%",
-        "wind": "3.7 m/s",
+        "humidity": "85%",
+        "wind": "2.6 m/s",
         "rainChance": "0%",
-        "pm10": "67.1 μg/m³",
-        "pm25": "36.7 μg/m³",
+        "pm10": "77.1 μg/m³",
+        "pm25": "44.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "70",
-        "updatedAt": "2026-04-19 20:45"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-04-19 22:00"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "12.7°C",
+        "summary": "약한 이슬비",
+        "temperature": "12.4°C",
         "feelsLike": "12.7°C",
         "highLow": "최고 23.5° / 최저 10.7°",
-        "humidity": "97%",
-        "wind": "5.4 m/s",
+        "humidity": "99%",
+        "wind": "2.4 m/s",
         "rainChance": "0%",
-        "pm10": "32.7 μg/m³",
-        "pm25": "22.5 μg/m³",
+        "pm10": "40.7 μg/m³",
+        "pm25": "28.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-04-19 20:45"
+        "airQualityIndex": "39",
+        "updatedAt": "2026-04-19 22:00"
       }
     ]
   },
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "KH에너지㈜직영 에이원주유소",
-        "address": "인천 계양구 벌말로 583 (하야동)",
-        "updatedAt": "2026-04-19 12:51:56",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-19 15:03:10",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "이재명 대통령 '韓정상 8년만' 인도 국빈 방문",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52cGMwWlhnak5wSW5RejFFa2x4Y1MzYmd5RW12MzlrdnI1NHhVU0toRno1V3NocDVQdTdWVFNaUDF5ZDVWcEx0NjBBRUdNMElYTlFvXy15bHR6ZVlnZ0htTQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:44:00 GMT"
+      "title": "[뉴스9 울산 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94am90dm1UOUR3dEJlSmxMWEJ2c0RrQTAyYU1VRW45bHRsRFg3TFpRWkJPRzZqWTVna2F4LUJXdHJJRXpsOTZ6UFV0YTY4a3IyRXVMVno3THdPaEk?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 12:49:00 GMT"
     },
     {
-      "title": "구윤철, 美 재무장관과 회동…환율·대미투자·핵심광물 협력 논의",
+      "title": "트럼프 \"美 대표단, 내일 이슬라마바드 도착···합의 거부 시 이란 인프라 파괴\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEN052SmkzVm8yRjNDQVVOLWdzeEVBSXFLdm5nV2JYRzZ2V0pYd2h0dUJFYmRrM1pNMWI0OFFRY1dKTkQ0bTJCZG9fRXJKTWZKdHhkemJ1elFhWTZoZ2JpbnE5T1g2aHFtaUZZTUlXQ2hyWDg5NkdOTw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 12:57:00 GMT"
+    },
+    {
+      "title": "李대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXBNejFPcXRSM3NfYWI1YU12OHZfSkR1ZW12clZVVF9BZWxTNENaRkY4VGY1azQ5SHlkZ1pqRDh5UmZpY19ram5ZbGEyeVc4SXE2aWtTTFRyU3FyNlRqaXBwZ1dUQUpnUUZpVUdmNVFOaFNnWWRxQm1kbVlmU00wOENZQkVmMW5PckViVkVsTHhyM1JJS2xiUlJMb3J6a1VuRTVmUVh6aC1QeGgxZ3drMXVYd29FRGNy?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYk9uWWhDaGI5T3RON1hWaDJRNGplZ1Z4Snc0UGpJRUdvTTd0WDljMTVjMElRYjBaTVpFcnZmNkstaFhoeWhwQjhNeDlIajdyb21PR3ZYQ0xxbEpIMFNsWHBqWFJQTWdUNExQaU5uRngwUGE0amdXS19sYWhzVlMzOW1mVVAxZXZPYnFCaUhZbW56RHhPSkNzZlEzM2tLeUl1bmduNXdsd2dMWHI3bkRGR1BHb3owTTEwWng3SUJIQzJET3BvVk1VbEhn?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 12:15:18 GMT"
     },
     {
-      "title": "\"지역출생 청년인구 잔류율 1위 경기도·2위 제주도\"",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBubFRFWHNNR0dSN2NYVXVxVUVFRFJ6YVpmX21Fd0loV3NKR2ZvX2VnWVR2VTV6NjJTbFVqZm9ZRHBkR1NJeTJha1Q5bll2ZWpkbjZFRWY1WUczSDZRZXdOeHF1NFlzd2dHZU1Z?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:05:45 GMT"
-    },
-    {
-      "title": "인도 국빈 방문한 이재명 대통령-김혜경 여사",
+      "title": "李대통령 뉴델리 도착…5박6일 인도·베트남 순방 시작[영상]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwaWFiNzNXcW5BY20tbFJmUG8xUGlER1JLd0VEZG1tOGRmTWFCS21tMnhyVVozdHQ1X0M3NVlQb1JFZ2JNN0JlODB3a0JIU3A2cGdn?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2Z0JRSkF5YkRGeHJYR2FuT1VWczR0QUZ2alN4V0VJOEM1MGx5SURqTmh2M3pLdlVTb29nZ0ZkLUpJVFRJZzRrWklFZGphZkpjTWNnamlTNW5jZGc2TkNwNw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 12:57:00 GMT"
     },
     {
-      "title": "한미 재무수장 '원화 과도한 변동성 바람직하지 않아' 공감대",
+      "title": "[경남소식]외국인주민봉사단, 통영 해간도서 해변 정화 등",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3lHTkdyVFVvd1E2MC1VVkIzRm1aMkhlSzJPNDIwaEszSmxMeVVWRHJZMDdkM0JzMTJFNmRFZHd1VWlNZmlZUjVzM0FjUXA1ZUhHMldSMHZSTVhoZjdhM3JoS0ZLVW5XSGJpa0RpM1k3Qlp4RFJ0VHlXUG56Vm9obmJhYXhvdWpHMTFxRDI2OVprOEwySERIaThBZmd5TzhmV1NOWVl6dzc1M0Vhd0dsYlRxUnBfSzU2d0E?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:05:45 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDZpRVkwb1dkSkZBck1TYWJUcGdZRUlFVG5fNEktaC1XSWZ1a29YeHlZclZWRGpBQk9WT3MtVWdCZW42OUx3ZTNpeHdhOG5JQlkxREw5YkFaOHpfOGNqS1ZOc2tJamZPbzRWc2hCRjFoc3NvQkZPcHMtbXZueHk4MW84aFU5MGhqSEF0VkdSNU00TjN5M2pnX003TkN3cUI5OXJVTEVVRWYxN2JuRUZfMjRoT2tjcGwz?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 12:36:11 GMT"
     },
     {
-      "title": "한병도, 李 '특별감찰관 추천' 요청에 \"신속히 절차 밟을 것\"",
+      "title": "이란군 \"휴전 중 미사일·드론 발사대, 전쟁 전보다 개량\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dUdZNXY0UWp4ZEFMU3gtS1I2aXlGeXpERFRJRFUyLXRJYmpFOGVHYy12eEZmRFBtX2p6TjhEVUhKYWg2M3NVSkVfdnBVUFhrN0JV?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3c3hvX3dYVWl1Vm4xZFRXckNGTWNzNlNpVGRMX3ozSkl3cUt4V1Y4YWtheDNnVnBTM3VMcmlMNko3V0d4elVDU0NBZ1JsTnNVNU8w?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 12:47:00 GMT"
     },
     {
-      "title": "전국민 창업 도전 '모두의 창업' 25일만에 1만명 돌파",
+      "title": "[속보] 트럼프 \"미국 협상단, 내일 저녁 이슬라마바드 도착\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GZUFpT0ZyMy1HcHJtRFVCX0k0R2VFRTc5VnpVYnNqY0VaTFNVdkZmZWhnbkZ0TG1sTGxjbzZXb0RKVmt3NWtMaE9OTTJCZC1FdTA5cUtFRHg3eXQtd2lFWA?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82SXI4VWIzb1FhS2RXQXd3Tzc1UVFFRWJxdG9EZ25tLW5qbTdYR3BGVVBVbnd5ei1TbFlaeUxaSUVPMEtPeU5fYUVfQ0Q4ai1lak1r?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 12:26:00 GMT"
     },
     {
-      "title": "李대통령, 인도·베트남 순방 시작…내일 모디 총리와 정상회담",
+      "title": "손풍기는 내 친구[포토뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zY0o0NVRTMnNic3FONGcxN2gyVUxUVlZ2OGlzNDhQckVsM2FBeVktNnBoNENKazVhTmsyLVNkTlZ3Nm9nbHk2X25HUVJfRFNpc053?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MQ0JUQmoxUzE0d1N2M2IzTFlfdnJ1MUZ4d0xQbWJZbTlMc3NQLU1hT0FydXcwcHBNSEZodWlGakR3Mnc5UkNQWUJEdDRYNTFpUm85TTlYVDlKaXg4WG0zbg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 12:04:00 GMT"
     },
     {
-      "title": "영접 인사와 인사하는 이재명 대통령",
+      "title": "'모두의 창업' 25일 만에 신청자 1만명 돌파…하루 400명 신청",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlX2RrbjByZkYzVFlMNEZfbnAwRFcydEtWaWh2ZF9iQXAzS2t6cGg2TzNQOE9qbzdCMFlHWnZMNFZVUzZpVFFtdUZodmNUTjJNUXN3dk5zWUQ3d3g0Y0xoRA?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85SW0teVdoay16bmh3eEk0N083OG1mb05YYXJQV1kxNHNLTWJqNmdsNXlSZjlzM3lMTjNzdkRkNVpqMFRCSUE0dTNYX2gzR2xSbm9F?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 12:28:00 GMT"
     },
     {
-      "title": "'196㎝'의 공중제비[포토뉴스]",
+      "title": "경향신문 이혜인 기자 녹십자언론문화상",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44NjJYT2tMcTYxYW5uOFlBa3VFYzFKaVlLZDBUSml3S2MxdlliQ1dQVENwNjc4Y3ZRZmw0Sk1FeURVZ3lKN2pYZEN1NlZ1MWRGT1A0V2RoelVXTFpZck5BWm54X0w3Q1NGTUh2RkdLODZPRXJLWVl6eA?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnSG5JeTBKNGlFVExET05RRGhtSDkyR0tJbWlFcUs4eXgzb0k0X2g4cXNQNzV3al9vcGVIY1FNT2x3bGo1OVlQWkU1S0dxcF94TllZ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 12:19:00 GMT"
     }
   ],
   "sources": [
