@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T08:08:58.817835+09:00",
+  "generatedAt": "2026-04-20T08:51:00.314450+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -13,10 +13,10 @@
     {
       "label": "코스닥",
       "value": "1,170.04",
-      "change": "+7.07",
-      "changePercent": "+0.61%",
-      "direction": "up",
-      "updatedAt": "2026-04-18 16:28"
+      "change": "-0.00",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-20 08:49"
     }
   ],
   "usMarkets": [
@@ -48,52 +48,52 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,466.1492",
+      "value": "1,466.1500",
       "change": "-0.89",
       "changePercent": "-0.06%",
       "direction": "down",
-      "updatedAt": "2026-04-20 07:02"
+      "updatedAt": "2026-04-20 08:31"
     },
     {
       "label": "100엔/원",
-      "value": "922.25",
-      "change": "-2.75",
-      "changePercent": "-0.30%",
+      "value": "921.15",
+      "change": "-3.85",
+      "changePercent": "-0.42%",
       "direction": "down",
-      "updatedAt": "2026-04-20 07:30"
+      "updatedAt": "2026-04-20 08:41"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "8.4°C",
-        "feelsLike": "7.4°C",
-        "highLow": "최고 13.5° / 최저 7.0°",
+        "summary": "약한 이슬비",
+        "temperature": "8.8°C",
+        "feelsLike": "7.9°C",
+        "highLow": "최고 13.1° / 최저 7.0°",
         "humidity": "99%",
-        "wind": "3.9 m/s",
+        "wind": "3.8 m/s",
         "rainChance": "20%",
         "pm10": "68.2 μg/m³",
         "pm25": "40.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "72",
-        "updatedAt": "2026-04-20 08:00"
+        "updatedAt": "2026-04-20 08:45"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "11.9°C",
-        "feelsLike": "11.9°C",
-        "highLow": "최고 12.9° / 최저 4.9°",
+        "summary": "약한 이슬비",
+        "temperature": "12.2°C",
+        "feelsLike": "12.2°C",
+        "highLow": "최고 13.0° / 최저 5.0°",
         "humidity": "99%",
-        "wind": "4.0 m/s",
+        "wind": "4.6 m/s",
         "rainChance": "13%",
         "pm10": "52.3 μg/m³",
         "pm25": "41.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "62",
-        "updatedAt": "2026-04-20 08:00"
+        "updatedAt": "2026-04-20 08:45"
       }
     ]
   },
@@ -177,10 +177,28 @@
   },
   "news": [
     {
+      "title": "이란 투스카호 나포와 한·인 정상회담, 미국 인플레 전망까지 이시각 주요뉴스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmbjU5cjNmdlZ5ZnRTaTFNTFNMQnBmVV90a2RCTlBBZFRQRTA1WmVyZ3FXS3BmRWRVSTI4Y2ZqeDM2X0tVcmt3Uk1PTzlSNmVsRTg2bkpGMG11TlJwaW8tdWNNRHpBQVMwRFNFdTJQLTfSAXRBVV95cUxNN3hUMzFwQTNMS2ZlUEJkTWhFVEltSkowemFESVk2bldoVmF5QzFnRnU1M2M4Ukt2bzc3bVNyeDZlSGtpYTFVbS13QmZnY0F4bEhJWFQ0QU9ZU3VwVDhudWpjS25RVGJiWThvc2tKQkZhekFaUQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:42:27 GMT"
+    },
+    {
       "title": "[전국 주요 신문 톱뉴스](20일 조간)",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DMUtleElQaDhhM0Q3djlpOXgtQjBxM0tyMnNRVWdXV2w0WnkxVWhCQUdmbW0ydlpiQjUxMVQ0Qkw3bFpSWTEyc3ZpNEZKRWtVQmM5NUk5Z3JjbW_SAWBBVV95cUxNSXRPRlFQWUNDUy16WjJZNGZVaDBvbzRpUlFZZ2tJT2xKOUxLOTdEUnZIQXZFanJZS1RmZWFTc19KQ2t3RUtmSlBBZkRRNFJDR3lFV21rSHJOSGI0c2xHMnQ?oc=5",
       "publishedAt": "Sun, 19 Apr 2026 23:00:02 GMT"
+    },
+    {
+      "title": "[뉴스광장 전북 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sVFkwaXI5Rm9uMVVBa0N1WU9VMTdZdENMNE9KazRZM2lramdmMlo1X2ZET0JQSVZncTVhYmc5NDVYWEwxUy1zWFRyRHFoa1BoT0ZDQThuc2lqLW8?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:11:00 GMT"
+    },
+    {
+      "title": "키움證 \"현대건설, 올해 원전 수주 본격화…목표가 54% 상승\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fMl9OS0V0TG1xSklMS3JRQnpmRTBkbW5FenktVzNxM1JPdmJiQ2huM2RlbG9BTUs5djVHYjZGYXdlNDNvRTZMcVkyaUllcFFJMVJDRTRYRGotb0E?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:25:58 GMT"
     },
     {
       "title": "4월 20일 굿모닝 MBN 이 시각 주요뉴스",
@@ -189,46 +207,28 @@
       "publishedAt": "Sun, 19 Apr 2026 22:59:00 GMT"
     },
     {
-      "title": "[뉴스광장 전북 오프닝]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xcEg1bExOZXpUZUNkTzFrQzV3bVExQVE3U0taWm1jRWdmNlhnTTRyc1paUFMyMDVzQ2I1QmttYjVfVDJkN1dvQTRjUU9YT1hGRG5rVWJSbENiOW8?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:33:00 GMT"
-    },
-    {
-      "title": "주간 경제 뉴스: 헨리 폴슨의 국채 경고, 메타의 구조조정, 베센트의 금리 발언 등",
+      "title": "주간 암호화폐 뉴스: 바이낸스의 도약, 맷 호건의 비트코인 강력 지지, 도지코인 매집 등",
       "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOcUREMEVIazZmY1NheGxyOS10clVHVUxSQU9kR1JDdUhtblRIak9nWHdVcHR5VUVKd0d2bDFTVkk2SzNjem9MMncwekZiSF96LWxIdnJiWDVHLTk5RzFyTTJkTUdpdTMwT0ktQnR3ZHVvQy1XaG9hZXI1aC13enlwWDN4Y2hPRWFEM1hGN3NYQ0NiSnBKTkJmMXVVeklBdk93dXN5VDBOemhxVHFFYUJiMUFISHoxekNRanNIRHN0T2JhNDVfRGxMT3pwTElSU2JRTEZuSnBFZmZuUVQ5Qkp5VE4ySTl1THVYQWp3SGVKY0dFUXl0dmxfWm1lUHY1bHlZVURpSW5nOE5wMTQwQXEwdkE4RVlTYXMyUHYyZmxOb0FaVDZITHdjekRYb05iRk9QV2thWHh5dDBnRWItSzROWUhubXF2X043ay1NR0Ezb1pJeEpFc3MzeEFUbw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:47:36 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPeTh2a1kyNXBuUDZSSldzVkstZ29KeUFVQVBPOWZHUk9qVHI3UmQzOTgyTHBTSTdIck5pTENuYWhCOWhrdmZZX0phZDlWM0N6Q19qQVZmcDVRQktONm14ZEpaU210dGhXTGFUUkV5OXp4eWJWMncwZDdVa28wTHh5Wm9pbWJfV1FSYlY4YWY2OWpyWWQ5WGFhMEdOVzVrbWxJTmowWXkzQl81V0c0ejctdWY0MDJVTmJSWEdwSy1vUTZMNmJCRF80R01QTGFPLU5wZHloWFc1aGtmVkdaQzJucERhNXdVS0tDOXUyS1M2MUtEM2hSQnZZUU94QkZ6bHVEc3lmVnRNUnNTR0stTnZQWFBhcFNMNThYcERueDlBcE15eENJdWpTMEc0ZTdDTFU5ZVdtU1FiR1hqbjZfVUFYQnlmUWw4eExLSzcxV0RPelBBWS1RbXJJ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:22:36 GMT"
     },
     {
-      "title": "장원영, 4월 걸그룹 개인 브랜드평판 1위 등극",
+      "title": "황사 탓 전국 미세먼지 짙어…'곡우'에 봄비, 기온 내려가",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWxlN2FLZU00YjlmOU9Hd1d3Z1JOb2RfdThLcDlrbGFmRDNsOEhqcDBfV2pROXA3cmxkZVVxV2NwVjJnVzVYbmd4aGNZdHFiUjFndkotX0F4RXNCek04V2RydHhwSThxNlNaQy0xQjd4WFZiMWtoQ2tXSU8zTk9SOHduekw4X0I3UkJ4dUNfZDBxR3Q4TjNSeGo2OGJLcnVBSUVCcm9CRzl1RkNJSmxiX3BHdDhNZUU5Y0E?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 23:01:19 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU2ZGUVBQMGZpSFdJR0FfTE41ZkpyQnBiTlZtdk02TnJBVERWbk5fYlhrczlxUnQwWE8yWHkwRmVQUXFrR3lYZjBiWG9MMUdNNU05TTRydGExYkltREV2aUxuVlJKaDhZYmVkMW1nSmZ5ZVRLcU96eU4wajFiT1NWSUxZU3dxZ2JKaEV6eHFsVWw4RTdTZnUtaFlzR2NZRVB0MWx6amJLRDlxc1EtdXB6SWFWRUxval9pQS1FeDZGM2VuVTRGVWpIb2Jn?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:46:46 GMT"
     },
     {
-      "title": "[인사] 문화체육관광부",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVkZKU290dVhnMUM3MWNYc1FXcEJQbFdXTWJEenRUN2tlM0lHa3RLZndtVjFPa3puclYxMWFVamtISjhTdXJrLWxSdGpoQlRPTzVlTGY1Mnhmb1ZKTkJjRXZpWGFsZDB0Tjl6cnJ3?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 23:07:00 GMT"
-    },
-    {
-      "title": "[뉴스광장 울산 오프닝]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sU3dmQ1hZNHY5Vkl3UDlwU0NYeFZxcTN4OTBud1lRWDA0V2lqRkZnUmVKamx6M2JtZzNON3FqdTktemQwMElDZkNmV2xIcTNTa0lFSXRZd0s0WUU?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:34:00 GMT"
-    },
-    {
-      "title": "4월 20일 굿모닝 MBN 주요뉴스",
+      "title": "삼일PwC, AI 기반 사회복지 '4P 전략' 제안",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jZ1VtS2xwOGtpWTNYb2pEa3R4Nm8xdTFzaXoyUzMwaVRKaUp0TmlJZElzS0tDTVNRbFBwbHp2SHBWMHZUcVl6NjJ4WEtOeHFCajd3?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fYmF3X19JYlVtMVlKckJtS3pGR2tKdkF0ZmZFRTVoeGN1M3ZqWGM2SmJ5ZDVCRklESS1aQ0dYMUsweWFDUTdUeTNLbWJ0ZGxLRXBJ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:40:00 GMT"
     },
     {
-      "title": "[건설사 수익성 점검] [부영주택] 분양수익 1조…4년 만에 턴어라운드",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjA1ZF9ySDhRRGFxVTlXZy04VEZTNTFTWGJiVUR0M1FZcmt0My1WbEhWa3gwa3hreHc4SVN4Y0hqZnRZTTVFOGVydkxTU0dZODE0Nmh0Q2t1NnNSbGlqRF9zUnYxLWwwRlk5dzlLYVY3NkVheHZWN1dQWGNxNjZxcEVMdWkyVzh5a0ZBdThGVEdDa2hnTWdBNE5ZYnR2TDZBem1JS29raHhRSGE1QnM1OWtta0tNNHhT?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 23:06:20 GMT"
+      "title": "광주 장애인단체 \"서용규 후보 장애인 가점 재적용해야\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nQTNGbFl1S2duWnFCQ1ByV2tIblVhU1F3SS1kV2stNkNDbU5rWlNlcjltdWFHTUU3NWE1QXAtSVpjWER0OUxFdDRUbFR3bE8wRFRj?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:31:00 GMT"
     },
     {
       "title": "LIG, 장애인축구 지원나서",
