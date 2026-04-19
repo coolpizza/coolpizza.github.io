@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-19T23:06:03.277744+09:00",
+  "generatedAt": "2026-04-19T23:50:20.593146+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "12.2°C",
-        "feelsLike": "11.8°C",
+        "temperature": "11.1°C",
+        "feelsLike": "10.2°C",
         "highLow": "최고 25.7° / 최저 10.3°",
-        "humidity": "89%",
-        "wind": "4.2 m/s",
+        "humidity": "92%",
+        "wind": "5.6 m/s",
         "rainChance": "0%",
         "pm10": "83.6 μg/m³",
         "pm25": "49.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "72",
-        "updatedAt": "2026-04-19 23:00"
+        "updatedAt": "2026-04-19 23:45"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "12.3°C",
-        "feelsLike": "12.6°C",
+        "temperature": "12.0°C",
+        "feelsLike": "12.0°C",
         "highLow": "최고 23.5° / 최저 10.7°",
         "humidity": "99%",
-        "wind": "2.8 m/s",
+        "wind": "3.7 m/s",
         "rainChance": "0%",
         "pm10": "42.7 μg/m³",
         "pm25": "29.1 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "40",
-        "updatedAt": "2026-04-19 23:00"
+        "updatedAt": "2026-04-19 23:45"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[뉴스9 충북 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55TjRENlc3TkRxc2Y1Q1dUdVBJc3FMOXhKVGNSeVBUMFl5dzJOdnVjcVhHUWtjMER3MzZSemRXYUVEd1ZKaUZCLURjWDg0Sy1KNDdNa2s1bGxYUEE?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 13:25:00 GMT"
-    },
-    {
-      "title": "이재명 대통령 부부, 인도 전통춤 관람",
+      "title": "인사말하는 이재명 대통령",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdnA2Yi1lY25CTGVrRVUycktoVmlVa0N5YUoySFdmelNNMW83eGhsemZmdHZ4WFdoWDg3U1FnTzVfZzZrYURaVjF6NkozZHZlVkRr?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 13:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ELWtnN3hjVE1KWWM2cTlzWXBUQkZDSE8waVRsWEFEdklCZEg3b1ZBSFJRdXI0OWo4eWE5c0hsaGh3R0J1V0s3ZmJ1WWNMeTI0dXpB?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:22:00 GMT"
     },
     {
-      "title": "[올댓차이나] 中 공간지능 췬허과기, 홍콩 증시 상장 첫날 144% 급등",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3BJQU9fSWl5QVNEbjhjZzdRd0U2Z2lRUFhuV1JYdGhoaFF1dDVSaTZSVERpTUlnOTR5dEhHQlhfWEtvUnE1a00zOHFTYkV3ejJhZmpObjNzNUdaSDJRSVVmWlBzdDF6dW9pd3VJbU9iM1U3ekhIZmY5dXVhVk5OckJtemtlaXd6ZEZFMnNzVWpqTGZNb2tzV2p2SWtCNUgxS29ETzFKYW1UVUtCWGpOZmlOcWdhR2c?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 13:45:33 GMT"
+      "title": "[속보] 李대통령 \"한-인도, 정상회담 계기로 완전 다른차원 발전\"",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XWndQdjVaWUFoZVVjX2U0Q0RUMngxTllUMHEyRFEtZlhfYjg1YjNZZE9Zb3NwSVkzel84MnlzYXIzRGNKMm1pdnRYeU51c2ptck5zR19CZHhvS2JaanZ5QlhJRVVZSWtpSXJlT2dIaWFkVHdO?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:45:00 GMT"
     },
     {
-      "title": "이스라엘, 유엔군 사망·부상에 “헤즈볼라 발포가 원인, 휴전 악용”",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazYwbi1zQlBDRzRwdGtENnNjRENiRDg1aGVvT3VVb3NWM3o2MDBTUzVjMEYxUG1RTkRPOXpyYnlBaDd5T0VQQ2c2eHZDR0NFYVRKT2Z1alhRLXVwSFlrUWJnX0hIUDA4d0RNNDlVWDBEWGJnYmh4ajNEaWQ1YlJVYzJmQlZpS1ly?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 13:28:12 GMT"
-    },
-    {
-      "title": "진천군수 비방 허위글 올린 전 공무원 벌금형",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQQ0FWSGl1cjZnSjRGR3NxaVdBX2kxNGw3MXRVbDBIYmllZlF3cWdNVXJYSWNHNWNYRzJjSGNnV255cmxfUW1kTi1sRnJ3dF9yRnZhTUx1Nks0dTA?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 13:24:00 GMT"
-    },
-    {
-      "title": "이재용·정의선·구광모 인도 출국…李대통령 경제사절단 합류",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXg0WlZVbzh3TmFUODdPSjk3alM4ZVVMU0lFbUVnTi0yV3MtYzdaMjZqZXNuZVpwOHhndmd4a0VBZlBUN1k0Sk9SX3IzSEFoVXg0MnY4Z3hIcEhEY1BzZkRFajFJcG5YMDN3bVpKQXJKVzJuU3dJY05pYTQxVzI3d2F6TzBLZlhXTWJNUExmSXRQS2llVHFQakxZMWFVRUcwRjFrRVQwNy1tNU5jOS1iNUhfdUU1ZHRxY3dONjR2R2pYbWhVcUttSw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 13:30:30 GMT"
-    },
-    {
-      "title": "이재명 대통령, 인도 국빈 방문 환영 문화 공연",
+      "title": "민주 국조특위, 대장동 수사 책임자 고발 추진",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yOUVyOVNrOHVhQ292dUZNaEdaWHhtWXgtcVlKeDlBUmdzeFgybEVlUkF5dFkwakV3QW9ya3Y3U3E5NlBMbWNTcExhOWFLS2xJem1Z?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 13:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtMVY3WDhyS0lYYmN5Q095bzZEWlJpVGlZLWhOWnRXZ2ViTGV3eUUtbFprQjhNV0xQa0RfenlpSEMyaVNPVm5OSzZPbk5INmtiUFBB?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:39:00 GMT"
     },
     {
-      "title": "[올댓차이나] 중국 3월 조강생산 8704만t…6년 만에 최저",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjN6VmFjX1JQUEx4bjZ5ZGw5M2s4cGR4a0hfd0p4Tk9ULS1JVXg2ZkhKYzRFSTgtTk94VFpqOWl2YzJ1eXdKb0VpYzExN0pRMFdYVGVISlpDejFVNUxlQ2M3MjNsNHRTNkl6LUZ5WmhVUi0tTlB1WDBsUmtwd3g5S012a2QzTTY4a05abW04RC1XS0pNRFQ1SmF1bVVPWEhjOEZFNGRkVS1yYlNUNmlaZ0hrMUN6VHc?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 13:15:27 GMT"
-    },
-    {
-      "title": "이재명 대통령, 인도 도착",
+      "title": "이재명 대통령, 인도 동포 간담회",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzbzlaRGRFdGdLeXdialRCRW5zd0syVVp6eWZTV3lSSGM3VUFMYjBEYW5iRG0xWlBQaE9rUVAyNFRVYXZjNWY3VWFMRU1FTG5ETUxZ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 13:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pOGlHSjBDdmFBb3pBMW1ZbUppV0ZQOFdGbXRzdUdRUkxGMjBrWWxYSFZ4SE1LYXlJbmcxcEp1SjhZajM4a3pMZW5pRGJIWTVaZFU0?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:21:00 GMT"
     },
     {
-      "title": "정성호 \"檢, 왜 국민 신뢰 잃었는지 반성·성찰 먼저 해야\"",
+      "title": "한미 재무수장 \"원화 과도한 변동성 바람직하지 않아\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VeHVhVEtEVThzUGIzSHB0UGRqTjN3a25ZTEJwejF3R1dOTUNoRTZwTDNOTGkxZmcwSWlVQ19NQkRUYm5DbVNMOUtIcHN0SWJUMDJv?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 13:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1salhpSWVOTmREYXRUU0NZY3ZuamptN3Z6WTkxUEVUeEt6Wk1nTy1meXNlUUNBTnZUd0VSVkFJaGhSYnljeFpKTzlraWVNc01ET1k4?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:28:00 GMT"
+    },
+    {
+      "title": "대북송금 조작 증거? '리호남 행적 논란' 쟁점은?",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYN1JUZmhoZ1YxS01ZOURCQld5eUpmcHQwc3h3S09wMmtVMVdoVGVKUDlEb0lEQ1FiT1R6R2NuMndMSG1QdHFRQ1ViblR6d2Z2U1Nj?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:39:00 GMT"
+    },
+    {
+      "title": "인도 동포만찬간담회, 인사말하는 이재명 대통령",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Q0lEUm9xek5hU1pBTklxX0NubUg3aWE2S0lxYWFMLUJ0RDUyMmRUX21KclljUzAtUXhIcUktSVhZTThkQmFmcTdNX2U4NXlhbHNr?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:26:00 GMT"
+    },
+    {
+      "title": "손승연, '1등들' 결승 1차전 정상…폭발 가창력 통했다 [별별TV]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NRDdYajh5Y1l0d1Q4cUpnWVFtS05QdFN0aGhhMXUtN3RtMlBpanBQQmhXbTB0cWswSTFHVElDcXNIVEJ5RHkyOGpYTEJsUUNJeEdv?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:38:00 GMT"
+    },
+    {
+      "title": "'1등들' 손승연·김기태·허각·이예준, 최종 결승전…역대급 가창력 전쟁",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybS1QWVJiMTV3djdjdnM2V2pFMzBtRy0yS04tZ0dfb0o1ek9YVzByRVVwaGgwUzBDdGRwdTVsTmJJYmlxSGc1dld0a1l5Qmx2R0tN?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:12:00 GMT"
+    },
+    {
+      "title": "“탄탄면 맛 난다” 최화정, 라면에 ‘이것’ 넣는다던데… 뭐지?",
+      "source": "헬스조선",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtd2xXVFZJa3J0eTVkNkNLQWdWRmdfd3c1dUdZaUpPRWNJejFsNHpycVI4WWJ1ZC12Qm5IZVZsNjIxUWJNczRJa0l3MnptX3Q3NFBGUzNrbnhoWkgtZjE4YVppc0pCQzU5RWZFZTdLM2E1Q0pNRnc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:01:00 GMT"
     }
   ],
   "sources": [
