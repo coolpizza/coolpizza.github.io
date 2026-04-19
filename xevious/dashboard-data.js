@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-20T03:32:58.250540+09:00",
+  "generatedAt": "2026-04-20T04:15:16.213939+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0393",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-04-20 02:46"
+      "value": "1,467.0400",
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
+      "updatedAt": "2026-04-20 03:27"
     },
     {
       "label": "100엔/원",
-      "value": "924.73",
-      "change": "-0.27",
-      "changePercent": "-0.03%",
-      "direction": "down",
-      "updatedAt": "2026-04-20 03:22"
+      "value": "929.01",
+      "change": "+1.01",
+      "changePercent": "+0.11%",
+      "direction": "up",
+      "updatedAt": "2026-04-20 04:03"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "8.7°C",
-        "feelsLike": "8.0°C",
-        "highLow": "최고 13.7° / 최저 7.0°",
+        "temperature": "8.5°C",
+        "feelsLike": "7.8°C",
+        "highLow": "최고 13.5° / 최저 7.0°",
         "humidity": "99%",
         "wind": "2.3 m/s",
         "rainChance": "20%",
-        "pm10": "85.7 μg/m³",
-        "pm25": "57.0 μg/m³",
+        "pm10": "87.3 μg/m³",
+        "pm25": "57.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "75",
-        "updatedAt": "2026-04-20 03:15"
+        "updatedAt": "2026-04-20 04:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "11.5°C",
-        "feelsLike": "11.3°C",
+        "temperature": "11.4°C",
+        "feelsLike": "11.1°C",
         "highLow": "최고 12.9° / 최저 4.9°",
         "humidity": "99%",
-        "wind": "3.9 m/s",
+        "wind": "4.9 m/s",
         "rainChance": "13%",
-        "pm10": "42.0 μg/m³",
-        "pm25": "29.4 μg/m³",
+        "pm10": "40.4 μg/m³",
+        "pm25": "27.9 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-04-20 03:15"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-04-20 04:00"
       }
     ]
   },
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-20 00:53:50",
+        "stationName": "KH에너지㈜직영 에이원주유소",
+        "address": "인천 계양구 벌말로 583 (하야동)",
+        "updatedAt": "2026-04-19 12:51:56",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "재계 총수들 총출동…'세일즈 외교' 나섰다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CaGQ0LTYxcWhQMGZtYkQyMnF6WDh5c0VmTl9xcnBNQnVkZ1IzQy0wWlM2VzA0ZnhSbG82QkZ5SzBNVzVVQmt6eUtKZ0NxWHl3OWI5MC04aUZhb1FwY2Q4LQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:04:00 GMT"
+    },
+    {
       "title": "불가리아 총선서 친러 세력 승리 유력…연정 구성 불가피",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzdNMENIUEpxZV9EdWJWaE1jWXc4aXpRWXo4SHBzOERnb3p4a1E0RzU2R2I0Mm5oUXAtSGhpQ1ZwSnJMcTE1c1NEdlAwN1FXM3IzN1Z0RWJTdndMN1p5Wm5kTEFmLXdMcDhFRTQ2c1czR2V0Mkw0S2hxTFA3OWFjLTJMampvSERib0lrZlRBMDlWUlVia3dSN2ZQYllPNU1uZlNVUVZqNnZ1a3lNazRmZTlDdVBfSUNT?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 18:20:56 GMT"
+    },
+    {
+      "title": "\"자…점점 더 작아집니다\" 빈틈 노리는 정수기 시장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rT1c1NTI1am8xYUtONzlXQ3IxdEhUdE16Y29PYm0wNWxrT1lQSHdzVWNQQkp4MGNTc01kMUthaTZRb09DZmN1LVpGaV85Q1dxWWZR?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 18:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0RkJOWjZ2ZGlmXzhPalNBakhsMDV3ME9iWDZEX19VdXNjVzVEOVFsOWcyTFBzQXZFYlVqV2FJZ0o5WnJES2VxREFTTEs0bXZsTlZua0lxa1psTjNnb3Z0Rg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:05:00 GMT"
     },
     {
-      "title": "연우진, 소개팅 중 가랑이 찢어져 '대참사'…\"그 후로 연락 없더라\"",
+      "title": "[기획] 악마성 40주년, 돌아온 캐슬바니아의 모든 것",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFYmYwZExVLU5nSDE4WHIxQjgzSy1YMUpJWTEyaDBwOUF5elZLMmJTWWFjM19TbG1QNm91RUVTR3ZKbUs2MHVQRGZaNExuczZ1MWw1b2x2LVUzanJoaGc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 18:32:34 GMT"
+    },
+    {
+      "title": "지선 앞두고 허가 급한데…재건축 시공사 선정 '발목'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tS2hWaUdGMWc1Q29BR0NGZHJodDc2R3dOZzcya2txZElEWWlXMzZsQlFkZlF6RzRQXzkwSWJJb01jUUR3OFhOOC1tU2lHaHNfM3NVN1VFdnlRR0tkbWdDX0Fvbm1DYkxnR3M0MU5NNzYwenZhcDMxZQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 18:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tQWtnNmFseU1tVHJsMVJVdjR1TmljQUlFUWc5Z1UxcEswekNDS2RCTzVBcjFkNG9jYU1vTWtGNmtKQWRrVG1HRWlZRVBoQWlTTHZr?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:04:00 GMT"
     },
     {
-      "title": "'설렁설렁 산책 수비?' 외인 논란→사령탑은 확실하게 선 그었다, 실제로는 오히려 그 정반대라니…",
+      "title": "인도와 조선·베트남과 원전…글로벌 사우스 외교 본격 가동",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XTXZwYmQ4bVI0RzlKTXlwM3Aya004MFZyNEhrb1Q1SEhlWlZPUGtSRENOemhmLU96UjBvM2RhYmpQYjZQN0tqTkg1b3VZcDBIYjJ2UG9veWJMLU5XcFNsSU0xZk1jZ2J6LXhBMVo0eDFEc1lCTVhKaw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 18:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40b3dHalo4aHMzcjB0eEh5S2NteWoxcFB4SnR6LU94RFNkQl8yUURQYVRydmtjak1aT05jSGlqNGl1T3dZSmhDNnNZVnJlend0eV9N?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:10:00 GMT"
     },
     {
-      "title": "충주어린이과학관, 노담밴드의 튼튼섬 모험 체험전 개최",
-      "source": "이트레블뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5CNmJVTGV5bmp5blhoVGJweWhWcWdpM2hpN3hNWUZyM1pKWTRCNk5yM1JiTWlfejI5LXR0b3hsZ1VrM2FY?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 18:10:00 GMT"
-    },
-    {
-      "title": "이재명 대통령, 印 외교장관 접견…\"호혜적 협력 확대해 나갈 것\"",
+      "title": "코스피 6400 넘나…하이닉스에 쏠린 눈",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnSWFDMm9UdUJNNlpvc0pSZVJvem9YZ0RkWGI3eU8wUmNWMW5iVVNmNkRNN2VzcjB4NTdKUjdJRHBNLUpnTUhjNGZLOWI4LWltMm5Gbml2NmxZbGRlS2NYQ1Z5STFsN21vTXc?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 17:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ubnVwX2pVazZIblpsV3Q5eC1RamZQQ2NFTVhwSHNHUTUzTWdLLVVYV283bFlBU05EMXJHMUhFbDZfWV8xeUk4dzhQb0pIQlRKN1hB?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:03:00 GMT"
     },
     {
-      "title": "광양시, 산업과 관광 잇는 산업관광 시티투어 오는 5월 첫 운영",
-      "source": "이트레블뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1lNMmJNdUtoaDlGZEQyUHJTZk05VHg2bUJxMWJEdTByTWdMM1JSWjkzcUY3SU5qeU9fazU1R0pMRHpQQ3I5dG5wQkd0SXl5MTEwaDk4dHFoRy1BemlCdWNtZjBqbU1TRHdjQjc4UDIxaVg1cGZtdGtfek82ZWJqblI0RmlMOFU2dlY5Q2QwT1VTQ2FLbFI0a0x3eGN2Nmh5VzJHaUctdmVYdW9aUjlDWnl4ZkdCQjA5?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 17:39:00 GMT"
-    },
-    {
-      "title": "김지유, 6일간 머리 안 감고도 연애? \"양치 안 해도 그냥 키스\"",
+      "title": "'헬스장 폐업' 양치승, '흑백요리사' 나갔다가 3초 등장…통편집 굴욕",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55MGpUbXdzY1l2ajNXVEM5VEEwa2w2UUJlTjZjMUQ4WlVTbjdLd0pCU0xKd1FwWC1oeUdoYXpDeXkwT3k4UHdGN0JKb2tGT215QWIwNVptT0t5Q3Q1U2pFbVBfaGZncEdhb3FFMUlMUkdvRzRiVUNUZA?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 18:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vZFh2bF9Pc3gyaGJycjRoMEh3a1otU3NlQ0h5SEVpZ2tIS0tSNEVwWThwVFJ5UHBjN3Y5RS1maldraGZuS25vTWZ4djBpS1pNcTRlSUJpMjc5N0FJWWx1eWJHSEpOeWVPcWtmMVFDTnZLV3paOFJCTQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 18:52:00 GMT"
     },
     {
-      "title": "'캥거루족' 연우진, 母와 '나는 솔로' 시청 중 진땀…먹던 귤도 맞아",
+      "title": "이재명 대통령, 인도 국빈 방문…모디와 정상회담·경제협력 확대 논의",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5eWtFTHR3d2p3eFp2RklsQ1M3clNZRFVOR2R4Q3BtLVM5a3RlamI5aXM3STBpdC1OLTEtR1hpNFFsbF9YY3NQaUczX0dITktvTGxJ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 17:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16T2VLTmNuS3dpX25tYzZQSWI4S2FPZWFPb0VfSUhMSlczTnF5NTFCckN0dUs2ZUQ2UktoX25fWHFJTDF2NEh5cTdYRXZoM0ZjbjNfbFNqUFZsRGxRMTczRnlrYlVpNEc4MFpKMlRKVFNGOFZYbzQ0dQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:06:00 GMT"
     },
     {
-      "title": "세 번째 DLC The Witcher 3 REDengine 4 엔진을 기반으로 개발되고 있습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0VPbjhYUFhDOFZ6LWtfRHdCWHdVMnJLM2dWSjhCYVVUamI5Q1J1QmZQS2paM0VQeUpGdmNFTEhzcmlxMUs5b3BaQmlFWDdkQlNBSTI3YmNIelNiRWMtTW1YN1pSUE5MNDJNalMxOGpqdnJQaTVDUjczcVR0RFlvQm1FWU5hWkhQZGZDdHIxUDBhdmx0b181S01OZDZRMW1lMUpF?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 17:26:39 GMT"
-    },
-    {
-      "title": "“가상계좌 넘겼다가 공범 돼”… 금감원, 소비자 경보 발령",
-      "source": "동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Hdm02RXVoa0t3WjYyUnZDWVJ4RjR3N3FmZHZlZzlDNnhzR3RBLXdkTVRQUE5wWHJHVENiSzRUblhlNWtSM1NHWGdKYzVicXNsenZsczV6N0dtVHItRkFFVGtyajMweGw4dDJ2WlFVVUQxSjNMUGfSAWZBVV95cUxOdE5KQzNhUk9kVUs5VzhZU3FVTXhieG9STm5hYXQ4RTNjakt5TFJGZDNsZ0JvNVNtMGY5cTVzU1pqSlRTYk9hcmgyNzVnOW5zZzRTV0VLVmN4SnVvc2FMLVV3MVM3VkE?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 17:25:40 GMT"
+      "title": "또 닫힌 호르무즈 해협…종전협상 안갯속",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zcWltV1QyS3lXMFFva0lkREd1N1BsbmhSMnZEV2dxdnJWcGZqRmkzdFpheXAyMUh2b0ZUcktsTl9oSk5FQTVpV2haOTYtRXVEMDlCLWMxUGZQMDZSTnQxNUdhb18wRnRvN3M1NkdqRnI4MnFvQzFkUg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:03:00 GMT"
     }
   ],
   "sources": [
