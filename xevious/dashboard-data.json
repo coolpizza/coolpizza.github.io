@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T07:36:04.804796+09:00",
+  "generatedAt": "2026-04-20T08:08:58.817835+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "8.3°C",
-        "feelsLike": "7.1°C",
+        "temperature": "8.4°C",
+        "feelsLike": "7.4°C",
         "highLow": "최고 13.5° / 최저 7.0°",
         "humidity": "99%",
-        "wind": "4.6 m/s",
+        "wind": "3.9 m/s",
         "rainChance": "20%",
-        "pm10": "68.0 μg/m³",
-        "pm25": "48.2 μg/m³",
+        "pm10": "68.2 μg/m³",
+        "pm25": "40.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "72",
-        "updatedAt": "2026-04-20 07:30"
+        "updatedAt": "2026-04-20 08:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "11.8°C",
-        "feelsLike": "11.6°C",
+        "temperature": "11.9°C",
+        "feelsLike": "11.9°C",
         "highLow": "최고 12.9° / 최저 4.9°",
         "humidity": "99%",
-        "wind": "4.7 m/s",
+        "wind": "4.0 m/s",
         "rainChance": "13%",
-        "pm10": "48.9 μg/m³",
-        "pm25": "40.0 μg/m³",
+        "pm10": "52.3 μg/m³",
+        "pm25": "41.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-04-20 07:30"
+        "airQualityIndex": "62",
+        "updatedAt": "2026-04-20 08:00"
       }
     ]
   },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "KH에너지㈜직영 에이원주유소",
-        "address": "인천 계양구 벌말로 583 (하야동)",
-        "updatedAt": "2026-04-19 12:51:56",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-19 18:09:05",
         "districtSamples": [
           {
             "district": "계양구",
@@ -163,9 +163,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,959원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 성북지점",
-        "address": "전북 익산시 망성면 익산대로 2802",
-        "updatedAt": "2026-04-20 06:52:50",
+        "stationName": "대선주유소",
+        "address": "전북 익산시 성당면 함낭로 222",
+        "updatedAt": "2026-04-19 21:08:39",
         "districtSamples": [
           {
             "district": "익산시",
@@ -177,10 +177,46 @@
   },
   "news": [
     {
-      "title": "[AI기자의 News Briefing] 4월20일 오늘의 주요 뉴스를 전해 드립니다.",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ONHVhSW91cnlSbEFyT1hxTXJwMFozQ3pmUHhETG5EaUR4N1QxOVVPYk56Y0U3UHc2MDhaN0pqVXB5czlrdTNDMW9CMnVDd0UzZldJNkpaY0tqTnBpS0NoLWs5cl9Pb1ktcmc?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:05:03 GMT"
+      "title": "[전국 주요 신문 톱뉴스](20일 조간)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DMUtleElQaDhhM0Q3djlpOXgtQjBxM0tyMnNRVWdXV2w0WnkxVWhCQUdmbW0ydlpiQjUxMVQ0Qkw3bFpSWTEyc3ZpNEZKRWtVQmM5NUk5Z3JjbW_SAWBBVV95cUxNSXRPRlFQWUNDUy16WjJZNGZVaDBvbzRpUlFZZ2tJT2xKOUxLOTdEUnZIQXZFanJZS1RmZWFTc19KQ2t3RUtmSlBBZkRRNFJDR3lFV21rSHJOSGI0c2xHMnQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:00:02 GMT"
+    },
+    {
+      "title": "4월 20일 굿모닝 MBN 이 시각 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LZ3lDUXdsM3lFR29veDlfN1laaEhvc2QybEdNMjF0X1h5dXdENW5IaVp6SWpjYTc2NkdtWGQ3SkFIV3BTak5BUHFtODd0X1JBMW8w?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 22:59:00 GMT"
+    },
+    {
+      "title": "[뉴스광장 전북 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xcEg1bExOZXpUZUNkTzFrQzV3bVExQVE3U0taWm1jRWdmNlhnTTRyc1paUFMyMDVzQ2I1QmttYjVfVDJkN1dvQTRjUU9YT1hGRG5rVWJSbENiOW8?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 22:33:00 GMT"
+    },
+    {
+      "title": "주간 경제 뉴스: 헨리 폴슨의 국채 경고, 메타의 구조조정, 베센트의 금리 발언 등",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOcUREMEVIazZmY1NheGxyOS10clVHVUxSQU9kR1JDdUhtblRIak9nWHdVcHR5VUVKd0d2bDFTVkk2SzNjem9MMncwekZiSF96LWxIdnJiWDVHLTk5RzFyTTJkTUdpdTMwT0ktQnR3ZHVvQy1XaG9hZXI1aC13enlwWDN4Y2hPRWFEM1hGN3NYQ0NiSnBKTkJmMXVVeklBdk93dXN5VDBOemhxVHFFYUJiMUFISHoxekNRanNIRHN0T2JhNDVfRGxMT3pwTElSU2JRTEZuSnBFZmZuUVQ5Qkp5VE4ySTl1THVYQWp3SGVKY0dFUXl0dmxfWm1lUHY1bHlZVURpSW5nOE5wMTQwQXEwdkE4RVlTYXMyUHYyZmxOb0FaVDZITHdjekRYb05iRk9QV2thWHh5dDBnRWItSzROWUhubXF2X043ay1NR0Ezb1pJeEpFc3MzeEFUbw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 22:47:36 GMT"
+    },
+    {
+      "title": "장원영, 4월 걸그룹 개인 브랜드평판 1위 등극",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWxlN2FLZU00YjlmOU9Hd1d3Z1JOb2RfdThLcDlrbGFmRDNsOEhqcDBfV2pROXA3cmxkZVVxV2NwVjJnVzVYbmd4aGNZdHFiUjFndkotX0F4RXNCek04V2RydHhwSThxNlNaQy0xQjd4WFZiMWtoQ2tXSU8zTk9SOHduekw4X0I3UkJ4dUNfZDBxR3Q4TjNSeGo2OGJLcnVBSUVCcm9CRzl1RkNJSmxiX3BHdDhNZUU5Y0E?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:01:19 GMT"
+    },
+    {
+      "title": "[인사] 문화체육관광부",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVkZKU290dVhnMUM3MWNYc1FXcEJQbFdXTWJEenRUN2tlM0lHa3RLZndtVjFPa3puclYxMWFVamtISjhTdXJrLWxSdGpoQlRPTzVlTGY1Mnhmb1ZKTkJjRXZpWGFsZDB0Tjl6cnJ3?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:07:00 GMT"
+    },
+    {
+      "title": "[뉴스광장 울산 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sU3dmQ1hZNHY5Vkl3UDlwU0NYeFZxcTN4OTBud1lRWDA0V2lqRkZnUmVKamx6M2JtZzNON3FqdTktemQwMElDZkNmV2xIcTNTa0lFSXRZd0s0WUU?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 22:34:00 GMT"
     },
     {
       "title": "4월 20일 굿모닝 MBN 주요뉴스",
@@ -189,52 +225,16 @@
       "publishedAt": "Sun, 19 Apr 2026 22:13:00 GMT"
     },
     {
-      "title": "[속보] 이란군 \"미, 이란 상선 발포는 휴전 위반‥보복할 것\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWJveHFHNGVwMnZrQ3VEY2xmQVNNcFAxLTl5WmptRUx5YmZpSE9KaHFFMzFzT2pyV1c5Qmw0MTNnVkFFQUpFNnVXZTVfN1lIZzRhdkRybTIwMHpmLWY3Qmo0MFJNRUxtdGdFdHl4UEJFV1NZU3pNb28xWVE1SUZfY0dldmU0VzdqTEIxcDZBdnNJRlUtTGdJQTFqVGNDWmk4OHM4blR3SGVBenA2dmR0a1FRblcxTDI1NTB3RNIBdEFVX3lxTE1zTHZnMFVrc0Jjd1B5SDBmLXhXRjhGaHltNGs2ajgydmludFJuaFJrZUpNYkVuWTFPUHlVQXlZaVd4Z2FBZGY3bUpfZzhLZGJpMGJnUkJDZUl1NWgya19rRU1PY1ZMVHJXSlpYY1ZrNEhuS3Bx?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 21:57:17 GMT"
-    },
-    {
-      "title": "SNS로 퍼지는 독버섯…대구 10대 마약 사범 경보음",
+      "title": "[건설사 수익성 점검] [부영주택] 분양수익 1조…4년 만에 턴어라운드",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDhPZlIyYjctSHdSU01FYkJINXdfSnNIaWYyVTRmY2wxaUlJcTlSWnNXQlJxOVlXbUtCbnF6c1kxUEtQYU4tSnRNT19rRU91SGdXTEE3dVJMbXRMR1BQOXpET3E0LVA5MjM0Y09peFBpcDZORUFIVndHNktJTjlmX09qQ2NGdXc2ODlyTTdzSE9BYUpTNDZzX0pDUmhOUW5IaGhfeldZNzE4MnZIRi13Z0N0aWhhelE?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:16:41 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjA1ZF9ySDhRRGFxVTlXZy04VEZTNTFTWGJiVUR0M1FZcmt0My1WbEhWa3gwa3hreHc4SVN4Y0hqZnRZTTVFOGVydkxTU0dZODE0Nmh0Q2t1NnNSbGlqRF9zUnYxLWwwRlk5dzlLYVY3NkVheHZWN1dQWGNxNjZxcEVMdWkyVzh5a0ZBdThGVEdDa2hnTWdBNE5ZYnR2TDZBem1JS29raHhRSGE1QnM1OWtta0tNNHhT?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:06:20 GMT"
     },
     {
-      "title": "[4월 20일 간추린 뉴스] 픽뚫 X, 어반 오픈월드 RPG '이환'",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90UTRTNEsteG02RTFwcXUwQUNQNlk2T0tSS3ZUMWczbENyLWZ4cFVLVDZ4cERJNVhGdUNfT2RVSmNuQjFvc0M5dnRSd3RWTndPU2lXS0tIb0dHYXpLc1E?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:00:01 GMT"
-    },
-    {
-      "title": "[속보]이란군 \"美, 이란 상선에 발포해 휴전 합의 위반…곧 보복\"",
+      "title": "LIG, 장애인축구 지원나서",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PVXdXYjQxSWZRUzYxdXQ0RWg1dVBKSGdzcDVpSk1XdlVmZmJORG1zcFNONVJJLXRzYjB1N3lra1QzeldENDZVb1JaYVpCZ0Jmbk8xajFWbHAzXzRIQWxBUXNUM3k1amVRWTBGUy1qcUc3Qm1fN0ZjQg?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:32:00 GMT"
-    },
-    {
-      "title": "최예나, 중화권 여신 됐다…3대 쇼핑몰 점령→'캐치 캐치' 中 버전 발매",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbE8wbEY1VzFsMF83R0pUUDVqRHNKUm0xaXFjaVVzaTB6NUN6c1RadlpkTE5GZGFXS0dmZkp3QmdKbEhaYW1SU1lKNVk1bFNlYk5CblU1eHh6WThqSlNoYQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:29:00 GMT"
-    },
-    {
-      "title": "'우산 챙기세요' 전국 곳곳 비소식···수도권 미세먼지 '나쁨'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kVi1DRHBMdXdCSlI5TXdlaDFNQlh0czUzTC13WTN6ZFh5cDd6c2dsWS14SHJkdG1TOFh6djJMU2I0V3NqdExDRl92cGpXWVh5T1o4?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:10:11 GMT"
-    },
-    {
-      "title": "돈 몰린 밸류업…방어형 펀드는 '찬밥'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tSXVZc3oxTG40QjU1WTY5YWd4NlRiaWhIN0RHV2tfUmpBYm9GMmJ6RnR6bDZHaUJpQVVCSF9rOVl1TEpzemM0SzJEMDJMOHh4c3cw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:20:00 GMT"
-    },
-    {
-      "title": "트럼프 \"이란 화물선 나포\"···\"이란 2차 회담 사실 아냐\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yb1h1QXRIc09GSnZXN0o4VFhwLUx4VllTZm5MUE1MRmFTb3MtV0hPZnJvczBWNGczMmVrT1JmbDVNWWtyS2NGcW9ua0JMWWpBQVNVUmgxcjdFZFdnWFBxX1RLQ3plamVtbnJCN1c4Nk1Pb3ZlUWtuVQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 22:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ucGNscUpZM3AtRnpjQVRqbTEwMzVJRTZXdkI1OVQwQ3dpYjBjSllDVFR2NVhSSWk3TWc1dWJTU3daZkhiS3hrMTVCTkRpZDRJUWNv?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 23:01:00 GMT"
     }
   ],
   "sources": [
