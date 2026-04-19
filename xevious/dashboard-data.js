@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-19T23:50:20.593146+09:00",
+  "generatedAt": "2026-04-20T00:29:19.238482+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,52 +48,52 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.0393",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-04-19 10:05"
+      "value": "1,467.0400",
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
+      "updatedAt": "2026-04-19 18:18"
     },
     {
       "label": "100엔/원",
       "value": "927.69",
-      "change": "-0.31",
-      "changePercent": "-0.03%",
-      "direction": "down",
-      "updatedAt": "2026-04-19 23:00"
+      "change": "+2.69",
+      "changePercent": "+0.29%",
+      "direction": "up",
+      "updatedAt": "2026-04-20 00:19"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "11.1°C",
-        "feelsLike": "10.2°C",
-        "highLow": "최고 25.7° / 최저 10.3°",
-        "humidity": "92%",
-        "wind": "5.6 m/s",
-        "rainChance": "0%",
-        "pm10": "83.6 μg/m³",
-        "pm25": "49.7 μg/m³",
+        "summary": "약한 이슬비",
+        "temperature": "10.4°C",
+        "feelsLike": "9.5°C",
+        "highLow": "최고 13.6° / 최저 7.0°",
+        "humidity": "95%",
+        "wind": "6.2 m/s",
+        "rainChance": "15%",
+        "pm10": "89.4 μg/m³",
+        "pm25": "58.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "72",
-        "updatedAt": "2026-04-19 23:45"
+        "airQualityIndex": "73",
+        "updatedAt": "2026-04-20 00:15"
       },
       {
         "location": "익산",
-        "summary": "약한 이슬비",
-        "temperature": "12.0°C",
-        "feelsLike": "12.0°C",
-        "highLow": "최고 23.5° / 최저 10.7°",
+        "summary": "흐림",
+        "temperature": "11.8°C",
+        "feelsLike": "11.8°C",
+        "highLow": "최고 12.9° / 최저 5.0°",
         "humidity": "99%",
-        "wind": "3.7 m/s",
-        "rainChance": "0%",
-        "pm10": "42.7 μg/m³",
-        "pm25": "29.1 μg/m³",
-        "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-04-19 23:45"
+        "wind": "3.3 m/s",
+        "rainChance": "3%",
+        "pm10": "45.2 μg/m³",
+        "pm25": "29.6 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "41",
+        "updatedAt": "2026-04-20 00:15"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "인사말하는 이재명 대통령",
+      "title": "이재명 대통령, 인도 동포 만찬 간담회",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ELWtnN3hjVE1KWWM2cTlzWXBUQkZDSE8waVRsWEFEdklCZEg3b1ZBSFJRdXI0OWo4eWE5c0hsaGh3R0J1V0s3ZmJ1WWNMeTI0dXpB?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 14:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHMUZ6NE54em03QkxOLVVERWV3ZmNiR1Zwby1pbUlYTEJpMlJVZDB2elJSMFpCVXNWR2lTQjNkZWlSSmpMZnJsR2s1Q2JNZDR1NUd3?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:46:00 GMT"
     },
     {
-      "title": "[속보] 李대통령 \"한-인도, 정상회담 계기로 완전 다른차원 발전\"",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XWndQdjVaWUFoZVVjX2U0Q0RUMngxTllUMHEyRFEtZlhfYjg1YjNZZE9Zb3NwSVkzel84MnlzYXIzRGNKMm1pdnRYeU51c2ptck5zR19CZHhvS2JaanZ5QlhJRVVZSWtpSXJlT2dIaWFkVHdO?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 14:45:00 GMT"
+      "title": "이재명 대통령, 인도 동포만찬간담회 입장",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YOFZiVGlYdnhIdFVVcnRiNnRuRTlnMDdidVRDMjFSOTZhUVFlemtMdkJUaDFJWlliWkdkNWJHbXlJeEtLLUpNRE9wdy10R2NqRkRN?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:57:00 GMT"
     },
     {
-      "title": "민주 국조특위, 대장동 수사 책임자 고발 추진",
+      "title": "동포 간담회 입장하는 이재명 대통령 내외",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtMVY3WDhyS0lYYmN5Q095bzZEWlJpVGlZLWhOWnRXZ2ViTGV3eUUtbFprQjhNV0xQa0RfenlpSEMyaVNPVm5OSzZPbk5INmtiUFBB?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 14:39:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zSmZ0RnlJUmNzaFVhbXJER3VJalAwVGsyajJOYlBxM0VyVnE1NHNKM1ZQU1dQRjVoeTBlLXNrbi1USE1JZ0ZQRHRKYTQ0U0VYQnE4?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:47:00 GMT"
     },
     {
-      "title": "이재명 대통령, 인도 동포 간담회",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pOGlHSjBDdmFBb3pBMW1ZbUppV0ZQOFdGbXRzdUdRUkxGMjBrWWxYSFZ4SE1LYXlJbmcxcEp1SjhZajM4a3pMZW5pRGJIWTVaZFU0?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 14:21:00 GMT"
+      "title": "수도권 등 미세먼지 나쁨…전국에 비[오늘날씨]",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGVidVhqd0V1ZG50bV9FZV9nQm1IcjV2bmxha1o3aEpMWVpBUjJTZ2pMUTVmRUJqcmk5LUhvUDRUY2c0cWZ5UVNqUDlYYVg5TXIxVVh4U1RmYnVlS0hWZFhMUU9KNnJzeVcxdjRYckdEVUI3RHFlQjZFRElMWEtyZGpPZHpWRWR0SERiWlFMLWhBS0RhMTRNQnQwR2NET3J0blBTSktZcXAyUlRWUlQ0SHRoT29Nelpr?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 15:16:17 GMT"
     },
     {
-      "title": "한미 재무수장 \"원화 과도한 변동성 바람직하지 않아\"",
+      "title": "'이지훈♥' 아야네, 두 번 유산 후 둘째 임신했는데 또 힘드네…\"하루종일 속 안 좋아\" [스타이슈]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1salhpSWVOTmREYXRUU0NZY3ZuamptN3Z6WTkxUEVUeEt6Wk1nTy1meXNlUUNBTnZUd0VSVkFJaGhSYnljeFpKTzlraWVNc01ET1k4?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 14:28:00 GMT"
-    },
-    {
-      "title": "대북송금 조작 증거? '리호남 행적 논란' 쟁점은?",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYN1JUZmhoZ1YxS01ZOURCQld5eUpmcHQwc3h3S09wMmtVMVdoVGVKUDlEb0lEQ1FiT1R6R2NuMndMSG1QdHFRQ1ViblR6d2Z2U1Nj?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 14:39:00 GMT"
-    },
-    {
-      "title": "인도 동포만찬간담회, 인사말하는 이재명 대통령",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Q0lEUm9xek5hU1pBTklxX0NubUg3aWE2S0lxYWFMLUJ0RDUyMmRUX21KclljUzAtUXhIcUktSVhZTThkQmFmcTdNX2U4NXlhbHNr?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 14:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SSDRGdGowT3MweWpfakRDa3NqTXBIWDRVcExmNUo3YVJqT1lpX2NtMlY4OEwxc0Jubl9BSW1NblhNOVlLZTh1THNPdnRERXF3Rm93NG10aTNHSEdMUE9od0tMRlpNUjFaQ0xEcG9jNlNZNU9FbmZEVw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 15:04:00 GMT"
     },
     {
       "title": "손승연, '1등들' 결승 1차전 정상…폭발 가창력 통했다 [별별TV]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NRDdYajh5Y1l0d1Q4cUpnWVFtS05QdFN0aGhhMXUtN3RtMlBpanBQQmhXbTB0cWswSTFHVElDcXNIVEJ5RHkyOGpYTEJsUUNJeEdv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90Nk5QTkNJWHJCMllBVG5SWTZpeGl1VDhtcmNIRm01Yk9yQ3RMS3FrU1F0cGp2aVc2WTRoc2ozNHMtNHF4N2xWZlNZZzJ5a3VYQ3FqYThUZlVpcFRsSUhEQw?oc=5",
       "publishedAt": "Sun, 19 Apr 2026 14:38:00 GMT"
     },
     {
-      "title": "'1등들' 손승연·김기태·허각·이예준, 최종 결승전…역대급 가창력 전쟁",
+      "title": "충북도 남부권, 창업 생태계 확장에 첫발 내딛다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybS1QWVJiMTV3djdjdnM2V2pFMzBtRy0yS04tZ0dfb0o1ek9YVzByRVVwaGgwUzBDdGRwdTVsTmJJYmlxSGc1dld0a1l5Qmx2R0tN?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 14:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40d0FvM3A0WWdTWXAyRlhBcVJhTWpqemN6RVM2Wnp5S1RjZ2R5WHA2V0ZLNUVBbzdSRnp1M25RYmhFYWROdGE5RXFTTjFEU1FCV1RV?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 15:02:00 GMT"
     },
     {
-      "title": "“탄탄면 맛 난다” 최화정, 라면에 ‘이것’ 넣는다던데… 뭐지?",
-      "source": "헬스조선",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtd2xXVFZJa3J0eTVkNkNLQWdWRmdfd3c1dUdZaUpPRWNJejFsNHpycVI4WWJ1ZC12Qm5IZVZsNjIxUWJNczRJa0l3MnptX3Q3NFBGUzNrbnhoWkgtZjE4YVppc0pCQzU5RWZFZTdLM2E1Q0pNRnc?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 14:01:00 GMT"
+      "title": "[데스크 칼럼] 중국 제조업의 파상공세",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wREJhZ1NjOS1Cd1VsT3Bqa1I1U3lJdzRFU3M0aW16NHp3OWlzVTNYUmhpX2o1LVRYMi0tUVdBTnlsSmw5ck42b2EtcmNmcXN5U21ma3Y4YzlxVHFhV2pZQg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 15:08:00 GMT"
+    },
+    {
+      "title": "송언석 \"이 대통령, 대장동 비리 몸통이자 심장\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rSDNmT1hUaTZnR3hDbVJSbFFFRmNXalJRSVhMYkV3anA1eWlFNEtCR1JHSUI3M1dfQ2NrR2Y4VHpZVndmSGgwNGpjNkwxUlBFZXNj?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 14:40:00 GMT"
+    },
+    {
+      "title": "[프리즘] 불안한 공급망 시대, 조사료에서 답을 찾다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RanFYM04zTmJMR1JoNlJnWk5hMlROZVhxc1BXallhYlQ1dDBGSk1sbnltTUE0djVVNkpFLXRSV3dYbFhaQS1FcDJTSGNraHhITHhOcFhnRXpQa2FYLXFuNA?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 15:03:00 GMT"
     }
   ],
   "sources": [
