@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T04:57:27.898563+09:00",
+  "generatedAt": "2026-04-20T05:25:49.018393+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,7 +48,7 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1100",
+      "value": "1,467.1092",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
@@ -56,11 +56,11 @@
     },
     {
       "label": "100엔/원",
-      "value": "929.93",
-      "change": "+1.93",
-      "changePercent": "+0.21%",
-      "direction": "up",
-      "updatedAt": "2026-04-20 04:51"
+      "value": "924.16",
+      "change": "-0.84",
+      "changePercent": "-0.09%",
+      "direction": "down",
+      "updatedAt": "2026-04-20 05:20"
     }
   ],
   "weather": {
@@ -69,31 +69,31 @@
         "location": "서울",
         "summary": "흐림",
         "temperature": "8.4°C",
-        "feelsLike": "7.6°C",
+        "feelsLike": "7.5°C",
         "highLow": "최고 13.5° / 최저 7.0°",
         "humidity": "99%",
-        "wind": "2.6 m/s",
+        "wind": "2.9 m/s",
         "rainChance": "20%",
-        "pm10": "87.3 μg/m³",
-        "pm25": "57.4 μg/m³",
+        "pm10": "88.5 μg/m³",
+        "pm25": "55.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "75",
-        "updatedAt": "2026-04-20 04:45"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-04-20 05:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
         "temperature": "11.5°C",
-        "feelsLike": "11.9°C",
+        "feelsLike": "11.6°C",
         "highLow": "최고 12.9° / 최저 4.9°",
         "humidity": "99%",
-        "wind": "0.4 m/s",
+        "wind": "2.6 m/s",
         "rainChance": "13%",
-        "pm10": "40.4 μg/m³",
-        "pm25": "27.9 μg/m³",
+        "pm10": "39.0 μg/m³",
+        "pm25": "26.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-04-20 04:45"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-04-20 05:15"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "이란 “미국과 2차 평화협상 거부”…해상봉쇄·과도한 요구에 불참",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXYyaGVBQTlJMW9NdmZvcVdUMmpEeW1pVUdSd2xvWEViX0hnV3VzZDBJQVRsbHltcU02RXloUUZjaGM1UFU5ZExESS1SSmZSNlZUaDFUeXd2YmFWck5YS2JzUTBJLTJUM0UwMnBJNWNUSlBMZ0ZYWnFfeDZROFNYRWRsdHdoZkV5dnFDS1hta1Fsd2R3Q3lsYTZOdGxYdFVjUWRpYjNycktuQ09oQlRwb1E0OS1LOVJU?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:25:59 GMT"
+      "title": "[오늘의 주요 일정] 울산(20일, 월)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ndmhkUTBCbHlyUEt6YUZTaDIydFpHREFBczRyNnliWTRSblNSNkJBVDlkQy1PVlRicFRHMjlhTW42d0dSQ3I1UE51TVJKTFRCc2c?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "재계 총수들 총출동…'세일즈 외교' 나섰다",
+      "title": "[오늘의 주요일정] 정치·정부 (20일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfWUJrUHpmTnRMeEh1VFdjdndDWDZ0MkhpVHNkOHJfQm05eUU0ZUFJRHIzQnlkOHdnakxadnczMmhUcWM3eU8zSF9oQ2otbmxjZF9F?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15MW9oODVZekc0MDRZbE1XaEZjc1hlb293R0FKaVdXTmVJSW9aY2V6UjBJMUwwSXM3TGV5NERpRzdqM09Wd3I3SjdiczhfT1BzU3puSkN6OW1mc2U0aDJ6MUdqQ0dTOWU3eFE?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
     },
     {
-      "title": "대구·경북 일부 5㎜ 미만 비…아침 10도·한낮 24도",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVp1VElDLW8xeWpQZ3dqTm5mY0I2YWc5Qjdnd05qUHhrbjNmelZQenpNZ0RNbHEzUTZ3MlZrdXFIc1VWQy1hSDlDS3Fpb2ktcHB4bmtYYnVQY2twekNYSjFsMkJsa1NFdS1NdDJqMGtXejhmb1d6d3lpaDdHS3E3UjB5WTNZS3FRR24zS0Q4bEJweG1fREExc1JnVlJpVlBoWlQ0ZTdzVjlGZ0F6RU9FcXgyalBObXE3?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:16:17 GMT"
+      "title": "[오늘의 주요 일정] 경기(20일, 월)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zZk45TE5nUkp5dTZDbE1pc2FpNzJ4SmYxVHV2R2p0djYybFd6VWt0Wmw2enc1MnltVFRYWTdyNG5vVXprZjJib3VGNEhSek8tQ3RjYW1B?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "'이란, 전쟁 재개 대비돼…바브엘만데브 등 분쟁지 될 것'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalFHSzYtSno2dVhCSXlyU2x6OFdtVTd0UHBqY3Z1V3RiVDJ1RkNCS3hZRnhPRUFyZGZ5dmRDS1c5dk5DUm43YWs0ZzJIOV9DSWlZRjdMSmRncTluVXEtSk5CUklnc0p6VVpYb0dSNU00Q0pvUDMzSTdrSXR4OU9sc1RJRUdOd3JaWGRoeUNGUFhTV1V1S3hwWnRNMXdMRnlabFMwci1GTW9vdGVfYTc1b2t2b3Z0ek9F?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:20:59 GMT"
-    },
-    {
-      "title": "인도와 조선·베트남과 원전…글로벌 사우스 외교 본격 가동",
+      "title": "[오늘의 주요 일정] 울산(20일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBY3BtRl91N1lJdC1DNkMyd1ZtREJmZW5NTGFzYWtqNzlaQXZ2UWZ5RldXc2pldzBYd1puTTJsSnVHb0NLZ05zVjd5UXEwVHpKWHUycUx1TnRYLUNXWV9PMHgwWGNnTVV2WHlmclhxMWtfUnQwY3FLQQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NV05iYXExd3dEdDJMY2tNaTFtZFY1Y1dySkM1MnRsOFh3N2NHRlpJdnZSaWV3dEJBc2FCcTJuNUFOQmszQUJXQlBfNkhIMFJPVl9yVjBOeWZNYVpqLTlvRw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "정청래 '李 정치고향' 성남 방문 따라다닌 김용",
+      "title": "[오늘의 주요일정] 전북(20일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNWYyaGptY3pLZVdKMzlhYV9FTTRhNzR0eVFSc3BmT2pDZ0otSUhIczBkTlBHRTBpaVBPak9LcktPWmNCMDBxd09hSEtVZ3RkRXRn?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKVFA1ZDd2cDQ4WEdzdDNpXzJYOGdHSjlTTTR5cDZtWDMyTDBCUE0xdVhRcEZCSFd3ZExQdUw2TEZSNndqVHdzNzhDRjZMWkd0dE1B?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
     },
     {
-      "title": "\"자…점점 더 작아집니다\" 빈틈 노리는 정수기 시장",
+      "title": "[오늘의 주요일정] 부산·경남(20일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0RkJOWjZ2ZGlmXzhPalNBakhsMDV3ME9iWDZEX19VdXNjVzVEOVFsOWcyTFBzQXZFYlVqV2FJZ0o5WnJES2VxREFTTEs0bXZsTlZua0lxa1psTjNnb3Z0Rg?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oRElRR0Z5TXQ0dFlZcDNjZlZMOEVPY3owT1Z2cWJ1V00xT3l6azgycjc5Rkg2Qmpfczl6WWFKOUN5M2h6bmR4bHBDbkRnOFBmRVZn?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "기존 치료제 넘어선 신약데이터 '속속'…AACR 빛낸 K바이오",
+      "title": "귀국하는 장동혁 대표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fcllzVkdINVFPTVlPdTJlRV9GemJURXhvejZ3UDhlZzlldzZhZnE5R0xDSUEzUVRmS05vTkE1Q0JvRDJXa0ZsTDUyYUtIYlBMdERR?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:11:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWGJSb1g4Zzh1Z1FoUnRxb0J6ZGxuVDkxSzVtNXBfOFV2dDJuSXduV1BkUlVEWGNhVzEyYUJnaHMwUGxjNE5td1pSZ1BuY0E0MjdZcXVBUGpfSDNVTEh4WFdrUHRaWHY5dTN0b1V3?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:57:00 GMT"
     },
     {
-      "title": "지선 앞두고 허가 급한데…재건축 시공사 선정 '발목'",
+      "title": "공항 도착한 김민수 최고위원",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tQWtnNmFseU1tVHJsMVJVdjR1TmljQUlFUWc5Z1UxcEswekNDS2RCTzVBcjFkNG9jYU1vTWtGNmtKQWRrVG1HRWlZRVBoQWlTTHZr?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhcDU3ODBUNjAzcjU3WmhST3pNaVZ5ZDJMV0UwNDVPZlpJSjgxek42d2F5eVFmbGZzV1ozTEpJMElIcC1QbTB3SXFiZG9YcGwwMEF3?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 19:57:00 GMT"
     },
     {
-      "title": "코스피 6400 넘나…하이닉스에 쏠린 눈",
+      "title": "[오늘의 주요일정] 충북·세종(20일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ubnVwX2pVazZIblpsV3Q5eC1RamZQQ2NFTVhwSHNHUTUzTWdLLVVYV283bFlBU05EMXJHMUhFbDZfWV8xeUk4dzhQb0pIQlRKN1hB?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 19:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40LVhYQ1cyYmpEd21TR2RIaElUTW5nOGhzWmJRZThFU2l1UF8zRXBDMEdkanB0bUNlUl9Ec3Bqak9LSDU4YVpnM0ZoRmN2Zk02T3hJ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:01:00 GMT"
+    },
+    {
+      "title": "[속보] 트럼프 \"미국 해상봉쇄 돌파하려던 이란 화물선 나포\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51ZVloWjBzeFpwVjA1NHpkbU1TWmVhNEg0R3N2bm5fenU4Tm1CM2lrOGFoNmdLRHdSUmRzSzh1WE96cEdNYnowbExiYktiX251aHBNOTF3bGJobDFCNFVwVg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
     }
   ],
   "sources": [
