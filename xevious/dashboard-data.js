@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-19T19:12:37.890795+09:00",
+  "generatedAt": "2026-04-19T19:59:39.138992+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "19.4°C",
-        "feelsLike": "19.4°C",
-        "highLow": "최고 24.4° / 최저 10.3°",
-        "humidity": "61%",
-        "wind": "3.3 m/s",
+        "temperature": "17.9°C",
+        "feelsLike": "18.0°C",
+        "highLow": "최고 25.7° / 최저 10.3°",
+        "humidity": "70%",
+        "wind": "4.1 m/s",
         "rainChance": "0%",
-        "pm10": "61.5 μg/m³",
-        "pm25": "26.7 μg/m³",
+        "pm10": "65.2 μg/m³",
+        "pm25": "31.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "71",
-        "updatedAt": "2026-04-19 19:00"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-04-19 19:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "15.4°C",
-        "feelsLike": "15.7°C",
+        "temperature": "13.6°C",
+        "feelsLike": "13.4°C",
         "highLow": "최고 23.5° / 최저 10.7°",
-        "humidity": "88%",
-        "wind": "5.9 m/s",
+        "humidity": "93%",
+        "wind": "6.6 m/s",
         "rainChance": "0%",
-        "pm10": "35.7 μg/m³",
-        "pm25": "23.1 μg/m³",
+        "pm10": "27.8 μg/m³",
+        "pm25": "18.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "39",
-        "updatedAt": "2026-04-19 19:00"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-19 19:45"
       }
     ]
   },
@@ -105,7 +105,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "양천구",
         "stationName": "SK에너지(주) 경인주유소",
         "address": "서울 양천구 국회대로 170 (신정동)",
-        "updatedAt": "2026-04-19 07:59:03",
+        "updatedAt": "2026-04-19 17:59:45",
         "districtSamples": [
           {
             "district": "양천구",
@@ -116,15 +116,15 @@ window.DASHBOARD_DATA = {
             "price": "1,967원/L"
           },
           {
-            "district": "금천구",
-            "price": "1,967원/L"
-          },
-          {
             "district": "강서구",
             "price": "1,968원/L"
           },
           {
             "district": "구로구",
+            "price": "1,969원/L"
+          },
+          {
+            "district": "영등포구",
             "price": "1,969원/L"
           }
         ]
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[르포] '미·이란 1차 협상장' 세레나 호텔 '곧 2차 회담 열린다'",
+      "title": "4월 19일 MBN 뉴스센터 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rOENjQV84Y1dBbXRyZWliNGFiN3dfMGFEWldXdWtrOG9BN21xUWp0M0d5MlNscHNxOWlEaVd5WHItZkI2c1ZyX0VXVkp3d0dfd3pv?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 10:37:04 GMT"
+    },
+    {
+      "title": "구윤철 만난 IMF 총재 '한국 재정여력 충분히 갖춰'(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNVZfalpqMklNT3RPM25JbEhVelVfdzNWZlpqUDRpNU0zR2FUVTBYQUYtSF9sMkxMSFdIZHoyLW02RWVxenM3QUg0Zzc5MGp3Q1R4alhpRjhpZkFsOE9JYWlfWk5OdEUzYUVDTEZUWEM3WHU2by1hY1FYdVhhc2l2ZzBVUE5VcmNYTjcwbE5BeUJLdjRLNnZGWnpCSTNYZ1ZFVE11VTRlYVhmaU5IV2EwaE4zZm9wcy1S?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:10:06 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYlI3NFBJbDItaTUtcDBpbWEydEJZdTN5cVB2Wm5wTXlneEZWUHVicFBjc2ZQOEc1N3VsZFFyQksyMVB3RW9hdXcyXzR1VnV6TW42YjlJTmR2bktPSGUtNFhCQjEtQXRoZ2dEazRVTTJ3ajZtZWpQTVZlUWg0eEpTdmlRNkZxaEdDbHpvaVpXd09NRTZtMlZKOENLOE9EWXgzMTBrUjBTa2MzMzREUHBLODhpVGN6MS03?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 10:05:05 GMT"
     },
     {
-      "title": "[청년골프] 오경은, KLPGA ‘넥센 · 세인트나인 Masters 2026’ 그린을 향해",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2aFE2eHNxTkdrVXVJeW8yWk9GWTdWQXJyak9xRVc3Y1pvMy1BdHpNQjBqYVZCVllsRzhtVk4yVnRWY2xXNU1aWURWeTk2TWVWZm40T1Zuc0lpV3ViMHhDZlNNQWt5bVlOVlE?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 09:51:27 GMT"
-    },
-    {
-      "title": "\"과학축제, 국민이 고른다\"…AI·로봇 체험 총출동",
+      "title": "부산 에코델타시티 세 번째 푸르지오 '트레파크'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ScE10N1R5UTVnWThVaGIyTDVneUtWNGZVMjdfVDFEbU1CZG9zSjh3d2Z2Q08yZy1hWjhCcFFYc0dYd3NWWVRLN2VBS1pLUFljbXdJ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14MU1XOHEtbkVvWHdMZFV3VU5iOS1JSTBsTFIxWWtZd2JiVlBuNldVWUpyYUVaVUZpaGJ3WGhMT0R1cUZraW1LU0VYZ0dvcXVpYTBjWUI2Z0I3X2FUM21DMXBpTzhTNjBSSnNFSDlyaEk0dzVXMWZ1UQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 10:53:00 GMT"
     },
     {
-      "title": "이천시 마장면 새마을남·녀지도자협의회, 새봄맞이 아름다운 마을 가꾸기 행사",
-      "source": "하나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GaUthLTNCREsxUnlVMkx5NURKZGpJOWpBek5TQ1ZMOGhzVFM0cDdid1pkTmlKZnJGdzFTeG5mUWJTSXhxUDZhbTZyeGYwTURDRU9neGR4RGQ4WTNyb25Oc1JqMWdvMV9xSHBKWg?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 09:50:31 GMT"
-    },
-    {
-      "title": "구윤철 만난 IMF 총재 \"한국 재정여력 충분히 갖춰\"(종합)",
+      "title": "\"전쟁 반대\"…트럼프 맞서 좌파 정상들 결집",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IQ1FaSy1qUnFLaV9IWjJVT3ZvQVA0Nk9Oem0wMFpjOVRzdEVHMUI3aHpWcm9RUUtnLXcxd2JIbVpzZm1RM0VmWDZGcUdUdk9xYzA4?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 09:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kYmpCZUwyYUdBRzd6TlRUWlFCRi01NnJUdlRGSGs0VjR0Vjk0NTQ3Zi16ZHBZWnN0RGVpY2N5OUNmZUtGZUs4M2U2MGlhLUJfYUU0?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 10:47:00 GMT"
     },
     {
-      "title": "충남교육청, 수업 나눔 전문가 역량강화 배움자리 실시",
-      "source": "하나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZaDJxRG5QS0FaV2Q5M3A5ZnlUSkNkZDhJNmd4TUNDWmRmbUV2cHBVOTB2QW1BYjZhY2s3cnBmYjhLR21mckowVzVFNUFPOVRpbnNReUFjZkhZLWF3SUlobzZUYjhrNDFnNnZYcw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 09:49:13 GMT"
-    },
-    {
-      "title": "\"이젠 공무원이 AI 만든다\"…과기정통부, 에이전트 직접 개발",
+      "title": "최고 44층…울산 '힐스테이트 선암호수공원'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CTUc1ZkxpVEZzUS1vZHNwdlJEOWpkdFFmWU5FN2hiX3hMVHRteVkzQkNWWExUc2Ntb3lSQURlekpoV1R5bkgyckR1OURCQktmY1Jz?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 09:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xQzU5YzVUcjVHZXZMU2VmclFscEQtQ0JWcktxemVURDdpNGZzU19yZ085NnpnS0N0N3IyTndaRkZYcHQxVXBqSGJaaTkySnJidWw0?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 10:53:00 GMT"
     },
     {
-      "title": "충남 축제의 매력 전국에 알렸다",
-      "source": "하나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vZ2F3a1YycExOaFdvcGZrUXRELVV4c1pIM3hfZ3NWbnJDWGJwN294ZjZHVUJJb1JjR05IajN5dUhlYlRUbEJrMW1qRTljTDAxUC0zNERxWUZ0TVladklZcUp5eHpBd3BDQ1FFMw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 09:47:27 GMT"
-    },
-    {
-      "title": "[포토]에브라와 함께 기자회견 나선 박지성",
+      "title": "[포토] '반데사르 고생이 많네' 신세계",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iTk14S09XX2VORmNNd3pwb1MwZV9CbVN1VXlqVjQyUXlBMGZ5bmU3M2RYcWcySGlfc0JiR19EVl9zZ3pPa1dVY1M5TlpmX09aTEcya0xB?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 09:41:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aUTVtVzdIZjZvUkhNVDZ5azJmQUs1Y1B4TG4zQ2g0cWdnRlhNelJncW9DNGpfaDJyWmM1M0ttcjcySEpyZVVIY3NHLXRCWlRsdkRPdGR3bDByaDJ3ZVJsOTJZNkFfYzlDT1ZlUEktX0Ezb0lfWUZaSQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 10:51:00 GMT"
     },
     {
-      "title": "여, 수도권 유세에 김용 동행…오세훈 \"장동혁 자리 없다\"",
+      "title": "이스라엘군 \"휴전 파기 시 이란 에너지시설 등 새 타깃 공격\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aaHV6THFJT2JSWERFVWdzaXFfWGFxaUlzVms2Y290eDJfY25CUWdiZ1lUT2RNNFpJeWdRZWVVd2ZsVWs3TWNTVmlQYW9HMXR6NlpJ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 09:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10T29hdEZCVzZtMnlxWDlRZlpqTTlnYUIwdzdzYzdyZGQzdVZuMTIwWVg5RTNYb2RKWUJjcmd1UHFGaHJXSzE5R2lZY19EVjJkMVdF?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 10:47:00 GMT"
+    },
+    {
+      "title": "[포토] '팬서비스는 우리가 최고지' 반데사르",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kVGFSbEFLaUFibGV6Sl9GekdYUXlpWUl3ckV5Tm4zWjNIOHhHOG1KcGxFZnF4OGx4WWdhQ0R3ZjNsSmdPUUYweldPVWM5SkVwcTlMYzJuMkdWSjUx?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 10:48:00 GMT"
+    },
+    {
+      "title": "인천계양 A9블록 신혼희망타운 317가구 모집",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GZk1kRDFPSGFxNkVpVy1ER25sdmpUek4tNXhBTERvM0tQX0dJU0EtYkRSUmNnQm1UWmxTaGI4V2Q3LXZkT184bF96WHhQR1FlZTFv?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 10:53:00 GMT"
+    },
+    {
+      "title": "이 대통령 '특별감찰관' 추천 재요청…확고한 의지 표명",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwdVFZNzZJeUVwZWF2UHVfcWM1NW95SlkyTlVaZkxFUzRRQ0RkbkZhcmE4b2ZkNG9tU0VwWHJEeTQ2TENPUjJYYktkaHpHZHhNNi1n?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 10:26:00 GMT"
     }
   ],
   "sources": [
