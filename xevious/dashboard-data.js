@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-20T06:01:37.455234+09:00",
+  "generatedAt": "2026-04-20T06:34:15.617168+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,7 +48,7 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1100",
+      "value": "1,467.1092",
       "change": "+0.07",
       "changePercent": "+0.00%",
       "direction": "up",
@@ -56,11 +56,11 @@ window.DASHBOARD_DATA = {
     },
     {
       "label": "100엔/원",
-      "value": "929.80",
-      "change": "+1.80",
-      "changePercent": "+0.19%",
+      "value": "929.30",
+      "change": "+1.30",
+      "changePercent": "+0.14%",
       "direction": "up",
-      "updatedAt": "2026-04-20 05:46"
+      "updatedAt": "2026-04-20 06:28"
     }
   ],
   "weather": {
@@ -68,17 +68,17 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "8.3°C",
-        "feelsLike": "7.5°C",
+        "temperature": "8.2°C",
+        "feelsLike": "7.3°C",
         "highLow": "최고 13.5° / 최저 7.0°",
         "humidity": "99%",
-        "wind": "2.6 m/s",
+        "wind": "2.8 m/s",
         "rainChance": "20%",
-        "pm10": "88.5 μg/m³",
-        "pm25": "55.5 μg/m³",
+        "pm10": "86.1 μg/m³",
+        "pm25": "54.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "76",
-        "updatedAt": "2026-04-20 05:45"
+        "updatedAt": "2026-04-20 06:15"
       },
       {
         "location": "익산",
@@ -87,13 +87,13 @@ window.DASHBOARD_DATA = {
         "feelsLike": "11.3°C",
         "highLow": "최고 12.9° / 최저 4.9°",
         "humidity": "99%",
-        "wind": "4.8 m/s",
+        "wind": "4.9 m/s",
         "rainChance": "13%",
-        "pm10": "39.0 μg/m³",
-        "pm25": "26.5 μg/m³",
+        "pm10": "38.6 μg/m³",
+        "pm25": "25.8 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "48",
-        "updatedAt": "2026-04-20 05:45"
+        "updatedAt": "2026-04-20 06:15"
       }
     ]
   },
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-19 18:09:05",
+        "stationName": "KH에너지㈜직영 에이원주유소",
+        "address": "인천 계양구 벌말로 583 (하야동)",
+        "updatedAt": "2026-04-19 12:51:56",
         "districtSamples": [
           {
             "district": "계양구",
@@ -161,15 +161,15 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "익산 최저가",
-        "lowestPrice": "1,929원/L",
+        "lowestPrice": "1,959원/L",
         "lowestDistrict": "익산시",
-        "stationName": "오일스타㈜익산지점 착한8주유소",
-        "address": "전북 익산시 용동면 익산대로 2538",
-        "updatedAt": "2026-04-19 07:39:44",
+        "stationName": "㈜한영 성북지점",
+        "address": "전북 익산시 망성면 익산대로 2802",
+        "updatedAt": "2026-04-19 08:42:11",
         "districtSamples": [
           {
             "district": "익산시",
-            "price": "1,929원/L"
+            "price": "1,959원/L"
           }
         ]
       }
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[카드뉴스] 은퇴 후 투자, '국민성장펀드' 궁금증 정리",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Z2VudGFMaE9KYm5RdWVmRjJjQnkzM2EtSnFnaGlVZllycHgwSS1vSVZDLTZXYlEtOWtKZ0pVVng1VzBMUnBsLURxY3pxMFdUVUM1clhJd091QQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 21:00:00 GMT"
+      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pRnZmVkpXeWlDSVY1dllGeGtrY2VfTlpnUlo2OE9laExIc3Y0TFdkLW4tcGl2blZxTVpqRmhLUHdPQzQzYWdGZVVQR180OUJmbzZpeTlPdjlMNUFjS2xFTG5LcWZGazRwc1HSAWZBVV95cUxQYVp1VTdYYktycTk3SWFUaGhKWWdjVUc2cC1wSy1hTl9EMUpJT0NuV081ckM5SFM3S3Y1RHRpZklVd2VTeFBIMjQ1czNYOFYyZXg3OVhVaGVfSVF1alo2YWZqSmtBVWc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:04:00 GMT"
     },
     {
-      "title": "‘전쟁범죄’, ‘유류값’, ‘장거리 양자 자기 측정법’",
-      "source": "뉴스톱",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zNncwUVJBZUR2NFFUU1Z3RHdqZ1JzVTc1RmZIcFRnazRQRThvUlVfQTYyVlF0NVpJVDlQeGdzdnk1TG81akZsZHNjUG1LU1VBdjNzbjhCOW9zc1lpVG8xNVJjeFRia005SlY0Rmg5cw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:47:23 GMT"
+      "title": "[26년 4월 20일(월)] 삼전·하닉 또 '폭락'은 아니겠지…구글 터보퀀트, ICLR 검증 앞두고 촉각 - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ2p5Q1didjhwd0tvMkNVR0JYQVJtckhzWVVTRXFmeU5HVEwyNm10MjF1SUg5UnFXSEVnV1VWT2Q5aTZ6WWFWYjltczFxU2p5SjZZV05lQTAxRjRJakFJUnpDN1hKZ0lPazFISm9KU1BwcjduNTBfd1hmMnFVTkVTeg?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:32:41 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 정치·정부 (20일, 월)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15MW9oODVZekc0MDRZbE1XaEZjc1hlb293R0FKaVdXTmVJSW9aY2V6UjBJMUwwSXM3TGV5NERpRzdqM09Wd3I3SjdiczhfT1BzU3puSkN6OW1mc2U0aDJ6MUdqQ0dTOWU3eFE?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
+      "title": "이란 \"2차 회담 사실 아냐‥전쟁 가능성 높아\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YWjFCZEtjSF9nMENIUThSLW15Z1J5T0Q2V2tzQ1ZIdFNSbF9OYzRhSnNoSjNNQ3JkOENFb1dRQzlURDZMRERnemRFdXB4VUpJdmJlV01Hc0VuaEZqdko3aldpdmUtX2JhZk5hMEh4YXpJZllMMXQzWERB0gF6QVVfeXFMTXRtNDZMUi0tYWwzYXRlNkFZd1RrSGVfZGtBaGtHaWVsOVMzSTdFVUlPNUVkcWJjc3JaU3FXSlpQZGxLWWhLX0ZOZVhSM1lFWkh3T0l0X0cwNDlhdEtZUGxKcS10QmdHQ0toZEFHdnVoRExaV1c2bHpJZXc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:06:47 GMT"
     },
     {
-      "title": "진주시, 안전 취약시설 84곳 집중 안전점검",
+      "title": "울산시, 기후변화주간 운영…22일 '전국 동시 소등' 참여",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzRMSFdaOFlvdnVSd0Npek43Mk5iejVZbllQVnBjWGNWaDJFYm5rU3FPRVh0dUpWX1c5a2FDdmpwX09udC15ZjlQc0RIR1FINWNteVY5ZkVpN2VxM3lvYTlDOERWQlMzUGhlRThyS1NqS1pNZ3dLMmc5dVFzMTAtb21hUkUxZ0dCbGhLSDR1TW8xTjZ5dE9aNFdVMHNJNUdReGhmZk53TExnbHdQM3NvOHFlRXZJSTg?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:36:43 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTZkQ253Tm5vVktwWi1GaDBEdlRtNXBmbTBhdDJPV0NMOGlDT2ZTNHFiaXlodXE5SmJMb0h3QXNYUk80NHJNYngteWkyenhZZTFxZ2dNa053d1NsUDdFTzdJUGVWVjNzd01zcEtNaUpLd3pUTjl6WHlrM3FQR2EtM0hScDdYbm1fVGxOMm1mWm9mNjlXUnZiSm9hQVRxT1lncHlJZXpsNi1vdjc3ZWhXcXpWelJnUnFha3c?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:07:21 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 경기(20일, 월)",
+      "title": "\"제발 쏘지 마\" 3번 무전‥급히 해협 탈출",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxLTM2a09ISEJ4TmNIUUdMWGo1NFAtWm9IaHVEOEJ5TWJnMDl5X1V1RngyUXgxZkFSdXdOYUx3SFRQbjFEc2ZlbUo4YU9xVUw1M2dQakIzYnBTaXZ4ZndFdFhTZGpfWFdWM0c5bGRTZFRyVnFoWHFnU0V30gF6QVVfeXFMT2dfT1VBUGZOUFhqOE1RUGlfMjYyZG5Xb2lsd3FBc2IwckpVRTlpcVIzb0pJbTdOVWNFbWtLb1FUcnJtYTRlTlY5ODhQbG1rOU9wMUpqTVFXR3Jyd20zTTRZdGo0UFlkNGZZSTJncmVIbjFDMnNqQmwydkE?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:11:23 GMT"
+    },
+    {
+      "title": "\"울산만 남았다\"? 정부 특별법, 석화 구조조정 '최후통첩'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GZk9VSFJmZ0pPX2RsdWF0TFF4NEV1dFlaUEMxVGc1Tml6UTZwZTZhY2lxWmhrQXM1UWRCUHhZcDBqLVhZVmc5bGJVQ2pld3R1cnp3?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VZ0dtRWk0bXVzQ0VWVXdLQXBHVmpwdjNiVTZxcFU2alk1S1FoM2RlUjh0dmNQQUs3Sjl4TThsNk9MVjlRTnloWjFuendXbFY2YUdj?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:21:00 GMT"
     },
     {
-      "title": "[심층] 은행업, 머니무브 우려 과도...견조한 이익 성장 지속",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTNtMlZJRXZwa2hsZ21penZTYVBNSW5tNWQ1WVlHZ2NqbEdyeE9Damx3MEF0VmRqZmxyX2VZWnhmR1VkRjBQNmd2RGFUek1WdE1VVjE5emU0TWtwUmY3ZHFyTkl2a1I3cG9lc2RzeExpaUF4d1VoMGdTVTRMNnA1R0pyeDF1YVRxZ1ppNWYyZms0clNpUll2VFdyTW0tc2puaU1qSTRNaFlBN3BEMHBLTmd2Rzhrb2tyVmc?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:05:42 GMT"
+      "title": "파키스탄 중재 총력‥'핵-호르무즈' 빅딜 될까",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CRG1CREJtbEJCamZOX2ZQSHJEMkxGZG1xR1dIVmt4WFExeENjTmNRTnNscVQ4bFhPbUVXZDh4TWp5SDlHeHh4OUZteUlLYnJsOWJUZEV4dTV6cHNBdVVvcmF3bXo0Mm5KcFd5Y1ZaVHR2alJXZ3B2TE5R0gF6QVVfeXFMT3FiT3BqZnBkYmloZTdmMEhMTC1lOXcycXlic3MxRTRYVGlYZXU3aFNPTUFLU3loSmw3SWtrYTFGaUJrdmJEbjZTOE1GTUpZZWt5aFJZcnRLcHZNcXlWeGVOYlZqTDFuMV9PYjRtUE5xUm9NQTUxbllYS3c?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 21:09:55 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 전북(20일, 월)",
+      "title": "완도 '순직사고 소방합동조사단' 오늘 활동 개시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKVFA1ZDd2cDQ4WEdzdDNpXzJYOGdHSjlTTTR5cDZtWDMyTDBCUE0xdVhRcEZCSFd3ZExQdUw2TEZSNndqVHdzNzhDRjZMWkd0dE1B?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81b2s2cW95UjMta2ZiSTVpclNkdUFGZ1lMTUdvZFdaR3dKRGRwOGk1Z1hSdXEzX2VyRmFRUHlrbUlnRDZ0Xy1NZEszRGRITjZGdW1v?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:57:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 대전·충남(20일, 월)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZDNjTlhBTjdCV2FZWndNcEdmUkl6STdfd2RGVjF2SzFSeVpvU2tBd2RBanFVWWk5TVd4aUdDYzBERVdGcVFSRWV5OC1mS1RfM29v?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:02:00 GMT"
+      "title": "\"이란, 전쟁 재개 대비‥홍해 등 분쟁지 될 것\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MQUh1SzdpSkdNWXpMZTFReXFySS1rVUFCa3VuYjRPN21hRmlPamViSEtNX1hwMFc5UEF1QkxuR3FzX1JwSjZoTjlBcy1oM2Z5aTc5MklaNktVUEJuZXRrV0ZTYU9uMXRiYVRaeEFuMHR5TDhR0gF0QVVfeXFMUDlKTjRJY2stUzZ1cDdDakQwMjdSRXliMkFVdFF6cFlyMHhjZC1Md1FsLTVLeWk2Q25wMGNZNlpaRzM4ZDladjhCUVkwOUsxZ1R6NjRWSU5obnpHdFhDb3BqLUx1VFM3Um5BRlBuNXVmRnpKMko?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:37:59 GMT"
     },
     {
-      "title": "\"美루이지애나서 총격사건…1~14세 8명 사망\"",
+      "title": "'아차' 하면 6만원 날아간다…오늘부터 우회전 집중단속",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UclZTMmtLWkE1b1c4RnN5b05SYS0zcE5xQ1VfcXJYYkpzS1V5VjhDWEJCWXJ1Wkg0dDM1M0dTV1FGVVVTcWxPY0J5QWNYR3czOE53?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:47:00 GMT"
-    },
-    {
-      "title": "정청래, 오늘 '장동혁 지역구' 충남 보령서 최고위…박수현 동행",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pX2VxejZZd2xoU0hadGp5ZzZhYkF2NnFnUVUyQV9kUmt3MVEteFNnM3Z2TWw4SnlWN3plVVdCWTFSVXNGSFdWbHhwak1CbmV6bGtr?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 20:39:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR1puMEFiN1pkbkFqNlVQNkpkWlB2VW5pcHU2MDYzNmxXbHFzWFJPVzgyWkF1TUJ4XzFqcGx3UGNNVUVJMVB5M2t1bEJqYW11aGRNSl9WcVlTVU8ycDVIbHVTZkY1MXVWNURQLWdfR3hiaUNrTWRDSTdfVDZNLUMxNGpB?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 20:51:00 GMT"
     }
   ],
   "sources": [
