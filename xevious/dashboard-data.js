@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-19T20:37:03.427469+09:00",
+  "generatedAt": "2026-04-19T21:01:23.442362+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -56,11 +56,11 @@ window.DASHBOARD_DATA = {
     },
     {
       "label": "100엔/원",
-      "value": "927.69",
-      "change": "-0.31",
+      "value": "924.73",
+      "change": "-0.27",
       "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-04-19 20:31"
+      "updatedAt": "2026-04-19 20:59"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "16.1°C",
-        "feelsLike": "16.2°C",
+        "temperature": "15.5°C",
+        "feelsLike": "15.6°C",
         "highLow": "최고 25.7° / 최저 10.3°",
-        "humidity": "77%",
-        "wind": "4.0 m/s",
+        "humidity": "79%",
+        "wind": "3.7 m/s",
         "rainChance": "0%",
         "pm10": "67.1 μg/m³",
         "pm25": "36.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "70",
-        "updatedAt": "2026-04-19 20:30"
+        "updatedAt": "2026-04-19 20:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.9°C",
-        "feelsLike": "12.8°C",
+        "temperature": "12.7°C",
+        "feelsLike": "12.7°C",
         "highLow": "최고 23.5° / 최저 10.7°",
-        "humidity": "96%",
-        "wind": "5.9 m/s",
+        "humidity": "97%",
+        "wind": "5.4 m/s",
         "rainChance": "0%",
         "pm10": "32.7 μg/m³",
         "pm25": "22.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "38",
-        "updatedAt": "2026-04-19 20:30"
+        "updatedAt": "2026-04-19 20:45"
       }
     ]
   },
@@ -177,10 +177,10 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "4월 19일 MBN 뉴스센터 주요뉴스",
+      "title": "이재명 대통령 '韓정상 8년만' 인도 국빈 방문",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rOENjQV84Y1dBbXRyZWliNGFiN3dfMGFEWldXdWtrOG9BN21xUWp0M0d5MlNscHNxOWlEaVd5WHItZkI2c1ZyX0VXVkp3d0dfd3pv?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 10:37:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52cGMwWlhnak5wSW5RejFFa2x4Y1MzYmd5RW12MzlrdnI1NHhVU0toRno1V3NocDVQdTdWVFNaUDF5ZDVWcEx0NjBBRUdNMElYTlFvXy15bHR6ZVlnZ0htTQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:44:00 GMT"
     },
     {
       "title": "구윤철, 美 재무장관과 회동…환율·대미투자·핵심광물 협력 논의",
@@ -189,52 +189,52 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sun, 19 Apr 2026 11:15:00 GMT"
     },
     {
+      "title": "\"지역출생 청년인구 잔류율 1위 경기도·2위 제주도\"",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBubFRFWHNNR0dSN2NYVXVxVUVFRFJ6YVpmX21Fd0loV3NKR2ZvX2VnWVR2VTV6NjJTbFVqZm9ZRHBkR1NJeTJha1Q5bll2ZWpkbjZFRWY1WUczSDZRZXdOeHF1NFlzd2dHZU1Z?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:05:45 GMT"
+    },
+    {
+      "title": "인도 국빈 방문한 이재명 대통령-김혜경 여사",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwaWFiNzNXcW5BY20tbFJmUG8xUGlER1JLd0VEZG1tOGRmTWFCS21tMnhyVVozdHQ1X0M3NVlQb1JFZ2JNN0JlODB3a0JIU3A2cGdn?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:45:00 GMT"
+    },
+    {
+      "title": "한미 재무수장 '원화 과도한 변동성 바람직하지 않아' 공감대",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3lHTkdyVFVvd1E2MC1VVkIzRm1aMkhlSzJPNDIwaEszSmxMeVVWRHJZMDdkM0JzMTJFNmRFZHd1VWlNZmlZUjVzM0FjUXA1ZUhHMldSMHZSTVhoZjdhM3JoS0ZLVW5XSGJpa0RpM1k3Qlp4RFJ0VHlXUG56Vm9obmJhYXhvdWpHMTFxRDI2OVprOEwySERIaThBZmd5TzhmV1NOWVl6dzc1M0Vhd0dsYlRxUnBfSzU2d0E?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:05:45 GMT"
+    },
+    {
+      "title": "한병도, 李 '특별감찰관 추천' 요청에 \"신속히 절차 밟을 것\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dUdZNXY0UWp4ZEFMU3gtS1I2aXlGeXpERFRJRFUyLXRJYmpFOGVHYy12eEZmRFBtX2p6TjhEVUhKYWg2M3NVSkVfdnBVUFhrN0JV?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:52:00 GMT"
+    },
+    {
+      "title": "전국민 창업 도전 '모두의 창업' 25일만에 1만명 돌파",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GZUFpT0ZyMy1HcHJtRFVCX0k0R2VFRTc5VnpVYnNqY0VaTFNVdkZmZWhnbkZ0TG1sTGxjbzZXb0RKVmt3NWtMaE9OTTJCZC1FdTA5cUtFRHg3eXQtd2lFWA?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:48:00 GMT"
+    },
+    {
+      "title": "李대통령, 인도·베트남 순방 시작…내일 모디 총리와 정상회담",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zY0o0NVRTMnNic3FONGcxN2gyVUxUVlZ2OGlzNDhQckVsM2FBeVktNnBoNENKazVhTmsyLVNkTlZ3Nm9nbHk2X25HUVJfRFNpc053?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:47:00 GMT"
+    },
+    {
+      "title": "영접 인사와 인사하는 이재명 대통령",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlX2RrbjByZkYzVFlMNEZfbnAwRFcydEtWaWh2ZF9iQXAzS2t6cGg2TzNQOE9qbzdCMFlHWnZMNFZVUzZpVFFtdUZodmNUTjJNUXN3dk5zWUQ3d3g0Y0xoRA?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 11:44:00 GMT"
+    },
+    {
       "title": "'196㎝'의 공중제비[포토뉴스]",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44NjJYT2tMcTYxYW5uOFlBa3VFYzFKaVlLZDBUSml3S2MxdlliQ1dQVENwNjc4Y3ZRZmw0Sk1FeURVZ3lKN2pYZEN1NlZ1MWRGT1A0V2RoelVXTFpZck5BWm54X0w3Q1NGTUh2RkdLODZPRXJLWVl6eA?oc=5",
       "publishedAt": "Sun, 19 Apr 2026 11:26:00 GMT"
-    },
-    {
-      "title": "[속보] 李대통령, 인도 도착…내일 모디 총리와 정상회담",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IUm01RzBJSTk4VU15WEYzNmtYTndSc3JHa0dGOWFuLU90VEo3NVZEWkoxcC1vQWllLXdidUg3ZGJyTE1ZWlZ1cjBvSEs2ckVYR0R3?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:19:05 GMT"
-    },
-    {
-      "title": "'수급 불안' 비료…사재기 대신 이참에 다이어트 하시죠",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTWw0TjZnMGJGdXRTZEw5RWh5OEVQbUxDa1hIUWlqcm5GeVFrUE9XLUZZdFMzWHVqcVhjU1ZVT2lFaXJuWDRxRTJtMkNhMHljODF2bXBjWEY4Mm1SRElPZWxPaWVuMjhDUU16SlRkTWo3blpsZTJnWg?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:33:00 GMT"
-    },
-    {
-      "title": "일본 잡은 매운맛, 다음엔 너구리다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05ZVNyV2FTTzdKZzVJRHZzQ2R4bHpRbVRJOVhyWW5aU0tHeWlXVTYzWFBXZVhXUjJSdnNkN1QtTFphc2U2d2FqV2ZnS0R2YTA0TkhxNUhvRmhwbGpaQWQ3bDJ4RTBDOVlIUkxtWThDSVZGQjVEa2w1cg?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:33:00 GMT"
-    },
-    {
-      "title": "[포토] '다치지말고' 서정원감독",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dzlGTDYyWlhjeWdFSXRYNXl4azF3NkR4UUlUQnl1ck1BVW41eXNiSlQ3UzFMcDhZX2Q2SzZNWGlRbHZJbW9BOWFaa2VFeGltd3J4VS1iWGdwOEdUclEtaUtNUEJtS3hiOTBHdGJZQ1JKSWZpNF9yUg?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:22:00 GMT"
-    },
-    {
-      "title": "오일머니 끊기나…LIV 골프 '흔들'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHN1A5WlFwaW5JZ1JsVnA0RGx1bWV1ZEYtTTJIZGZkNVZ1R0RMemx5b3BjNVZudlF6OGpsTjZMRjlOWUx2eWZsUEJ0aFlDZk95dmtFTUFWWmM1OFhEZFVtdVBfUmVfRGNlUTk4QkVBOG9YaUJ4aS1Obw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:22:00 GMT"
-    },
-    {
-      "title": "'약물 운전 혐의' 타이거 우즈, 스위스서 심리 치료 중",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQcVNBV1FFUS1XRmVMLVhmdkVZcmVhelNXWEhKZFhUekdjS0dYSzVaaloyMU1GWmtHYnhsbzBWenVhUUFzSWdzQ1dmSDhzd25LN29R?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:25:00 GMT"
-    },
-    {
-      "title": "한미 재무수장 \"원화 과도한 변동성 바람직하지 않아\" 공감대",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qVHp3cDRKZmhBczUwZC1wdURodS1wejV2V1FCRnp5dTlCLWw0QzFEdmFCX2RxM2hualJFcVBvZWFpcFBOYThWYl81b0ZxYzRkVVNlZzdueGFfMVJTemFHWQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 11:00:00 GMT"
     }
   ],
   "sources": [
