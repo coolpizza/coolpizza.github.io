@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-21T00:54:25.270931+09:00",
+  "generatedAt": "2026-04-21T01:48:52.587645+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,411.31",
-      "change": "-36.12",
-      "changePercent": "-0.07%",
+      "value": "49,363.79",
+      "change": "-83.64",
+      "changePercent": "-0.17%",
       "direction": "down",
-      "updatedAt": "2026-04-21 00:48"
+      "updatedAt": "2026-04-21 01:46"
     },
     {
       "label": "S&P 500",
-      "value": "7,101.19",
-      "change": "-24.87",
+      "value": "7,101.21",
+      "change": "-24.85",
       "changePercent": "-0.35%",
       "direction": "down",
-      "updatedAt": "2026-04-21 00:49"
+      "updatedAt": "2026-04-21 01:45"
     },
     {
       "label": "나스닥",
-      "value": "24,323.57",
-      "change": "-144.91",
-      "changePercent": "-0.59%",
+      "value": "24,347.35",
+      "change": "-121.13",
+      "changePercent": "-0.50%",
       "direction": "down",
-      "updatedAt": "2026-04-21 00:48"
+      "updatedAt": "2026-04-21 01:46"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,470.2393",
-      "change": "+4.09",
-      "changePercent": "+0.28%",
+      "value": "1,472.3100",
+      "change": "+6.16",
+      "changePercent": "+0.42%",
       "direction": "up",
-      "updatedAt": "2026-04-21 00:45"
+      "updatedAt": "2026-04-21 01:37"
     },
     {
       "label": "100엔/원",
-      "value": "926.84",
-      "change": "+5.84",
-      "changePercent": "+0.63%",
+      "value": "927.93",
+      "change": "+0.93",
+      "changePercent": "+0.10%",
       "direction": "up",
-      "updatedAt": "2026-04-21 00:43"
+      "updatedAt": "2026-04-21 01:32"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "6.2°C",
-        "feelsLike": "3.5°C",
+        "temperature": "5.6°C",
+        "feelsLike": "3.0°C",
         "highLow": "최고 16.9° / 최저 4.6°",
-        "humidity": "64%",
-        "wind": "4.5 m/s",
+        "humidity": "71%",
+        "wind": "4.1 m/s",
         "rainChance": "0%",
-        "pm10": "229.1 μg/m³",
-        "pm25": "71.7 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "78",
-        "updatedAt": "2026-04-21 00:45"
+        "pm10": "228.6 μg/m³",
+        "pm25": "70.1 μg/m³",
+        "airQuality": "매우 나쁨",
+        "airQualityIndex": "81",
+        "updatedAt": "2026-04-21 01:45"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "4.1°C",
-        "feelsLike": "0.9°C",
+        "temperature": "3.5°C",
+        "feelsLike": "0.2°C",
         "highLow": "최고 18.4° / 최저 1.1°",
-        "humidity": "75%",
-        "wind": "7.4 m/s",
+        "humidity": "76%",
+        "wind": "8.0 m/s",
         "rainChance": "0%",
-        "pm10": "292.4 μg/m³",
-        "pm25": "80.8 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-04-21 00:45"
+        "pm10": "333.4 μg/m³",
+        "pm25": "83.8 μg/m³",
+        "airQuality": "매우 나쁨",
+        "airQualityIndex": "81",
+        "updatedAt": "2026-04-21 01:45"
       }
     ]
   },
@@ -103,9 +103,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,967원/L",
         "lowestDistrict": "강북구",
-        "stationName": "(주)자연에너지 번동주유소",
-        "address": "서울 강북구 한천로 963 (번동)",
-        "updatedAt": "2026-04-20 15:01:09",
+        "stationName": "(주)석산에너지",
+        "address": "서울 강북구 삼양로 316 (수유동)",
+        "updatedAt": "2026-04-20 18:02:59",
         "districtSamples": [
           {
             "district": "강북구",
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-20 15:11:01",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-20 23:37:07",
         "districtSamples": [
           {
             "district": "계양구",
@@ -163,9 +163,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,959원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 성북지점",
-        "address": "전북 익산시 망성면 익산대로 2802",
-        "updatedAt": "2026-04-20 06:52:50",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-04-20 15:53:03",
         "districtSamples": [
           {
             "district": "익산시",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[주요경제지표] 2026년 4월 20일자",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NVjkzaFdaZGJXd0FPa0x4T0ZQdjR5VlQtQzdIQjIwcGxrZ0xMRFRHQTZBcGV5ODkzWjNjdW9vS2lKVExJNEdZVHZySDVoV29USllj?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:32:00 GMT"
+      "title": "2026년 4월 20일 세계 경제 뉴스 주요 내용",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtVDJ2cmtGSVNtUGU2d1dDcHh1cGoyQXM5NHBvTDE2TDVpVFZJYUtnUXZLY1FwVnFiU191OVR5SU8xbklKT2NfdV9XMFZYZGc1X243MXFaajQ3NS1VRVZFQ1EwNFhzUzBSRVk1WDFuckNBMmJOLVJNY0tib2hFcUk?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 16:10:11 GMT"
     },
     {
       "title": "'이란, 美와 파키스탄 협상 불참 입장 유지'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2xEcWtZWlFybDgtc0I0OE1qSDE4cDdfRzJtWkdLQi1jeFBqUXJmNUVpZnVCb0xuWFU5MkJlRzJvbmdya2xfUmI2SDU0QU1XQ2N2bWhBRXpaVE5OZUtQUzVjQ0VNcUJqSnBlRzI4dkZKc2p6TF80aTJXU09TZkJQcDhnMU9ZMDZQMGF5SC1JY0ROakowWkh4Z1ZuUXNSYjhkYnE0c25uVmh1WmJYaTQwYUJmNExiRlE?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:43:49 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWlRxczRVamhDNDhOdEFPdHBPbXRweENIcEJMbkhfYW9IbFRWQkhJUFJubTdNQTVnV2hHSF9VQVA2b2RiV09FQU8ycVd1NXZRQnBGRGlndkdFVmZtd3ZETUVzaURneThkM2t2OVZ6Uml5cTZJbXFuSnRSMEtOd0hmRzdvTUlCUU9OaEd4N2c1dXZVM3FDSWo3YnltbkU5Z0tlekxMd2s2NWdjSGl3dGc5Y192UlRoVFh2TnB6R3dxUk4tOTRKQW9yRw?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 16:14:09 GMT"
     },
     {
-      "title": "[사설] 韓·印, 신공급망 동맹과 CEPA 격상에 힘 모을 때다",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UM09YYnlVS3RZZDFwQlYwYmVJRk5sQXd2ajdteVdmMFRiSGdrdWQtanhYWGJ5ZXBUTm12dTdIS2FQUUxyM1ZBTnpjd01mM0NzbFHSAVNBVV95cUxNYWp1bWF5R3YwT3JFWWRIS2Y5WXJGRWRjZ082XzF5X3BCVXN5alBwMy1Gb0hVcFJUZUoyMDRsNk1UekZ4VUFvUjEyenlhdXBwSzNidw?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:01:00 GMT"
-    },
-    {
-      "title": "[美특징주]아마존닷컴, 월가 목표가 상향에도 중동 리스크 부담에…주가 하락",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDZOV2pHNkJHbTFiYW1Ca3MwdFZTdkN5c0Y0UERELU40dnl4aGdIOUtfOEp4U29vcjBZYzY5QXN2Q29Jc3lKaDlOZUxFNVRpYjNKX0pDM3JVZVY0eXc0WWdjTGM0UFRQVVdDTzdGWnlhR0prS0tyWnVjaWhYaHV3Vw?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:20:26 GMT"
-    },
-    {
-      "title": "[사진] 여야 원내대표 \"민생법안 30여 건 처리\"",
+      "title": "아파트아이, '관리비 리포트' 서비스 출시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvYXk3cmI1VTZWN0xPQVh4LWNoVWlyU3hCQ3QwZHVFRnBwQ05lQzFINmYycU5BQV93elZRWlM5NDRVaW9jVDA1eGJmSDBWQVZuRGJ3?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12TnVjR2gxekxXNFZFcmRwejFFWlU1cE42c0lYc0x3eXNqQ3NacnpoUjRXV09YRVcwMzdqWVFiajMxbU9TYlpmcFZnSDc0anNqMGs0?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 16:28:00 GMT"
     },
     {
       "title": "빨간색 사라진 오세훈의 넥타이",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83YU5GOXdIb09mc3RlMEQ0RU9na2lRbm9icENsMkwwM2IwbUxQa3habWhZM3BvREdXRjE1MUdSUE1jTHIxd0VuSlNnSXI3d0szQ3pvSUxQRW9pY3pQMFN4Xw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1SlRuMjlUaWlBVHJQUmFacGhWdlBwdTdwUm1SOGxXZTQzQi1kb0owaVBBTUluZWF2c1VWcDd6bWF5cDNuS3BPMnN0eXdEeW5ZUi1JVmpwOGdDUFNOdGVRcU9tSGVPUTNJUmhMV3NR?oc=5",
       "publishedAt": "Mon, 20 Apr 2026 15:50:00 GMT"
     },
     {
-      "title": "민주 \"장동혁 미국 가서 뭐 했나…외교 참사\"",
+      "title": "테팔, 300g 초경량 '타이니 BLDC 헤어드라이어' 출시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OX3pfRmN5Q3JJMTlPRU1pVjc1RWtVV25mV0NUMHJYLXlOV3JkaDNjaktUOGxic2dyOU5JYU9PR2Y2SHVfal92N1diVEU2RDlpbUFZ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQzNVNU54enlLdkthRDZ6RXB1UHY5MGlPXzA3QjhVRGx6S0lZRmpxYWdNYUpPd3hsanlJVE1nX2FCYXJjd2pnZkhZUFB3NDNoblFr?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 16:06:00 GMT"
     },
     {
-      "title": "편의점 '흉기 난동' 시민이 막았다…하마터면 '아찔'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSFowZDB3Z2QydlhfaVcxeVktY3NHV2s4b041RWxLdVVucWJQdURXVjhqUFFxYlc2a0ZiWmxDNExwRnpzbkVlVGFEcmFoQWRYWjFr?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:28:00 GMT"
+      "title": "[금융 HOT 뉴스] 우리금융, “생산적·포용금융 속도 높인다”",
+      "source": "비즈월드",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSX05vV1NtY01CMHNObXdfS0sxOTROMjBjV3VuWTNNeVZtNVNNOFNGemdvYU5sZjQ1Sl9KS1ViNVhCZ2JQVXRzNUZaS0U2YUpMcTBBVVBRSVM4UWVaTFEwcWkycUc3c2NOdGc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 16:23:00 GMT"
     },
     {
-      "title": "\"高유가, 전쟁 끝나도 연말까지 계속 된다\"",
+      "title": "수습나선 與 \"장특공 폐지 검토 안 해\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hRFoxZW9UdW42dTdDczdEOUllR05UTE5oQTI3Z0hRcnpxZGlpVlNwSWdnVHR5THNTSFpsRkNIbkYtVDJ3RHlqV2s0aXl2RUJsRzFJ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NRWstdzZlcGtpdm9JcXNPRVdqRHZYZ3g2REhIc0NORkxaYnhJdmxKZ2xLbjJLQWhFUURqX2JObWNTSTNmNC1nYUZuTENUemg3QXVn?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:55:00 GMT"
     },
     {
-      "title": "[시론] 더 미룰 수 없는 에너지 안보 재설계",
+      "title": "美차관보 뒤통수 사진 올린 장동혁 \"지선 위해 방미\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2SldYaXloWVFXSVFWUUhmYVRCRDB0ek5aQmROVW5xMGVHSE10RllRNHkzSW42TGpTOWlpTHJzajZlSzlQaFdJakZpYVVBOUR0VFhB?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:11:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93VXBHbDhTQVNRMzN1ODlmS0VMZHI4R3NCSkxWWUwzYUJKNHZRUklrb1ZJTUF2cXp6YWtMN09Sc1BiRjYydnR3ZkVGOTNfVW5BZTk0?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:49:00 GMT"
+    },
+    {
+      "title": "'불륜남과 재혼→출산까지' 日 미녀 탁구 스타, 득남 소식 알리자…\"원래 꽃미남 좋아하고 사생활 화려했다\" 비난",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzU3JTb05XOUZsR2hIWUp3U0xpVFR1RWtuTHZxcl9jc3Nrd1J3U1JiVzNXMnhXMmxBekd2c2FGRTlfN0JEM0pFU1dGOTRIbVBIeTNJY3BYaklmZ2NO?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:51:00 GMT"
+    },
+    {
+      "title": "트럼프 \"이란 현명하다면 번영의 미래 맞을 것\"…종전협상 압박",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NU2xhdnhDUDA0aURXZmtDaERUUzZGTTVRT1hKUXBwd0FWVG9ZcmN3bnFWdXZBTEtuYXpLeTVJVVNTZ211Q0M3NDU3TGxVTS1Mc3hoWEIwVkFvVzRoN2xVQnZ5SDBYZ2RodUE?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 16:23:00 GMT"
     }
   ],
   "sources": [
