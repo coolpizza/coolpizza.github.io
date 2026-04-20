@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T03:46:15.409964+09:00",
+  "generatedAt": "2026-04-21T04:44:53.729286+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,375.95",
-      "change": "-71.48",
-      "changePercent": "-0.14%",
+      "value": "49,383.70",
+      "change": "-63.73",
+      "changePercent": "-0.13%",
       "direction": "down",
-      "updatedAt": "2026-04-21 03:40"
+      "updatedAt": "2026-04-21 04:41"
     },
     {
       "label": "S&P 500",
-      "value": "7,104.77",
-      "change": "-21.29",
-      "changePercent": "-0.30%",
+      "value": "7,102.49",
+      "change": "-23.57",
+      "changePercent": "-0.33%",
       "direction": "down",
-      "updatedAt": "2026-04-21 03:41"
+      "updatedAt": "2026-04-21 04:41"
     },
     {
       "label": "나스닥",
-      "value": "24,376.98",
-      "change": "-91.50",
-      "changePercent": "-0.37%",
+      "value": "24,382.13",
+      "change": "-86.35",
+      "changePercent": "-0.35%",
       "direction": "down",
-      "updatedAt": "2026-04-21 03:41"
+      "updatedAt": "2026-04-21 04:42"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,471.5000",
-      "change": "+5.35",
+      "value": "1,471.3700",
+      "change": "+5.22",
       "changePercent": "+0.36%",
       "direction": "up",
-      "updatedAt": "2026-04-21 03:39"
+      "updatedAt": "2026-04-21 04:33"
     },
     {
       "label": "100엔/원",
-      "value": "926.61",
-      "change": "+5.61",
-      "changePercent": "+0.61%",
-      "direction": "up",
-      "updatedAt": "2026-04-21 03:37"
+      "value": "926.68",
+      "change": "-0.32",
+      "changePercent": "-0.03%",
+      "direction": "down",
+      "updatedAt": "2026-04-21 04:35"
     }
   ],
   "weather": {
@@ -69,31 +69,31 @@
         "location": "서울",
         "summary": "흐림",
         "temperature": "4.8°C",
-        "feelsLike": "2.4°C",
-        "highLow": "최고 16.8° / 최저 4.5°",
-        "humidity": "77%",
-        "wind": "3.6 m/s",
+        "feelsLike": "2.6°C",
+        "highLow": "최고 17.2° / 최저 4.6°",
+        "humidity": "78%",
+        "wind": "1.9 m/s",
         "rainChance": "0%",
-        "pm10": "191.9 μg/m³",
-        "pm25": "60.3 μg/m³",
+        "pm10": "171.4 μg/m³",
+        "pm25": "54.8 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "87",
-        "updatedAt": "2026-04-21 03:30"
+        "airQualityIndex": "89",
+        "updatedAt": "2026-04-21 04:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "2.0°C",
-        "feelsLike": "-1.4°C",
-        "highLow": "최고 18.5° / 최저 1.1°",
-        "humidity": "83%",
-        "wind": "8.5 m/s",
+        "temperature": "1.6°C",
+        "feelsLike": "-1.8°C",
+        "highLow": "최고 18.4° / 최저 0.9°",
+        "humidity": "85%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
-        "pm10": "341.8 μg/m³",
-        "pm25": "84.3 μg/m³",
+        "pm10": "339.0 μg/m³",
+        "pm25": "83.8 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "91",
-        "updatedAt": "2026-04-21 03:30"
+        "airQualityIndex": "96",
+        "updatedAt": "2026-04-21 04:30"
       }
     ]
   },
@@ -103,9 +103,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,967원/L",
         "lowestDistrict": "강북구",
-        "stationName": "덕릉로주유소",
-        "address": "서울 강북구 덕릉로 158 (번동)",
-        "updatedAt": "2026-04-20 22:48:57",
+        "stationName": "(주)자연에너지 번동주유소",
+        "address": "서울 강북구 한천로 963 (번동)",
+        "updatedAt": "2026-04-20 18:04:54",
         "districtSamples": [
           {
             "district": "강북구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "해진공, 국적선사 CEO 콘퍼런스 개최",
-      "source": "해양한국",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40ZFFuam1SYVBsLTZNNnJEWEFlQkNlTk1ob0lOZURzYlpyWTJGMGR2REYwT1lQWDRzaF9rS1VSNDVVZkdXTUptNDdCbkdwT0gwdWFKWWZuSVU0YXk0eVRfeWc3RTEzTFI5YWh6Skk1MzA1cm1Gb09IdWJR?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 18:03:35 GMT"
+      "title": "전영광 음악사, 2028년 연합감리교총회 예배및음악디렉터로 선임되다",
+      "source": "United Methodist News Service",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanoyZmJ4ejlobThZY2lwNlhlVFNvZUFhOWZYcGY4RGtTaUFzRzBZRnlwUTlOV0RrbGVOMVN0YkQyM0Q5WUZtLTZ5YUlTa240X1lzUVp1UG5uWUowdENfNEVCQVlGdDNMSzVsZEtQTVpvRHI4ZERBRWVfVUROMkN1YlRBdzRWZFB6RnE3Z29B?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 18:52:51 GMT"
     },
     {
-      "title": "트럼프, '네타냐후 배후설' 반박…\"이란전쟁은 내 판단\"",
+      "title": "동방신기-트와이스-에스파, 주말 日 주요 공연장 휩쓴다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBodmxnaVNGcWhEbEFzb3ZuZ2Q1NnBQUHFnclVhSklLaXU0T2ZGMnQ2cTlURkdnSUJkRU5KbHp2Nm14YWV4anIzVWU1QUZrbGRVcHEw?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 18:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4taDQwYUJwWHU0UEtheThzTXdGRnczX1RuaWlpZTBteFNSZndWV2pXNjJEdUxGRmVDQlhYU1ZSN1V2QUlsRVYtQ0FNZWREMXpOUTNV?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 19:34:00 GMT"
     },
     {
-      "title": "KMI, 어복버스 사업 업무협약 체결",
-      "source": "해양한국",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yNGNXRjZ4X2RiU2Z4dXZCbGxhWUNSUng0X2twZ3hkVndIaDJMejNWczdkcWtZZmFjTnpiX19MakY5TlBIczVZdzJocUt3OF9udUFDbjU2S05nbEJsRXlwNG9oSW9memc2aV91WnlSOE5tX3hWV2lUYm9R?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 17:58:05 GMT"
+      "title": "대구·경북, 미세먼지 매우 나쁨…아침 1도·한낮 23도",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnA1bEt1M1VFekQ5MF9JdUdqU3QtSEpZVFUzWl90OFEwaGh0aXhJMGo3SWZFanVORmNxaGlINmlXYWg5RVFXcEc2QnVYOUhXRnlMOGtMWmVUQzZXdXQzdkwyTmJBM0lHUm5OZ29JLWdPcmNVSUxQdkRiZ0tpUElLU0U0RGZwZjhCU0RVUHFsVHVELVJJSlFsRkhER0Q0UjY2bTFrQXlVRWlpYnlFRDZYTjI3RkVPNmM1?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 19:15:19 GMT"
     },
     {
-      "title": "안산시 청년공간 행사 잇는 청년마블 스탬프런 운영 > 뉴스",
-      "source": "더코리아",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41cXc0M2dtUy1Qei15eVpJZ0RDeEpYcWlEQTVxUDBkY2MxdWd0WXc3S3E2LUlWN0ZQN2NzcGJua1N5R2NLc25jb0hXYThjdzdZVFgxUlpJU29tRkliWmVGa25vWTkxRDAweEhHaUt3NV8?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 18:40:00 GMT"
-    },
-    {
-      "title": "달러-원, 美·이란 협상 재개 관측 속 횡보…1,472.80원 마감",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvcmZRTk9fNUNSckg0SEt3WUJCRnpoQnlIVHZwNFc2M3hKbnVOSjdOR2ljaEc3LTA0TDhFdmQ5RVVmNDdxMmUxUExBamlXMFFTR1E?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 17:50:25 GMT"
-    },
-    {
-      "title": "Sura, 2026 월드컵 티켓 획득 기회 제공",
-      "source": "games.gg",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZjFLYVBfOGdSd1lqby1YV1MwSHp5WUNNeHp2VDRsNWpKSGNfRGJMN1E0cmE5SE1EZ3NMTm4xenpLSl91RlNQelVYc0l4bHprUnAxeER4b2ZhV0pZcnpuVFdWcEpxa1FvOEVITzVCbUkxRkU1cHdRcGwtZHBBanRYY25CeFRGMm12aWJ1ZGJ1QmU3dzRvbk5zaDBpc05aai1Vb2xyTDV6NjlnSFRSaUgydElKcDM3NU9EU2hvbHI3Q0p5SXZVVGVhdnVmNFlMM2U0cHdETFpB?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 17:59:43 GMT"
-    },
-    {
-      "title": "[정치문화②] 국빈 오찬 한복판에 선 기업인들",
-      "source": "케이트렌디뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02ZFh4UjBHWW1IZlRvSWZvMWdxbTVVOGlQWGF6VHV2ZTRiQTBhUXdoR0tIWGxOWmRsb0Vfd1l0YzlXaG1vTEhneUJ3REE5WmMwVWpDRlA4WnRXODhFWU9TWll2cjlNN1BUSkVDMGpsWQ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 18:03:59 GMT"
-    },
-    {
-      "title": "관광객 보호 위해 빈민가 차단?…케이프타운 3m 장벽 논란",
+      "title": "'자재 쇼크' 팔 걷은 정부, 발 구르는 현장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VdkxFUkFlNExGSXRkWVBRcUkyNlRDZVpIVUstMTBFTFZ0MUxqN2lQSjhLbmQwSHlJbUIxVWVlMkR5d244QnVENnVxYTZRNXA4QTFXdTQtRUl5dEJTaERxMg?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 17:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YcFQyd0pfVHRhamxza0xqaXQxcUdxZmd4Yng3OHJxUXREOVlSbXZ6MTlSMkFtanEtdzljNHBaNzZodzMxaV9GSWRkV202YkhiY0xudTlHVXFwX2lDOEZTVUpHODVmQmt2UHN6MFdWTzNaQVhfMElwLQ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 19:21:00 GMT"
     },
     {
-      "title": "GTA 6 팬들, 트레일러 속 모든 동물 목록화 중",
-      "source": "games.gg",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcW1zVlhQWUswUlp5VzNDUDNrQVFXQThKT0g4YWp3S1hRanBOaWVtYXpIQ3JpWWoyZVRab0d4dExRNFNmX05QM0FWUkpJdU5XTWsxempPUDRaa1dxOXVMSC1MR3laakZWWUlhLW5lZXlLZXhPQVRpQy13Q1NvSXB2SE5fbW14QVVveUM0dXlNb3BFeFZXazJLN19YLVlJZTRkS1RIOTR5aDRhVkJJTENwNUZCSTJaY3ZkRXM4TDEtdXpONFNDc0RiZUZKVFA2LW9lMUgyUm5FdE9nWXFCTUlhcTBkUnZwQktLeEQxVzRpYTJXczFXSl9jWkk1TFpORFZRa2FB?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 17:53:26 GMT"
+      "title": "aT, 휴스턴지사 개소…K-푸드 美남부·중남미 공략 허브로",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPam03enJIUFdmajA4OEMzQkNmY1RMVmQzRGwtcmN2OTRJUTJiRzF2d0lJa1hTUGhhb0pkTmxPdzVhRmZ6anNzNUpRUktJNjc0cVJZNXFLMlZBSnVHN0dwUVIwRXBPSXdaWXRxMjhSWEVEMndMNjVSclRpUWhaUlpZR2NNZWJ6V1pGTW5OSkhVay14Zm02NHVWc1FsRWxPUjNuVHQzTmFuM20xQkJ3REJudzdxQzhHVkw1QlE?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 19:19:55 GMT"
     },
     {
-      "title": "로이터 \"이란, 美와 2차 종전협상 참석 긍정 검토\"",
+      "title": "금지된 '악마의 무기'…전쟁때마다 반복 사용",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82a1lMY0R2ejcxMHhBbVFMc19kLWJWNHU5YmV2NGFieDh4N2dPal9hUFJ0NTBoNHdVQVVuTHFvQUNHTjBfSU1NSW9tT1ZyMllDSUNaWTlZOWFMUnF5VVg1d2tNc0JWN1JPbHc?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 18:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJX0E1a3I3NDRISTVETG0yWnNaM0pHWjNILXIycDZuSkNEU1JpNUVZUmFWazJwT2F2M2t1QWRCVFlQanlmeFdDZEh5MkRjN1Y2VkVJ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 19:34:00 GMT"
+    },
+    {
+      "title": "아마존, 경쟁사 가격까지 좌지우지?…'가격담합 강요' 피소",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBreHRYLTJwcERVSWl2TU41RVZkdHpzbWdDQlhYNjVfeU96XzJMNlVZQ1NzbDJUX1RLaDJQM2RfSkdzbTVhWjNMZzNjRktkVTJFcmo0?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 19:30:00 GMT"
+    },
+    {
+      "title": "럭셔리 관광 '버츄오소' 심포지엄 첫 국내 개최",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yN1NzUDlCYTVsc2xMWU1RSGtROWZiUXlNR0thUGRpV3ZYeGZ2VlV0bWpnREhvYmJxZzV2NlBIY0ZNVDVMZ3VfS3BkY1BCbTc5TUlJ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 19:34:00 GMT"
+    },
+    {
+      "title": "포스코, 印일관제철소에 '10조' 합작투자",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZcWFMRFNVU3NwMUJmLWNqWFZ4SmYzOEEwS2lmZ2p3QjN1cWY0V1RUVHRsV0xXaTU3TFZaUlh4VllVcXNtYlJYNzNJYkdRUEpubV93?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 19:13:00 GMT"
+    },
+    {
+      "title": "가계대출 감소 뚫고…4대 금융, 순익 5조",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rMEtkUWVlVXhUcmZVbDRJZl9jamVzTC1Xb0pXcGVxcWtFS21EQWYzcjZsSC1pbkswNTViZVRuUEtZTzNxYUZVLWRsOHZLRWUzVTFMaG1lazdvNjNxcXF4blNMN1c4VG5FZnc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 19:00:00 GMT"
     }
   ],
   "sources": [
