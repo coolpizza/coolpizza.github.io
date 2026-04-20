@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-21T01:48:52.587645+09:00",
+  "generatedAt": "2026-04-21T02:47:40.508669+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "5.6°C",
-        "feelsLike": "3.0°C",
-        "highLow": "최고 16.9° / 최저 4.6°",
-        "humidity": "71%",
-        "wind": "4.1 m/s",
+        "temperature": "5.0°C",
+        "feelsLike": "2.5°C",
+        "highLow": "최고 16.8° / 최저 4.5°",
+        "humidity": "76%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "228.6 μg/m³",
-        "pm25": "70.1 μg/m³",
+        "pm10": "213.3 μg/m³",
+        "pm25": "65.4 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "81",
-        "updatedAt": "2026-04-21 01:45"
+        "airQualityIndex": "84",
+        "updatedAt": "2026-04-21 02:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "3.5°C",
-        "feelsLike": "0.2°C",
-        "highLow": "최고 18.4° / 최저 1.1°",
-        "humidity": "76%",
-        "wind": "8.0 m/s",
+        "temperature": "2.6°C",
+        "feelsLike": "-0.8°C",
+        "highLow": "최고 18.5° / 최저 1.1°",
+        "humidity": "82%",
+        "wind": "8.7 m/s",
         "rainChance": "0%",
-        "pm10": "333.4 μg/m³",
-        "pm25": "83.8 μg/m³",
+        "pm10": "341.8 μg/m³",
+        "pm25": "84.8 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "81",
-        "updatedAt": "2026-04-21 01:45"
+        "airQualityIndex": "86",
+        "updatedAt": "2026-04-21 02:30"
       }
     ]
   },
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-20 23:37:07",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-20 18:04:09",
         "districtSamples": [
           {
             "district": "계양구",
@@ -163,9 +163,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,959원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-04-20 15:53:03",
+        "stationName": "㈜한영 성북지점",
+        "address": "전북 익산시 망성면 익산대로 2802",
+        "updatedAt": "2026-04-20 06:52:50",
         "districtSamples": [
           {
             "district": "익산시",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "2026년 4월 20일 세계 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtVDJ2cmtGSVNtUGU2d1dDcHh1cGoyQXM5NHBvTDE2TDVpVFZJYUtnUXZLY1FwVnFiU191OVR5SU8xbklKT2NfdV9XMFZYZGc1X243MXFaajQ3NS1VRVZFQ1EwNFhzUzBSRVk1WDFuckNBMmJOLVJNY0tib2hFcUk?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 16:10:11 GMT"
-    },
-    {
-      "title": "'이란, 美와 파키스탄 협상 불참 입장 유지'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWlRxczRVamhDNDhOdEFPdHBPbXRweENIcEJMbkhfYW9IbFRWQkhJUFJubTdNQTVnV2hHSF9VQVA2b2RiV09FQU8ycVd1NXZRQnBGRGlndkdFVmZtd3ZETUVzaURneThkM2t2OVZ6Uml5cTZJbXFuSnRSMEtOd0hmRzdvTUlCUU9OaEd4N2c1dXZVM3FDSWo3YnltbkU5Z0tlekxMd2s2NWdjSGl3dGc5Y192UlRoVFh2TnB6R3dxUk4tOTRKQW9yRw?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 16:14:09 GMT"
-    },
-    {
-      "title": "아파트아이, '관리비 리포트' 서비스 출시",
+      "title": "'AOMG 뉴페이스' 키비츠, 프리 릴리즈 신곡 'Key Beats' M/V 티저 오픈",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12TnVjR2gxekxXNFZFcmRwejFFWlU1cE42c0lYc0x3eXNqQ3NacnpoUjRXV09YRVcwMzdqWVFiajMxbU9TYlpmcFZnSDc0anNqMGs0?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 16:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45dURQYnFBaURpaDEwOGRjVkcxQVdZR3R4djdWWURwcE8xdmJYNWRzNG1pd2JRU2t0NW1FN3R5dnB0SXBaUGNQWlZzMjhNXzFXcF94OXk5dGZHS1ZwdEhxVA?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 17:25:00 GMT"
     },
     {
-      "title": "빨간색 사라진 오세훈의 넥타이",
+      "title": "[사설]청년 실업난속 공기업 채용비리",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1SlRuMjlUaWlBVHJQUmFacGhWdlBwdTdwUm1SOGxXZTQzQi1kb0owaVBBTUluZWF2c1VWcDd6bWF5cDNuS3BPMnN0eXdEeW5ZUi1JVmpwOGdDUFNOdGVRcU9tSGVPUTNJUmhMV3NR?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rWmNqeUs5YnF4WWFjVGp5dlI1QzRkREU1WUlnSXBwdm51UTR6eEhZQ1hPdk9VV2RadUtiQ1lpMDhReWFpLTZUaGE5TU5VUU1Ib2tV?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 17:00:07 GMT"
     },
     {
-      "title": "테팔, 300g 초경량 '타이니 BLDC 헤어드라이어' 출시",
+      "title": "이란 대통령 \"美 약속이행이 대화 기초…강압에 굴복 안 할 것\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQzNVNU54enlLdkthRDZ6RXB1UHY5MGlPXzA3QjhVRGx6S0lZRmpxYWdNYUpPd3hsanlJVE1nX2FCYXJjd2pnZkhZUFB3NDNoblFr?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 16:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXVWxkVjRfNENuc2hqelI3UWhMZ2VuWVZNbUZZSUM2Y0tyVjVmUENPN3Jud3Q2V2JlMkhRSlFDOVhlWXV5QzF3NzBCQzJpaXhYMHVhZUJwQ1Izc25kOEdrSnhNalFHVkVnZE1Ja2wzYmdzYm5XR3IxTw?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 17:40:00 GMT"
     },
     {
-      "title": "[금융 HOT 뉴스] 우리금융, “생산적·포용금융 속도 높인다”",
-      "source": "비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSX05vV1NtY01CMHNObXdfS0sxOTROMjBjV3VuWTNNeVZtNVNNOFNGemdvYU5sZjQ1Sl9KS1ViNVhCZ2JQVXRzNUZaS0U2YUpMcTBBVVBRSVM4UWVaTFEwcWkycUc3c2NOdGc?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 16:23:00 GMT"
-    },
-    {
-      "title": "수습나선 與 \"장특공 폐지 검토 안 해\"",
+      "title": "김정연, 가수·방송인 넘어 '치유의 아이콘'으로",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NRWstdzZlcGtpdm9JcXNPRVdqRHZYZ3g2REhIc0NORkxaYnhJdmxKZ2xLbjJLQWhFUURqX2JObWNTSTNmNC1nYUZuTENUemg3QXVn?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qY3JpdzdVU1ZfODRtdklQLWVTdTQwbUlaS1hZQWVOYmxUNTN2WkY5YXBCNWxBLS1pejJoNnkxZVVRSEZzRC0ya1JTSk1RcjlhUG9wc0w4bjlmcTBjX3NfdmRDSDVLNjcxQkY1V05UN2pyWUhyUkc1Qw?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 17:39:00 GMT"
     },
     {
-      "title": "美차관보 뒤통수 사진 올린 장동혁 \"지선 위해 방미\"",
+      "title": "오혜원, 새벽엔터테인먼트 전속계약",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93VXBHbDhTQVNRMzN1ODlmS0VMZHI4R3NCSkxWWUwzYUJKNHZRUklrb1ZJTUF2cXp6YWtMN09Sc1BiRjYydnR3ZkVGOTNfVW5BZTk0?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fS1JCSlRtWlo2LXBwMkg3YlNad0xFX2lmU3NMZnl1ejhQYm9IZmFDUnhUNXpsd3ZFak84SzVaZDEzcjZUa3E2dEJoUUVRWU40bng2NkQ3NjRzYlRtSHVkNnZ1Q01rd21JRGdmU3ROZzcxM3ZaWU45Xw?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 17:12:00 GMT"
     },
     {
-      "title": "'불륜남과 재혼→출산까지' 日 미녀 탁구 스타, 득남 소식 알리자…\"원래 꽃미남 좋아하고 사생활 화려했다\" 비난",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzU3JTb05XOUZsR2hIWUp3U0xpVFR1RWtuTHZxcl9jc3Nrd1J3U1JiVzNXMnhXMmxBekd2c2FGRTlfN0JEM0pFU1dGOTRIbVBIeTNJY3BYaklmZ2NO?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 15:51:00 GMT"
-    },
-    {
-      "title": "트럼프 \"이란 현명하다면 번영의 미래 맞을 것\"…종전협상 압박",
+      "title": "언차일드, 데뷔곡 'UNCHILD'로 급이 다른 퍼포먼스 예고",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NU2xhdnhDUDA0aURXZmtDaERUUzZGTTVRT1hKUXBwd0FWVG9ZcmN3bnFWdXZBTEtuYXpLeTVJVVNTZ211Q0M3NDU3TGxVTS1Mc3hoWEIwVkFvVzRoN2xVQnZ5SDBYZ2RodUE?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 16:23:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9US3VWcjF1R3VucmJndVpDRWprQUZUakFla1ptc0g4WjdvbVlfOEVnUlBHVFo0NVM1RFlMU1hXdVhybVdaaDU0N0FteEtKbnVzaHMzaHIzaEFBVy1xZ2VuNnpkb0VyanNLM3N1ZUM1d2RxMmVXeXZPUQ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 17:03:00 GMT"
+    },
+    {
+      "title": "코닥어패럴·키르시, 신세계와 손잡고 日 시장 공략 가속",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OQVpoSUt2Uzg3QndJRlU1VjRzVHlObmlLZ1JOeFhNd2NpQmh4Y1NPQTRHYVlmcTg3UXBtSnlyMTZDR0xTMjBJS1Nza0ZMNndfYlI0TlpYTXpBbFJ2Z2FBbFNzRFZfMm90UFh6TXV3NUxtRThSVF9BTQ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 16:55:00 GMT"
+    },
+    {
+      "title": "제아, 아우라엔터테인먼트와 동행 마무리",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rVzFuMGZOTGpZc2QzYkh3NWVrcGo1NmdDSXprY3dKT2dQRnZRYVlFVlh5aHEzR19XY3Q0b1JyLXZzTG9pWGRWNWEtWkVRd2JTMDRr?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 17:19:00 GMT"
+    },
+    {
+      "title": "캐세이, '창립 80주년 기념 마일리지 리워즈' 캠페인 실시",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LT3g0dzQ4UDBxQzdfODNpMW1UUkloTGVSZ0h0TGV6MUZWYkdrSzlmVlhmckc1Ni1mbjkxejBWRm0wbUZSdnBJdXlJMFBwekZ2c29jQTdiN0N0VnZvT3BhcHNpTno5SkZ3NkJINHBZQi0wSXhwOWw3dg?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 17:15:00 GMT"
+    },
+    {
+      "title": "[청계광장]플랫폼 노동을 위한 노동법제의 그랜드 디자인",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VYUptQURhZFBCTjd5cnhHMzVuUmdHcHlSaFh1bXJuTTM4cDVFRXBEclQxTVRrb2JkOVFtTGdLSGV5VEdFdUdnWGRrbkN0aFlsX0llZHVTUXFDWTAwMndGUTNTSjJrdTI2QXVpTWUtQ0c4VmYtRzA1Qg?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 17:00:00 GMT"
     }
   ],
   "sources": [
