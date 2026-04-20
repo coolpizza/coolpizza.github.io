@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-21T06:09:12.316241+09:00",
+  "generatedAt": "2026-04-21T07:04:12.042376+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,471.7594",
-      "change": "+5.61",
-      "changePercent": "+0.38%",
+      "value": "1,470.4400",
+      "change": "+4.29",
+      "changePercent": "+0.29%",
       "direction": "up",
-      "updatedAt": "2026-04-21 06:03"
+      "updatedAt": "2026-04-21 06:45"
     },
     {
       "label": "100엔/원",
-      "value": "926.46",
-      "change": "-0.54",
-      "changePercent": "-0.06%",
+      "value": "925.95",
+      "change": "-1.05",
+      "changePercent": "-0.11%",
       "direction": "down",
-      "updatedAt": "2026-04-21 06:05"
+      "updatedAt": "2026-04-21 06:57"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "4.6°C",
-        "feelsLike": "2.5°C",
+        "temperature": "5.0°C",
+        "feelsLike": "2.9°C",
         "highLow": "최고 17.2° / 최저 4.6°",
-        "humidity": "84%",
-        "wind": "2.6 m/s",
+        "humidity": "89%",
+        "wind": "3.8 m/s",
         "rainChance": "0%",
         "pm10": "143.0 μg/m³",
         "pm25": "49.0 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "92",
-        "updatedAt": "2026-04-21 06:00"
+        "updatedAt": "2026-04-21 06:45"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "0.9°C",
-        "feelsLike": "-2.6°C",
+        "temperature": "1.7°C",
+        "feelsLike": "-1.3°C",
         "highLow": "최고 18.4° / 최저 0.9°",
-        "humidity": "86%",
-        "wind": "8.4 m/s",
+        "humidity": "84%",
+        "wind": "5.8 m/s",
         "rainChance": "0%",
         "pm10": "313.9 μg/m³",
         "pm25": "80.8 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "105",
-        "updatedAt": "2026-04-21 06:00"
+        "updatedAt": "2026-04-21 06:45"
       }
     ]
   },
@@ -163,9 +163,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,959원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 성북지점",
-        "address": "전북 익산시 망성면 익산대로 2802",
-        "updatedAt": "2026-04-20 06:52:50",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-04-20 15:53:03",
         "districtSamples": [
           {
             "district": "익산시",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[오늘의 주요 일정] 경기(21일, 화)",
+      "title": "[코스피·코스닥 전 거래일(20일) 주요공시]",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YbDZ2UlF2SzZCQ2dSY2I1Y1FDdmJiNHBtVFQybS05b2dsTndReU9LY2V5RGYyMzc4dXRhS1gyZldVaV9QSENsZlZkamNLd2FKQWFDcDA2ODlUd0HSAWBBVV95cUxPd2wxQWtyVXdxTURWUUVVdktaamVnc3BuVDM2MDY4ZDcwUXI5clhIZkQzbE1TakRQTmpwVHg5cDJPcWYwUjNDamVVOW1yb1RvdVNCVWNfNnhtbWVIX3JuWkc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:05:01 GMT"
+    },
+    {
+      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SOVlmeWxqRnZfazdOZm1PaUJ5N1Y4eTZHYnhDTUFyZnQtcnRrako1N05oTDhvb2Q2YnhpX2h2MHZuUjh3WkNCN1NQRjhFRXZwX2tjeUpmNjNueGNYbHBsSE1meEdZRThUSmfSAWZBVV95cUxNWTdmaVZXR29ZR25vUEhqaTFjSi1tcFRBRjU0emtQbTd0cXBXTEdjUXVvbTFPcGQxWHVfNjd4R0lkRDRZUkxBUjJyWVVqVU92NmM2RkpPSVA2aGhhTkNOVWVmSWM1MVE?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:06:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요 일정] 울산(21일, 화)",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vS0ptNmlCdnVpbDJoOXBoYWJXUEQ0T0ppS19xRi1NYXp0S0dTV181cVNpZDJWU1FpdEhVelhYeWdZbEJIUlItUEdBNzBuUE9aZnphUkxB?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 21:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xN255bHhYMEZiSFp5NWk0TVVyVHpoU1ZFTlBFSVRYUEVaQmtGbUJpUXFPSDE0TnhLQXRTVG9NYkFIV0VZanluc1kzX3ROaFlpRGc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:06:59 GMT"
     },
     {
-      "title": "대기업 자사주 소각 3개월 만에 42.5조원…작년 한해의 3배",
+      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Rkg4WS1UbGg3LTF4UmYyTTN6S3NaZVo0bVNEMlZrZVpkNmhEU1M4X1RNVHZ6VDhTSzd4cGFQT2xJRXctNlUwMUdkLXNrWGpPQXJV?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:12:00 GMT"
+    },
+    {
+      "title": "열흘 만에 돌아온 장동혁…주요 후보들은 '거리두기'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HeUpRR1FDWHR2c21PMEloNkJ2ZWdVTnp6X241Z1M4eS0wUE1pME1oMFFiY2pjV0Q1QjlLUzlJZVFibU15ZUE2QVNvTGN0OFJmeTg4?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:38:00 GMT"
+    },
+    {
+      "title": "애플 팀 쿡, 15년만에 CEO서 물러나…후임은 존 터너스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KVXp2RF81dllVN0RXRWFUYmE3RkRidjdva09rRGpBc1Uwa3RtRkpTZXZ0cno0aXA2MnJfeVpDanIyT29aZk90YzFnc1VDeVpJUzBJ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:57:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요 일정] 울산(21일, 화)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lNlRUXzdSTk4tWmEwYmlEWGhJX2ROWjBOcDJ0ekxudURnalVmbXVFcVoxYUVqb2ZjTE84ZjFpRml1dmJtYVZRTi1kQlJPRkF0NEZv?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:07:00 GMT"
+    },
+    {
+      "title": "트럼프 \"모레 휴전 만료‥합의 전 봉쇄 안 풀어\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyb3Zkcnd5OXBwc0RyZ1lkVU85aVJiQVctcDB2LWduWkk3eTNIWHh5am5rbTFLcWctUFFFQ21Rb0pCLWl4WlFjakZIY2l2M2VVVk82TWZuTDVoN3VYNUFXd19PdHVzc2pmZkNQb0M4dF81bE53MDlrY2F30gF6QVVfeXFMTzJjdXdRWkR5YjQwc0dyR3ZaR2pLbHg4TDhQRDlEck5sUHozbHRLbk4xQW43VkFwTXRFazAxb2RMYUswY1I3M3lhQlZ5NEd2V09Vc3VCRkx0Vlh1cU5KaFFGNERNa1JRcmhRUksyNjhVSlRqRVRyVmF4TXc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:05:13 GMT"
+    },
+    {
+      "title": "뉴욕증시, 미·이란 2차 협상 앞두고 소폭 하락(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFFQQWFkaXZPU2hXVnZUc3YzQVdGUWdiQXRvc3lpUGRyVVBHc2pFenFQSWZ4UEo0Zm9Xb1J5MUlTamNvREdkc0tEQzFpS2h0Tm02QmtleGs5dVVOWEJCS2JVeG5PeGNjUDBXYXRPWXdWYlJMalAzRXppbXpzbnRsRDZxT1U4WVFvbHg2aFE2T3ZYM3lGYXJRYi1JaHp0dkhVT3FMQTJMbjVWNVdVTXlfQ1luQTl1ZnF0bFdR?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 21:04:51 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFNIQ21MYnNpdVkyb3A2MG9TV0JXUTZ2SGw1c0EwM1pXQTY5RzRlNmVMdG5fNUQ2X0Y1ekd3anFuNXNFOFUySDVzV013SXlSWlNEQnRUY2JmNnZ3M0lxMWo3X044T0hxaU5uOWIwN2MycHlCQ2pBT1RmZTJjLWFseGlrYWVqa2YwX3FuU3VsUldkQTROVWhmRHgwWmRGenllbGdDQW9uV01BTDNya1NYUlFaS3VuR3dx?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:09:51 GMT"
     },
     {
-      "title": "\"딸기 따고 건강 챙기고…농촌형 돌봄 모델 효과\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yUVliOG9vZmlTb0VrMGhmX1NBRkJiSUJUR243alFzaTBBNHBYNDFONHRfVFJ0Qy14MVd6U2VXVGhWVzFEdmNtYkk0emZkR2FsaVBNNjJwaDJ0VVFNMy1Zdw?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 21:01:00 GMT"
-    },
-    {
-      "title": "'노란봉투법에 외주인력 줄어'…소속외 근로자 3년 새 8.2%↓",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0xTazI5THJSM0RaSEFnVmVmNDNsWUt4bWYteGVxTDh4NTNzVUwxZWtGV3N5UUllR1pBTmxEYWRCV2FJank0V1Q0MVIxdlF1S3FqQXpTNmV5ZDRxYmZKWFVtSjU0Z3VaemFYZGVDcTBwRWxrb0RZNHBPS1U3QjJKbHlPOUhZelZfN2F0cmsycHRvYjc4Szl3a25vQlBiT3RpQ2QtSzFwS0YxNEV2OGhWQWRyVmNVMVpJTjhB?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 21:04:51 GMT"
-    },
-    {
-      "title": "중동발 자잿값 불안…건설현장 3분기 '직격탄'",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDUW52MmtyQ0lHZ0xtUGY3cktTdzRlSDBxSFNiaF9ScGV5czZuUVBQTnJ1dVoyNHhqZDNUMUQyM1hLdDdteHNYSjdPdDVuRE1NMWF6TDJzUG1JT3c?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:40:00 GMT"
-    },
-    {
-      "title": "성평등가족부, 제8기 중앙성별영향평가위원회 민간위원 위촉",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04akpLSnROb0NRdmRaYmRMdFpKT3JNY0h3RGdVTHhWeW5zSFM4QUpvMHdpQ2RUd1Q2bG1lZnh5Y3pmMUIyT0RGVWJDUi1SV09MTUs2NmM0TVRKaFJZRVVhVQ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 21:01:00 GMT"
-    },
-    {
-      "title": "[세무, 톡!] 공익법인 투명성, '신뢰'의 시작",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LOFdSWnR5RDFMcVFXelJPdXY0UmdPY3FNMzZrVVhvUGdrV1ZVcUkxUFJiSVhSS3Z4VHZRR1BnRUM3allGcnhOZThGZGtFRlJ1MFRj?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 21:01:00 GMT"
-    },
-    {
-      "title": "뉴욕증시, 미·이란 2차 협상 앞두고 소폭 하락",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3QwelNGU2NObEhUbTFfaFdWS1hjRTFmU3hjN0s3VHdRYUE3S0JSUEVrbzZWT0l3RFpyYmdRamFKakNlUTBZajd4TlZJLU56QVh3WVMzUTNRVXV2UDNkZE92ZVBXT2NsLUlLdzdkb0ZmZXpnd3NtLXY1LUhtX2YwdHBXbU9IeExkOUJoc3VvbEtVYnh6QlEwN2VORTkzblJuUkRvQmtqUERiTHVRU0xpUW9yMDd0bm9HbWc?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:15:30 GMT"
-    },
-    {
-      "title": "신세계 아카데미, '웰니스 페스타' 테마 체험형 강좌 연다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBcnFWdXotcGdCUDVyMGI4dXF1WUgtaDZFX2hsRW8zdHFCcXg4U2dYM3RqMGRRclNkYzV0ZG1ZbGlkUDZRUzBKdXdkLUg0d3M1VFRZ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 21:02:00 GMT"
-    },
-    {
-      "title": "서울 역세권 신축 전세 3억대 등장…메이플자이·청담르엘도 공급",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaQzAtekNGWDh4c1BCRTV0RU5GUW9DVkJZS2YzdnpwQVBVc3BXck9uWEVaM1dlTmNlODAtc2phR2FOb1BrUWFXSnFvNUd4THNxR0I3Y21waURlNXN6Uk9VQQ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 21:00:00 GMT"
+      "title": "[4월 21일 간추린 뉴스] 붕괴 스타레일 3주년 업데이트 임박!",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZZFIyVmVUckxuRVZ1X0lTdHYwTDRfeFFZUnBRb3djd1ZlZ1BuVTdqVXBzUkFjdUc4VmFmenNPczFqZ0pCNXFRNTJsSERfdUw4dUE3aWIxSkstWF9BaHc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 22:00:01 GMT"
     }
   ],
   "sources": [
