@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-21T05:31:56.413693+09:00",
+  "generatedAt": "2026-04-21T06:09:12.316241+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,471.7994",
-      "change": "+5.65",
-      "changePercent": "+0.39%",
+      "value": "1,471.7594",
+      "change": "+5.61",
+      "changePercent": "+0.38%",
       "direction": "up",
-      "updatedAt": "2026-04-21 05:23"
+      "updatedAt": "2026-04-21 06:03"
     },
     {
       "label": "100엔/원",
-      "value": "926.68",
-      "change": "+5.68",
-      "changePercent": "+0.62%",
-      "direction": "up",
-      "updatedAt": "2026-04-21 05:17"
+      "value": "926.46",
+      "change": "-0.54",
+      "changePercent": "-0.06%",
+      "direction": "down",
+      "updatedAt": "2026-04-21 06:05"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "4.7°C",
-        "feelsLike": "2.7°C",
+        "temperature": "4.6°C",
+        "feelsLike": "2.5°C",
         "highLow": "최고 17.2° / 최저 4.6°",
-        "humidity": "80%",
-        "wind": "1.3 m/s",
+        "humidity": "84%",
+        "wind": "2.6 m/s",
         "rainChance": "0%",
-        "pm10": "156.0 μg/m³",
-        "pm25": "50.8 μg/m³",
+        "pm10": "143.0 μg/m³",
+        "pm25": "49.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "91",
-        "updatedAt": "2026-04-21 05:15"
+        "airQualityIndex": "92",
+        "updatedAt": "2026-04-21 06:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "1.2°C",
-        "feelsLike": "-2.2°C",
+        "temperature": "0.9°C",
+        "feelsLike": "-2.6°C",
         "highLow": "최고 18.4° / 최저 0.9°",
-        "humidity": "85%",
-        "wind": "8.1 m/s",
+        "humidity": "86%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
-        "pm10": "318.5 μg/m³",
-        "pm25": "82.0 μg/m³",
+        "pm10": "313.9 μg/m³",
+        "pm25": "80.8 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "101",
-        "updatedAt": "2026-04-21 05:15"
+        "airQualityIndex": "105",
+        "updatedAt": "2026-04-21 06:00"
       }
     ]
   },
@@ -103,9 +103,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,967원/L",
         "lowestDistrict": "강북구",
-        "stationName": "(주)석산에너지",
-        "address": "서울 강북구 삼양로 316 (수유동)",
-        "updatedAt": "2026-04-20 18:02:59",
+        "stationName": "(주)자연에너지 번동주유소",
+        "address": "서울 강북구 한천로 963 (번동)",
+        "updatedAt": "2026-04-20 18:04:54",
         "districtSamples": [
           {
             "district": "강북구",
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-21 00:42:11",
+        "stationName": "KH에너지㈜직영 에이원주유소",
+        "address": "인천 계양구 벌말로 583 (하야동)",
+        "updatedAt": "2026-04-19 12:51:56",
         "districtSamples": [
           {
             "district": "계양구",
@@ -163,9 +163,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,959원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-04-20 15:53:03",
+        "stationName": "㈜한영 성북지점",
+        "address": "전북 익산시 망성면 익산대로 2802",
+        "updatedAt": "2026-04-20 06:52:50",
         "districtSamples": [
           {
             "district": "익산시",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (21일, 화)",
+      "title": "[오늘의 주요 일정] 경기(21일, 화)",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsWlozWi1aRnp6Z05qbTVvTEQxTnVyY2ZWNUVDVUVFNFp2WHJ5YkZhbVN5SGRuVl9JeEJZOGhQZTM4S1Q4QTlDVVdfR2RTakZYaHRucmE1RF9vQUE?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vS0ptNmlCdnVpbDJoOXBoYWJXUEQ0T0ppS19xRi1NYXp0S0dTV181cVNpZDJWU1FpdEhVelhYeWdZbEJIUlItUEdBNzBuUE9aZnphUkxB?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:00:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 제주(21일, 화)",
+      "title": "대기업 자사주 소각 3개월 만에 42.5조원…작년 한해의 3배",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFFQQWFkaXZPU2hXVnZUc3YzQVdGUWdiQXRvc3lpUGRyVVBHc2pFenFQSWZ4UEo0Zm9Xb1J5MUlTamNvREdkc0tEQzFpS2h0Tm02QmtleGs5dVVOWEJCS2JVeG5PeGNjUDBXYXRPWXdWYlJMalAzRXppbXpzbnRsRDZxT1U4WVFvbHg2aFE2T3ZYM3lGYXJRYi1JaHp0dkhVT3FMQTJMbjVWNVdVTXlfQ1luQTl1ZnF0bFdR?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:04:51 GMT"
+    },
+    {
+      "title": "\"딸기 따고 건강 챙기고…농촌형 돌봄 모델 효과\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pR1VKWWRXYzRzQm56S3puNjdhMjcxc2tsZV8xcHVEM0J2ZURDMGtCMzc0RE0wTV9JVVFXT2sza0NzaWsyR2VMd0dyZmxVdFUycG1r?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yUVliOG9vZmlTb0VrMGhmX1NBRkJiSUJUR243alFzaTBBNHBYNDFONHRfVFJ0Qy14MVd6U2VXVGhWVzFEdmNtYkk0emZkR2FsaVBNNjJwaDJ0VVFNMy1Zdw?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:01:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 전북(21일, 화)",
+      "title": "'노란봉투법에 외주인력 줄어'…소속외 근로자 3년 새 8.2%↓",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0xTazI5THJSM0RaSEFnVmVmNDNsWUt4bWYteGVxTDh4NTNzVUwxZWtGV3N5UUllR1pBTmxEYWRCV2FJank0V1Q0MVIxdlF1S3FqQXpTNmV5ZDRxYmZKWFVtSjU0Z3VaemFYZGVDcTBwRWxrb0RZNHBPS1U3QjJKbHlPOUhZelZfN2F0cmsycHRvYjc4Szl3a25vQlBiT3RpQ2QtSzFwS0YxNEV2OGhWQWRyVmNVMVpJTjhB?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:04:51 GMT"
+    },
+    {
+      "title": "중동발 자잿값 불안…건설현장 3분기 '직격탄'",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PS2JtRDlEMW1hV2NaX2xGUW15Y3JucWNyRGk0akRQdFBXNUxLTTJTUDctTkE1RnBRdFVxUUsxYW5BTlh1aS1xZHZXamRVVTVabVR0cw?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDUW52MmtyQ0lHZ0xtUGY3cktTdzRlSDBxSFNiaF9ScGV5czZuUVBQTnJ1dVoyNHhqZDNUMUQyM1hLdDdteHNYSjdPdDVuRE1NMWF6TDJzUG1JT3c?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 20:40:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 전북(21일, 화)",
+      "title": "성평등가족부, 제8기 중앙성별영향평가위원회 민간위원 위촉",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QME1Ja0p0bDFXRG1McmVGd3VHenFzdjNSa2NlMi14YkQ3UXBhQ0lsX3pDUVljY3F1MTFzYXhfME9FcWxpdFZRRzVmbDFpa1NUWmhR?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04akpLSnROb0NRdmRaYmRMdFpKT3JNY0h3RGdVTHhWeW5zSFM4QUpvMHdpQ2RUd1Q2bG1lZnh5Y3pmMUIyT0RGVWJDUi1SV09MTUs2NmM0TVRKaFJZRVVhVQ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:01:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(21일, 화)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ck02RUEwa3FrZ3VjS3g3TWpmUEFjWHJXOXpaWkxCa1VUb1pHQ1NxbWkyR0JBOFZBTFIxR21GS29mSXlPTzBDSnBBNEdPckpKWlpkM1RLRWZEbXFveXdR?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 광주·전남(21일, 화)",
+      "title": "[세무, 톡!] 공익법인 투명성, '신뢰'의 시작",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kZC1zcUQ3aHpfcTAxYzBXeDBVQnRQbEdnSlU5OWw4OWRFNlhaTGppajd0U2NkUjJiWU16MWlpVE5ZQXVoVGt0X1pQYU5XaWFEU3dr?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LOFdSWnR5RDFMcVFXelJPdXY0UmdPY3FNMzZrVVhvUGdrV1ZVcUkxUFJiSVhSS3Z4VHZRR1BnRUM3allGcnhOZThGZGtFRlJ1MFRj?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:01:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 제주(21일, 화)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91ck91NzM3S3ZkNEVlSks1bnR3YUpsYjBOS1BNZFV3R1J6bURqcTNiSE1pQnlqLVNVXzhacXhha1B5enBmZlhUWmtWMTFWTi1N?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:00:00 GMT"
+      "title": "뉴욕증시, 미·이란 2차 협상 앞두고 소폭 하락",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3QwelNGU2NObEhUbTFfaFdWS1hjRTFmU3hjN0s3VHdRYUE3S0JSUEVrbzZWT0l3RFpyYmdRamFKakNlUTBZajd4TlZJLU56QVh3WVMzUTNRVXV2UDNkZE92ZVBXT2NsLUlLdzdkb0ZmZXpnd3NtLXY1LUhtX2YwdHBXbU9IeExkOUJoc3VvbEtVYnh6QlEwN2VORTkzblJuUkRvQmtqUERiTHVRU0xpUW9yMDd0bm9HbWc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 20:15:30 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 대전·충남(21일, 화)",
+      "title": "신세계 아카데미, '웰니스 페스타' 테마 체험형 강좌 연다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tVmgtRnZrTlYyMERLUlRDb0l2LWY4dFNhel9iRmM0c1EtQjZMUzAtS1p4dm84QnAzT3VEUTcxRGRpZzRKbTBmX0x0VWpJQ3d0cm0w?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBcnFWdXotcGdCUDVyMGI4dXF1WUgtaDZFX2hsRW8zdHFCcXg4U2dYM3RqMGRRclNkYzV0ZG1ZbGlkUDZRUzBKdXdkLUg0d3M1VFRZ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:02:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 충북·세종(21일, 화)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BV1ZuYXozV2tidnZuRmswNjJFLTh1c3MxS3ZPNzRRLV9acDlCNTJ6R0FhVHFYTU4zekZZZnk3MHMyelhDSWI0TzN2VzdEd0VRSkRJR1dFSWVieHh6a193?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "동방신기-트와이스-에스파, 주말 日 주요 공연장 휩쓴다",
+      "title": "서울 역세권 신축 전세 3억대 등장…메이플자이·청담르엘도 공급",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4taDQwYUJwWHU0UEtheThzTXdGRnczX1RuaWlpZTBteFNSZndWV2pXNjJEdUxGRmVDQlhYU1ZSN1V2QUlsRVYtQ0FNZWREMXpOUTNV?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 19:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaQzAtekNGWDh4c1BCRTV0RU5GUW9DVkJZS2YzdnpwQVBVc3BXck9uWEVaM1dlTmNlODAtc2phR2FOb1BrUWFXSnFvNUd4THNxR0I3Y21waURlNXN6Uk9VQQ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 21:00:00 GMT"
     }
   ],
   "sources": [
