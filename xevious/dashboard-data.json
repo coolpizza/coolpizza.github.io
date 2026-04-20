@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T19:20:18.265700+09:00",
+  "generatedAt": "2026-04-20T20:47:36.129283+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,471.4600",
-      "change": "+5.31",
-      "changePercent": "+0.36%",
+      "value": "1,471.7193",
+      "change": "+5.57",
+      "changePercent": "+0.38%",
       "direction": "up",
-      "updatedAt": "2026-04-20 19:05"
+      "updatedAt": "2026-04-20 20:42"
     },
     {
       "label": "100엔/원",
-      "value": "925.99",
-      "change": "-1.01",
-      "changePercent": "-0.11%",
+      "value": "926.13",
+      "change": "-0.87",
+      "changePercent": "-0.09%",
       "direction": "down",
-      "updatedAt": "2026-04-20 19:17"
+      "updatedAt": "2026-04-20 20:43"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약한 이슬비",
-        "temperature": "10.7°C",
-        "feelsLike": "7.0°C",
-        "highLow": "최고 12.8° / 최저 7.2°",
-        "humidity": "43%",
-        "wind": "9.4 m/s",
+        "temperature": "8.6°C",
+        "feelsLike": "5.0°C",
+        "highLow": "최고 12.7° / 최저 7.1°",
+        "humidity": "47%",
+        "wind": "7.8 m/s",
         "rainChance": "33%",
-        "pm10": "129.5 μg/m³",
-        "pm25": "54.5 μg/m³",
+        "pm10": "149.0 μg/m³",
+        "pm25": "60.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "72",
-        "updatedAt": "2026-04-20 19:15"
+        "updatedAt": "2026-04-20 20:30"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "8.4°C",
-        "feelsLike": "4.9°C",
-        "highLow": "최고 14.1° / 최저 5.4°",
-        "humidity": "67%",
-        "wind": "12.7 m/s",
+        "summary": "약한 이슬비",
+        "temperature": "6.7°C",
+        "feelsLike": "3.8°C",
+        "highLow": "최고 14.1° / 최저 5.1°",
+        "humidity": "73%",
+        "wind": "7.9 m/s",
         "rainChance": "33%",
-        "pm10": "214.2 μg/m³",
-        "pm25": "71.9 μg/m³",
+        "pm10": "170.9 μg/m³",
+        "pm25": "63.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-04-20 19:15"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-04-20 20:30"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[한국뉴스 TV] 26년 4월 20일 (월) 오늘의 주요뉴스",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWVV0MWdaMndaejB4eXVERDVqLXJvc3JxbUt4TVJ2U2dWMTAxNkY1RHJMM1RiMGMyS25KdDdHek83aDdOc2dFYTRvWjc2MFo3eFFFVzB0RmdWYWtjSFVjMm5TTFVqUkE?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 10:07:34 GMT"
+      "title": "[그래픽] 한국-인도 정상회담 주요 내용",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hcVpCRXhTSTctY053NkpLX292UXJkcVlYZFVWbFdHbHJZanJRLV9zVVM0WnBRY1phYlNrdldtOE1iY3NnbHd5X0pQS05BaFk?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:07:25 GMT"
     },
     {
-      "title": "[주요공시] 4월 20일 오후",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95M0g3VVpqUmZ3STl0VGRyVE1GTkRqUTRYREJRRmFMdzduUmwxUVBCbWN2VjN0U29STHViUWh1dGUtbUZ2XzFuR2s4S3R4bENlX09v?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 10:08:00 GMT"
-    },
-    {
-      "title": "정원오 vs 오세훈…탈환이냐 수성이냐[노컷브이]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wVHpJNk10cXM1ZzUwcWVoWTgzLUw1QVdibUZyMXFjSGxSc05KdDNCWk9uX2VHdlNHYlNFX1JtampaQlMyUFVvLW9oTWJ5WmxzNE1z?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 09:52:00 GMT"
-    },
-    {
-      "title": "유정복 \"장애는 장벽 아닌 다양성\"…인천형 포용정책 확대 의지",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MM2xWeTJDTHc5dnNpUzNqX1pndjNjRjlMLXF5NTFlR2xzSXVvZFFMN0lhQkNqVURmbnp1YnBpZTVIRmExNzVaS3dzV2dOd1kzdDVB?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 10:02:00 GMT"
-    },
-    {
-      "title": "정진완 우리은행장, 인도 경제사절단 동행…현지 협력 모색",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82aldwTTg5OFVSZVpUd3c2dzd1YktrUDUxakNOa29EVTNiNXViTXBtbDhTMmt6VTRqMTVoQWhMS2RTR2FOWEtrRTRXaVg5UUx3SUJVTUFiS0N6RlJUSU5TSjdhRmlEbzhlVGc?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 09:41:00 GMT"
-    },
-    {
-      "title": "정진완 우리은행장, 李대통령 인도 경제사절단 동행",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yR0xLclJLbWd4eXJoc0g1S1RKc2ZsVVBWSmMtZ2ItbEtyNzJDaFJEc3BocFpWYlUxMjlORlFDblFodzYxX3dmRzUyTkFEVDRacEhN?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 09:28:00 GMT"
-    },
-    {
-      "title": "李대통령 '인·태 해양이니셔티브' 참여…모디 총리 \"정말 기뻐\"",
+      "title": "글로스터호텔그룹, '제주 함덕'에 6호점 개관",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pSXUyQ1JwYzZoN0U2eHMxVE1CakphME9sWWdrMnliV1FsTUo2WTlTQktneERUQ25GT2lJczVFVWE3czJrSFhESUF6eHp2dGlwSzctLVJHaExMT2M?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 09:58:25 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByMEIyc3pTckhXdEl3cnVIdFJPbF9FaVpiQ2NmVTcyZjAtWF9hUTRmazhmVHZwdTN4ZkZKWGx3UXNQMFR1MjhmMnVmUDhiOWFvcUlHbENn?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:20:05 GMT"
     },
     {
-      "title": "한수원, 원전지역 소상공인 600억 희망채움기금 조성",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRVTR0OVVLMG1RUjVaSE1xUklGLTZVeFFVbkpfY09QSnYyeFFWb0tOMlhqUFpsdVpPYXBhRnh4WFdBa2Y5QldzSkFGMC1zUFVPMmhn?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 09:42:00 GMT"
+      "title": "글로벌테크놀로지 등 4개 기업, 코스닥 상장예비심사 신청",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0ZKMFBZYW1FZW1adHVsWjNUVUFkX1NBRE1wcm5WUTBGU1p1VVRiQnhDWlZtMG1abTZCUEtLNk9zaFhZalVkS2wtTDVrcmdoOGpTcDJZRkdJZDhSUUdSQWQ0cmlhTFNBd1c2SVZNWDdlS0lQeV9vTVlTQmRpZmcxWWZJd21ndVM3Z2hYYURqdDRuM3BQbTVqazZSM1QzQmFzMHlkcUpEMHh6Y3JlUVBoT1ZQbVpaYWtIaWc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:22:58 GMT"
     },
     {
-      "title": "국힘 서승우 청주시장 예비후보 본경선 진출",
+      "title": "공정위, '쿠팡 총수 김범석' 못 박는다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12TkRib2lQQVFFNndFMTUyeFVhTWlPT3hqb3B1UW5lbk1vTTlUX0pUZWxHWm1BeXI5endOak4wYTRHOFNNTHVZNXpLWTJYOHM0UzVr?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 09:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zelQxRXN0dUF5VGdaWmtNaVdJeEwtRG9HU3lTWkZoWDJlZ2VraURfcGtaUk5tZE8xcEZRT3hWdFZHVjZJUnp5b0hLS2Nrbkhvd2p3?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:34:00 GMT"
     },
     {
-      "title": "이재명 대통령 인도 공식환영식…기마병 등장 극진 환대[노컷브이]",
+      "title": "14억 인도 시장 공략 나선다…네이버, 印 최대 IT기업 TCS와 맞손",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Sd0MtQk9rV245cEM1OFZDZXhsOE9qWjZiS0JPbC1EaDJLLTVKb0oxNm1YSzluQlRubHh0VU0wUG9UNnhiWU9UUXdac0NxdTQwajZBSHduQUJ2VWdUc0E?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:37:59 GMT"
+    },
+    {
+      "title": "장동혁 \"공화당과 핫라인 구축…거취 내가 결정\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWYndiMjBFWndWMkg1VDRZYUVIcURYZ25RWV8tQUtmX3hoNmVjVWoxZXhrRTVGQVkxTndpQktPS3RrV0NfZmlmaEVrZHVtNU5oZGVpLTlCVFBNWVNOM3hrMUN6UHlucXZYelg3NnJXV01KT0ZWMnhsSw?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 09:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQejZ6UEhCSnkyZnJjdWF5RDdSX3ZwNDFiZkVfSkJlVlZaQkJZSnNWZWloT2ZsMVRYWGx1akFBckVOVTBCSjlaMHN1Qy1yLUJXYl9N?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:24:00 GMT"
+    },
+    {
+      "title": "“BMW·테슬라 긴장해야겠네”…벤츠, 반격 카드 ‘C-클래스’",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWZTeTJuRVA3dm90bFhpVnc5UEwxNU8xWDQzai1QNTcxbmtONUFEcjZiOGFWTnNxd1I5LVRpYTNZYzBrN3FLZTMwTVdyMjg5NjZxYnp6bWUzUzNkbjFzd1RaT0dVRkNBVWp6bjdkX1pTR0l4OEE2cWh0MkxlMU5aS1kxa2xIX0xaTFQwMG1pSHgzcUttOUJkZU9yYlJqSEdGQXE1TnQzWUl6RWh1b2V1bVV1OHZBUzc1?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:12:57 GMT"
+    },
+    {
+      "title": "쿠팡 총수 바뀔까…공정위 다음 주 결론",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IQjJJeGRydFFpTnlVc0xRZU1CTVFmclo0dlotT291aWw2ejNzS3BkZU9MTk4yRjI1WWVTQnBtMFFic2RQNDh5NjZnWjNxZ3E5dFVV?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:39:00 GMT"
+    },
+    {
+      "title": "벤츠, 한국서 첫 월드프리미어…전동화 C클래스 공개",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanBKUnotbmNZTWs2cVJUMFZJRVdlaDRva3Zaenk1T3BtZDdiRGZVS3dnMjgxZldlenkxSFM0Sl9GM3d0RGNuWVVGZnRjUm9QdEVTVko2dWlaa3JsUHQ1THBJRlFSLUNSQzNneU9tY3c5SFRTNmcwNTQ4bUFDTzhqdzVqVGl6NjRjWnlqNGV4U0x1dGR2SUVHclNicUFVVzNfeEEwZ3JuX1FfbU90SWlOa0tLX0hkdzNC?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:02:57 GMT"
+    },
+    {
+      "title": "[클릭! 자치뉴스] 서울 은평구, 신사고개역 신설 타당성 확인",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RQVI5RVdPRDhtSzR5clVqS3hQaGhfa3VFY25YYzVvMExxaERwUGtQUTlOVGM4bDBvUmZ0TGxnRXhreTJNZEJLQUZ1ZFJIWVhxOWJNMWM4aldrVXdQUVpVbg?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:01:00 GMT"
     }
   ],
   "sources": [
