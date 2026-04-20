@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T20:47:36.129283+09:00",
+  "generatedAt": "2026-04-20T21:53:29.314443+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약한 이슬비",
-        "temperature": "8.6°C",
-        "feelsLike": "5.0°C",
-        "highLow": "최고 12.7° / 최저 7.1°",
-        "humidity": "47%",
-        "wind": "7.8 m/s",
+        "temperature": "7.8°C",
+        "feelsLike": "4.4°C",
+        "highLow": "최고 12.7° / 최저 7.2°",
+        "humidity": "48%",
+        "wind": "6.5 m/s",
         "rainChance": "33%",
-        "pm10": "149.0 μg/m³",
-        "pm25": "60.1 μg/m³",
+        "pm10": "170.4 μg/m³",
+        "pm25": "64.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "72",
-        "updatedAt": "2026-04-20 20:30"
+        "airQualityIndex": "73",
+        "updatedAt": "2026-04-20 21:45"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "6.7°C",
-        "feelsLike": "3.8°C",
-        "highLow": "최고 14.1° / 최저 5.1°",
-        "humidity": "73%",
-        "wind": "7.9 m/s",
+        "temperature": "5.6°C",
+        "feelsLike": "3.0°C",
+        "highLow": "최고 14.1° / 최저 5.5°",
+        "humidity": "75%",
+        "wind": "5.0 m/s",
         "rainChance": "33%",
-        "pm10": "170.9 μg/m³",
-        "pm25": "63.6 μg/m³",
+        "pm10": "191.9 μg/m³",
+        "pm25": "67.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "70",
-        "updatedAt": "2026-04-20 20:30"
+        "airQualityIndex": "72",
+        "updatedAt": "2026-04-20 21:45"
       }
     ]
   },
@@ -103,9 +103,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,967원/L",
         "lowestDistrict": "강북구",
-        "stationName": "(주)자연에너지 번동주유소",
-        "address": "서울 강북구 한천로 963 (번동)",
-        "updatedAt": "2026-04-20 15:01:09",
+        "stationName": "(주)서울에너지 시민주유소",
+        "address": "서울 강북구 인수봉로 185 (수유동)",
+        "updatedAt": "2026-04-20 15:06:11",
         "districtSamples": [
           {
             "district": "강북구",
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-20 10:59:22",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-20 15:11:01",
         "districtSamples": [
           {
             "district": "계양구",
@@ -163,9 +163,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,959원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 성북지점",
-        "address": "전북 익산시 망성면 익산대로 2802",
-        "updatedAt": "2026-04-20 06:52:50",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-04-20 15:53:03",
         "districtSamples": [
           {
             "district": "익산시",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[그래픽] 한국-인도 정상회담 주요 내용",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hcVpCRXhTSTctY053NkpLX292UXJkcVlYZFVWbFdHbHJZanJRLV9zVVM0WnBRY1phYlNrdldtOE1iY3NnbHd5X0pQS05BaFk?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 11:07:25 GMT"
+      "title": "[영상뉴스]오늘의 주요뉴스 2026년 4월 21일",
+      "source": "영남경제",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2YzlDYXhld1lhaXpjTnhOS3A2S21IaTVoMV9MVm9QU3BXWFFMTEZoWDZIdk5SZ1dqMEpVYzRtNnk2STRsUzgxYm1UZGJ2Z1R1Z3ZYci0yUUFlQ1RVeENZY21Tdk01QVk?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 12:37:23 GMT"
     },
     {
-      "title": "글로스터호텔그룹, '제주 함덕'에 6호점 개관",
+      "title": "차이나+1 거점 인도 공략…재계, 첨단·디지털·에너지 협력 본격화",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByMEIyc3pTckhXdEl3cnVIdFJPbF9FaVpiQ2NmVTcyZjAtWF9hUTRmazhmVHZwdTN4ZkZKWGx3UXNQMFR1MjhmMnVmUDhiOWFvcUlHbENn?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 11:20:05 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PVHhHWFV5WDdGQzBUTVVDckFMdWJxRlFZZDFiVlJaZnc0NkZfSFlCZlpRU0J4aDRXa3BXTHBoOFFrR0JWQW0yYndiNU1WMDBLaXhsYTRXUjhTUEo3OFVsaHhBcGs?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 12:23:15 GMT"
     },
     {
-      "title": "글로벌테크놀로지 등 4개 기업, 코스닥 상장예비심사 신청",
+      "title": "[게시판] 'GD 소속사' 갤럭시 대표, 李대통령 인도 경제사절단 합류",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0ZKMFBZYW1FZW1adHVsWjNUVUFkX1NBRE1wcm5WUTBGU1p1VVRiQnhDWlZtMG1abTZCUEtLNk9zaFhZalVkS2wtTDVrcmdoOGpTcDJZRkdJZDhSUUdSQWQ0cmlhTFNBd1c2SVZNWDdlS0lQeV9vTVlTQmRpZmcxWWZJd21ndVM3Z2hYYURqdDRuM3BQbTVqazZSM1QzQmFzMHlkcUpEMHh6Y3JlUVBoT1ZQbVpaYWtIaWc?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 11:22:58 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHlsTDh5VktRMkxRR3dPN3lEMkFJdUNSUl9QallqNFNFY2V0UTdOUUJiT2FlbDhKQjNvU3JEVjk3YUpiSnFCdF9Tcm5XLTBUNXRSUDhucFdSSk93TFh5X1VNTU92bk5HTFI4dXlYbjFDU1VuOWVUTExYMV92MXB6elBnejU4M2RzTnZMSUR0MkFyN2xPV1RDNDA5UlU1TzJRcVpsbFZIOFdDWEVBa2tIR1VZMFZwTU5wbHc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 12:38:36 GMT"
     },
     {
-      "title": "공정위, '쿠팡 총수 김범석' 못 박는다",
+      "title": "광진구상공회, 2026년 상반기 조찬포럼 성료",
+      "source": "서울로컬뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ubHhzV3FCLWdEZFUxbmlxRjRIeUJOZGVJbUxDaS01dkpMME5oQkFFbTdMNG9fVTNOdlU0YnpaUE9IcFpyaEduQjFSX1lXWmpQQ1lJc2ktTm4?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 12:51:11 GMT"
+    },
+    {
+      "title": "열흘 만에 돌아온 장동혁…주요 후보들은 '거리두기'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zelQxRXN0dUF5VGdaWmtNaVdJeEwtRG9HU3lTWkZoWDJlZ2VraURfcGtaUk5tZE8xcEZRT3hWdFZHVjZJUnp5b0hLS2Nrbkhvd2p3?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 11:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05aE1pY2M0LTI3ejNpVGJSa1l5RUhlcWNLRlZFY1RadGpxVVJNR0VMbXdYX0lONlpFNDRIT2UwWmJaODhwSkZXOW5md0xiWmo1bGlr?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 12:04:00 GMT"
     },
     {
-      "title": "14억 인도 시장 공략 나선다…네이버, 印 최대 IT기업 TCS와 맞손",
+      "title": "스트래티지, 3만4164 BTC 추가 매입",
+      "source": "코인니스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fUEFQRGVhS2tDVEtlZHFYNlRpdXZsZkNSeU1vcG43RjdwbWo2V0h1SmNoVVJRRGhuNWNJRXEzRUJvWWNoUmlmSQ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 12:03:30 GMT"
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한은 총재 임명안 재가",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VbEVvSm9XaFlDcTBsdlRHeDhJaXg5RC1QSzM3SFl0MDZwYWRHY004OEE1MmVBd3dBQ0FsaVNETmRwb1I3cm5DT1dxVDQxU2NBLWc4UEs0QTFxNU0waWJ2V1p5d3BrWmdBdGR6OGFn?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 12:02:00 GMT"
+    },
+    {
+      "title": "한·인도, 중동전쟁 대응해 나프타·석유화학 원료 안정 공급",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Sd0MtQk9rV245cEM1OFZDZXhsOE9qWjZiS0JPbC1EaDJLLTVKb0oxNm1YSzluQlRubHh0VU0wUG9UNnhiWU9UUXdac0NxdTQwajZBSHduQUJ2VWdUc0E?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 11:37:59 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12cTFxcDBZX0pPQ0pHV1VURTZyTi1WZGYxNFFWNVlqNjVZbGpxblVIbU1PdmVXcjItaGZlQXdrUEVfemZSbTBvbmdienZwcm1aeVZ4bFN6UmkyNGo2REE?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 12:48:59 GMT"
     },
     {
-      "title": "장동혁 \"공화당과 핫라인 구축…거취 내가 결정\"",
+      "title": "\"이란 권력투쟁 심화…호르무즈 정책도 혼선\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQejZ6UEhCSnkyZnJjdWF5RDdSX3ZwNDFiZkVfSkJlVlZaQkJZSnNWZWloT2ZsMVRYWGx1akFBckVOVTBCSjlaMHN1Qy1yLUJXYl9N?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 11:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Kckx3ODRGZEsyeGYwZXdJUDVFdHQzQUtkMUxUeVk0MEZJdGpMTVlrNGg5WGw4N25IOEVmOFZiLTl4QTBUUmNheVJ0NjFRb3hvcHdoV0I5eG90QVdkQ2tWWQ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 12:44:00 GMT"
     },
     {
-      "title": "“BMW·테슬라 긴장해야겠네”…벤츠, 반격 카드 ‘C-클래스’",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWZTeTJuRVA3dm90bFhpVnc5UEwxNU8xWDQzai1QNTcxbmtONUFEcjZiOGFWTnNxd1I5LVRpYTNZYzBrN3FLZTMwTVdyMjg5NjZxYnp6bWUzUzNkbjFzd1RaT0dVRkNBVWp6bjdkX1pTR0l4OEE2cWh0MkxlMU5aS1kxa2xIX0xaTFQwMG1pSHgzcUttOUJkZU9yYlJqSEdGQXE1TnQzWUl6RWh1b2V1bVV1OHZBUzc1?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 11:12:57 GMT"
-    },
-    {
-      "title": "쿠팡 총수 바뀔까…공정위 다음 주 결론",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IQjJJeGRydFFpTnlVc0xRZU1CTVFmclo0dlotT291aWw2ejNzS3BkZU9MTk4yRjI1WWVTQnBtMFFic2RQNDh5NjZnWjNxZ3E5dFVV?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 11:39:00 GMT"
-    },
-    {
-      "title": "벤츠, 한국서 첫 월드프리미어…전동화 C클래스 공개",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanBKUnotbmNZTWs2cVJUMFZJRVdlaDRva3Zaenk1T3BtZDdiRGZVS3dnMjgxZldlenkxSFM0Sl9GM3d0RGNuWVVGZnRjUm9QdEVTVko2dWlaa3JsUHQ1THBJRlFSLUNSQzNneU9tY3c5SFRTNmcwNTQ4bUFDTzhqdzVqVGl6NjRjWnlqNGV4U0x1dGR2SUVHclNicUFVVzNfeEEwZ3JuX1FfbU90SWlOa0tLX0hkdzNC?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 11:02:57 GMT"
-    },
-    {
-      "title": "[클릭! 자치뉴스] 서울 은평구, 신사고개역 신설 타당성 확인",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RQVI5RVdPRDhtSzR5clVqS3hQaGhfa3VFY25YYzVvMExxaERwUGtQUTlOVGM4bDBvUmZ0TGxnRXhreTJNZEJLQUZ1ZFJIWVhxOWJNMWM4aldrVXdQUVpVbg?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 11:01:00 GMT"
+      "title": "김영환·윤갑근, 충북지사 토론회서 '강한 충북' 한목소리",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5SlBWOHRLeGk2WUxPdHNPT0Y5RXFPdU1vOEl6OWdOVE9OR2ZXMDBJcFppVGxUa0Y2ZENKSkMwemdDRHppU2REQkFKVnc0dUZSZmJNV21LVnVLTXNKeDlZ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 11:54:52 GMT"
     }
   ],
   "sources": [
