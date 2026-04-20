@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-20T15:35:13.473835+09:00",
+  "generatedAt": "2026-04-20T17:34:57.650841+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,231.87",
-      "change": "+39.95",
-      "changePercent": "+0.65%",
+      "value": "6,219.09",
+      "change": "+27.17",
+      "changePercent": "+0.44%",
       "direction": "up",
-      "updatedAt": "2026-04-20 15:01"
+      "updatedAt": "2026-04-20 15:30"
     },
     {
       "label": "코스닥",
-      "value": "1,175.69",
-      "change": "+5.65",
-      "changePercent": "+0.48%",
+      "value": "1,174.85",
+      "change": "+4.81",
+      "changePercent": "+0.41%",
       "direction": "up",
-      "updatedAt": "2026-04-20 15:30"
+      "updatedAt": "2026-04-20 17:33"
     }
   ],
   "usMarkets": [
@@ -48,52 +48,52 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,477.5049",
-      "change": "+11.35",
-      "changePercent": "+0.77%",
+      "value": "1,472.6050",
+      "change": "+6.45",
+      "changePercent": "+0.44%",
       "direction": "up",
-      "updatedAt": "2026-04-20 15:29"
+      "updatedAt": "2026-04-20 17:23"
     },
     {
       "label": "100엔/원",
-      "value": "930.20",
-      "change": "+3.20",
-      "changePercent": "+0.34%",
+      "value": "926.35",
+      "change": "+5.35",
+      "changePercent": "+0.58%",
       "direction": "up",
-      "updatedAt": "2026-04-20 15:22"
+      "updatedAt": "2026-04-20 17:24"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "강한 이슬비",
-        "temperature": "11.0°C",
-        "feelsLike": "9.5°C",
-        "highLow": "최고 12.0° / 최저 6.6°",
-        "humidity": "84%",
-        "wind": "7.6 m/s",
+        "summary": "약한 이슬비",
+        "temperature": "12.7°C",
+        "feelsLike": "9.9°C",
+        "highLow": "최고 12.8° / 최저 7.2°",
+        "humidity": "56%",
+        "wind": "9.4 m/s",
         "rainChance": "33%",
-        "pm10": "133.6 μg/m³",
-        "pm25": "59.8 μg/m³",
+        "pm10": "181.6 μg/m³",
+        "pm25": "58.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-04-20 15:30"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-04-20 17:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
         "temperature": "11.1°C",
-        "feelsLike": "8.7°C",
-        "highLow": "최고 13.4° / 최저 5.2°",
-        "humidity": "89%",
-        "wind": "15.5 m/s",
+        "feelsLike": "8.3°C",
+        "highLow": "최고 14.1° / 최저 5.4°",
+        "humidity": "74%",
+        "wind": "13.7 m/s",
         "rainChance": "33%",
-        "pm10": "65.0 μg/m³",
-        "pm25": "32.9 μg/m³",
+        "pm10": "189.5 μg/m³",
+        "pm25": "69.4 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "63",
-        "updatedAt": "2026-04-20 15:30"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-04-20 17:30"
       }
     ]
   },
@@ -103,9 +103,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,967원/L",
         "lowestDistrict": "강북구",
-        "stationName": "(주)석산에너지",
-        "address": "서울 강북구 삼양로 316 (수유동)",
-        "updatedAt": "2026-04-20 08:00:00",
+        "stationName": "덕릉로주유소",
+        "address": "서울 강북구 덕릉로 158 (번동)",
+        "updatedAt": "2026-04-20 14:59:00",
         "districtSamples": [
           {
             "district": "강북구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "해수부, 해양수산시설 집중안전점검 실시",
-      "source": "해양한국",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ra0FDeXo0dy1aUlk2YWhXaTR0bzJlY040eVVvVXRYVUliRW9icUdYZEZzM0tjejFNeFpJa2h2c1pLN2NtMGk4MU1GMGpHZWdGVmNIUlhoalhSYzQwS016MHRmRUlrbi1CRG04S1BWNW9HaFB1YUxXVmdB?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 06:16:26 GMT"
+      "title": "흡연: 앞으로 액상형 전자담배도 '담배' 규제 대상...무엇이 달라지나",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWNlk0Z0pLRkhaazc1UlZpQTN3Q210b2NvdmVDajU4eWl6U1VZbmhTN0d5eXpwcDBGNFAydFJnMHNYTnoyaWxzMllGWHNhVGd2VElHUldoYjR0VHN20gFiQVVfeXFMUFNVV3JKelF2UUc0N3oxVU83QzgyX3lCRXl5ODd4V2ZLUXNxUFE1TlpCei02OFpGbXJYalpBcEsxNkx6a0gzSDN4UEFRcnJvX2x5NHJWSkRZTkF2Z2puQ21ERXc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 08:05:41 GMT"
     },
     {
-      "title": "하루 10분 호주 뉴스: 4월 20일 월요일",
-      "source": "SBS Australia",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnpISlhvV0gtb1I2UEdXUDdtNmt5S2ZOQ2J1R0hIY0hhM2JtbGRKT25Cdkpqa2VzeWZoVHhGUW5WQ0dpekN4NklqdFdnXzdwMHpfYlBJVDRKemdJOTFGRno5aDF1Z1RFdHhRZ0hCREl6b05HZGV1V0JPT005WGdqVkZqWTY4ZGNZcnV2TE1yZlhnd2FVbDMw?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 06:27:15 GMT"
+      "title": "[강원소식] 강원CBS 개국 31주년 피아니스트 김태형 리사이틀",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5peS1yVWxCc2c3VnpRNjE0X04yZkpsd0hGU2M1M2M5NnBmWThNcS1nVWdaUzcwdV9SVlJxVkNiRm4yNWp1Y3pWMkdReG1rWGk4Ulp0NFo0SkpMZHN1d0hWQdIBYEFVX3lxTE5peS1yVWxCc2c3VnpRNjE0X04yZkpsd0hGU2M1M2M5NnBmWThNcS1nVWdaUzcwdV9SVlJxVkNiRm4yNWp1Y3pWMkdReG1rWGk4Ulp0NFo0SkpMZHN1d0hWQQ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 07:35:39 GMT"
     },
     {
-      "title": "[수도권 주요 뉴스]도민 78% \"부동산 불법 심각\"",
+      "title": "[주가] 4월 20일 주요 제약바이오 5% 변동 현황 - 진원생명과학 2연상",
+      "source": "메디파나뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ndDdWbklDQUkxTjRkcS1vNjQ0QjBsWEw5bm5kd1JDd0d0X3ZpSi03TGhwcjA1aEFPMTVsRjNfTDNBMFpnQS1rSHFFSG1ILWNBaVlFYzlhVWtIQnpweXVPZ2RvN2NGdFFuX25j?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 07:37:10 GMT"
+    },
+    {
+      "title": "정원오 후보 초청 서울시 장애인 정책 간담회",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1Nk1vY0ZiN0xFRm16YVRrWkc4N0Zyd1gtTXRmR1JKRmFIWi1xeVRmOURKRE1sUlBrb3pFMElkckFVeGd0T0pvZG1tbFJpdkJyS0Yw?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 06:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aTHpWcTVqYzZPVEdENXEyU0xPRUEza1dSS3V1VGxVamVTTU54Vm5qX28xQ09kVjNKcmpNLWc0bDI4Qm1PWnFJVU5tTmIxTnZSaEsw?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 08:07:00 GMT"
     },
     {
-      "title": "HBM 이어 소캠도…하이닉스·엔비디아 깊어가는 ‘밀월’",
+      "title": "미, 이란 선박 나포에 유가 급등…금융시장 폭풍전야",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdncxNTdBOFJyUVdjVEZPTFhEeGdZQkxfMDlvTzRlMkpmTzZUOWEwcGtqVzVMSlVLeXhlamRGSHBENjI2VWpoNlZrdFE5RUhOWHFTaDhNSW1uQmlFUDhhemE4X1pZaDlZS0JBbW1NWUpsdmNLdnhkYXctU3pQZWQybFRfaUxtSEZ5U2swRmp5aU9udmdtWjRoNTRDdWFTaWpVTmFWNTMzaWxxUTBNRDV5SzFBVzZ1QUZiRUE?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 06:15:27 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnZHdFh3SVc3ZS1YVVgxSEVjSEJFS0tVYUlncXdadUp2b21uQ3pSWm50Q2JjWkRJRGlsSUdBM29kclBMZkpndG1tXzhPM0tEUVJWcG93MzJMM0UyWXcxTjZqTXJwbjh0ZnVuTklhOHdXZVdhOE1OMGtjVUNnbUxSLWx0WWE2Z2YwejNoYkMwbDhhaDVUa29GMExHaWUzZVZmVldEaEVsQ19pNmQ1TkU0V2Fqc2dmbEJK?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 08:02:38 GMT"
     },
     {
-      "title": "[인천 주요 뉴스]인천시, '인천가족공원 반값 화장료' 지원대상 확대",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51WG5KQ1I4eUlvd2RudF81OGYtTW5wNUc3TlhWY29YRzV3MGtYdFRqRVB1cDdTTjhYMWxERkxrOUR0SkIzX0I2Z1lSTDNwQW9QbHJuN3VLWWFyMFRKOVFQRQ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 06:02:00 GMT"
+      "title": "한온시스템, 회사채 수요예측 흥행…발행 규모 700억 확대",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lZUJYTDd1TFM5NnY5MHA1ZWh3OU1LNnpRM0hPYkdZY19Cb0xXZG96UGtPQmM4ODNfdUxNcWJqSmJNYS1RQ2hxSFRsZk9Nb3pOdmFGTm1sdEhzcVJvUUJkbm1qc3g?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 07:51:29 GMT"
     },
     {
-      "title": "장동혁 오자마자…'친한계' 진종오 진상조사 지시",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HVk9ORVZCNUh2S29haFh5ODREN21mUlN5V0FRNm5IZWQ1LXc0MGxiNExkbnlZbGtSaTdPVjV2T1liTmlNWXFiREpSbkk1RzA1TndR?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 06:27:00 GMT"
+      "title": "한동훈 \"장동혁 방미, 대단히 안타까워\" [데일리안 1분뉴스]",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QdTdnU2ZESkRVZi1GWjl3REpwZFF0LVNOUW1sc05iRkp4V1VOU2czbGY4MTVsdGRHcUkwWHlleU5KaGg0ODhsVGZvaEg1bzJUaXVDZHJZY9IBmgJBVV95cUxON1p4czhueTRLME1ZQ2R4MTZvWG1fbHZlb3BxRGlnUHdqT3Z0WS1ORnpBa1dzNi0tdEhrOW5VRXduVmNuQTVmZGZfY0htNVZza2tMM01yV3dqTTdXWFFaOVlQaEF2YnFtOWVTaGxzdGkwVEt2UXZEb3BlR3Y2a0Myd1pmSTZoOWVodUY3elluNmR6aHhET0owWEVqV0dTUjd0bUVZTTVtbDR6TEVSQ0Vid2dmYUM4Q0JBSkQwWEdhbUVPMHN0SjBucVpvYWlVc2pTdU03c1VKY09ubjYxcE5XaTZoa2JqS3liLUJFQWZUcV9TdDZ5Q2Ewb0FncGJXTzFnWjA2MlFSYXJuMGdpZXhSU29HNm8yb1E4cXc?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 07:35:00 GMT"
     },
     {
-      "title": "iM금융, 국내 최초 블록체인 선불결제 실증 성공",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtR3JjWHNOT0k4RVZjV3ZxdWY1OGdNdWxOVm9xR3lBTzlMX2VsczZrckI4VWNJVkxrV0RxZ2lka1g1Q3Z4bWpsUXdVVUVRaFQwMkxMTzhvS19lS2N3V0hBNA?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 06:17:00 GMT"
+      "title": "공정위, 올리브영·다이소 대규모유통업법 위반 여부 조사",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4RTl3QjhrVFdoaVItU3MzaE1GcWFUQ1FOcHpDUlprRElKa0ZHMUpEemUyVHNQVUlNVmUySUZqZHZVaGdPWHBUZm9uOGotUzM5Y3c?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 07:38:51 GMT"
     },
     {
-      "title": "진안군, 벼 육묘상자처리제 공급…\"병해충 방제\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PVHREWnNYYm9rLWoxN2Z5b0o4T2dkc1Q1a0tFUXJFVldobzNwRWZkNDJFUXY0R2R3QVVLSHFxdExrVV9veThOM29obndGQ2xXMDVN?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 06:12:00 GMT"
+      "title": "장동혁 美 핵심인사와 핫라인 구축...정청래 외교참사",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kc2VfaFdLUWR3ZlN4eFFuWUUyNDJCODJoUmROT0FUZmxlY3Y0TjJDU2FaMXNvZGdCb3JacTFkdkxUZ29JVDQ3SWUzVEozVWdKVU5PRmg2N1bSAVhBVV95cUxNZHNlX2hXS1Fkd2ZTeHhRbllFMjQyQjgyaFJkTk9BVGZsZWN2NE4yQ1NhWjFzb2RnQm9yWnExZHZMVGdvSVQ0N0llM1RKM1VnSlVOT0ZoNjdW?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 07:35:01 GMT"
     },
     {
-      "title": "‘아동친화도시’ 연구용역 최종보고회 개최",
-      "source": "교차로저널",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SZi10OGZoTFdIUkRsYnRWX1JpUXdLRWQxSGpBS1ozTDkyVXQ5cjBITXJHNE1GeFJQaVplcndnWkVuWmx4SVktd2FXbWJPam9vTWNnRVVmRnk5Wkg3dnpXaURvVUhJT2Zn?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 05:43:51 GMT"
-    },
-    {
-      "title": "안산시, 3기 신도시 대응 본격화…협업TF 가동",
-      "source": "노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMejFhNnhoRHhvNzl3WExGeUpqMmFMa2ZTMXZURGltSnNPYTNfNlFOYjlqYVlpa3ZkNTNaSl81WDdNeFA2SjNreVdrZFY1YWFFd0E?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 06:16:00 GMT"
+      "title": "[속보] 李 대통령 “한-인도, 에너지·원자재 수급 협력 지속”",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tVElieE1VZnduaEh0UlMxaFJTdjlrdkFfcTl4R3JkeVotbGdSM2ZtdVY0ZXVVLTNRLXpwSDhWc1Y2ZmVDaGY4dEU4WHBIaE1nMjI1SHZRSzcxX3JST1BiTm9jeVNQOHVGS0t6TDk4MDM1N05s?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 08:32:00 GMT"
     }
   ],
   "sources": [
