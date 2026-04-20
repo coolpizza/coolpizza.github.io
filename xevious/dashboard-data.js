@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-20T23:34:18.978407+09:00",
+  "generatedAt": "2026-04-21T00:54:25.270931+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,78 +22,78 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,452.20",
-      "change": "+4.77",
-      "changePercent": "+0.01%",
-      "direction": "up",
-      "updatedAt": "2026-04-20 23:23"
+      "value": "49,411.31",
+      "change": "-36.12",
+      "changePercent": "-0.07%",
+      "direction": "down",
+      "updatedAt": "2026-04-21 00:48"
     },
     {
       "label": "S&P 500",
-      "value": "7,117.76",
-      "change": "-8.30",
-      "changePercent": "-0.12%",
+      "value": "7,101.19",
+      "change": "-24.87",
+      "changePercent": "-0.35%",
       "direction": "down",
-      "updatedAt": "2026-04-20 23:24"
+      "updatedAt": "2026-04-21 00:49"
     },
     {
       "label": "나스닥",
-      "value": "24,400.61",
-      "change": "-67.87",
-      "changePercent": "-0.28%",
+      "value": "24,323.57",
+      "change": "-144.91",
+      "changePercent": "-0.59%",
       "direction": "down",
-      "updatedAt": "2026-04-20 23:23"
+      "updatedAt": "2026-04-21 00:48"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,468.8999",
-      "change": "+2.75",
-      "changePercent": "+0.19%",
+      "value": "1,470.2393",
+      "change": "+4.09",
+      "changePercent": "+0.28%",
       "direction": "up",
-      "updatedAt": "2026-04-20 23:20"
+      "updatedAt": "2026-04-21 00:45"
     },
     {
       "label": "100엔/원",
-      "value": "925.48",
-      "change": "+4.48",
-      "changePercent": "+0.49%",
+      "value": "926.84",
+      "change": "+5.84",
+      "changePercent": "+0.63%",
       "direction": "up",
-      "updatedAt": "2026-04-20 23:24"
+      "updatedAt": "2026-04-21 00:43"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "약한 이슬비",
-        "temperature": "7.0°C",
-        "feelsLike": "3.9°C",
-        "highLow": "최고 12.7° / 최저 7.2°",
-        "humidity": "55%",
-        "wind": "5.9 m/s",
-        "rainChance": "33%",
-        "pm10": "217.9 μg/m³",
-        "pm25": "70.5 μg/m³",
+        "summary": "흐림",
+        "temperature": "6.2°C",
+        "feelsLike": "3.5°C",
+        "highLow": "최고 16.9° / 최저 4.6°",
+        "humidity": "64%",
+        "wind": "4.5 m/s",
+        "rainChance": "0%",
+        "pm10": "229.1 μg/m³",
+        "pm25": "71.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "76",
-        "updatedAt": "2026-04-20 23:15"
+        "airQualityIndex": "78",
+        "updatedAt": "2026-04-21 00:45"
       },
       {
         "location": "익산",
-        "summary": "약한 이슬비",
-        "temperature": "5.4°C",
-        "feelsLike": "2.8°C",
-        "highLow": "최고 14.1° / 최저 5.5°",
-        "humidity": "69%",
-        "wind": "3.7 m/s",
-        "rainChance": "33%",
-        "pm10": "262.6 μg/m³",
-        "pm25": "78.7 μg/m³",
+        "summary": "약간 흐림",
+        "temperature": "4.1°C",
+        "feelsLike": "0.9°C",
+        "highLow": "최고 18.4° / 최저 1.1°",
+        "humidity": "75%",
+        "wind": "7.4 m/s",
+        "rainChance": "0%",
+        "pm10": "292.4 μg/m³",
+        "pm25": "80.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-04-20 23:15"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-04-21 00:45"
       }
     ]
   },
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-20 17:59:45",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-20 15:11:01",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "화물연대 사고 현장 찾은 김영훈 고용노동부 장관",
+      "title": "[주요경제지표] 2026년 4월 20일자",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xckJwbEN0S0gxUWZhczc3Sk5YbXRVd1JxSlhjalg2MHpjNUhnRFlfRzRSVGp4Ti15cGRNN2JOWVZZb2JCT0diRkZGZ3Nqb0JGTjFJ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 14:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NVjkzaFdaZGJXd0FPa0x4T0ZQdjR5VlQtQzdIQjIwcGxrZ0xMRFRHQTZBcGV5ODkzWjNjdW9vS2lKVExJNEdZVHZySDVoV29USllj?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:32:00 GMT"
     },
     {
-      "title": "[6·3고성] 하학열 고성군수 예비후보. 국민의힘 공천 확정 인사",
+      "title": "'이란, 美와 파키스탄 협상 불참 입장 유지'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOelFaZ1FKZ20xSjZwQmp0cnBXbUEtYW5rSUlEXzFXblRURV9URmlNdjM0TUtPSGp5eE56Uzl0YktfeUZVbmFKMTl6b1pyT1JWZTNIdldPNmM3Smt3ellNX1huQV83b0czVS0wQUFGNDNCUC0zdXd5RFMzY1dIQ2U1YXhQQmY1aWhWOFdvXzhsaEJ1c2FvODE0NDJyeFVnSXl6UXQ5azczazFzelhTOVRySTdXLTdscHM?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 13:43:25 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2xEcWtZWlFybDgtc0I0OE1qSDE4cDdfRzJtWkdLQi1jeFBqUXJmNUVpZnVCb0xuWFU5MkJlRzJvbmdya2xfUmI2SDU0QU1XQ2N2bWhBRXpaVE5OZUtQUzVjQ0VNcUJqSnBlRzI4dkZKc2p6TF80aTJXU09TZkJQcDhnMU9ZMDZQMGF5SC1JY0ROakowWkh4Z1ZuUXNSYjhkYnE0c25uVmh1WmJYaTQwYUJmNExiRlE?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:43:49 GMT"
     },
     {
-      "title": "전남지노위, 조선대병원 하청 노동자 사용자성 첫 인정",
+      "title": "[사설] 韓·印, 신공급망 동맹과 CEPA 격상에 힘 모을 때다",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UM09YYnlVS3RZZDFwQlYwYmVJRk5sQXd2ajdteVdmMFRiSGdrdWQtanhYWGJ5ZXBUTm12dTdIS2FQUUxyM1ZBTnpjd01mM0NzbFHSAVNBVV95cUxNYWp1bWF5R3YwT3JFWWRIS2Y5WXJGRWRjZ082XzF5X3BCVXN5alBwMy1Gb0hVcFJUZUoyMDRsNk1UekZ4VUFvUjEyenlhdXBwSzNidw?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:01:00 GMT"
+    },
+    {
+      "title": "[美특징주]아마존닷컴, 월가 목표가 상향에도 중동 리스크 부담에…주가 하락",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDZOV2pHNkJHbTFiYW1Ca3MwdFZTdkN5c0Y0UERELU40dnl4aGdIOUtfOEp4U29vcjBZYzY5QXN2Q29Jc3lKaDlOZUxFNVRpYjNKX0pDM3JVZVY0eXc0WWdjTGM0UFRQVVdDTzdGWnlhR0prS0tyWnVjaWhYaHV3Vw?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:20:26 GMT"
+    },
+    {
+      "title": "[사진] 여야 원내대표 \"민생법안 30여 건 처리\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GOWVGUk9JNFFieXBDU2lkQ2IwYm85cHdCVzNzUHM5c2JXS3kwZ1RZY1lxRHpnZ0d0aEkwUG9XQTNTWkRtSGduaTItbUxWMzJPU2k4?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 14:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvYXk3cmI1VTZWN0xPQVh4LWNoVWlyU3hCQ3QwZHVFRnBwQ05lQzFINmYycU5BQV93elZRWlM5NDRVaW9jVDA1eGJmSDBWQVZuRGJ3?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:35:00 GMT"
     },
     {
-      "title": "바닷길 막히고 생산량도 뚝…쿠웨이트, 원유수출 '불가항력' 선언",
+      "title": "빨간색 사라진 오세훈의 넥타이",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94bmJ6S3NMaF8wOHZpMzBzNVhwZHJxSWxvcTU5RkRTSURUYk13NTk5TXJ1T245M0NHX3MxTzBpOFp0bXhuV0V4bmgwQ3VzNEo3TkNB?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 13:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83YU5GOXdIb09mc3RlMEQ0RU9na2lRbm9icENsMkwwM2IwbUxQa3habWhZM3BvREdXRjE1MUdSUE1jTHIxd0VuSlNnSXI3d0szQ3pvSUxQRW9pY3pQMFN4Xw?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:50:00 GMT"
     },
     {
-      "title": "[속보] 쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓",
+      "title": "민주 \"장동혁 미국 가서 뭐 했나…외교 참사\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56Y0VBLWlvWlY1dlNibXI4LUowUmI3Ny1ydXV0TGlCV0VZRWZNa1J2SFVDOXpPQ0lDVDlBZ3pfcDd1OWlQejUxWGxGdm1NNkZDV1Q2TDVZaW5PSmdSOXJ1LQ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 13:38:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OX3pfRmN5Q3JJMTlPRU1pVjc1RWtVV25mV0NUMHJYLXlOV3JkaDNjaktUOGxic2dyOU5JYU9PR2Y2SHVfal92N1diVEU2RDlpbUFZ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:24:00 GMT"
     },
     {
-      "title": "[포토뉴스]김성환 기후부 장관, '글로벌 그린 허브 코리아(GGHK) 2026' 참석",
-      "source": "BBS 불교방송",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56Nk5peGZ2UlV0ZUdZcFpiaDBReG44V2NTU2dkeXZvbW95U1hKWTJERjlWMFl3U0R2Q2l4d28xSGp4eVB6azYxZUFyTHZlSzdZTDhsdXNzeVlMcXVTdmpFNWk2a2daM2Qyb093?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 14:07:13 GMT"
-    },
-    {
-      "title": "올해 '세계 자원봉사의 해'.. 'K-봉사'로 돌봄·고립해소 나선다",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UNHdjZXZULWdCMkUzUWxwS3pmVWU5bTZWOTIzT291elJCMld6c2pETHdUQ0hEUExaRmV2b0pfNURxbXE5czhZQzV6YWZGQmpHdGJTOS0wMnNLcWZEa3ZoREVDeUtzeVQtRzdJ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 13:41:26 GMT"
-    },
-    {
-      "title": "인도령 카슈미르 산골 도로서 버스 추락…최소 21명 사망",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEJkX3BYeHo5YUdDT3RWVTR4b1ZHcTRteDNOM0d4ZWVac21hbFFWLXJjUC1yVnRaeW1GQXJXbFcyRm9EV0E3UVlTcEQ0dzlmbTBYNVcyeUlpeHhaVFRQdFFoaERncU1GekI3SE9ndlZCcjZURDFJaFVHR0REcGRKU1pVX01jRTJlY1k4SDkwTE40YjJWWmlNLUVuUHRwci1ON2hadHBiZWtqRjl0cmhlZ2VheXhmd0xRbkE?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 14:28:52 GMT"
-    },
-    {
-      "title": "'한·인도, CEPA 협상 재개'…500억달러 교역시대 시동",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWtjbkJUVjczR3Y2bWxBOGx2djBXRnRWVndFR3o2a3JKS3RQWV9DOHd2bXZzZDQxa1NDUU9nVTV3aXp6VXFqLWhNVDNZb2JBb1ZhR25KU1h5clQzNmV3WXFaOVZTQURhQnYyNmt6Y1BDbUt6SXFKTTY1eGo5TlBZdEIyRWZCVno5dnhHVFg2MFd2aDlsdHFQTTdpVW91T2c0S1QzdHRtal9aeEN4SXB4MlVycmRpd05TV1E?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 14:18:42 GMT"
-    },
-    {
-      "title": "한-인도, 52개항 걸쳐 공동 전략 비전 선포[전문]",
+      "title": "편의점 '흉기 난동' 시민이 막았다…하마터면 '아찔'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaOTJibFEwSENoT0Zfd1FQaDdMMVRJSElNeHNJS0tYVXRDN0ZqVkc5U3JuOHoxbnFQQmJVUXZUbFVGXzV5Q29jOERLUzRkeTRVamNN?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 14:19:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSFowZDB3Z2QydlhfaVcxeVktY3NHV2s4b041RWxLdVVucWJQdURXVjhqUFFxYlc2a0ZiWmxDNExwRnpzbkVlVGFEcmFoQWRYWjFr?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:28:00 GMT"
+    },
+    {
+      "title": "\"高유가, 전쟁 끝나도 연말까지 계속 된다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hRFoxZW9UdW42dTdDczdEOUllR05UTE5oQTI3Z0hRcnpxZGlpVlNwSWdnVHR5THNTSFpsRkNIbkYtVDJ3RHlqV2s0aXl2RUJsRzFJ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:33:00 GMT"
+    },
+    {
+      "title": "[시론] 더 미룰 수 없는 에너지 안보 재설계",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2SldYaXloWVFXSVFWUUhmYVRCRDB0ek5aQmROVW5xMGVHSE10RllRNHkzSW42TGpTOWlpTHJzajZlSzlQaFdJakZpYVVBOUR0VFhB?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 15:11:00 GMT"
     }
   ],
   "sources": [
