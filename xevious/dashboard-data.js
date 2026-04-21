@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-22T01:42:58.519098+09:00",
+  "generatedAt": "2026-04-22T02:45:29.154990+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,372.68",
-      "change": "-69.88",
-      "changePercent": "-0.14%",
+      "value": "49,312.61",
+      "change": "-129.95",
+      "changePercent": "-0.26%",
       "direction": "down",
-      "updatedAt": "2026-04-22 01:41"
+      "updatedAt": "2026-04-22 02:39"
     },
     {
       "label": "S&P 500",
-      "value": "7,089.10",
-      "change": "-20.04",
-      "changePercent": "-0.28%",
+      "value": "7,083.75",
+      "change": "-25.39",
+      "changePercent": "-0.36%",
       "direction": "down",
-      "updatedAt": "2026-04-22 01:39"
+      "updatedAt": "2026-04-22 02:39"
     },
     {
       "label": "나스닥",
-      "value": "24,344.26",
-      "change": "-60.13",
-      "changePercent": "-0.25%",
+      "value": "24,328.75",
+      "change": "-75.64",
+      "changePercent": "-0.31%",
       "direction": "down",
-      "updatedAt": "2026-04-22 01:39"
+      "updatedAt": "2026-04-22 02:36"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,480.3292",
-      "change": "+10.07",
-      "changePercent": "+0.68%",
+      "value": "1,483.8400",
+      "change": "+13.58",
+      "changePercent": "+0.92%",
       "direction": "up",
-      "updatedAt": "2026-04-22 01:35"
+      "updatedAt": "2026-04-22 02:38"
     },
     {
       "label": "100엔/원",
-      "value": "928.25",
-      "change": "+2.25",
-      "changePercent": "+0.24%",
+      "value": "929.53",
+      "change": "+4.53",
+      "changePercent": "+0.49%",
       "direction": "up",
-      "updatedAt": "2026-04-22 01:40"
+      "updatedAt": "2026-04-22 02:37"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "8.4°C",
-        "feelsLike": "7.2°C",
-        "highLow": "최고 17.8° / 최저 6.8°",
-        "humidity": "92%",
-        "wind": "3.9 m/s",
+        "temperature": "7.6°C",
+        "feelsLike": "6.1°C",
+        "highLow": "최고 17.6° / 최저 6.6°",
+        "humidity": "93%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "77.3 μg/m³",
+        "pm10": "78.0 μg/m³",
         "pm25": "41.6 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "92",
-        "updatedAt": "2026-04-22 01:30"
+        "airQualityIndex": "90",
+        "updatedAt": "2026-04-22 02:30"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "8.6°C",
-        "feelsLike": "7.2°C",
-        "highLow": "최고 15.9° / 최저 7.9°",
-        "humidity": "86%",
-        "wind": "3.6 m/s",
+        "summary": "약한 이슬비",
+        "temperature": "8.5°C",
+        "feelsLike": "7.3°C",
+        "highLow": "최고 14.5° / 최저 7.9°",
+        "humidity": "87%",
+        "wind": "2.0 m/s",
         "rainChance": "20%",
-        "pm10": "102.7 μg/m³",
-        "pm25": "44.6 μg/m³",
+        "pm10": "104.3 μg/m³",
+        "pm25": "45.2 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "108",
-        "updatedAt": "2026-04-22 01:30"
+        "airQualityIndex": "105",
+        "updatedAt": "2026-04-22 02:30"
       }
     ]
   },
@@ -103,9 +103,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,967원/L",
         "lowestDistrict": "강북구",
-        "stationName": "(주)자연에너지 번동주유소",
-        "address": "서울 강북구 한천로 963 (번동)",
-        "updatedAt": "2026-04-21 15:00:52",
+        "stationName": "덕릉로주유소",
+        "address": "서울 강북구 덕릉로 158 (번동)",
+        "updatedAt": "2026-04-21 22:52:48",
         "districtSamples": [
           {
             "district": "강북구",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "한때 캠퍼스 여기저기서 “니하오”…요즘 중국인 유학생 잘 안 보이는 이유가",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RT2dJRnRyb3FoLXdIYW9BeEVBTlEyNHZSbDJEcHNDVEI0N2c5bG1TLXVfSWpLMmpmUzJKNERVRGUteDJvM0pRbGJKMlZjSjY1SWo2N2QxcWg3Z2c00gFTQVVfeXFMUEo0V1gwSU03LWdFOVl6ZWxaNE1ORzZScm1MVkx1aExGNzFmRFBNMzhkU01qTGM0R0ZYVGZhbWhXeE1ONlRILVBXSEZ6ejFYVHVBMkE?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 16:30:00 GMT"
-    },
-    {
-      "title": "워시 \"금리인하 약속 없다\"…트럼프 압박과 선 긋기",
+      "title": "경북도, 대구공항 연계 인바운드 관광 활성화 본격화",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVWHRMbTVZXzczeGtNQTlZeG0xUkpqa3hZU1luRWVJbUI3eFJnT0tPTWtVMWpKWncyWjkxbmoyWXh1RmlqR1J2SzBVRlNQdE5VR1FF?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 16:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hNHhfeHB4VkVqTWZGdWFTMWpkVnNFTkZKSi1iYU5FSm9TTFZ5UTVLSmNLcjNtR1d0REZPWEcxSTZPSm5meVRySVJuUm5QTVM1LXA0?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 17:37:00 GMT"
     },
     {
-      "title": "국가보훈부, 14개 보훈단체와 정책간담회 열어",
-      "source": "굿모닝충청",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVdmZwU0VVU1FVTUZjWUpCbWUzRFVaRUlYTmJNcDJBLUZoaFpmY2xWTjNWaUMzR215LXlOWFhjcUxOd0wtUTdXU2N0WFYwYVB3VzROY1RsdEpqSzFtS3N2LUFmRDJZeFBneTVKMlNhSUF4UQ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 15:52:25 GMT"
+      "title": "김미자 부천시의원 “땜질식 도로 행정 멈춰야”",
+      "source": "부천신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VU2F0MEVlN2ctbll6UEF2VEdQemVRU2tZT0pWZTktVVNKM2Z2MzRXQUlKTGtheWV1VW0wSDgzeDNJWC1YdU5adHBndFVfV0VhdndsQVNEc00yUWdJQTFBUTNZdjlUS3NmeERjdDBR?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 16:57:10 GMT"
     },
     {
-      "title": "주한미군 사령관 \"한국서 사드 반출 안 했다\"",
+      "title": "팀스파르타, 'K-디지털 트레이닝 AI 캠퍼스'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zZlB6d1Z0WThjQlp3dm4tRURCMFRscmNUWEJqem1rRl9Ka3I1TlY1ZGRTbmFRMjNwczVidFFaSWlJVklwdFNpUGN2MWJtNFktUEgw?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 16:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBONjVkRTlxMGdIYXJOZDlHNnBWeUIwSS1YSURtZzVJNnBTV0JmN0RwNTlVYWllY1kxdUlUT2s5TkVJYmRRNFpvTVpfbjZibGxoT1gw?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 17:30:00 GMT"
     },
     {
-      "title": "체코 원전 주요인사 대거 방한…사업 준비현황 점검",
+      "title": "유깻잎, 이혼 후 재산분할X·수입 0원…현재 수익 '7천만원'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDbHdwTEJLa0Yzay1aVFFFUjFLM1JBQXp2UHNuQi1wOTZxa2ZQTThPR0JTT251cHV1dkp0SVpiU2tsWWRWOWhJNWtxcWJFcFNwbFA0?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 15:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94d3A1WU1yWkNFMjdUWEE4cnU3eG5zWHNFZG53YnZYeGpieXFxbWVFTUFEanM4NkdEcXRGcDUzTGVhRXNFMC1CbEpmX0pucjlkN3dXTGg0X1dUS0pkOFd4LQ?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 17:04:00 GMT"
     },
     {
-      "title": "[포토] '퇴근이 즐겁다!' NC전 2-1로 승리한 키움 히어로즈",
+      "title": "[6·3 지방선거] 이철우 경북도지사 후보, \"경북을 대한민국 산업 심장으로\"…첨단산업·과학기술 10대 공약 발표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LV2szWFFlOEh5NUR1MFJMbWdmUWRUWVN3QnpVeTFBNndLZmd6RGJJY1RrNERCUU56eU5mQXFNMHZZdjlneGFPWmxpek1wMW9UTnZVZ0dOcXhQZVdB?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 16:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuYzRDV3dqZnczVjYyN2w2ZmJfZVotSTh3Z1hZZWFTUXprdENmTXhiZFh0Y2pGY2dudkdsRE1rcDJnRkpvMHozZU9SaHNnbFpMY3Nz?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 17:13:00 GMT"
     },
     {
-      "title": "\"전쟁보다 실적\"…코스피 6,388 '사상 최고' 찍었다",
+      "title": "종전 협상 막바지…이란 \"참석 여부 미정\" vs 트럼프 \"불발 시 폭격\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Uc3ptN3BEQUFJX3ZMdG16VVhCUllxMHZ3NUtBczZsalQ4d0lXLWhaWTlKNXRITk9aOFhvdUtLQ3RXUGxYTDFaOUJvWXBDcklBZkk0?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 15:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52Q3Qxb2VyQWdEYjcxSUhtelFNRHpEWnhfY3liU1R3U0YySURhR09wTDlkNmRvTkFTRGZTSHNtVjRhMEQyOFZNM0htV0NXcGU0Mk5V?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 17:02:00 GMT"
     },
     {
-      "title": "[포토] '볼빠져 세이프' 홈쇄도 김지석",
+      "title": "'실명 위기→충격 폭로' UFC 챔피언 잡으려 이런 추태를? \"경기 전 연락이 왔는데…\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwVUVjc2U3WEJVQ3QtcUZFWHJ5bE5CTWpVRnMwWnpFUm10Ui0xSjY5cUprSE5fQUJ5T2tLX0QtTDVzSEhOc1p6c0ZZVm83N2ZMY1BwZENn?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 15:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NVjZyN19tSzFBcmJOYkRzMDNVdWU5SlQyNXV0VHFULXRoUzFLRWlGSVNGWUUyQmZZdU1hUTcxTlZLUGx1YVpoekhpS3MxMDFUbU45OVcxWnpwVU9P?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 16:47:00 GMT"
     },
     {
-      "title": "대통령까지 가세…심상찮은 한미 안보 갈등",
+      "title": "[MT시평]전력시장, 정치 아닌 기능을 복원하라",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FalZBLTF1T1czTkhGbzg3OEgzU2VxdzExWkpkVGJ6blBVNDlUWmpSVHlXallVOGhWa1M0cU16S1drS2hyWkwwV3B3ZlRwUUdaVGdn?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 15:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nWW1TMFJ5SUdvY1NVQ085YTFYdm1qUmFHdUluanJrRUpyV1VtX2hnRmJ0bzNZVTB2b0FnYUFQY25rbUlCSHY2YU5HV1dzSm1aZjREX0ZPWTR4aEd0LTNqd3BZTUtzVUpQUGRjS0E5bVFPaVZ1T2dnaw?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 17:00:00 GMT"
     },
     {
-      "title": "트럼프 \"관세 환급 신청 안한 기업 기억할 것\"",
+      "title": "[투데이 窓]불확실성 시대,유동성 확보는 생존의 필수조건",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MR3pLOVgxSmQwR2kxaXJuYTJkdS1vWUJXYm5aSnp0eHZWa1FjWlc0VjRBWUF6aEhfU2VhcHZLSy1fRWl4c0RCY3V3TFdoYjFLcTlFTnhYSGc4eVllOHVhWWlPQnprTVY5TXNaNmtlbER4T2UwN2dQaw?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 16:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zbFp4XzZONDJqbW5yc25MSG5PNmtkQlU5SnlSX2p6RFZoczdTY0JyZl9UZW1Pb1Bhd09tNFN1aXFRN05TOS14R0pMVzR3cWFzZk9J?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 17:00:00 GMT"
+    },
+    {
+      "title": "도쿄일렉트론코리아, 임직원 참여로 경기 지역 예체능 꿈나무 돕는다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NcXk1ZWR3Q3BQRFkwQ09DYWlFTTF5ZTJ4di1aVk1YTUtLLTdsbVo3MDVObGhPUDEzVk1yRXFQRkhLMnBhSUIzRTFsNXhtbDlWeHVN?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 17:10:00 GMT"
     }
   ],
   "sources": [
