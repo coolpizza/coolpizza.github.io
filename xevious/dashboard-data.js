@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-21T21:44:51.023593+09:00",
+  "generatedAt": "2026-04-21T23:28:39.732369+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,442.56",
-      "change": "+0.00",
-      "changePercent": "+0.00%",
-      "direction": "flat",
-      "updatedAt": "2026-04-21 05:39"
+      "value": "49,755.18",
+      "change": "+312.62",
+      "changePercent": "+0.63%",
+      "direction": "up",
+      "updatedAt": "2026-04-21 23:19"
     },
     {
       "label": "S&P 500",
-      "value": "7,109.14",
-      "change": "+0.00",
-      "changePercent": "+0.00%",
-      "direction": "flat",
-      "updatedAt": "2026-04-21 05:39"
+      "value": "7,133.93",
+      "change": "+24.79",
+      "changePercent": "+0.35%",
+      "direction": "up",
+      "updatedAt": "2026-04-21 23:19"
     },
     {
       "label": "나스닥",
-      "value": "24,404.39",
-      "change": "-64.09",
-      "changePercent": "-0.26%",
-      "direction": "down",
-      "updatedAt": "2026-04-21 05:23"
+      "value": "24,505.16",
+      "change": "+100.77",
+      "changePercent": "+0.41%",
+      "direction": "up",
+      "updatedAt": "2026-04-21 23:17"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,472.1849",
-      "change": "+1.92",
+      "value": "1,472.2350",
+      "change": "+1.97",
       "changePercent": "+0.13%",
       "direction": "up",
-      "updatedAt": "2026-04-21 21:34"
+      "updatedAt": "2026-04-21 23:14"
     },
     {
       "label": "100엔/원",
-      "value": "924.57",
-      "change": "-1.43",
-      "changePercent": "-0.15%",
-      "direction": "down",
-      "updatedAt": "2026-04-21 21:42"
+      "value": "925.08",
+      "change": "+0.08",
+      "changePercent": "+0.01%",
+      "direction": "up",
+      "updatedAt": "2026-04-21 23:08"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "10.5°C",
-        "feelsLike": "9.1°C",
+        "temperature": "9.2°C",
+        "feelsLike": "8.2°C",
         "highLow": "최고 16.3° / 최저 4.1°",
-        "humidity": "85%",
-        "wind": "6.0 m/s",
+        "humidity": "92%",
+        "wind": "3.8 m/s",
         "rainChance": "0%",
-        "pm10": "71.7 μg/m³",
-        "pm25": "39.1 μg/m³",
+        "pm10": "74.7 μg/m³",
+        "pm25": "41.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "99",
-        "updatedAt": "2026-04-21 21:30"
+        "airQualityIndex": "96",
+        "updatedAt": "2026-04-21 23:15"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
-        "temperature": "10.0°C",
-        "feelsLike": "8.6°C",
+        "summary": "흐림",
+        "temperature": "9.2°C",
+        "feelsLike": "7.7°C",
         "highLow": "최고 18.3° / 최저 0.5°",
-        "humidity": "85%",
-        "wind": "5.6 m/s",
+        "humidity": "87%",
+        "wind": "5.0 m/s",
         "rainChance": "0%",
-        "pm10": "88.2 μg/m³",
-        "pm25": "37.0 μg/m³",
+        "pm10": "97.1 μg/m³",
+        "pm25": "41.6 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "115",
-        "updatedAt": "2026-04-21 21:30"
+        "airQualityIndex": "112",
+        "updatedAt": "2026-04-21 23:15"
       }
     ]
   },
@@ -103,9 +103,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,967원/L",
         "lowestDistrict": "강북구",
-        "stationName": "덕릉로주유소",
-        "address": "서울 강북구 덕릉로 158 (번동)",
-        "updatedAt": "2026-04-21 17:58:30",
+        "stationName": "(주)석산에너지",
+        "address": "서울 강북구 삼양로 316 (수유동)",
+        "updatedAt": "2026-04-21 15:00:58",
         "districtSamples": [
           {
             "district": "강북구",
@@ -163,9 +163,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,959원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-04-21 17:58:21",
+        "stationName": "㈜한영 성북지점",
+        "address": "전북 익산시 망성면 익산대로 2802",
+        "updatedAt": "2026-04-20 06:52:50",
         "districtSamples": [
           {
             "district": "익산시",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[뉴스9 전북 오프닝]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uOWZBcTFfWE9ob25SU3U4NjRfT1pZbkJBVXpCVFIwTVBQNDQtdlhxaHZEXzBUNjhVdnFLTDZVMy0wQjhPNkVpbUp2NUZ4bDc2bWNsY2N5UldhMFk?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 12:35:00 GMT"
+      "title": "법원, 유탑그룹 계열사 3곳 회생절차 폐지 결정",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sc21xa0FzNGJyYmNhZkY5aGQ5dVMwYVVyVkZsQmxMZ3ZqVVZMLVBwQ1BMNmdXUS1Oa3ZndTFLcEFBV0NwUkRDUEd0STRmQ0pXZkxYVGJhelBZSkHSAWBBVV95cUxPeUkyVzJFYzREMEwtX3FXcnBPNFY5TEl1R0NWaDZCTkxhYkJwOFBUZmZYOHRMWk1FRGU1M3Niam5FQjBSZmVrX09wMjE1R0FESkxZeXlWZUFkd0tsTVlZLUY?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 13:52:29 GMT"
     },
     {
-      "title": "[포토] 박승규 '빠던검객 타법'",
+      "title": "최태원 \"우리 정부가 직접 게임 참여해 기업 지원해야\"",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mSkUxVkdsdURWTTJEV1RRN0J4N2hKc3YtVG14Z1ZRNVk0Qmh1TU9oZmltV3p3cnBnMDJQNlhsZ25paUpHUlg3b1d4OG9DakUzclhJdG9FVnBQM21GT2gzV2R6SkJqeG5OSVNj?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 13:54:20 GMT"
+    },
+    {
+      "title": "이필형 동대문구청장, 예비후보 등록 본격 선거운동 돌입",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40bHBQaUVROWxwaTh3RU9PVTdUd3ptMy1adHJOZzB6WnJCaFhVT210OWM5a3dXME1hS2lhUGpfeE9LUkx4MlBZTDZBX09nbXJzOTl2MEhDLU9VR19mSHBtNmdPUGVlUDFHTUEwdURLcWh5OWZWWWhQMQ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 12:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FX25ZZjBCX2FWanlmU2xrUlM0c0xtdGpDRzVMcnM1YXhTdUUzYnRaaWx4Tm9YYWN2clNFZHF2emNJQ1hldU1iV2lVVnJnTWVqRUNVVmczWmpNS2MxNjcwcA?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 14:24:00 GMT"
     },
     {
-      "title": "[뉴스9 강원 오프닝]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94b2JJVmdwTWNrX0hvdDBMS3NoT3g5QTNvV0FtTUZuUVV2LWZLV2IxMkxyZkswQ3dwR0twUmJtREs1NnR1ZmE0RzZuV2VMSjFRbW1XbjR6TU13NXc?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 12:37:00 GMT"
+      "title": "우리 바다, 지구 평균보다 두 배 빨리 뜨거워졌다",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FMVBIaEVKSEM1cXlkTk5tVGRrdFJlaWl3TzlBZkJWNHpvLVFCNllEUkhlTWUtdUJjdHpKQ3BZTllQZkFYOWtjdFBuYlRTdDNLaEg0eDZCN3ExOGpwSlZldWZQVGtQQ1RveDJV?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 13:56:34 GMT"
     },
     {
-      "title": "[포토] '타이밍은 아웃이었지만' 홈쇄도 김지석",
+      "title": "美 3월 소매판매, 전월 대비 1.7% 증가",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tbGJMWHFQbEpXc3JjckdYQUhodnJNaDl0TVVKLUw2QjFUOVJmMzFReEpLaDJnQno2RHlzODZTRzlUSmZTNmVMYzlURGx6b0RLUkxScUhn?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 12:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JVmF6TlktUHZjQm02OVUyVUV5dTFPaDdEY0V4QWZITmJnZXZXTzdOeVNsUEUzMnUzcmlFSXBMbUtUYmN6WjEzY0h1WF9WTUtZM0Jn?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 14:13:00 GMT"
     },
     {
-      "title": "쿠팡·SPC…시민단체 선정 '최악의 살인기업'[포토뉴스]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kMW9lSTRTVV9WYUlEOEluN2hkdFhVSmM4bnRuNFJqVkVEZlZQT2dRMzhfd0tRdmpKc0V4Tl9KMXpKczY3RGQ5WjZ3b1dFRXVrRW9NUDZNYWpsSnZvSDBYSTBhUUxQM3poS1E?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 11:57:00 GMT"
+      "title": "신현송 한은 총재 취임, \"대전환의 시기.. 신중하고 유연한 통화정책\"",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wS1dMZDBmTzYweHNBdzVBa25GN1cwbUNuYW5YdHZ1enhaUDcxS2ctQktzNnE3emY2V09ra3NqQklUeDJ5dVk5Zi11SWJuYUZBRmtha00yT3ZZaWxsb19zRXQ1dHdvRWR3NGxn?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 13:47:11 GMT"
     },
     {
-      "title": "지구의날 하루라도…'플라스틱 사용 줄여봐요'[포토뉴스]",
+      "title": "트럼프 \"워시, 즉시 금리인하 않으면 실망…파월 횡령 가능성\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zVGJuOU52RUFEN1dKNjVqcmFxY0tBZzl5dlRVQ21zaGVqejFpRGpSRG4tX2lkeV85S1VQaF9CUUdEWHo5UlBGSWMtWW9STDdubGdVZzBOa0dnbnpDeHZWYVFsMmtZUTNqQmV3RnZXS0lkREdlb0tKcw?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 11:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRGdLaERXTkxIWVpVV3M3eTk2Qnl4T3c5ajVOVTlUam5KQzZBU1I2ejdqSGZLQTRReHNyVXc0LUJSdDJzajJ0V0FWWEtmb2puNGtGX2V3cnZ4Qy1WRzBxYQ?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 14:21:00 GMT"
     },
     {
-      "title": "지역 건설사 '유탑그룹' 주요 계열사 3곳 회생절차 폐지 결정",
+      "title": "최악 황사에…시민들 '마스크 무장'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rVkRRT0JGNkZUUDhHREJIcFdIS0lrUVlHOWhfNUVRNThBOVY5eVItTFZvWnpLTmw2VlNMQW9oVXVtY3RsUHpKaUFid25CNF9LRTJv?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 11:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KY2ZtclJocHhiVGRZV3lwdXZUYU02ZGVzMmt5a1ZzMHhwX3B4Sk4tQ0FkLXAtaXhpSTNyT01ZRFZqU0NacWZJVkFiZ29JTWFicm1J?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 13:41:00 GMT"
     },
     {
-      "title": "\"화장실 허락 맡아\"…경찰, 강남서 경감 '직내괴' 감찰",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rMC1YS2FsMU5fRjdMYVRsZjdMWG0wb1pCV2VlY2xOd0NldDdBSFNJaTk3c3JSMk56cS1CTlRvNlpLRXdpajQ2RC1XZENjUXdQSktR?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 12:21:00 GMT"
+      "title": "154조 '치매머니', 국가가 관리하고 생활비 따로 준다",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsRDBmSXRzTW5XVmY4WFBtZUdVbE91dlkzbjdJN0d1VzA2blZRdU5jeG9iNy1JeERJSm5pTGZyX2dKSTlyT01TajJqSUFvanVhbWpzZ0xrUnJqbExHNURnR3BMVXVKYjRnd1Fv?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 13:39:26 GMT"
     },
     {
-      "title": "[포토] 박성한 '국대 클라스 콘택트'",
+      "title": "검찰, '전투기 촬영' 중국 고교생 2명 징역형 구형",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VMzNRWDE3Um9DSEJIeHo0QzBGRnR1WE96U3RybFFMTmtHMXhRSkt5T2FfLTdtN3Z5VzlrNklCMEVRQWlCME5zZWhtZFRTQ3lGN19EcHVSZ3RhZ2U2SEIxeS0tTHF1Y0JGNGpRZ0FQZDV0Q2lKb2swTQ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 12:02:00 GMT"
-    },
-    {
-      "title": "검찰, '부실 복무' 가수 송민호 징역형 구형",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40R3pmeTYwWmNiNkhlRUlhalNuTkZubjVHVnlmTDA1VE5KWUZaY2xCUjNaZFVjMlE3LWhMUEd4WUxzeDZlQi15RjU5YU5BNnF1c0lWb19lRl9sUVA4RzhFeFRaZVVJdmNJWUZxOENERzluZmdVTC0zdA?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 11:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HRHI4X0NRbW9oUVBxOGlnSTF5dEZ1N3BSdG5SVUF4Z0RDN2NkTDdETXEwOS10Qzc2RXZFTXFrcFRlZFJaWWR3amJRMTJSekpHZElF?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 14:15:00 GMT"
     }
   ],
   "sources": [
