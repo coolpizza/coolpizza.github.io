@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T04:54:28.862881+09:00",
+  "generatedAt": "2026-04-22T05:37:51.470262+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -71,29 +71,29 @@
         "temperature": "6.4°C",
         "feelsLike": "5.0°C",
         "highLow": "최고 17.3° / 최저 6.3°",
-        "humidity": "94%",
-        "wind": "2.2 m/s",
+        "humidity": "93%",
+        "wind": "1.9 m/s",
         "rainChance": "0%",
-        "pm10": "76.4 μg/m³",
-        "pm25": "40.6 μg/m³",
+        "pm10": "75.2 μg/m³",
+        "pm25": "40.4 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "85",
-        "updatedAt": "2026-04-22 04:45"
+        "airQualityIndex": "83",
+        "updatedAt": "2026-04-22 05:30"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
         "temperature": "8.6°C",
-        "feelsLike": "5.6°C",
+        "feelsLike": "6.1°C",
         "highLow": "최고 15.2° / 최저 7.9°",
-        "humidity": "81%",
-        "wind": "13.3 m/s",
+        "humidity": "77%",
+        "wind": "8.7 m/s",
         "rainChance": "20%",
-        "pm10": "88.9 μg/m³",
-        "pm25": "40.9 μg/m³",
+        "pm10": "85.4 μg/m³",
+        "pm25": "38.9 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "99",
-        "updatedAt": "2026-04-22 04:45"
+        "airQualityIndex": "96",
+        "updatedAt": "2026-04-22 05:30"
       }
     ]
   },
@@ -101,12 +101,16 @@
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,967원/L",
-        "lowestDistrict": "강북구",
-        "stationName": "덕릉로주유소",
-        "address": "서울 강북구 덕릉로 158 (번동)",
-        "updatedAt": "2026-04-21 22:52:48",
+        "lowestPrice": "1,963원/L",
+        "lowestDistrict": "송파구",
+        "stationName": "상아주유소",
+        "address": "서울 송파구 거마로 82",
+        "updatedAt": "2026-04-22 04:56:48",
         "districtSamples": [
+          {
+            "district": "송파구",
+            "price": "1,963원/L"
+          },
           {
             "district": "강북구",
             "price": "1,967원/L"
@@ -122,10 +126,6 @@
           {
             "district": "구로구",
             "price": "1,969원/L"
-          },
-          {
-            "district": "은평구",
-            "price": "1,974원/L"
           }
         ]
       },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "분양시장 이끄는 초고층…4~5월 35층 이상 공급 잇달아",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmtPRFlieTRCbmhETmpndkVZU05YUldkS3JNY29CbjRDWkRZT2JUTEhNSXRNWGxkOXNPV0NGYWlvZGhzeXAzR1RKZ0staEV6aEZwcWRteTBxX3RrbFg5REpibnNoTUhtZWNrbEt4Y3JINWpjX3dzeG1JRUVJdWVDYmdJaXpNaENmY0xUNVZaSU81VEtQZFVxekpndDV0b3VfRWVXd3p4Nk90NHZrUDI1TDNiMzk1S1VT?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 19:45:09 GMT"
+      "title": "[오늘의 주요일정] 정치·정부 (22일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tUkdBc3F0RFZsbmNPam1JZWtKcXlfMG5DVHpOUzZIcmRjeEJnb1F5dkFYdWJIYmVXT0FqTzQwbFlVYU1rTWZYdk9vQjJuNWVMNnI1b0NNQ2FWR0U?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "국힘 \"정동영 인사 조치해야…민감정보 발언 반복\"",
+      "title": "[오늘의 주요 일정] 울산(22일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MM01udlAtVkJNNU9XUUdEYVN6NXlHQ0E1c1piOXB6Zi1Vb3YzSjFmM3Y1ams3MjhZc043LUdVdDlxdDVnUXlEZTVyeW01d05OVGQ4?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 19:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51UDd1d3dQT3I3N2pWelJVcTRlejRGTmFxUGJ1cVdrUnV1MTFIQlI2Yy1JZXVkZFpmZFB6QmpBVlJYVTktQ3pkdG94QnhsVWIyVWt3?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 20:02:00 GMT"
     },
     {
-      "title": "흐린 대구·경북, 미세먼지 나쁨…아침 6도·한낮 21도",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSVNEd0VpN3ZiM29CUXVRSE5OVVlNUzhNQ05TQ3FkbkREQWxtZkVlenhzT3NJNGpXdThQaVdsbGxJczROWWtlZFB1LUtwTVp3eEZYMGpYWHROaTc5b0xMeW8xR1k1Y3p0eVo4OG11c2l4QTJUV0J4TzRUdjRXMktvLXFMZXhLVTVNWEI2bEIyeHJaNDRnTTlSYS1jdDYxbkFRVHpZNTl6LXBuTkVqdlhyMlhpcHc3c0Yx?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 19:13:34 GMT"
+      "title": "[오늘의 주요 일정] 울산(22일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QMExtV3J1Q1ZabWlmU2JFeUx0b3loUVl2d2dIQzloU3pPcVVIWUd1cG9mUXN0ZkNKVXE5aUllUXhlUF90ZGNoNWh6Y1RxZUNXS1E?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "민주 한병도 \"정동영 발언, 비밀 아냐…국힘, 의도적 정치공세\"",
+      "title": "[오늘의 주요일정] 광주·전남(22일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zNEtrZ3Z6STllMDNuZWVmV0hnNXJoa1dVVGctdUp5SEg0RHhEcUE0THVPTVhQZmJtVFVzZkQyQXM5UXctRXNRSWVFYzVCSmhjTGxR?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 19:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IYTh6Q3A5d3RLQUZHQURUcFRMWlJmTk1PTWRudFRlcDJxWWxCalU1ektJZlMxS3BvYWxucDBJaE1xeHZ4TTlpY2lLSGdvVjhOU2Qw?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "[美특징주]크리티컬메탈스, 유상증자 결정에 주가 급락",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3VSOEI1V0ZiN2ZsNk0xOEYwNl9mOGVjVGVoQ0xFYWdacm11WWF5NVhVbllFOWVwSFhUdDY0ZWFQSUIwbzRGWWZRSERWVlUtSFc5V0VWZFhSZHhGb05oLTJXMUVFeHpqc3F6SFNFR0RORF9sckozUDN4aVJiOHYtNg?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 19:00:52 GMT"
+      "title": "[오늘의 주요일정] 부산·경남(22일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CS09CRW5jSGZkdVoyanFxZTFFcmNBYTVtcm5TVUsxa1NRZHNJWG1QTEo5SEVVQjNxNjl1NG9JSjN0cHQ0clhoTXB0SWJ2RWEtXzhIVVVWd0pwZzNWVXpN?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "전쟁공포? 겁없는 코스피 사상 최고",
+      "title": "[오늘의 주요일정] 세종·충북(22일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtOWFPb0YwWERBSXZIS0xOUEx1RkhyR1libm4zS0dmODVDeXlfV1FKdGFKLUxmVmd0ekVxa3M0em1uV2ZaTVREMHlrLV9BbFdzSHNBbURGbEhXSHlneE9oQnl0TVhZc3BmZFE?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 19:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSejRfS0NHd3d2RWo0U3BmUmxucUpwOXpkYUQzTVpyLVJGZUZtT3FsVkZxa1VnM0pFMWU4cl8wdGRNWGp6LTlZd3ZLNUN6Qk1lbmdr?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "불교 문화유산 한자리에…7월까지 전시",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OM3ZFM0xvNHpyQ0MtTEhCdE55UFBkaDF1M3VPQlFVaU5WUlB6TDRYU0I0c05nQ2hzQ1E5RHlMSnQ1dWZIc3JDdjdjcDhUNVBFNTI0?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 19:32:00 GMT"
+      "title": "[오늘의 주요일정] 광주·전남(22일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyUG4xcTNpQUlmOWRqTGF4XzE0QUhMRWxhWVgtUF92UWN5VE1nS0RtWlJubWhqak1GVWxmbEFndEh4UmxMdktlRFhZdnNSaDJWUGRKNkhKcUFUaW9mNWJZ?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "'北구성 핵시설 발언' 격화…野 \"정동영, 사퇴해야\"",
+      "title": "[오늘의 주요일정] 제주(22일, 화)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aZnpmNFVTcGExckNtbkdQeFZkSktNYl9tenBzOV9SaXY5OWNHWXdraHBuTDMxNE83OE1uQmZPMWh0Ul9obFZMXzVoTW9mWWxHbno4?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 19:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83ZWlfenA0anNoVV9HQWpxUjJ0bmNNYUVib2lwbmdGYVZMUW5QVmtUaFg2aGpGcGtyS2owTV9vX0VLTUtCb2d0ai1TbDdhVXlaRlpR?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "'해킹하는 AI' 공포 엄습…국정원 \"게임 체인저 부상\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QdGh2X0NNTHo3NHAzYndXMzFwMklJRTMxOXlDZEJGTEhxaEV3NjJlcTkxdjQyckpBM1lZSG8tX1ZHV0VONWZNUTIydkdaVEJWMnVZ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 19:01:00 GMT"
+      "title": "[오늘의 주요일정] 전북(22일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzMWFlZXNHemR6ZldmbXQxLUJCcXFscm9mOW0zdVRad1M3NTJkOTQ5aHc2Q19CaTVBQTVXX3RGX2c3c1N1SkdmZ1ZsQkdKYU9MRFlaOQ?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "美-이란 협상 촉각…원유 들였지만 고유가 쇼크 안 끝난다",
+      "title": "[오늘의 주요일정] 전북(22일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84dmt5OFNUeWZCUHFPUXBrWVd2MjJRVzk5dmJOM01mdHZDU0hBeFpkTnNNOEdTMWtaalljUnhnQjFKRkFickQxNTZiMkdNVFlQdUZBcU43ZVB4bU5zYUs3TTJOUVg4bjVTYUNEYmQ5LVkxUXFpakI4Sw?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 19:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYc1N2ZEVPMW5QOGxvNHdoMjFOT2FTb2FxWTU4QS0wSm5TdlUyZjF6MGtuMVFNQnNnSVZYekdjcEsxZWstdWoxWWpRenNrVkZnQnRj?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 20:01:00 GMT"
     }
   ],
   "sources": [
