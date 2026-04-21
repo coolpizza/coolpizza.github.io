@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T07:06:25.460548+09:00",
+  "generatedAt": "2026-04-22T07:52:45.049828+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "6.8°C",
-        "feelsLike": "5.1°C",
+        "temperature": "7.6°C",
+        "feelsLike": "6.0°C",
         "highLow": "최고 17.3° / 최저 6.3°",
-        "humidity": "88%",
-        "wind": "3.3 m/s",
+        "humidity": "82%",
+        "wind": "2.2 m/s",
         "rainChance": "0%",
-        "pm10": "75.7 μg/m³",
-        "pm25": "44.6 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "78",
-        "updatedAt": "2026-04-22 07:00"
+        "pm10": "98.3 μg/m³",
+        "pm25": "52.5 μg/m³",
+        "airQuality": "매우 나쁨",
+        "airQualityIndex": "81",
+        "updatedAt": "2026-04-22 07:45"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "8.2°C",
-        "feelsLike": "6.7°C",
+        "temperature": "8.6°C",
+        "feelsLike": "6.9°C",
         "highLow": "최고 15.2° / 최저 7.9°",
-        "humidity": "81%",
-        "wind": "1.8 m/s",
+        "humidity": "76%",
+        "wind": "3.0 m/s",
         "rainChance": "20%",
-        "pm10": "82.7 μg/m³",
-        "pm25": "37.7 μg/m³",
+        "pm10": "90.1 μg/m³",
+        "pm25": "41.7 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "90",
-        "updatedAt": "2026-04-22 07:00"
+        "airQualityIndex": "92",
+        "updatedAt": "2026-04-22 07:45"
       }
     ]
   },
@@ -103,9 +103,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,963원/L",
         "lowestDistrict": "송파구",
-        "stationName": "㈜버드에너지 위례제일",
-        "address": "서울 송파구 위례서로 260",
-        "updatedAt": "2026-04-22 04:54:19",
+        "stationName": "상아주유소",
+        "address": "서울 송파구 거마로 82",
+        "updatedAt": "2026-04-22 04:56:48",
         "districtSamples": [
           {
             "district": "송파구",
@@ -177,40 +177,16 @@
   },
   "news": [
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GRXNwMTZRX212ZHF3dVdBTmdoWlJKV0VnWHdJTTNsdGFiam5HSV9uNDB4UUNaY1NFQUtiSWlXZjlacDA2aFNMWUhiVm4ydWREV0U2UncxYi1QbzNFbVpKcHhwWDNGVUNfRXfSAWZBVV95cUxQczliY0xCZ1p6MnMzazhTZ0pYb3Vfdnk3MmZ6LXBraE5tbkFPMW83TFVhYkF1ZWRPX0hrMVFZX3lpdkRLdTB4NExZZmdPR3JTcGJiUmlGektGb1VDeVV3TzBLa2FTS0E?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 21:07:00 GMT"
+      "title": "4월 22일 굿모닝 MBN 이 시각 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BX0ZjUWhHcFZPcV8xdS1RQ2E0cEZWZ3YxU0NmQ2loRFlveFFMc3VCdHVZUW1PYTRwRmcyNzlFMm9ISGVLSUxQV0lfRno0LUpGX2d3akZQSENxQzliTEw5Mg?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 22:39:00 GMT"
     },
     {
-      "title": "[26년 4월 22일(수)] “전쟁 이긴 반도체”…코스피, 6380선 넘어 ‘사상 최고치’ 마감 - 비티의 오늘 주요 뉴스 요약",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RXMnRUZV9oVWlpZTctMloxS0VZX01VMzVHMWRJRGhyMTI5TUVpNWs3VXNRX24xNkNmeFJQajZHSldLNkpiV1ZJcFV6bGp0azI2RFVmODI1ZkRxaVZTNmY2V3Vxc09RWi1pOU4yZm9UcUtidXNDcmFYSlJibkJ5Ng?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 21:32:26 GMT"
-    },
-    {
-      "title": "오리무중 미·이란 2차협상에 뉴욕증시 하락…S&P500 0.6%↓(종합)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zOVZoRU9EX0lTYlZxWEUzM2VMUUNwQTJwVlhKbEV5Rm1vUFVVRWh5RDZrcjlFOHlsV1ZEQmZodTJGeW9mZkI2N09VUldZZHJxYy1Fd2hXczFQcjjSAWBBVV95cUxPdXNKNnJ3YWRJSl83SFY0d0FwdHB0WlBtRjhHaVdxaGZPN0FLeXJnVEd3M08xNk9IUzdaYzhmNDJkSUY4NlhHSmc1UXU5MWctMk5GaDhGOThkYW9qanRfNHc?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 21:13:59 GMT"
-    },
-    {
-      "title": "[실제 써보니] 크롬 속 제미나이…검색·여행 '한 번에'",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CM2RWRU1DZUtXODlkTTRKM3FCRXVVRTFBV3QyYVo5RWZSVFVkMjlsZTdxNzNYcGxrSm52blI2SlVNQUN0Y21LcXlkY3l2UDQwZGc?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 21:33:01 GMT"
-    },
-    {
-      "title": "'안갯속 정세'에 중재국 파키스탄 협상 참여 촉구",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KMWJfVUZ4MzQydk5YRXZDRG5WZm5BenV4dWJXLXZrQjFYU2UxNGliRV9HMXZfT1ljOUtuaG02MmI5U2I4NzQyaVNrY2RtYU9ONHVBak5pWTRhaHg0S3JtbTZFMUNHM1FUcnBlNUpfWWFpUEdnSkJCUWJn0gF6QVVfeXFMTjBLUUFERG9SdUtNaVY1Q0hCR3Q2UnhoY01icGVpX3dsemRqR3VLZ0tiWGVZcF9TVVAtRVBSa2htbTFIeGVUdUo0dFItVWVTMXgtVi1TQWJZWktNUG9KRjlpZDNLaVpzVlRQN2NHY1cwd2pFSmhyLXRRM1E?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 21:09:22 GMT"
-    },
-    {
-      "title": "우리은행 캐시워크 돈 버는 퀴즈, 정답은?",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jYVdqM0J6WjE0UXpMcVJTUGt1cHp4WUhHTHFseEVxZXlucm9ocnR3dGlpa1BqRDEwWnlYb0ptd25xMGlFbENtVE5DNzVWOFd1WGJETVVNNG_SAVhBVV95cUxNY2FXajNCeloxNFF6THFSU1BrdXB6eFlIR0xxbHhFcWV5bnJvaHJ0d3RpaWtQakQxMFp5WG9KbXducTBpRWxDbVROQzc1VjhXdVhiRE1VTTRv?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 21:12:41 GMT"
+      "title": "시흥시, 2026년 집중 안전점검 전개…민관 합동 점검",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXRGZ2E3UVVkSkVxNWR3S2FaWm9ma2MtMzFOM19QSk5jWWNVX1plcG5lcEdVMnZmUGluMkEweWJBX2RBOFAxVnJzS09uOWxBU2VJVjUwMERJb05aSWxTLTNZLVUwYml4eDA1Tndsa2tYNHdBclMwYm5BVE9vX2tBb0loNjZUQmF5YWZyeGdFalRGeHd4b2poanVuN3lINHdQRlJkOFdVVU5CdHZmTldhQWJWNndrNjg?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 22:50:28 GMT"
     },
     {
       "title": "[4월 22일 간추린 뉴스] 너도 게임? 나도 게임! 게임 사업 확장붐",
@@ -219,22 +195,46 @@
       "publishedAt": "Tue, 21 Apr 2026 22:00:01 GMT"
     },
     {
-      "title": "[오늘의 청약 일정] ‘라클라체자이드파인’ 당첨자 발표 등",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WZHhZYzlWSlRtUVV4VG56SmJ4UVJ0bWFvcmVVUUVfY0ZkaWZHRklrblh3V1Z0LVJtVFN1OEp5NjhicjFEV2RaRDFYMGdNT3pUS0pQVl9vVTRKY1V3dGZnVHY5YW9RMnFmajVSNFhyd0k4V0RJ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 22:00:00 GMT"
-    },
-    {
-      "title": "■ 4월 22일 (수) 경제 캘린더",
+      "title": "4월 22일 굿모닝 MBN 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vNzBBeFBVRDJZNXE2OW1aSkVyMHFfc0lIRUZHcnZKWU11bU1Ea1UwOHI2bVpINXN2eEYtaXZJc3BPQXVVMW8tRm5XTWthZVFKZkdV?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 21:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzU0xkdktjejBEeTliOGFmUFp6VE53Umg2MGZXdkRfWGJoV1g3Q3JncDJDemxmVDI0UzBjTjVnZDFWc3VJaHd4VzFXdE04aWJMZzZV?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 22:07:00 GMT"
     },
     {
-      "title": "[아주증시포커스] 올해만 최소 70명 충원…더 커지고 힘 세지는 슈퍼 금감원 外",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uLUJ6clpPeG1XUGdCTkR0RlhVbk93amtmT1k1Ul9IYXdvbXg1bFNRY1Y1RVdEZHlsTDY2Y0FfSDlJbW5KN1AybGNXeVM4RjdXcU9TMFpFbzJMUdIBWEFVX3lxTE1qSjNqMVQwT2s5T29IVEo5SjF4M1k1SzFqcTNreUVuclBDcEFKcjVpZXY4aFJCZG40RTJvT2dFNDhraHVNczRJdkNWRFR0bXNxNWZwb0pmalQ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 21:58:05 GMT"
+      "title": "[개장] 뉴욕증시 하락, 종전 안갯속..장 마감 후 '휴전 연장'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMnlYWEp3b2tEQ1I0WVdlRmxLZ0FVQmc3enlHYlR1Nk5zV1lfM2o3U29mRXlyMjdCaUZvUVp5azBEZ0dLMzNIbVJCLWx6WGNSa1JFZmZpRjhROEhjRmVqeXFYWUk2aTdrWlhySkU0WDN0eW02WU1kWkNZT0NNZlgxRXExWXdmNTNfWEYxcm9TXzVOOHhVbWpmTWRoZXlMVnpSeUlkVzhSWnU4WVJSQmVibVc5MV9EbUUt?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 22:30:25 GMT"
+    },
+    {
+      "title": "트럼프 금리 압박 논란에도…워시 \"연준 독립성 문제없다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hX1ZWSTNZUWhPS3lkcTFyWHJWUjNINWU5alVMcjRIeWVtcnhtMkY3ZXFtaktnUFd1YWZxSHdmeWhtMU5EUXdKTHA0X19PeDhfOERz?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 22:46:09 GMT"
+    },
+    {
+      "title": "경남농관원, 염소·오리고기 원산지 표시 일제점검",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlBGUUF1TWZxNVU0UVNVUnh3X2dDODlrVDdmNXo0Q1ZLRGR5eWl5eUk5cVdjbGVycmRrd24xT3pfSkVESElyUDZWSnlGM3A4YUlKUG45VVJaV3BsWWlzWUlkc2UxeFM3eGdRSzFfUkNrYTlZb1FMNVF6REJKcVd1LS1SWm9IV002bFM1OGdzWi1fLXozX3pjOXk3Q3BvRHhwVGgxcUtmb3JBaHI0NnJtS2Z0eDhyZlk?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 22:50:57 GMT"
+    },
+    {
+      "title": "[오늘의 IR] OCI·한텍·엘에스일렉트릭 등",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0YjM3bHE3SzdfZWRRZG1uckxQSkY3MlNsZl84VEFkWVVIdXNTckdUc2Zfa0NmRU9uY1pKUHZvY0Z3WEZYWkxvNmRIaEN2TktRZVlheTQ1Z0NWYlVCME84ZQ?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 22:20:00 GMT"
+    },
+    {
+      "title": "시흥소방서, 자동차 부품 공장 화재예방 합동 교육·간담회 개최",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWwybm9qM2NyNHBXcjZLZkJ0TjNSM0pqMDloVmtGVUgwTnhYWlBJcm9UeXNhb3VFQ2FwRDByMkRaRFFULUhCa2FTMzkyalNPel9EakNjZGUwRy1DcXJld2VlRUwzRERBbDJxRTB2ekg0M0NfbFM0b09BTU9yY0ljU3NyamNqM1FZdnRXbnJ5TThKbmUwczdIY1ljaGZVVnE2R0ZNTTh0WXVFWDE2OVd3NUpLc0xRdjBu?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 22:20:37 GMT"
+    },
+    {
+      "title": "오늘도 황사 영향 지속…남쪽 지역에는 비 소식",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DeExNeUQ5a1U1dFFjUmZyNm1nTE9yVm5mb2tULTBEenE1Z29FaWM4MWdDVTlUVE5HMV9MSEFuUTF2ZUpLNjFBckQyZHNjNUZMVEhv?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 22:27:00 GMT"
     }
   ],
   "sources": [
