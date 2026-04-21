@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T08:29:36.015970+09:00",
+  "generatedAt": "2026-04-21T09:03:57.605384+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -12,11 +12,11 @@
     },
     {
       "label": "코스닥",
-      "value": "1,174.85",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-04-21 08:24"
+      "value": "1,186.44",
+      "change": "+11.59",
+      "changePercent": "+0.99%",
+      "direction": "up",
+      "updatedAt": "2026-04-21 09:02"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,470.2594",
-      "change": "+4.11",
-      "changePercent": "+0.28%",
+      "value": "1,472.0700",
+      "change": "+1.81",
+      "changePercent": "+0.12%",
       "direction": "up",
-      "updatedAt": "2026-04-21 08:20"
+      "updatedAt": "2026-04-21 07:52"
     },
     {
       "label": "100엔/원",
-      "value": "925.56",
-      "change": "+4.56",
-      "changePercent": "+0.50%",
-      "direction": "up",
-      "updatedAt": "2026-04-21 08:17"
+      "value": "925.84",
+      "change": "-0.16",
+      "changePercent": "-0.02%",
+      "direction": "down",
+      "updatedAt": "2026-04-21 08:54"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "7.6°C",
-        "feelsLike": "5.7°C",
+        "temperature": "9.6°C",
+        "feelsLike": "7.7°C",
         "highLow": "최고 17.3° / 최저 3.8°",
-        "humidity": "81%",
-        "wind": "4.0 m/s",
+        "humidity": "75%",
+        "wind": "4.8 m/s",
         "rainChance": "0%",
-        "pm10": "155.1 μg/m³",
-        "pm25": "55.8 μg/m³",
+        "pm10": "143.4 μg/m³",
+        "pm25": "48.7 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "97",
-        "updatedAt": "2026-04-21 08:15"
+        "airQualityIndex": "99",
+        "updatedAt": "2026-04-21 09:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "6.4°C",
-        "feelsLike": "3.7°C",
+        "temperature": "9.3°C",
+        "feelsLike": "6.8°C",
         "highLow": "최고 18.4° / 최저 0.6°",
-        "humidity": "61%",
-        "wind": "3.5 m/s",
+        "humidity": "52%",
+        "wind": "2.7 m/s",
         "rainChance": "0%",
-        "pm10": "228.2 μg/m³",
-        "pm25": "68.7 μg/m³",
+        "pm10": "276.6 μg/m³",
+        "pm25": "67.3 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "103",
-        "updatedAt": "2026-04-21 08:15"
+        "airQualityIndex": "106",
+        "updatedAt": "2026-04-21 09:00"
       }
     ]
   },
@@ -103,9 +103,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,967원/L",
         "lowestDistrict": "강북구",
-        "stationName": "(주)석산에너지",
-        "address": "서울 강북구 삼양로 316 (수유동)",
-        "updatedAt": "2026-04-20 18:02:59",
+        "stationName": "(주)자연에너지 번동주유소",
+        "address": "서울 강북구 한천로 963 (번동)",
+        "updatedAt": "2026-04-21 06:02:30",
         "districtSamples": [
           {
             "district": "강북구",
@@ -133,17 +133,13 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,965원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-20 18:04:09",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-21 07:56:29",
         "districtSamples": [
           {
             "district": "계양구",
             "price": "1,965원/L"
-          },
-          {
-            "district": "서구",
-            "price": "1,966원/L"
           },
           {
             "district": "미추홀구",
@@ -156,6 +152,10 @@
           {
             "district": "부평구",
             "price": "1,969원/L"
+          },
+          {
+            "district": "강화군",
+            "price": "1,970원/L"
           }
         ]
       },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "오늘의 주요뉴스",
-      "source": "JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PbUtIV01NVFRmQUYwOFZyRDVTTjhfX2FJcFhLemR6dVZhcGdURTZtSkhFcElHWGowMVhyZEJmYW5OV2FCR3JCdjJqcktRQnZVd2xBNQ?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 22:41:00 GMT"
+      "title": "워시 물가강조부터 중동협상 진전까지 이시각 주요뉴스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80cDZ1ZjhtMGlkLXZRR1c1aEdpWEdGNHJyY1NfaHBnMFgxdXJiRWpRQ1VKRk5qWEJ2bk9Xb2o5d2xIcEFza0VnRWRNbWF4XzhfcFRDYzQ3ekhhYkVWUXZvZ3lacF83aTNHSE8yb3o0WFnSAXRBVV95cUxNcEsyY3BSZmpWbUNZaWFkWUdxWmN1aTVqZkV3c0ZXdHU5R3VmVXFxWWxKR3JzWUctUkdPdmVoazFvUVJqRmNOUEVHSmdUcWtoRlBUelpoemc5Zy1pZGcwM0k3Vk55akdvMmhxdjhnMkh4amw5TA?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 23:46:48 GMT"
     },
     {
-      "title": "[전국 주요 신문 톱뉴스](21일 조간)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02bGxCUlU1dE52NkhhNjVrVEFmUGJDSU1GUE0wZm5TUUlEQ3F3SzBPYlpRamkzWFpjUWVNTUVzY2tFZFRFVVVlY1RLMzFQdmt6MW1SeUpyY2I3OTTSAWBBVV95cUxObkl3WVhXMEVZc3JFOERDOERJYjd1Y0haRk50NW1DaVpZRGRxTS1sd0NMaTNRMmsyc3lMMjN0WVVJUG5Ra25hcUdaTGNiYzNmclAyR2VDdTk1a0Q5SlVrY2M?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 23:00:02 GMT"
-    },
-    {
-      "title": "[뉴스광장 강원 오프닝]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uUnd4RzkwTl93REQ5SlRFT3p4OUdFRUsyZjBKYTlWMVUwY25OdmUzcm4yRkVOVGY0RWp5eDlteTQzbV9jS05fQXRuNExRTV9EZElxS2hoVTVGZmc?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 22:50:00 GMT"
-    },
-    {
-      "title": "경기도, 출렁다리 21곳 안전 점검…91건 시정·권고",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oOGxHSThTVWVXSFhEQ3hER1NnSWh6ZWQ3dG43ZVRPbmFtbl95azlmZVFRQm1hVzRjX0V5eGg0aEZrSERLUGoyRVFLMkFUMW5LMmR0SlpR?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 23:11:15 GMT"
-    },
-    {
-      "title": "[마켓뷰] 코스피, '美·이란 협상여부 주시' 방향성 탐색 전망",
+      "title": "신한운용, 美우주항공ETF 상장…'스페이스X 최대 25% 편입'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3NiZU1DVkxGMXFjTnFkRGJFdmh4d1BBYlY4eDdWTVJaWk5wc2EtVlRCb1pYZkRFSjNNaUVsTG43OHJhdmQ4RTk1ZlVCSXNxRjQxUDFYeGlXSlk0XzNwVk5xX3dpekVfd3NUWDRLXzlpeHNFQ3U4S21EcG9CWVhvcnNtbGExM2ZLMFdzSFRUSllySG5HY2k3ckdGWlB2NjFUaVFFdFNEUVZtMHVfUEdFbEU2SHh3Ykwz?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 23:15:35 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmFYT0hkdXVoRGJGTGxuVVpoQzJVV0ZOa1k4Z05ESEFoSlctVE1rNzZ0VHNIRzdWUkczZWZIWXVJR3NZTHBhRUkyS2RtY3ExcEtmYzNsZFRCaklQTnd0VmV6Q1NOVUtlZGdCTUdXT0h3cW8yb3V3QWZ6ZlhEaHdNWjFMZVB6QWJKQ2I3eWhCS2dOUTVDMDRod1g2VHNjeWhrT0swNUxuNTc5ZnhtNk5vd01aSTZNVGZCLUE?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 00:00:11 GMT"
     },
     {
-      "title": "4월 21일 굿모닝 MBN 이 시각 주요뉴스",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Jc2dWYmgzTFJ6RWNCZVZBd1R3c3ZDbFdNb2F4YzNaWkQ5UGZIWkxSeWg5THF0YzcxYTlMOFJWdEdWV185UDg3dkMzZWJLOFlBdndv?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 22:41:00 GMT"
-    },
-    {
-      "title": "반려동물 주요 사망 원인 '암'… 면역항암·돌봄 전략 세미나 열린다",
+      "title": "평창 봉평·횡성 안흥 -1.8도…강원 남부산간 한파주의보",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XTXRBSHJKY0hIZjl5RWd0SU9Bd01oRFFva0gtQzJIbXpwNFpRdXVGeUhxeGFkWW1xclhocEh2bjlrZ3FLZG5odWJ5bHBraGpPMTMtN3VaYUV2ZG0zWTdWeGRlNFI?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 23:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10UDdmYkJJQTQ5N2kwdzVTWlRRTnNYNXhYc2d5TldQa0thXy14TmdLRUdNbFR2TnV6ZmRiekY1clJ5cTZYM2c3UUNlck13cHBNcE81Tg?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 23:25:37 GMT"
     },
     {
-      "title": "IBK투자, 하이브 목표주가↓…'1분기 영업익 기대치 하회전망'",
+      "title": "정부 '추가 생산 주사기' 온라인 장터에 직접 공급",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ydTgyMG5HRTQ3YjZPUzF2RFQtS2JNV0tMcEFTbUNFODJpSHhwRE5SZ3N1X0tHY3EydU9OZmpKWnRWVXdNRGlJSHBXYlBBYkVWQzlJ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 23:54:00 GMT"
+    },
+    {
+      "title": "[속보] 코스닥 11.38p(0.97%) 오른 1186.23(개장)",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWldHX053bTgwQms5UzRKWVFxOE1jM3RYaWE1VkZsQWpXY3lpNFA4N0VPQkpSaVpqdXlfZzM1V2FITVhLaEJVRjl3bi03WTh1ZzE0ZUl3TXBKd0xERk5pX3lsODZONkNrRzA1eTBXLUtqQVNn?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 00:01:00 GMT"
+    },
+    {
+      "title": "시그닉, 중국 온라인 플랫폼 진출…글로벌 시장 다변화 나서",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mXzFIcDBaVklFcU9MZ3MteGVjUFFsWDlmRDRJSnpGVDVveFd4V2szVnZ4cTZaeE1Sb0tESjVnWWRPcmhub3JzUGxua1BqRGlwQVowNDF2ZzlmbEs4bmxz?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 23:35:27 GMT"
+    },
+    {
+      "title": "'연휴 전 선물 사세요' SSG닷컴, 26일까지 뷰티 쓱세일",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjhPM3Q4NW00R0ZSRWFQTHEtXzktczJGWVJDWmRMUGI4QUtmU0RYT1h3RTBZckVjR2xuRXRHeGlpMTB6aDR0aFJfc3NkR3llS3ZtSUJGWU9rbXBVeXpscUlGTlRaZ1VNeWlfck02djhnYV8zcFNXbEw2eW5VNnJtTk04YVdDQ1VEbmlSSnZ6d2NLc1VtelBDc21Va1pqUTRHLVY2eGZRYXE0UWh1d1VXNkNMejc2SHky?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 23:25:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT1ZHNU1NNHBlMnZtOWFJeGE4QkdLeWhqWXMtUl9HeWdwUG1XbHFldGRKZnVRNDFNNFo2YUpJSUVHUktrSk1kdmVIQTVGemVPemlhc1ozUUR2OVhDMXpPYm1CSUYtdUlmOEV6NWtoUTFCNVI1b3RobE92dHFyRENRZmZ5Y0x0OENpaDlIeXcwUDZWbVB6YTRJLVhzZWluYlNXQ1FmSWtpbnBwSXJocGNVcnlJV0lNVFRuSVE?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 23:50:33 GMT"
     },
     {
-      "title": "쿠콘, 아시아 핀테크 얼라이언스 가입",
+      "title": "민주 경남도당, 진주 물류센터 사망사고 '구조적 참사'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDckJDR21PU1FXaWdUbWgzems1QlFaZDFIbGNJU1liZjJRRkNQTVZFQk1DWmlLLTNMbXRqWlhXNUJXeHRGZmd1c0RpNzBlbndiYWxHc2ZLQll3Y3B2VjdiUw?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 23:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBONnlLeTA2YlJsa0E1em12SlRWNFNoVnZqY3hkdnBCTEtqU2FIMllwV3VUQVAxb1l4XzIxd0xRRmZxcjFMdjZ1SGJHdjhqVkpJcW1J?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 23:55:00 GMT"
     },
     {
-      "title": "성남시, 봄맞이 '택시 대청소'…\"쾌적한 이동 환경 조성\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lYVhsUkF2Z1JWRVJaa0szQW51c0lZaHJnS3ZRTXZJa1hlN0dmczdIZHl1eFFGQ0F2d2JZak12djBkZDhyWU4xZ2NBaVZ3NWlqUENWLTBB?oc=5",
-      "publishedAt": "Mon, 20 Apr 2026 23:00:49 GMT"
+      "title": "한화, 美 '무인 수상정' 공동개발 나선다",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZUWtvTUpNT3QwdGlWNV9SZVMwUklMS3NQUURoWF9oWkM2LW1aTTFDTmpXc1NPZUxFN3AwNWp6R2xuVC03VVBrTG1udE9NZURaRjU0UU5id2R1WWRnYmFpanVJa2ZpR2duZlU0Q0hyU3BEMGp2?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 23:54:00 GMT"
+    },
+    {
+      "title": "\"삼성 OLED TV, 독보적 기준 제시\"…美·英 매체 호평",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01cUVjODFGQkFYY3llVU1TcG9ONTJfMzlyRlVWb3lGcGRhaXcwZmxfOUUzWW5QUW1zdEVFRTFkMk9SNjR3UlZFbmJwU0drazNmejZhem5ybUNDSWc0LUJZdQ?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 23:55:00 GMT"
     }
   ],
   "sources": [
