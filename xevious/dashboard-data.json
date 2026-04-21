@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-21T12:38:00.554573+09:00",
+  "generatedAt": "2026-04-21T14:45:52.732922+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,351.53",
-      "change": "+132.44",
-      "changePercent": "+2.13%",
+      "value": "6,373.59",
+      "change": "+154.50",
+      "changePercent": "+2.48%",
       "direction": "up",
-      "updatedAt": "2026-04-21 12:07"
+      "updatedAt": "2026-04-21 14:18"
     },
     {
       "label": "코스닥",
-      "value": "1,173.63",
-      "change": "-1.22",
-      "changePercent": "-0.10%",
-      "direction": "down",
-      "updatedAt": "2026-04-21 12:32"
+      "value": "1,175.93",
+      "change": "+1.08",
+      "changePercent": "+0.09%",
+      "direction": "up",
+      "updatedAt": "2026-04-21 14:40"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,471.9100",
-      "change": "+1.65",
-      "changePercent": "+0.11%",
-      "direction": "up",
-      "updatedAt": "2026-04-21 12:25"
+      "value": "1,468.6750",
+      "change": "-1.59",
+      "changePercent": "-0.11%",
+      "direction": "down",
+      "updatedAt": "2026-04-21 14:32"
     },
     {
       "label": "100엔/원",
-      "value": "925.91",
-      "change": "-0.09",
-      "changePercent": "-0.01%",
+      "value": "924.52",
+      "change": "-1.48",
+      "changePercent": "-0.16%",
       "direction": "down",
-      "updatedAt": "2026-04-21 12:32"
+      "updatedAt": "2026-04-21 14:39"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "16.4°C",
-        "feelsLike": "16.6°C",
-        "highLow": "최고 17.0° / 최저 4.1°",
-        "humidity": "53%",
-        "wind": "7.9 m/s",
+        "temperature": "16.5°C",
+        "feelsLike": "14.6°C",
+        "highLow": "최고 16.9° / 최저 4.1°",
+        "humidity": "48%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
-        "pm10": "97.3 μg/m³",
-        "pm25": "35.5 μg/m³",
+        "pm10": "86.6 μg/m³",
+        "pm25": "31.3 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "102",
-        "updatedAt": "2026-04-21 12:30"
+        "airQualityIndex": "103",
+        "updatedAt": "2026-04-21 14:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "17.5°C",
-        "feelsLike": "17.4°C",
+        "temperature": "18.2°C",
+        "feelsLike": "16.8°C",
         "highLow": "최고 18.3° / 최저 0.5°",
-        "humidity": "45%",
-        "wind": "8.7 m/s",
+        "humidity": "44%",
+        "wind": "12.6 m/s",
         "rainChance": "0%",
-        "pm10": "156.5 μg/m³",
-        "pm25": "40.2 μg/m³",
+        "pm10": "120.1 μg/m³",
+        "pm25": "34.6 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "116",
-        "updatedAt": "2026-04-21 12:30"
+        "airQualityIndex": "120",
+        "updatedAt": "2026-04-21 14:30"
       }
     ]
   },
@@ -103,9 +103,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,967원/L",
         "lowestDistrict": "강북구",
-        "stationName": "(주)자연에너지 번동주유소",
-        "address": "서울 강북구 한천로 963 (번동)",
-        "updatedAt": "2026-04-21 06:02:30",
+        "stationName": "(주)서울에너지 시민주유소",
+        "address": "서울 강북구 인수봉로 185 (수유동)",
+        "updatedAt": "2026-04-21 08:04:04",
         "districtSamples": [
           {
             "district": "강북구",
@@ -163,9 +163,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,959원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-04-21 10:58:44",
+        "stationName": "봄까치셀프주유소",
+        "address": "전북 익산시 평동로 796",
+        "updatedAt": "2026-04-21 10:54:46",
         "districtSamples": [
           {
             "district": "익산시",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "코스피 사상 최고치부터 카드론 급증, 애플 CEO 교체까지 이시각 주요뉴스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kTEMwenh4WjJqb3o5dVFsd1B5OUREbDc4YlMxczVSenVsRzNFdkMyblJVRGp0M2VqZkVybGFYQ2RRRjlSLUhXNUl3eTRsSDBWdzFPVEFVeGNWaWVqeDc4TVRkeWYtWndfNnFDSS10QlLSAXRBVV95cUxOaXFjSGdSWVNSb2NlT2hTVnVJMV9vbk9xNGtDUGJObWZucnE5aTdrUzh1a0tUNWdDaFJXN3ZEdDNtVHdFOHlTWlJ4SmpVWmxaZGpPQmlmY3Y5akRVZmlXQ0NHUUM4RU5tUWpVcmxBMmRvaXd6Qg?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 02:50:45 GMT"
-    },
-    {
-      "title": "[12뉴스] 오늘의 주요뉴스",
+      "title": "[뉴스브리핑] 오늘의 주요뉴스",
       "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRDlhXzJ0ZDBhaDF0Q2FMZ1l0cThUUFR5Wjg4X3lfbzFmZmdva1d5cEI3Y2tMdXZBNVNaU1hXdzdRZG12cTVWYUlmem5VbF9HR1A0ODZJSmZIZ0ZRWTNvQVhEMUVpMGJwa1JJRFRyQWdHRjhPYkxHbmQ3WkNvU3NVSW5JRC1OUWdRZHhWZ0lZSdIBZkFVX3lxTE9NS2c5cWpuQnlPUFdaU0xoTjFnLWVPUFNveUJ5RzhvZ2JCZjBFYXAtSnJ5WjBYWFVDTUlZbm15R0ZNT2FyYUpwNE5VQzQ3UDFmTi1SZThQTlBZd2p5Q1BSRTRzeHRiQQ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 03:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUDJoX2JLTkxQVTM0VEUweGNXR1hHVmE4QjJrMVFfaDAtckcxR0RDa2I3SmZqdk5OdXZQY3N4UGhHb3VBUERDcXR5clR1QlJSdU9WM3NWU25jX2ZYS0RfX3UwQ0ZOQVl4MUtTU0Jrek5NT1BXNnBCbzZlQk4yUW05M1lwZExVaXRFSE1PTDByRdIBZkFVX3lxTE9ON0w5d3gtd3hMOEN1aG5hNUVZU21lbVlmQVBBdGtoLXpDOEhYTjIwWVdueTZMbVVLVF9JbVk4VXp0U3lSUFhxa1VXaVRKS1k3U1kxLWpidnVQSjZjTjY1LWJ0cjVIdw?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 05:07:00 GMT"
     },
     {
-      "title": "[12뉴스] 오늘의 주요뉴스",
+      "title": "[전국 주요 신문 사설](21일 석간)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYUgtOHYtVnZoTzY4dGVCaWwyWHlKWXRRX2owM2o5TWFvcDItYWcyQS1iSzhoWDFseTB5cjNobmJpRWl1em9YLUpIUEpma3JSWEZWZ1dNV2IwTW_SAWBBVV95cUxQUUVaN2gtbVZUX0hobzJtZGhlWTc0alBSUFlsVUhZakxLOW9jdWhXLXFCbC13b3cybkNwdDdyXzljemRhYVoxNjd2ckpNcW5UbHB0YlpfNEpxWHBoaUxsYVY?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 05:00:01 GMT"
+    },
+    {
+      "title": "[뉴스 줌인] '운영의 애플' 이끈 팀 쿡…존 터너스 체제는 기술 중심 전환 가능성",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LbnRLN3dTaV9DQURpVGk3T3BnS012UVBwYXFCTC1OVmc2dWJmUU9WM29SQ2pmanA4NV9lX2JIRkMwY3BUMGMxNzVHUFBZZw?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 05:36:03 GMT"
+    },
+    {
+      "title": "[뉴스브리핑] 오늘의 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iS2k5QUxqaGx4ZDJrakUtdzF2RVR0RlM3OGZCbVdHdlFKZ25heDZDeEVDTUJBRnUtUzVndTgtejVPVHN3RUxlbHhXdUo4bFczYThN?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 03:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mTnkta1RoR2swM2lIRkpHNnk0SXhnaGU1Y1h2SWtmQ3NhOTVpb3VpalRQS0xKTUR5VE9QSUM4OWlrcG5OODRkdmczb2k2RTdyZEEw?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 05:12:00 GMT"
     },
     {
-      "title": "경남교육 12년 성과 한눈에…도교육청 기록집 발간",
+      "title": "코웨이 블루휠스, 홀트전국휠체어농구대회 4연패 달성",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iR2lULWE5NHEyRjRENkpKaENVaUl5RE1FQXdPdmZzRVowRm51cXhJV1hPQ1JWQldlMUtaVlVpaktNREQyVjlqRGpPeFBuaW96cGNRanNxa3doaXA4?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 05:32:16 GMT"
+    },
+    {
+      "title": "성일종 '브런슨, 안규백에 '정동영 발언' 항의'…국방부는 부인(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzVXcWViakkxd2RLOTJsNXFwNi1VQU1Eamxyd1FSaE82QWNwanZfZWtiamVBS2Zwa3VjSmFPaTNMY3RfVU1xcFNPa0g3RGhrY1JFME1pTUt0WmZIQW1HT0lVZHJoZmR3d3RCMEN2NXd1ZjFGU21STmlaMFptMnJ0OTR3c0pXSkt1OWp5bzEyVFBKUzJUWFE4aDRsb0ZDTjdiUlRMeWZHUUVQMW9hQUFrWHN5cUlhdjQ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 03:36:14 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWI5ZkdZS1pVRFJFTFFMTWVBS2N6QkFMX2staG5pdG9lX0ltUmtqS3d2TXBuNkg4ME9yS05BMXhFR2p3anNUMXBzc01mYmhNMlg3SHRZN0FmdnR4OXA4eGx5OVJTVENScUxQZnVPQUM5RWNLRnpvSDlfdHM5MVYxeWQ2R2IzUVdXWlppT212VnViSTNrYVM0d3RZeDc0ZW9WSXZRdGx2RmJnWVh2RmxVU2FrYjJOU2RNdkE?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 05:38:16 GMT"
     },
     {
-      "title": "신한자산운용, '미국우주항공TOP10 ETF' 상장 … 뉴스페이스 투자",
-      "source": "뉴데일리 경제",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaVmdwUUZSU3I1dTdkNC1rbHoyS2s3UGJYRnF2SkxEd3c4elM1S0UzSkU3dFktQTVCU3V0VC1FQzQwU0tLS0JxbXd6TFJ0RXFkQXMtT2dncnhHZllQUG5LTV9BcTRvN2k1ZnRhTFBReHpQako1NndDMG9CRQ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 02:50:24 GMT"
+      "title": "[속보] 한병도, 원내대표직 사퇴…연임 도전",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hOVJrbFh1MWhZVjREMW1FeVlJbFhlUzZ3RUR0eEs4am5LZGpoSzNrNXFpZVZnZVpEQXMyNlgzU25MWXlFRlFKSVlqTHpnajljQXVyMVFJcXYyNlRQTmlzUHF3bmljZmFReUVxNXl6QmNPanR2?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 05:22:00 GMT"
     },
     {
-      "title": "5·18 기념행사 다음달 16∼17일 개최…17일 전야제",
+      "title": "정부, 日다카이치 야스쿠니 공물 봉납에 \"깊은 실망\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RS2VTalhqR3dmNWh6MXdFRWJ5TER4TV9ZazY5WkRmV2gzNEdseGRoVUFtWllPNkItTHA2bDB0RUZSX2NUUW1ZeGtIcUFzT0xOdVU3T1lCLXE5Z2U2YVdKNUpkdGhQWTQ?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 05:21:14 GMT"
+    },
+    {
+      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83T1NreGVmV2xkNmFaTzRxQzJ0QUJfSVVsWFFrU1dFSGszbm9fSXRmekc4NlBoVWVPUGVjS0VUQTIybXM5TjVKcGNjMkVRb19LMVM4?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 05:27:00 GMT"
+    },
+    {
+      "title": "AI 음모론",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXc4R0VGMkd2M0Jjd24tQTlEM2tUTVNQM1lDT3Q2R1JWYWEzbFhPZFdYaUtrelJMT2hJVk0zNTNvLVhzOGxSX0Z5X2NsdUlScG50aGx5dmJuSGZLWUtwb0o0Q2IxUnZFS04tOXNCZFdkcDkzdFByUWlKVFVQMlNWTVQ3N2JlSk9YV2NPZWRORHBwTlRrYW5nRUNMVU13cW1xb2ZkU1ZnWDZ4dDFPNXlwSkFkbVNGWGwxUlE?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 03:21:28 GMT"
-    },
-    {
-      "title": "진안군, 용담호 수천휴게소 체류형 관광 거점 조성",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96NGRNRk5mQ29CQTZ1NmJSbWlTYl9WRXZqOWFrTjhhb3c4dDUyellpUE14c2dla1FTQmdYZmVrZUlwWXJWUDd4YzF5dy1vOGFFa0lV?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 03:32:00 GMT"
-    },
-    {
-      "title": "HD현대, 인도 정부와 조선 협력 MOU",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kcGE4OUxSaHhxMy1mcUpfWDZWbm5BaDRXZ1p3LWlCZ3RMU29GX1VxNDE2V29oNkxiMk4xMFg0Tk9Nb25oNllMMVRJZG91NUF1RU9Z?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 03:04:00 GMT"
-    },
-    {
-      "title": "이화영 전 경기 평화부지사 석방 촉구",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05aV9tank3NVFFeUdJQUxxNHpqWEV6dlZRTlZPRFVoa0pYSngyUmRvNkNINzc5Z1NxQi1abThrcG9RTEZORDlWUGxKUUtUQnhJSExqMll2cElrVlJRQ2VwX1doWnh6eDVudHdmZ3FEcGREMzdjdktJcA?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 02:48:00 GMT"
-    },
-    {
-      "title": "경륜·경정, 도박 예방을 위한 맞춤형 상담",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdl9qamt1LUVDWXBRSFBDU05BdmMyTG9hU0xlQVlIb3QyN1RrcllJNE14cFBWWFJkV1NlUm11bTZidEplMW5JZ2NYVDhoNHdxaWdhQlZNdUZKSi03?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 03:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXFIRTc3ZXpIVHZMRVM0djJIQmdsb3JyRDNuR0NMak5EOEc2R2ltRkdIRFNvOGE1Q1lhelpzR2EzSXBURDBLY2dsdGdtQUlmOXZlbkE5WDVRWFB3SEZlN3FhVG5EQmF4UU1XcjdzaTJBYk5HSDNRbjJuUnVYOFNoaHh2THJxRklQelpKVUVraDV3QTR3dXktcmVITnJqMjVPQU9iTnBOMmlqazZyNDgyRXljbDd4QVo5Rnc?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 05:13:14 GMT"
     }
   ],
   "sources": [
