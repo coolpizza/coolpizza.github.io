@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-22T03:44:31.551868+09:00",
+  "generatedAt": "2026-04-22T04:54:28.862881+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,215.75",
-      "change": "-226.81",
-      "changePercent": "-0.46%",
+      "value": "49,126.60",
+      "change": "-315.96",
+      "changePercent": "-0.64%",
       "direction": "down",
-      "updatedAt": "2026-04-22 03:41"
+      "updatedAt": "2026-04-22 04:48"
     },
     {
       "label": "S&P 500",
-      "value": "7,077.30",
-      "change": "-31.84",
-      "changePercent": "-0.45%",
+      "value": "7,063.13",
+      "change": "-46.01",
+      "changePercent": "-0.65%",
       "direction": "down",
-      "updatedAt": "2026-04-22 03:41"
+      "updatedAt": "2026-04-22 04:48"
     },
     {
       "label": "나스닥",
-      "value": "24,322.31",
-      "change": "-82.08",
-      "changePercent": "-0.34%",
+      "value": "24,244.04",
+      "change": "-160.35",
+      "changePercent": "-0.66%",
       "direction": "down",
-      "updatedAt": "2026-04-22 03:42"
+      "updatedAt": "2026-04-22 04:48"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,483.9448",
-      "change": "+13.68",
-      "changePercent": "+0.93%",
+      "value": "1,486.9650",
+      "change": "+16.70",
+      "changePercent": "+1.14%",
       "direction": "up",
-      "updatedAt": "2026-04-22 03:42"
+      "updatedAt": "2026-04-22 04:47"
     },
     {
       "label": "100엔/원",
-      "value": "930.17",
-      "change": "+4.17",
-      "changePercent": "+0.45%",
+      "value": "932.16",
+      "change": "+6.16",
+      "changePercent": "+0.67%",
       "direction": "up",
-      "updatedAt": "2026-04-22 03:31"
+      "updatedAt": "2026-04-22 04:43"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "7.2°C",
-        "feelsLike": "5.7°C",
-        "highLow": "최고 17.6° / 최저 6.6°",
-        "humidity": "92%",
-        "wind": "3.6 m/s",
+        "temperature": "6.4°C",
+        "feelsLike": "5.0°C",
+        "highLow": "최고 17.3° / 최저 6.3°",
+        "humidity": "94%",
+        "wind": "2.2 m/s",
         "rainChance": "0%",
-        "pm10": "77.5 μg/m³",
-        "pm25": "41.2 μg/m³",
+        "pm10": "76.4 μg/m³",
+        "pm25": "40.6 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "88",
-        "updatedAt": "2026-04-22 03:30"
+        "airQualityIndex": "85",
+        "updatedAt": "2026-04-22 04:45"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "8.1°C",
-        "feelsLike": "6.7°C",
-        "highLow": "최고 14.5° / 최저 7.9°",
-        "humidity": "89%",
-        "wind": "3.6 m/s",
+        "temperature": "8.6°C",
+        "feelsLike": "5.6°C",
+        "highLow": "최고 15.2° / 최저 7.9°",
+        "humidity": "81%",
+        "wind": "13.3 m/s",
         "rainChance": "20%",
-        "pm10": "98.3 μg/m³",
-        "pm25": "43.8 μg/m³",
+        "pm10": "88.9 μg/m³",
+        "pm25": "40.9 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "102",
-        "updatedAt": "2026-04-22 03:30"
+        "airQualityIndex": "99",
+        "updatedAt": "2026-04-22 04:45"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[오늘의 경제뉴스] 전기차 100만대 시대…'캐즘’ 넘어 성장 국면 진입하나",
-      "source": "뉴스버스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50cTk2aG1MRXJhNlNEVmtMRGFMMjNIWkF1RF9mSmFIWHRIdDJGajQ1aEIwazlYaVVfckhVeVVFYVEwQndnLWJpaWRyYmxFRVFjY2FGSXVheVpPSllkZVc1bHg2OXFNNkRfelE?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 18:22:00 GMT"
+      "title": "분양시장 이끄는 초고층…4~5월 35층 이상 공급 잇달아",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmtPRFlieTRCbmhETmpndkVZU05YUldkS3JNY29CbjRDWkRZT2JUTEhNSXRNWGxkOXNPV0NGYWlvZGhzeXAzR1RKZ0staEV6aEZwcWRteTBxX3RrbFg5REpibnNoTUhtZWNrbEt4Y3JINWpjX3dzeG1JRUVJdWVDYmdJaXpNaENmY0xUNVZaSU81VEtQZFVxekpndDV0b3VfRWVXd3p4Nk90NHZrUDI1TDNiMzk1S1VT?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 19:45:09 GMT"
     },
     {
-      "title": "트럼프 대통령, CNBC 인터뷰서 이란·경제·사회 주요 현안 견해 발표",
-      "source": "Colorado Times",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPU1JrR05LR1pOUlFqLWREaTJiUjdiQk9xU1FIaGhqQXFwbmg2UE5pRXJZZ0pEZmNodkV6TzBzcGRPS1BZanZXNlFoQVBqTDBmNGhEaTQwUENJZ1FpbVBrLUxhLVlrSkliejVtdFdncjN4TzZ1Nnc4ZzJ3a3l6eUNjeXdQRmxPZWxuVHpobVNQcGFBLVFLLW1NQXlESXcyUXF2czdjeGFrMzhpTklkU0JCS3hTNzFaZmtMTXhoYkF2MWRWemp3REgzc0pTWDhNdGxIUk5RR1ZSQ2RPUW1OVlhCeGc4T1ktV2kwdlVkY2tUa2tpWlJxZnVHYXV6Rjk0WDltUHRyTGxWZGlkUjVXZlRtNF9kRXRYazR0R29XZzFvcDFmTjkyY3ZZWEFTMkVIMmRyWEQwVG85WFhPYWFPN0FOc0NhTGU1eXpZdmdhag?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 17:51:06 GMT"
-    },
-    {
-      "title": "관음사거리 회전교차로 준공… “양평 방면 정체 해소” 기대",
-      "source": "광주뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BcHVzOHp5YmM5ZGpsMTNSMy12VVlUcmFwZkhiVURWTlBkTlpERnRZZXEyWjR0WUk0Tkk0N2R0NTE1anBzTlVBdjBrM1ViYndwVFl2TDNxQjhDX011T0xmaEw3Vm9jRWM?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 18:16:53 GMT"
-    },
-    {
-      "title": "전투기 무단 촬영한 中 10대들 선처 호소…\"어려서 몰랐다\"",
+      "title": "국힘 \"정동영 인사 조치해야…민감정보 발언 반복\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53ZjhlMnNQc2UxWFJQRC1fTERHa2EycFYtZjZlOHdnR2Jwa1JjZUx5UUplVGhkcTkyaWQwYklRb2lTYzV3Yi1sYmxCeDZBMmVrWWFR?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 18:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MM01udlAtVkJNNU9XUUdEYVN6NXlHQ0E1c1piOXB6Zi1Vb3YzSjFmM3Y1ams3MjhZc043LUdVdDlxdDVnUXlEZTVyeW01d05OVGQ4?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 19:24:00 GMT"
     },
     {
-      "title": "주한미군사령관 \"한반도 배치 사드, 옮기지 않았다\" 확인",
+      "title": "흐린 대구·경북, 미세먼지 나쁨…아침 6도·한낮 21도",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSVNEd0VpN3ZiM29CUXVRSE5OVVlNUzhNQ05TQ3FkbkREQWxtZkVlenhzT3NJNGpXdThQaVdsbGxJczROWWtlZFB1LUtwTVp3eEZYMGpYWHROaTc5b0xMeW8xR1k1Y3p0eVo4OG11c2l4QTJUV0J4TzRUdjRXMktvLXFMZXhLVTVNWEI2bEIyeHJaNDRnTTlSYS1jdDYxbkFRVHpZNTl6LXBuTkVqdlhyMlhpcHc3c0Yx?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 19:13:34 GMT"
+    },
+    {
+      "title": "민주 한병도 \"정동영 발언, 비밀 아냐…국힘, 의도적 정치공세\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55cHZCcF91U29RdnRFclBfaXl2SGUyQmpVZnYybW9lVFd3TVlpVGZsY296NkV2d3RlVjA3RkVkR0xHUFN2V1FVWGdIWnhOQURoODY0?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 17:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zNEtrZ3Z6STllMDNuZWVmV0hnNXJoa1dVVGctdUp5SEg0RHhEcUE0THVPTVhQZmJtVFVzZkQyQXM5UXctRXNRSWVFYzVCSmhjTGxR?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 19:24:00 GMT"
     },
     {
-      "title": "'꼬우면 너희도 투타겸업 찾아라!' 로버츠, 오타니 '특혜' 불평에 직격탄",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11dlBvQm9vMkduZGViMklyT2FhLWN1UGR6Y0ZwWjFVcmxUQXF2M2ZZNEZSUzctVnlERXBYTGhJcmNoQzNGa2tFb0tiS09yRlA3dUNXV3EtdnU3VkMw?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 18:33:00 GMT"
+      "title": "[美특징주]크리티컬메탈스, 유상증자 결정에 주가 급락",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3VSOEI1V0ZiN2ZsNk0xOEYwNl9mOGVjVGVoQ0xFYWdacm11WWF5NVhVbllFOWVwSFhUdDY0ZWFQSUIwbzRGWWZRSERWVlUtSFc5V0VWZFhSZHhGb05oLTJXMUVFeHpqc3F6SFNFR0RORF9sckozUDN4aVJiOHYtNg?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 19:00:52 GMT"
     },
     {
-      "title": "트립닷컴 \"더위 피하는 '쿨케이션' 여행이 뜬다\"···'쿨케이션' 트렌드 부상",
+      "title": "전쟁공포? 겁없는 코스피 사상 최고",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZZFJBXzlEeG5VYVNvcVA3X0hRamRiaGtSVmlhMHpVcUVudnRhcUVzYnBETllveTI5NnhKOW1ib0dLMjVCRkVoX08zempFbkhxT1gw?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 18:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtOWFPb0YwWERBSXZIS0xOUEx1RkhyR1libm4zS0dmODVDeXlfV1FKdGFKLUxmVmd0ekVxa3M0em1uV2ZaTVREMHlrLV9BbFdzSHNBbURGbEhXSHlneE9oQnl0TVhZc3BmZFE?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 19:01:00 GMT"
     },
     {
-      "title": "'사통팔달' 철도길 열릴까…용인시, 6만3000여명 서명부 전달",
+      "title": "불교 문화유산 한자리에…7월까지 전시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xMmFWMW12VUFLckZORUZzU09GbUZUMGlRS0pLS1A0LVdtbS1NS0RfX1Rsc3lFT2pYVzJad3Y2a2dCWEZSTWhFYUhYVWxTclh0Q1FZ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 18:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OM3ZFM0xvNHpyQ0MtTEhCdE55UFBkaDF1M3VPQlFVaU5WUlB6TDRYU0I0c05nQ2hzQ1E5RHlMSnQ1dWZIc3JDdjdjcDhUNVBFNTI0?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 19:32:00 GMT"
     },
     {
-      "title": "'결혼 10년차' 육중완, 아내와 각방 고백…모닝술로 하루 시작",
+      "title": "'北구성 핵시설 발언' 격화…野 \"정동영, 사퇴해야\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SdWczd1hDSFBTbjVCRVV4UHIxblFaa3FVc0Z5TkNCT2lOTGhtbDdudUNKbkU3ZDBCT2h4al80RV9STDdhYnQzUWhjRDZoSDlPOW5N?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 18:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aZnpmNFVTcGExckNtbkdQeFZkSktNYl9tenBzOV9SaXY5OWNHWXdraHBuTDMxNE83OE1uQmZPMWh0Ul9obFZMXzVoTW9mWWxHbno4?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 19:10:00 GMT"
     },
     {
-      "title": "페어몬트 서울, 테라스 오프닝 파티 'Bubble & Breeze' 개최",
+      "title": "'해킹하는 AI' 공포 엄습…국정원 \"게임 체인저 부상\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PLTJuaWpBdDUxZ21oLU1na3Z5SXVMQkFUdVBvbXNYLUZZRTBSY19YRW56R2hqRGZ4VWk4RFRDTXItc1cyZlRBR1NmWHZZZ1hJekVDNE12WTRIbDJZWEhlVEJ5dUxxUUhUV2JjLXdlaTdleUE2Vnc0Yg?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 17:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QdGh2X0NNTHo3NHAzYndXMzFwMklJRTMxOXlDZEJGTEhxaEV3NjJlcTkxdjQyckpBM1lZSG8tX1ZHV0VONWZNUTIydkdaVEJWMnVZ?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 19:01:00 GMT"
+    },
+    {
+      "title": "美-이란 협상 촉각…원유 들였지만 고유가 쇼크 안 끝난다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84dmt5OFNUeWZCUHFPUXBrWVd2MjJRVzk5dmJOM01mdHZDU0hBeFpkTnNNOEdTMWtaalljUnhnQjFKRkFickQxNTZiMkdNVFlQdUZBcU43ZVB4bU5zYUs3TTJOUVg4bjVTYUNEYmQ5LVkxUXFpakI4Sw?oc=5",
+      "publishedAt": "Tue, 21 Apr 2026 19:47:00 GMT"
     }
   ],
   "sources": [
