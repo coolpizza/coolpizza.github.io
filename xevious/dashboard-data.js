@@ -1,22 +1,22 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-22T13:24:18.731260+09:00",
+  "generatedAt": "2026-04-22T15:13:40.700807+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,378.88",
-      "change": "-9.59",
-      "changePercent": "-0.15%",
-      "direction": "down",
-      "updatedAt": "2026-04-22 12:51"
+      "value": "6,413.97",
+      "change": "+25.50",
+      "changePercent": "+0.40%",
+      "direction": "up",
+      "updatedAt": "2026-04-22 14:46"
     },
     {
       "label": "코스닥",
-      "value": "1,171.08",
-      "change": "-7.95",
-      "changePercent": "-0.67%",
+      "value": "1,178.25",
+      "change": "-0.78",
+      "changePercent": "-0.07%",
       "direction": "down",
-      "updatedAt": "2026-04-22 13:16"
+      "updatedAt": "2026-04-22 15:12"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,479.0792",
-      "change": "-7.72",
-      "changePercent": "-0.52%",
+      "value": "1,477.6100",
+      "change": "-9.19",
+      "changePercent": "-0.62%",
       "direction": "down",
-      "updatedAt": "2026-04-22 13:09"
+      "updatedAt": "2026-04-22 15:03"
     },
     {
       "label": "100엔/원",
-      "value": "928.18",
-      "change": "-4.82",
-      "changePercent": "-0.52%",
+      "value": "927.93",
+      "change": "-5.07",
+      "changePercent": "-0.54%",
       "direction": "down",
-      "updatedAt": "2026-04-22 13:06"
+      "updatedAt": "2026-04-22 15:03"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "15.6°C",
-        "feelsLike": "14.7°C",
-        "highLow": "최고 17.2° / 최저 6.3°",
+        "temperature": "17.3°C",
+        "feelsLike": "16.1°C",
+        "highLow": "최고 17.3° / 최저 6.3°",
         "humidity": "42%",
-        "wind": "5.0 m/s",
+        "wind": "6.8 m/s",
         "rainChance": "0%",
-        "pm10": "43.4 μg/m³",
-        "pm25": "22.9 μg/m³",
+        "pm10": "25.8 μg/m³",
+        "pm25": "13.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "75",
-        "updatedAt": "2026-04-22 13:15"
+        "airQualityIndex": "73",
+        "updatedAt": "2026-04-22 15:00"
       },
       {
         "location": "익산",
-        "summary": "약한 비",
-        "temperature": "15.2°C",
-        "feelsLike": "13.6°C",
-        "highLow": "최고 15.3° / 최저 7.8°",
-        "humidity": "65%",
-        "wind": "8.9 m/s",
+        "summary": "비",
+        "temperature": "15.4°C",
+        "feelsLike": "14.0°C",
+        "highLow": "최고 16.4° / 최저 7.8°",
+        "humidity": "64%",
+        "wind": "7.2 m/s",
         "rainChance": "33%",
-        "pm10": "48.2 μg/m³",
-        "pm25": "22.5 μg/m³",
+        "pm10": "21.2 μg/m³",
+        "pm25": "9.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "78",
-        "updatedAt": "2026-04-22 13:15"
+        "airQualityIndex": "75",
+        "updatedAt": "2026-04-22 15:00"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "공간제작소, 美 'WOM 2026' 참가…기술 소개",
+      "title": "[수도권 주요 뉴스]경기지역화폐 사용처, 8월 말까지 확대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5d3VVYTlfZjh1UGRhcDRmSjlEbWRoZTVqZnNxRkhXZ0hBVDJtSTljLV9fem1JSnE0bUtBNUNMRHcyTVZWZFRxWUlzSXkxQnp2Y2xPdWptcHBfSFljckF0NA?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 04:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzU0FGV1dZOEZNY1NhX1dQaXNXOU1uTWI3dVptMzlVNm0zNWlvZkVkU1JFWjFFbVZISzJ5aTVHbGFFOHRwemN2T0t3ZU1ESkZmR3hz?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 06:02:00 GMT"
     },
     {
-      "title": "김재준 민주당 군산시장 후보 '새로운 100년 열겠다'",
+      "title": "발언하는 김태년 국가균형성장특별위원회 위원장",
+      "source": "노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hbWxUWVFJQnpsQXFsZGl5UnlteE5VbDhaRW85NG9QaHVkUmU2M3p4V2pvNGF0QUFIQWZBbDhiNU43TUV3Ty1SeVZjRmZEcWNjX3c?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 05:55:00 GMT"
+    },
+    {
+      "title": "[속보] 특검, '내란중요임무 종사' 이상민 2심도 징역 15년 구형",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGZqSDZ4aVdXOG5TTElteklJZTNBZDFNc3M1cFFOMEdYd28xVmdPanlreUVuaDV0M0x0MnQ4QnYwNEhSamJRajNGTm9HVFZrV1dGWVVSUjRrQzhvM1pQWG5yeEE1QlZkZTRuVThQUFAyUHZ4LXBOdUFsS1BRcjQ0MFBnSkdvVGpmYlZfNXJHMGxWWExvY0lsbGxyb3phNUN3akNKTlA4bHFEVUFzOHozTmNad3MtYkZSeVNNUDhfONIBd0FVX3lxTE5xakVJdkVrSUtyNGtsZ2g0RVg1bDUtaEw0Z0s5NkNnenRWb1lCNHRDNVladHctSUg5UjB6YjFMQ1VuaWZIX3ZFbUxPNnNFczh6d2stNlFkZmRfVjY3LV9CNzNtYjB6MlFJTG5iRjktQlhPOXJZR1Y4?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 05:51:15 GMT"
+    },
+    {
+      "title": "부산항만공사, 24일까지 한·영 공동연구 성과 워크숍",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1pnaDFTc0pOUVIxdHVMWkpUUWw2ZVZlOFRmWHV3dVFBNGhfRFlsdHFjTzVNU1pXOVpfbmlwWVBCN0VpVnZ1Wks2SUc2blJrd2ZQeUxLWk1wZ2ZUcEoxTmNXZkFQR1d4QldPRHRWSzJBR3h3bmhEeDRyY2hDMzg0cWpZMXU1Qk9LLWJJaFhGNkNyRUM4VDFBTS12Mlp3eE9Ea3hjRE5rbFJ2eVdWNVpsaUFmODU2b1ZqZEE?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 04:11:20 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQzVwemZRM1dUNllWd3BBcHEtSkxTdlhja2daZTVmU1Bra1VQMkpLLTlzWVBGc2hUTmdxQ2dDcC1BMUZCc2xFQmpoQ2hGamZuWU1TS1hzWVlqVkZya3lSMnJOMGZNNnBZMmExYXlQcVlWWlZnajdsRWtKSG1BMWNmU2loVFdmMzRMV2JCZ011a212VnF1VVdEbzVNTnBJZE5USjAyRUlwRlFUaW9SVWJlUnNQTHdHSTQw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 05:32:37 GMT"
     },
     {
-      "title": "김진태 \"중앙당 뉴스에 가슴 철렁…장동혁 결자해지\" 쓴소리[노컷브이]",
+      "title": "[인천 주요 뉴스]유정복 \"인천항 제5부두, 국제 물류 허브로\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Q0tJMFNXaFp1ZmRub295cnc5UzVwYlA1YnJ5eklZdVhsS0gybFpkb0I5cERiYkl5d1lISlBneHN5M1JsSWplTXVCVGFBdW5TNnhN?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 04:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80OUgxOERlLUIyNjVva1VPcEJjT09vNTBpWjhydW4tNkJvMmNBY0pUZlo1SWdiUlBkbjZCWFY2UlN0VmZWSzdRd1htbjNQRTg1VXdB?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 06:02:00 GMT"
     },
     {
-      "title": "2040년 전력 최대수요 131.8GW 전망…2년 새 2.5GW 증가 예상(종합)",
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표, 2심에서 대폭 감형‥징역 4년",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNTJuWVVXMnVZZ296bFhxeUVPcUpxbFFEcS1JbURVTTdCUDZ5V3BiSFdkRUdyNWJjTjJCUkZnREJPR2pSWjIxMVI5bWlrZEZyRmZaSDBBTHJtRUZRdFJ0OGdIOWgwbkZPTVhiWHNWck4tV3FObVp2UFhWWWszbXR2bjNwNDdaWXdBQWpxeDEtNjdzZG81dVN0ajZWUGNKUFltTW1VZVVxYkdNY1BoaFN1cDltQjl4S0o1bVQ5dnBlZ9IBd0FVX3lxTFBRcHJXZWV3UThQTFJqay0xdVBrRVNxSGVXZ05NcTdPVlNjY24za3hGeTFrS2pRWGNqS2Nta25BQTh3N2dtRnMwWmlWV0dUVlRrbUotVEJxRUdDdk03Z0gzUDRiTkNSZlRiUTdoUGZEN293cVlYNmxv?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 05:42:45 GMT"
+    },
+    {
+      "title": "中시노펙, 주가 급등한 CATL 지분 절반 넘게 팔아 1조원 확보",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTmdlbTBEZDAwdDN0ZXJNRTk3QUdsREg2RlY2QlplQVBxMGN4NXFjNXBzdXFpWFdtNENUdDBEM3JMeVdLQmFxQWtkNWdxQ2p0TmZfMFg1UGZsRk9mYngwd1haQ3pRMEVqdEQ4MEUzOUYtOHd1VlBSbkdaNHNta1JVaFg5M0ZUUk52cnFNbVBSeU84aWVIVmlOWHhjQ3RNUDVqSXNQZFFuOEo1NGd6eGN3Vmt0cmxIRFk?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 03:31:12 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0JIWlFSR0dQbGRKRjlqdHY4VUkyNUFzZEdjQjRRdVNfam5aVGpCNFczZFc2ZURCN3gyTlhCYzB2bHI3Z1RZM1VhN0swa2xuNWdiMVBhZE1PUnlLeE1JaXlKTUE0WjJ3MUlnaVNXeEpxdVR5ZHhlMlFsQkpTcHlMT1g3bWdkRnl4OU53YjBCc1g0SnA2VGFDWVNtUEUzbTRJbjNaMy1fdjJjUFZScExsUEl2VzhEVE52?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 05:36:36 GMT"
     },
     {
-      "title": "'3선 도전' 전춘성, 민주당 진안군수 후보 확정",
+      "title": "민주당, 균형성장 주요 현안 당·정·청 정책간담회",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QOTZQT3F5MVlkYWRqNUQweWFsWEc1R3EtREl4dk1ObzNMU3ZIU3gtNXVXSG4xVnVPUzM1MWRvTE92bDYtNEZ4V2lTcTBJZlVCaGYw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 03:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10RXVkemctZ0ZpVUNLZUpVRHNfZDJSZHlnQXlwSDc3MmE1Tm9oT2QyNUJTWDhLSFkxc1ZkMUZZcHpOQ2lvYzRPa2tKd1pyRnhHVDE1WFZ4bzZhV08wMHRVb3o4RXg3Q2lKOWVHLU13?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 05:59:00 GMT"
     },
     {
-      "title": "유료 인증서 없어도 OK!…국세청, 세금계산서 발급 쉬워진다",
+      "title": "균형성장 주요현안 당정청 정책간담회",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vemhORzB0SkVoWFhQUVoyZUdla1IwVFpsOHlJUTQ1TDZfbmx4QzVPSGNVSDd5Q0I5QS1GN2JLUnpHMG1DY0FMNHVBMGZiRXFzTGRiYnJzMUdjTXVBYUUzV08zbkZyY1dtT1pPcV9IaEc2TVgwNUcyRA?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 03:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43ZmJ4RHc3V1hTeXlmX3ZlcXpPemRMQndreWgxdm9CTlkxbHNyMVN5d0E4ckhybFNQWXhlVXpFM3I0ZGlwV0xtNWg0dmlSLW1qTDlF?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 05:56:00 GMT"
     },
     {
-      "title": "건어물 구입하는 민주당 정청래 대표",
+      "title": "균형성장 주요현안 당-정-청 정책간담회, 발언하는 김태년 위원장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JQ1AtTnFXZkx4b3F1OWJIZlE3LUF1YWRrYUtvMkQ1d3plbDBnZ3RoUTcyQkJQY09ja1hvbnpiU1hNTGZ1SXVCMjg0STFRc1Y1b2J1dDJ2SUVfUFY2MVhrNnpuTEYyaEVlMXNpMFB3?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 03:32:00 GMT"
-    },
-    {
-      "title": "남원서 춘향제 바가지요금 근절 결의대회…'신뢰 쌓기' 노력",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aajBRbnRrU1Z6dmNNMnVkbzh3MTBEQjlRQjZsTUlyTXhwaHR4QThwSUVWR2hQM0tZeFp0R251UHFBNXUzOU1ZRkhTY0lEclBtZG5tRA?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 04:13:20 GMT"
-    },
-    {
-      "title": "송언석·유상범, 단식 12일차 안호영 방문…일단 건강 챙겨야",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zWllhcTBob3ZrNzZVWFVWYUZwWEdkREZHMlVPY3lZRFdYQjI3UWlBeFlWQUlYaHdIelM5Q1NmTkw4QnlOZzhPMWxTN0Q3LTQ4YWdpX0xBenbSAVhBVV95cUxNc1pZYXEwaG92azc2VVhVVmFGcFhHZERGRzJVT2N5WURXWEIyN1FpQXhZVkFJWGh3SHpTOUNTZk5MOEJ5Tmc4TzFsUzdENy00OGFnaV9MQXp2?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 03:32:38 GMT"
-    },
-    {
-      "title": "김용, 연일 출마 의지 표명…고심 깊어지는 與 지도부",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04MWUxenIxc2dVWU1LX045VF9EcHlxaUZteDl3SE9ydEM5WmtpMEFaMmRlbDJlUGRlcnNKdFlaaXJ1TXBsQjZ2REc2elpTcHBJSlBB?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 03:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HMFZsZHdFcVZobDF3WTU1cUoxN2w0allWTi1yTmw1Z25RWFQtS1NMclJJbWVtMWxyXzN1bWRaUHBqWkxzWEdBOGhQU0NUMWFTOHVJZ2V3MGU3bktLVEZpN25jTVFfa05VR2Vzcl9LVzhpdjRhWEp3ZA?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 05:57:00 GMT"
     }
   ],
   "sources": [
