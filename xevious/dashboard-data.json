@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T02:42:29.625011+09:00",
+  "generatedAt": "2026-04-23T03:47:12.505359+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "8.6°C",
-        "feelsLike": "7.0°C",
+        "temperature": "8.5°C",
+        "feelsLike": "6.8°C",
         "highLow": "최고 19.6° / 최저 7.9°",
-        "humidity": "83%",
-        "wind": "3.9 m/s",
+        "humidity": "81%",
+        "wind": "4.5 m/s",
         "rainChance": "0%",
         "pm10": "35.7 μg/m³",
-        "pm25": "32.1 μg/m³",
+        "pm25": "31.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-04-23 02:30"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-04-23 03:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
         "temperature": "6.7°C",
-        "feelsLike": "4.1°C",
+        "feelsLike": "4.0°C",
         "highLow": "최고 21.8° / 최저 5.8°",
-        "humidity": "80%",
-        "wind": "8.0 m/s",
+        "humidity": "81%",
+        "wind": "8.9 m/s",
         "rainChance": "0%",
-        "pm10": "20.0 μg/m³",
-        "pm25": "15.9 μg/m³",
+        "pm10": "21.2 μg/m³",
+        "pm25": "17.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-23 02:30"
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-23 03:30"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "단양군-공무원 노조 손 맞잡아",
-      "source": "제천단양뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sR2Zic2ZmWmVpSzBST0h2bk5FNHpXdnItS2tlbmhraHB4SVBwemtEUzJzd21IbV80MEp0T3VhWFBCbWNnX281S01kbDNmYWJ2M2xMN1Y5eUo3MWRZRmxHN01VZkc?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:27:08 GMT"
-    },
-    {
-      "title": "써브웨이, 봄 한정 카도 키링 굿즈 프로모션 진행",
+      "title": "이란 대통령 \"대화는 환영…봉쇄와 위협이 걸림돌\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zOE5XQW1NQzNkWVMwT1BHQ05qN2JhZDZwYXU1a0JEY3VMM2VIS2dKRklYMnJqbFRoaFBPSkNoeUhDTzhoN21CRm5wTFlQY2Z4NDJwbmlqWGk2VU9Pc21jWA?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54dlNtMElOOVl6dDhnLXh1b19vQTA3T0xRSmQyZ29zcElsQ2tLSEhNdFppM0tFdUNpUkNKQmFhZG9JQVl6bllORkFBWExDeDFqQTBV?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 18:40:00 GMT"
     },
     {
-      "title": "李 '아시아 넘어 국제평화 소중함 절감'…또럼 '평화·미래 향해 기여'(종합)",
+      "title": "'뼈말라 강박 깬다'…임산부·장애인·과체중 마네킹 뉴욕 등장",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2JSWXlMMXNvRnFUT3JwVjJhSkttV2N0MXE3c1pRUkxlRVpWekIySDBZXzM1ZWR4b09XbGw2eDUxTVdvLU1xaGZMZjEwU0VMMk9XLXZtNzEtVTI0SFdjeURZU09DWV84OXdBTjRIREs4NHd0c1JNZXp2Q1B5VDlON3NJcTkyZVVqTHJQai1yQmp0S0FpT2NYYktTdmM2VmtDZjdxYUFQRmpfb1d1U1ZadjkwekN2MHhV?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:14:26 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVBEM0ZzbEtfYmNscWdPZzdqQXUyRU1UbHd2N1VnQnRmSGhrRnNfMGRTSEZtdzZJY0JCNGlKTGIzMlhVN3NvV09JYzNaQ0JFYW8yVWNscFoxV2FiU3pDNlJkbVYwN20tMWUwTURudWtLWk5SeUhtQU9kVkNMRElFb3hFZXVXRGdTTjdXU1NUR3B2NVZGcXZKTFh0WlQwOG9RYUREcjRBUGRWTFBzSWZYRkNJRVZpTU0?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:49:33 GMT"
     },
     {
-      "title": "조선기업 HD현대重, 美 데이터센터 전력 시장 진출",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Yd2dXbFN2clBzS0o1VDhtdDd1QnVZSG44QnhsMjZOSEhvSTVncms4YmtveUMtS3YzeVJ4b0s3TFppNm1mdFB4cTNpY2J4R2lSdW9hSDdoWmZPVUVkUHUtMmcxMVFEbG1kZGNj0gFvQVVfeXFMUE1ob0J3UVE4QlUwTGhxUlRIaXE3em9yS0llUXg5cm1TX2pVMGpWVHoyNF9qZ0h2YWZBOXNNaGE5clV5cHR3NzlISlVsUHIyRThXQ2sxaWJVQWJRYTFid19DVGo5VTB6LVlQTTQ5c3Jv?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:34:30 GMT"
-    },
-    {
-      "title": "\"뼈말라 강박 깬다\"…임산부·장애인·과체중 마네킹 뉴욕 등장",
+      "title": "이란 \"미국의 봉쇄·위협이 협상의 최대 걸림돌\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GT1hVNUE3ZEl6c2JLN3laOHQ0MFBNdEt5QVlXWFVmdjBJVDliakN2QVV3TnVPWF82T2R3TDNiYWkzY3RhUTRWVHZna0ZZT1p0bjJr?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tSHpreE9xRWlVcld3RUlvWmxGVU9VeHlEeUhqRUFHUW82SXQtY2swQkFiSjlXcC1vZnRyRlU5Uk1oQ2V5RmROQ1VxMk91UGVoRnF3?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 18:07:00 GMT"
     },
     {
-      "title": "이 대통령 '한·베트남, 2030년 교역 1500억 달러로…철도 차량 수출'(종합2보)",
+      "title": "헝가리, 거부권 철회…EU, 우크라 지원·러 추가 제재 승인",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kWGlEYWxqWUFGeU10WllzTl9FeVZSNEU4eHB5dWhZVU5UNi0xV19xRWdmLWZkUHFSdWNDblcxd1hfZlFRV3BpVklWaGp4ak1jSUhJ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 18:02:00 GMT"
+    },
+    {
+      "title": "에이전트·칩 양면전술 펼치는 구글…오픈AI·엔비디아 동시조준",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelk5ck9USFNkN2JDTl9UZlFBVHNMeUw5S1dvcVdkNURUcWMySU5oQ3NRR2tmMkp6Z3B3aDJocmo2dVBWNmFtcjZfVTNjSk5LR0ZMOWMwXzg3NGFVdWZsV1MxS3RPZnNJWUtvOWNibF9MMUt3ZEJWdkhOR2FrSUlnMWo3Vy0tUU4ydE9Ha0NmaTEtWGx2LUdJMHg4UWxXalBZaUZ5ckZWQXNXMzNERUxFaDhKYUluelRY?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 16:44:15 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUhjWFJLOXZmUFBNVXp3SWZ4YlFtNWlLLWdYX1gtal9kblpMZmNxckVPbm1jN0l1M25FQk1FU1FhR3Qwblo5cU5EZFdBNnFMMGZGNnVhYnFSQWhZVC1MYWRiWHdqSUlpWV9YVUZBb19aVlhyeEpMa2Q2OGZrTjNXRmdSWkZnNHVWdFYxbzIxMXpvNWluVHR3ajBjTk9PY1lFNmxmYzhEeWp0elRWUlFVTUFRX09sc3JCb0E?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 18:34:29 GMT"
     },
     {
-      "title": "SF 영화 아닌 과학…외계생명체 연구, 어디까지 왔나",
+      "title": "두 번 '톱10' 했더니 확 달라진 '윤이나의 위상'…'자신감 장착' 메이저 첫 '톱10' 도전",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85NEhOU29SN3hQQldzc3lVajd3Sm5PM216THlWWk9abzN6cTNYbkZYb2l6R3N4b2JGZ0lweVBQQXZrOThPQWpRUm0wbmpHdlhuUlI0?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XaTFUNmE1TkdmSFJRRGNXcURjY1dIOXVrclBpaG1vNURuSWxKU3dYWFZnbEFDOUo5UHVfWldkTzU2VXdBR0lkckpKT1d0dFJfQ0Nv?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 18:09:00 GMT"
     },
     {
-      "title": "[사설]중형조선사 발목잡는 국책은행",
+      "title": "회복 소비 시대, '리커버리노믹스' 타고 온천 관심 증가···국내 대표 온천 관광지 아산스파비스, 야외 어트랙션 개장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tVmdTX0NoZ0xTa19FRElWU0JMeXp1bjBDSU9NYkV0SXZ5ZG5xbk1RM09JbHlzeC15Sjk4VXkwcHhISWU0b3NqTzFhdXE2Yl9PaUt0VU9RblhPOE5xTzBvSg?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lbndCNHpmcTNXSTVYZ2ZSaXlCR2sydE5FR09zZThaWHUyZjNDQUYyaU9HZnRONlBGVW5hNmY3NkZJcXNwZE1rNWFMRUI2d0xDRVBF?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 18:02:00 GMT"
     },
     {
-      "title": "'29일 컴백' 박지훈, 팬미팅서 신곡 'Bodyelse' 첫선",
+      "title": "에어프랑스, 장거리 비즈니스 클래스 신규 디저트 컬렉션 선보여",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mVlhzNWpzVWNBaHhfVE1RVW9kaklqd2Z1UGlldlBBREE1a0xPZkJoS0R1YWVKQ2pYZVdYY3dLSkthX2d5VDFGSXppSjVSMzVySlRlMWhiXzBOTWF4UmM3blFVa0xVZHJw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04RlF5d0hDMDR5X2JjU21vUjluQ2p2c1FGQ0I5alFMYTJnVGFmMHhLc1FaSmk0NmVsZ184LXN4R1hCeVpYV254TWFmcXRKSk5ZWnRn?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 18:40:00 GMT"
     },
     {
-      "title": "올해 독일 GDP 전망치 반토막 났다…중동 전쟁 여파",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xYW9qOGtveGJIbUFpM256dGZkZjBfVmFCbjdJWUZpQ1dIQVVELWhhYkplSmRTQld4ZElmb0g3SW5nSzFEYW5jNkNSdW8xYklCWVNfU0ZKazFSZjJsYXo1cTB0WXY4dmlxUGl0dWZRdEg?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 16:12:44 GMT"
+      "title": "검찰, 군사시설 수백 회 촬영 中 10대들에 징역형 구형",
+      "source": "truthdaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CMmdsbWRNQ1lxdlowUnBibjY2azVoVGFTaXduejgwYXM1YTJSZmxqZ1o2QldYNmpxd0g4SWtRUVFsWXhTNEs4Qk9vbW0wOWtkajVCTlBQRUFfaGF6bVBjVGNSbjBEcGs4MTlrXzF3?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:58:00 GMT"
+    },
+    {
+      "title": "李 대통령 \"베트남은 사돈의 나라\"…무인전동차 수출, 원전도 논의",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQUkU3NmtoNGhLdmIxWWRvR0hxdkJmU1d2aUtQY1hackRHR2hrVmRhaGJGQW0tYzQ2SkhZdDZDeFM1VEVCREw3VFNtUktGTjJJTVdRX1JWY055UdIBVEFVX3lxTE02TFRib1paa2NVZ0g5eWt0cy0tbEotOUg4dldha1lpWi12SmZQRGtaUG5NSlNsZW5EYWlmZGNjR0MzZUZ5b2gtU2tyRXlsTV9lN0tqXw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:42:00 GMT"
     }
   ],
   "sources": [
