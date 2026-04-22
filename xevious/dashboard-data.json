@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T17:06:21.401868+09:00",
+  "generatedAt": "2026-04-22T18:47:38.945104+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "16.5°C",
-        "feelsLike": "14.5°C",
+        "temperature": "13.9°C",
+        "feelsLike": "12.3°C",
         "highLow": "최고 17.4° / 최저 6.3°",
-        "humidity": "48%",
-        "wind": "6.6 m/s",
+        "humidity": "60%",
+        "wind": "4.7 m/s",
         "rainChance": "0%",
-        "pm10": "20.2 μg/m³",
-        "pm25": "10.7 μg/m³",
+        "pm10": "17.8 μg/m³",
+        "pm25": "10.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "72",
-        "updatedAt": "2026-04-22 17:00"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-04-22 18:45"
       },
       {
         "location": "익산",
         "summary": "비",
-        "temperature": "16.8°C",
-        "feelsLike": "15.2°C",
+        "temperature": "14.0°C",
+        "feelsLike": "12.8°C",
         "highLow": "최고 16.8° / 최저 7.8°",
-        "humidity": "58%",
-        "wind": "8.4 m/s",
+        "humidity": "72%",
+        "wind": "6.6 m/s",
         "rainChance": "33%",
-        "pm10": "18.7 μg/m³",
+        "pm10": "18.2 μg/m³",
         "pm25": "9.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "72",
-        "updatedAt": "2026-04-22 17:00"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-04-22 18:45"
       }
     ]
   },
@@ -103,9 +103,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,963원/L",
         "lowestDistrict": "송파구",
-        "stationName": "㈜버드에너지 위례제일",
-        "address": "서울 송파구 위례서로 260",
-        "updatedAt": "2026-04-22 04:54:19",
+        "stationName": "상아주유소",
+        "address": "서울 송파구 거마로 82",
+        "updatedAt": "2026-04-22 04:56:48",
         "districtSamples": [
           {
             "district": "송파구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "LG, 전국 주요 사옥서 '지구의 날' 소등 캠페인",
+      "title": "'살상 무기 수출 가능'...일본, 2차대전 이후 유지해온 무기 수출 규제 완화",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCa3VrMFJHeFh1TmhTLUo5NGpmbEthNkpRUlFiNnBUMFlLb3FQdTN6RVJReUVGZmplQ3JQTUdsWVR0ZENSQlF0ZFBuMmRKYjJLNFFSeXljVEtUb0dD0gFiQVVfeXFMTldwWEVvc09fZ19uN1NGRUpsZk5Lak1oNFRPY3lYd01ITHZRRjZlSzRLeTZUaHlBcDRjMFBrTzZZVlVfZU1oMDBkcUFuWDNKTFBsdHJ5RnN5SmtPSFZaUDZoWVE?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 09:27:51 GMT"
+    },
+    {
+      "title": "4월 23일(목) 안동지역 주요 행사 일정을 알립니다",
+      "source": "안동인터넷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ER05xb1JkQzZMekwxQWt5TVJnRWNCSkFtRGtRYlFzUVBzeU14X0NvM3NaUW1Qa3FEZjhLdFRmcVhDQkhTbjU3UHhUM1hYQWxLT1pDdDlWYnN1dWR4ZDZ5NnBaT3AyM2RpNUE?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 09:34:24 GMT"
+    },
+    {
+      "title": "한화그룹, 지구의 날 맞아 전국 주요 사옥 소등 캠페인 진행",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzQWV2Qjg3djNTTllvcEFKelFTWV9ROGgyeU53LTFiYklBWDBYWnJZTjZpNWVaenItajJzc0ZnY0tlVnR0c2pxRDN1UDk4MmVyekxKbVZsZHRhM2ZQdzFQUFZERmE?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 07:35:42 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14WVZyWGRXOHNpOG5PNkg2TnhYbHMxUndCbEhNUkIyWW5xVGc5alR3UEtlVmQxM1pXS2lBdWZPNUQzc2h6bmpINmhsWHFzeVZ3UTVXWnItTkhTb1hsNWhxVWxJUS0?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 08:50:04 GMT"
     },
     {
-      "title": "균형성장 주요현안 당-정-청 정책간담회",
-      "source": "gukjenews.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QYUh1cXhpTTZva0RpSnVKLXJ0Q2FHZ24wV3pTT1M2NlZFSTZ2bnFQMjZzeE1ja3Fmb0k3QTZVZEJPbmxEYmpLbnFCd1VsR2hOMDdUMm1JYjFsejRZV015NGdESkJCRWd0aHdGbnB3?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 07:52:38 GMT"
-    },
-    {
-      "title": "덜 싸우고 더 고른다…건설사들의 달라진 수주 전략",
+      "title": "언론사 단전·단수 이상민 항소심도 징역 15년 구형…내달 12일 선고(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUIxQWRadXllOEJnZDFKZ2tQaGN5bzBMWHhrYS1XVEg5NDlIVHpra0hNVXhiZGNpUUhnTlJWUzVtWlJvZEdRcGc0UFA4RFRCcEZCQ0g3bGV3MlJ3cWpjc0UyWDFtQnJfenBmWWNRc0E2QzJZWmFjMkxmN05rQ202aWNMbVVXc0dKUEZzOXlwby1CaGZpNnN2VjNyXzNvWlVySGtWVFQxOFpJTGY2dU8zazdRd29IOG5nX2Qw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 07:49:15 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGVIVnpFMUkxaEdpN29DYjBDNFVqX3h4c1h1Ulpac3p4X2hfb0g2T0I1U0p2SlJfLUxiWU81QlVFdHJWRkUwYkRsVzR6OGZlWTZael9iOE9NU1BqUUtWZnpKNzVTdDUwZWkyLWRoQl81RWlucHdEOUZQSU96ckVzVFczZUItVnczNzdjaW1TbzVsUnFSYS1GMDQyNjJsZi15dVpyLWY0SkFHQU9lcVNqb3Jtd1hkTzRZZ0ZzN0VGa2QyTkl4WGF2cw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 09:42:31 GMT"
     },
     {
-      "title": "에이셉익스프레스, 글로벌 무역 컴플라이언스 AI 'ASAP C' 오픈",
+      "title": "컴투스, 신작 MMORPG '제우스: 오만의 신' 주요 지역 공개",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxUmJRbW9qa29GdlRacTk0V3h0dHgzOGpVNllQWkhISWtoVDRNaGkxMU5lcGdPbW1kZEdzaWpSc0FvdmJscEw3U3YtMFZHMGsxdk9z?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 07:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sQXUzZ0ZOWWNObnJjcFU4VGV4dmVkbE5Vd3UzUlV3OW02aVB4OXNTQzExVVA3QU96MWJhUnA2c1ZmSWkxQXFYNDRJUi1LUEtHQlVzN2VQcGo5Y1dFSTcwSQ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 09:40:00 GMT"
     },
     {
-      "title": "전북 경찰·새마을금고, 보이스피싱 예방 협력",
-      "source": "노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiVkJreGZrc2x4UGlreUFKRXFZeGtLeGVxMHlWTHFqa2tjNlJCRVBCZ2p4SllpbUllOGxKZGZ4M2EzVFM0YTMyRnVFMmNCcnc0d1E?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 07:30:00 GMT"
-    },
-    {
-      "title": "MTNW투자자문, 종목상담 앱 '엑스텐' 출시…개인별 맞춤상담",
+      "title": "\"원주시노조 레드팀으로 존중\"…구자열·원강수 '한목소리'",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43cnhFdkEzU0g4Q1pxOWwtOE9IM0NzVlVUUE14SjEwcmQ1NFJ1SVZZYTJrQ2hVT2dRRGJHVFU0VmQzdnJvaG5BcTIzY0NxWHNlTHl3ZFJvM3NsNGw5dncw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 07:44:27 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mUW82N19HN1l1V2pfcEo2SWlCWUVjVXBMSnRScEtOam5kN0dsT3Rlc3lNdmxqcDdpS3dNVklTTHYzUEpjQWtBaW1hblhpT25WTWoyVQ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 09:02:36 GMT"
+    },
+    {
+      "title": "서울시장 판세 흔들 장특공제…변수는 한강벨트 민심",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjh4Z2ZzVkVnOWwzQTdJdF9TSHFNYUNEcWp0bG5QMWVwcmxKU0kwLWt1TjB4MGlzbTB4b0xoajNCZWVqcHk4Mzk2VlJfQmZtMWNoaFRqZmJrTkNkSFBoQkt6ZWpxOWZVOEhueGxTTHRnVHdNaHpYVk9CalJMaW1nYWdPMjVCdklJRGZWQzM5bjVobUkyNkVlTE9udy1uQzAtNENCdUM3RXlZNmRxckEtQUM4UmktWlhjMWc?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 09:17:27 GMT"
+    },
+    {
+      "title": "김 총리 \"위기에 먼저 움직이는 당정 돼야…완벽 공조 목적은 민생 개선\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13c1NrbW9MeFRteU5JME1NRWpuLXM1eWZySDhMbGFVRUZCZlVZLURwTXI5ZzFmRHdOUzUzckliTnllVlp1bjFwYXVWLUh2RzVZdjVz?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 09:36:00 GMT"
     },
     {
       "title": "AI 음모론",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmhhUjMyeXVmVC12eTFpMG9LczhrRURYTFQ5YWh1WVRvdG90RDk0RTRCLW1nME80T0c0ZU5lcFVKeGZOdHUtZElJdnc3clpyaW5tOTNzUVhhVTRVdDdabTlpLUJXdlhBODFBTi02eExRNWt2MWlrdElRWlRPWmFobDZ5cDZXQUltMUJ5Q3gxSHpfUERsdThnVkY3akRYT2luamdoUk9TUktBQXFjN2djaEpBT214U0FOYXFZ?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 07:50:10 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaVJoaXI4alZ4cmo3dHZGekpubjNnbWtRX1V4Y29ha1BEa3RjZWRrdUJXM182U3REdUJ2bGZqOElGWHRISjVlRy15SFlDYU9ZTVZLMl9JZ0dQeDhoRTAyMWo0eG10b3N2eUxXQ0V5NEdDWW5mV29wWFZXLU92RTVKdFpOdjRELXc4YTBLbDlxYzVlWHU4RmR6cTZtMTA5ZzlPakZrQTAzNThPSGJVTkd3ajBlUVhfZ1hsb09V?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 09:14:43 GMT"
     },
     {
-      "title": "LG, 전국 주요 사옥서 '지구의 날' 소등 캠페인",
+      "title": "정청래 \"선거에 도움 안 되면…\" 김용 공천 불투명[박지환의 뉴스톡]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JR1BZWjRqN0UxM3JBVmxneWZuS0pMNlItRVlDQnZtZ2pEYjBRdFRxVjZocTIxa0drNGpjYjFZazkyOHd2MDJ4YnJYMXE5dzBhem44NHkwOWhPa2ZIVkJnbA?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 07:36:00 GMT"
-    },
-    {
-      "title": "부산국제원자력산업전서 SMR·AI전환 기술 등 '눈길'",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uYVA3T1N3NC1oVTZqNnVPT0kxdC1nMWhMbUtlWi1md3pVN01JYlJSZy05bFFsbHpmZFJwV3kyb2RZZlRfNC0zN005VUd1QjExVDNjSmF4TE1XZ2Z1V0g0?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 07:55:50 GMT"
-    },
-    {
-      "title": "강원랜드 하이원리조트, '지구의 날' 맞아 객실 소등 캠페인",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12ZzFQZXRmRlFJdU10VFhQNmh6ODRqMEVZbkdNNVN6RTFHOXJrZlB4Q2NRT2tCR080bmZlN1dhRkNiZzdCOXVQV0JqcXhwbHl3RmZycENaUHY0SVhPX1hySWMtSFpWXzFsUkwtMDZENFEyYmMyNjc5Ng?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 07:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tNXBIRWZXN05yUVlWWmxqemxjeTFpTU9tZmQ4ZmRlV092SXdiWUNUYkRWV3BxelBFRVN6WVhmVXBvMnQxcUlEdzhvM2psTXg5d2xV?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 09:27:00 GMT"
     }
   ],
   "sources": [
