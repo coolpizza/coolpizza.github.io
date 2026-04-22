@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T08:10:38.583556+09:00",
+  "generatedAt": "2026-04-23T08:59:46.065096+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "11.1°C",
-        "feelsLike": "8.0°C",
-        "highLow": "최고 19.7° / 최저 7.8°",
-        "humidity": "48%",
-        "wind": "7.6 m/s",
+        "temperature": "13.1°C",
+        "feelsLike": "9.9°C",
+        "highLow": "최고 19.9° / 최저 7.8°",
+        "humidity": "44%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
-        "pm10": "31.9 μg/m³",
+        "pm10": "33.4 μg/m³",
         "pm25": "29.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-23 08:00"
+        "updatedAt": "2026-04-23 08:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "10.5°C",
-        "feelsLike": "7.7°C",
-        "highLow": "최고 22.2° / 최저 6.3°",
-        "humidity": "74%",
-        "wind": "12.6 m/s",
+        "temperature": "13.1°C",
+        "feelsLike": "10.4°C",
+        "highLow": "최고 22.5° / 최저 6.5°",
+        "humidity": "66%",
+        "wind": "13.4 m/s",
         "rainChance": "0%",
-        "pm10": "36.6 μg/m³",
-        "pm25": "34.2 μg/m³",
+        "pm10": "43.9 μg/m³",
+        "pm25": "40.9 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-04-23 08:00"
+        "airQualityIndex": "58",
+        "updatedAt": "2026-04-23 08:45"
       }
     ]
   },
@@ -177,10 +177,16 @@
   },
   "news": [
     {
-      "title": "[브리핑] 인도네시아 사회분야 주요 뉴스 (4월 22일)",
+      "title": "SK하이닉스 사상최대 영업이익 등 이시각 주요뉴스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2N1NpbUo2SlRoWTRBLTY1aGpuNHJTWXZMcDVsRmlRYWY3aGo1S0RnNFE4UkFUeFJHTll0dlBsa1NaVVAwcERmMk5BNVZaNmk0UFN3NUxzbS1lQVFFa3Z1Q2YxNmNZcktlVXpGd3Z0eUHSAXRBVV95cUxOckFLNWx5bGtUem5nbjlwb2xsam8xV0xySW1qRHdGLU1zc3FpbXpxd3hXQldzWi1MQnNFZlpxQWVxeGoyNkNPM3I5UGdscnF2aEJ6LUdsejN0LTY2bG5sT2tYQWhaVVZOMDIzdFdsMkg1S29hdw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:42:33 GMT"
+    },
+    {
+      "title": "[브리핑] 인도네시아 경제 주요 뉴스(4.22)",
       "source": "한인포스트",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZZzFGbXJ0WVF1QllHYldWeE9JWTZlZTlFdHI3aDU4UjFmTnUycGt3MHNjNERZMDNPdnYybDJlRTVFZ1Zabzc0Unl5djktZw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 23:00:18 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iWjMyczhyNGgyalJYZXg4dzFiZUxBRjUtZG9Ccl9HMk1uRTVUV29iMWEtcHdWeExCNlRNVGo1R2RTLW1aSVpxR21RS0VCdw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:19:04 GMT"
     },
     {
       "title": "[전국 주요 신문 톱뉴스](23일 조간)",
@@ -189,52 +195,46 @@
       "publishedAt": "Wed, 22 Apr 2026 23:00:04 GMT"
     },
     {
-      "title": "경실련, 주요 활동 발표 잇달아 취소…단순한 \"내부 사정\"인가?",
-      "source": "한국NGO신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZT28xYndsMVhFd1BzVnNoeHMycDRyUnFfZnVhLXJnNHBwMjRuTzRIdmEzZjltNG0zZU9YaDUySXhmRHlsR1NMTHdmNlQxUTZuWHprc3N3VC1ZMWRMV2hsMmZxTWVLb1Qz?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:58:46 GMT"
+      "title": "대한항공, '2026 예지정비 글로벌 항공사 워크숍' 개최",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tRFlYMlVFazNJQlMxMTRVdDAxdWdFejB1YWhJRUZZQWh2Nlc3QWc5cl80TGlPdFNYUXM5VUg3dGdoN0RKdm5WNS1MMUFhSGJRWUJydHZqQUhZRDR1ajZ4M2F1RUg?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:48:43 GMT"
     },
     {
-      "title": "[뉴스광장 대전·세종·충남 오프닝]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01U1dTNXBQelVyQnBxQUZncW1RVjZpN3p1WTZqOXlOTnRWY3ZRZzl1cmdzRjNOLUhwUllaZl9HRVVkclAxVHh5V3dUaHJUVXA3RUt6QXA3SGJNa00?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:47:00 GMT"
-    },
-    {
-      "title": "부실 징후 기업 5058곳 역대 최대…코로나 셧다운 때의 1.6배",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XSEpxdS1NamFMMVZVNC1tUzhrUTFlR21Mb3hfdzROZ1I4Y3RlYUpEdU8xMGRLeFd5Q2o3M1FpMnN0ajBsdTFsUWprUDRKY2NkNG5Od1dldTAwaUVr0gFTQVVfeXFMTzdvWm9rM1VheF9rTkxGNnI0LW1td1JBTElDc3ZGR1M3dW1jRjNNeE5hQV8xZFpNaTlia0ZOYy1fQXNVNS1uUF9rVjlLdjB5V040cVE?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:51:02 GMT"
-    },
-    {
-      "title": "4월 23일 굿모닝 MBN 이 시각 주요뉴스",
+      "title": "BBQ, 태국 시장 진출…\"동남아 시장 확대\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zSkptVHRKSElZaE1lVWtGRTZmTVZOdDRSUWFQaUdoZ0c3VGo2TlFiUXE5c2xmaTJybHF4YjVSMkxNU09PbzVLM0VFOW1MVDE5cGdB?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MaXdLQlRrLS1zRUJFdVJtYW1DSVlsbklKQk1ORTJQNmVVZWF0RndLV0RtODd3TGtrZWxBS0lvYXA2ZmFMMGx0dDl5N05LaDBfZV9EdXFaZU1MbEF1ZFVDQQ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:55:00 GMT"
     },
     {
-      "title": "[속보] SK하이닉스 1분기 매출 사상 최초 52조, 영업이익 37조 달성",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc3Z5di1BR1hxTnZDQ0lHbnh3NUw5SW92Q1VhSmNCN09hZThKRkxTRTdZZWI3NVo4NGdUYUE4NWdPYmpqdFNBOEtwYVBXRmZjNmF2VzdVTm82M012UExPTEJIM000dy1Qa2J0b2pPX21VTUpaVzRIUGVOWVJrMUdMUkI1d2V6N0VsajRKMU4xWjVTUm1XZWdQQUpLQ1M0ZHhtVnl2UHdBUm1CSWp4NmpFbW5XUUJJTUZUaEI3ZNIBdEFVX3lxTE95c3dVY010MG1IenFoVDFMbTRpYlJLU3dmVEloa0ZTa3hkTVlWekFNRjVsbWRreHBVUzR0em1Gcy1jNGJ1VXJHSmNDTFpEMklMb0p0eGNxYzhLYkJIWnZHWE5nRTVvWjVlUl8xX3FDaXZWTExU?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:38:48 GMT"
+      "title": "BBQ, 태국 마스터프랜차이즈 계약",
+      "source": "뉴스후플러스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlZzBOcFkwaDlnTldhT2pTV2hORlNFY3pVU0g5SmI0LTBkQ3JsS1FMdGxSWVFZVzNjbnRvUGR3Qmw4SHZXQ1BzT2syOHJ6eXA0UkRHc2JjdlBCQmlId2NyakFCSmpEWHlkcms4ZlZB?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:18:08 GMT"
     },
     {
-      "title": "[오늘의 증시]코스피, 뉴욕증시·하이닉스 실적 훈풍에 최고가 랠리 이어갈 듯",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRGV0aW1tcHZwbERSNURXcEM3VXFveGJkZGJhYU1VWU5mWkY1aVR0S0tyTzZmN05XdUg1cDN5ZGIwVG54aTlqZy1fUG5sVXRxaFAtS0ZFcGExTXBUOU9KcWdITTNmVy1CcENZQzJVYTJRN3MwMGQ0Umt6YUpOb3RFWEtFZEpVNUZYYTg1M1dZcE92QWEzUVlBdnJVNWp4azc2aTJ1eWFCUl93MGd5WU1naGxyNWVrZzlqc2c?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 23:05:08 GMT"
+      "title": "[브리핑] 인도네시아 사회분야 주요 뉴스 (4월 22일)",
+      "source": "한인포스트",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZZzFGbXJ0WVF1QllHYldWeE9JWTZlZTlFdHI3aDU4UjFmTnUycGt3MHNjNERZMDNPdnYybDJlRTVFZ1Zabzc0Unl5djktZw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:00:18 GMT"
     },
     {
-      "title": "농어업·농어촌특별위원회, 제28차 본회의 개최",
-      "source": "한국식품의약신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XMEUxYVEtaloyVTdsQUgxa1ZqVDA4dVNvOEVpYmgyTlRTdUFOMF9KRzBuWWFMMFpBTE51YUlfSDJPYVdjMUxHcHVmeVgzSnItZXNxalhlT1FmWG9td1JVTkYxVWNmTkk?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:44:16 GMT"
+      "title": "삼성전자, 무더위 앞두고 에어컨 설치 전담팀 가동",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zSGJiTDdQQXBuWDdMSWEzaTdjbV9fSk5pcGR4NHVRVFNoOF9uc0xRU19FVzB0TUpoeFlOaU9kVUdoNUs2aGU4MHQyZFFQSlRNcUxTcXF0cEJxeTTSAWBBVV95cUxPWTZZa2drcl9YVGdrR3JHM2FOWEhHb1NGVGVwVXRXX3J4d1plenp2Q2RoRWlfTHcwVlpiTTh2ZTRkLXhVTUViUkFGbkstdVpfbGVPRnhSOWZQeXRIeWM5MG4?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:38:23 GMT"
     },
     {
-      "title": "[아주증시포커스] 반도체만 보이는 한국 증시…삼전닉스에 외국인 자금 70% 쏠리고, ETF도 반도체 천하 外",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfLURUNG5tSnFRR3h5a0RpMVRNS3dqUUhsUUVZaW05WTI4YnBkczE2Uy1YN09SX0lFdkpfOWpsM1d0bzdTWXV4aV9pZ3hvRzM5X3VMdjVIWVk4d9IBWEFVX3lxTE5xWlhoaDZqeEVTZzdZaGI0ZnVlU2UtTldZNlF6MVQ5WXI0LTNwZklDSEZNUmZRNW93dm9VWWN6N1NWSU8xVVphay1ZdUZjMS1HTWlRVEhzZC0?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 23:03:38 GMT"
+      "title": "충남도, 태안박람회장 주변 식품판매업소 원산지·위생 단속",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OMVZKT3dnY1JMaXpoZ3czQnJZMVMwamlXQU92M0w5eVhELXJZejhNUTFpNXdlbW9FSHFTU0JDb1FNTElJSlVxaEtVWjNjLVc2cHI2bk1BVmF2MS1sbmNaRg?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:42:23 GMT"
+    },
+    {
+      "title": "현대차 \"모바일 축구 게임 '현대 넥스트 컵 투어' 즐겨보세요\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmRUxYOUY1ZWNpQkpFQ25CUkxzdnp0WUhNV3ZqZjJoWl9tQnYzcVF1NGtlNnZOY0JsZUV3TkpXaDlMaHhSeTRMeW5zNEFNQ1BVTWg0?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:36:00 GMT"
     }
   ],
   "sources": [
