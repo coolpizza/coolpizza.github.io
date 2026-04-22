@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T20:49:37.080036+09:00",
+  "generatedAt": "2026-04-22T21:51:19.983457+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.6°C",
-        "feelsLike": "10.2°C",
+        "temperature": "10.7°C",
+        "feelsLike": "9.4°C",
         "highLow": "최고 17.3° / 최저 6.3°",
-        "humidity": "71%",
-        "wind": "3.6 m/s",
+        "humidity": "78%",
+        "wind": "3.7 m/s",
         "rainChance": "0%",
-        "pm10": "29.4 μg/m³",
-        "pm25": "23.9 μg/m³",
+        "pm10": "30.3 μg/m³",
+        "pm25": "26.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "71",
-        "updatedAt": "2026-04-22 20:45"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-04-22 21:45"
       },
       {
         "location": "익산",
         "summary": "비",
-        "temperature": "11.5°C",
-        "feelsLike": "9.2°C",
+        "temperature": "10.3°C",
+        "feelsLike": "8.2°C",
         "highLow": "최고 16.7° / 최저 7.8°",
-        "humidity": "69%",
-        "wind": "9.2 m/s",
+        "humidity": "74%",
+        "wind": "7.5 m/s",
         "rainChance": "33%",
-        "pm10": "32.5 μg/m³",
-        "pm25": "18.8 μg/m³",
+        "pm10": "27.4 μg/m³",
+        "pm25": "16.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "70",
-        "updatedAt": "2026-04-22 20:45"
+        "airQualityIndex": "69",
+        "updatedAt": "2026-04-22 21:45"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[뉴스7 대구·경북 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hNHI4aHdSTXFhbUM2aGZ4M051UU5ES09FbmFRMlRESGlpbEpXNDlINFpibWxRRGVoNTZ1Um9KZWJ4WUx0VjZnb1lwcWpqTHJMeXRlUnZxaVlkbXM?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:07:00 GMT"
+      "title": "차량 5대 '연쇄 추돌'…4명 병원 이송",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1LXNsakI4NFdYUDVhTERhbjNCR0liZlN2akFJQXhhcWdRSUVNdkxrVmlMb2F2dDJvQ2FSMmV4Y1YwRkNVV3BuMW1UaDJfaHlIdFZTWGVrVUZ4emozZ3N1RmZvbV94Yy01VndvZ3liOFpWS1lINS05bw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 12:44:00 GMT"
     },
     {
-      "title": "AI 음모론",
+      "title": "이란 강경매체 '호르무즈는 원유뿐 아니라 인터넷 동맥'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVpyQnlqYk51SnZwMThHbjhaRU44MGd5VjZrZHFfSUxGNVdpRmV4Z3dMRm05aGJRRzljZXVlR3NyR2ZOS3ZCeFhzUnNuSDc4dEZobU0xdGZRSDM3b1ZDbGhPQm5pZHJEajU3OUVRT1pFek5faWpkejkxbnpQMXpGcmJuOTBhUjF0Tjd0a0xmVnlXTjhYNmV1al85MXVDNVhDY2l0RGZfdm5VeHduM0dEbk9NdHRLUzJmRW5R?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:34:57 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFR3ZFF4bFZtbjcwYVpBdXI4aWNZZnlEOHd4dVE4eUtUS1BBdndFOXp1MmR1M1NKTzYzb2NxcnNDSm5iSnpUbHdacGZPZ0NvTTRIQTBNdDlMTWF5VURmNXh6eWtSVGlEb2habEd2Y21mR05yMzMtLVQ3ODExeUpiWXVWVHlTRDdqQlpjUnZnQk55VnpObkVDQTQ2cXRkaEdaQzlDejl0bWhBVVZzY09SOVBiTlVjV081?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 12:38:56 GMT"
     },
     {
-      "title": "[속보]한-베트남 정상회담 '종료'…111분 진행",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqUG5XUGdNRlR2ZzdMMkZka1NvdUpPdVZWRjUwMmdqZGNJNEU3TXUwX3VMMGJDU0R1cjg1ekJoUHIzcFg2LU1kMk1Lck1HcW9xaU40?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:29:00 GMT"
+      "title": "MMORPG 중심 업데이트 집중…주요 타이틀 일제히 콘텐츠 확장",
+      "source": "게임와이",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84MUI0andZNGVKeXJ4b0tLUUxmc2pVZ09Sem0tT3hza2p6QzFtVlptUWVtZEs2cFhFdTIwRGp3ejRNQnFMM0g1RTFSVmFPRGhPNFBGX1AzeHVfb2RuMWpWcmwzaktlTEXSAWpBVV95cUxQQXZPQUF3X185am9abEEzVUxqQ1dfMUNFWHFNV0dlelF4UTFvcVRsUUhHM0hCN0RXREY1RHlJakNreVZGNlFiTG9iZTlNVWlobzFDV19taHlxOWRZSEtIcEpheXk4WTQ4WWZn?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 12:06:01 GMT"
     },
     {
-      "title": "[포토] 한두솔 '들어갔어' : 네이트 스포츠",
+      "title": "與, 최민희 '특정후보 지지' 경고…최재성과 설전 맞물려",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNDlpVDhpNElEYWlUYXp4LVgyNF9UWTFjSlhnSXJER0ZiYkREcDJHdXFDcHNEczNFc2JDVFQ3WFhjWVVNRWl0UG1vY1g5WDdYaC1ZU2l3?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kUlN2ZHFOaUZNczE2WVVScU1aa3h0Z1pmRTJuZlZERVpHeFYwOVpma0QyU3lVV2lOUFlhNlM1Tm5IVmlVSGk2U2hqamxJMHJqamM0?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 12:37:00 GMT"
     },
     {
-      "title": "전국 15개 주요 국가유산 수리현장 중점공개",
+      "title": "[포토] 고개 숙인 사자군단",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FT2t4Y1d5TEdsVnUzanB1QnVLY25FNGZoZHQ1RDk3Y3hhZ0NVenNoaFlqWHNZanJsRTdYalJWU1N0aWdOc3BENm80TlJ6UnN4VkFB?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjQnkzU1lVVFRwRW5wUVFNUjk0RXpXUHRzS09iZVJmSE5PNW5rWXAyYmNUUkV1Z00zZUo1YnRmbGlZR0RFUzVKS1JLMHdxdzM1N0VZTlpR?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 12:38:00 GMT"
     },
     {
-      "title": "최유철 등 국민의힘 경북 기초단체장 후보 13명 확정",
+      "title": "코스피 '역대 최고가 랠리'[포토뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IVWpMMUhpa2dpdmczNndWMG1sVW1TZnhoRDlPdWZTeWwyTkFBTHJScy1aWnhQdl9lSmZLWXUtN2RBWHRUT0lNMUhKOUdFZHAwcllv?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:32:06 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OUXloWHhrQ3JidHVnLWExV004RElJTU4xeFNBVUNySV94d3Nja1dJdGVlUWp1VWczRGY2eHdCM1FIRWN5VG53WjhUM2VZam5VanFjYVRtRDFUd3d1WmhEQk5fUS1qaEFwdGc?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 12:06:00 GMT"
     },
     {
-      "title": "[포토] '7회까지도 무실점…완봉하겠네' 웰스",
+      "title": "[전문] 이재명 대통령 베트남과 하드웨어부터 미래 산업 분야까지 협력",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JS3JDWXhGRmlsTTJKdV9sODBYSFc4a18tQUhnUEp2SkFvb1dSVURwX3FBZC1iczVJVW0yS1NiRjdUMG8zekZ4ZHZXQzh6ZDJYVWxoX0tYOG7SAVhBVV95cUxPSUtyQ1l4RkZpbE0ySnVfbDgwWEhXOGtfLUFIZ1BKdkpBb29XUlVEcF9xQWQtYnM1SVVtMktTYkY3VDBvM3pGeGR2V0M4emQyWFVsaF9LWDhu?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 12:00:15 GMT"
+    },
+    {
+      "title": "2월 합계출산율 0.93명.. 출생아 수 7년 만에 최대-증가율 '역대 최고'",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhcHJpRjE4elJRU3RLRTJiZllqX3h4MU9vSHVBVmh4Zk5UMGRlaDRLa2hEY05HMEJvWGx4VE1FWExocXJYRGwxYm1wWU9uRG1uR29NbEgycmZDOVhaSHNOZTFhSjExeGFONUtJ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 12:20:12 GMT"
+    },
+    {
+      "title": "특검, '계엄 정당화 메시지' 관련 조태열 전 외교부장관 조사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtN0pIRjNfbzRySm1GVFRkZ0ZSWTV6a1NnQ2xIQjk2ZU42ZG1MejNFc2NsRWRKVnBrQ3AxMFBVWHpPSE9BdHVsS1I3YWtYR1pKQUQ4Ynpn?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:39:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LWkNXSzN5RURwekxXSERQa2lZOHItN3lwVHcySER2S2IzUVVrQ0FHSXdkU0Vja1laSUIwM0FzT2N3YU0xX3dSX1N1TzFtVzNPTU04?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 12:02:00 GMT"
     },
     {
       "title": "이 대통령-또럼 주석 정상회담 종료…곧 공동언론발표",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclQzVk1rMGdEazBueGtjUjhhUlJ1WTJUeEFsOU1HSWd5ajJFTWVjSEJST1RxOXA1Wl9tdGJPQVRMYVBvUC0zZW1sTHF0Y0YzSzBJRFlDLUVfcC1QXzNtUy0wTVdwOEVIZ2VzUXo5ZExGd0lBLUhoNDBVNElSRVlYS2NaUXV4c1hlSUJMcmFESUhhRU5vSTNRQWVQSm1hNXIyTGg3bXp4SEdIczZEdXdBMEpDZHVsRkpG?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:48:53 GMT"
-    },
-    {
-      "title": "GA 외형 확대와 소비자보호",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXZRR20zMGgzS1VmbDJHdE1sR21jUnVQSk0yU3V0QzNWcTFIRzV3alVvVFRiYnVEbkd0dFl4UzZSdUxWc183cF93ck1kWGVNME1USHN1UFdfRFRUNGd5UHdONmpPblhLaTBHZDZWOTRwd3V2ZXVmZmJXblI0dW1QTnUzMkl6ZkpMSTd3T2R4OEhWMEJneURXcFlyTmFQX1dMc204YWJfOVZab2gxUTBVS2NPZTNkdHVDT0I4MjVn?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:34:57 GMT"
-    },
-    {
-      "title": "'세종시로 옮기나' 벌벌 떠는 금융당국",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQVVGbkNQcm5RbGVjbDBrR2MwTmRUbENnTU1hei14bnRjX25RNlQybTFySDdXMVd5c1V3cDlaZEJFSlk5V0lLckplU3BIZGlpdmRSM21yTDhuV3NnTDBIX0pmZ0c2MjFmVWttSXEzY052bmdTTmNYeGh3M2dBU3h6d0xyeTJHclRSX0tMQUdTdTMtMGZINV9ZX1Z3c1EtdTVwNUg5YUg0NEdXNld4X2xQdHhmeWNwS1pzNEY3ZUNR?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:34:57 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZUxpS3BLNzBVU3luWHJDLTQyMmtqajFVMjRNWVU2WTJlZnpWQ0d2bVdjNlg3cG5xWjJrYTg5SFZzdF8xQnJEVnNJMnZSVmU0Qkd0VTRJYkRJeFFfZ0RDTzk5SGlVVTJKZDNWWDdQNjM1OVB3dlBtNWxIQ3RneFF5N256RXRTUzBPSmIwdG9Gd2F3eF83V2dGYzhrbVd2N2JPQ1ZtVXhMV2tCUFFDZTVIRWs1UW9nYXlULU45Uk1tR3d6U1E5MHBHSQ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:53:48 GMT"
     }
   ],
   "sources": [
