@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T00:48:53.658340+09:00",
+  "generatedAt": "2026-04-23T01:47:38.033205+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "9.4°C",
-        "feelsLike": "8.1°C",
+        "temperature": "9.2°C",
+        "feelsLike": "7.7°C",
         "highLow": "최고 19.4° / 최저 8.5°",
         "humidity": "82%",
-        "wind": "3.0 m/s",
+        "wind": "3.6 m/s",
         "rainChance": "0%",
-        "pm10": "34.1 μg/m³",
-        "pm25": "31.5 μg/m³",
+        "pm10": "35.6 μg/m³",
+        "pm25": "32.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-04-23 00:45"
+        "airQualityIndex": "68",
+        "updatedAt": "2026-04-23 01:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "7.8°C",
-        "feelsLike": "5.5°C",
+        "temperature": "7.7°C",
+        "feelsLike": "5.1°C",
         "highLow": "최고 21.6° / 최저 6.0°",
-        "humidity": "81%",
-        "wind": "7.2 m/s",
+        "humidity": "78%",
+        "wind": "8.5 m/s",
         "rainChance": "0%",
-        "pm10": "21.9 μg/m³",
-        "pm25": "15.0 μg/m³",
+        "pm10": "20.7 μg/m³",
+        "pm25": "15.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "65",
-        "updatedAt": "2026-04-23 00:45"
+        "airQualityIndex": "64",
+        "updatedAt": "2026-04-23 01:30"
       }
     ]
   },
@@ -103,9 +103,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,963원/L",
         "lowestDistrict": "송파구",
-        "stationName": "㈜버드에너지 위례제일",
-        "address": "서울 송파구 위례서로 260",
-        "updatedAt": "2026-04-22 04:54:19",
+        "stationName": "상아주유소",
+        "address": "서울 송파구 거마로 82",
+        "updatedAt": "2026-04-22 04:56:48",
         "districtSamples": [
           {
             "district": "송파구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[주요경제지표] 2026년 4월 22일자",
+      "title": "호찌민 모쇼 찾은 이재명 대통령",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FazA3OThSTndvSFhDaUJIVU5QMmVYeENqbkVadG9zbUJKYUdhT2dXaUxpdDVtOGpjYWtHX0VyX193d2VhdzluMWhuNWJpTkdlN2Q0?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91c0RhV1ctdEZFMU41aUZKcEJ5NDNoVVZnNUZqek9pQzM3bWlWeEhmbDl4WndKcmNaTkdxWDd2S0NPSTBXU1JzMURLUzNlRmxNQXNN?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 15:53:00 GMT"
     },
     {
-      "title": "평화 협상 앞두고 이스라엘 외무, 레바논에 '헤즈볼라, 양국 공통된 적'",
+      "title": "[실적] 스마일게이트, 2025년 매출 1.4조원 달성...영업이익 업계 3위",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tSE1oM0hFTy0yWGwyT0xyRnhzNlNINk9wSDlVV2VxVXUycTdzZVVwaHZpeWpWSklXWGlPc0c3Y3BjczRaTWl3QVpxTXBmdFRaeXVVaUJDZmhkLWRES2c?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 16:01:46 GMT"
+    },
+    {
+      "title": "하노이 호치민 묘소 찾아 헌화하는 이재명 대통령",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rWnZkRWJCMHlUTzVxT0ZZck5KN2xZeG16a1lHVGhJU0dCR3dWVGw3Zi1zV3RnRS1QUW01WmEwQ1JhTGNETXBmek5kWW1yb0p1dWpV?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 16:02:00 GMT"
+    },
+    {
+      "title": "이재명 대통령 부부, 호찌민 묘소 참배",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VTWE1UXVIbTNObi03ZmZjaGNXbXFDMmc0VUFSNG5IaXdSaklORXhFb0stN2pHMVRiZjRTMklseE9DMnhDckZiaEhEWEVkOU1MOGpr?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 15:55:00 GMT"
+    },
+    {
+      "title": "정동영 통일장관은 왜, 국내외 공개적 충돌 자초할까",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93bm9oekxTeEJwRDBqSC14a0Q3am9pZHQyd29ibi0teG93cHNmV3BFNVNlYWJPVzJOcVdyRURiRV8zb296SkM2bGxvZkVTQUZjWFNn?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 15:53:00 GMT"
+    },
+    {
+      "title": "'챗GPT도 공범'…8명 사상 美 대학 총격에 AI 수사 착수",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHczbFlmWnZDYmJyM1JNVjJNMnpkX2VlbFZ2SEJpS20ySG5MWXo1TDF3eFJIcnRiTENKMktmMi16eUJSRTZCWVE0SE1BdXVfOEQ1cFdIVVlWdGhQd05tcmRuV0RTNkpZSkpva2RBSmkwWEs2NjB4Tl9jYVlHVDJ6NWxVZmVjaDRidFY3V3oza1F6c3NhbTJxTE04ZzRUeHhNcDVzWk5OS3owRGpkbUhXaC1RZVhkc3lld095dmxkcFlZWkpsaUl4eA?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:19:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmhxR1FzTEdWak5Na3Nsa0FaMDV0eXV2NnVkR3IwRjdSeGw4ZzhCM1VpM1lRVXg4akhnUzJieHM0czZ1a0l0dHQ1MEZPd0l1cUpPend4V0s2RE1GMW5IcEdIc3hnVmlDcDZrTW1hZngzUms3SnBSUnhveWRFZFM3c004bEE4cjMyZWRyM3IxVzVCU2FQbzFURkZlMEZoeTJxMVA1YlM5alNTYkZiT05QVHVjS1k2OU1h?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 15:59:11 GMT"
     },
     {
-      "title": "국빈만찬 건배사하는 이재명 대통령",
+      "title": "소비자공익네트워크, 비상 에너지 위기 대응 절전 캠페인",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Jc3hhcHpJNks3Q2JmRlJYbzhwMjA4bnZwRzhVaFBrZzgwcWVBa0VWN0VTMFM4WHNnQWpsWkZ4OFNLWmlxNjA0b1NRSERTUnpMT1BN?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53VDZrVG9kZy1sYWxJTHJRWVVGM0k1aTUxT0JUd2x5M0RyWEZEWEY4dTlpbW1XT0lMeU4tNU8zZG5RaHZYVzBvNk1CRE54TlRRV3lZ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 16:32:00 GMT"
     },
     {
-      "title": "전국 흐린 하늘…전남·경남·제주도 비소식[오늘날씨]",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWFIelh2RTJCY0RPc1R2MjZVOXF3enB2UkVXYVNtYU5nc2MwR21nM0RDdnhnU3FYVW9aSU1TOXBDeGtWaUlQSzlKSWdNYlRNTUdoRGFsTk1zTms1UnladldUQXg3STE5WDJJeU1UUlB6U0hDQ3I0NjdKbVV0N3UtRjRyMHJHdFJXMTBfNGFBUFdwSDZFSmQ0bEJtM184SEJRandpVGE5S2ViX1FlbDZ2Qm5WU0pTME85cXc?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:09:39 GMT"
-    },
-    {
-      "title": "건배사 하는 이재명 대통령",
+      "title": "사상 사고 운전자 살인 혐의 적용…노사 교섭 시작",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91NDRFMnJhZ0dTeURFdWl5bmp5eWRyUjdRWEFQeWtKdEszZ1RWcUMxSjFoeHRCYzZmazFLd1pnX0c3bDR0ZnhlRHRNMW90LWw1NlRZ?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xa2ZQVHNLSlYtZWgtcXhnd2I2QkZnVlNIWTN4bmRnWkY0UC1Nd0xGSHdlbDl5aV9nWU1FeksySnNycVZ5N0lmbmpCRFIwY1dxbGVF?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 16:15:00 GMT"
     },
     {
-      "title": "李대통령 \"쭉쓲쾌\" 럼 서기장 \"감사\"…韓 재계인도 베트남 만찬 '한자리'",
+      "title": "\"'선상 최고위' 할 때냐\"…'단식' 안호영 안 찾은 정청래",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BWmQ4YkZ5TWhNNDJmRTd1MldDU0dfelJQRHdCRFZXWGlxVU0wRmJvWTh2OXUyV01jNGJlZ2FWMS0xSEVzdy1BVklhbGtDV29iUTZF?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nVnhYc3N3ejM2U050V0ZvdmRGemJkWWczX21ISm9FWkhoSzJ3OTlmQm9EUE5sR3QzTURsRU1LbFVKclBsQ1BzbWR6dGtlX0hYaW13?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 15:48:00 GMT"
     },
     {
-      "title": "국빈만찬 참석한 이재명 대통령 부부",
+      "title": "부산 북갑, 구포초 행사에 시선집중",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYMDZJTnFxY1NOcUtmN0s5c1VsWmFsY1Utenl2UW5xS3RLQ2F4ZHJGUTJ4c3Zab0VFNXB0RHRBOGUzM2RzYzJsS3ZSREU2eEVYVVQw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:06:00 GMT"
-    },
-    {
-      "title": "[데스크 칼럼] 시장이 미·이란 전쟁에서 배운 것",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nQm5jdzlzbVJCazJnNmVDTTctaFRrdWVLcmZ5MllCQWJPX2VFc0ZQdmRIanZ5SV9NNkpSTzZwSDBmenlIc1BaLVZjRkxHREVYRlY5TmpqUEN1bkRmcVB5Yw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:10:00 GMT"
-    },
-    {
-      "title": "李대통령, 베트남 서기장과 국빈 만찬…\"쭉?쾌\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83R3pRMlVvSDBUdzZKcXdCbnlMXzRfMkxOXzdrRTVRY3BwVUU3bjhpRzE1dk1QdFZfSmNDNzBSbXRueUEwSFNrQ3JJNnpEdTR1LUxV?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:05:00 GMT"
-    },
-    {
-      "title": "[한번에쓱]배우 이준과 응원열전 '이틀연속 독수리사냥 기대되요!' 차영현",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OVXFVU0t0T21Yd1lDdnNiWXIxTngyOGR3YTVFSVFvc3pqNnpiX0hFWVJYNUNrdzRIdWJJdzF5Y0I4SFRoV1NKWE9HcXZ3dWlSRndyOGl1REJGdDZh?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWSzctRm5hb1ZaR180Z2FHTHFQNWp5YkJibUNwTUVKZWt0Njl0Z3JIUTFPRXBfbVlZZUNPTkl1VVRLTURNMkFMWmJfd2tEV0FVZHRV?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 15:50:00 GMT"
     }
   ],
   "sources": [
