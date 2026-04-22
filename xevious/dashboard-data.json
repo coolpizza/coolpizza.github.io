@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-22T15:13:40.700807+09:00",
+  "generatedAt": "2026-04-22T17:06:21.401868+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,413.97",
-      "change": "+25.50",
-      "changePercent": "+0.40%",
+      "value": "6,417.93",
+      "change": "+29.46",
+      "changePercent": "+0.46%",
       "direction": "up",
-      "updatedAt": "2026-04-22 14:46"
+      "updatedAt": "2026-04-22 15:32"
     },
     {
       "label": "코스닥",
-      "value": "1,178.25",
-      "change": "-0.78",
-      "changePercent": "-0.07%",
-      "direction": "down",
-      "updatedAt": "2026-04-22 15:12"
+      "value": "1,181.12",
+      "change": "+2.09",
+      "changePercent": "+0.18%",
+      "direction": "up",
+      "updatedAt": "2026-04-22 17:04"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,477.6100",
-      "change": "-9.19",
-      "changePercent": "-0.62%",
+      "value": "1,476.6900",
+      "change": "-10.11",
+      "changePercent": "-0.68%",
       "direction": "down",
-      "updatedAt": "2026-04-22 15:03"
+      "updatedAt": "2026-04-22 17:03"
     },
     {
       "label": "100엔/원",
-      "value": "927.93",
-      "change": "-5.07",
-      "changePercent": "-0.54%",
+      "value": "927.42",
+      "change": "-5.58",
+      "changePercent": "-0.60%",
       "direction": "down",
-      "updatedAt": "2026-04-22 15:03"
+      "updatedAt": "2026-04-22 17:04"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "17.3°C",
-        "feelsLike": "16.1°C",
-        "highLow": "최고 17.3° / 최저 6.3°",
-        "humidity": "42%",
-        "wind": "6.8 m/s",
+        "temperature": "16.5°C",
+        "feelsLike": "14.5°C",
+        "highLow": "최고 17.4° / 최저 6.3°",
+        "humidity": "48%",
+        "wind": "6.6 m/s",
         "rainChance": "0%",
-        "pm10": "25.8 μg/m³",
-        "pm25": "13.2 μg/m³",
+        "pm10": "20.2 μg/m³",
+        "pm25": "10.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-04-22 15:00"
+        "airQualityIndex": "72",
+        "updatedAt": "2026-04-22 17:00"
       },
       {
         "location": "익산",
         "summary": "비",
-        "temperature": "15.4°C",
-        "feelsLike": "14.0°C",
-        "highLow": "최고 16.4° / 최저 7.8°",
-        "humidity": "64%",
-        "wind": "7.2 m/s",
+        "temperature": "16.8°C",
+        "feelsLike": "15.2°C",
+        "highLow": "최고 16.8° / 최저 7.8°",
+        "humidity": "58%",
+        "wind": "8.4 m/s",
         "rainChance": "33%",
-        "pm10": "21.2 μg/m³",
-        "pm25": "9.5 μg/m³",
+        "pm10": "18.7 μg/m³",
+        "pm25": "9.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "75",
-        "updatedAt": "2026-04-22 15:00"
+        "airQualityIndex": "72",
+        "updatedAt": "2026-04-22 17:00"
       }
     ]
   },
@@ -142,10 +142,6 @@
             "price": "1,967원/L"
           },
           {
-            "district": "부평구",
-            "price": "1,969원/L"
-          },
-          {
             "district": "중구",
             "price": "1,974원/L"
           },
@@ -156,6 +152,10 @@
           {
             "district": "서구",
             "price": "1,975원/L"
+          },
+          {
+            "district": "계양구",
+            "price": "1,979원/L"
           }
         ]
       },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[수도권 주요 뉴스]경기지역화폐 사용처, 8월 말까지 확대",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzU0FGV1dZOEZNY1NhX1dQaXNXOU1uTWI3dVptMzlVNm0zNWlvZkVkU1JFWjFFbVZISzJ5aTVHbGFFOHRwemN2T0t3ZU1ESkZmR3hz?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 06:02:00 GMT"
+      "title": "LG, 전국 주요 사옥서 '지구의 날' 소등 캠페인",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzQWV2Qjg3djNTTllvcEFKelFTWV9ROGgyeU53LTFiYklBWDBYWnJZTjZpNWVaenItajJzc0ZnY0tlVnR0c2pxRDN1UDk4MmVyekxKbVZsZHRhM2ZQdzFQUFZERmE?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 07:35:42 GMT"
     },
     {
-      "title": "발언하는 김태년 국가균형성장특별위원회 위원장",
+      "title": "균형성장 주요현안 당-정-청 정책간담회",
+      "source": "gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QYUh1cXhpTTZva0RpSnVKLXJ0Q2FHZ24wV3pTT1M2NlZFSTZ2bnFQMjZzeE1ja3Fmb0k3QTZVZEJPbmxEYmpLbnFCd1VsR2hOMDdUMm1JYjFsejRZV015NGdESkJCRWd0aHdGbnB3?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 07:52:38 GMT"
+    },
+    {
+      "title": "덜 싸우고 더 고른다…건설사들의 달라진 수주 전략",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUIxQWRadXllOEJnZDFKZ2tQaGN5bzBMWHhrYS1XVEg5NDlIVHpra0hNVXhiZGNpUUhnTlJWUzVtWlJvZEdRcGc0UFA4RFRCcEZCQ0g3bGV3MlJ3cWpjc0UyWDFtQnJfenBmWWNRc0E2QzJZWmFjMkxmN05rQ202aWNMbVVXc0dKUEZzOXlwby1CaGZpNnN2VjNyXzNvWlVySGtWVFQxOFpJTGY2dU8zazdRd29IOG5nX2Qw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 07:49:15 GMT"
+    },
+    {
+      "title": "에이셉익스프레스, 글로벌 무역 컴플라이언스 AI 'ASAP C' 오픈",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxUmJRbW9qa29GdlRacTk0V3h0dHgzOGpVNllQWkhISWtoVDRNaGkxMU5lcGdPbW1kZEdzaWpSc0FvdmJscEw3U3YtMFZHMGsxdk9z?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 07:53:00 GMT"
+    },
+    {
+      "title": "전북 경찰·새마을금고, 보이스피싱 예방 협력",
       "source": "노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hbWxUWVFJQnpsQXFsZGl5UnlteE5VbDhaRW85NG9QaHVkUmU2M3p4V2pvNGF0QUFIQWZBbDhiNU43TUV3Ty1SeVZjRmZEcWNjX3c?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 05:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiVkJreGZrc2x4UGlreUFKRXFZeGtLeGVxMHlWTHFqa2tjNlJCRVBCZ2p4SllpbUllOGxKZGZ4M2EzVFM0YTMyRnVFMmNCcnc0d1E?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 07:30:00 GMT"
     },
     {
-      "title": "[속보] 특검, '내란중요임무 종사' 이상민 2심도 징역 15년 구형",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGZqSDZ4aVdXOG5TTElteklJZTNBZDFNc3M1cFFOMEdYd28xVmdPanlreUVuaDV0M0x0MnQ4QnYwNEhSamJRajNGTm9HVFZrV1dGWVVSUjRrQzhvM1pQWG5yeEE1QlZkZTRuVThQUFAyUHZ4LXBOdUFsS1BRcjQ0MFBnSkdvVGpmYlZfNXJHMGxWWExvY0lsbGxyb3phNUN3akNKTlA4bHFEVUFzOHozTmNad3MtYkZSeVNNUDhfONIBd0FVX3lxTE5xakVJdkVrSUtyNGtsZ2g0RVg1bDUtaEw0Z0s5NkNnenRWb1lCNHRDNVladHctSUg5UjB6YjFMQ1VuaWZIX3ZFbUxPNnNFczh6d2stNlFkZmRfVjY3LV9CNzNtYjB6MlFJTG5iRjktQlhPOXJZR1Y4?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 05:51:15 GMT"
+      "title": "MTNW투자자문, 종목상담 앱 '엑스텐' 출시…개인별 맞춤상담",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43cnhFdkEzU0g4Q1pxOWwtOE9IM0NzVlVUUE14SjEwcmQ1NFJ1SVZZYTJrQ2hVT2dRRGJHVFU0VmQzdnJvaG5BcTIzY0NxWHNlTHl3ZFJvM3NsNGw5dncw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 07:44:27 GMT"
     },
     {
-      "title": "부산항만공사, 24일까지 한·영 공동연구 성과 워크숍",
+      "title": "AI 음모론",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQzVwemZRM1dUNllWd3BBcHEtSkxTdlhja2daZTVmU1Bra1VQMkpLLTlzWVBGc2hUTmdxQ2dDcC1BMUZCc2xFQmpoQ2hGamZuWU1TS1hzWVlqVkZya3lSMnJOMGZNNnBZMmExYXlQcVlWWlZnajdsRWtKSG1BMWNmU2loVFdmMzRMV2JCZ011a212VnF1VVdEbzVNTnBJZE5USjAyRUlwRlFUaW9SVWJlUnNQTHdHSTQw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 05:32:37 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmhhUjMyeXVmVC12eTFpMG9LczhrRURYTFQ5YWh1WVRvdG90RDk0RTRCLW1nME80T0c0ZU5lcFVKeGZOdHUtZElJdnc3clpyaW5tOTNzUVhhVTRVdDdabTlpLUJXdlhBODFBTi02eExRNWt2MWlrdElRWlRPWmFobDZ5cDZXQUltMUJ5Q3gxSHpfUERsdThnVkY3akRYT2luamdoUk9TUktBQXFjN2djaEpBT214U0FOYXFZ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 07:50:10 GMT"
     },
     {
-      "title": "[인천 주요 뉴스]유정복 \"인천항 제5부두, 국제 물류 허브로\"",
+      "title": "LG, 전국 주요 사옥서 '지구의 날' 소등 캠페인",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80OUgxOERlLUIyNjVva1VPcEJjT09vNTBpWjhydW4tNkJvMmNBY0pUZlo1SWdiUlBkbjZCWFY2UlN0VmZWSzdRd1htbjNQRTg1VXdB?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 06:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JR1BZWjRqN0UxM3JBVmxneWZuS0pMNlItRVlDQnZtZ2pEYjBRdFRxVjZocTIxa0drNGpjYjFZazkyOHd2MDJ4YnJYMXE5dzBhem44NHkwOWhPa2ZIVkJnbA?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 07:36:00 GMT"
     },
     {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표, 2심에서 대폭 감형‥징역 4년",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNTJuWVVXMnVZZ296bFhxeUVPcUpxbFFEcS1JbURVTTdCUDZ5V3BiSFdkRUdyNWJjTjJCUkZnREJPR2pSWjIxMVI5bWlrZEZyRmZaSDBBTHJtRUZRdFJ0OGdIOWgwbkZPTVhiWHNWck4tV3FObVp2UFhWWWszbXR2bjNwNDdaWXdBQWpxeDEtNjdzZG81dVN0ajZWUGNKUFltTW1VZVVxYkdNY1BoaFN1cDltQjl4S0o1bVQ5dnBlZ9IBd0FVX3lxTFBRcHJXZWV3UThQTFJqay0xdVBrRVNxSGVXZ05NcTdPVlNjY24za3hGeTFrS2pRWGNqS2Nta25BQTh3N2dtRnMwWmlWV0dUVlRrbUotVEJxRUdDdk03Z0gzUDRiTkNSZlRiUTdoUGZEN293cVlYNmxv?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 05:42:45 GMT"
+      "title": "부산국제원자력산업전서 SMR·AI전환 기술 등 '눈길'",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uYVA3T1N3NC1oVTZqNnVPT0kxdC1nMWhMbUtlWi1md3pVN01JYlJSZy05bFFsbHpmZFJwV3kyb2RZZlRfNC0zN005VUd1QjExVDNjSmF4TE1XZ2Z1V0g0?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 07:55:50 GMT"
     },
     {
-      "title": "中시노펙, 주가 급등한 CATL 지분 절반 넘게 팔아 1조원 확보",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0JIWlFSR0dQbGRKRjlqdHY4VUkyNUFzZEdjQjRRdVNfam5aVGpCNFczZFc2ZURCN3gyTlhCYzB2bHI3Z1RZM1VhN0swa2xuNWdiMVBhZE1PUnlLeE1JaXlKTUE0WjJ3MUlnaVNXeEpxdVR5ZHhlMlFsQkpTcHlMT1g3bWdkRnl4OU53YjBCc1g0SnA2VGFDWVNtUEUzbTRJbjNaMy1fdjJjUFZScExsUEl2VzhEVE52?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 05:36:36 GMT"
-    },
-    {
-      "title": "민주당, 균형성장 주요 현안 당·정·청 정책간담회",
+      "title": "강원랜드 하이원리조트, '지구의 날' 맞아 객실 소등 캠페인",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10RXVkemctZ0ZpVUNLZUpVRHNfZDJSZHlnQXlwSDc3MmE1Tm9oT2QyNUJTWDhLSFkxc1ZkMUZZcHpOQ2lvYzRPa2tKd1pyRnhHVDE1WFZ4bzZhV08wMHRVb3o4RXg3Q2lKOWVHLU13?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 05:59:00 GMT"
-    },
-    {
-      "title": "균형성장 주요현안 당정청 정책간담회",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43ZmJ4RHc3V1hTeXlmX3ZlcXpPemRMQndreWgxdm9CTlkxbHNyMVN5d0E4ckhybFNQWXhlVXpFM3I0ZGlwV0xtNWg0dmlSLW1qTDlF?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 05:56:00 GMT"
-    },
-    {
-      "title": "균형성장 주요현안 당-정-청 정책간담회, 발언하는 김태년 위원장",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HMFZsZHdFcVZobDF3WTU1cUoxN2w0allWTi1yTmw1Z25RWFQtS1NMclJJbWVtMWxyXzN1bWRaUHBqWkxzWEdBOGhQU0NUMWFTOHVJZ2V3MGU3bktLVEZpN25jTVFfa05VR2Vzcl9LVzhpdjRhWEp3ZA?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 05:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12ZzFQZXRmRlFJdU10VFhQNmh6ODRqMEVZbkdNNVN6RTFHOXJrZlB4Q2NRT2tCR080bmZlN1dhRkNiZzdCOXVQV0JqcXhwbHl3RmZycENaUHY0SVhPX1hySWMtSFpWXzFsUkwtMDZENFEyYmMyNjc5Ng?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 07:57:00 GMT"
     }
   ],
   "sources": [
