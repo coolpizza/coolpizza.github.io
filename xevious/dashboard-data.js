@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-22T21:51:19.983457+09:00",
+  "generatedAt": "2026-04-22T23:24:52.538693+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,149.38",
-      "change": "-293.18",
-      "changePercent": "-0.59%",
-      "direction": "down",
-      "updatedAt": "2026-04-22 05:50"
+      "value": "49,619.11",
+      "change": "+469.73",
+      "changePercent": "+0.96%",
+      "direction": "up",
+      "updatedAt": "2026-04-22 23:21"
     },
     {
       "label": "S&P 500",
-      "value": "7,064.01",
-      "change": "-45.13",
-      "changePercent": "-0.63%",
-      "direction": "down",
-      "updatedAt": "2026-04-22 05:47"
+      "value": "7,129.90",
+      "change": "+65.89",
+      "changePercent": "+0.93%",
+      "direction": "up",
+      "updatedAt": "2026-04-22 23:21"
     },
     {
       "label": "나스닥",
-      "value": "24,259.96",
-      "change": "-144.42",
-      "changePercent": "-0.59%",
-      "direction": "down",
-      "updatedAt": "2026-04-22 06:15"
+      "value": "24,550.78",
+      "change": "+290.83",
+      "changePercent": "+1.20%",
+      "direction": "up",
+      "updatedAt": "2026-04-22 23:22"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,478.6850",
-      "change": "-8.12",
-      "changePercent": "-0.55%",
+      "value": "1,477.9000",
+      "change": "-8.90",
+      "changePercent": "-0.60%",
       "direction": "down",
-      "updatedAt": "2026-04-22 20:42"
+      "updatedAt": "2026-04-22 23:14"
     },
     {
       "label": "100엔/원",
-      "value": "928.29",
-      "change": "-4.71",
-      "changePercent": "-0.51%",
+      "value": "928.15",
+      "change": "-4.85",
+      "changePercent": "-0.52%",
       "direction": "down",
-      "updatedAt": "2026-04-22 20:44"
+      "updatedAt": "2026-04-22 23:22"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "10.7°C",
-        "feelsLike": "9.4°C",
+        "temperature": "10.0°C",
+        "feelsLike": "8.6°C",
         "highLow": "최고 17.3° / 최저 6.3°",
-        "humidity": "78%",
+        "humidity": "79%",
         "wind": "3.7 m/s",
         "rainChance": "0%",
-        "pm10": "30.3 μg/m³",
-        "pm25": "26.2 μg/m³",
+        "pm10": "32.1 μg/m³",
+        "pm25": "29.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "70",
-        "updatedAt": "2026-04-22 21:45"
+        "airQualityIndex": "69",
+        "updatedAt": "2026-04-22 23:15"
       },
       {
         "location": "익산",
         "summary": "비",
-        "temperature": "10.3°C",
-        "feelsLike": "8.2°C",
+        "temperature": "9.1°C",
+        "feelsLike": "6.9°C",
         "highLow": "최고 16.7° / 최저 7.8°",
-        "humidity": "74%",
-        "wind": "7.5 m/s",
+        "humidity": "78%",
+        "wind": "7.6 m/s",
         "rainChance": "33%",
-        "pm10": "27.4 μg/m³",
-        "pm25": "16.5 μg/m³",
+        "pm10": "23.0 μg/m³",
+        "pm25": "14.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-04-22 21:45"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-04-22 23:15"
       }
     ]
   },
@@ -103,9 +103,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,963원/L",
         "lowestDistrict": "송파구",
-        "stationName": "㈜버드에너지 위례제일",
-        "address": "서울 송파구 위례서로 260",
-        "updatedAt": "2026-04-22 04:54:19",
+        "stationName": "상아주유소",
+        "address": "서울 송파구 거마로 82",
+        "updatedAt": "2026-04-22 04:56:48",
         "districtSamples": [
           {
             "district": "송파구",
@@ -116,16 +116,16 @@ window.DASHBOARD_DATA = {
             "price": "1,968원/L"
           },
           {
-            "district": "양천구",
-            "price": "1,974원/L"
-          },
-          {
             "district": "은평구",
             "price": "1,974원/L"
           },
           {
             "district": "성북구",
             "price": "1,978원/L"
+          },
+          {
+            "district": "광진구",
+            "price": "1,979원/L"
           }
         ]
       },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "차량 5대 '연쇄 추돌'…4명 병원 이송",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1LXNsakI4NFdYUDVhTERhbjNCR0liZlN2akFJQXhhcWdRSUVNdkxrVmlMb2F2dDJvQ2FSMmV4Y1YwRkNVV3BuMW1UaDJfaHlIdFZTWGVrVUZ4emozZ3N1RmZvbV94Yy01VndvZ3liOFpWS1lINS05bw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 12:44:00 GMT"
+      "title": "충남도, 항만시설물 안전점검 실시",
+      "source": "충청뉴스라인",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IbmlkemtfRGExNVp6eER2Z0hjRDQ0NDlrVlZzNkFYYUNJcll1WldzVUdza1RFbDdrQUlVRk02NW5BVjBNNEttMXY4NTZwRG4yS1lUcUxFTWpmbC1rcDVWazI2ZzhoNkJhcFhYWUp4NNIBc0FVX3lxTE16MEZuU1dkWDV2RHBGbFpfaENKdUZKNFpqREZWTXEyWlRPeW04VS1Ibndkd0FrcURLeGxLSTdTWXpyTG9Ha0Nqb2owQlducWFxWXJ0d3J3c0NUUDlrc190TjVNRHQwT0RpeVVCT3Y4Y184clk?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 14:11:04 GMT"
     },
     {
-      "title": "이란 강경매체 '호르무즈는 원유뿐 아니라 인터넷 동맥'",
+      "title": "시흥시, 재난취약시설 점검 실시로 예방 안전관리 강화",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGdlBCSGRyZlZrVGxMWlV3QjctMEcwdXBwcWdTbVJ1UXlDb3hCcWY4N3Jwc3hCaEtmUzJYdzdsazFnSXRFemktVy1yd2FqeFZrTHdwUkJoVkJOc3Y5ZWxDSDY5UnZmLU5yTEI0?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 14:07:51 GMT"
+    },
+    {
+      "title": "윤봉길 평화축제, 예산 충의사에서 25일~26일 개최",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFR3ZFF4bFZtbjcwYVpBdXI4aWNZZnlEOHd4dVE4eUtUS1BBdndFOXp1MmR1M1NKTzYzb2NxcnNDSm5iSnpUbHdacGZPZ0NvTTRIQTBNdDlMTWF5VURmNXh6eWtSVGlEb2habEd2Y21mR05yMzMtLVQ3ODExeUpiWXVWVHlTRDdqQlpjUnZnQk55VnpObkVDQTQ2cXRkaEdaQzlDejl0bWhBVVZzY09SOVBiTlVjV081?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 12:38:56 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFRjQkJtWFRGTE5yelZjckZkQTRqMHZzRXpra2ViOTBjdU9qMHo2OFhWVWdHRHViZ2FudTFGZ21EOF9UOVJjcHdkaGd2TWJGMkpCOGhUWEZfc2JoOVJvTEs3NXU4cks4UC04VTlwS3A5NXJQdE9WLXRIS3ZGTk9wN0JRMkZhdUhKMW5pU0lFeFVKd0ZpT2VGckJ4cTdVZ1AyVXBZeHNIR0VMWDE0UTNzRVNvak1FY1U?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 14:03:45 GMT"
     },
     {
-      "title": "MMORPG 중심 업데이트 집중…주요 타이틀 일제히 콘텐츠 확장",
-      "source": "게임와이",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84MUI0andZNGVKeXJ4b0tLUUxmc2pVZ09Sem0tT3hza2p6QzFtVlptUWVtZEs2cFhFdTIwRGp3ejRNQnFMM0g1RTFSVmFPRGhPNFBGX1AzeHVfb2RuMWpWcmwzaktlTEXSAWpBVV95cUxQQXZPQUF3X185am9abEEzVUxqQ1dfMUNFWHFNV0dlelF4UTFvcVRsUUhHM0hCN0RXREY1RHlJakNreVZGNlFiTG9iZTlNVWlobzFDV19taHlxOWRZSEtIcEpheXk4WTQ4WWZn?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 12:06:01 GMT"
-    },
-    {
-      "title": "與, 최민희 '특정후보 지지' 경고…최재성과 설전 맞물려",
+      "title": "민주당 완도군수 최종 후보, 우홍섭 전 부군수 선출",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kUlN2ZHFOaUZNczE2WVVScU1aa3h0Z1pmRTJuZlZERVpHeFYwOVpma0QyU3lVV2lOUFlhNlM1Tm5IVmlVSGk2U2hqamxJMHJqamM0?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 12:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBycDJERGtaSE1wOWRnLWtjSzNXTzRRZUpnMTd3bDE5OGhPZjlRclNMbmNkUDdYWWRkM05HNnhma3A4YkxXWmJHRkNxZlFOeEg1UTdz?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 14:07:00 GMT"
     },
     {
-      "title": "[포토] 고개 숙인 사자군단",
+      "title": "민주당 전남 무안군수 후보, 현직 김산 예비후보 선출",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjQnkzU1lVVFRwRW5wUVFNUjk0RXpXUHRzS09iZVJmSE5PNW5rWXAyYmNUUkV1Z00zZUo1YnRmbGlZR0RFUzVKS1JLMHdxdzM1N0VZTlpR?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 12:38:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kX0xlb0xZa0VCbm1VVzlPZVFfRHNPUUdjbGdUc0hFN09Qb2gyODNSR0d2ZWkzZmFGbWNaclh5ZnBuNmdHLWRleGc1X19oODB6a1B3?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 14:07:00 GMT"
     },
     {
-      "title": "코스피 '역대 최고가 랠리'[포토뉴스]",
+      "title": "대구 군위군, 조사료 생산성 향상 위한 실증시험 착수",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6dFZZOHhGc0xYVjhaOVNMRkx0aERxVmxweXdDNGdLVGppZl9FTlpoZGZHWmNXTGNtSF9IMS1IdHNRczdMZHRkRE5pajU2UThwZ3Y5Qnp2N3JsYWVZZVZZZkxZcm55VV8zeHJV0gFvQVVfeXFMUGJjVkh4UWo5UXVhYnd6WmhfS2pDWUNFc1JMQjczQWQ3M3E5TjcxR0NybnR3QmVoOFdkNUd4NmtZcEJ6MmFWRkNaNmo5aXc3eS1xUzRRYjVRR1BjeXZBNnljVDBmcGk2Z3dRTVR1akNz?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 13:46:10 GMT"
+    },
+    {
+      "title": "럭키 \"인도에 건물 9채 소유…다 은행 빚\"[라스][별별TV]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OUXloWHhrQ3JidHVnLWExV004RElJTU4xeFNBVUNySV94d3Nja1dJdGVlUWp1VWczRGY2eHdCM1FIRWN5VG53WjhUM2VZam5VanFjYVRtRDFUd3d1WmhEQk5fUS1qaEFwdGc?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 12:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52Y2dDT0VlaEM1cWRrOV9sa3dmMlowbVlHVWFJMzBBX0ZVZDllbTY3MkkwaWlqU0ZxWDd2RUV2V0lZa0VTTlkwVC1FU2xWb21heHlNR3lvU3dDb3BfendPMg?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 14:01:00 GMT"
     },
     {
-      "title": "[전문] 이재명 대통령 베트남과 하드웨어부터 미래 산업 분야까지 협력",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JS3JDWXhGRmlsTTJKdV9sODBYSFc4a18tQUhnUEp2SkFvb1dSVURwX3FBZC1iczVJVW0yS1NiRjdUMG8zekZ4ZHZXQzh6ZDJYVWxoX0tYOG7SAVhBVV95cUxPSUtyQ1l4RkZpbE0ySnVfbDgwWEhXOGtfLUFIZ1BKdkpBb29XUlVEcF9xQWQtYnM1SVVtMktTYkY3VDBvM3pGeGR2V0M4emQyWFVsaF9LWDhu?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 12:00:15 GMT"
-    },
-    {
-      "title": "2월 합계출산율 0.93명.. 출생아 수 7년 만에 최대-증가율 '역대 최고'",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhcHJpRjE4elJRU3RLRTJiZllqX3h4MU9vSHVBVmh4Zk5UMGRlaDRLa2hEY05HMEJvWGx4VE1FWExocXJYRGwxYm1wWU9uRG1uR29NbEgycmZDOVhaSHNOZTFhSjExeGFONUtJ?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 12:20:12 GMT"
-    },
-    {
-      "title": "특검, '계엄 정당화 메시지' 관련 조태열 전 외교부장관 조사",
+      "title": "야스쿠니 신사서 '독도는 우리 땅' 현수막 든 한국인 체포…日경찰 조사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LWkNXSzN5RURwekxXSERQa2lZOHItN3lwVHcySER2S2IzUVVrQ0FHSXdkU0Vja1laSUIwM0FzT2N3YU0xX3dSX1N1TzFtVzNPTU04?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 12:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WYjU5X1VzejA2cW5XQm9hZld3Zy1hNk43US1OYkhNeHV5cVpNZC1PWnhjbERGSmdTTk5HMXhJOWFpN0lGNWdTTDFfS1BCVEdrM3dj?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 14:17:00 GMT"
     },
     {
-      "title": "이 대통령-또럼 주석 정상회담 종료…곧 공동언론발표",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZUxpS3BLNzBVU3luWHJDLTQyMmtqajFVMjRNWVU2WTJlZnpWQ0d2bVdjNlg3cG5xWjJrYTg5SFZzdF8xQnJEVnNJMnZSVmU0Qkd0VTRJYkRJeFFfZ0RDTzk5SGlVVTJKZDNWWDdQNjM1OVB3dlBtNWxIQ3RneFF5N256RXRTUzBPSmIwdG9Gd2F3eF83V2dGYzhrbVd2N2JPQ1ZtVXhMV2tCUFFDZTVIRWs1UW9nYXlULU45Uk1tR3d6U1E5MHBHSQ?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 11:53:48 GMT"
+      "title": "\"저도 노래 부른지 60년\"…남진과 함께 떼창",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQck5PZ2c5LVI5S0hxM04yVG1UNXJUeDFCUE9Pdi02TnJQYVlMMFBRRkpNanU1NHBKNGcySUhOV1I5LWVmZjU4dGN5QU03X3R6dC13?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 14:10:00 GMT"
+    },
+    {
+      "title": "장류수출협의회, 싱가포르 FHA 식품박람회 장류홍보관 운영",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5od1RLYWx3QVgtYnM4RXZhNEFmY3ZvdUtfaUswSkNZN1RpRmljd0x1ck5ZS1hiVU9oZFBjd0h1VUFtXzhNWUVCbF9TR3RXcjAzMmhZ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 13:59:00 GMT"
     }
   ],
   "sources": [
