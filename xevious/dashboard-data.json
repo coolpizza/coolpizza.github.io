@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T07:16:59.661287+09:00",
+  "generatedAt": "2026-04-23T08:10:38.583556+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "9.5°C",
-        "feelsLike": "6.8°C",
+        "temperature": "11.1°C",
+        "feelsLike": "8.0°C",
         "highLow": "최고 19.7° / 최저 7.8°",
-        "humidity": "60%",
-        "wind": "6.7 m/s",
+        "humidity": "48%",
+        "wind": "7.6 m/s",
         "rainChance": "0%",
-        "pm10": "35.9 μg/m³",
-        "pm25": "32.5 μg/m³",
+        "pm10": "31.9 μg/m³",
+        "pm25": "29.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "65",
-        "updatedAt": "2026-04-23 07:00"
+        "airQualityIndex": "64",
+        "updatedAt": "2026-04-23 08:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "7.8°C",
-        "feelsLike": "5.0°C",
+        "temperature": "10.5°C",
+        "feelsLike": "7.7°C",
         "highLow": "최고 22.2° / 최저 6.3°",
-        "humidity": "83%",
-        "wind": "11.3 m/s",
+        "humidity": "74%",
+        "wind": "12.6 m/s",
         "rainChance": "0%",
-        "pm10": "36.0 μg/m³",
-        "pm25": "33.2 μg/m³",
+        "pm10": "36.6 μg/m³",
+        "pm25": "34.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "46",
-        "updatedAt": "2026-04-23 07:00"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-04-23 08:00"
       }
     ]
   },
@@ -101,16 +101,12 @@
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,968원/L",
-        "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-04-22 18:00:05",
+        "lowestPrice": "1,974원/L",
+        "lowestDistrict": "은평구",
+        "stationName": "(주)디오티디 은평유니콘주유소",
+        "address": "서울 은평구 통일로 1151",
+        "updatedAt": "2026-04-19 14:14:46",
         "districtSamples": [
-          {
-            "district": "강서구",
-            "price": "1,968원/L"
-          },
           {
             "district": "은평구",
             "price": "1,974원/L"
@@ -118,6 +114,10 @@
           {
             "district": "성북구",
             "price": "1,978원/L"
+          },
+          {
+            "district": "강서구",
+            "price": "1,979원/L"
           },
           {
             "district": "광진구",
@@ -161,15 +161,15 @@
       },
       {
         "areaLabel": "익산 최저가",
-        "lowestPrice": "1,959원/L",
+        "lowestPrice": "1,968원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 성북지점",
-        "address": "전북 익산시 망성면 익산대로 2802",
-        "updatedAt": "2026-04-20 06:52:50",
+        "stationName": "황등농협주유소",
+        "address": "전북 익산시 황등면 황등서로 143",
+        "updatedAt": "2026-04-22 17:20:19",
         "districtSamples": [
           {
             "district": "익산시",
-            "price": "1,959원/L"
+            "price": "1,968원/L"
           }
         ]
       }
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[AI기자의 News Briefing] 4월23일 오늘의 주요 뉴스를 전해 드립니다.",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJaEExdEhuOUNuczJhU0FVc3lVNzBHUmlKM3Fsbmp3dG9vNVAxcnhITHlaTWpXT29UNWNVa1JyWEg2WjVCWHl0MlozVTRqbGY2NmJiaU90WTlkcV8zM1NCTTEta3ZGenBOdlE?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:10:19 GMT"
+      "title": "[브리핑] 인도네시아 사회분야 주요 뉴스 (4월 22일)",
+      "source": "한인포스트",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZZzFGbXJ0WVF1QllHYldWeE9JWTZlZTlFdHI3aDU4UjFmTnUycGt3MHNjNERZMDNPdnYybDJlRTVFZ1Zabzc0Unl5djktZw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:00:18 GMT"
     },
     {
-      "title": "4월 23일 굿모닝 MBN 주요뉴스",
+      "title": "[전국 주요 신문 톱뉴스](23일 조간)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSmtZNkl5T3p6LWstUTJDd1hnREVLQ0RCbVRRaFBFODVWMHBmLXJOLWtlT21kV19mRjBNTndib3VmcWdBU1hNc2VhTVMwMHlVR3dsVllzaEFhVknSAWBBVV95cUxNQVhhSHRqc3NCMzktN0RYTzEzU21COWhRUmVlWGx0cExTYnh4U0wtMXp0aFd5bXNvTVViVVZaSmJ2bWlYemx5cldzeGVvd2ZpNUxkQmtZc1pMaVJzZlNjRl8?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:00:04 GMT"
+    },
+    {
+      "title": "경실련, 주요 활동 발표 잇달아 취소…단순한 \"내부 사정\"인가?",
+      "source": "한국NGO신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZT28xYndsMVhFd1BzVnNoeHMycDRyUnFfZnVhLXJnNHBwMjRuTzRIdmEzZjltNG0zZU9YaDUySXhmRHlsR1NMTHdmNlQxUTZuWHprc3N3VC1ZMWRMV2hsMmZxTWVLb1Qz?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:58:46 GMT"
+    },
+    {
+      "title": "[뉴스광장 대전·세종·충남 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01U1dTNXBQelVyQnBxQUZncW1RVjZpN3p1WTZqOXlOTnRWY3ZRZzl1cmdzRjNOLUhwUllaZl9HRVVkclAxVHh5V3dUaHJUVXA3RUt6QXA3SGJNa00?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:47:00 GMT"
+    },
+    {
+      "title": "부실 징후 기업 5058곳 역대 최대…코로나 셧다운 때의 1.6배",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XSEpxdS1NamFMMVZVNC1tUzhrUTFlR21Mb3hfdzROZ1I4Y3RlYUpEdU8xMGRLeFd5Q2o3M1FpMnN0ajBsdTFsUWprUDRKY2NkNG5Od1dldTAwaUVr0gFTQVVfeXFMTzdvWm9rM1VheF9rTkxGNnI0LW1td1JBTElDc3ZGR1M3dW1jRjNNeE5hQV8xZFpNaTlia0ZOYy1fQXNVNS1uUF9rVjlLdjB5V040cVE?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:51:02 GMT"
+    },
+    {
+      "title": "4월 23일 굿모닝 MBN 이 시각 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94MHAxampTejJUcDY2eFlyU2Q2TzRIdEwwdmtSb210aUJHR1dUUUVzbkZXY2VfWmZWNlY1ZG9xUlptalpIYURST2pnRHNwOWZKa19r?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:05:05 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zSkptVHRKSElZaE1lVWtGRTZmTVZOdDRSUWFQaUdoZ0c3VGo2TlFiUXE5c2xmaTJybHF4YjVSMkxNU09PbzVLM0VFOW1MVDE5cGdB?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:43:00 GMT"
     },
     {
-      "title": "4월 23일 여수시 주요일정",
-      "source": "남해안신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hOF94OGs2XzhvVTdTNGhSZ0p6VmxxWXdLOW91TU5pbFRpR3N0NWl4YzhEQWc1MnlXUmdUU1FuQVpqZ3pZMWtHU2g2Rmk4bi1yUXJLYnF5XzBJWXk0a1RkS1JWUzhPRWdu?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:29:52 GMT"
+      "title": "[속보] SK하이닉스 1분기 매출 사상 최초 52조, 영업이익 37조 달성",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc3Z5di1BR1hxTnZDQ0lHbnh3NUw5SW92Q1VhSmNCN09hZThKRkxTRTdZZWI3NVo4NGdUYUE4NWdPYmpqdFNBOEtwYVBXRmZjNmF2VzdVTm82M012UExPTEJIM000dy1Qa2J0b2pPX21VTUpaVzRIUGVOWVJrMUdMUkI1d2V6N0VsajRKMU4xWjVTUm1XZWdQQUpLQ1M0ZHhtVnl2UHdBUm1CSWp4NmpFbW5XUUJJTUZUaEI3ZNIBdEFVX3lxTE95c3dVY010MG1IenFoVDFMbTRpYlJLU3dmVEloa0ZTa3hkTVlWekFNRjVsbWRreHBVUzR0em1Gcy1jNGJ1VXJHSmNDTFpEMklMb0p0eGNxYzhLYkJIWnZHWE5nRTVvWjVlUl8xX3FDaXZWTExU?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:38:48 GMT"
     },
     {
-      "title": "[글로컬] 중국인 '프리패스' 확대…문턱 낮추기만 능사일까",
+      "title": "[오늘의 증시]코스피, 뉴욕증시·하이닉스 실적 훈풍에 최고가 랠리 이어갈 듯",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVZKQmI3ZHd6eHAyWE01dEhtUHYtcmFDUUlQdC1yM21MTU1sXzJkUlRmdVhYME1qZndzdUZlZ3EzOXFDdFFQVlR3MkNHb3JBUFl1eHh2cnhjN1VqVlFUZWZSZTF1ckxLb0hUQk91aG95cHJKNHh5NzdhcVZUQ3lsQkFaTkVXLTZCM1BUSHpVY1E4Nzd2ZXZCa0VGV3NWTGtUb3lyZnY4eV8weDM5YWJoSUFjeEdhWlBtQ3c?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:10:03 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRGV0aW1tcHZwbERSNURXcEM3VXFveGJkZGJhYU1VWU5mWkY1aVR0S0tyTzZmN05XdUg1cDN5ZGIwVG54aTlqZy1fUG5sVXRxaFAtS0ZFcGExTXBUOU9KcWdITTNmVy1CcENZQzJVYTJRN3MwMGQ0Umt6YUpOb3RFWEtFZEpVNUZYYTg1M1dZcE92QWEzUVlBdnJVNWp4azc2aTJ1eWFCUl93MGd5WU1naGxyNWVrZzlqc2c?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:05:08 GMT"
     },
     {
-      "title": "[4월 23일 간추린 뉴스] 게임 패스 가격 인하, 반등의 신호탄 될까?",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzX1hxRGhFcURSaDVZX3lUcHdOWkFCWng5OFgta1lMYTlOU25tU1RvSHNDakRsbnBFMnc3ejZKYV9UemxuOTBKWlcxVjNJOXZWM21YODNLNnRIMF9mMHc?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:00:01 GMT"
+      "title": "농어업·농어촌특별위원회, 제28차 본회의 개최",
+      "source": "한국식품의약신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XMEUxYVEtaloyVTdsQUgxa1ZqVDA4dVNvOEVpYmgyTlRTdUFOMF9KRzBuWWFMMFpBTE51YUlfSDJPYVdjMUxHcHVmeVgzSnItZXNxalhlT1FmWG9td1JVTkYxVWNmTkk?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:44:16 GMT"
     },
     {
-      "title": "LG 이어 네이버도 '엔비디아 회동'…K-AI 존재감 커졌다",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzFxbEViX2k2akNqTWczNUxIOFo5SmFERXhmRWtnNXFvd3E4QnN2cnhMNjFFUTNvYkxlbXB2MURwSlJMWmZsREVJWjlKcnF5bXBBSDgzTDdiSkk5aGYyUFExQVpEUVVMUFA1LUMwWndWcVVHVEZKYk9DUElCSnVEbGpsLTI3Sm9LWmlqTFlBekpjNm1OcWdDMDFCbFpOSmhOTkl6cEZnZFI1WkpGdnZSdnRsc3RSZkNYYUE?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:00:31 GMT"
-    },
-    {
-      "title": "S&P500·나스닥, 종전 기대감에 '사상 최고치'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMckc4RGhrVjctdGZTVTZiVXZucU1MQnVxLVBXYTRSQ0g0QjFKZ0otNXpWZDZHR1RaZjhYMEt1WmtDMmI1VzBrcVhVUE8zNGFkdHU2M0xxMmZ3V1lZOUZhZkpGLUhOZERNTTZUdW9DcjBOUzRTVnJ6Qg?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:09:00 GMT"
-    },
-    {
-      "title": "현대차, 배당수익 3분의 1로 줄어…해외 곳간 잠갔다",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd2haZk1YU1RnRHg4Q1RJZHhPNmJpSWNXSlpkMWFFNDA3akE3NURUMy1ySXBkeXJvSGpsRnB5b2VwZUo2d01ERloxTkhYTnEwTGZsNWNqZFdUMG1ZUHdINFVVN2JEaEliZzdCUXJtNk1Db2p5cGdRNjRJei1TazBheXNBNkoway1rNXQwZDJHREpydGlic1d4elJhSGZIWGMyYkx4Qnk3cTJWc1Y2OTR4TWVOYTB2bTZsd1E?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:05:02 GMT"
-    },
-    {
-      "title": "[AM-PM] 이 대통령, 한·베트남 비즈니스 포럼 참석 外",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IdnQ5ZUYxcVJyLW1ZOTJ3c21XRE1tbnJySlpqdkZSbXBjSUUzbVJaRFpmNGZGN19NU1FtSG1XVmpkcXlJVVZCN1RsRHlsNGNMeEpRY0tXc054VUQ5WTZDdGVkeE9wTHp6M1JXWUJtSTRWamVJOXVDTA?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:55:00 GMT"
-    },
-    {
-      "title": "국립3·15민주묘지관리소, 3·15의거 희생자 16인 전시 전면 개편",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcHJ4d09ZaXp1OGhybjZsS21JZ1lDNkVrM2RNdGZUU3V0UmhrWWRFRnpSOE9LUjVHTFVoU0JaOHFPMTAwbTE4WlVsYUx1T1M4X2dSSXlYMmhFT0oyQmJtel9fU3NqOEhZdjZQUXNMOWgzYi1DaUN3WHdqUnhWUmxXd05iWXk3cFo3bUM0TTF2V3ZEYUUzVmtpc0dSNm5XYjFyRmxBVlVnd3ItRFBhSmxSVlI2ZUVzYXZ1MWc?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 22:05:02 GMT"
+      "title": "[아주증시포커스] 반도체만 보이는 한국 증시…삼전닉스에 외국인 자금 70% 쏠리고, ETF도 반도체 천하 外",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfLURUNG5tSnFRR3h5a0RpMVRNS3dqUUhsUUVZaW05WTI4YnBkczE2Uy1YN09SX0lFdkpfOWpsM1d0bzdTWXV4aV9pZ3hvRzM5X3VMdjVIWVk4d9IBWEFVX3lxTE5xWlhoaDZqeEVTZzdZaGI0ZnVlU2UtTldZNlF6MVQ5WXI0LTNwZklDSEZNUmZRNW93dm9VWWN6N1NWSU8xVVphay1ZdUZjMS1HTWlRVEhzZC0?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 23:03:38 GMT"
     }
   ],
   "sources": [
