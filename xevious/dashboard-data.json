@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T01:47:38.033205+09:00",
+  "generatedAt": "2026-04-23T02:42:29.625011+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,619.11",
-      "change": "+469.73",
-      "changePercent": "+0.96%",
+      "value": "49,425.07",
+      "change": "+275.69",
+      "changePercent": "+0.56%",
       "direction": "up",
-      "updatedAt": "2026-04-22 23:21"
+      "updatedAt": "2026-04-23 02:39"
     },
     {
       "label": "S&P 500",
-      "value": "7,129.90",
-      "change": "+65.89",
-      "changePercent": "+0.93%",
+      "value": "7,124.57",
+      "change": "+60.56",
+      "changePercent": "+0.86%",
       "direction": "up",
-      "updatedAt": "2026-04-22 23:21"
+      "updatedAt": "2026-04-23 02:38"
     },
     {
       "label": "나스닥",
-      "value": "24,550.78",
-      "change": "+290.83",
-      "changePercent": "+1.20%",
+      "value": "24,594.70",
+      "change": "+334.74",
+      "changePercent": "+1.38%",
       "direction": "up",
-      "updatedAt": "2026-04-22 23:22"
+      "updatedAt": "2026-04-23 02:39"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,477.9000",
-      "change": "-8.90",
-      "changePercent": "-0.60%",
+      "value": "1,478.6692",
+      "change": "-8.13",
+      "changePercent": "-0.55%",
       "direction": "down",
-      "updatedAt": "2026-04-22 23:14"
+      "updatedAt": "2026-04-23 02:32"
     },
     {
       "label": "100엔/원",
-      "value": "928.15",
-      "change": "-4.85",
-      "changePercent": "-0.52%",
+      "value": "927.41",
+      "change": "-5.59",
+      "changePercent": "-0.60%",
       "direction": "down",
-      "updatedAt": "2026-04-22 23:22"
+      "updatedAt": "2026-04-23 02:31"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "9.2°C",
-        "feelsLike": "7.7°C",
-        "highLow": "최고 19.4° / 최저 8.5°",
-        "humidity": "82%",
-        "wind": "3.6 m/s",
+        "temperature": "8.6°C",
+        "feelsLike": "7.0°C",
+        "highLow": "최고 19.6° / 최저 7.9°",
+        "humidity": "83%",
+        "wind": "3.9 m/s",
         "rainChance": "0%",
-        "pm10": "35.6 μg/m³",
-        "pm25": "32.5 μg/m³",
+        "pm10": "35.7 μg/m³",
+        "pm25": "32.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "68",
-        "updatedAt": "2026-04-23 01:30"
+        "updatedAt": "2026-04-23 02:30"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
-        "temperature": "7.7°C",
-        "feelsLike": "5.1°C",
-        "highLow": "최고 21.6° / 최저 6.0°",
-        "humidity": "78%",
-        "wind": "8.5 m/s",
+        "summary": "흐림",
+        "temperature": "6.7°C",
+        "feelsLike": "4.1°C",
+        "highLow": "최고 21.8° / 최저 5.8°",
+        "humidity": "80%",
+        "wind": "8.0 m/s",
         "rainChance": "0%",
-        "pm10": "20.7 μg/m³",
-        "pm25": "15.3 μg/m³",
+        "pm10": "20.0 μg/m³",
+        "pm25": "15.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "64",
-        "updatedAt": "2026-04-23 01:30"
+        "airQualityIndex": "62",
+        "updatedAt": "2026-04-23 02:30"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "호찌민 모쇼 찾은 이재명 대통령",
+      "title": "단양군-공무원 노조 손 맞잡아",
+      "source": "제천단양뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sR2Zic2ZmWmVpSzBST0h2bk5FNHpXdnItS2tlbmhraHB4SVBwemtEUzJzd21IbV80MEp0T3VhWFBCbWNnX281S01kbDNmYWJ2M2xMN1Y5eUo3MWRZRmxHN01VZkc?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:27:08 GMT"
+    },
+    {
+      "title": "써브웨이, 봄 한정 카도 키링 굿즈 프로모션 진행",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91c0RhV1ctdEZFMU41aUZKcEJ5NDNoVVZnNUZqek9pQzM3bWlWeEhmbDl4WndKcmNaTkdxWDd2S0NPSTBXU1JzMURLUzNlRmxNQXNN?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zOE5XQW1NQzNkWVMwT1BHQ05qN2JhZDZwYXU1a0JEY3VMM2VIS2dKRklYMnJqbFRoaFBPSkNoeUhDTzhoN21CRm5wTFlQY2Z4NDJwbmlqWGk2VU9Pc21jWA?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:35:00 GMT"
     },
     {
-      "title": "[실적] 스마일게이트, 2025년 매출 1.4조원 달성...영업이익 업계 3위",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tSE1oM0hFTy0yWGwyT0xyRnhzNlNINk9wSDlVV2VxVXUycTdzZVVwaHZpeWpWSklXWGlPc0c3Y3BjczRaTWl3QVpxTXBmdFRaeXVVaUJDZmhkLWRES2c?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 16:01:46 GMT"
-    },
-    {
-      "title": "하노이 호치민 묘소 찾아 헌화하는 이재명 대통령",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rWnZkRWJCMHlUTzVxT0ZZck5KN2xZeG16a1lHVGhJU0dCR3dWVGw3Zi1zV3RnRS1QUW01WmEwQ1JhTGNETXBmek5kWW1yb0p1dWpV?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 16:02:00 GMT"
-    },
-    {
-      "title": "이재명 대통령 부부, 호찌민 묘소 참배",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VTWE1UXVIbTNObi03ZmZjaGNXbXFDMmc0VUFSNG5IaXdSaklORXhFb0stN2pHMVRiZjRTMklseE9DMnhDckZiaEhEWEVkOU1MOGpr?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:55:00 GMT"
-    },
-    {
-      "title": "정동영 통일장관은 왜, 국내외 공개적 충돌 자초할까",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93bm9oekxTeEJwRDBqSC14a0Q3am9pZHQyd29ibi0teG93cHNmV3BFNVNlYWJPVzJOcVdyRURiRV8zb296SkM2bGxvZkVTQUZjWFNn?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:53:00 GMT"
-    },
-    {
-      "title": "'챗GPT도 공범'…8명 사상 美 대학 총격에 AI 수사 착수",
+      "title": "李 '아시아 넘어 국제평화 소중함 절감'…또럼 '평화·미래 향해 기여'(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmhxR1FzTEdWak5Na3Nsa0FaMDV0eXV2NnVkR3IwRjdSeGw4ZzhCM1VpM1lRVXg4akhnUzJieHM0czZ1a0l0dHQ1MEZPd0l1cUpPend4V0s2RE1GMW5IcEdIc3hnVmlDcDZrTW1hZngzUms3SnBSUnhveWRFZFM3c004bEE4cjMyZWRyM3IxVzVCU2FQbzFURkZlMEZoeTJxMVA1YlM5alNTYkZiT05QVHVjS1k2OU1h?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:59:11 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2JSWXlMMXNvRnFUT3JwVjJhSkttV2N0MXE3c1pRUkxlRVpWekIySDBZXzM1ZWR4b09XbGw2eDUxTVdvLU1xaGZMZjEwU0VMMk9XLXZtNzEtVTI0SFdjeURZU09DWV84OXdBTjRIREs4NHd0c1JNZXp2Q1B5VDlON3NJcTkyZVVqTHJQai1yQmp0S0FpT2NYYktTdmM2VmtDZjdxYUFQRmpfb1d1U1ZadjkwekN2MHhV?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:14:26 GMT"
     },
     {
-      "title": "소비자공익네트워크, 비상 에너지 위기 대응 절전 캠페인",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53VDZrVG9kZy1sYWxJTHJRWVVGM0k1aTUxT0JUd2x5M0RyWEZEWEY4dTlpbW1XT0lMeU4tNU8zZG5RaHZYVzBvNk1CRE54TlRRV3lZ?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 16:32:00 GMT"
+      "title": "조선기업 HD현대重, 美 데이터센터 전력 시장 진출",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Yd2dXbFN2clBzS0o1VDhtdDd1QnVZSG44QnhsMjZOSEhvSTVncms4YmtveUMtS3YzeVJ4b0s3TFppNm1mdFB4cTNpY2J4R2lSdW9hSDdoWmZPVUVkUHUtMmcxMVFEbG1kZGNj0gFvQVVfeXFMUE1ob0J3UVE4QlUwTGhxUlRIaXE3em9yS0llUXg5cm1TX2pVMGpWVHoyNF9qZ0h2YWZBOXNNaGE5clV5cHR3NzlISlVsUHIyRThXQ2sxaWJVQWJRYTFid19DVGo5VTB6LVlQTTQ5c3Jv?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:34:30 GMT"
     },
     {
-      "title": "사상 사고 운전자 살인 혐의 적용…노사 교섭 시작",
+      "title": "\"뼈말라 강박 깬다\"…임산부·장애인·과체중 마네킹 뉴욕 등장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xa2ZQVHNLSlYtZWgtcXhnd2I2QkZnVlNIWTN4bmRnWkY0UC1Nd0xGSHdlbDl5aV9nWU1FeksySnNycVZ5N0lmbmpCRFIwY1dxbGVF?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 16:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GT1hVNUE3ZEl6c2JLN3laOHQ0MFBNdEt5QVlXWFVmdjBJVDliakN2QVV3TnVPWF82T2R3TDNiYWkzY3RhUTRWVHZna0ZZT1p0bjJr?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:36:00 GMT"
     },
     {
-      "title": "\"'선상 최고위' 할 때냐\"…'단식' 안호영 안 찾은 정청래",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nVnhYc3N3ejM2U050V0ZvdmRGemJkWWczX21ISm9FWkhoSzJ3OTlmQm9EUE5sR3QzTURsRU1LbFVKclBsQ1BzbWR6dGtlX0hYaW13?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:48:00 GMT"
+      "title": "이 대통령 '한·베트남, 2030년 교역 1500억 달러로…철도 차량 수출'(종합2보)",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelk5ck9USFNkN2JDTl9UZlFBVHNMeUw5S1dvcVdkNURUcWMySU5oQ3NRR2tmMkp6Z3B3aDJocmo2dVBWNmFtcjZfVTNjSk5LR0ZMOWMwXzg3NGFVdWZsV1MxS3RPZnNJWUtvOWNibF9MMUt3ZEJWdkhOR2FrSUlnMWo3Vy0tUU4ydE9Ha0NmaTEtWGx2LUdJMHg4UWxXalBZaUZ5ckZWQXNXMzNERUxFaDhKYUluelRY?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 16:44:15 GMT"
     },
     {
-      "title": "부산 북갑, 구포초 행사에 시선집중",
+      "title": "SF 영화 아닌 과학…외계생명체 연구, 어디까지 왔나",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWSzctRm5hb1ZaR180Z2FHTHFQNWp5YkJibUNwTUVKZWt0Njl0Z3JIUTFPRXBfbVlZZUNPTkl1VVRLTURNMkFMWmJfd2tEV0FVZHRV?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 15:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85NEhOU29SN3hQQldzc3lVajd3Sm5PM216THlWWk9abzN6cTNYbkZYb2l6R3N4b2JGZ0lweVBQQXZrOThPQWpRUm0wbmpHdlhuUlI0?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:05:00 GMT"
+    },
+    {
+      "title": "[사설]중형조선사 발목잡는 국책은행",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tVmdTX0NoZ0xTa19FRElWU0JMeXp1bjBDSU9NYkV0SXZ5ZG5xbk1RM09JbHlzeC15Sjk4VXkwcHhISWU0b3NqTzFhdXE2Yl9PaUt0VU9RblhPOE5xTzBvSg?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:00:00 GMT"
+    },
+    {
+      "title": "'29일 컴백' 박지훈, 팬미팅서 신곡 'Bodyelse' 첫선",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mVlhzNWpzVWNBaHhfVE1RVW9kaklqd2Z1UGlldlBBREE1a0xPZkJoS0R1YWVKQ2pYZVdYY3dLSkthX2d5VDFGSXppSjVSMzVySlRlMWhiXzBOTWF4UmM3blFVa0xVZHJw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 17:26:00 GMT"
+    },
+    {
+      "title": "올해 독일 GDP 전망치 반토막 났다…중동 전쟁 여파",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xYW9qOGtveGJIbUFpM256dGZkZjBfVmFCbjdJWUZpQ1dIQVVELWhhYkplSmRTQld4ZElmb0g3SW5nSzFEYW5jNkNSdW8xYklCWVNfU0ZKazFSZjJsYXo1cTB0WXY4dmlxUGl0dWZRdEg?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 16:12:44 GMT"
     }
   ],
   "sources": [
