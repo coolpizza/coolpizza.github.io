@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T03:47:12.505359+09:00",
+  "generatedAt": "2026-04-23T04:55:23.731176+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,425.07",
-      "change": "+275.69",
+      "value": "49,425.29",
+      "change": "+275.91",
       "changePercent": "+0.56%",
       "direction": "up",
-      "updatedAt": "2026-04-23 02:39"
+      "updatedAt": "2026-04-23 04:47"
     },
     {
       "label": "S&P 500",
-      "value": "7,124.57",
-      "change": "+60.56",
-      "changePercent": "+0.86%",
+      "value": "7,128.89",
+      "change": "+64.88",
+      "changePercent": "+0.92%",
       "direction": "up",
-      "updatedAt": "2026-04-23 02:38"
+      "updatedAt": "2026-04-23 04:49"
     },
     {
       "label": "나스닥",
-      "value": "24,594.70",
-      "change": "+334.74",
-      "changePercent": "+1.38%",
+      "value": "24,625.03",
+      "change": "+365.07",
+      "changePercent": "+1.50%",
       "direction": "up",
-      "updatedAt": "2026-04-23 02:39"
+      "updatedAt": "2026-04-23 04:48"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,478.6692",
-      "change": "-8.13",
-      "changePercent": "-0.55%",
+      "value": "1,478.8700",
+      "change": "-7.93",
+      "changePercent": "-0.53%",
       "direction": "down",
-      "updatedAt": "2026-04-23 02:32"
+      "updatedAt": "2026-04-23 04:38"
     },
     {
       "label": "100엔/원",
-      "value": "927.41",
-      "change": "-5.59",
-      "changePercent": "-0.60%",
+      "value": "927.25",
+      "change": "-5.75",
+      "changePercent": "-0.62%",
       "direction": "down",
-      "updatedAt": "2026-04-23 02:31"
+      "updatedAt": "2026-04-23 04:38"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "8.5°C",
-        "feelsLike": "6.8°C",
-        "highLow": "최고 19.6° / 최저 7.9°",
-        "humidity": "81%",
-        "wind": "4.5 m/s",
+        "temperature": "7.9°C",
+        "feelsLike": "6.0°C",
+        "highLow": "최고 19.7° / 최저 7.8°",
+        "humidity": "82%",
+        "wind": "4.7 m/s",
         "rainChance": "0%",
-        "pm10": "35.7 μg/m³",
-        "pm25": "31.8 μg/m³",
+        "pm10": "36.2 μg/m³",
+        "pm25": "32.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "67",
-        "updatedAt": "2026-04-23 03:30"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-04-23 04:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "6.7°C",
+        "temperature": "6.5°C",
         "feelsLike": "4.0°C",
-        "highLow": "최고 21.8° / 최저 5.8°",
-        "humidity": "81%",
-        "wind": "8.9 m/s",
+        "highLow": "최고 22.2° / 최저 6.3°",
+        "humidity": "85%",
+        "wind": "7.7 m/s",
         "rainChance": "0%",
-        "pm10": "21.2 μg/m³",
-        "pm25": "17.8 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-04-23 03:30"
+        "pm10": "24.2 μg/m³",
+        "pm25": "21.0 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "58",
+        "updatedAt": "2026-04-23 04:45"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "이란 대통령 \"대화는 환영…봉쇄와 위협이 걸림돌\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54dlNtMElOOVl6dDhnLXh1b19vQTA3T0xRSmQyZ29zcElsQ2tLSEhNdFppM0tFdUNpUkNKQmFhZG9JQVl6bllORkFBWExDeDFqQTBV?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 18:40:00 GMT"
-    },
-    {
-      "title": "'뼈말라 강박 깬다'…임산부·장애인·과체중 마네킹 뉴욕 등장",
+      "title": "[뉴욕유가] 최대 5일에 불과하다는 휴전 연장…WTI 3.7% 급등",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVBEM0ZzbEtfYmNscWdPZzdqQXUyRU1UbHd2N1VnQnRmSGhrRnNfMGRTSEZtdzZJY0JCNGlKTGIzMlhVN3NvV09JYzNaQ0JFYW8yVWNscFoxV2FiU3pDNlJkbVYwN20tMWUwTURudWtLWk5SeUhtQU9kVkNMRElFb3hFZXVXRGdTTjdXU1NUR3B2NVZGcXZKTFh0WlQwOG9RYUREcjRBUGRWTFBzSWZYRkNJRVZpTU0?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:49:33 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbzgta2htaXRnb0hnU0VFaFlDZlJlWG5Udm1vUXdyZmxWcENCUTh5ZDM3d3RFZ2ktQVc5NzBmUHNNSGdRc3NzMjFGM3JTQTJTUXh4OWJzQ1AxQ0tqS2NMTExmTXFhVUpCSlZlTlVxbHozeVRJQ20yb3JSSl8zTzJQMzN4XzhrV25mUjU2dzBnejdyc1lXQzZXd0RVbjNzbHZkekRkUlVHbW5VSGJ2aVZDVS1yLWxjcnh0a1RRNWNMd29UTTJ5S290a2pn?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 18:59:42 GMT"
     },
     {
-      "title": "이란 \"미국의 봉쇄·위협이 협상의 최대 걸림돌\"",
+      "title": "韓-베트남 정상회담…\"에너지·인프라 전략적 경협 강화\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tSHpreE9xRWlVcld3RUlvWmxGVU9VeHlEeUhqRUFHUW82SXQtY2swQkFiSjlXcC1vZnRyRlU5Uk1oQ2V5RmROQ1VxMk91UGVoRnF3?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 18:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44WEowR0VBbGl1Y0lYRDU2dFJpRjNTbU5scDNySXJRZ2xaaV9Jb2FKNzBiSDBIbXZBRW00bTM1aE5fWXRpMno5SUZqREtJQjBWb3dN?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 19:25:00 GMT"
     },
     {
-      "title": "헝가리, 거부권 철회…EU, 우크라 지원·러 추가 제재 승인",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kWGlEYWxqWUFGeU10WllzTl9FeVZSNEU4eHB5dWhZVU5UNi0xV19xRWdmLWZkUHFSdWNDblcxd1hfZlFRV3BpVklWaGp4ak1jSUhJ?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 18:02:00 GMT"
-    },
-    {
-      "title": "에이전트·칩 양면전술 펼치는 구글…오픈AI·엔비디아 동시조준",
+      "title": "이란 대통령 '대화는 환영…봉쇄와 위협이 걸림돌'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUhjWFJLOXZmUFBNVXp3SWZ4YlFtNWlLLWdYX1gtal9kblpMZmNxckVPbm1jN0l1M25FQk1FU1FhR3Qwblo5cU5EZFdBNnFMMGZGNnVhYnFSQWhZVC1MYWRiWHdqSUlpWV9YVUZBb19aVlhyeEpMa2Q2OGZrTjNXRmdSWkZnNHVWdFYxbzIxMXpvNWluVHR3ajBjTk9PY1lFNmxmYzhEeWp0elRWUlFVTUFRX09sc3JCb0E?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 18:34:29 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYjJ3MTQ5MDA1UWtQeU1kTGpTdHA3b2oxajZla0lJSWJNcWp5enBJSmxIWUdYTXhQb2pScU02WTB5aFFudENyU0JNb0tFY0NheDBXZVRINzQ0NE5ULXJqZnJlM0dXSlhwSUlqR1FhUXNrVjc3cnVQeTJQMm1xN3Uydmg5S1JINmY5NDNlRlN4eHNrZHVGcGxDRF9SX2x4ZzFqYkVMek5fZXNiOURkTXJJMWhtWFhuWXVIdU5EUzl4ZlVWTk5PMU5lQUtpWQ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 19:14:43 GMT"
     },
     {
-      "title": "두 번 '톱10' 했더니 확 달라진 '윤이나의 위상'…'자신감 장착' 메이저 첫 '톱10' 도전",
+      "title": "5·18 기념행사, 옛 전남도청서 열린다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XaTFUNmE1TkdmSFJRRGNXcURjY1dIOXVrclBpaG1vNURuSWxKU3dYWFZnbEFDOUo5UHVfWldkTzU2VXdBR0lkckpKT1d0dFJfQ0Nv?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 18:09:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tZXVQa2NxZUZoZ3pHcTZNOVFoWTczaU8yQ0M1eDJxX2FuT3hwWVBYR0JscUdOdjZaRFpTUWQ3Q2l1REgwc004ckRWU215SmJUNWM4?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 19:32:00 GMT"
     },
     {
-      "title": "회복 소비 시대, '리커버리노믹스' 타고 온천 관심 증가···국내 대표 온천 관광지 아산스파비스, 야외 어트랙션 개장",
+      "title": "대구·경북, 황사 가고 대기질 회복…아침 6도·한낮 22도",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORGRobTdyQ3VfMGd3MFZQTkhVbnFrNmlLY3lnbWtQdDdNb1cyUUJEN3dzNEZycHZXNzlOam1ualloZ00xM19zSXBGajM0YlkyZEI1amRlaS1RQXZHcVpOWlRZSXJGa2syNGFwYVZyVTg4UHlNOTlVa0xBMXMzUTUwekczSmpJS0lmeERWaW5ndENRcXBOSkRDUnNXZE1SQWdlLTl2X2VGLWNSUVZ2Z1pWZlQxRnpISjA?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 19:14:43 GMT"
+    },
+    {
+      "title": "장동혁 보란듯…김진태 \"중앙당 뉴스 뜰 때마다 가슴 철렁\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lbndCNHpmcTNXSTVYZ2ZSaXlCR2sydE5FR09zZThaWHUyZjNDQUYyaU9HZnRONlBGVW5hNmY3NkZJcXNwZE1rNWFMRUI2d0xDRVBF?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 18:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yTXFuRGNoR1RFRE5IY0FPOGtVMEpabTMwZWJHVDRzZ0J2YV8tLXdvU3M3VS1rd185dXlTcFhiUHVUUGZIUzByWi1xcm43ekoyYnh3?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 19:19:00 GMT"
     },
     {
-      "title": "에어프랑스, 장거리 비즈니스 클래스 신규 디저트 컬렉션 선보여",
+      "title": "이란 대통령 '대화 환영하지만, 봉쇄 등이 협상 막는 장애물'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlRvQWtyNEp5NFJxTWlEeU5TV1ZlbEZ1eFRpY0dOMTYtQlA1d1lvcVZOQnQxc2JSY0ptczE2UC1zeldoeDlKNmxmSFdINU9VNm5Ub0tUdzRrTndobUE1QWZTSVJfLU1IaUpTNVBfbWRWb2tVbnI2Z1c2VnA2Nm0tbDBhaE1wa1NmazBYY1o0VXVEa1p0QnF4MXVoYWlTemVLdElwaVIzN1FXSU5TWUo5UmRsVnhNSm9MUzVXbUVaSjRFdVVEall3?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 19:14:43 GMT"
+    },
+    {
+      "title": "국내 건설사 '에너지 다이어트' 동참",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04RlF5d0hDMDR5X2JjU21vUjluQ2p2c1FGQ0I5alFMYTJnVGFmMHhLc1FaSmk0NmVsZ184LXN4R1hCeVpYV254TWFmcXRKSk5ZWnRn?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 18:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wOHB4OTNLQkFsU1psNWFRZkJMVzZSQlZrYUxSZ3BGTUtSbHJ6YnBrcDdSY2FjZWlXQ0RybzMteXFITmFIVjdsWWZBZExQelZKMnJR?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 19:05:00 GMT"
     },
     {
-      "title": "검찰, 군사시설 수백 회 촬영 中 10대들에 징역형 구형",
-      "source": "truthdaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CMmdsbWRNQ1lxdlowUnBibjY2azVoVGFTaXduejgwYXM1YTJSZmxqZ1o2QldYNmpxd0g4SWtRUVFsWXhTNEs4Qk9vbW0wOWtkajVCTlBQRUFfaGF6bVBjVGNSbjBEcGs4MTlrXzF3?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:58:00 GMT"
+      "title": "'2009년생부터 평생 담배 못 산다'…영국, 비흡연 세대법 통과",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXdFWWhXVUxNV0FGMFlMSmhES0lycGZnNXFjUHdXLUItTjBZME1nTnctMkZEZ2lEak1sbW9GQVRzOFVwQkg1M2N6eVRRaHFmQnhneTlFQnJZQ3dBazQwZ1F1SE5RMl94WHlLQUlJdndNdHhfdlpha2dlTlAycVBxY3o3YUJHTWJmOW5JaDBfVm1FajhxZGJybWFoVnNXNjFYOUVyd2ppcjFRVkNFTXJaQkhqNElZSVJp?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 19:14:43 GMT"
     },
     {
-      "title": "李 대통령 \"베트남은 사돈의 나라\"…무인전동차 수출, 원전도 논의",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQUkU3NmtoNGhLdmIxWWRvR0hxdkJmU1d2aUtQY1hackRHR2hrVmRhaGJGQW0tYzQ2SkhZdDZDeFM1VEVCREw3VFNtUktGTjJJTVdRX1JWY055UdIBVEFVX3lxTE02TFRib1paa2NVZ0g5eWt0cy0tbEotOUg4dldha1lpWi12SmZQRGtaUG5NSlNsZW5EYWlmZGNjR0MzZUZ5b2gtU2tyRXlsTV9lN0tqXw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 17:42:00 GMT"
+      "title": "유통지도 흔든 하림 김홍국 회장…다시 바다로 눈 돌릴까",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sc1B6T1lKNEhOdU5Tb3JzN2Qtc0E3NHBBUlNOTGI0R3pLS1dhZWI4cl9KRTZGUlFmQ1o0UlVKTXpGN1lzTTFsQng1WF9FUFVUZDBVRG5qUFRXZWhFZWNpc09JbmVkQlRmLXVVM3pGSzR2OWZzZG1ZSg?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 19:23:00 GMT"
     }
   ],
   "sources": [
