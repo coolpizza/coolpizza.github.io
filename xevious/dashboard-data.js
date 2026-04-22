@@ -1,22 +1,22 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-22T09:00:21.082129+09:00",
+  "generatedAt": "2026-04-22T10:17:14.190969+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,388.47",
-      "change": "+169.38",
-      "changePercent": "+2.72%",
-      "direction": "up",
-      "updatedAt": "2026-04-21 15:30"
+      "value": "6,380.81",
+      "change": "-7.66",
+      "changePercent": "-0.12%",
+      "direction": "down",
+      "updatedAt": "2026-04-22 09:49"
     },
     {
       "label": "코스닥",
-      "value": "1,179.03",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
+      "value": "1,164.99",
+      "change": "-14.04",
+      "changePercent": "-1.19%",
       "direction": "down",
-      "updatedAt": "2026-04-22 08:54"
+      "updatedAt": "2026-04-22 10:12"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,486.7994",
-      "change": "+16.54",
-      "changePercent": "+1.12%",
-      "direction": "up",
-      "updatedAt": "2026-04-22 08:45"
+      "value": "1,478.1850",
+      "change": "-8.62",
+      "changePercent": "-0.58%",
+      "direction": "down",
+      "updatedAt": "2026-04-22 10:11"
     },
     {
       "label": "100엔/원",
-      "value": "932.75",
-      "change": "+6.75",
-      "changePercent": "+0.73%",
-      "direction": "up",
-      "updatedAt": "2026-04-22 08:47"
+      "value": "927.93",
+      "change": "-5.07",
+      "changePercent": "-0.54%",
+      "direction": "down",
+      "updatedAt": "2026-04-22 10:09"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "8.2°C",
-        "feelsLike": "6.7°C",
-        "highLow": "최고 17.3° / 최저 6.3°",
-        "humidity": "77%",
-        "wind": "1.3 m/s",
+        "temperature": "9.4°C",
+        "feelsLike": "7.8°C",
+        "highLow": "최고 17.2° / 최저 6.3°",
+        "humidity": "68%",
+        "wind": "1.5 m/s",
         "rainChance": "0%",
-        "pm10": "92.4 μg/m³",
-        "pm25": "52.9 μg/m³",
+        "pm10": "88.7 μg/m³",
+        "pm25": "45.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "80",
-        "updatedAt": "2026-04-22 08:45"
+        "airQualityIndex": "78",
+        "updatedAt": "2026-04-22 10:00"
       },
       {
         "location": "익산",
-        "summary": "약한 이슬비",
-        "temperature": "10.3°C",
-        "feelsLike": "7.6°C",
-        "highLow": "최고 14.7° / 최저 7.8°",
-        "humidity": "58%",
-        "wind": "7.1 m/s",
+        "summary": "약한 비",
+        "temperature": "9.8°C",
+        "feelsLike": "8.1°C",
+        "highLow": "최고 15.3° / 최저 7.8°",
+        "humidity": "71%",
+        "wind": "3.3 m/s",
         "rainChance": "20%",
-        "pm10": "84.5 μg/m³",
-        "pm25": "39.2 μg/m³",
+        "pm10": "65.4 μg/m³",
+        "pm25": "31.2 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "90",
-        "updatedAt": "2026-04-22 08:45"
+        "airQualityIndex": "84",
+        "updatedAt": "2026-04-22 10:00"
       }
     ]
   },
@@ -131,16 +131,12 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,965원/L",
-        "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-21 15:01:54",
+        "lowestPrice": "1,967원/L",
+        "lowestDistrict": "미추홀구",
+        "stationName": "탑self주유소",
+        "address": "인천 미추홀구 송림로 217 (도화동)",
+        "updatedAt": "2026-04-19 10:57:49",
         "districtSamples": [
-          {
-            "district": "계양구",
-            "price": "1,965원/L"
-          },
           {
             "district": "미추홀구",
             "price": "1,967원/L"
@@ -156,6 +152,10 @@ window.DASHBOARD_DATA = {
           {
             "district": "강화군",
             "price": "1,970원/L"
+          },
+          {
+            "district": "중구",
+            "price": "1,974원/L"
           }
         ]
       },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "트럼프 휴전 연장과 생산자물가 급등 등 이시각 주요뉴스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nN05Lam91bFVVYUdHckxVYlFoX01XMWJHMWJkV3lQODdnQTNQTTY3RFpPQkktOHBBeFJ6TU5JS3JVMEdnN2JpVjBEUm1vdk9BMXktb0dXMDZockc5SHhJSkN6QUVBMTViM1VDUmVxM2HSAXRBVV95cUxQSUp0bnZPNUdFUm5ybUwyT2tWNHZvbDRLSHMxYTgxdUVoVHMyZ3kzcF95RFVLaGpTT0t2SmFRUVBzd3NzUXJmb0MxcDhrNkw2WUpEWEdxMjFlbkJYRlFwYnA1Yno5YTd1LWZ1THp1N2gxUm4xLQ?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 23:45:59 GMT"
+      "title": "쿠웨이트, 원유 수출 '불가항력'…정부·업계 \"국내 영향 주시\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ZEVzZWo0ZVpUdTF6RUFFYmR6UDZvTXVvOXp2ZEt2Yi1qYmpfV3hBVmJ4dl9jR0ZJYTZWdUQzQ2R3Y2pkRG1mLWhRSlgyVVRGX1duMEhvQnZtR03SAWBBVV95cUxOb2V1Vm5MUkdsZHcxUnpJVFFDTDBZaXFubjBKaVItaldvVlVFVnVIMFpKb1JPcllxZE1pNkJ0cWtUZlY4UDhhNGwyT1pmT1ZBU01ORmNUQTR2WV9PNUxUOEM?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 00:58:28 GMT"
     },
     {
-      "title": "예천군 결산검사위원, 관내 주요 사업장 현장 방문 점검",
-      "source": "예천e희망뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DLWlKdThjSTBEVmUycEtvVG1Ud3Z3ejZPMDFoTnp0dlVKUERpZDNUNC1BM0NNTWd4eG02dnVjT2ZQcmQ0Rndkc2FRU2dBcVFjYktxLWZ6Zzg5VlBmSVpzTFJpY20?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 23:36:35 GMT"
+      "title": "보훈차관, '보훈병원 의료소모품 수급 상황' 현장점검 나서",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SbmdWVnkyX2dtd1liZ2I3TnE4NGRQa2tsc25aTnYwREFFYWw5UGZhM0hDUXVOV1h0LWNxVlBwYUUxNXNiWlctWEpnYkp5bGk5TDhqWnZ5WE85amFYanlxTUZPVjd4Zzg?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 01:02:45 GMT"
     },
     {
-      "title": "美재무 '對이란 해상봉쇄로 며칠내 하르그섬 원유저장고 포화'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdklOUHZrYThqdTZ5aFVfRFQxc2doaWdFLThQc2RiZUJjQVpiY3VSVjhxQXBPQ0V2d1d3eVRyVmZ4V1RYVndDcThUOV9EQ1NUMnZ1U0ItZ0hNaHFQQXpOMUJ3bzZRZDBrWWgxendjSVVkaGgzT0YxeDh6djlCb1BrWWhOcjlDazJ6RDVMdEV0ZjVpbTJ3WjFPNk0wME5KbVQ3Mnl2alNXOGYwekpQVF8wall1ZW93U0c5Z3c?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 23:55:40 GMT"
-    },
-    {
-      "title": "NH투자증권 \"오리온, 명절 이후에도 주요 국가 매출 호조 지속 중\"",
+      "title": "\"강릉 ITS 총회 알려라\" 강릉시, 국내외 ITS 행사 잇단 참가",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0QWRGeDd2X2tjNVFTYi1EanE5alAtb1ZZNW9JcG1ydmFOb1RDYW1HVm5nQmJlZ1dOWWFCVkVMbjBpcExidFM2RzMtT3d2NzBQanJN?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 23:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NR0xBWmtjWTAzRE53UnBGM2h5YUJUWHh5RmhXRU8zellYbVQ3N3B2eWtidVJfRUNld1hLZU9BRmg4VnhQU1ViTTJPUWJvb09Od01z?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 01:06:00 GMT"
     },
     {
-      "title": "뉴욕증시, 미·이란 2차 협상 교착 우려에 3대 지수 일제 하락[뉴스새벽배송]",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSHMyQkxoamY0U1FzTDk5b29LSFh2MkpxMlpRTUg1cnlWNnJidExXcFVVSXJPSE5Fa3FuVlVMaDdOYVprSGtwbmd4ZWVwQlRHdTVxdmh3MGxrdTc4dldXNUh5dG4wcTNsc2w5dl85bGZScHFXanVvZF9pM0JVNjB2Vw?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 23:05:56 GMT"
-    },
-    {
-      "title": "KT&G, 이익 불확실성에도 방어주 메리트 여전",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzNUZURZdF9ZOWdMZWloUlVKMWJDaGNUUmZBWkEzSTJ1ZkNCNG5Oc3dBeHhEQ2RVY1UzbzF1LVBzZEVRby1YZ21RWWZKRTFZWXlQQzhpbGo0RTAzSmRJcXl6WkZDZ3ByT05XcUthZDdLZURrcElGaWpZdFpHVjlDYlZ5RmZjTnZ5Q1pxQlNyUkVDX2NEbGhXdmROMTRNZ2ZrTHJ6dVY2eC01RGNBWmdJZU8wUnRwTVVGckE?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 23:50:39 GMT"
-    },
-    {
-      "title": "대구 팔공산서 불···헬기 등 투입해 진화 중",
+      "title": "결혼서비스 피해구제 신청 20%↑…'소비자 주의보' 발령",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHOS1XelF2dzA4WmxWQWZRS3dpMUx0ZU1YUU14SzR1RjVxa1lKSEVJcDVvNHlnaGk3UDFEazdKQmhDOXFIa291MVQxeW1vc3g0Qmxz?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 23:19:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XdThkeTFiSm5FRFpQWU1ESmgwaG1sb21hanJ6cUZ1MGNkRWlneTZNQzNkTV9oOGhDd3c4TkNpRl9Takw3Q001ZldMejVzQ01semhF?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 01:01:00 GMT"
     },
     {
-      "title": "[오늘의 증시]최고 기록 썼던 코스피…휴전 연장 변수 속 숨 고르기 전망",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEpFeHQ2NlZGM0p5OVBtQm12c1RMa1VmWDh3UjI2a3VsWklYNlUtdU00NlctVGxuTlBIOXRhUnpfbWt4VDAwX1BzbmV4VFZJQ1pVYjRFZFlDc1JYaGpHa0VKMUZ6MjJjTXBQRFlmajlwb2hvNktFX0s3XzNhS2ZYRTYxcTdnRFZhS0xfcjNQQzdKdDZfZm12UGxJaW0tZ3B4NXNLWXdOWmt1V0QwbEExLU04NGEtRmhSbDRjNHNNSUVlbmRnSEVz?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 23:31:58 GMT"
-    },
-    {
-      "title": "\"마스크 꼭 써요\"…황사 몰려와 미세먼지 '나쁨'",
+      "title": "클립아트코리아, AI 디자인 툴 'AI 스튜디오' 출시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNW5mdGgySm93NGJydkdaWkI0NVBNNTN2OFM3a3Qwa1pUVjdBeFJWRFBzQkg2S1V5UFVUS29vdG1nZkw5a213TFpRZy1VMEpVbHMw?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 23:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxeWhqUWFIVEw4M1hXMkZvVzQ4dkJUTlQxTkZ5Wm5ueHhzU1RfSnI3ajQ4eHBKeGp5S2lNeWJBSi02OWNlSnZLRk42Z0FoZ2tWSEk4?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 01:01:00 GMT"
     },
     {
-      "title": "美 재무 '이란 항구 봉쇄 지속할 것'…해상 무역 압박",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDdQM0pXVld6dzBHS0J5YlJ0Y1FQUUtZX1hCVTlUYUdVdXViX2NValdRb2RKcHlCVDhJcVQ0OFd1UXBLU2c1MWY5TEtUb1BHelNXQ2NTQ2hXdGJ2eExYSW5DWUwwYl80V2gwRGhJR09IRWhHSE1SbWgxeG9DZWZkUFVRazl5bnFqaUJIU0h6SXc4OUVPcVlVYmV2a1JKemc3U3B0azdEYmRWMHNEVklVM2tsbnhQUFU?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 23:10:32 GMT"
+      "title": "다하미커뮤니케이션즈, 뉴스 분석 서비스 '아이즈' CBT 실시",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94b0ZfaEdZTEhpWl9OV2JwY0dlMnBxX3BZZ3JfT2puWkR1UWdDd1puRmR4TTRqMWxGVFpsOGNEYWtPRWZIUXhfck5HWnVJN0tRZ0VB?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 00:32:00 GMT"
+    },
+    {
+      "title": "경기도·경기관광공사, 외국인 전용 'EG투어' 운행 시작",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrOE4zVFo4enpIR1FJa3VzdElLajB2OGZJcFFRTHkzNEpuRWpVdTNfcC1hcGo3QmFxWnkxMi1GUXBvNXBYTVlNdF9EVG9iNmZBNWRN?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 00:50:00 GMT"
+    },
+    {
+      "title": "트럼프, 관세 환급 놓고 기업 줄세우기…안 받는 곳 기억",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nSzJMcVlhRF90NUVoeG5lRlR2ZDNlcWlDNFJtM0NTdDk4cUVOUXIyeXdreFdHMnZYMnFSQTlJeTc3TExOYXdpbTdLdjd2Y0NJNktoLTBLTjTSAVhBVV95cUxPZ0syTHFZYURfdDVFaHhuZUZUdmQzZXFpQzRSbTNDU3Q5OHFFTlFyMnl3a3hXRzJ2WDJxUkE5SXk3N0xMTmF3aW03S3Y3dmNDSTZLaC0wS040?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 00:18:09 GMT"
+    },
+    {
+      "title": "수자원공사 사장, 필리핀서 K-물관리 세일즈 행보",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40YzhNMUFmM2ZBRENCN0FXNHNMNlNlSC1KRzdMSlVrVHV1ZnVNN2ZtMHdwbF9Zbkx1MTR1TF93SU41VXc2ZWxtVVNrOHN1bms2QVpFc1hhNVBib1ByWjdTVQ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 00:23:00 GMT"
+    },
+    {
+      "title": "'기판 낙수효과' LG이노텍 14% 급등…최고가 경신[핫종목]",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44V0Rmd2YxT2UxdXdnNG1oOG5XVVA0M085eEUxWDlJZ3dlamtINUtmOV83cFNZNFpDbm44Q05zdVB2alFFbjRoR0lQNVp1OVYxU3g4Sjg4VWpZYzd4dkNZ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 00:53:30 GMT"
     }
   ],
   "sources": [
