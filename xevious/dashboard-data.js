@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-23T04:55:23.731176+09:00",
+  "generatedAt": "2026-04-23T05:40:58.642791+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,425.29",
-      "change": "+275.91",
-      "changePercent": "+0.56%",
+      "value": "49,490.03",
+      "change": "+340.65",
+      "changePercent": "+0.69%",
       "direction": "up",
-      "updatedAt": "2026-04-23 04:47"
+      "updatedAt": "2026-04-23 05:36"
     },
     {
       "label": "S&P 500",
-      "value": "7,128.89",
-      "change": "+64.88",
-      "changePercent": "+0.92%",
+      "value": "7,137.90",
+      "change": "+73.89",
+      "changePercent": "+1.05%",
       "direction": "up",
-      "updatedAt": "2026-04-23 04:49"
+      "updatedAt": "2026-04-23 05:36"
     },
     {
       "label": "나스닥",
-      "value": "24,625.03",
-      "change": "+365.07",
-      "changePercent": "+1.50%",
+      "value": "24,657.57",
+      "change": "+397.61",
+      "changePercent": "+1.64%",
       "direction": "up",
-      "updatedAt": "2026-04-23 04:48"
+      "updatedAt": "2026-04-23 05:36"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,478.8700",
-      "change": "-7.93",
-      "changePercent": "-0.53%",
+      "value": "1,479.2088",
+      "change": "-7.59",
+      "changePercent": "-0.51%",
       "direction": "down",
-      "updatedAt": "2026-04-23 04:38"
+      "updatedAt": "2026-04-23 05:34"
     },
     {
       "label": "100엔/원",
-      "value": "927.25",
-      "change": "-5.75",
-      "changePercent": "-0.62%",
+      "value": "927.43",
+      "change": "-5.57",
+      "changePercent": "-0.60%",
       "direction": "down",
-      "updatedAt": "2026-04-23 04:38"
+      "updatedAt": "2026-04-23 05:28"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "7.9°C",
+        "temperature": "8.0°C",
         "feelsLike": "6.0°C",
         "highLow": "최고 19.7° / 최저 7.8°",
-        "humidity": "82%",
-        "wind": "4.7 m/s",
+        "humidity": "80%",
+        "wind": "4.8 m/s",
         "rainChance": "0%",
-        "pm10": "36.2 μg/m³",
-        "pm25": "32.1 μg/m³",
+        "pm10": "36.7 μg/m³",
+        "pm25": "32.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-23 04:45"
+        "updatedAt": "2026-04-23 05:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "6.5°C",
-        "feelsLike": "4.0°C",
+        "temperature": "6.3°C",
+        "feelsLike": "3.7°C",
         "highLow": "최고 22.2° / 최저 6.3°",
-        "humidity": "85%",
-        "wind": "7.7 m/s",
+        "humidity": "87%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
-        "pm10": "24.2 μg/m³",
-        "pm25": "21.0 μg/m³",
+        "pm10": "28.2 μg/m³",
+        "pm25": "25.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "58",
-        "updatedAt": "2026-04-23 04:45"
+        "airQualityIndex": "52",
+        "updatedAt": "2026-04-23 05:30"
       }
     ]
   },
@@ -101,16 +101,12 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,963원/L",
-        "lowestDistrict": "송파구",
-        "stationName": "상아주유소",
-        "address": "서울 송파구 거마로 82",
-        "updatedAt": "2026-04-22 04:56:48",
+        "lowestPrice": "1,968원/L",
+        "lowestDistrict": "강서구",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-04-22 18:00:05",
         "districtSamples": [
-          {
-            "district": "송파구",
-            "price": "1,963원/L"
-          },
           {
             "district": "강서구",
             "price": "1,968원/L"
@@ -125,6 +121,10 @@ window.DASHBOARD_DATA = {
           },
           {
             "district": "광진구",
+            "price": "1,979원/L"
+          },
+          {
+            "district": "도봉구",
             "price": "1,979원/L"
           }
         ]
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[뉴욕유가] 최대 5일에 불과하다는 휴전 연장…WTI 3.7% 급등",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbzgta2htaXRnb0hnU0VFaFlDZlJlWG5Udm1vUXdyZmxWcENCUTh5ZDM3d3RFZ2ktQVc5NzBmUHNNSGdRc3NzMjFGM3JTQTJTUXh4OWJzQ1AxQ0tqS2NMTExmTXFhVUpCSlZlTlVxbHozeVRJQ20yb3JSSl8zTzJQMzN4XzhrV25mUjU2dzBnejdyc1lXQzZXd0RVbjNzbHZkekRkUlVHbW5VSGJ2aVZDVS1yLWxjcnh0a1RRNWNMd29UTTJ5S290a2pn?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 18:59:42 GMT"
+      "title": "[오늘의 주요일정] 정치·정부 (23일, 목)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mbjJEYlBsME1makowbHNqaXpGdmJuUlhBeXg3a0tWYU56V0YxVG1xNDlnYXFpNDFYY0NVdFZ3bm9KcElsVUl5UzQ4RHNqSm92UDlfOWFwT2hxdw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "韓-베트남 정상회담…\"에너지·인프라 전략적 경협 강화\"",
+      "title": "[오늘의 주요일정] 제주(23일, 목)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44WEowR0VBbGl1Y0lYRDU2dFJpRjNTbU5scDNySXJRZ2xaaV9Jb2FKNzBiSDBIbXZBRW00bTM1aE5fWXRpMno5SUZqREtJQjBWb3dN?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 19:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ERFotMEtwRWhINnE1eVdxLWtPVUNjN0EwbG9kVmZ0VnkzSnNKX2NMM0RZeTU5SW9DeWtPTW4xSnZ5RDcyUWZFejVrc3RNLWFSOVFB?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "이란 대통령 '대화는 환영…봉쇄와 위협이 걸림돌'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYjJ3MTQ5MDA1UWtQeU1kTGpTdHA3b2oxajZla0lJSWJNcWp5enBJSmxIWUdYTXhQb2pScU02WTB5aFFudENyU0JNb0tFY0NheDBXZVRINzQ0NE5ULXJqZnJlM0dXSlhwSUlqR1FhUXNrVjc3cnVQeTJQMm1xN3Uydmg5S1JINmY5NDNlRlN4eHNrZHVGcGxDRF9SX2x4ZzFqYkVMek5fZXNiOURkTXJJMWhtWFhuWXVIdU5EUzl4ZlVWTk5PMU5lQUtpWQ?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 19:14:43 GMT"
+      "title": "[오늘의 주요 일정] 울산(23일, 목)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByU2JCak4td1ZUWTM2cHFQRlNnWHJibWl1aVpRaFZ1R25OYnN3dTRKd1UyQ1FyRHVTNXh5QVR2RkoxMUpBQnl6LXpYTTRSdGlVc3c?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "5·18 기념행사, 옛 전남도청서 열린다",
+      "title": "[오늘의 주요일정] 광주·전남(23일, 목)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tZXVQa2NxZUZoZ3pHcTZNOVFoWTczaU8yQ0M1eDJxX2FuT3hwWVBYR0JscUdOdjZaRFpTUWQ3Q2l1REgwc004ckRWU215SmJUNWM4?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 19:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LZFRCS0N3T0N0bldUT3dxX2hJSGhMQ19pUU9Eb0VvMjdKUnRhWFJZSG92RFFjeXdQVGp6aG1Ba2M5c2pDVlIzWnFDbWZuN1lxWVN3?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "대구·경북, 황사 가고 대기질 회복…아침 6도·한낮 22도",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORGRobTdyQ3VfMGd3MFZQTkhVbnFrNmlLY3lnbWtQdDdNb1cyUUJEN3dzNEZycHZXNzlOam1ualloZ00xM19zSXBGajM0YlkyZEI1amRlaS1RQXZHcVpOWlRZSXJGa2syNGFwYVZyVTg4UHlNOTlVa0xBMXMzUTUwekczSmpJS0lmeERWaW5ndENRcXBOSkRDUnNXZE1SQWdlLTl2X2VGLWNSUVZ2Z1pWZlQxRnpISjA?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 19:14:43 GMT"
+      "title": "[오늘의 주요일정] 제주(23일, 목)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhcm1SR2ZaTFQzR1RVRGJmOTdqeG1ia3R5clJEQlpQcDF1SnltOEdVeVpXQkNLOVdvSTdrWEVoRlh6eHd1VnVhd0Mwd2dGYjEy?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "장동혁 보란듯…김진태 \"중앙당 뉴스 뜰 때마다 가슴 철렁\"",
+      "title": "[오늘의 주요 일정] 울산(23일, 목)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yTXFuRGNoR1RFRE5IY0FPOGtVMEpabTMwZWJHVDRzZ0J2YV8tLXdvU3M3VS1rd185dXlTcFhiUHVUUGZIUzByWi1xcm43ekoyYnh3?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 19:19:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sV1JlWllBd0duY21rZzB1OXhSNlc5NmlVWkFuUTBrWVBvUURNM0xuMXVXSHpmOUozN2pfWHcyOVFXTmZ1OWJIMzJvUnhEaGxIMHo4?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "이란 대통령 '대화 환영하지만, 봉쇄 등이 협상 막는 장애물'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlRvQWtyNEp5NFJxTWlEeU5TV1ZlbEZ1eFRpY0dOMTYtQlA1d1lvcVZOQnQxc2JSY0ptczE2UC1zeldoeDlKNmxmSFdINU9VNm5Ub0tUdzRrTndobUE1QWZTSVJfLU1IaUpTNVBfbWRWb2tVbnI2Z1c2VnA2Nm0tbDBhaE1wa1NmazBYY1o0VXVEa1p0QnF4MXVoYWlTemVLdElwaVIzN1FXSU5TWUo5UmRsVnhNSm9MUzVXbUVaSjRFdVVEall3?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 19:14:43 GMT"
+      "title": "[오늘의 주요일정] 전북(23일, 목)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85NFl4ODFGVHlGMlpfeVZiV2NTdmdwejhtVGNqVS1UVnFEeXROZDgxZk9iX0c3VGlPR1U0eGYyVGdHYVVHc1k1Q3o4dDBIVVAyemc3Yw?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "국내 건설사 '에너지 다이어트' 동참",
+      "title": "[오늘의 주요일정] 전북(23일, 목)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wOHB4OTNLQkFsU1psNWFRZkJMVzZSQlZrYUxSZ3BGTUtSbHJ6YnBrcDdSY2FjZWlXQ0RybzMteXFITmFIVjdsWWZBZExQelZKMnJR?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 19:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNWZvM2docW5lNmFTQ1RHY3dPQVNnck5HVEEwRkI0azQxSDVDeXkzTUZ5THg4WU1HUTB5RUNUS0hsc1pjUERqMzY4MVBFZFBYQ0NJ?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 20:02:00 GMT"
     },
     {
-      "title": "'2009년생부터 평생 담배 못 산다'…영국, 비흡연 세대법 통과",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXdFWWhXVUxNV0FGMFlMSmhES0lycGZnNXFjUHdXLUItTjBZME1nTnctMkZEZ2lEak1sbW9GQVRzOFVwQkg1M2N6eVRRaHFmQnhneTlFQnJZQ3dBazQwZ1F1SE5RMl94WHlLQUlJdndNdHhfdlpha2dlTlAycVBxY3o3YUJHTWJmOW5JaDBfVm1FajhxZGJybWFoVnNXNjFYOUVyd2ppcjFRVkNFTXJaQkhqNElZSVJp?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 19:14:43 GMT"
-    },
-    {
-      "title": "유통지도 흔든 하림 김홍국 회장…다시 바다로 눈 돌릴까",
+      "title": "[오늘의 주요일정] 부산·경남(23일, 목)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sc1B6T1lKNEhOdU5Tb3JzN2Qtc0E3NHBBUlNOTGI0R3pLS1dhZWI4cl9KRTZGUlFmQ1o0UlVKTXpGN1lzTTFsQng1WF9FUFVUZDBVRG5qUFRXZWhFZWNpc09JbmVkQlRmLXVVM3pGSzR2OWZzZG1ZSg?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 19:23:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RcVdtaVRrNVFGMU5ORnk1SkNaOHNkTm5ZTkdJU1NjSUJQVTZYMWl4SzUzNTRiR2phNWJKY3E2U2hfV3cxQTVxUk4wLV9XU2dEU3Jr?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 20:01:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요 일정] 경기(23일, 목)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LM255M0ZqSUdybU9CdHlxVnVxa2xxRzNxYTA5ZG0tYkpyb1o0RlNHV2dpZnlENjVZNFhGV3UxLVg5bTRHS01zeUNvVzhmNE5pYXhkc21n?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 20:00:00 GMT"
     }
   ],
   "sources": [
