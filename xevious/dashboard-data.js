@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-22T19:56:40.194834+09:00",
+  "generatedAt": "2026-04-22T20:49:37.080036+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,479.1100",
-      "change": "-7.69",
-      "changePercent": "-0.52%",
+      "value": "1,478.6850",
+      "change": "-8.12",
+      "changePercent": "-0.55%",
       "direction": "down",
-      "updatedAt": "2026-04-22 19:46"
+      "updatedAt": "2026-04-22 20:42"
     },
     {
       "label": "100엔/원",
-      "value": "928.90",
-      "change": "-4.10",
-      "changePercent": "-0.44%",
+      "value": "928.29",
+      "change": "-4.71",
+      "changePercent": "-0.51%",
       "direction": "down",
-      "updatedAt": "2026-04-22 19:39"
+      "updatedAt": "2026-04-22 20:44"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "12.5°C",
-        "feelsLike": "11.1°C",
-        "highLow": "최고 17.4° / 최저 6.3°",
-        "humidity": "67%",
-        "wind": "3.7 m/s",
+        "temperature": "11.6°C",
+        "feelsLike": "10.2°C",
+        "highLow": "최고 17.3° / 최저 6.3°",
+        "humidity": "71%",
+        "wind": "3.6 m/s",
         "rainChance": "0%",
-        "pm10": "27.7 μg/m³",
-        "pm25": "20.8 μg/m³",
+        "pm10": "29.4 μg/m³",
+        "pm25": "23.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "71",
-        "updatedAt": "2026-04-22 19:45"
+        "updatedAt": "2026-04-22 20:45"
       },
       {
         "location": "익산",
         "summary": "비",
-        "temperature": "12.3°C",
-        "feelsLike": "10.4°C",
-        "highLow": "최고 16.8° / 최저 7.8°",
-        "humidity": "72%",
-        "wind": "8.3 m/s",
+        "temperature": "11.5°C",
+        "feelsLike": "9.2°C",
+        "highLow": "최고 16.7° / 최저 7.8°",
+        "humidity": "69%",
+        "wind": "9.2 m/s",
         "rainChance": "33%",
-        "pm10": "31.9 μg/m³",
-        "pm25": "17.2 μg/m³",
+        "pm10": "32.5 μg/m³",
+        "pm25": "18.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "71",
-        "updatedAt": "2026-04-22 19:45"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-04-22 20:45"
       }
     ]
   },
@@ -103,9 +103,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,963원/L",
         "lowestDistrict": "송파구",
-        "stationName": "상아주유소",
-        "address": "서울 송파구 거마로 82",
-        "updatedAt": "2026-04-22 04:56:48",
+        "stationName": "㈜버드에너지 위례제일",
+        "address": "서울 송파구 위례서로 260",
+        "updatedAt": "2026-04-22 04:54:19",
         "districtSamples": [
           {
             "district": "송파구",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[한국뉴스 TV] 26년 4월 22일 (수) 오늘의 주요뉴스",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2YVpNNVk3X2hta2ZYZWc0QnRoX2VUbmJFQUJhQXZSQUVCM0xHUm9YTmE3dXI2bzRKeUZzRm9fS3NvU25lbXhfNFgwTzZibFhmakxFM1NyeHpQc2F5ZFVFLWR4V1hSQlU?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 10:05:55 GMT"
-    },
-    {
-      "title": "[뉴스7 전북 헤드라인]",
+      "title": "[뉴스7 대구·경북 클로징]",
       "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FVUdfOE5xSmRacDZldjRLVklYYVlURXZhNk9LSHcxWDc1WTc2aTAxaWw5RkE2SDNoeDU4aHNhTUtLUTNIS1BkcVV4M2xCaUh2SzI3MEs4YWJBTHc?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 09:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hNHI4aHdSTXFhbUM2aGZ4M051UU5ES09FbmFRMlRESGlpbEpXNDlINFpibWxRRGVoNTZ1Um9KZWJ4WUx0VjZnb1lwcWpqTHJMeXRlUnZxaVlkbXM?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:07:00 GMT"
     },
     {
-      "title": "[속보]이재명 대통령, 한-베트남 정상회담 시작",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HcXROTllPVl9NM21WVUhBVnE0OVNDOHZyY0FyU2ZqbXIxQXd4ZGpEN1hObThZZUgzdUFoWnFQY21iLUVGaUVaX0hOc1NfZUNuTDE4TTd6MlFzajlfbExtbjFmRVd4WWxCY3c?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 10:15:00 GMT"
-    },
-    {
-      "title": "中군함, 오키나와 해역 통과…日 대만해협 통과에 '맞불'(종합)",
+      "title": "AI 음모론",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGpEY1psVkZzbGF6NHpkaDJMOG14QkNrZWpPOGhhaTJrLXd6Nk1qVHpnT19rUk9UMXU0MHZOZ0Jxa19YOXg3M1o4eFhuSlpqWWZCU1RwMlJrZWRFdFpjZWtqRlZuOE1FS0hxYUI5UzU5NVBPam52SUJyRE9ERWoyLXVVS3R2dHRIWlBYNXIyN2doU3luUHVBUmFNYmFRUVNmTjl4NDFlTXRnc0xTd0xZd1lOQTljdUpz?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 10:12:38 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVpyQnlqYk51SnZwMThHbjhaRU44MGd5VjZrZHFfSUxGNVdpRmV4Z3dMRm05aGJRRzljZXVlR3NyR2ZOS3ZCeFhzUnNuSDc4dEZobU0xdGZRSDM3b1ZDbGhPQm5pZHJEajU3OUVRT1pFek5faWpkejkxbnpQMXpGcmJuOTBhUjF0Tjd0a0xmVnlXTjhYNmV1al85MXVDNVhDY2l0RGZfdm5VeHduM0dEbk9NdHRLUzJmRW5R?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:34:57 GMT"
     },
     {
-      "title": "[속보]당정청 \"담당 공무원 직권 위기가구 생계급여 신청, 4월 시행\"",
+      "title": "[속보]한-베트남 정상회담 '종료'…111분 진행",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43dEhtSlhQNGZ1SjF3M2FERzdaejgtRDF2YWxzS0JWOVNkMVg3SUt1Y21RS2lHVmVhaXFOa2c3Z1liLW02TFBhaWpaWU54S1F4LURR?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 10:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqUG5XUGdNRlR2ZzdMMkZka1NvdUpPdVZWRjUwMmdqZGNJNEU3TXUwX3VMMGJDU0R1cjg1ekJoUHIzcFg2LU1kMk1Lck1HcW9xaU40?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:29:00 GMT"
     },
     {
-      "title": "20년만 AG 금메달 조준 남자배구 대표팀, 5월 진천서 소집 훈련",
+      "title": "[포토] 한두솔 '들어갔어' : 네이트 스포츠",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNDlpVDhpNElEYWlUYXp4LVgyNF9UWTFjSlhnSXJER0ZiYkREcDJHdXFDcHNEczNFc2JDVFQ3WFhjWVVNRWl0UG1vY1g5WDdYaC1ZU2l3?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:40:00 GMT"
+    },
+    {
+      "title": "전국 15개 주요 국가유산 수리현장 중점공개",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FT2t4Y1d5TEdsVnUzanB1QnVLY25FNGZoZHQ1RDk3Y3hhZ0NVenNoaFlqWHNZanJsRTdYalJWU1N0aWdOc3BENm80TlJ6UnN4VkFB?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:14:00 GMT"
+    },
+    {
+      "title": "최유철 등 국민의힘 경북 기초단체장 후보 13명 확정",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IVWpMMUhpa2dpdmczNndWMG1sVW1TZnhoRDlPdWZTeWwyTkFBTHJScy1aWnhQdl9lSmZLWXUtN2RBWHRUT0lNMUhKOUdFZHAwcllv?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:32:06 GMT"
+    },
+    {
+      "title": "[포토] '7회까지도 무실점…완봉하겠네' 웰스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtN0pIRjNfbzRySm1GVFRkZ0ZSWTV6a1NnQ2xIQjk2ZU42ZG1MejNFc2NsRWRKVnBrQ3AxMFBVWHpPSE9BdHVsS1I3YWtYR1pKQUQ4Ynpn?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:39:00 GMT"
+    },
+    {
+      "title": "이 대통령-또럼 주석 정상회담 종료…곧 공동언론발표",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWFlMkFDd0c3NHlJRFpXSjNjT3FCSWVzdUtqdnJTMWN2ZXhzWU9MOUNZM0M3dFJQam9IZGxITGkxeUhIMHByMjlITTN3eHNZREtQeGJibUtqd1lBdkdLVzBZM0sxenJnZHNidWFKVE9xZlhNaFNBYmJ3eWZEMDExWU1zaV9qdTBVRHZ1dWRZZEw1cHhPYmtfelZDQ0xMYTk4cWlXY2F4MzRaeldJSEdJX2hPRVZxMnc?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 10:22:51 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclQzVk1rMGdEazBueGtjUjhhUlJ1WTJUeEFsOU1HSWd5ajJFTWVjSEJST1RxOXA1Wl9tdGJPQVRMYVBvUC0zZW1sTHF0Y0YzSzBJRFlDLUVfcC1QXzNtUy0wTVdwOEVIZ2VzUXo5ZExGd0lBLUhoNDBVNElSRVlYS2NaUXV4c1hlSUJMcmFESUhhRU5vSTNRQWVQSm1hNXIyTGg3bXp4SEdIczZEdXdBMEpDZHVsRkpG?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:48:53 GMT"
     },
     {
-      "title": "주호영 '대구시장 컷오프' 가처분, 항고심도 기각",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwdmNGTmxkdWQ1Rjh2MGVNVkpSdFl3WHJEdnFub0RuZ291RUFZRFpOcWk5ZDlwa0NLR0RZbWNrSzdNUG5BVER2ekliUlhmenlZWVMw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 10:42:00 GMT"
-    },
-    {
-      "title": "경북도·베트남 박린성, 협력 확대…자매결연 추진",
+      "title": "GA 외형 확대와 소비자보호",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGZvb1g0TE5YUnNkX21vZWRuelJGVVhxZzkxeGx1RlhFWk1qbVp5TkFKMTJLdTVSc3FUbTI4M1BpOUd1cmtybWttY1Q4LW9ES2hNN2ZhZjVyR2xFenozN2xoblR2OE13QmRERFVlaUxQU2pXUTJyYWxfaEYyUTlRSGh0V0J3QVh5VXRyUzZlNXlfemVfWHdJX09lVHdHUmN1NDBwU29aR0k5OGFLRlQyYkpPWVhFLWdQ?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 10:02:35 GMT"
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXZRR20zMGgzS1VmbDJHdE1sR21jUnVQSk0yU3V0QzNWcTFIRzV3alVvVFRiYnVEbkd0dFl4UzZSdUxWc183cF93ck1kWGVNME1USHN1UFdfRFRUNGd5UHdONmpPblhLaTBHZDZWOTRwd3V2ZXVmZmJXblI0dW1QTnUzMkl6ZkpMSTd3T2R4OEhWMEJneURXcFlyTmFQX1dMc204YWJfOVZab2gxUTBVS2NPZTNkdHVDT0I4MjVn?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:34:57 GMT"
     },
     {
-      "title": "[포토] '응원하다 홈런을 봅니다!' 이준",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nMkJlU051dEx0NkpvYzA1WTFIR1Q3aExsVlpnU1U0dVp3Qi11U1BFWVp4eFd2dGdGQkV0VHJ2dUpSWjFNUEVvYWF4emFDNHQwMXlXVi1n?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 10:42:00 GMT"
-    },
-    {
-      "title": "[속보] 당정 \"6700억 나프타 수입단가 차액지원사업 신속 집행\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhS0UwWXloeDBaQkN6TnJ4LWl1UXBPdGVBd2loVnVaSXJibTJ3Zk5vWnIxYno1Wk81QWgzWFYzblhWN0RoMnRLOHRxejlvMnItU3Yw?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 10:07:00 GMT"
+      "title": "'세종시로 옮기나' 벌벌 떠는 금융당국",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQVVGbkNQcm5RbGVjbDBrR2MwTmRUbENnTU1hei14bnRjX25RNlQybTFySDdXMVd5c1V3cDlaZEJFSlk5V0lLckplU3BIZGlpdmRSM21yTDhuV3NnTDBIX0pmZ0c2MjFmVWttSXEzY052bmdTTmNYeGh3M2dBU3h6d0xyeTJHclRSX0tMQUdTdTMtMGZINV9ZX1Z3c1EtdTVwNUg5YUg0NEdXNld4X2xQdHhmeWNwS1pzNEY3ZUNR?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 11:34:57 GMT"
     }
   ],
   "sources": [
