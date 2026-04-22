@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-23T06:37:26.092443+09:00",
+  "generatedAt": "2026-04-23T07:16:59.661287+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "8.8°C",
-        "feelsLike": "6.4°C",
+        "temperature": "9.5°C",
+        "feelsLike": "6.8°C",
         "highLow": "최고 19.7° / 최저 7.8°",
-        "humidity": "68%",
-        "wind": "6.1 m/s",
+        "humidity": "60%",
+        "wind": "6.7 m/s",
         "rainChance": "0%",
-        "pm10": "36.9 μg/m³",
-        "pm25": "33.1 μg/m³",
+        "pm10": "35.9 μg/m³",
+        "pm25": "32.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-04-23 06:30"
+        "updatedAt": "2026-04-23 07:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "7.0°C",
-        "feelsLike": "4.4°C",
+        "temperature": "7.8°C",
+        "feelsLike": "5.0°C",
         "highLow": "최고 22.2° / 최저 6.3°",
-        "humidity": "86%",
-        "wind": "10.0 m/s",
+        "humidity": "83%",
+        "wind": "11.3 m/s",
         "rainChance": "0%",
-        "pm10": "32.8 μg/m³",
-        "pm25": "29.8 μg/m³",
+        "pm10": "36.0 μg/m³",
+        "pm25": "33.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-04-23 06:30"
+        "airQualityIndex": "46",
+        "updatedAt": "2026-04-23 07:00"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "1부 오늘의 주요뉴스",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZX2R6QlI0Szdqd0VKV3dxNUMwbnE5RXBiQ0V4NUdvZXI2MTV5cXF2bmlxR3A2bGV5NVQ5Y2NaeWdDdkNXRmNaZHdkRmhVMzBzTW1pZk1RaDNpamNJS0psME1QWWdjY1pKRFotR2ZpUW9YbExxdUg5SU930gF6QVVfeXFMTVJTNlZSdWh5UjJmZ3hSVVk0WGdDRDFBYWphekNSNk9MSEdaaTBhU3Q5WXZIV0plZk94aXhDOHVOei1pR1M5QmZJcTV2Y2RkbFFfbzdhUldlQTJmczVfTjNXcVJSak5qd0sweXdLMTJxbVZOQTdSbGw5S0E?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:01:58 GMT"
+      "title": "[AI기자의 News Briefing] 4월23일 오늘의 주요 뉴스를 전해 드립니다.",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJaEExdEhuOUNuczJhU0FVc3lVNzBHUmlKM3Fsbmp3dG9vNVAxcnhITHlaTWpXT29UNWNVa1JyWEg2WjVCWHl0MlozVTRqbGY2NmJiaU90WTlkcV8zM1NCTTEta3ZGenBOdlE?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:10:19 GMT"
     },
     {
-      "title": "[26년 4월 23일(목)] 반도체 투톱 ‘운명의 목요일’…하이닉스는 ‘1분기 실적발표’ 삼성은 ‘노조 집결’ - 비티의 오늘 주요 뉴스 요약",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkp3c2pMS3Z6MENHOHNuX24xZDA1Mjhla2t5OXg2WGZiQTJ3SnAxVTIwM3RacVN6QTI1c2F0bE9jb2RTMFBKaGdSbHQwcG9jTk51ZmgtcDhScFI5N0txUzRMbHZPNHJaZjd0QlBCLVZZcGNoeXdOUllqY205VjRzNA?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:33:40 GMT"
-    },
-    {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "title": "4월 23일 굿모닝 MBN 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTVUVQdG5TU2ZSZGlua2FRNllZYmZmVmRmc0NmNk9Mdko5M29id0hkbHozQnJBWGJqLXZoVjBadlV5TXBPV1NoWTRMLVM5UFpZSXg0?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94MHAxampTejJUcDY2eFlyU2Q2TzRIdEwwdmtSb210aUJHR1dUUUVzbkZXY2VfWmZWNlY1ZG9xUlptalpIYURST2pnRHNwOWZKa19r?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:05:05 GMT"
     },
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKQTZEYTVfdEM0V19RWThxQUxBSXduSU83TkVLYzVWQ2p1U0I2N0s4UXBLLXQ4UkdpLTE1ckVEUFZKLVhnS29fdDBBVG5GWEhmLVFRXzFBXzJkSVVZWjFZdXh1Z3hKczRmbUHSAWZBVV95cUxNMy1uZnpDcVZBdkhEamF2b1pSV05fUGJJa1pzenZ0N3ZteFJpTVl3bExYa1d4YTk5czY4V1ZMNEpmb1M2V3RmRFcwQVB5MmF1cUs1d1FGSXAyY0ZNQkR3MGJXN2dIS1E?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:07:00 GMT"
+      "title": "4월 23일 여수시 주요일정",
+      "source": "남해안신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hOF94OGs2XzhvVTdTNGhSZ0p6VmxxWXdLOW91TU5pbFRpR3N0NWl4YzhEQWc1MnlXUmdUU1FuQVpqZ3pZMWtHU2g2Rmk4bi1yUXJLYnF5XzBJWXk0a1RkS1JWUzhPRWdu?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 21:29:52 GMT"
     },
     {
-      "title": "김재욱, 국민의힘 칠곡군수 후보 확정…본선행",
+      "title": "[글로컬] 중국인 '프리패스' 확대…문턱 낮추기만 능사일까",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHo0dkwyem1SWVpaZlROVkJXLXJvZm44Ti11aG9nNTVzRm1ZQXVDbjBidTlQNE9Ea3dUTVV2Q21CV08tUXhyUzZLQ2s5ZUtmT0xyZUllektyNEg4Q1lyM0NSMUFXeWdBS3FlY3BFN05rUmNNdGJRY2Z3R0hMOVF1NVI5M3FJdkxWOFRCRjVlNi1Nd0JEck82TWxyM2pPZ2U0ZGdyVnhnY01iY2ljUTFrNEZmMHZxbkZM?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:22:38 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVZKQmI3ZHd6eHAyWE01dEhtUHYtcmFDUUlQdC1yM21MTU1sXzJkUlRmdVhYME1qZndzdUZlZ3EzOXFDdFFQVlR3MkNHb3JBUFl1eHh2cnhjN1VqVlFUZWZSZTF1ckxLb0hUQk91aG95cHJKNHh5NzdhcVZUQ3lsQkFaTkVXLTZCM1BUSHpVY1E4Nzd2ZXZCa0VGV3NWTGtUb3lyZnY4eV8weDM5YWJoSUFjeEdhWlBtQ3c?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:10:03 GMT"
     },
     {
-      "title": "코스피, 전쟁 딛고 또 최고치‥꿈의 7천 향한다",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1peFN0TFhZY0FvRG1PSmZaVmtSRmlQcGRTanJUWktlVnhWcU1Obk44UFBvVGRZNTd0djRsZEtzNEc5WVRFWkgwUFdvNHZQZjhJN0pNcXBLZlMzZ3lZVHBQV2ZxS0U2UUpxV0RFVF85MU5zMWZHb2hBVlBB0gF6QVVfeXFMTmR4T2xPM05ickJWbVpaenczalVkc0NMZkQwRm9JWngxSVh6dUZLZW5EX044RVR3aEVOS3k3Z2JlRFFsMkJiVnFEVHNlRTNtUl9JNk13ZW0tTnM4NEpMcWZYQnRyMGdNbGthc3VwTFVYaUxqdlpVOFdudmc?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:11:33 GMT"
+      "title": "[4월 23일 간추린 뉴스] 게임 패스 가격 인하, 반등의 신호탄 될까?",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzX1hxRGhFcURSaDVZX3lUcHdOWkFCWng5OFgta1lMYTlOU25tU1RvSHNDakRsbnBFMnc3ejZKYV9UemxuOTBKWlcxVjNJOXZWM21YODNLNnRIMF9mMHc?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:00:01 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(22일) 주요공시]",
+      "title": "LG 이어 네이버도 '엔비디아 회동'…K-AI 존재감 커졌다",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWW5EaXZRbnZYMFNzZnp0UlFiWGhCNmJTM1JIODhrWHk4cEd3ckRkZXpWZnVMUUNFSmdmUVpnRWcwekdVck1acF9fd294dkxjLURuZUJuX0pvdUg1ajVSSU9VQURBb1Y5Y2ZwXzkzWGhkSXNhNjJHVUwzZU40THM4TklnYUVDTHlFYXAzZ3BOa0s4WWZZUFJXazBpdG4xOG5VcVVTOVVVZDBBclZuV2hrdFJYVzRuVW9x?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:10:19 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzFxbEViX2k2akNqTWczNUxIOFo5SmFERXhmRWtnNXFvd3E4QnN2cnhMNjFFUTNvYkxlbXB2MURwSlJMWmZsREVJWjlKcnF5bXBBSDgzTDdiSkk5aGYyUFExQVpEUVVMUFA1LUMwWndWcVVHVEZKYk9DUElCSnVEbGpsLTI3Sm9LWmlqTFlBekpjNm1OcWdDMDFCbFpOSmhOTkl6cEZnZFI1WkpGdnZSdnRsc3RSZkNYYUE?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:00:31 GMT"
     },
     {
-      "title": "[속보] 국제유가, 상승…WTI 3.67%↑",
+      "title": "S&P500·나스닥, 종전 기대감에 '사상 최고치'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KZFRtV0hhbURUcXVKMXFLOXZzMnVjdDhyQkpFTGdUU2hxU0JueTFmcWNOdnVjNV9iQkZFSUVqU213bGpCenNnUkN4RUpwdC1zelFJ?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMckc4RGhrVjctdGZTVTZiVXZucU1MQnVxLVBXYTRSQ0g0QjFKZ0otNXpWZDZHR1RaZjhYMEt1WmtDMmI1VzBrcVhVUE8zNGFkdHU2M0xxMmZ3V1lZOUZhZkpGLUhOZERNTTZUdW9DcjBOUzRTVnJ6Qg?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:09:00 GMT"
     },
     {
-      "title": "\"해상 봉쇄 풀어야 협상 재개\"‥무력대응 강조",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pMlhmQ2h2cFVBWFNfYzlsc0ExdHB0VFRKZEhybE03TzQweTBiNW91VEg2ZzBqd0pENnZGLXJJZ3dOSTlGa3IwNVF0RDlySzhqdWdmd2ZORU5SZDhFU3VXUjJfVlVYdklTSEVDYWx5LXMzMjkwU2hoeU130gF6QVVfeXFMT2g5QVlXNEVQNnNDcDdCWDdRV3VZX3Q1Z2JKdDFVdkd5VFVFaEc3WDd6V01mcmt4aE9vQ3lZSXc2c0tFeG1YcGxLN2JXejhteGRWOHBXUVU0blBxOHNqM2xISzR0YS1aWm5DUGFIQ1hXSDFwSFZmUVZVMGc?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:06:13 GMT"
-    },
-    {
-      "title": "환자대변인 1년, 277건 신청에 만족도 92%…인력풀 확충",
+      "title": "현대차, 배당수익 3분의 1로 줄어…해외 곳간 잠갔다",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2RKbG5IdUJEa0xLMmZRLTBaNDlkUUNYM0xfRTVGS2VYakNqb3dhdlRRWEc3YTdBTDZLV04wX1BNVmRIcWVYVkVTVTUzUnEyQkcyMWNsbW5veUtJYm80eDVrd0ZFcFdjMllIZmJNQXlvUTYxVXpUUnhPQXJCMVFPZ1lkYW9oNEJYbUF3U0p4YVdhSFhUUndhRUZBN0VZVEZ2MjVnUE1EWlVPcTQxME8xZ1JjQW0wWUU?oc=5",
-      "publishedAt": "Wed, 22 Apr 2026 21:15:33 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd2haZk1YU1RnRHg4Q1RJZHhPNmJpSWNXSlpkMWFFNDA3akE3NURUMy1ySXBkeXJvSGpsRnB5b2VwZUo2d01ERloxTkhYTnEwTGZsNWNqZFdUMG1ZUHdINFVVN2JEaEliZzdCUXJtNk1Db2p5cGdRNjRJei1TazBheXNBNkoway1rNXQwZDJHREpydGlic1d4elJhSGZIWGMyYkx4Qnk3cTJWc1Y2OTR4TWVOYTB2bTZsd1E?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:05:02 GMT"
+    },
+    {
+      "title": "[AM-PM] 이 대통령, 한·베트남 비즈니스 포럼 참석 外",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IdnQ5ZUYxcVJyLW1ZOTJ3c21XRE1tbnJySlpqdkZSbXBjSUUzbVJaRFpmNGZGN19NU1FtSG1XVmpkcXlJVVZCN1RsRHlsNGNMeEpRY0tXc054VUQ5WTZDdGVkeE9wTHp6M1JXWUJtSTRWamVJOXVDTA?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 21:55:00 GMT"
+    },
+    {
+      "title": "국립3·15민주묘지관리소, 3·15의거 희생자 16인 전시 전면 개편",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcHJ4d09ZaXp1OGhybjZsS21JZ1lDNkVrM2RNdGZUU3V0UmhrWWRFRnpSOE9LUjVHTFVoU0JaOHFPMTAwbTE4WlVsYUx1T1M4X2dSSXlYMmhFT0oyQmJtel9fU3NqOEhZdjZQUXNMOWgzYi1DaUN3WHdqUnhWUmxXd05iWXk3cFo3bUM0TTF2V3ZEYUUzVmtpc0dSNm5XYjFyRmxBVlVnd3ItRFBhSmxSVlI2ZUVzYXZ1MWc?oc=5",
+      "publishedAt": "Wed, 22 Apr 2026 22:05:02 GMT"
     }
   ],
   "sources": [
