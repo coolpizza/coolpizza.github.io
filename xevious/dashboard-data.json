@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T23:05:14.674129+09:00",
+  "generatedAt": "2026-04-24T00:58:06.866637+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,33 +67,33 @@
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "11.7°C",
-        "feelsLike": "9.2°C",
-        "highLow": "최고 20.5° / 최저 7.8°",
-        "humidity": "53%",
-        "wind": "5.2 m/s",
+        "summary": "맑음",
+        "temperature": "10.0°C",
+        "feelsLike": "7.6°C",
+        "highLow": "최고 22.8° / 최저 6.8°",
+        "humidity": "60%",
+        "wind": "4.5 m/s",
         "rainChance": "0%",
-        "pm10": "24.3 μg/m³",
-        "pm25": "22.8 μg/m³",
+        "pm10": "27.0 μg/m³",
+        "pm25": "25.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "59",
-        "updatedAt": "2026-04-23 23:00"
+        "airQualityIndex": "57",
+        "updatedAt": "2026-04-24 00:45"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "12.0°C",
-        "feelsLike": "9.8°C",
-        "highLow": "최고 23.0° / 최저 6.5°",
+        "summary": "대체로 맑음",
+        "temperature": "9.8°C",
+        "feelsLike": "7.3°C",
+        "highLow": "최고 23.6° / 최저 4.7°",
         "humidity": "66%",
-        "wind": "8.2 m/s",
+        "wind": "7.6 m/s",
         "rainChance": "0%",
         "pm10": "17.2 μg/m³",
         "pm25": "14.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "61",
-        "updatedAt": "2026-04-23 23:00"
+        "updatedAt": "2026-04-24 00:45"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "2026년 4월 23일 세계 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtY3NrZHBFQUxSeVdYMU9JT3BvWUN1NXNRVHhxaDlNVE5rVFdnUGtzbWhBYWdHbjhpUWtEeDNvbjBoNFViRzljYk04MzRvVk56TUtnRmtkSUhYdkFzS0g0eEFLTzU1V2R3TllVbDN1a0o5dmFRR3E5Yy1tdFFuc00?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 14:03:34 GMT"
-    },
-    {
-      "title": "[뉴스9 부산 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xVXNzTUhLRHU3R01QOC02VU5Xd0JBLVpobmRPODBaWGVzd1RJVjcyM2dlSWtWVlVmMTA0NmVlcF9qUi01V3ViWFFCWWN3VTR3ejNKcExvblN5cFE?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 13:23:00 GMT"
-    },
-    {
-      "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEJSS2xxVFFjRklVYWpvY3FIcy1kSlFkaU1WVmJnTFpTMDFkdEg4RmUzU19KeGluUDE4bGl1dVhoZmhQSFN1ZWFoN2ZwM3JRckVtZXozdHhZc29yLUtiT2NJWklKVHlpSGhnbHU1Z2tvcFFDZlZtT3dQM2RlU1kzU2JOWXhxTXA0S3dRTzVtWm5oUU8tdTdNMVJUbmZyX3F6VjhOTVptMXlGb3JLNzIzTmFBOHNZaXU1ci1QN9IBdEFVX3lxTE1qZlpyanVRR1VUeHFKb3lWWXRuM0k1ZWZxMUkySHBFSkVZaFhJSGN1LTFTbzU3eUJHdTF0c1JqVHVDcHFhRk9kYUtRQUt3NE1IcWR0cGpvYWdzdWVrbWRuZnI2ZEw2eWdhLXhyWmU1Mkx6S3o0?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 13:23:21 GMT"
-    },
-    {
-      "title": "'韓-베트남 비즈니스 포럼' 개최…\"가장 중요한 글로벌 파트너\"",
+      "title": "[포토] '6회초 4점차로 벌리는 2타점 적시타' 황영묵",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhT1c2VlE2YnR5bExJMmR6U0RITkFBdFJDcnhSTjZCZW5CSlJRN2RyeXBBRVhsTDAzSmhzN0J2Rkt2ZHB1bU9wQ2N3cXg1bDdxcVE0?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 13:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tSHV6RWI2b2lTanhnWmVGRG1NSlNNcnlsUy1vNTh1bDBwLWVMSTN4QmtLOGpFdF85dWNoNUdCN2Z1c2pOUkJLVTB5Smxad3YwRnBhQnRRZWhiZGVtbWJKc0pjcWw5aUZGNXVFaXlSSGx4MUY0a0Z2Nw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 15:51:00 GMT"
     },
     {
-      "title": "대한상의, 한-베트남 비즈니스 포럼 개최…최태원·이재용·구광모 참석",
+      "title": "브랜드워치, 마케터의 글로벌 인사이트 강화 위해 아시아 태평양 지역 데이터 커버리지 확장",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HNUpQbjRfRUZYb01NTU1vZWsweDVaZURNUy0xZVU0MkNacjhFcjNGcmo1VTZWZzFFYllzZTlHTnNCc0hvdFk0enhVQ1JhNjNNUDZObW5B?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 15:10:04 GMT"
+    },
+    {
+      "title": "두산에너빌리티, 베트남 신규원전 참여 교두보 마련",
+      "source": "에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzQU1aMFQyTHdPcmlwY1hNTVRnVGhTMWlISWhfMUFUa0RlU0NTOXJRa3ZQaGt6NGx6MGdjMmdqU0NrSVdCRXoydWx4ZUpCWjl2V2hFb05Od0djXzNWUFctMVptemZ2eDFWRzdfTzR1MFE?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 15:20:51 GMT"
+    },
+    {
+      "title": "초여름 날씨 서울 낮 최고 26도…일교차 20도로 커[오늘날씨]",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTm9aa0JKaE1VZmtLOC1sb3VNWnYwVFFyek1ubmlybjFodndxcVBPTnROcUVnWUxiZWh3ZFgwWEM2Q01uNlFMaGVTSUVIdG9oNXpidWVka0hkUVpTWk94X1pSVHhKM0c0V094NlQxSVRwX1dxUlo3alJTbzVpZHpTN0tFejNnUmlDR2d5M1dHRWZ3MzRnUFVUMDRFZ3h4NTI4dWRxaGF2Wm0tampxaE9Fb3dzeXA3aGto?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 13:08:24 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc2RDNnFsaWRZMVhBV3NOWEpKMW5taWx1b2lEZXN1Q0tucFMwODF2TmxuMC1oRTNac0hFR0JLNzlGN3JuaVh5UVBTeWl1cnUtN0wtbDhBTUZhNlF2UGs5ekVvME9yRWU5UWV6UThQMGhjYlh4QWVxQWxZYXVMVTAxTWxfYzkza1hBcDMxTjR1X2xvNk9KWl9aT0JQMVlXMHp1cGR5Y25mdTBMejhHTXB2WGttOXpNQ05i?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 15:08:57 GMT"
     },
     {
-      "title": "한·베트남, 제조업 넘어 'N.E.X.T.' 협력",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CaEpqU3VKbWFHdGNLd1JYMzgtc2tWUmRRc3k2Wjcwb2o1OWpLWlFSTkFhMjAxeW1BVUNmZHNRS2UwdUJMRTFEVHZCUGd6UkgyenVQN0x1VlJxN1N4S3EyVWZB?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 14:00:00 GMT"
+      "title": "공모주, 반년 이상 보유 기관에 사전 배정.. 주가 급락 방지",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRZHltdU9RMWZiTmxHVWpLTHJjdkpXSmM1aDBlQVhSMUxQNkVub0JiZjJISFZyU29TOWxXQzJSTlJtSE1yWG9EajNVcEpOaTg1b2xvSXozeFRHMXRDOU1reUcyZ3hSeGVmQ3cw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 15:08:14 GMT"
     },
     {
-      "title": "트럼프 \"호르무즈에 기뢰 설치하는 모든 선박에 격침 명령\"",
+      "title": "[포토] 한점 더 달아나는 이글스 '5회초 솔로홈런' 문현빈",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40T2lmcFpURXBQekNzNTRNam95R0Y2R3pNMDNFUzdKeDBUTTRXQ01BUXcyZWNNYzlLaGtTZmFuRnlKUk03aGNVeVdCaFJySFAwMnl3?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 13:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YMTc2VmM2VTVuaXQyQjVkRDdWMWFwYWlFc25pVUhZUGx4Y1dDQjNSbldjbXhNZTh6ckFYRGIxd0ZIMFVRX0NpSTlDUnZzT3NHRjB5TENadTF1RzRlbWFhNTlZR2x0X3pKSkE?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 15:46:00 GMT"
     },
     {
-      "title": "트럼프 \"호르무즈 기뢰 부설하는 모든 선박 격침 명령\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFBSbFZXVGhzUUJTQXZZX0s1b2xXeTVRN2tYMUl5dDlKeTBQejJndUY1dUp6MmRZUDZWUjhxdXp0Wm5rV3lwNHVLUWFJSXRmdjV3T3ZnNHNJeWxUZllSWGNvUDIxU24zWmJwSGxobFFHempwTXpfekVsc2hYM3NhWDdwMjZLZlI4blpoRHM4cUkwRHNadjdZTUFHcHlnYWpFdnY5Uk9yWmw0TmJHTjZlaXB2QTB2ZVRaU1BNVdIBdEFVX3lxTE1fdXp3eG1CR094LWctWEU1WTJpZVVlQ19fcmYweE9rRlptcXpya2hJRW1MbTc1NHZpZlZ4SXMzMHozanAwNjZWT0I2MW5rYlR4Y0dzR2ZpTHNESExCTHVhYmZzSUFYcFZtVncwQkNHbEFtQ2JF?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 13:06:51 GMT"
-    },
-    {
-      "title": "박지원 두산에너빌리티 회장, 베트남서 원전 세일즈 성과…'공급망 진입 기반 마련'",
+      "title": "홍지민 '다이어트 성공했는데'…남편과 나란히 건강검진, 결과는",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUduVlVYc181a0ROUFJWN3N3VUNkaFJfYWkzNEh5Q3RFaE4ydjRpNkZ3aHh3R2xxenJPekYwVFBqa0FyRngtZU5td2RkWHRiTF82LUpqMms1Qmlyd2ZuWXdkMjdqX2tjRU10WUdKVlRkQjlWeFh0NXd2VVc4aVgxUmlUaVdENDdGemFlV3BZcldWQ09uQW9hVHRVRHRETXpncE9FVE5QaVNlVXVPYU1uRVRfeWltcHM?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 13:38:39 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlhyUVozSEF0aFF4MFg2dFRGQ0hDaHEtNENId0RLV0xPN1FnUm53blpLbGZ6RC1tTTlxUHNjZGtBMjRsLTZ4Z1VZbVotcmMxRDFLX21hNVg0Wi0xQUowOV9GY2t6bm5KR0NMQ1FGSG9UdjBEWG9aVllGM2RodFRvVWxsNk5yZk5hMjQzMVRwM3lsMTlXZy1DcEZYSXhBNlRxeG5yVVVrUlVOSW9IRnd0THNXMk1UV0JP?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 15:08:30 GMT"
     },
     {
-      "title": "[속보]트럼프 \"이란이 합의할 때까지 호르무즈 철저히 봉쇄\"",
+      "title": "[사진] 눈 감은 장동혁",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12bHU3Z0w4SEF1eHEzVFVOcGtkajVnaW94cVNXd2lVdDhVWUhvc3dadGs2U1d5bFI5X3NIdVVDdFNfNUxFYjYtVnh4LTc5YTM2M1Jv?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 13:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqVm5VcUdIVmRGcWRLV3hFU3FpbFhReGlKbEJUV0FsX2VWZVpTWUg3TDBrME1JRVdQVlJtRTBmTTViclJWazIzd0lKRmdvakNVUTNBVE82Y09kaEJ4N0RrNGNWeWkzc2Jsc2ZZcTRB?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 15:30:00 GMT"
+    },
+    {
+      "title": "\"'홍강의 기적' 함께 만들자\"…오늘 밤 귀국",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NSTNOSE04SXRyMFJrcF9YRTdyaVRrWnVfUlNTeGwwRjNpeEtnX0FKYkhKb3djUmI5THYzRnFlLXN2c3pGbW1MWHdUXzFyM2pNNDlj?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 15:38:00 GMT"
+    },
+    {
+      "title": "현대차 있는 울산 북구, 전·현직 구청장 세번째 맞대결",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xX3dBLTFqVmUybDdibFIxNlFMNU5DY2dFSU9RMnRqUmJFdVdFdjlNUnJYanM4QzUwZ1duU1QtY0Vfd3dqZ016aEd4VFZUT2FnY2dR?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 15:49:00 GMT"
     }
   ],
   "sources": [
