@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-24T05:40:05.206606+09:00",
+  "generatedAt": "2026-04-24T06:31:09.998087+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "6.9°C",
+        "temperature": "6.8°C",
         "feelsLike": "4.5°C",
         "highLow": "최고 22.9° / 최저 6.7°",
-        "humidity": "73%",
-        "wind": "4.2 m/s",
+        "humidity": "72%",
+        "wind": "3.9 m/s",
         "rainChance": "0%",
-        "pm10": "33.4 μg/m³",
-        "pm25": "31.7 μg/m³",
+        "pm10": "34.0 μg/m³",
+        "pm25": "32.1 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "55",
-        "updatedAt": "2026-04-24 05:30"
+        "updatedAt": "2026-04-24 06:15"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "5.9°C",
-        "feelsLike": "3.3°C",
+        "temperature": "5.8°C",
+        "feelsLike": "3.2°C",
         "highLow": "최고 23.6° / 최저 5.6°",
-        "humidity": "80%",
-        "wind": "6.1 m/s",
+        "humidity": "79%",
+        "wind": "6.3 m/s",
         "rainChance": "0%",
-        "pm10": "19.8 μg/m³",
-        "pm25": "18.0 μg/m³",
+        "pm10": "20.0 μg/m³",
+        "pm25": "18.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-04-24 05:30"
+        "airQualityIndex": "53",
+        "updatedAt": "2026-04-24 06:15"
       }
     ]
   },
@@ -161,15 +161,15 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "익산 최저가",
-        "lowestPrice": "1,969원/L",
+        "lowestPrice": "1,968원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-04-23 20:35:31",
+        "stationName": "㈜한영 부송지점",
+        "address": "전북 익산시 무왕로 1277",
+        "updatedAt": "2026-04-24 06:32:54",
         "districtSamples": [
           {
             "district": "익산시",
-            "price": "1,969원/L"
+            "price": "1,968원/L"
           }
         ]
       }
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (24일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NdmgzVk5OWXQ0UWJRT1Q4MWx6T2Q3QTdra3pua2hmR2VRQU5kSlVNdU50b1NUOXY5NFh3VzFXUXJodmZsVkRuZ1l5VnVWLTRfWkg2d1RmQmZab2M?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 20:00:00 GMT"
+      "title": "1부 오늘의 주요뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qVFhHUUFKWHl0VW84eENWMEo2aE5ZbnlWUWN2NmYtekc0ZnhUOUQyek1hcUJ0bTRyc1BZd2l5Njc5cXExclBtTmxmSF8wd3ZzeW90R2Zac1dDdWNzTE05Z0ZXTWRnU0Mzd01YckZiX2xad3RRSU5iOTVR0gF6QVVfeXFMTzZHZzRHeTdmRUVMR2MtRVNnM0laN1MydUxPd2hac2UwNHJ0cHJfZ0dudnFCTXQyNnNJdzMzakNLOURWU1UwZXMyYTV3ak9JZHpQdWVCNG9uMkZKME1HcHh3bHFpSmJmMmlNMG9zR0djc2tqRDdjQVhDbFE?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:02:24 GMT"
     },
     {
-      "title": "[속보]트럼프 \"이란과 영구적 합의 원해…협상 재촉 말라\"",
+      "title": "[코스피·코스닥 전 거래일(23일) 주요공시]",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tNEhwZGlZT3B4WTBHeEdrNlY0MWx6WXZJV3kwMkdRWDd6aFJ6RmpSS05peVBWMk45YWlDMTBFeWdmeUlEQzhtbklOVDNTekh6RFR0eklEWlJhZ3PSAWBBVV95cUxOMHo1TUFZOFpvQmh3b3Bud0tyX01TSkZ4eUloRHlHMnB0WUJkQU1iemtnRkg1VkZ4Z2toWFBCU3hrOUNyR1RhRVIyQllzVXQ1UGxYWEpWODVmTThRaDFyVDM?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:05:00 GMT"
+    },
+    {
+      "title": "[모닝와이드] 오늘의 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NRzB5Qko0eVF3R3piVHYtdVo3OWd5dV9DaEowNmwzQ3JJSGNDTFVvYlphYVRuZXJlU2xJUG4yd0RWWS10QkowQnRzaHJYQlJEdU5lZ1I5ZGYtejNheWFFb0ZjLUxxcl9Kby1mbHR3ZHhsczFPR0tQaA?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 20:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uaHQ5SE00dm9acVQ2MlBNU0IwUXJ3TE1nYnAyTDIwdGxxWWVXQkE2NXI4WFpjbW5nTWxpZ3ZWR19VTnNVbjEtQm5BSHJCMC1lN2pVeTl6Z1hOUWg1VzFkdE8tbDU5LUhUNXpKeVJZc1BmVXZkaWhNdw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:12:00 GMT"
     },
     {
-      "title": "뉴욕증시, 중동 긴장 재고조에 하락 마감…나스닥 0.9%↓",
+      "title": "[Trend&Bravo] 나이 들수록 아깝지 않은 지출 Top 5",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibGxtYjFKYXd3RXdYRmdwYUtjclluWFhIWGFqbVEyVHpidjZZMXZ3NzVEZFpkRFdFWVhVajlFN1FrelFqVGc1Ul9sQzRpNmFXdUVuWmxTdnFhZw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:00:00 GMT"
+    },
+    {
+      "title": "'1억 송이 꽃의 향연'…2026 고양국제꽃박람회 개막",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3pSU3NuUmpzN25YSWpseHRIc1I1eVQ0VjUwZE93S1lNQU93N0hUMlVaZ2dLeUw4MURxQzJBOXhCT3hwdjgwVXh5ZDl1c2NzQXpPbzk2cnVrQ2ZEb2Z2eXY1d1B3VDQtQU9zTk1hQk1XbFJTZjk0d0FsbThTOURNcWx5Z3FKUzBQMVdoWVowbl83RkdpeXJaZU56bW90bXBwN3JFM2xHbTdpU3JJTnFUeXFwSElfeU8tWnc?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 20:09:22 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1VZMGJYUEVhUmdjcDZONVdnblY5Q1RNbnJ3S2V1RU9jOHpZOVJncU5nME0wZDVHakpWb3ZqZlZIZGRBN01jWjV1XzR3dGxkYzR1VDFPNVBucm9zcVFZN1YwSGxsOVVncFp1NnFNU3R5QVZMVHFqYVpUOFJhdDRieVpmT1ZvSmM2RzdwSU15OXNCa1hzSE1mZEtvQUFjbzhRZUFzSWJxY2xURGxhUllDT0VoMDIxZ21zSnc?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:04:21 GMT"
     },
     {
-      "title": "한국 언론, 이재명 대통령 베트남 3박4일 국빈 방문 집중 조명",
-      "source": "동포저널",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIa2FCdDdPMzVHTS05M3o2ZmJVNHplMkhBdTczc0kteFZDQzNPQkV1cnRWbjRkZG5zaDNZYzM0UkJ0WDA2Vkx1R2RMaTU4eEtHTl9vNXZWX2dxcEM5QjdVYTJRbXZuWGNiMW5ZOEswcUZoQVE?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 20:06:11 GMT"
+      "title": "선박 나포 영상 '맞불'‥이스라엘 \"전쟁 재개 준비\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaEVIWnA1X1JVQW1uMWJENi1UaUVsMTIxVDFOU1p6Znk1LXVYMHIxaXdWT0xma2E3X21NR2tVM3VVRTNuaVN0dnptc2M2UmhaNGhsbmpYTkNMUlN2eVR6dFpFMTZTVkZmRkZsZTlkQjA3enoxa2RLQktB0gF6QVVfeXFMT1NTV2xtZ1RxNThlMU8tbHZncksxLXN3ZXN1a2hhZTI1ODN0VDZzOUg1QlVFR0E3azVwMlNHZTRPVmZNMjZFQnRlZnpNb3dIZmFGUzYyT2loTVJBWlJBUVdXcjF1THFNTUtLY0xHUjlJZmFlTUlRQXZCT0E?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:06:37 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 울산(24일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qUDNPdXEzSUVjXzZ5V203eGpqZkdJcmFpaGZVTFF4NUthcFRSTlNDUXoxY0dhNVNYNGt1cG9UaHk5MjJnbWxOcnowTnR3V0ZtdkE?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 광주·전남(24일, 금)",
+      "title": "\"미국, 오는 12월 마이애미 G20에 러시아 초청한다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMNnNqWE82dkV3LW81RWl5YXF0VzR5SzNicW5WdkFJZXp3ekhJUmdZMWp4REZtT3lRVWNHQTJ3ZFhPS0h6Zm5wd0JXYVpqNGd0SklN?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95OVIzMjRFb1BQaGVrc0NVeTB4eEZxRVptTzYyQzJZUmM2S25lNmRZYmMzNGkycUJlU2htOFdid0ljZGVLb0ROekNvbGJCM1p1Y0VTM0UwY0p0VWlMVHBraQ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:26:00 GMT"
     },
     {
-      "title": "[뉴욕유가] 다시 전운 감도는 중동…WTI 나흘째 급등",
+      "title": "연합뉴스 'Y-팜 엑스포' 개막…AI농업이 여는 K로컬의 미래 알려",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWVFyM0Q0anlmYWd0SHNUNXdVRWkxTzEzczd1TnQzV1RybEZsTlFQcmtYSHdmVHgtTkQtRmRpUTZoVzJhSEZua1pQT1pXb2d0THZuaG9WNWNEZFhzUGptLWQwOVI2c24tWVl4QVFHTjd0TVVzeWEtajVkVnljbG1MbjVFOFQ5NnFIZmV0eDNtYXpxU3VrMmpEV3dHbmhzQ3k1M19xekxfQ1VtTExwb0N2ZGMyUVE1UzJheHJ3V3BkdXh5RjgyQUlkQzRVTQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 20:04:16 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFcwY3llQWRPckZuc1FNamloblMwTTZnaUgzNlkyTnZES3BpY3JXNzF2blNuczdzLVRUS0NwaEZMY0FlbVFEZHRFalZZWTFlVDdQU0JuaVZLd0dkMjFQWkUxRnpEblI5VWlnam5EOHVSZVhFOVU2b0VVSWhQRC03OUpJd05BU2dLbDBpLUlBakIyZGMtLWtuZDhkeWN2STlHRk1ZMkpsUzRlOFFJOW1zQXN1T1FkUFFwZjl3?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:04:21 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(24일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Td0o4WkFRZmxCaVNhcW83WlVLbFc2TXA3ejQyeFRCLXZxVm1TaTY3Y0ZPVjdZenlUbjFwdWxBX2pLWl9SRnFHX1JFeVlQdnQwbnVJRW1nQXVaY2diN3RN?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 20:00:00 GMT"
+      "title": "[속보] 국제유가 상승…WTI 3.11%↑",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdmFYTzF3WmRsYXVVU0NvNGcyYndhQnlWZEVYRFVVaGQyMFBKekFaR0VUTzRzQWpDMWt4TWY1aTA5cjB3QmU4bWVwbVp0b2hJNU9NaXlqeEhmV3RaNkFac2NiQTczWTN4V3BWdQ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:16:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(24일, 금)",
+      "title": "[속보] 국제유가 상승…WTI 3.11%↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ScUwyYTBLcGRkX20zRnlzQzFURlNtS21mZFdzOFhlcmVUdU5Xc3hTNEdsc1VETWYwYkI3c3dHRS1Ud1ozeUV1YlpDSjFYS1pCZTZ1Nld1ZFdjTjJOUEVmNVR3cHpWT0RMVTRWZjNSQm1JR0MzUktpaA?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 20:01:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 전북(24일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRMDZleGkxZlA1dGdNcnR0QW9xQlVDZk81UXhlUm9UakFQR1RXczNDTmFjZG9XUEV2Wjl0TzVocElZLTU3SHNWY2RMMEpmcC1FcEhwOQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMXR2UWVBWVN1WW43eVRlZmowcDlaMHVUS1dGalRiWkw2UDdxdGVKaU50cnBsZFF0ZDYtbWRweG4wVWNzRzlianBIS1VhSVZfN1l2U2Z1SXU2eG9TNTF5Rw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:17:00 GMT"
     }
   ],
   "sources": [
