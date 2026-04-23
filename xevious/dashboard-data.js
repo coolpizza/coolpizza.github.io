@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-24T06:31:09.998087+09:00",
+  "generatedAt": "2026-04-24T07:10:14.339658+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "6.8°C",
-        "feelsLike": "4.5°C",
+        "temperature": "7.3°C",
+        "feelsLike": "5.1°C",
         "highLow": "최고 22.9° / 최저 6.7°",
-        "humidity": "72%",
-        "wind": "3.9 m/s",
+        "humidity": "70%",
+        "wind": "3.4 m/s",
         "rainChance": "0%",
-        "pm10": "34.0 μg/m³",
-        "pm25": "32.1 μg/m³",
+        "pm10": "36.1 μg/m³",
+        "pm25": "34.5 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "55",
-        "updatedAt": "2026-04-24 06:15"
+        "updatedAt": "2026-04-24 07:00"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "5.8°C",
-        "feelsLike": "3.2°C",
+        "temperature": "6.9°C",
+        "feelsLike": "4.5°C",
         "highLow": "최고 23.6° / 최저 5.6°",
-        "humidity": "79%",
-        "wind": "6.3 m/s",
+        "humidity": "75%",
+        "wind": "4.9 m/s",
         "rainChance": "0%",
-        "pm10": "20.0 μg/m³",
-        "pm25": "18.3 μg/m³",
+        "pm10": "19.8 μg/m³",
+        "pm25": "18.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "53",
-        "updatedAt": "2026-04-24 06:15"
+        "airQualityIndex": "49",
+        "updatedAt": "2026-04-24 07:00"
       }
     ]
   },
@@ -177,16 +177,22 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "1부 오늘의 주요뉴스",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qVFhHUUFKWHl0VW84eENWMEo2aE5ZbnlWUWN2NmYtekc0ZnhUOUQyek1hcUJ0bTRyc1BZd2l5Njc5cXExclBtTmxmSF8wd3ZzeW90R2Zac1dDdWNzTE05Z0ZXTWRnU0Mzd01YckZiX2xad3RRSU5iOTVR0gF6QVVfeXFMTzZHZzRHeTdmRUVMR2MtRVNnM0laN1MydUxPd2hac2UwNHJ0cHJfZ0dudnFCTXQyNnNJdzMzakNLOURWU1UwZXMyYTV3ak9JZHpQdWVCNG9uMkZKME1HcHh3bHFpSmJmMmlNMG9zR0djc2tqRDdjQVhDbFE?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 21:02:24 GMT"
+      "title": "[AI기자의 News Briefing] 4월24일 오늘의 주요 뉴스를 전해 드립니다.",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85UDJieGtfTE5ZWG5Ma29udFVVMXFURVIxOFF1ak9LT21oalliNFBrR0twWU45YWc1U3R0enNFUUotOG8wRzY3TnhaT19EQk53UXhpRTkwR0ptUldqRHE2bjI5dkp5X0pqZnc?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 22:04:47 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(23일) 주요공시]",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tNEhwZGlZT3B4WTBHeEdrNlY0MWx6WXZJV3kwMkdRWDd6aFJ6RmpSS05peVBWMk45YWlDMTBFeWdmeUlEQzhtbklOVDNTekh6RFR0eklEWlJhZ3PSAWBBVV95cUxOMHo1TUFZOFpvQmh3b3Bud0tyX01TSkZ4eUloRHlHMnB0WUJkQU1iemtnRkg1VkZ4Z2toWFBCU3hrOUNyR1RhRVIyQllzVXQ1UGxYWEpWODVmTThRaDFyVDM?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 21:05:00 GMT"
+      "title": "4월 24일 굿모닝 MBN 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZWXZxU2FrMFpMdFBhY3VDWGloUlVnSUJYVHFILVF3ejRjeG8wV05XZFpLdFItejdnbG9KTzlQeV8wbTlHX00wRS1qOTJXejRGUDBCaU5vWWNjY1ZvVWwzWg?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 22:05:00 GMT"
+    },
+    {
+      "title": "[26년 4월 24일(금)] '발표 15분 전' 소름 돋는 타이밍 \"또 미리 알았나\"…6400억 수상한 베팅 - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSUpKa0pxTmRYT3lHc2o5NVNRS3g5bl9zbC1VX013eDdoYVZGajJXd0F2cHZVdjFEckxxSFVzMWJLR3hiVXpiQzE1Y0s3eS1fYkF2VEthdjdfX2ZLUDR2djdRRGhWNkpnQ2JadHdkdFRORXNWTEo1V19FbVhLbmhqZA?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:23:25 GMT"
     },
     {
       "title": "[모닝와이드] 오늘의 주요뉴스",
@@ -195,46 +201,40 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Thu, 23 Apr 2026 21:12:00 GMT"
     },
     {
-      "title": "[Trend&Bravo] 나이 들수록 아깝지 않은 지출 Top 5",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibGxtYjFKYXd3RXdYRmdwYUtjclluWFhIWGFqbVEyVHpidjZZMXZ3NzVEZFpkRFdFWVhVajlFN1FrelFqVGc1Ul9sQzRpNmFXdUVuWmxTdnFhZw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 21:00:00 GMT"
+      "title": "[속보] 트럼프 \"이스라엘-레바논 휴전, 3주 연장될 것\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11NjFJR1JxN1NqU3VGM3lzX1NuY1RtQnoxOVA3aG95alNLT1dlOTFoc1N3bkNYNkRqMWZQYVY2ZGNYVDZoTGxHZDRyUVVFMUItQWZj?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:46:00 GMT"
     },
     {
-      "title": "'1억 송이 꽃의 향연'…2026 고양국제꽃박람회 개막",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1VZMGJYUEVhUmdjcDZONVdnblY5Q1RNbnJ3S2V1RU9jOHpZOVJncU5nME0wZDVHakpWb3ZqZlZIZGRBN01jWjV1XzR3dGxkYzR1VDFPNVBucm9zcVFZN1YwSGxsOVVncFp1NnFNU3R5QVZMVHFqYVpUOFJhdDRieVpmT1ZvSmM2RzdwSU15OXNCa1hzSE1mZEtvQUFjbzhRZUFzSWJxY2xURGxhUllDT0VoMDIxZ21zSnc?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 21:04:21 GMT"
+      "title": "이스라엘, 공격 재개?…이란 테헤란 방공망 가동 \"휴전 후 처음\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vMnZ6UDBKUk5CM0E0dGI2QXBlR0JhTTF3bWxmVlVYWFNSZUFCLXh2ek0tWGNZdGFnc0Y2NFcwTUZxQ2JYLWdwMnRXOUNHSzVMR1kw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:33:00 GMT"
     },
     {
-      "title": "선박 나포 영상 '맞불'‥이스라엘 \"전쟁 재개 준비\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaEVIWnA1X1JVQW1uMWJENi1UaUVsMTIxVDFOU1p6Znk1LXVYMHIxaXdWT0xma2E3X21NR2tVM3VVRTNuaVN0dnptc2M2UmhaNGhsbmpYTkNMUlN2eVR6dFpFMTZTVkZmRkZsZTlkQjA3enoxa2RLQktB0gF6QVVfeXFMT1NTV2xtZ1RxNThlMU8tbHZncksxLXN3ZXN1a2hhZTI1ODN0VDZzOUg1QlVFR0E3azVwMlNHZTRPVmZNMjZFQnRlZnpNb3dIZmFGUzYyT2loTVJBWlJBUVdXcjF1THFNTUtLY0xHUjlJZmFlTUlRQXZCT0E?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 21:06:37 GMT"
+      "title": "[속보] 국제유가 상승…WTI 3.11%↑",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VVXNsRV90blJaODJhWk5GdjZwNjdoUW1ibnBzdUtxd0s0R0ktVFR0Q1BvUlRYRFpZMVBBRXQ0SjBRQmczUlBCU0wtbWJzUnZyTWJvVDEwQUpZODE3MVVfWXBPelhLZ1M0X0t2UFpCakJoajNyX0RHNQ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:17:00 GMT"
     },
     {
       "title": "\"미국, 오는 12월 마이애미 G20에 러시아 초청한다\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCQlBfR1VuUjdDSlN5VmU1dVV0dFV1dF9kaHNaR09EcVdZUG5WWG1oYm10ZjhhZTRBYjBrcjV4c3FMMEo5eFFRaEdDU1o5TnYzZ3drbVkyb1M?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:25:41 GMT"
+    },
+    {
+      "title": "[4월 24일 간추린 뉴스] 그랑블루 판타지 리링크 완전판 등장!",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kRWVnaTlZZVcwWnpJeGlvZkZuX3VVZ3J4REZiN3hVeUJzNURsck9RQTJ0cEF3c0RXaXR3bTg5UVNUZl9hU0ZYVmROaUppU29vajl4d1hmckE4THZOaUE?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 22:00:01 GMT"
+    },
+    {
+      "title": "[속보] 뉴욕증시 하락…다우 0.36%↓",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95OVIzMjRFb1BQaGVrc0NVeTB4eEZxRVptTzYyQzJZUmM2S25lNmRZYmMzNGkycUJlU2htOFdid0ljZGVLb0ROekNvbGJCM1p1Y0VTM0UwY0p0VWlMVHBraQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 21:26:00 GMT"
-    },
-    {
-      "title": "연합뉴스 'Y-팜 엑스포' 개막…AI농업이 여는 K로컬의 미래 알려",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFcwY3llQWRPckZuc1FNamloblMwTTZnaUgzNlkyTnZES3BpY3JXNzF2blNuczdzLVRUS0NwaEZMY0FlbVFEZHRFalZZWTFlVDdQU0JuaVZLd0dkMjFQWkUxRnpEblI5VWlnam5EOHVSZVhFOVU2b0VVSWhQRC03OUpJd05BU2dLbDBpLUlBakIyZGMtLWtuZDhkeWN2STlHRk1ZMkpsUzRlOFFJOW1zQXN1T1FkUFFwZjl3?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 21:04:21 GMT"
-    },
-    {
-      "title": "[속보] 국제유가 상승…WTI 3.11%↑",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdmFYTzF3WmRsYXVVU0NvNGcyYndhQnlWZEVYRFVVaGQyMFBKekFaR0VUTzRzQWpDMWt4TWY1aTA5cjB3QmU4bWVwbVp0b2hJNU9NaXlqeEhmV3RaNkFac2NiQTczWTN4V3BWdQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 21:16:00 GMT"
-    },
-    {
-      "title": "[속보] 국제유가 상승…WTI 3.11%↑",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMXR2UWVBWVN1WW43eVRlZmowcDlaMHVUS1dGalRiWkw2UDdxdGVKaU50cnBsZFF0ZDYtbWRweG4wVWNzRzlianBIS1VhSVZfN1l2U2Z1SXU2eG9TNTF5Rw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 21:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02aEJDc2tVRXNjdE85bjNzeVdxcEJDcTJ3Q0t4ZFpzb05XRlRmYVZieGZQMEpkdHJ6a2c3MEJxOTdMN001anA1eFRmVVF4MXAxZlRiYU1SMFYwOTU4eDM3YU9qeGtkTnc5OXY2YjZXVjdIaXFSUmlyeQ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 21:11:00 GMT"
     }
   ],
   "sources": [
