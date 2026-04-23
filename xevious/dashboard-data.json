@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T08:00:40.060578+09:00",
+  "generatedAt": "2026-04-24T08:45:04.363027+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "8.7°C",
-        "feelsLike": "6.4°C",
-        "highLow": "최고 22.9° / 최저 6.7°",
-        "humidity": "64%",
-        "wind": "3.4 m/s",
+        "temperature": "10.4°C",
+        "feelsLike": "8.2°C",
+        "highLow": "최고 22.8° / 최저 6.8°",
+        "humidity": "58%",
+        "wind": "3.0 m/s",
         "rainChance": "0%",
-        "pm10": "37.7 μg/m³",
-        "pm25": "36.3 μg/m³",
+        "pm10": "38.0 μg/m³",
+        "pm25": "36.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-04-24 07:45"
+        "airQualityIndex": "58",
+        "updatedAt": "2026-04-24 08:30"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "9.2°C",
-        "feelsLike": "7.0°C",
-        "highLow": "최고 23.6° / 최저 5.6°",
-        "humidity": "67%",
-        "wind": "4.7 m/s",
+        "temperature": "11.8°C",
+        "feelsLike": "9.8°C",
+        "highLow": "최고 23.5° / 최저 5.8°",
+        "humidity": "59%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "19.0 μg/m³",
-        "pm25": "17.2 μg/m³",
+        "pm10": "18.9 μg/m³",
+        "pm25": "17.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "50",
-        "updatedAt": "2026-04-24 07:45"
+        "airQualityIndex": "46",
+        "updatedAt": "2026-04-24 08:30"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[AI기자의 News Briefing] 4월24일 오늘의 주요 뉴스를 전해 드립니다.",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85UDJieGtfTE5ZWG5Ma29udFVVMXFURVIxOFF1ak9LT21oalliNFBrR0twWU45YWc1U3R0enNFUUotOG8wRzY3TnhaT19EQk53UXhpRTkwR0ptUldqRHE2bjI5dkp5X0pqZnc?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:04:47 GMT"
+      "title": "[전국 주요 신문 톱뉴스](24일 조간)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZLVRVd3o1TUs5N0hxNnZYODl5VUxfSlZuRGlzSC1RVWVTcHd3enRCWUVuSWt6bUdTQktIdXFtbV9zdXdSal9zbnZoeFFaMHpJOXJPSzdnT0pfQmvSAWBBVV95cUxQUm9QaU9LUVVOLXludmFhX0JFMGhYRkRRM2ItSE9zWFFhVkQtaURnNlA2U2lkWmUtcEJ0TU9USkxWWEc2c3ltdXEzb1lJM1I0YXVqdXFpQ0RybGNjUncxYlU?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 23:00:01 GMT"
     },
     {
-      "title": "4월 24일 굿모닝 MBN 이 시각 주요뉴스",
+      "title": "유가 급등·중동전쟁 협상 불확실성에 뉴욕증시 하락 마감[뉴스새벽배송]",
+      "source": "이데일리TV",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rMElDXzUwQ3BjWERUT2d4bXppeEhJSzhpWDRDc3RrSUJNMWpFSncxazdoSjVEV0V5Smx0aHJZbEs1R1FEWGF4R0RhS3hUdU4xSF9UTFJ4bTBlOU54TldNS1hLd25MRHdGQ3VJWTdjN2tMM0ZCVUhZdGowOA?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 23:03:00 GMT"
+    },
+    {
+      "title": "[아파트값 상승 톱10] 서울 송파구 '문정래미안' 등",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93YmdwdENMQWtxYXBMcW5aX245SlB5NmpGOXdUc0laTnk0dWlDTXdJWTJpb0REOERPY1Q2dExTWVFCRnNqUk5PTE1BN19nVlZ6QzZv?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12WWRHOERwelhfUC1HTFdmYjgzUmx2X05nZEh6YVJYMmdJUHVUX2JrcWl5S3Bqc25sM0kyS0pVT1lKcnkyUkZvZ2ZNWGRPdy1odHBOY1lGZ21xMjNuSEVIbXZZSlYxM0tVbDlFajBOUV9CckRnOTRDOQ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 23:31:00 GMT"
     },
     {
-      "title": "부산시·부경대, 석·박사 37명 양성해 해양수산 기술 개발",
+      "title": "4월 24일 아침 뉴스: 오늘 아침 국회는 연간 5억 VND 소득세 면제 기준액을 폐지하는 법안을 승인했습니다.",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVNHcmJtWnViRTJPNnp3djFYUW12MVA5UUd1NzJEOWhpRENzMGFobnptOHpIdG1tOHFPMHNDQjE5N2FQN19rT0YxVnNGTE52OVR0MF9KNjRiQllZX0hDZUNpR3ZKMFhjcjJEazgwT0ZGU2RaZnhubnZ4Yk56S1RIdk84NkN5Ml9ubFdURFFQQ0g2UkdOd2xYQ2NlWkRQdUNNUWdQWXJaa0hzS3RLSFRVb291WWZ1UVJkeUtkcQ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 23:31:39 GMT"
+    },
+    {
+      "title": "수원특례시 결산검사위원, 주요사업 추진현장 점검",
+      "source": "케이에스피뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5TkpNY3dPWmdiTXQxR0VybHpOOWEwR0c5bXlieGM0SGNIb2dPZGU0ODNxbnBjNVdUWUFjYjJUaUN1eWxE?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 22:54:00 GMT"
+    },
+    {
+      "title": "시흥시, 광역 긴급차량 우선신호시스템 구축… 골든타임 사수한다",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQXhqZy1IYUtRZTI0NmQ4RExLcTVrdVNsZnRuWEg5Mzh5clJvekNrRXhiM09SX2JFakEwQ0Z2ZHdjM3JLUEN2UEtYeGEwMkc5d3ZsWVVlakROQWhOWWJkYi1kVlNwbUdWZ0huZklra2FnNGhUSjdDQ2FYZmJybE9KUmhDLUhyYUJIWnlFSm54SEtoVFEtOXRzdXBxMmZ2VzVza3RjZEV1eVRVWl9yRjRKS2YyeWVETUx1?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:59:57 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUERVbXZuNGpnaGJsXzNERmY1OWRMUHJfRTRfUmFWWU5FRkxMLUZRcGNXdHc3MUt5Znc4eFdQZ3B5alhZWXk2MWYyTVFaZllUbkVBOVFWSXJZZFBiOXEybE9HVlFlUVRZQjFCb1o0dE9kUl9ZaUJGRW94c1Q4M3EzeV9SWEU3ZGl6UVNpdnh2UVhnZExMcEVuSnRhbm51Z2FFcW95Nl9FUkI4VTlCTU5DSU1CMkV1Wmo2?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 22:55:04 GMT"
     },
     {
-      "title": "[아주증시포커스] 황제주 4개서 9개로…증시 랠리에 고가주 급증 外",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bG9yc2xNTFgtU3ZOVURISVdaMzJaQ2hqOXQ1dXVYa1ZhRF9iclJ1SkVZVm9MdVBYbndQUkxKNGdWMnI5djRvREtKdEgxTEdfX3Q1dG9VOG9qQdIBWEFVX3lxTE9WZjZ3U3ZMN3RQbjdvUThZZlBxeF9uOG5VSEpFeUpoZmE5SV9VWkVIdUdlN3dUMWlZOWR4d2lHWEotWmdBb0E1b2FfZm5lTmJMd1pMQ0paUDE?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:49:25 GMT"
-    },
-    {
-      "title": "한국 1분기 GDP 1.7%…반도체 수출 주도, 5년 6개월 만에 최고",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWUXFmTDhlYWozQm81VnN6LWhkTERkVW9oMF9EaXNRTDdlcThUbDZva25CY09ZMUNUUHFSVFhPSmFUZjJFZWVhc0lOTUM4ZUlzMllSXzhQUmttS2RJ0gFTQVVfeXFMT1J1azNSR2hsS1UzbzFQa2xabHFCOUd3R09ZNUkxbmpYMnVVcm9QVzNjZjJpZVlUYS1ybi1KQkZHSmtXNWVHVExtbFZVTFhTTzhlSDQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:19:09 GMT"
-    },
-    {
-      "title": "외국인 소비로 지역상권 훈풍 기대…부산시 지역쇼핑관광 활성화",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONVRnam04akJoX1VSUy1ZMm9MdVV3MHBUdXZJNW5IVlpRaDVrdmVlNmhvdXFWOTJtYUVOTXdWUHVnLUI3QmcxVHpQaGc5UEczc2dLRWlnMWhBaXpWcEEwUU1mZWJRcDhRNHF3T2xUY0lMVTVvQzdmRkpxX05vdkMwdnA2bnpRTUU5Z2FxTXFiWGVweGdjSm1SM3NsRVNfSmVhdGFhbTh4c251LUM0WlJrWkU5OHl4OE1WLWc?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:59:57 GMT"
-    },
-    {
-      "title": "4월 24일 굿모닝 MBN 주요뉴스",
+      "title": "이마트, 어린이날 맞아 장난감 최대 30% 할인",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OVlVZdFp4M1JmMFJkc2hFME5zbElwSGU5enJ4ZWZWMThlbXBvbFhlcGd0SFpfbE0tU1RhSF94UFZ1WGdfSWZOby1OWENKQ3k4RjBj?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JTFcxei1mV1RuVm1MWVhfWl9pcEtxQ0xpell2UC1Bd3U1OVFjV19UTjlNNnhQSnlpQTdsSmJldGFFM0JoVzlydURQZ0UzeG9JM3ZN?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 23:20:00 GMT"
     },
     {
-      "title": "부산문화회관서 사회참여 미술 전시전 '무빙 온 아시아'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRlRETzFGM1RiSnFyNXZ2bmkzRWUzbVowSlpQOXo4NHRuVVgxMGczU1Q1M0Z0Mk5wMWFxbWlOVEgwcFlSWEhwV0NfS2RRREhnMU5sS2NWYUtGcDBfRlVjYzMwV1ZJNkk0X1hEZGVacmhVTWszZndxTDdUVGl0U3BHWFB6eDJyOUlKVjdicUF4cUp1WHZIZ2RqbllvUXBiOFZCVkRkRXpVRmw2OXhFd0lsUnF2TzlPa0Ju?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:59:55 GMT"
-    },
-    {
-      "title": "중동 리스크에도 버틴 원유…나프타는 12.7% 급락",
+      "title": "신세계백화점, K뷰티 중소기업 베트남 진출 돕는다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fa19vWlRtbUlqNHIzcml6UVkxU001Y2h5S1NDaERWN2VRbzdiOTZEWXA5NDRCUlpYWEt5ZHVRS0NpNkRIcE52U29pTmhOM24zWldtS2hIdS14QkpyWjd3SQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qZHA2TG4zaWhoTTFLMUVTaXBrQkdrMXJFWElFcW4tcWt6dWJBMjBwYVN0Mkp5RTlwOU53NHVwUy1McDlrOUhmYy1pSzBsclB6ak1xMld4LUgyN3l1TEZxNw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 23:06:00 GMT"
     },
     {
-      "title": "[iM금융그룹 출범 1년] 체질 개선 속도…황병우 회장, 질적 성장 승부수",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORzNzZGt4d1BlR0ZFWVZMaTFETzIyekozbGVUVTY3Y1NZbmZHaW9YYTZia3poYV9aM0xJWngxdlhTTDZpdXRNOTE2YVBSTXVkd0k1NTh2b256QUlEa0hHMDJ1cEk2a3pSMHpyS3dkZnJGbmRDLWUtdUtPUGx4ZEVaelN5NlM5Nm1KOTlCT2tKQXlFYWhvX1dRWDl5bFZLWkRUMFQ0dUxLeVBxaTdabTFNY0wyYlV1TmI1c1E?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:54:37 GMT"
+      "title": "미국 \"12월 마이애미 G20 정상회의에 러시아 초청\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GRGpyV2U1anFDY0xPWElNczBUSThPWlhKVnhpc05CZmxTWFRqeTJRT0FiMlJCOTR6LTJ2OFcwQ244Y1BOOWdzQlNYZ1RTeFo5ZGZvODYzYjdTa2w1Yndlei04T1Eya2VMSWZMNjc5bC1rUE5wVEpQeg?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 23:01:00 GMT"
+    },
+    {
+      "title": "김택진 엔씨 대표 \"AI 시대, 통찰력 뒷받침돼야\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTlNYRUc2ZE9YNWxuZVhlam9HQmc1MWVXVHRSc3BuNW5fR2RRM3c0eUp5T1FTQVVWbnByMW1DZERyVm9PcGs1cURwWDJ0XzhTLTlUZjhXckpnamZMai1OZnVIN3NLd040VkZsemVZMkxXSUtFRW05Zw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 23:37:00 GMT"
     }
   ],
   "sources": [
