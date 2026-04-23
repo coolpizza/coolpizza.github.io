@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-23T15:28:50.732668+09:00",
+  "generatedAt": "2026-04-23T17:23:47.037309+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,463.20",
-      "change": "+45.27",
-      "changePercent": "+0.71%",
+      "value": "6,475.81",
+      "change": "+57.88",
+      "changePercent": "+0.90%",
       "direction": "up",
-      "updatedAt": "2026-04-23 15:00"
+      "updatedAt": "2026-04-23 15:32"
     },
     {
       "label": "코스닥",
-      "value": "1,173.69",
-      "change": "-7.43",
-      "changePercent": "-0.63%",
+      "value": "1,174.31",
+      "change": "-6.81",
+      "changePercent": "-0.58%",
       "direction": "down",
-      "updatedAt": "2026-04-23 15:24"
+      "updatedAt": "2026-04-23 17:14"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,480.3492",
-      "change": "+1.39",
-      "changePercent": "+0.09%",
+      "value": "1,483.0450",
+      "change": "+4.09",
+      "changePercent": "+0.28%",
       "direction": "up",
-      "updatedAt": "2026-04-23 15:19"
+      "updatedAt": "2026-04-23 17:06"
     },
     {
       "label": "100엔/원",
-      "value": "927.63",
-      "change": "+0.63",
-      "changePercent": "+0.07%",
+      "value": "929.02",
+      "change": "+2.02",
+      "changePercent": "+0.22%",
       "direction": "up",
-      "updatedAt": "2026-04-23 15:11"
+      "updatedAt": "2026-04-23 17:14"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "19.9°C",
-        "feelsLike": "18.2°C",
-        "highLow": "최고 20.0° / 최저 7.8°",
+        "temperature": "19.2°C",
+        "feelsLike": "16.5°C",
+        "highLow": "최고 20.2° / 최저 7.8°",
         "humidity": "34%",
-        "wind": "8.2 m/s",
+        "wind": "7.4 m/s",
         "rainChance": "0%",
-        "pm10": "10.3 μg/m³",
-        "pm25": "8.6 μg/m³",
+        "pm10": "9.7 μg/m³",
+        "pm25": "8.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "56",
-        "updatedAt": "2026-04-23 15:15"
+        "airQualityIndex": "53",
+        "updatedAt": "2026-04-23 17:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "22.5°C",
-        "feelsLike": "20.7°C",
-        "highLow": "최고 22.5° / 최저 6.5°",
-        "humidity": "43%",
-        "wind": "16.0 m/s",
+        "temperature": "21.3°C",
+        "feelsLike": "19.0°C",
+        "highLow": "최고 22.7° / 최저 6.5°",
+        "humidity": "44%",
+        "wind": "13.0 m/s",
         "rainChance": "0%",
-        "pm10": "27.5 μg/m³",
-        "pm25": "15.4 μg/m³",
+        "pm10": "22.6 μg/m³",
+        "pm25": "14.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-23 15:15"
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-23 17:00"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[오전 주요 국제금융뉴스](23일)",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zRGNoNGdmM3ZrMElwUnpKRHZEWVFNUUprMktDNndNTnZlS193bUUzTjNObjJBS0hrQTNrekxBLXU5QzMzZ0tscGlfLUtzNzRwMEFDWEpPeHBDTnkxcDZTVDU1R1pWQ2JXRmpHRXZ2Z0zSAXRBVV95cUxPRTd5dWFzcGp6X1BQa0NFSy1Ubjh5V1VkN1YyMnF1czFLc3MycnoxbDBoVmk5Vk5mZ242dXJvcGstRWtVQ2p4TUY0ZDhhZ3JnUG9hU3ZlREhCcm02Z052WE03QlBrTzhMV1pQMGMzVGdFMFF2dA?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 06:14:35 GMT"
-    },
-    {
-      "title": "하루 10분 호주 뉴스: 4월 23일 목요일",
-      "source": "SBS Australia",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSjZRMUVBQkRhcE1ON3k5ZlJ3Nk5PYm13am14UmdxSl9TZURiNUZ5WWdHNy01NDFsWEVfeEw1TWZ4LVc1RXVDREFKRHpFVFp2ZUs5Mmd6S191U2YyMEktWENyVmRNUGxFeF9mS0lMNTd1MlUtU3E0YVdPNWpGRTlDNkMzM1NUODNTNEkyX2xWS2Nldk9EOS1V?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 06:27:58 GMT"
-    },
-    {
-      "title": "2026 거제 정원산업박람회 개막",
-      "source": "거제저널",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YR25TSlpYUTZPeXhHNmVyYmkzYjN0SS1UUkJuZi1zbHhadkVEcTN5XzR6N3drS3JENDdLWENjNEtrWEtJYVdENHBqX2tMMnlMeWszMld4SjZwUW1VTjdkSTBYN3M4N01yQlBUWGNSTkN2VkE?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 05:31:40 GMT"
-    },
-    {
-      "title": "[인천 주요 뉴스]인천시, 28일 중장년 일자리박람회 개최",
+      "title": "[신간] 디자인 필수 3대장 담은 '된다! AI 디자인 2026'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kdzhTaWhybEVBZmF3RUE4dXdTWloteUU3UERkSjdVTHVLeTRxY01HaU13MFRYTkJfcHBwcFFQUzBhVGFNWUpSUW12SlNSQlVsZmxJ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 06:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PTl9oaDVxb3htU1Nrb05mSTZJWmN3QkFuUC0zc0hzbGFueXNxVm5vbFpKcE5aWDFCMXU4OGlucmFYbmtKcVh5dlEzSkF3TE40ZGozdGVWc3Zqc0ZQeG9pdQ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 08:17:00 GMT"
     },
     {
-      "title": "임실군, 5억원 이상 주요 사업 상반기 신속 집행 점검",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96V3d2eTZLWGo4TkhIQ2JGQmZER0ctSUNPYWxlLWtxUEpTWTJTUUl2MkNlVkthVnVxcS1ia3lrZHpCckJHVVBrWm1vLXRmNzdyRjhpSw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 05:45:51 GMT"
+      "title": "KT, 이사회 권한 조정…CEO 인사·조직 통제 완화",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUVLVVp1TXgyc3hlTUVVYUphcG9SdlFReFJIQ3dkLTBtMURhWXVnS3VrOGpfd2JReU51WVo0aVhPcU1aQ0tncm1XNDhvS2txMVgwdXhwdFAtN1JlemxMWVRtN1JtYTR1WnVlMVhEaXQ3SEotQkVRV1J3S2V5YUp4QjBkX2h5SzNjVHc1M1RaLXM2LVhLU2pJQnJmZlNWZnBaSGMyVENfM2pvMG5Eb3RkOHZNMFhvaDFt?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 08:01:50 GMT"
     },
     {
-      "title": "해수부, 국제여객선 국민 참여형 합동점검 실시",
-      "source": "해양한국",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0c3cySlZpRXhTOFBQUlY5cUlpN0Q1QWZhWjF0d2xRUjU0Tm5wUkUzMGQzNTRXck94OTdHTTJaalN0bHFFX2hQWmhaUVVjSHFQbjliVWFuTVBIV013ODJuV2ZDcHhILVQxVU5YSzdUeDBrSDRseHJGUXBB?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 05:31:17 GMT"
-    },
-    {
-      "title": "현대차, 1분기 매출 45.9조…영업익 2.5조 전년比 31%↓",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UMHRDaGU5c2NOaHdRU2I2eDI4WC15R0UyeVdXaGtHSnNXU1lnLTJkLUk1TTZUN1ZJRkZEemFQanBCX3k0N3JURHVPRFBNY2stbndOZGwwT1VjRklRQll2d3A2b9IBY0FVX3lxTE9UMHRDaGU5c2NOaHdRU2I2eDI4WC15R0UyeVdXaGtHSnNXU1lnLTJkLUk1TTZUN1ZJRkZEemFQanBCX3k0N3JURHVPRFBNY2stbndOZGwwT1VjRklRQll2d3A2bw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 05:31:00 GMT"
-    },
-    {
-      "title": "피터 몰리뉴의 신작 ‘마스터즈 오브 알비온’ 앞서 해보기 발매",
-      "source": "ipnn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84djYwWjBkdGg1S1M5bFQzckdGN213NFdUd2FoRTU0dE12RGx3Z3dacGNtUmhIbU5QcE1IRHFfQlM1X3ZGZF9Ic1Q3TDZTTWN1dnBnS2hfbDdXNFBqQTFqc2J1THVCQzNO?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 05:29:11 GMT"
-    },
-    {
-      "title": "[속보] 생후 4개월 영아 학대 살해한 친모에 1심 '무기징역'",
+      "title": "전국 경윳값 2천 원 육박‥4차 최고가격 곧 발표",
       "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeWtxdkU2S3Z4VGd6enp0Qm1kS3kzRUxsaGZkTk5aNTV6bGV2OG1tUHF0aV8xV0UzeG1pZHVPNV9yMjJuTnpxczZsZXItVWVlckZNd2ZBZjdHV0tZT1JhR3BrZUdsSkkweFdyR0hrM2NWNEFsMFVJanNLTzBrZWFqRUFtSW9zaXA1bTdrd0hZeDV3RWRlLTJCX1F1X0NrYWtyMW1rWDZRcFV0S2tYS0x1bEhyUXdsVFhKTjFWcm13b9IBd0FVX3lxTE1TaWhUUHNCdFk3amtzOTdCcFdQQ0tST1htNzJCQ3hvOFVKbGgySi1DTTY1RFg3a0o3X01DTEpCSDlCR0Y0dWVveEcxdDF2ZTMtRnNRTm1SMDdrVXhsbjkyYU95VEN4NGN0M0R4WXlrdzRYUm1VTF8w?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 05:37:56 GMT"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KMlFIQXZPTWZPUGNhd2tHLVdibXQwU3Z1SGtEaGU5TzFIMURVUVRtLXdxVXpuc0pNaWtnZW5EVmVhRmJTZ2pPczIwRmcwQXBuVno0UFJTT1RQaldrTVY3ZnlaTXZ1T1FzWDN6UkpQb0ZzVkJs0gF0QVVfeXFMTkoyUUhBdk9NZk9QY2F3a0ctV2JtdDBTdnVIa0RoZTlPMUgxRFVRVG0td3FVem5zSk1pa2dlbkRWZWFGYlNnak9zMjBGZzBBcG5WejRQUlNPVFBqV2tNVjdmeVpNdnVPUXNYM3pSSlBvRnNWQmw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 07:27:11 GMT"
+    },
+    {
+      "title": "[오늘의 주요공시] SK하이닉스·현대로템·현대차 등",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0a2lrZ2QyckhIZjY1SjBrNzlvU0lNbHhGenhmMmFEYVRJMEV5RnlTVURxOVVoWjhGZkRfbk0wWlpDYXY2akUyMHJQNkdoLVF1NVNWYlBiSm5BRUQ2MzBUbGRBWjc0bHpmcXplNHVn?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 08:22:00 GMT"
+    },
+    {
+      "title": "\"'이란 휴전 26일까지'…미국이 이스라엘에 통보\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vY2lvWUJDamZTZnliWkJoQ2NzSjBOWWIzWXpnYmRtZXR5UDJaXy1EU1JZWEU3Smd0dGNnRXFLNktIOFliQzhPUWxybTZkWGNucjZN?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 08:10:00 GMT"
+    },
+    {
+      "title": "JB금융, 1Q 순익 1661억…분기배당 규모 2배로",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVVoTU1FalJuNHJXbEhlSWZFUGMxNlVoUmtjbjFLS0RVaG9UaFk2X1I4WnFaZ0JoSC1lSzJPOE5SXzdQYXZlQ2twVXY0ZVo1T2NKY2FhNUJhQTNaUkZ2VzdWenV4b2pkLVlmM1ppY3NZNEhwYThHZ3RvdGQxcVBSZVJCMTdjWUNDRHl2MkprX0pNZ0VSRy1GaWxOZFdmbjU4ZWJ6X2I2d2p0UHFHYjlBUkdrNWZ1a1pIZVE?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 08:06:51 GMT"
+    },
+    {
+      "title": "[사진]'한일 연대의 새로운 시대적 조건'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KeWJLYXpxTzFFVTRuQ25BaW9iQVRGeWxPemdHVHUxaUlYUm82OEdPVUVkN045Sl9MZDhHLV85WDNpVEloNWJWenVpSTZSMGF4SFJJ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 07:49:00 GMT"
     },
     {
       "title": "AI 음모론",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdzVsYldycGJjNnlaTGRWRVp4Ymp4aDJaZzVRbUdRd0RCV25mbmRWbEJ4UGpoN2RuNkJCbnJ5LTdKN0h5OGFlUE9KMWRic3g0ckVBWkhFVXdraXRJS2dXNk1IRzF1dTU4QzdjT2E1cWNSV0pLSzZIRGNoYW1Xa044UUhYeUp4a1pJZ3gxd1V1eDYtQVNFZ05Jc2FRYXdhWDF0UnJlSEh2MWtpRUVPaDRrYmFmTFBUdFpKR3RF?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 06:02:33 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmtmcnVmMDBYLWhhb0E1SXBLWHRaU0VRMFA5VUtuVXFNN2dieU5sNUJmM2R3QUhuTEw3Yzk3YXJhNHllTmlMQjllYUxLdDg5dXlkeUVfYUpKaHJJR040TUN6dnAycm45dkJmWFF2QjJOQUdjQzE2RzFIVl8zX0FCdHpBMWo1aWlvdm95ZXdKWHNBVFZCRG9GcmhpMmJxZDFIUFJVZVozRTJROTBsbnJsYUJ6SFp5WlJQOHN3?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 07:45:53 GMT"
+    },
+    {
+      "title": "광주은행-기업CEO들 '통합특별시 경제 활성화' 맞손",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VZVFyXzNiMlRULUNpZzhSTVdSRkJpSjctTmgzTVdLa1ktRGVoV0RydjZoR1otYXQ0ekZpMmxSNmZYcGlrYmNTY2hYN2c1WFFLOFcw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 08:15:00 GMT"
+    },
+    {
+      "title": "아시아증시, 급등 출발 후 하락 전환···닛케이 0.7%↓",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jT1ZpT0NwUmFuLUdEb1N4a0paWUVqZmxZQUV3YXc0bzMtYjMtU24wek4zX0tfMUZmQ2VQaTh5SjQzcFBWNV9XNHM5Vk5jcUJjSXlr?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 07:59:00 GMT"
     }
   ],
   "sources": [
