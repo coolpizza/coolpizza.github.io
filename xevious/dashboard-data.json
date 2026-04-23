@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T21:07:18.313192+09:00",
+  "generatedAt": "2026-04-23T23:05:14.674129+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,490.03",
-      "change": "+340.65",
-      "changePercent": "+0.69%",
-      "direction": "up",
-      "updatedAt": "2026-04-23 05:36"
+      "value": "49,302.92",
+      "change": "-187.11",
+      "changePercent": "-0.38%",
+      "direction": "down",
+      "updatedAt": "2026-04-23 22:59"
     },
     {
       "label": "S&P 500",
-      "value": "7,137.90",
-      "change": "+73.89",
-      "changePercent": "+1.05%",
-      "direction": "up",
-      "updatedAt": "2026-04-23 05:36"
+      "value": "7,122.27",
+      "change": "-15.63",
+      "changePercent": "-0.22%",
+      "direction": "down",
+      "updatedAt": "2026-04-23 23:00"
     },
     {
       "label": "나스닥",
-      "value": "24,657.57",
-      "change": "+397.61",
-      "changePercent": "+1.64%",
-      "direction": "up",
-      "updatedAt": "2026-04-23 05:36"
+      "value": "24,536.41",
+      "change": "-121.16",
+      "changePercent": "-0.49%",
+      "direction": "down",
+      "updatedAt": "2026-04-23 22:58"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,480.0300",
-      "change": "+1.07",
-      "changePercent": "+0.07%",
+      "value": "1,480.1450",
+      "change": "+1.18",
+      "changePercent": "+0.08%",
       "direction": "up",
-      "updatedAt": "2026-04-23 20:59"
+      "updatedAt": "2026-04-23 22:54"
     },
     {
       "label": "100엔/원",
-      "value": "927.72",
-      "change": "+0.72",
-      "changePercent": "+0.08%",
+      "value": "927.54",
+      "change": "+0.54",
+      "changePercent": "+0.06%",
       "direction": "up",
-      "updatedAt": "2026-04-23 20:58"
+      "updatedAt": "2026-04-23 23:00"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.3°C",
-        "feelsLike": "10.8°C",
+        "temperature": "11.7°C",
+        "feelsLike": "9.2°C",
         "highLow": "최고 20.5° / 최저 7.8°",
-        "humidity": "47%",
+        "humidity": "53%",
         "wind": "5.2 m/s",
         "rainChance": "0%",
-        "pm10": "21.1 μg/m³",
-        "pm25": "19.9 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-04-23 21:00"
+        "pm10": "24.3 μg/m³",
+        "pm25": "22.8 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "59",
+        "updatedAt": "2026-04-23 23:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "14.4°C",
-        "feelsLike": "12.4°C",
+        "temperature": "12.0°C",
+        "feelsLike": "9.8°C",
         "highLow": "최고 23.0° / 최저 6.5°",
-        "humidity": "62%",
-        "wind": "9.3 m/s",
+        "humidity": "66%",
+        "wind": "8.2 m/s",
         "rainChance": "0%",
-        "pm10": "20.0 μg/m³",
-        "pm25": "17.2 μg/m³",
+        "pm10": "17.2 μg/m³",
+        "pm25": "14.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "61",
-        "updatedAt": "2026-04-23 21:00"
+        "updatedAt": "2026-04-23 23:00"
       }
     ]
   },
@@ -163,9 +163,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-04-23 17:58:02",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-04-23 17:59:19",
         "districtSamples": [
           {
             "district": "익산시",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "장고항 유람선·요트 25일 첫 출항..당진 해양 관광 ‘새 물길’ 연다",
-      "source": "당진신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tanVydmpWNGN0dzRQeDJuVGpTMkgxOEpUeUhPREpVanZNMVBLNnZWMmlKUklVSElfYUpSZHd0NTQzTlZrS3dGenF4YXdfVmpOUV9PWWE0dlFrNEtXUVg0azg0NDlpcUlU?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 11:39:09 GMT"
+      "title": "2026년 4월 23일 세계 경제 뉴스 주요 내용",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtY3NrZHBFQUxSeVdYMU9JT3BvWUN1NXNRVHhxaDlNVE5rVFdnUGtzbWhBYWdHbjhpUWtEeDNvbjBoNFViRzljYk04MzRvVk56TUtnRmtkSUhYdkFzS0g0eEFLTzU1V2R3TllVbDN1a0o5dmFRR3E5Yy1tdFFuc00?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 14:03:34 GMT"
     },
     {
-      "title": "50주년 한국재료연구원, 초격차 소재기술로 도약 선언",
+      "title": "[뉴스9 부산 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xVXNzTUhLRHU3R01QOC02VU5Xd0JBLVpobmRPODBaWGVzd1RJVjcyM2dlSWtWVlVmMTA0NmVlcF9qUi01V3ViWFFCWWN3VTR3ejNKcExvblN5cFE?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 13:23:00 GMT"
+    },
+    {
+      "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEJSS2xxVFFjRklVYWpvY3FIcy1kSlFkaU1WVmJnTFpTMDFkdEg4RmUzU19KeGluUDE4bGl1dVhoZmhQSFN1ZWFoN2ZwM3JRckVtZXozdHhZc29yLUtiT2NJWklKVHlpSGhnbHU1Z2tvcFFDZlZtT3dQM2RlU1kzU2JOWXhxTXA0S3dRTzVtWm5oUU8tdTdNMVJUbmZyX3F6VjhOTVptMXlGb3JLNzIzTmFBOHNZaXU1ci1QN9IBdEFVX3lxTE1qZlpyanVRR1VUeHFKb3lWWXRuM0k1ZWZxMUkySHBFSkVZaFhJSGN1LTFTbzU3eUJHdTF0c1JqVHVDcHFhRk9kYUtRQUt3NE1IcWR0cGpvYWdzdWVrbWRuZnI2ZEw2eWdhLXhyWmU1Mkx6S3o0?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 13:23:21 GMT"
+    },
+    {
+      "title": "'韓-베트남 비즈니스 포럼' 개최…\"가장 중요한 글로벌 파트너\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhT1c2VlE2YnR5bExJMmR6U0RITkFBdFJDcnhSTjZCZW5CSlJRN2RyeXBBRVhsTDAzSmhzN0J2Rkt2ZHB1bU9wQ2N3cXg1bDdxcVE0?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 13:42:00 GMT"
+    },
+    {
+      "title": "대한상의, 한-베트남 비즈니스 포럼 개최…최태원·이재용·구광모 참석",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHRBNUsycWJiYVNldkpxWGxFQmwwdWN3QTljSDZmMUt4RlFzTHJsbVo4cWZZQWZBLWtnYTloZmF4SUd6eEtNLWxnVTVqMnZRVlN3MlhjOVNtSUk5NHJPRU5ERkxrRkFKQ05NbFlqNWZLVnlCcVpZYXJRdTFlZUYzTkI4c0RmNE5uaFNidFNOQi0xLWlhdTQ3NXh5blN5ZFpRS2psSjRoTHg3b1lyWFZpYmxhR3U5aHR0SF93YUZqNkdMc2cta1lueg?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 11:53:18 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTm9aa0JKaE1VZmtLOC1sb3VNWnYwVFFyek1ubmlybjFodndxcVBPTnROcUVnWUxiZWh3ZFgwWEM2Q01uNlFMaGVTSUVIdG9oNXpidWVka0hkUVpTWk94X1pSVHhKM0c0V094NlQxSVRwX1dxUlo3alJTbzVpZHpTN0tFejNnUmlDR2d5M1dHRWZ3MzRnUFVUMDRFZ3h4NTI4dWRxaGF2Wm0tampxaE9Fb3dzeXA3aGto?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 13:08:24 GMT"
     },
     {
-      "title": "경쟁하듯 상선 나포…'압박 한계치' 시험하는 미·이란",
+      "title": "한·베트남, 제조업 넘어 'N.E.X.T.' 협력",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CaEpqU3VKbWFHdGNLd1JYMzgtc2tWUmRRc3k2Wjcwb2o1OWpLWlFSTkFhMjAxeW1BVUNmZHNRS2UwdUJMRTFEVHZCUGd6UkgyenVQN0x1VlJxN1N4S3EyVWZB?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 14:00:00 GMT"
+    },
+    {
+      "title": "트럼프 \"호르무즈에 기뢰 설치하는 모든 선박에 격침 명령\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96RWdSbnUtdkxlb0phNHlVVnV6cVp3MV9rclB1emtaRGd5M2ZLakR4dlBKdTZoRHRvSlpKaWJzQ0g3Wjg2NEcyWDFhckZNTjVTaUhmN2ZWbkZwclFNWXhVZlZhOU16eTVGaUdFY0NKRTFxRkFiYmVfRw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 12:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40T2lmcFpURXBQekNzNTRNam95R0Y2R3pNMDNFUzdKeDBUTTRXQ01BUXcyZWNNYzlLaGtTZmFuRnlKUk03aGNVeVdCaFJySFAwMnl3?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 13:47:00 GMT"
     },
     {
-      "title": "외교부, 중동전쟁 비상경제 대응 공관장 회의…'대체 수급선 후속조치 점검'",
+      "title": "트럼프 \"호르무즈 기뢰 부설하는 모든 선박 격침 명령\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFBSbFZXVGhzUUJTQXZZX0s1b2xXeTVRN2tYMUl5dDlKeTBQejJndUY1dUp6MmRZUDZWUjhxdXp0Wm5rV3lwNHVLUWFJSXRmdjV3T3ZnNHNJeWxUZllSWGNvUDIxU24zWmJwSGxobFFHempwTXpfekVsc2hYM3NhWDdwMjZLZlI4blpoRHM4cUkwRHNadjdZTUFHcHlnYWpFdnY5Uk9yWmw0TmJHTjZlaXB2QTB2ZVRaU1BNVdIBdEFVX3lxTE1fdXp3eG1CR094LWctWEU1WTJpZVVlQ19fcmYweE9rRlptcXpya2hJRW1MbTc1NHZpZlZ4SXMzMHozanAwNjZWT0I2MW5rYlR4Y0dzR2ZpTHNESExCTHVhYmZzSUFYcFZtVncwQkNHbEFtQ2JF?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 13:06:51 GMT"
+    },
+    {
+      "title": "박지원 두산에너빌리티 회장, 베트남서 원전 세일즈 성과…'공급망 진입 기반 마련'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa1FlaXY3WWEySUhWUmRUdXQ5YTRsQjRhcEp0azM1U09RRDhtdWFLdHJYaDRLM19yRDNmblQwR0FiaTJFMFYydFpNYXp0TWRQS205YVNLSElOSjhPLUlQT1FWYkx6bnVDekhkZGNyTC1FbjBCZXZSWkFOTEdva0ZHVTFOY2dDcGQtcXBZZTRVU1prZlVMcWY2UW1wNzRNcWVjaS1PQlRGbG80NWpyLVRBdjY0bzBVWmowUUpISFJuLTlZUUNjRWFydGtn?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 11:53:15 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUduVlVYc181a0ROUFJWN3N3VUNkaFJfYWkzNEh5Q3RFaE4ydjRpNkZ3aHh3R2xxenJPekYwVFBqa0FyRngtZU5td2RkWHRiTF82LUpqMms1Qmlyd2ZuWXdkMjdqX2tjRU10WUdKVlRkQjlWeFh0NXd2VVc4aVgxUmlUaVdENDdGemFlV3BZcldWQ09uQW9hVHRVRHRETXpncE9FVE5QaVNlVXVPYU1uRVRfeWltcHM?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 13:38:39 GMT"
     },
     {
-      "title": "한국거래소 \"한화머시너리 재상장 예비심사 적격\"",
+      "title": "[속보]트럼프 \"이란이 합의할 때까지 호르무즈 철저히 봉쇄\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CTWdmWGhzNGpXcjV6OVgwblJkSmsxaUk2R2xlSjR3YklGM2JqRFd2VEFBWXNZUkZ4Z1BDZW9vSWVZYmxRMjJTM2NPQnNUc2stTWJN?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 11:46:00 GMT"
-    },
-    {
-      "title": "미디어아트 전시장 된 호텔 객실…아트페어 '루프 플러스' 개막",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOEkwSTFuV1VNZ1duY3NQMHhIQkVBT3NtbDYzZWIxWGdyU3lSeFR1RjMycW1HUkpVc1N6cld3OUx0YlZ2S25nQkU5UU5IR01sYllRZFNpbWVRenp5RDNSbGtBc09ibldsZWM4T1otRVdaMThFTlhteUhSUTF5M2ppSkxNdGhQekQtZi1DcWVpRktjOXdkOFQ4dEdGRF9KdDdYbnBnelpPTEtiSXhac1MyOWpIM1ZRYnBGei1NOWFUaWt4T21GbmNRcjhwdw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 11:51:38 GMT"
-    },
-    {
-      "title": "베트남 전통의상 입은 김혜경 여사[포토뉴스]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CMUdMV3ZiSzNkZl9BckFhMkRsam9ObTJsT2ZOZ1BkQ3NUenRtX2tiaTlkRmN1T2I4N2lPV21kaGoyUVJBcWN6am1XT2VLYnJtTG9J?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 11:49:00 GMT"
-    },
-    {
-      "title": "[포토] 이정원 '준비됐나? 부산갈매기'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DQWYyd2ZVeVRVQXZOcnR6bmlNX1Q0dE44eHk1ZDRxdnpvNUhMTzRBZ3h1Rzk3OVJLQkRhc1ZkOUlvS3ctUFlBR2dyTWNUbFZYS01RY095X1JEalBjdTBpS0YtcFNmM0dQTlE?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 11:49:00 GMT"
-    },
-    {
-      "title": "[올댓차이나] 대만 증시, 중동정세 불안 나흘 만에 반락 마감…0.43%↓",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0JSbkNGNTlJUzY1d011dEx6YWtKTUVFMDdjaENBb1Z1bklsb05BZEtiR3o3Rld2TGJiU2cxOGRRdXlwN0dVeDZPdjRpZ09pTUFiaTJzS3N0VGVKUFZCWnRWQU11QUMzN2lJOXFMQ2tsUXdTVFAxQXNNLXBIcmNhenVlN1dIcVJfTnhoZXZtV1NfMk9Bb1R0aFExWUVMV0sxU2g0QVRNbW1yUU9BOElNUDljTEZlSDQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 11:27:44 GMT"
-    },
-    {
-      "title": "한화 신설분할 테크·라이프 지주사, 오는 8월 재상장",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtTE9RRUhrQ0V6WXFpYnl6YUhOTGs0TGxwOFNvNkN2VmVNbjRWaV9ESlBMSVgzMHpuM0FwZ1RjQy01el9EZ0RZb1lEdFNNcEhUUUVB?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 11:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12bHU3Z0w4SEF1eHEzVFVOcGtkajVnaW94cVNXd2lVdDhVWUhvc3dadGs2U1d5bFI5X3NIdVVDdFNfNUxFYjYtVnh4LTc5YTM2M1Jv?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 13:30:00 GMT"
     }
   ],
   "sources": [
