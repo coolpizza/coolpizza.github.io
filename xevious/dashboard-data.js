@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-23T20:06:01.390818+09:00",
+  "generatedAt": "2026-04-23T21:07:18.313192+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,482.5150",
-      "change": "+3.56",
-      "changePercent": "+0.24%",
+      "value": "1,480.0300",
+      "change": "+1.07",
+      "changePercent": "+0.07%",
       "direction": "up",
-      "updatedAt": "2026-04-23 19:56"
+      "updatedAt": "2026-04-23 20:59"
     },
     {
       "label": "100엔/원",
-      "value": "928.06",
-      "change": "+1.06",
-      "changePercent": "+0.11%",
+      "value": "927.72",
+      "change": "+0.72",
+      "changePercent": "+0.08%",
       "direction": "up",
-      "updatedAt": "2026-04-23 20:01"
+      "updatedAt": "2026-04-23 20:58"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "14.7°C",
-        "feelsLike": "12.1°C",
-        "highLow": "최고 20.2° / 최저 7.8°",
-        "humidity": "41%",
-        "wind": "5.6 m/s",
+        "temperature": "13.3°C",
+        "feelsLike": "10.8°C",
+        "highLow": "최고 20.5° / 최저 7.8°",
+        "humidity": "47%",
+        "wind": "5.2 m/s",
         "rainChance": "0%",
-        "pm10": "12.8 μg/m³",
-        "pm25": "12.1 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-04-23 20:00"
+        "pm10": "21.1 μg/m³",
+        "pm25": "19.9 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-23 21:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "16.1°C",
-        "feelsLike": "13.6°C",
-        "highLow": "최고 22.7° / 최저 6.5°",
-        "humidity": "57%",
-        "wind": "12.5 m/s",
+        "temperature": "14.4°C",
+        "feelsLike": "12.4°C",
+        "highLow": "최고 23.0° / 최저 6.5°",
+        "humidity": "62%",
+        "wind": "9.3 m/s",
         "rainChance": "0%",
-        "pm10": "17.5 μg/m³",
-        "pm25": "14.4 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "54",
-        "updatedAt": "2026-04-23 20:00"
+        "pm10": "20.0 μg/m³",
+        "pm25": "17.2 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-23 21:00"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[한국뉴스 TV] 26년 4월 23일 (목) 오늘의 주요뉴스",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByQno0b0M2TFh4dHUyVVpRcGdoVW9DUjh0YndublVVeWJVWHFpaFlSVFBIMWVGSXdsQnN5cHhTNTQ2QzZkVUtRYnE0VnJzaUV3RTVrOXVrUnhpcnRmRVdCaFhxZ3d0Rms?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 10:08:08 GMT"
-    },
-    {
-      "title": "4월 24일 여수시 주요일정",
-      "source": "남해안신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tVUNsT2N0MzZwU0FPSGRrek5DbE5uMXpXTzgwTWtteTZoay1GUFdFUVRQak9ha1JRQXJLRW1XeXhDOXBVWnBCbmxhS1R5SWVuVExxbkxzOERGR3JpczJ3RzhDQzIwZGZ5?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 10:44:21 GMT"
-    },
-    {
-      "title": "농어촌공사 당진지사, 본격 영농기 대비 농업용수 확보 ‘총력’",
+      "title": "장고항 유람선·요트 25일 첫 출항..당진 해양 관광 ‘새 물길’ 연다",
       "source": "당진신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91V1JzQTN6dzJ5WWtCR2NZWWRqQXpuS0MtYjVhbnpRQTI3ak9rQjI0a2VXdVRpeFpNWmt4M3R4UVlIcTd2QVNad0Z3dmdYWkhobHBZXzBoNWJZMDlYOFV1NlBNVVlFMWtL?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 10:49:30 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tanVydmpWNGN0dzRQeDJuVGpTMkgxOEpUeUhPREpVanZNMVBLNnZWMmlKUklVSElfYUpSZHd0NTQzTlZrS3dGenF4YXdfVmpOUV9PWWE0dlFrNEtXUVg0azg0NDlpcUlU?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 11:39:09 GMT"
     },
     {
-      "title": "식약처, 주사기 안정 공급 위해 제조업체와 업무 협약",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WYWVBQ1oxY2lrTEk0R1p3LVU1WFlpSDRMaDVIUER3QTVUeEtRSGt5OXBrbUVuMEZkdVdkVWdRU05aUXhpZjMzNzdHbnBSV2J0Nlhlc204X25Ga2RGQm5ad2hRUENtdDluaHM1ZmREdXctVEhwakk00gF3QVVfeXFMT1ZhZUFDWjFjaWtMSTRHWnctVTVYWWlINExoNUhQRHdBNVR4S1FIa3k5cGttRW4wRmR1V2RVZ1FTTlpReGlmMzM3N0ducFJXYnQ2WGVzbThfbkZrZEZCblp3aFFQQ210OW5oczVmZER1dy1USHBqSTQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 10:19:57 GMT"
-    },
-    {
-      "title": "'호르무즈 통행료' 걷은 이란…\"첫 수익금 국고 입금\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zdWdOYXFQZmpzWmkyaDAwbV9yYU1Ydk1zMl9sVTV3bGU5dlNoMzVzYUh3VDlFYVVBRUVrQktDSkdIa25uOWUzVW51aWVEdzNNNlI1YjdJNnAwSDFmbWhJNjNYWGIyMTcyai1TNzFTMk1uX1FTMUhXOQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 10:54:00 GMT"
-    },
-    {
-      "title": "당진상공회의소, 2026년 개정세법 세무·회계 실무교육 개최",
-      "source": "당진신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tRWszU3pJWldweU9fQmZwVHl0ZVdaQzItTDdNNTgyTl9kUkcydUtyM0NBTktPNUg4R2hqS2paeXRmb1pSVElvWG1ZSFpoeVJWWnRCd2Z1ZHRhbkFlR0J1X0RHY3pQWXBt?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 10:18:27 GMT"
-    },
-    {
-      "title": "[포토] 3회초 안타출루 이원석",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QnZnNVVpX0hpdW1wTFp5dzZQZDd5NUNUWndTcVI5cUlZMnpkeEJVZ1BIenZkaFpZVmRkOU11UC11ODg5WjZBMWtjM1ZoRjJscmc1MTcxdmZ0OGtUZU5sQnZhMkxKRUZPRXNuNVhkTmx0bDNmSlN3NA?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 10:08:00 GMT"
-    },
-    {
-      "title": "미호강·달천 수질 2년새 개선…대청호 상류 '매우 좋음' 유지",
+      "title": "50주년 한국재료연구원, 초격차 소재기술로 도약 선언",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzVZd2dRX1pTZEdIOURHLXRMVDRoTGlMX3lCdWVaQWV3UGRaNWZBZzJlanJkVTIyWGhiOTdhbDRlNzY0OHRDZ2VadzN3ZDE4MVNGb08wM3VZNXB4Vk9ueC1aRWN0bnp5U0lqNDdEZFpVU1F4anRfX2hSZVRJZWJoTHp1OE9KaHp6UHpWaDYzZkpWUkd0c1pOaURqVUxZVkEzLTRLdFcxYlZLNGhuM3otUi1LSmtvcl93cWc?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 10:57:36 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHRBNUsycWJiYVNldkpxWGxFQmwwdWN3QTljSDZmMUt4RlFzTHJsbVo4cWZZQWZBLWtnYTloZmF4SUd6eEtNLWxnVTVqMnZRVlN3MlhjOVNtSUk5NHJPRU5ERkxrRkFKQ05NbFlqNWZLVnlCcVpZYXJRdTFlZUYzTkI4c0RmNE5uaFNidFNOQi0xLWlhdTQ3NXh5blN5ZFpRS2psSjRoTHg3b1lyWFZpYmxhR3U5aHR0SF93YUZqNkdMc2cta1lueg?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 11:53:18 GMT"
     },
     {
-      "title": "MAGA 여성 알고봤더니 인도 의대생이 만든 AI…매달 수천달러 벌어",
+      "title": "경쟁하듯 상선 나포…'압박 한계치' 시험하는 미·이란",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96RWdSbnUtdkxlb0phNHlVVnV6cVp3MV9rclB1emtaRGd5M2ZLakR4dlBKdTZoRHRvSlpKaWJzQ0g3Wjg2NEcyWDFhckZNTjVTaUhmN2ZWbkZwclFNWXhVZlZhOU16eTVGaUdFY0NKRTFxRkFiYmVfRw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 12:02:00 GMT"
+    },
+    {
+      "title": "외교부, 중동전쟁 비상경제 대응 공관장 회의…'대체 수급선 후속조치 점검'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHVqY19Idkd1OXh5Q0ViSldMTWRyNDE2RkVFaDBPVm54allMYzd6Ykl6WlZZZ1lDb2h0V0MtNEdwSjBuam9wc3VCOGhQTlNZMUhFdTdQZTdSb2Y4dGd6T1JpLTJ4aDJVODRHTWJsSzJsdkJJUWN0MWYxbEVqajdJOTNtVEtydjV4OEswU2NVOTRyRE9LUUVRaGF4bUJLemU5TVZxNEdJNm1qck94Q2dMWDg0V29neUZYbkE?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 10:42:28 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa1FlaXY3WWEySUhWUmRUdXQ5YTRsQjRhcEp0azM1U09RRDhtdWFLdHJYaDRLM19yRDNmblQwR0FiaTJFMFYydFpNYXp0TWRQS205YVNLSElOSjhPLUlQT1FWYkx6bnVDekhkZGNyTC1FbjBCZXZSWkFOTEdva0ZHVTFOY2dDcGQtcXBZZTRVU1prZlVMcWY2UW1wNzRNcWVjaS1PQlRGbG80NWpyLVRBdjY0bzBVWmowUUpISFJuLTlZUUNjRWFydGtn?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 11:53:15 GMT"
     },
     {
-      "title": "[포토] 신윤후 '유후후 2루타 질주'",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oSzc5bFpMUnZGeUNMOHcwSHhSS3llTnR3Wlh6QVZaOG1KNktHU3VDU1RNLVkzeThvQUpTVTJESFcxdVJVakM2ODZkaE9hUHhZTVk5Ui05NkRJN04t?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 10:48:00 GMT"
+      "title": "한국거래소 \"한화머시너리 재상장 예비심사 적격\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CTWdmWGhzNGpXcjV6OVgwblJkSmsxaUk2R2xlSjR3YklGM2JqRFd2VEFBWXNZUkZ4Z1BDZW9vSWVZYmxRMjJTM2NPQnNUc2stTWJN?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 11:46:00 GMT"
+    },
+    {
+      "title": "미디어아트 전시장 된 호텔 객실…아트페어 '루프 플러스' 개막",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOEkwSTFuV1VNZ1duY3NQMHhIQkVBT3NtbDYzZWIxWGdyU3lSeFR1RjMycW1HUkpVc1N6cld3OUx0YlZ2S25nQkU5UU5IR01sYllRZFNpbWVRenp5RDNSbGtBc09ibldsZWM4T1otRVdaMThFTlhteUhSUTF5M2ppSkxNdGhQekQtZi1DcWVpRktjOXdkOFQ4dEdGRF9KdDdYbnBnelpPTEtiSXhac1MyOWpIM1ZRYnBGei1NOWFUaWt4T21GbmNRcjhwdw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 11:51:38 GMT"
+    },
+    {
+      "title": "베트남 전통의상 입은 김혜경 여사[포토뉴스]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CMUdMV3ZiSzNkZl9BckFhMkRsam9ObTJsT2ZOZ1BkQ3NUenRtX2tiaTlkRmN1T2I4N2lPV21kaGoyUVJBcWN6am1XT2VLYnJtTG9J?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 11:49:00 GMT"
+    },
+    {
+      "title": "[포토] 이정원 '준비됐나? 부산갈매기'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DQWYyd2ZVeVRVQXZOcnR6bmlNX1Q0dE44eHk1ZDRxdnpvNUhMTzRBZ3h1Rzk3OVJLQkRhc1ZkOUlvS3ctUFlBR2dyTWNUbFZYS01RY095X1JEalBjdTBpS0YtcFNmM0dQTlE?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 11:49:00 GMT"
+    },
+    {
+      "title": "[올댓차이나] 대만 증시, 중동정세 불안 나흘 만에 반락 마감…0.43%↓",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0JSbkNGNTlJUzY1d011dEx6YWtKTUVFMDdjaENBb1Z1bklsb05BZEtiR3o3Rld2TGJiU2cxOGRRdXlwN0dVeDZPdjRpZ09pTUFiaTJzS3N0VGVKUFZCWnRWQU11QUMzN2lJOXFMQ2tsUXdTVFAxQXNNLXBIcmNhenVlN1dIcVJfTnhoZXZtV1NfMk9Bb1R0aFExWUVMV0sxU2g0QVRNbW1yUU9BOElNUDljTEZlSDQ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 11:27:44 GMT"
+    },
+    {
+      "title": "한화 신설분할 테크·라이프 지주사, 오는 8월 재상장",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtTE9RRUhrQ0V6WXFpYnl6YUhOTGs0TGxwOFNvNkN2VmVNbjRWaV9ESlBMSVgzMHpuM0FwZ1RjQy01el9EZ0RZb1lEdFNNcEhUUUVB?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 11:42:00 GMT"
     }
   ],
   "sources": [
