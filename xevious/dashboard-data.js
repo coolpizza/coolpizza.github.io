@@ -1,22 +1,22 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-23T13:32:56.541148+09:00",
+  "generatedAt": "2026-04-23T15:28:50.732668+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,417.93",
-      "change": "+29.46",
-      "changePercent": "+0.46%",
+      "value": "6,463.20",
+      "change": "+45.27",
+      "changePercent": "+0.71%",
       "direction": "up",
-      "updatedAt": "2026-04-22 15:32"
+      "updatedAt": "2026-04-23 15:00"
     },
     {
       "label": "코스닥",
-      "value": "1,181.12",
-      "change": "+2.09",
-      "changePercent": "+0.18%",
-      "direction": "up",
-      "updatedAt": "2026-04-22 17:04"
+      "value": "1,173.69",
+      "change": "-7.43",
+      "changePercent": "-0.63%",
+      "direction": "down",
+      "updatedAt": "2026-04-23 15:24"
     }
   ],
   "usMarkets": [
@@ -48,52 +48,52 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,480.0000",
-      "change": "-6.80",
-      "changePercent": "-0.46%",
-      "direction": "down",
-      "updatedAt": "2026-04-23 06:24"
+      "value": "1,480.3492",
+      "change": "+1.39",
+      "changePercent": "+0.09%",
+      "direction": "up",
+      "updatedAt": "2026-04-23 15:19"
     },
     {
       "label": "100엔/원",
-      "value": "928.14",
-      "change": "-4.86",
-      "changePercent": "-0.52%",
-      "direction": "down",
-      "updatedAt": "2026-04-23 06:23"
+      "value": "927.63",
+      "change": "+0.63",
+      "changePercent": "+0.07%",
+      "direction": "up",
+      "updatedAt": "2026-04-23 15:11"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "약간 흐림",
-        "temperature": "19.6°C",
-        "feelsLike": "19.1°C",
-        "highLow": "최고 20.1° / 최저 7.8°",
-        "humidity": "36%",
-        "wind": "8.0 m/s",
+        "summary": "흐림",
+        "temperature": "19.9°C",
+        "feelsLike": "18.2°C",
+        "highLow": "최고 20.0° / 최저 7.8°",
+        "humidity": "34%",
+        "wind": "8.2 m/s",
         "rainChance": "0%",
-        "pm10": "12.3 μg/m³",
-        "pm25": "9.6 μg/m³",
+        "pm10": "10.3 μg/m³",
+        "pm25": "8.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-04-23 13:30"
+        "airQualityIndex": "56",
+        "updatedAt": "2026-04-23 15:15"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
-        "temperature": "22.0°C",
-        "feelsLike": "21.1°C",
-        "highLow": "최고 22.3° / 최저 6.5°",
-        "humidity": "47%",
-        "wind": "16.8 m/s",
+        "summary": "흐림",
+        "temperature": "22.5°C",
+        "feelsLike": "20.7°C",
+        "highLow": "최고 22.5° / 최저 6.5°",
+        "humidity": "43%",
+        "wind": "16.0 m/s",
         "rainChance": "0%",
-        "pm10": "25.7 μg/m³",
-        "pm25": "15.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-04-23 13:30"
+        "pm10": "27.5 μg/m³",
+        "pm25": "15.4 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "62",
+        "updatedAt": "2026-04-23 15:15"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "올림푸스한국, 차세대 복강경 수술 기구 '하이큐라' 출시",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yVmxTUWJZTTFEWUJCeERkdGhEdWUwYm9IRFRPYkEyOUtiNFVkV01nTk95UG0tOHFBTzBTRlBLVnJ6Q1l2VWVlbThpVWdLZw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 04:21:38 GMT"
+      "title": "[오전 주요 국제금융뉴스](23일)",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zRGNoNGdmM3ZrMElwUnpKRHZEWVFNUUprMktDNndNTnZlS193bUUzTjNObjJBS0hrQTNrekxBLXU5QzMzZ0tscGlfLUtzNzRwMEFDWEpPeHBDTnkxcDZTVDU1R1pWQ2JXRmpHRXZ2Z0zSAXRBVV95cUxPRTd5dWFzcGp6X1BQa0NFSy1Ubjh5V1VkN1YyMnF1czFLc3MycnoxbDBoVmk5Vk5mZ242dXJvcGstRWtVQ2p4TUY0ZDhhZ3JnUG9hU3ZlREhCcm02Z052WE03QlBrTzhMV1pQMGMzVGdFMFF2dA?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 06:14:35 GMT"
     },
     {
-      "title": "군산해경, 수중레저 안전관리 본격화…해수부서 업무 이관",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFQ5M01lbG9uY2htUjNjVWl0RVBfdUZiQU5ZM1B3MGVlV1lHdGFacThWUWFIYWh2LUs0aVk2aE15Yy1lVzBYUUc5dDB1bG5XTVo3Nk82NVJFTlhuQjVpd2hnNE96LUNpU0FFRkpyNEFvVWk4NUhpMG1hWWpXcl9lek5Ic2NWOWNaTmgxTmgybmg0bTdvbFF0Q3VjOU5iZ01reERTeG96SEVsOVlNcWdJVHZwT3NpOFdI?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 04:28:01 GMT"
+      "title": "하루 10분 호주 뉴스: 4월 23일 목요일",
+      "source": "SBS Australia",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSjZRMUVBQkRhcE1ON3k5ZlJ3Nk5PYm13am14UmdxSl9TZURiNUZ5WWdHNy01NDFsWEVfeEw1TWZ4LVc1RXVDREFKRHpFVFp2ZUs5Mmd6S191U2YyMEktWENyVmRNUGxFeF9mS0lMNTd1MlUtU3E0YVdPNWpGRTlDNkMzM1NUODNTNEkyX2xWS2Nldk9EOS1V?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 06:27:58 GMT"
     },
     {
-      "title": "김민석 국무총리, 여수세계섬박람회 점검",
+      "title": "2026 거제 정원산업박람회 개막",
+      "source": "거제저널",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YR25TSlpYUTZPeXhHNmVyYmkzYjN0SS1UUkJuZi1zbHhadkVEcTN5XzR6N3drS3JENDdLWENjNEtrWEtJYVdENHBqX2tMMnlMeWszMld4SjZwUW1VTjdkSTBYN3M4N01yQlBUWGNSTkN2VkE?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 05:31:40 GMT"
+    },
+    {
+      "title": "[인천 주요 뉴스]인천시, 28일 중장년 일자리박람회 개최",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kdzhTaWhybEVBZmF3RUE4dXdTWloteUU3UERkSjdVTHVLeTRxY01HaU13MFRYTkJfcHBwcFFQUzBhVGFNWUpSUW12SlNSQlVsZmxJ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 06:02:00 GMT"
+    },
+    {
+      "title": "임실군, 5억원 이상 주요 사업 상반기 신속 집행 점검",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fSnBuVS1jR2Rpb0hZYVFDWmNqeTlUN1pwMS1FRXF4QTNIX0VWdHAtWGg4b1RST2tNVXB1eTVua1M0QS1yMTlwRHJ5OA?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 04:14:23 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96V3d2eTZLWGo4TkhIQ2JGQmZER0ctSUNPYWxlLWtxUEpTWTJTUUl2MkNlVkthVnVxcS1ia3lrZHpCckJHVVBrWm1vLXRmNzdyRjhpSw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 05:45:51 GMT"
     },
     {
-      "title": "李대통령, 한·베트남 주요기업인 만난다…MOU 70건 체결",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HZW4yVjBmX1lhTXg3cGFWTnZwRGtxYm9lcUV3Zy1yU3pwVElsM19CbzRfRFZmNzNidXVGajd3MDBVb1RFX0NnTmpYY2VGcVJSc3NZ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 04:16:00 GMT"
+      "title": "해수부, 국제여객선 국민 참여형 합동점검 실시",
+      "source": "해양한국",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0c3cySlZpRXhTOFBQUlY5cUlpN0Q1QWZhWjF0d2xRUjU0Tm5wUkUzMGQzNTRXck94OTdHTTJaalN0bHFFX2hQWmhaUVVjSHFQbjliVWFuTVBIV013ODJuV2ZDcHhILVQxVU5YSzdUeDBrSDRseHJGUXBB?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 05:31:17 GMT"
     },
     {
-      "title": "하운드13 \"퍼블리싱 계약은 2월 13일자로 적법하게 해지\"",
+      "title": "현대차, 1분기 매출 45.9조…영업익 2.5조 전년比 31%↓",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UMHRDaGU5c2NOaHdRU2I2eDI4WC15R0UyeVdXaGtHSnNXU1lnLTJkLUk1TTZUN1ZJRkZEemFQanBCX3k0N3JURHVPRFBNY2stbndOZGwwT1VjRklRQll2d3A2b9IBY0FVX3lxTE9UMHRDaGU5c2NOaHdRU2I2eDI4WC15R0UyeVdXaGtHSnNXU1lnLTJkLUk1TTZUN1ZJRkZEemFQanBCX3k0N3JURHVPRFBNY2stbndOZGwwT1VjRklRQll2d3A2bw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 05:31:00 GMT"
+    },
+    {
+      "title": "피터 몰리뉴의 신작 ‘마스터즈 오브 알비온’ 앞서 해보기 발매",
       "source": "ipnn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OTFRLMGYxN3ZqSUt5N2xzalJPQk5CdWk0a1JhTFRObkJRQkhMV0FMOUotT3VIMjNtekJYYjhxUjdIVnJZckFRNFVBYm1yaFV3WThZcF8zMlhVRkIyR2I5WmxYRDVieEth?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 04:07:29 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84djYwWjBkdGg1S1M5bFQzckdGN213NFdUd2FoRTU0dE12RGx3Z3dacGNtUmhIbU5QcE1IRHFfQlM1X3ZGZF9Ic1Q3TDZTTWN1dnBnS2hfbDdXNFBqQTFqc2J1THVCQzNO?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 05:29:11 GMT"
     },
     {
-      "title": "[속보]LG디스플레이, 1분기 영업익 1467억원…전년比 338%↑",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBleVMxZVV1aWIyREFfMkJ5cGtSSERBWC1Pa1Jya29Hd2JpRnVXT3JwaXlwMUFWanZxSVh4R3N6VXh3QjNfWV9XNTdnc3JGaENLUzRhTUJWdnJrYWotZVRRSTFSLU14Y2dCLWJteVAzTm9RZm9x?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 04:21:00 GMT"
+      "title": "[속보] 생후 4개월 영아 학대 살해한 친모에 1심 '무기징역'",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeWtxdkU2S3Z4VGd6enp0Qm1kS3kzRUxsaGZkTk5aNTV6bGV2OG1tUHF0aV8xV0UzeG1pZHVPNV9yMjJuTnpxczZsZXItVWVlckZNd2ZBZjdHV0tZT1JhR3BrZUdsSkkweFdyR0hrM2NWNEFsMFVJanNLTzBrZWFqRUFtSW9zaXA1bTdrd0hZeDV3RWRlLTJCX1F1X0NrYWtyMW1rWDZRcFV0S2tYS0x1bEhyUXdsVFhKTjFWcm13b9IBd0FVX3lxTE1TaWhUUHNCdFk3amtzOTdCcFdQQ0tST1htNzJCQ3hvOFVKbGgySi1DTTY1RFg3a0o3X01DTEpCSDlCR0Y0dWVveEcxdDF2ZTMtRnNRTm1SMDdrVXhsbjkyYU95VEN4NGN0M0R4WXlrdzRYUm1VTF8w?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 05:37:56 GMT"
     },
     {
-      "title": "자동차업계-노동계 “전기차 국내생산촉진세제 도입해야”…정부에 공동 건의",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aVTBLMkpZSjRhME1qUFd2ZHV2VFRvLWNBQ3ItQXR6Q3pSVjNZX3RZOFd4U3lLcWdOcXlSdHdrUlNvV0tQOGE3WHE1MWd0UQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 04:15:40 GMT"
-    },
-    {
-      "title": "한-칠레, 수산양식 연구 협력…수과원, 남미 3개국서 교육",
+      "title": "AI 음모론",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2YyallZNGwyRHJTUUMwNTFTVjlNMzV3ekRQdGRQNUswZzkxM0VrNmhLR1JGeVp0WEZRMnNpVjJBU0FvalgxMWstWV9YaXdrWWlUS2xUa29OdUZaZ0RsS3VoNFpkNW1Vems2NkEtMFktWG90OGoxRnFXRkw5eldYcU96Q2d1Q2ZFQzRTeFI3Rl92aEFSamgzTHZXQUVFVmhNa3hlZ3Ywb3g2V0d5enpBd2NsNmszdFZB?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 04:26:06 GMT"
-    },
-    {
-      "title": "[속보]LG디스플레이, 1분기 영업익 1467억원…전년比 338%↑",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13THVKV1RxQXc5N3J1WlhlZS1td1VWX3JhYzJBM1ljT3loVlBoNlBJa0N1Rzl5LWlwRDNrX0VwQ1MyRUd2LV9HR0ZGNGI1RWxtS3ZpMTlzcV9PYmdjTE1zeA?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 04:22:00 GMT"
-    },
-    {
-      "title": "코스피, 장중 오름폭 줄이며 6370선으로…코스닥 1%대 약세",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OM1RHZWp4TThRSFpoVnRQZlJsSmlCaFJ4VFNGUzdWQkZFOEdqemxVdG00VFJZTHJpeXJhM1kzdVRmMEtGazFzYUdwZWhNVHR4VTVfTkZkSU1JY1h6NEdla3hYZzlid2JpUzZKTVpzN0ZBMG1S?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 04:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdzVsYldycGJjNnlaTGRWRVp4Ymp4aDJaZzVRbUdRd0RCV25mbmRWbEJ4UGpoN2RuNkJCbnJ5LTdKN0h5OGFlUE9KMWRic3g0ckVBWkhFVXdraXRJS2dXNk1IRzF1dTU4QzdjT2E1cWNSV0pLSzZIRGNoYW1Xa044UUhYeUp4a1pJZ3gxd1V1eDYtQVNFZ05Jc2FRYXdhWDF0UnJlSEh2MWtpRUVPaDRrYmFmTFBUdFpKR3RF?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 06:02:33 GMT"
     }
   ],
   "sources": [
