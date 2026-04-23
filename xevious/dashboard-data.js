@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-24T02:16:30.989240+09:00",
+  "generatedAt": "2026-04-24T03:17:12.071686+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "9.0°C",
-        "feelsLike": "6.8°C",
-        "highLow": "최고 22.8° / 최저 6.8°",
-        "humidity": "64%",
-        "wind": "3.8 m/s",
+        "temperature": "8.0°C",
+        "feelsLike": "5.8°C",
+        "highLow": "최고 22.8° / 최저 6.7°",
+        "humidity": "70%",
+        "wind": "3.5 m/s",
         "rainChance": "0%",
-        "pm10": "31.3 μg/m³",
-        "pm25": "29.6 μg/m³",
+        "pm10": "32.7 μg/m³",
+        "pm25": "31.0 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "55",
-        "updatedAt": "2026-04-24 02:00"
+        "updatedAt": "2026-04-24 03:15"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "8.3°C",
-        "feelsLike": "5.8°C",
-        "highLow": "최고 23.6° / 최저 4.7°",
-        "humidity": "70%",
-        "wind": "6.8 m/s",
+        "temperature": "7.3°C",
+        "feelsLike": "4.7°C",
+        "highLow": "최고 23.6° / 최저 5.2°",
+        "humidity": "73%",
+        "wind": "6.1 m/s",
         "rainChance": "0%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "16.5 μg/m³",
+        "pm10": "19.6 μg/m³",
+        "pm25": "17.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-04-24 02:00"
+        "airQualityIndex": "59",
+        "updatedAt": "2026-04-24 03:15"
       }
     ]
   },
@@ -163,9 +163,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-04-24 00:12:16",
+        "stationName": "대장주유소",
+        "address": "전북 익산시 춘포면 춘포로 303",
+        "updatedAt": "2026-04-23 18:40:41",
         "districtSamples": [
           {
             "district": "익산시",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "페루 F-16기 도입 놓고 '시끌'…국방·외교장관 사임",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BNlFTT2JTQzh0bmE3amZoNXhuTnl3ckU0Q2VSM3dyQTFja1hfSi0xeDRoVkgwZDdyNVA1VHBVN2l5UGk2aEh4VW4tbDM2N1k?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 16:36:14 GMT"
+      "title": "고양특례시 소상공인연합회–법무법인 더엘 업무협약",
+      "source": "고양신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qeW5RYmRKTU9UWnN2Wm54Q0VWdmxuSGVNWnFhcGRhWWo2OEJxeTM2VkhBTzI3d1p6eXNSV09Odnc2aVZGVV9rdTJ1dkZ4SFJ1TGZtaU1QS1pWUHNtZnJnQlpQSmEyX21fR3c?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 18:03:35 GMT"
     },
     {
-      "title": "장동혁 \"해당행위에 강력 조치…후보자라면 즉시 교체\"",
+      "title": "구글클라우드 CEO, 중동 데이터센터 공격에 \"데이터 문제없어\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UcTZZUW05NVIxWmtsLVV2VWNRcjViZFNGWUg2SWMyV0pEcHNfXzRwRzI0Q1hRV2RQWHo0R093ZjNsSUZKR01BbjBKeUJDamV1Z1dCWC1pUmZjZEnSAWBBVV95cUxPaWtQRVMtNmhmM2N3ZVA4Vzlhb2JFcm5aUlU0X180b0VNUklCLTd4Skh2UHdQTHBocXRVSEdJc2wzMVRPUzNNbUN4RXpXcU9rM0pSanp1VmVCNHNqY2pUVHc?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 17:47:55 GMT"
+    },
+    {
+      "title": "이스라엘 매체 \"갈리바프 의장, 이란 협상단서 사임\"(상보)",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwSUF3SllUV2JRUmFOQnJzQjdXNUlaeklNNEFIVm9RUE5TXzZvaWZ3cGdLWGcwSDQ3Z05PNzlkVTdiR3piMmhoNVZILXIzS3hjdVZUNTFRQ2hkZU9xSERSSHJqNl9mT2UtTXdhSENXTFJuUQ?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 17:34:15 GMT"
+    },
+    {
+      "title": "'지능'까지 갖춘 19m 크기 문어, 백악기 최상위 포식자였다 [지금은 과학]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuVDkxek1BSUxZS0VQY3dkcDQ3Yl9lRlhxUWxSMEdwNnQ2cF9YQnZvWElpNjlSU2R5c0FzS0tYZEFzWjVxcHJxQmNLblZWMFg1UVBOUU1BUWJwLXliNE9pczcyQjhQZWRIc1E?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 16:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90ZGgzMzlaaFE0WDYxX3Uzc2xtUXJZN01lbjY5MVpnSEdUN3BtU1Rub00xZlFrM2MwdElfazhIY0ZFTGhoTDQtd2dSNV94emREU2hB?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 18:01:00 GMT"
     },
     {
-      "title": "[AI의 종목 이야기] 모빌아이 14% 급등, 자동차 업계 수요 회복에 연간 매출 전망 상향",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtQXJYN1N1Um5kMHNUUl9hMlB2WWNkeS1tNl9BcXFtalQwWWpZWTc1UWhjMzR4RE9OTENJQjR2OTcyTXNuampqYm5SaGVzVEpqRi1WX0xIQmRBdDE3?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 17:06:00 GMT"
-    },
-    {
-      "title": "홍콩관광청, 세계 럭비 대회 ‘홍콩 세븐스’ 50주년 성공적 개최… ‘아시아 이벤트 수도’ 입지 강화",
-      "source": "뉴스에이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MFRqN2xzN2ZsT1VqODVZUlM1Y0hNMEpDejFidUNFN1NzWjY2VzZpb0FNYVRxR3pZT0JLZ1V5SFBPN0kyaW5abjdUZ2Yzc0JaVWd0MFk5N09NYUo5cER5SVVlOC1NOWho?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 16:44:31 GMT"
-    },
-    {
-      "title": "미·이란 종전협상 승자는 파키스탄 [이규화의 지리각각]",
-      "source": "dt.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBreG1EUVZTNm1HNFBQREdIdjBEZEFHbzlIUW5CWFNrVmdnMWhEaUhvbDVwMFZHT0lFUHhySnJncFNSWmRlWjZjUkUtVy1aWVY0d1IwQzAzaTRpV0U?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 16:24:54 GMT"
-    },
-    {
-      "title": "두산에너빌리티, 베트남 신규원전 교두보 마련...박지원 회장, 정부·업계 협력 기반 다져",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wSEY1ZHVvaWdLTGJCQU1KbjZUUUhpLTFqQ25vaUlpVDBaNFpvSDZwVkM4RGR6NUpFMExnUXRIUG9BVmprLUVOM0VHamhRTWFvX2ZxMmdfMWtPakRLMTlmbWVfcFNTbFo5UW82Nnp3?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 16:21:00 GMT"
-    },
-    {
-      "title": "포스코퓨처엠, 베트남 인조흑연 음극재 투자 승인…사업추진 본격화",
+      "title": "美금융당국, 사모신용 감시 강화…부실 전이 가능성 점검",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSDRqdFg4b0lpNmstcjNjOHhKdVdJTWZubU4wVVVVNjZuYXZSUFFHdEZTTEY0elVUTktjbnU2NFRZM25lQkRNcEhKZVB2cmZRZWVYMFJJLWNnUU5XZ25nYU04OUtLV1YxQzhGaFlWNVRHeUNGUTdGYQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 16:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsM2tNMklELTdjY2JUeWZranJFbVJLMXp5dDA1R1JyR3V4eXRuLVBrRzdyNUl0b1pUTlBQbHVWV0V3N2N3QlE0Y0dBR3VJZ2E1Qm1V?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 17:39:00 GMT"
     },
     {
-      "title": "\"죽여버리겠다\" 면전에 '충격 막말' 논란, 이런 추태 또 있나…'분노 조절 장애' 심지어 처음이 아니다",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qRDI2R1hnM056cjlsQV9HMGlvbjRZbkE4Y3o1Zl9mdTV0Sk9mREd1R19BN0VqZTZpa0I3Y1dXTUMtaDExMk9ncUNYZHN3Nmc3RUVLNkYycUZMd0M4?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 16:41:00 GMT"
-    },
-    {
-      "title": "[AI의 종목 이야기] APLD 15% 급등…75억달러 규모 장기 임대 계약 체결",
+      "title": "MS, 첫 '자발적 퇴직' 도입…AI 투자 확대 속 인력 재편",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtci1oTGw0NnlUOS1XTXZNaUtwMUJIOTVvSGNHT1NMN0VHdUxfbWxLSEl2Z2ZtbXlMQXFFZkF6M0dpWnlJRjlTb3U2dFk0dC04dDJj?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 16:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tYTM2QlhUWEZhcFkzZUhGeTR3dlUyMU15bGV2MHBHamJYa3lGdXQ5SEJhaGJ6S1hacl9KQlI5TThQZmlSWWlHeWdOSzNYVlBjQS1j?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 17:32:00 GMT"
     },
     {
-      "title": "\"신짜오!\" 李 대통령 부부, 순방 마지막 밤 하노이 시내 '깜짝 등장'",
+      "title": "트럼프 \"동맹국 도움 필요 없었다…일종의 시험\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYOTFGc0llMTVid1dIVGpWV0tYUU1iT051TFEtYlVDdEF5NmFmNnRTcDZtSVFoMzBYZVZQZllyWlJTWHB2WG5QYVRQLWY1ZzlYX05r?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 16:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qcFZOSzFsRzRCYzRVN2k3QlVmellvNjB6WDBxTWxMWmw5UDFVTURhMTFqQW5ZUGh3R2U4aUt3NkhXQld2VVBpcFAwdXYtX2hvTjQw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 17:57:00 GMT"
+    },
+    {
+      "title": "'우크라 대출' 해결한 EU 정상들…에너지 위기 고심",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2QjlZWGlSRDdiaG81OVlDNk13VlZvbjZScGw2aTgwbzNla2tHbFN1NDB3cDFSc2REQ0ZobkRlNnU1ZmcxQXhVZnJVU0RYSG5OajRF?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 17:43:00 GMT"
+    },
+    {
+      "title": "박용택, 은퇴식서 아내 언급 빠트리고 눈물 수습 \"인생 은퇴식 될 뻔\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZcVNLX0lXdC1oNVlMZWpEUllNLUtFaXY0WFpWVkkySUhmT2MyQ2V4UENXcHlnSFZjNVdZQldaSHJlOXVPRmxCWHBBRHpYNlZYY1o0?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 17:31:00 GMT"
+    },
+    {
+      "title": "'직원 밥값 빼먹었다' 오명 벗은 삼성…\"2000억대 과징금 취소\"",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rZG1DX0c1SkpMcnB3MG1DSEdTOTN3bG9MZjVfNW1UdVBOcU9BUkpmUEhiMU1VSmJZNTdaS0hOVklKY1VSNmN1S0JFZE1mY3VsaXZFdnFVLW9IZ9IBVEFVX3lxTE9tcHplNWVFRHNVT1Y2d2RoU0pmUEJfMUlVZFc0QU11U0NtUmdGWXlUV1pzTjFzdFRBdF9NX2RkN2Znd2lBSGt2eFBSSkd0VU9zSUlsVw?oc=5",
+      "publishedAt": "Thu, 23 Apr 2026 16:59:00 GMT"
     }
   ],
   "sources": [
