@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T02:59:56.955241+09:00",
+  "generatedAt": "2026-04-25T03:45:04.557630+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "8.9°C",
-        "feelsLike": "7.3°C",
-        "highLow": "최고 23.5° / 최저 8.2°",
-        "humidity": "79%",
-        "wind": "3.9 m/s",
+        "temperature": "8.3°C",
+        "feelsLike": "6.5°C",
+        "highLow": "최고 23.4° / 최저 7.5°",
+        "humidity": "81%",
+        "wind": "4.5 m/s",
         "rainChance": "0%",
-        "pm10": "58.6 μg/m³",
-        "pm25": "56.6 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "58",
-        "updatedAt": "2026-04-25 02:45"
+        "pm10": "57.4 μg/m³",
+        "pm25": "55.5 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-25 03:30"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
-        "temperature": "8.7°C",
-        "feelsLike": "6.9°C",
-        "highLow": "최고 25.3° / 최저 6.3°",
-        "humidity": "82%",
-        "wind": "5.6 m/s",
+        "summary": "맑음",
+        "temperature": "7.3°C",
+        "feelsLike": "5.0°C",
+        "highLow": "최고 25.5° / 최저 6.7°",
+        "humidity": "88%",
+        "wind": "8.7 m/s",
         "rainChance": "0%",
-        "pm10": "34.5 μg/m³",
-        "pm25": "31.9 μg/m³",
+        "pm10": "35.3 μg/m³",
+        "pm25": "32.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "30",
-        "updatedAt": "2026-04-25 02:45"
+        "airQualityIndex": "31",
+        "updatedAt": "2026-04-25 03:30"
       }
     ]
   },
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-24 21:16:21",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-24 09:52:02",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,10 +177,40 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "김정관 장관, \"산업부, 세 가지 중요한 싸움 마주해\"",
+      "title": "한일 관세당국, 역내포괄적경제동반자협정(RCEP) 이행ㆍ전자상거래 물류 원활화 협력",
+      "source": "쉬핑뉴스넷",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwSHJHYTR4OGJkaEJQYWFVOXd6T096emlGakNnNzRlLXNUMmRQbDBGSFpvbzEyb2xhR2tkMTZPellzMVBXOFlKdU52TzFzWFF1N1c2ckljR0psV09WWHFUcVh4WmJDemFqTzN3dGRfMjJGcWs?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 18:27:58 GMT"
+    },
+    {
+      "title": "빚 탕감 심사에 '코인'까지 본다...2금융권 부실 정리 변수 되나",
+      "source": "뉴스락",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15ZG5tV0dJSXgtcTE1MkNXRFFpTDd2R0JocEFxMHlHcnl3Rl93OENpOG92WEZkWjM3eHB1S0djeEdsR0xHR0tXYVBpNDhRRjFaeFlySHAtRXNfdTJRR0ljNEt6bXlmTnlpQlJjOQ?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 18:33:49 GMT"
+    },
+    {
+      "title": "부동산 온라인 직거래 피해율 47%…중개거래보다 2.2배 높아",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVOVFxbWEwTE9DQmZBS0R1RzZ6TmZMbWs2c3ktbzQtNEp1N1hFUFNaVHQxWTd5QUZoVzR0VS1ua3ljZnZyQ0wybEZ3VGE3NlVtR3FpeWtTQ2JHZGkyVXA3aNIBeEFVX3lxTE9mdFJkM0Z0VzAxbDkyb053QWttdFl0MDBaTnd1R2hvZkp6MzFMQTJkd2V5WVNXSjhSVE85SmNQV0REUVA2di1hOEV2NGNrYlRKUWx1cWZrakRLeWhsY2czOEk1RGY0NHN3cnM5U3dKX0tmU1lVMFo0Rg?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 18:30:00 GMT"
+    },
+    {
+      "title": "'충격!' 日, '탱탱볼' 도입 폭로에 발칵→사무국 \"바꾼 적 없다\" 첫 해명 이후 침묵",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yMWpndWRPTGozNVYxT2F0c3NRSHdqc283NjRKRDZMazB3WVFWRE5KalhBQS1DLXF2dXJFdFVPUjR2UExoX1prd3dYdEVfY0gwTTNmdlBGWEJaUXlC?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 18:33:00 GMT"
+    },
+    {
+      "title": "[포토] 계룡시, '제6기 지역사회보장계획 수립 연구용역 착수보고회' 개최",
+      "source": "뉴스티앤티",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoQVFFQVIzd19ZOVFya1NqRkZiWDE4em1TT2FGajczWkJCSU5GNUZnUFlya204ZlV6MzlrQlFQU2JZTUxBcmg3QkpISmtBT2hWSExUWTR5LW9NWlhRU0YzemJ3M3RXb094dmc?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 18:00:00 GMT"
+    },
+    {
+      "title": "\"술 한 방울도 안 마시는데 암이라고요?\"…2030 젊은층 특히 주의해야 [헬시타임]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40MUlxS3FRLVRyd3hma0ZraFVhbERMckFyVUd0a3VGd0M5ODhTT1NVRUgxajlPZlU5SkpmS3JQdmNzQ0dBYjdHQWJBNDdpUmJzekZz?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 17:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMG1IV3A1cEMxYlZSM0o2RnFwbmNfSnNXVFZMR1J1bGZWM3JPQkVtcng5MUphWF8zQzhMcHBtenZXbXdxVW14SjBROGRxV1F1WmZv?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 18:01:00 GMT"
     },
     {
       "title": "NEXZ, 신곡 'Mmchk'(음츠크) 뮤직비디오 최초 공개",
@@ -189,52 +219,22 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Fri, 24 Apr 2026 17:51:00 GMT"
     },
     {
-      "title": "\"구글, 앤스로픽에 최대 400억달러 투자 추진\"…AI 경쟁 '격화'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04aGd4V1pFQVJCQ0VsLVZTTE5JUW81Rk1FR2RrbFM3WThwNEV1WHMyWmZoazRXaWJxcG9uRE5pWW5FcHBobzFmeklyd1NCWFEwZmZR?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 17:02:00 GMT"
-    },
-    {
-      "title": "밈코어 급등 속 도지코인 상승 여력은? 자금은 초기 프리세일로 이동",
-      "source": "99Bitcoins",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblIyZ0d0S0dJWkM4QzlnQ3FqNmZWWUd4cWF4c3dYWDN1Z09PWlhoMDJXQmRYNTZhXzR5QmEwc19XVHcxYlBadWRVQ01oeW1zbVpuVmJDQXdEcG1qcWdpYUxFN19GWGV3OTMzbXRZeEkzTVphZmt5UWxaRE9HT2JlXzF6TjE3cjVCYkRqOU9GelJId1IxZmxiN0kwaS1iTmptOVVaWQ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 17:03:18 GMT"
-    },
-    {
-      "title": "'아!' LG 유영찬 9회말 부상 OUT 악재→염갈량도 웃지 못했다, 승리 소감에서 빠진 1명의 이름 \"터프한 상황에서 우리 승리조인…\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFRjBfNjFoWEVFdDFaSTItZ3YyODVvcmdOVERoUGRIbFN0NEZ4N0MwaUMyQ19VVmllYUg1WmE3elloa2ZXWm1PMzJ4a2VaWENUWi0wbDZlSm5QQUdP?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 17:13:00 GMT"
-    },
-    {
-      "title": "란제리 모델도 했던 女테니스 은퇴선수, 임신 중 깜짝 복귀 선언 \"2027년에 만나요\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fUDdfU2htT2lrZ055U2tvdnNqMWtJOGNvS2FqekI5eWFJaUpYWmhreGJwcW9WdVpWYmlzeWRZNUVWVkVZblNMV2cyaTZac2s4TFNESWpZaEM5TGNx?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 17:01:00 GMT"
-    },
-    {
-      "title": "美법무부 파월 연준의장 수사 중단…차기 의장 인준 '청신호'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sYXZ5X0ZvYVdLczRTSXhJME9QRHUzRDhCbjZYOVRSNm4yejFwcUFaZEliZGI5TnQ2SU1pTHlEZ0M5ZUUtUDJGaVRMdnA5YTFiZUxr?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 17:12:00 GMT"
-    },
-    {
       "title": "오세훈·배현진·주호영 “결단” 압박에도 장동혁 버티기…국힘 내홍 확산",
       "source": "한겨레",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPT3VsdUt2RlVXTlhnQ25pcG1HdjJpWnJWVUhjV3B4YkRHWDNzQnBiV3JVb25seTVTM2VvdVNWNWtjbHFkMEdteE1NSXVfYmpBLTBVSTFkV3NuVklpRXB4alNlUXc0ZERHVEhDaDBGQWVjUFNk?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 17:14:03 GMT"
+      "publishedAt": "Fri, 24 Apr 2026 18:11:13 GMT"
     },
     {
-      "title": "장원영·박보검 투샷에 ‘깜짝’…11살 나이 차 안 믿기는 비주얼",
-      "source": "스포츠경향",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5b3NNM0tiM0VmcWtvZnBKQlRMUW9TRlBZcHktbmp2Rmo3UHVkNWVMODJwRFdyQjg5cVhscjFTRVZqNlRuUUFwWGdtak9fNE1MU2tOSkJ0akhWOUJrZGfSAWNBVV95cUxOX0I1Szl6Nzl2d1FDNzN3TGZHeVczNG82Z2VnVWdKOW5UQnZhU2ppeEZXYXRqdjAtOHgycXpBSmg0LXFPZFdEdUd4UHRTTDJhQWJCVE85cjBiTXZQWUJQbmxHX28?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 16:00:00 GMT"
+      "title": "美 법무부 \"파월에 대한 형사 수사 종료\"…워시 의장行 '청신호'(종합)",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Vb3FBS1ZVTVVWRWVnV3Fzd1hRbFFGaGhiaG5qRkFzeTJDWmwwRml5THFnZjVNaUpsbTJyUzkyZjdnM0xYTFZBYjE5MG1WUy1GckJTUTFhNURkVG1sem41bXhNQ25ZdHJESGNzS0lwSUc?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 17:03:52 GMT"
     },
     {
-      "title": "구성환, 눈물의 국토대장정 완주..\"잘 갔지? 나중에 봐\" 꽃분이 추억에 오열[나혼산][별별TV]",
-      "source": "스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMGN0SjNzSjJ1RTMzTVdSNWs0dzhJVjFxOG85Xzk5OFhrVkxOSmxuRVVMTmcwNERMc0tDVldYUmQ4enJZdU51ZHE5Rnp6UmxlUFg0b3ZORlBScjYzRzZnQ052djcyaVNYZ3VWSERmbEdrN2thOXE3TGE4WE9SaTRkQw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:24:03 GMT"
+      "title": "블랙핑크 지수, 칸 시리즈 페스티벌서 라이징 스타상 수상(종합)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6NnduWHRsbDZJRnpvVlNrbERRbmVmeXlXeG9YTlhUYVc3M3BrRWtUalo0X0FaYlh2NlRtSTcxVnNRc3FrSFNGc19pMUpHNVlrM3lpMjZaeG1mSnfSAWBBVV95cUxPYzVDVHpER0tyWUNLQkZGc0tYV0kxQlV5Vzd5LTNLZlhiZDJhM3JFTHJ6YUNvNUMwQmxocmljZWoySGVsNmhEQ0lldmxhRVJVTWw1TXpUSmx0ZEozWlpNUUY?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:52:53 GMT"
     }
   ],
   "sources": [
