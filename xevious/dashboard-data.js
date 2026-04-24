@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-24T17:31:23.547762+09:00",
+  "generatedAt": "2026-04-24T19:28:26.145817+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "21.1°C",
-        "feelsLike": "19.4°C",
+        "temperature": "17.9°C",
+        "feelsLike": "16.0°C",
         "highLow": "최고 23.0° / 최저 6.7°",
-        "humidity": "39%",
-        "wind": "6.2 m/s",
+        "humidity": "42%",
+        "wind": "4.5 m/s",
         "rainChance": "0%",
-        "pm10": "14.9 μg/m³",
-        "pm25": "12.9 μg/m³",
+        "pm10": "16.8 μg/m³",
+        "pm25": "14.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-04-24 17:15"
+        "airQualityIndex": "54",
+        "updatedAt": "2026-04-24 18:45"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "21.7°C",
-        "feelsLike": "19.8°C",
+        "temperature": "17.0°C",
+        "feelsLike": "15.7°C",
         "highLow": "최고 23.6° / 최저 5.7°",
-        "humidity": "40%",
-        "wind": "8.4 m/s",
+        "humidity": "58%",
+        "wind": "6.6 m/s",
         "rainChance": "0%",
-        "pm10": "6.0 μg/m³",
-        "pm25": "4.8 μg/m³",
+        "pm10": "6.5 μg/m³",
+        "pm25": "5.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "54",
-        "updatedAt": "2026-04-24 17:15"
+        "airQualityIndex": "49",
+        "updatedAt": "2026-04-24 18:45"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[주가] 4월 24일 주요 제약바이오 5% 변동 현황",
-      "source": "메디파나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41Smp3cGtwUl9QRlJaU0RLUDBoaVFRZFhsbFNJd2JBS0lsdnVQVlJqQ2dlakt2QlVlVkJNbHVlSVpCZjZ5bXdjLW5oSmtmMEhaTWVzVnFRRFNKcllTdVdUV2RQd3BHRE9nYkFr?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 07:34:46 GMT"
+      "title": "[한국뉴스 TV] 26년 4월 24일 (금) 오늘의 주요뉴스",
+      "source": "24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FT3UxOG5lSFRwYVRHcGZlX3hUbWQ5WDBBQUxpSGlMOFg2VVViVVIwUy13UVhyV3ZNRFh5YzlicHhFbzZTLWpvUnM3YWRhcGMydmNfMFpkNWk0dDFUMHhYZlNtOEhmX3M?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 10:07:12 GMT"
     },
     {
-      "title": "中, 트럼프 방중 전 '판다외교' 가동…'양국 인민 우의 증진'(종합)",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXBGbW1IWldBV05MdlAycUI4QUJGb2FQUHljMG40YlFuYkJ0ZDVOcEVNcWZ0SmtzeHJNUXIzY3JJLUNRaHNDU1VLN2JqcUhSRUEyWFNGS3cwQk91NnpKcVhqY2JrbFc5cnNrS1dTX0lLek5rXzVmS2EyTGR4cWxfcE15ZFY3NHdWVnV4N3NLU09jRGhyQWNETXUyU1JFVTJEb2EzNm9KNGZSdE44MElFX1Q4cHhkRWk0RVBDR0o1QjFSY0t3SzVZZWlB?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 08:19:58 GMT"
+      "title": "체르노빌, DMZ...인간의 발길이 끊긴 지역은 어떻게 야생 생물의 낙원이 됐나?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEVFdQdnN4SzdvZnB1TFdMQXlPRkZRNkJrMVJPWDVZT084QVpmYlhFbVJrbThSVnR3TjZaS0FiczZIM2dCaDNCa3lXaTNrSlYtMmZISDV3VlBfRXJ60gFiQVVfeXFMUEstQzJfYnp1MDNmcHJDVWZCZnlxdHdBTXJEc0lBZFBBZjJTMXY3N1FPVW1uUEt0cnVWSTV4b3ZYY0dPWFhTUUdVdkNHUWxHOU9GbkQwaG9iQkxPRktQRzRMZFE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 09:32:06 GMT"
     },
     {
-      "title": "트럼프 방중 앞두고 中 '판다 외교' 가동",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uX0d5WnJGakwwa3ZBNkxIQVBmSF9wVk1zLUk5VHNuWTNGUWVpVEdzUjltLUlwUFdpZ1BYQlVQNXNoUmYybmRTMFVjNWhnSVptWnlWZVNiOEl1cmtWUzE5TFdid0dwMllnM3JaUkNPRVZxRW9jeVVMNA?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 08:12:00 GMT"
+      "title": "美 3번째 항모 중동 도착…이란 선박 또 나포",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByM1p5WUdMMl9iVzBDdEI0X1lLWXlUNk85b2k1cnR6RGRDLTNnaHFhYzFlSXNqcHJfVTh0enNkblRjeGVUb2NOQkgteVoybXdpREc4ekFyOG1mYmJHTXfSAWNBVV95cUxNMEFQZHRvcnFfZ2kyQVh3cGVJb2JXaFdKVEtaR2lMWjRBVUg0WVd2NUcxZ0Uwa01DVG16SWVFR2JrXzY5WlUxS19MUnlnXzloSzM3SDFKTTRWZC1LeGJKcXNxRnc?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 09:57:00 GMT"
     },
     {
-      "title": "두산에너빌리티, 베트남 신규 원전 시장 공략 가속화",
-      "source": "기계신문",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55bG9QZ252REtwYWpZbzFRYjQtdG5BMmx3VUMzcVl6VWx3ZUVwWVFyREI3dU1vS09CX0ktZi1ZM2p4Y0JuSmN0a08zUTVoUGF6RldfUFhuaWZleWNPN0ozWm4yeElmdw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 07:38:41 GMT"
-    },
-    {
-      "title": "전남경찰청 '심야 화물차' 과속·졸음운전 등 계도·단속 강화",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50Y3dOd2J2WW1lNlpndlV5YlQxSFBBeU1UNHV6MmtYZm4ycnp2M3dNZGtyMFJEWVVQdzVic0wycG52c19nazZpenIzM3NEMEtWVXRtem5pUHBSVVJIaHhV?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 07:40:18 GMT"
-    },
-    {
-      "title": "트럼프, 이란전쟁 비협조 스페인 나토 방출 검토",
+      "title": "[단독] 검찰은 왜 방시혁 영장 반려했나‥\"경찰 법리부터 잘못됐다\"",
       "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSE1QUFJ1X1VBbE1qUHV3NjBwZVJDeXpiWThGSThpdUJBRGVLOXNCUjZQQW5yaDUwM0NFNUVTQndvZ2xPYjd2WEtlSmJEZi1IMWFxc1NIRFo4WkVyRE5iSmtGZW5hRmdOQVQxUWVqRlRuOGsyNVdhZlhkeEdqTGJoMGhRWmhIODczbF9TSFZtMjlXNGJsMFhNN2xYQ1B4cm5NMmhPcGFxVzRuLVJCU2FYcDBwS2RjYm4zZjlOatIBdEFVX3lxTE9tdXhlWHFIQ3FaYzVZeUYyNllQUXM2OWdEQVJMUWZkY181SHdBVWw2SWYya3lDaXBGTC1fRGhFeG5sVXItb0RXMVhyY0NGcEljRU44SFhheGZkR1QzLXAzdTRYb2kxM2xYbXRQRHBGUW1aNTlz?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 07:38:49 GMT"
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUk51SWRqbUtGTzN6M09idWlneXY1LWdPbGxVcHNmdGo1c0hXaW9oX1FpU0dPUERxOVZ6eENIS3hyYk5sa09hdTVSQ3JxY2theVVhdDdnSWRPZFptckhjY1Q1VVRYRHItZ1U5N1J3dEViVm1sY3hOV0lDc29HR0ZWZ2dGXzJOZGRNOWkxSThQd3F3QnhBd2dQWUhxLUJTeWhXcDI4TG92V0N4aW5NWnA0N0Jkbm1RUng1YnN1cVZSZ9IBd0FVX3lxTE9vLXpkZkQzSmZjUEptcEtpV3ROVm9vTV9LWFhyZ1lGME4xeDZQcDVMNk50VHRBREpOUlNrWFItZHp1UnJtZ01lc0dSOVNZc0RPVElKWlNLbmZsWWp3TkNoS3BfRnU2Y0p1ek43RXdSOXRhcGN5MGlv?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 10:15:01 GMT"
     },
     {
-      "title": "[오늘의 주요공시] 현대모비스·기아·현대로템 등",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VRlZBREttaGpsTUZmYjVNdkVWREQ1bThqdTNFOHVmcThrVEdzS1RjcXJZMHhtRXo4dTRhSVZNVUgycUxCQTFLSUlLZmZQMFppTTRrTXJhXzl5Y1lEa3kxUjRpZmFqTGVLYlpHTGNB?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 08:27:00 GMT"
-    },
-    {
-      "title": "나들이하기 좋은 주말…'큰 일교차와 건조한 대기'는 주의",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWo2cTJZRXh6NnBUU3Z5VF83WW1aQzJxb0xSbnhNblVOcXNjS0ppRGM5WFMzNEdwcFdadEg1VU9OdUthc0JTWEJwVWpNLVVGaFNEcW9QMm00VTB1bGx0THNFMUVOdU5jdUtRekljSUZnbXdqZDJBckdkOTV4ZFROT0JXR2ZrLUdlZFdVdGluNEZMNmlpTGlMWmtCcGRiUjYydENNSmM0Y0hXWi1FaEkxX2RQU0tKbGJpa0E?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 08:21:02 GMT"
-    },
-    {
-      "title": "펄어비스, '붉은사막' OST 첫 앨범 발매",
+      "title": "현대차그룹, 복정역 인근에 AI·SW 연구거점 구축 추진…8조 투입",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42aGYyalFzemh3N0dvN1hNOVhielhWMnFiYlBsY1k3YVdjX3RQWl9rSWhCWTd6cDY2WEQwQV83UGVjR2J4U3MtMHJ1a3BIRFlWTkxDZ01CTWdKZVVXTVloaWYzT2VNS0QyQWhzOTJ5UDZJdFZ3WWtqSg?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 08:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FcjZ4Ymt3NUpqY2dPQkkzTWY4el9kYTBxc2g1elpVQ2FGanBHOWpuMFU3VUV2Zk1lWjVvQ2pBN2U3Sk9hX3l3aDVmQW4tcnZjWWlv?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 10:22:00 GMT"
     },
     {
-      "title": "기아, 글로벌 점유율 4.1% 달성…'판매 성장 전환점'",
+      "title": "스페인 총리, 나토 회원자격 정지 美이메일 보도에 '논쟁 위말리지 않을 것'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQanNzcVd1NkZtY2tXR1hrMlZhbWdYZzNpZUthVVF2WTNVMVpIZHdYdUx5V3dYLUpuQTJ0Uk4xamx6NmtDZEpEVFVQSlNGYmlFRnpHMmRGMTY4ZnZGUUpMTTRBeVpUS2I1QzJ5Y2o0YkNkdGp3QWtIeXMzeW15c3UzekMtQ0NxbmJZOGdEcEpHbDMtYUo2bTYxTUI2LW1NTXQ1ZHdoUmdOaXQ3T21wZ0Rlc3EydkE1QzNnMlpEMlhYWlY4Y1U5dGRJRm1B?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 08:21:37 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzBSajlmN2RuaXk4aUZfRXUyUXFVMkJmYWRyYTRZRkVCMDdNMnZCNXpuY2JzMkJhOWIxanhXSkZDVEZHZmowMEJhUUNzdnZ0TGk1cFZ1WndtYzFsWjItX3lpTG1ZSlVwaTFGcm0tbWU3a0daQklCZ3JwOHZfSEtuN2FVZkhXc3dnVWpoazN1clp1R1RRTzhLeFgwcWs2amF1bU9BRDJGSWdMQXNaWmxGQk9kOG0wMndQZ2c?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 10:21:21 GMT"
+    },
+    {
+      "title": "[청년골프] 이정민,KLPGA ‘제2회 덕신EPC 챔피언십’10번 홀 티샷",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ya3NTZTBIY3VLa3RGeWoyZnZLOXNzam44d1NKNTdMdFNaV0NNVnpGc083amQ2aUh3M0V6VDF2aENtWmJ3SDZMa0lwaDhLY0RzZ1J2S3ZKVU42VjJlVGVleG1UdmlnT0l0NVE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 09:39:04 GMT"
+    },
+    {
+      "title": "'日, 통상장관 회의 참석차 방중 조율'…중일 관계회복 단초될까",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlNzTWNTeDJnQXlubndmMmQ5X2lSSlpOUXpjdW5NampLSG1jalZUMTlxd0NwWjVLczI5cmZza0g5bHZFNWdSQ0ZaSndtT2VGbmthaFhNc29RazkycThKNlFsakF2NHBYU0NubmlTc2REMkhGZkk3LUM0QUdiWDV4UkpzbDJGd0NQc1k3LVhQNlkzY095X0UtVnZ4WWtXNEhFTzQ1aVIzVTRVcm1pd1Y1MzNDZ3NBckVI?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 09:51:49 GMT"
+    },
+    {
+      "title": "[포토]개막 22경기 연속안타 첫타석부터 2루타 터트린 박성한",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lejZ4aTBDbUtoelNyWXVpY2hZWGIyeGd5VDJoTmFfdUZ6clBCU2VaWUxQSEVoWVpiU09RYzk4c3ZCWk5JNEczdjlISzlhYkxfSGQxcU41VGVnZWot?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 10:08:00 GMT"
+    },
+    {
+      "title": "한일 관세청장 만났다…전자상거래 물류 원활화 공조 재개",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0waWxzeFdRM0tDdkpmVUp2S19RV1Jpck9TWlhmTGYzbjU2Q0V6Rlk3eGNLbE00Zk5QOVhMZDNHR0IwT2VWX05BNXNRSHlYbnJDYTh3?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 10:10:00 GMT"
     }
   ],
   "sources": [
