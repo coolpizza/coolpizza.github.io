@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T05:31:00.124636+09:00",
+  "generatedAt": "2026-04-25T06:12:04.000039+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "7.7°C",
-        "feelsLike": "5.8°C",
+        "temperature": "7.5°C",
+        "feelsLike": "5.6°C",
         "highLow": "최고 23.4° / 최저 7.5°",
         "humidity": "82%",
-        "wind": "4.0 m/s",
+        "wind": "4.3 m/s",
         "rainChance": "0%",
-        "pm10": "51.8 μg/m³",
-        "pm25": "49.6 μg/m³",
+        "pm10": "52.3 μg/m³",
+        "pm25": "49.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-25 05:15"
+        "airQualityIndex": "63",
+        "updatedAt": "2026-04-25 06:00"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "7.4°C",
-        "feelsLike": "5.1°C",
+        "temperature": "6.7°C",
+        "feelsLike": "3.8°C",
         "highLow": "최고 25.5° / 최저 6.7°",
-        "humidity": "83%",
-        "wind": "7.6 m/s",
+        "humidity": "85%",
+        "wind": "10.5 m/s",
         "rainChance": "0%",
-        "pm10": "36.8 μg/m³",
-        "pm25": "33.8 μg/m³",
+        "pm10": "40.0 μg/m³",
+        "pm25": "36.9 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-04-25 05:15"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-04-25 06:00"
       }
     ]
   },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-24 09:52:02",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-25 00:45:51",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (25일, 토)",
+      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lS1N1WEdLa1B2ZUZkcHlSaXNLZlNqbTEzS1RrNG5uWThza1BSdHl5MkxQMXlwWFo5VWN1VDdFOWQ3SkNHMHc1TXdqa0hrUE5pVUthYU5YcTk1SUtNTElmWWxmYVpfVGhlTGE2WWVJd1h0aXNKQmhzWQ?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:07:00 GMT"
+    },
+    {
+      "title": "건조한 주말…캠핑·야외활동 시 화기 사용 주의[오늘날씨]",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rdFBGeEdUM283Q1hDMW9XV1lBSEwzTlY2Slg1RVo3bE53ODZfaHZ1TW4ydFBHaHIzWjRCQVpXUGNGRFpubExjWEZlejM1VWZCYnlpVktUMkRlQVU?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiTWlqYTJvNG9wRFl5eXdjSlZOaGkwRFhNY2RPMHhBSHZJRHQ1RWNvelhmQjQ0QXRJMm9KTzRkaU0yQ3dWTUVTODRrMzRjOUk2eFVpMjNtWndCbVlfSWR4RlhVN1U?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:00:00 GMT"
     },
     {
-      "title": "정보공유 논란속 워싱턴서 한미 고위급 협의‥\"정상화 노력중\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJcmoyWVAtSkdTbkJEZFFJR0pnTzFHcEl4bmFEcnJGdVpONDVvVERwNDE5UmhXWGR1S08wV3dGMFhNTUw1TENaRlNsUWxIYmFpNmc5cXlJOWc3SzIzSnVreXpZQTZHSzZUb3FVR0FEczdqNnFQ0gF0QVVfeXFMUElyajJZUC1KR1NuQkRkUUlHSmdPMUdwSXhuYURyckZ1Wk40NW9URHA0MTlSaFdYZHVLTzBXd0YwWE1NTDVMQ1pGU2xRbEhiYWk2ZzlxeUk5ZzdLMjNKdWt5ellBNkdLNlRvcVVHQURzN2o2cVA?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 19:37:38 GMT"
-    },
-    {
-      "title": "앤트로픽, 구글서 최대 59조원 투자유치…구글 주가 1.5%↑",
+      "title": "이란 국영방송 '아라그치 외무, 파키스탄 등 순방…미국 안만나'(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzVybF96bG1BTlRfd0x1X0R4WTBjZzBhTjN6SEFEcnBlV05teXNNQU5NNGo2Y2ZlMVZ4RnYwcmJOSmVzTk1ZY0pRZFkxYjJlVFJ6STRtRFZ2WjNnOVEzd09LTXdleEx1VVZrWF8zajZWNXhKUU9VMWFaeDJQYkliT1dwNkZxaC1GcXZQR2VRUWlCbThYaFM2UHNLSWV3Rk1HdWU4ZU4yX3ZnUWxSZnRVbEpEc3JDSW9QR3c?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 19:42:51 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQancyTFU2QVdvMmVwWDI0Z0VpUXpFMzI4YzYwTmpUbElYa1dHZllrRkZrNUl4aGxEZE9fWDVkWkRMYUdpalhKSGNUTkZndDJLcFBCcnlxVkJNSnRGSEV1eXRRRXNjSzhLMWZRbG51TkpsUW1LeDZSSm1fcXBYREdqRXN2OHowQUh3OGR4dDZjMVJEcWl2MUNIanFZNUVKd3hvNVpzSkpSN0tmTjAtYWZOeXNvTmZudHd2VXQ1SGVRZk8zLXRNUHFYMUp5Yw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:00:22 GMT"
     },
     {
-      "title": "\"또 못 받으면 어쩌나\"…전쟁발 공포에 건설업 '돈 밀리는 관행' 바뀔까",
+      "title": "[청년골프] 화이팅 리 슈잉,KLPGA ‘제2회 덕신EPC 챔피언십’1번홀 티샷",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fRDBFLXZBRGMwVHVwTHl4Tl9sdkw1aU9CTHNCUTI4ajlTbFB1MWRETjd3d283dkVNLWVlRHhmeHBsX0pfNTdvelVGRzFvV1JJTEJXUEJBZVRfSVpPbnVldXpYZ0NIa3hLSlE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:04:53 GMT"
+    },
+    {
+      "title": "동방신기·에스파·트와이스…日 도쿄에 K팝 팬 40만 이상 집결",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFN3eXRNdWJWZnJyYVdoWUZDQWRpWlFmeDliLUVNQ3pEcnRMYXJRUXd3YnlYVnVlU1cxNnRTaWoyX1o5V3FsNE1uaE5YRDl2RzRtbjlGVXNBZ3JBMEdxT3k5SW4wUWdOU01wYkItN290RXM5SnlUWllKX0tFUnlqRmx0YUZDQkdhU1B1VThNY1BiM3hEQ1l0TS1HUE1pNnF3T0pMVjdETDAtV1R0ZENoLTctYmJUMjF0dkE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:03:03 GMT"
+    },
+    {
+      "title": "\"녹색대전환, 모두의 성장\"…GX 국제주간 마무리",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CclAtMTRsOUtmRUt0R2pJNWg4ckFIM29jb3FhZThFUU1uTWtuc0RmcUYtMEs4WnAwQmdhRDdBM3ZWcU9zU0czZzZEdXlYTVJ3b000?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 20:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbU9ocE9yOXFnbnRHaUhpd1J3WHBPQms4SWJDenFCV1RkQnltanZMU0U4WUgtQlN6UllHNzNGZTBSS3dfRWplVmxEU3c4eXZSZVRr?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:00:00 GMT"
     },
     {
-      "title": "[美특징주]반도체株, 인텔·AMD 주도 '역대급 랠리' 펼치며 18거래일 연속 상승",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHV0OGw2ZzFKX05jZEFveklfM0E3ajh6UW1mRkZUSUpDU1pPN3VnY1JoRl9RbjBONUlRSHRwcWxKNl82QmVCOHk3S2FYMHFvUVVmbDRnTTQyVEU1d1BhVjdiTTAzdVhyZG1HYUlkSG9tMXhuUGQ3OUpVTlBCWDR1bg?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 19:35:34 GMT"
+      "title": "나들이 수요 정조준…차·패션·뷰티·육아 총출동 할인[주말e커머스]",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnFIZmRCWUVidExObThvQXB0YU81a2toQTBPUy1ZaVVMcTlQd19EWmpBek96N1Z1WF90dURJVzF3REFXaTdIdVNrby1kTEtZSGdodXpmNUhuUWFHMU5sWG5SS0Nvd3JnVXFKdHV6OV8wTHg5Z0RzOFNxZjF5cGRZMmY0RVRSV0tNQm9mekxWVk0xR2t3cEktaldJODJtS0pLdlVtWThTQUdNRENHZ0d5SlpOd012M2c?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:08:03 GMT"
     },
     {
-      "title": "중동 전쟁에 고유가·고환율 설상가상…축산물·쌀값 '고공행진'",
+      "title": "정시아, 남다른 교육관 \"'예원학교 입학' 딸, 학원 억지로 안 보내\"[아시정]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RZzlEYW5BenFqYmpjUkQ2MWtiVmtrT0N5cmhnWUxMajlObE5MbmN2MUZkeTNvQk5JZEVLbGVMRV90WllUaGJIUTJhaHhZcGZvVS1YVGFUTkdXS2ZCRkl6ZVB1QjgwdGdpOU5oUEZmb01tbjNxY2FyQw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lLW9QQTVzbmc4WWFQSXBmNjZVZmNBVzA2SG5uTFZwNjdWNjVOcm1QQlpxakdpYWE4YWk0d1gwTFBtcUZnbkpfZGRTZUFiUHdVUG1uMkswaEM0VURRcVhnOFJNdTBqcWJyQi1kWjlEd3JuelBkc0NqMQ?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 20:56:00 GMT"
     },
     {
-      "title": "'성인잡지 모델' 전 테니스 스타, 14세 연상 남편과 '두 번째 이혼'…\"평생 남자 말만 듣고 살았다, 난 자유\" 환호",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FMEdJc0RtQ1VVd1pkWXc2S19hWklvMm1VYU1MLW5JajU2R3JjemFLZHQ5QmRTeWhDWDlwLVAtbmRlT09xSTFBUFgtQzcyU0kzaGNxb3d2U0FLbzI2?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 19:51:00 GMT"
+      "title": "亞 넘어 美·유럽 메인스트림…수출 17조 시대 연다[K-뷰티 3.0①]",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFNiN3V6dzhTc3pRMThnNF9wdGt0UXR4dFl5UVZ2Nm1GcWZmcERHa00wYTRtZDFFOV9BUFpyRmxnVzE2amE0d3pMVGdZUlQ2RjdFazZ3V25HczdLbU1HZEFFRGhrTGJEdDhvUlEwbElaMXdTUEpNcVEtRUhNeV9ZQTU0VUNMSnB6NXF5MHVfaWd1d3RlWFNRMElheTBJLWNISTBvMDVQaXVRZVBfUGYzTU9paTNobjFZ?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:08:03 GMT"
     },
     {
-      "title": "트럼프, 한국戰때 만든 법 발동해 美저가항공사 구제 검토",
+      "title": "[주간政談] 李 순방까지 따라온 정동영 '구성' 논란",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40cEk2TVRYaThBQ3NTWE5XLU9wWUY5MWlOVUkwZG0wWlA2TDBKa0x4RWlkZmkza2ppVXU4cl9HV1l4WWdkcUtxQjduMl9SNXZHc2hF?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 20:15:00 GMT"
-    },
-    {
-      "title": "이란 원유 막아라…미, 중 해운·정유망 동시 타격",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLMWt1S3lpUElneV9Ca05Jd0ZtR1JYdUlnN3o4dGNPdHQtQ2NDWGljYWJ5NHoydzhZRFo5eFZNQm9hNkxGZHpPbFUwNktLVnhMbTBCT2MyRm5FR3NMSWhfbQ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 19:50:00 GMT"
-    },
-    {
-      "title": "불황인데 더 쓴다…외식도 '자기만족 한 끼' 중심 재편",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OQ21iOTJVT2xfWHNoN2RXcU9NeDg3eEdlQUpTYkg5VEh1b0s0enhmYlNTWVk1MkpKMU5RaHEwZlRXOFhwYmRmb2ZuT3lMSnlQT0Mw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 20:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3dHRHOVA4RURwQ2txR0U3YVY5eHFsc2Q2NDRBWS1sQUdyeG9TVUpRdnVEN09nbG42UmtvNk9JcE5paFV3czd0OEVIX2g0ZkozYkc4?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:03:00 GMT"
     }
   ],
   "sources": [
