@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T01:08:34.172467+09:00",
+  "generatedAt": "2026-04-25T02:14:09.850066+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "10.6°C",
-        "feelsLike": "9.1°C",
+        "temperature": "10.0°C",
+        "feelsLike": "8.5°C",
         "highLow": "최고 23.6° / 최저 8.8°",
         "humidity": "72%",
-        "wind": "3.0 m/s",
+        "wind": "2.7 m/s",
         "rainChance": "0%",
-        "pm10": "54.8 μg/m³",
-        "pm25": "53.0 μg/m³",
+        "pm10": "58.6 μg/m³",
+        "pm25": "56.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "54",
-        "updatedAt": "2026-04-25 01:00"
+        "airQualityIndex": "58",
+        "updatedAt": "2026-04-25 02:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "9.3°C",
-        "feelsLike": "7.5°C",
+        "temperature": "9.1°C",
+        "feelsLike": "7.2°C",
         "highLow": "최고 25.2° / 최저 7.0°",
-        "humidity": "84%",
-        "wind": "6.9 m/s",
+        "humidity": "82%",
+        "wind": "7.2 m/s",
         "rainChance": "0%",
-        "pm10": "33.5 μg/m³",
-        "pm25": "31.1 μg/m³",
+        "pm10": "34.5 μg/m³",
+        "pm25": "31.9 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-04-25 01:00"
+        "airQualityIndex": "30",
+        "updatedAt": "2026-04-25 02:00"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[청년골프] 티샷은 부드럽게 리 슈잉,KLPGA ‘제2회 덕신EPC 챔피언십’1번홀",
+      "title": "\"글로벌 IP 질서, 기술·통상·데이터로 재편\"... 일본, 국제 지식재산 ‘충돌 구조’ 진단",
+      "source": "특허뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQSHQ1aURtQThvanJORkJrQ0ZjMTkxNUZQSzMyS0RtUXdnbGtVdm9oY3ZwRzcwN2RQekFxVVRjRlpUR1V2aVFSQw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:23:00 GMT"
+    },
+    {
+      "title": "[지표로 보는 경제]4월 25일",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBESHZTRXVOVEhYQ3NQZXdtZ2VjYXZYNmZwMUlxd0syd1JJWEgxbkhyR0tBaDVsLUdPSkUwQlZhY1pRSHg2cVg1aW1GektEWEpjcjQ3MWtDX1NsUi15T2tKTENqdk9fYy13WVE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:44:00 GMT"
+    },
+    {
+      "title": "“차디찬 감옥에서도 지켜낸 신념과 가족 사랑, 후대가 이어야 할 삶의 기록”",
+      "source": "통일뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvVGR4eUhBWGdmRzAtVXZuTUZxcklXbjZyNDh5Vmp5WWZLQVl1R2tWU2lkTVNjMmdaVDNnVC0xY0FzRFFNdXRfeXR1Qm5OUzhleTJMNkMzYUgzbExJaHluV2ZINHktTndUTjNEZndR?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:20:55 GMT"
+    },
+    {
+      "title": "EU부패방지국, '엡스타인 친분' 전 집행위원 수사 착수",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hdFlQOWszc0lNaGVBNGtScDBnLXZPNU92TlRYVFF6Q0cwd09Yc20wd3UzU0JjRjllXzA3QTFybjlUZTBtQkxSbGRVdkNuNzg?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:22:16 GMT"
+    },
+    {
+      "title": "[청년골프] 임희정,KLPGA ‘제2회 덕신EPC 챔피언십’1번홀 티샷",
       "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80c3hlQ1FQcS1LUlAzWlZ1ZUhlTndHZGFVLTU3Vno5RGt6ZDVTUC00S2VYYzFsSHBDMDVOVlNEQkhIR1pmNGFiRUFxaG90b0FGOVh1OUNUenZwNlVzLUE3WTJObnpOUGZqN3c?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 16:01:40 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hV09wMVBWSUdLb2FkWlp4SVZiV0YxSzJXWGdqRzdOZ054SFFQWEFDOGRYTzZ0V1UzT3R1alN1cGpYSmZtMDJhRUFFbGNhZF9VU2d5VktOczNMNExsWE5pVzRmV1FnM3FFT1E?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:22:33 GMT"
     },
     {
-      "title": "장동혁 사퇴 거부…당대표·후보 따로 가는 초유의 선거",
+      "title": "한성대, 개최… 전통 동양화 재료 산학협력 확대",
+      "source": "뉴스에이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LejBKYV95d05YLW1mQU43bEdzbW44SS1FdGpSbE9QdWo4VU5pUU4yRXRkMUYzeG15UnhUekJVemFhbU9MazBIYVE2N3UySEpGNVFYcmNmRGg0Mzhndm5mQlNlTDVhbll2?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:39:40 GMT"
+    },
+    {
+      "title": "'왕과 사는 남자' 관객수 1665만…VOD 서비스 개시",
+      "source": "bntnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GaEU0ckxwQ21Pa3FpZGlHelkzVkQtT2R0cGRVcW9IUnRuZW5fWGk0eW85bTB6ekFFeWxlZjFFY0VOV2JQN19iZGhmYjVGR01hUnRGV2VVdDZIXzN2MkJCM1YxMkE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:46:22 GMT"
+    },
+    {
+      "title": "檢, 방시혁 구속영장 반려…\"보완 수사\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3Z1ZHUDlzVnhYVHJmaTB5cGg0VFNTRDA2M2xnd3MzU01LRzlaajZnaTdpSmRTeWdPQVdqa3cwc0dnNW9wbkRRenpCUm1Za2tNVDA4?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vOW9qb3doT3V5WU41Y2s2UnMzaWdTSWlyb1pCam1fd2tNM1JjOURScmpPc0Q5Sl9paEpYVjVYMC1nb2NxSUdBNWJBVnZkakktekdZ?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:46:00 GMT"
     },
     {
-      "title": "호르무즈 위기 앞에 갈라진 EU…이란 제재 완화 놓고 이견",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzdsMnd2dFh5ZnhGdWQ0UFYxV0dLX19xOUtJNEU3TGF2d0VxZGZGOV9VaWgwVjBPVnpZdHQ1TGRRRzBuVGZPRElhOU8wSjR0T0p3b3hjcTRyWnFNUERYTldhQjBMRnNfT2lkdENxN1dlMzdZRGFJaGV3eFhKTlRNX3VOVWtFeWVkQXdDa1hBbll0bVpJUzQyMHBEWEFCVDJYcW5SXzZRX1otck1FRjJQZHNZZ2pZZXRRNFE?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:32:22 GMT"
-    },
-    {
-      "title": "\"안전한 완주 도우며 시민 불편 줄일 것\"",
+      "title": "\"구글, 앤스로픽에 최대 400억달러 투자 추진\"…AI 경쟁 '격화'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lUzVkcWRjcjhHdHRic0REcDRKc0JiT2g3UjQ5eXpTa2NTa0NLTjVSMVFKZlMxaHltd1J1dTYyQnBSOXlCNDhRdTBJdFhVVy1iTFlr?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04aGd4V1pFQVJCQ0VsLVZTTE5JUW81Rk1FR2RrbFM3WThwNEV1WHMyWmZoazRXaWJxcG9uRE5pWW5FcHBobzFmeklyd1NCWFEwZmZR?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 17:02:00 GMT"
     },
     {
-      "title": "국힘 \"장특공까지 악마화…대통령 갈라치기 멈춰야\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42LXJRUXdiYUpVNmFxUVE4VV92dGM0bVNGc1ZKZ2xpbU12andINzhidENqc2hqMENmQ1JPenV6cWJUa3I0ZXAzV21PZHNaLTU5N0RJ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:24:00 GMT"
-    },
-    {
-      "title": "검찰, 방시혁 영장 반려 \"경찰에 보완수사 요구\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wdm1hdGhKZWhobnpkc0E3eElqNWxDZnROMHYyc01rRTZVNW5pOG9yeXRkUnZxV1plTnJ2MEoycmxVOEZYLUtDSXMtTWQ2VDBHMllj?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:49:00 GMT"
-    },
-    {
-      "title": "경찰, '이재명 조폭 연루설' 주장 폭력배 무고 혐의 수사",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkcXY4M005N1V0ZVlaOU5aRVp0TkQ3Wi1oWjI0VkJHdTFvdnBiYVdxZjdVZGVlMnpCTmotVWpFTmhiaDRUVFJpQ204U3d4T2oySW9z?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:45:00 GMT"
-    },
-    {
-      "title": "정청래, '12일 단식' 안호영 의원 병문안",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52UzB4TU11b2pxbzdBR3Z6azExekRuLXhjOEFZQlRqRmt6SjNKLXFQZ3hJSzZhbC1fQkxQUXBzbHRhd2NKSHZndmtacTBYMzlvcW9z?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:32:00 GMT"
-    },
-    {
-      "title": "[포토]보쉴리 상대 '3회말 솔로홈런 터트린' 최정",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RSEIwU1Azcmc3WWN2cklDS1o1SVpNVU9YNEktTUxlNEk1VEpEQ1c1eWxFSTFienJjTkJNTWxkTXh5R3VaMldKaE03YW1DblZuTDdPVTNFLVVvd2Fs?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:32:00 GMT"
-    },
-    {
-      "title": "[포토]'5회말 안타출루' 최지훈",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NczExUVFINzd4YmRPMURuOUJBSi1JUE5UeXFsZDgyTnBfOTZEd0JHTzRXdGEzMUtPbGVGb0IxaVJBeVpzMkw2OFNoOEd3X29XaE1HVVJ2R3lPM0pp?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:29:00 GMT"
+      "title": "밈코어 급등 속 도지코인 상승 여력은? 자금은 초기 프리세일로 이동",
+      "source": "99Bitcoins",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblIyZ0d0S0dJWkM4QzlnQ3FqNmZWWUd4cWF4c3dYWDN1Z09PWlhoMDJXQmRYNTZhXzR5QmEwc19XVHcxYlBadWRVQ01oeW1zbVpuVmJDQXdEcG1qcWdpYUxFN19GWGV3OTMzbXRZeEkzTVphZmt5UWxaRE9HT2JlXzF6TjE3cjVCYkRqOU9GelJId1IxZmxiN0kwaS1iTmptOVVaWQ?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 17:03:18 GMT"
     }
   ],
   "sources": [
