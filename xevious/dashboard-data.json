@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T21:06:56.662038+09:00",
+  "generatedAt": "2026-04-24T22:59:09.654873+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "14.5°C",
-        "feelsLike": "13.5°C",
+        "temperature": "12.3°C",
+        "feelsLike": "11.3°C",
         "highLow": "최고 23.3° / 최저 6.7°",
-        "humidity": "60%",
-        "wind": "1.4 m/s",
+        "humidity": "67%",
+        "wind": "0.8 m/s",
         "rainChance": "0%",
-        "pm10": "33.5 μg/m³",
-        "pm25": "32.1 μg/m³",
+        "pm10": "38.9 μg/m³",
+        "pm25": "37.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "46",
-        "updatedAt": "2026-04-24 21:00"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-04-24 22:45"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
-        "temperature": "12.2°C",
-        "feelsLike": "10.6°C",
+        "summary": "대체로 맑음",
+        "temperature": "10.0°C",
+        "feelsLike": "8.8°C",
         "highLow": "최고 23.7° / 최저 5.7°",
-        "humidity": "76%",
-        "wind": "7.3 m/s",
+        "humidity": "88%",
+        "wind": "5.1 m/s",
         "rainChance": "0%",
-        "pm10": "24.9 μg/m³",
-        "pm25": "23.3 μg/m³",
+        "pm10": "28.3 μg/m³",
+        "pm25": "26.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-04-24 21:00"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-04-24 22:45"
       }
     ]
   },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-24 09:52:02",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-24 21:16:21",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "효성, 1Q 영업익 946억원…전년比 15.6%↑",
+      "title": "[뉴스9 강릉 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42OFBDb3ZVRFRKZ1VmbmRkNHI2NDFjV3hSYUxGMTd4YWc5UFRmSTlVZlVzTUJmSGFPczZwUDAybGpEdEkzaWxVd3I3VkZBeWtfZUF2WDFnODF2MUk?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 13:20:00 GMT"
+    },
+    {
+      "title": "2026년 4월 24일 세계 경제 뉴스 주요 내용",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aNDI4a2JEYmYzMDdEZHNCU3ZTdnhjU3FSZzNuNExBMlRtb1ZtaUdXMHJSemk4ZDhSTzNpTXZORDZPXzE4bkZoX2o0ay14X0ctTXdEcURKY0lpLWZHcUFBR0h1dlFkaVFZcTgzR3FLU3lzWGFFSHh3U0pwUUJXQlE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 13:41:36 GMT"
+    },
+    {
+      "title": "민주 신용한·노영민·송기섭·한범덕 '치맥회동'…원팀 선언",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0cDVDUE1Zc0ExVWs3TzVJSG9MOWp4M1cxYlZQU0lHaVN5QkQxbFNGNjdJMFVDNVBYRnR0c1FvUG8yTHpneFBfR050c1RjU2ZRSVlj?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 11:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tZ2NLcDZjeEJjS0w4bDhHRGhQWFdoSE1mZjYzTUdSbUNoWGNCdDRjTnp4Xzh2eEVkOE5hSVhkNVhway1JYllZcnV1cVd4NzhadmhTR2E3Z0Nna0NLMXd0Xw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 13:47:00 GMT"
     },
     {
-      "title": "전남기술과학고 전남지방기능경기대회 주요 종목 석권 > 뉴스",
-      "source": "더코리아",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oUktyajI5aXMybGNpT0NkajJMTkhTSnNodjRLTDY3NTZnQU5udlpQN05xSmw5MjZxbVFCaXBPUEtOOWM?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 11:40:00 GMT"
-    },
-    {
-      "title": "[올댓차이나] 대만 증시, 美 반도체주 강세에 사상 최고치로 급반등 마감…3.23%↑",
+      "title": "크렘린궁 '푸틴, 마이애미 G20 정상회의 참석할 수도, 안 할 수도'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFYtQWg3a0UxRExWaW5DdjZFZk1CZS05cTBPUTVCdnNCaTZuaDhCdy1NeXFxRGllRXl2ajNjakk5c3I1OFl5Z2hsTFFpWnE5NjhvVjVvTmlNeENoaVVORFRwMjQ0MzhNVW5oazh3V3lGYnhYRk5rN2hlNFAxYzN3aEYyN3U5RkZscFB3NHdQMWgxRVRMUEhKMnRkRFV3aVB2Tk5MTzZXc3kwaXoxNWE3WHllVEFmOENt?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 11:07:11 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkJhQThETDBndWVVUGd6UTVZRGdKRkJDYjNpTWktNDd1WVEyWlFZV1kxQUZYbkM1Y3U0YzdncDJnSENKM0RHeElLT3pWOS1YcFRqYWRlbkxqRTF1ZUlIcDl5eUdEcUpWY1NPTmRQdDFGcUZuME9mYTN0R3o2WnFxZzA0cElUeEdLdkJJd096V0xIWl9DTkQzb3E1N0U4c1phZzRYWFZHVURYYmFIenQ0MWVILVRUUGp6N3c?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 13:17:20 GMT"
     },
     {
-      "title": "미·이란, 이제는 '버티기 작전'…전쟁 장기화하나",
+      "title": "[청년골프] 아마추어 김연서,KLPGA ‘제2회 덕신EPC 챔피언십’1번홀 티샷",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZODYwcDdNb0l6WXIzVXR3UzJwbUljc0xtRTEyZ3hYUDZPZHduLWZpTlFHWU04VVFOUkw5UEdiV0RsSjRhTk9jR1E4QWJGS0xfTTNCekpQU29TNUR3OFEtaGJFajh0REhwb1E?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 13:19:39 GMT"
+    },
+    {
+      "title": "李대통령, 인도·베트남 순방 마치고 귀국",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zbEZwLW5WcWlmN3gtRFRiRFRGVFN5cGluQV92NEJZY2dvNE5vSVVrNnA5VmtfeVJxclFEbm94WGVDWHA2Z2tLaTFxTkNlZ0FqRlRF?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 11:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fSGVSNzNqYWxaU1hXWmd2ZkZESEZEWVlfMTBCRHZMNktnSlpwQTNTZFlTTHdrbWcyYmJpb2VPQUV6d3RtVHFoM2tFSk9GVFZkTUVV?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 13:29:00 GMT"
     },
     {
-      "title": "[비하인드 뉴스] \"국힘 지지율, 합치면 40%\"…'기적의 계산법' 봤더니",
+      "title": "2026년 4월 24일 베트남 경제 뉴스 주요 내용",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZ2UtM2h3bmJ5dzJQS2V0cUtfSTY3Wnd2SDhBWVdqMElrbjRTZGVDd2xjekxBbnZfTGw5RERqWDZBTGtjU3IybzdQTVgweVJFUTFUWWx2MnJhN0dITUhMTVdTS3V2bHdJNk5sbk9OYjlCWG9FNF95YUQyQ1NiaEE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 13:51:09 GMT"
+    },
+    {
+      "title": "미 국방장관 \"유럽·아시아, 호르무즈 무임승차 끝났다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VdkdyZXVCOWtCX0cyM193VGVTclRiUHhLeGlaTWRYOHNKWUlVZjIyeTFBMWJSY0x6RGNQaVAxZVpuWmFJVnU5cmQwUXZyX09MZVQ4?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 11:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKMU5QXzgyYWpqVnFUSEFGZXV0NXlsM3hlYzd1WHl1Vm5QQ1A0WjZRRWtDTDZlTWlrc3F6QWRRRnBhYXVGTXJlR045ZUMzTUlOZXpQSUtSX1Z1b1UtMzZ5Wg?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 13:41:00 GMT"
     },
     {
-      "title": "[앵커 한마디] 거짓말이 거짓말을 낳고…",
+      "title": "'왕사남' 장항준 감독, 단종문화제 찾았다…특별 강연 진행",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qc29CVm9sU0JIb1NQZ0hrdUgyNGZkY0ZuTlM3Q1M4VFdycmwyVXUyTHNTYldLOGtlU0w2OFB6LTc0NG9ycHlFemRham9fMWNwOEQw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 11:41:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBU3lCZUc0VktfZFJ6S3pBeXFvVU5DdXRMcFI0dUZoTkI0ZTJibzN4V2ZoRjZPZGdSSUVVM1RGZEZNYjZlQ09NUVdWWEtkQ09RRUJN?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 13:35:00 GMT"
     },
     {
-      "title": "[내일 날씨]서울 낮 최고 27도 초여름 날씨…건조한 대기·일교차 주의",
+      "title": "러시아, 미국 G20 정상회의에 대표단 파견···푸틴 참석은 미정",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83RHJsMlJDbGtpNFBTY2tCVElyanZhakgyRlpiMzAzVHc5bFFMNS1wOEsxMGRnRVc1OWNoSlVpRGdkSC1pTnM1S2xSLXI3djlCMTZV?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 11:33:00 GMT"
-    },
-    {
-      "title": "크립토 데일리",
-      "source": "CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVJVSUo4RUlMVk1XZklNejc5bnJOM05xd0k0QzBmSElfaUFROG1aTm5rVEFqc2o4aEI2bHZNNVdHYkhkN2N5VF9lekdlZURlZGtFWFdjNXRaSm1FNXk2STd1ZEVOcTgyd3ZUWjJNb2VwSUhINjhmb2RETTRtVzYzTHlWUHIyc29ta3pHWi04Rmh6OFVqNXI4c2NBZUtRTGF3enpXcWxxZkxZWmNBZ2FLZ0VBNFd5aklZZTVGc0hpX3JGaS1uNXNFaGVYRnlVa2hZSlVGUHpVNThLdw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 11:24:10 GMT"
-    },
-    {
-      "title": "정청래, 12일째 단식 후 병원 이송 '안호영 병문안'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zbWtULTNKNjdUemZ2MF9fa1gxWnBrVDZjTnNDc0prMFlaUTg3cTcwNWpkSkNPMThad2xXVndoVXR3dHBOZC1nSWduTW9oTXBOTFc0?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 11:32:00 GMT"
-    },
-    {
-      "title": "박종화 대표이사, 씨엠티엑스 주식 소유 현황 변동",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uMjZZeVc3OXJRWkhKR3Bjek90RDRlV1ViMnhLOTJ3UU1OVDlpRXFoRG5sU0FUOG5XNEJFdVNQYWFnemt5aEtrLUNmeWpmVWZZb1hv?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 11:21:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14YXZXa3c1VG1LUlJNYS1kaTRkRUJpUTdGMEFzeWFWalVReXZQWmhIWUYxRkxieVVsOFdSNE50V0FDWk9vZzBieGFxMWdkRjJBczVr?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 13:27:00 GMT"
     }
   ],
   "sources": [
