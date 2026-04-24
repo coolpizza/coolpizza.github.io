@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T07:01:55.659922+09:00",
+  "generatedAt": "2026-04-25T07:40:06.266870+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "8.2°C",
-        "feelsLike": "6.5°C",
+        "temperature": "9.4°C",
+        "feelsLike": "7.8°C",
         "highLow": "최고 23.4° / 최저 7.5°",
-        "humidity": "80%",
-        "wind": "3.4 m/s",
+        "humidity": "75%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "52.3 μg/m³",
-        "pm25": "49.8 μg/m³",
+        "pm10": "55.5 μg/m³",
+        "pm25": "53.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-25 06:45"
+        "updatedAt": "2026-04-25 07:30"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "7.7°C",
-        "feelsLike": "5.5°C",
+        "temperature": "9.7°C",
+        "feelsLike": "8.1°C",
         "highLow": "최고 25.5° / 최저 6.7°",
-        "humidity": "86%",
-        "wind": "7.2 m/s",
+        "humidity": "81%",
+        "wind": "5.1 m/s",
         "rainChance": "0%",
-        "pm10": "40.0 μg/m³",
-        "pm25": "36.9 μg/m³",
-        "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-04-25 06:45"
+        "pm10": "43.9 μg/m³",
+        "pm25": "41.2 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "43",
+        "updatedAt": "2026-04-25 07:30"
       }
     ]
   },
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-24 09:52:02",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-25 00:45:51",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[26년 4월 25일(토)] \"개미만 털린다\"…주식거래 12시간 연장에 개인투자자들 '발끈' - 비티의 오늘 주요 뉴스 요약",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHJpVzI1by1LREctbVZjWXNkQlYwTEhzT2J3amthZU50ak5mSC1JRzJQTkRxU3FIZ0duQy11Nkp2YlRuX0xrUDBwclprMG5hUW5BeFZPTzFVT3o1V0ZWb2syZFJ5UEo0MzZHY211Wk1HbjQ2YjZFeTJNU2VSamlrVw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:40:00 GMT"
+      "title": "1부 오늘의 주요뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UTy1YTTBlS21uM1o4M2FZNjF3S2lqNURkazEzZF8xSU13TEw2aGR3c3FUb1ladjBsdmkzRm9CblpZMUpTNkwxTXk2ODNnS1hwdnJiR3dTdU1Gc19WS29USU00QjVjb2Q5RDRTZkZKOVdJMVZLZ3BHRF9n0gF6QVVfeXFMT3ZwazF5dk5QVWduQUVhc09YMnBSNi1lalFYMVl6bFJKQUhPZUVHQzRIUlFLQWJxcERwRF8wU3U3WEtlMVliRld5U2ZKVkFEQjNIZ0tJbWtmdUtWc1J2UXFlS1lTdDVEX0kwY01CVFlhM21UZi1RbnphVEE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 22:02:03 GMT"
     },
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KdWFKU2t5VkJNRmpKZURlcVFrakZaNWQzMmJ0czB4Wmc3empwUlFkZzBOQ3Q4VFQ5emszU1FLQURWZ1hkdkh6aGxQUHhVMFB0TUhV?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:07:00 GMT"
+      "title": "北, 인민혁명군 창건 94주년 맞아 '백두산정신' 계승 강조",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jak0yVHFsNWNFXzlka2ltbXhiLUZwckRyYk0yblZOMlpWSUxnOGQ1VjltSGlRMVhiZFh1OU9FOE92a0N3VXZkNWhpYjI0TkViczhSc1hKcWVQemVkMEUw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 22:14:13 GMT"
     },
     {
-      "title": "동방신기·에스파·트와이스…日 도쿄에 K팝 팬 40만 이상 집결",
+      "title": "[테크톡노트] '진짜 5G'는 SA부터…통신 판이 바뀐다",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWVZxaFZUWTBPdmUzbEJkM1ZvRFZzWUxPQ3J5c3NFTDVsend2eDBvenI1QUpKU293S19EQUJSVlRIY3pQZGtXRW8zekpwYk5paDBGZWJYWkxjZTYwaVlNNFpPemRuT2g3RlZueklpUXpYeHhqSGlla0lnSEJZNjFvekl0MlYzYWZoWWZLdklHRDhpTVVRRFFKVE1sZXBvZ0x4TVVmOGVBSXB6M3VGempudW16Tm56ZjVSVkhiVjRmem94RWFvSGxMei01VQ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:13:03 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnNJM2pNN3JIQjIzZTNleUpJMk02cTBJQjlaRzU2OTNHV1RlU1dMR3BRWFJpVEpXczg1T3JfRi1tN0pnd19EdEN6MXVDb2xBNHFQdmM2SVQ1MUN1WWNhaHlHR2FPNEdMc2pHMVRqS1hEU3M0SmpQbDNsdlFWTDI4WTA3dXJkemE5X1hoNmVhZERGa1NYSHVaRGFlNGJGM1lQdm5rR1dIU1F1Vy1QRVpyQ1FRbUx1VzdzWUE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 22:03:38 GMT"
     },
     {
-      "title": "정당 지지율 민주 48% 국힘 20%…PK도 41:28",
+      "title": "'배우·TV' 대신 '개그맨·유튜브'…트렌드 바뀌는 은행 광고",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xYVFpbFE2RzZNWi1HekQzSmtZWXdONzdRdW5yLUdPaTFWSllXWGhSN0NCSU1uR1dCQlVvb1dvWWtZRVpTcERSU2Z0UURZV2J5dlln?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ueEhnZlJvTEJqSWVHZUVfMnU4aU0zaWNtX2xSa2RqZFBWV1QtM3YzeG5xY3MwQTZ5NVB6NEdPQ2F5cEM2SFlZTXZwTXhZbnE0RnQtelUwZjJUYzNLLUppaGdObHRyN3RIczdfN0tCaWc5ckpqVkxvSA?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 22:30:00 GMT"
     },
     {
-      "title": "나들이 수요 정조준…차·패션·뷰티·육아 총출동 할인[주말e커머스]",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnFIZmRCWUVidExObThvQXB0YU81a2toQTBPUy1ZaVVMcTlQd19EWmpBek96N1Z1WF90dURJVzF3REFXaTdIdVNrby1kTEtZSGdodXpmNUhuUWFHMU5sWG5SS0Nvd3JnVXFKdHV6OV8wTHg5Z0RzOFNxZjF5cGRZMmY0RVRSV0tNQm9mekxWVk0xR2t3cEktaldJODJtS0pLdlVtWThTQUdNRENHZ0d5SlpOd012M2c?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:08:03 GMT"
-    },
-    {
-      "title": "[속보] 국제유가, 하락…WTI 1.51%↓",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVnUwT2U3UGN0cHd3Ym0wcFQycFozb25BLXZ4S2d1dWNad0VHWndnN3hBaktJNVByQk1Gdy11M1hpc3dWbUpWTmVWeU5EeU5KMDB3?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:25:00 GMT"
-    },
-    {
-      "title": "[속보] 뉴욕증시, 혼조…나스닥 1.63%↑",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yUHBrckR3WkUzNkxYZEdiRTZLQVVSSEVTTVZTdUUwUWFjb3cxNzZwWlVZV3FuSE9nS2V0WTFLZWxsbkdrSktfOElkX2xCeXFiQW5n?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:14:06 GMT"
-    },
-    {
-      "title": "미-이란 협상 개최 급물살…S&P·나스닥 이틀만에 또 최고치[뉴욕마감]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9icmtjR3ZtNnVxZUxIODJrQ3paNXJtRmtOWHlHN2xWbUExN0dIOWY5TlVEUTRjRVFGd3Fmdjd5M3VrRHpuM0k2ejF5QjAtekpGR1U2d00wYng2VE55bEc2MTRXYTBOMno5Z0E?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:41:00 GMT"
-    },
-    {
-      "title": "[청년골프] 힘찬 스윙 고지우,KLPGA ‘제2회 덕신EPC 챔피언십’2번 홀",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52VWg1bXM5akg1LVpFX29zVHo3cXlLZEgyamV5MmZDMERfX2YtOXFWQzhVS2F5ektpdjFULUZjb0lwMkdtSk5Sd2NTUmtsdVlJMWw3dU1mcGxjNzBNUTdwNlpZaDd3RDZ3X1E?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:25:44 GMT"
-    },
-    {
-      "title": "[속보] 국제유가, 하락...WTI 1.51%↓",
+      "title": "국제유가, 미국·이란 2차 회담 기대감에 하락...WTI 1.51%↓[상보]",
       "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BOVd0bjRzamtIRFdrZ2RHVHRROWNsZ0VIT21yMEI3Y29oQm5mQ2tXWk1wYWtpNDJKcWlNWnNrT0p4ZlR1Zi1TRDZKVzhNTXNJcDRuakFKRS1mbG5VU2xPLUJqSzFEN09OXzlaWWRJRlZNUHVN?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWYnFfM3VMTkp1YXB0dDlMTkxOaml4ZDBiVzg3a2hnRHRmYTU1R2Z6X012MEVFTHRqN05BWE1zVFNqYS0wZUYxT2ZaY3RDb0h0ZnlLckJrOUVrUEVRNXo0QnJhRUxpbEFqV2JMR2dLQlR3OGc5?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 22:25:00 GMT"
+    },
+    {
+      "title": "인텔 23.60% 폭등, 반도체지수 4.32% 급등(종합)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wYlZWSkszZkthbnV6NlhMSDJFdzgzbnNZamFsVTdIME85UDJLalg3REJGMDVBVWpVaGs1VktHZW54dkRYWGQzQm5Dck5xOGFoQnBtQW9LZno?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 22:01:45 GMT"
+    },
+    {
+      "title": "[김천소식]김천역, 교통거점 연결하는 소풍택시 도입 등",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1FSR1ZiZlM3QkZueF8tRnFiMHduclZxZlVRa1ZicmpLbjZOb0NGUHFVU1lxaTVFTmRzY3ViNzBfVmRGTUhtdS1ZNWZWVkFHS0MwVHBHZE5zS2gxcllZMmdWemZoekFLaF9GcG5VYzZPQlZ1clZXNEhDNDQweFlIeTh6aTJ6aTVsdTlBdndQSnU0SVVqRk56RUMyZXpWLUVyUWY1QVFQYTdiY2ZyckJ5ZVBzUmRBR1E?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 22:03:40 GMT"
+    },
+    {
+      "title": "창당 이후 '최저' 지지율 국민의힘, 지도부 책임론 부상",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnT05QOEc3b1VnbmlrR0hnMTBpSjhiNHlteFdYZjI0MG9oZ2RTMTYxNDI1VXFLS0E3Qnc0VS11UnV3VG5fQlo3RXcyTmtrTHRWNDlz?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 22:00:00 GMT"
+    },
+    {
+      "title": "뉴욕증시, 미국·이란 2차 회담 기대에 S&P500·나스닥 또 최고치 [상보]",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GNi1QSWNTX0V0azJYM0N6QWszSGNCNXBaWnhuNEd1YjNFcmZrYUdhNDJmUnJYTlRhaUVVZ3NuQUdQM1pPZG1RdDJaaTI2MHZsOTVVQVpJQjg1TkxOZk5uQUQydDRsQ29UYlFXOEl0VV8tVEk2?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 22:03:00 GMT"
+    },
+    {
+      "title": "北, 日다카이치 야스쿠니공물에 '역사왜곡이자 정의·평화 도전'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUVRcEhnQW9mX25aTGhNUDlPd0JuMlBOaEY3Ym1xOU5qNTFwRlVxRU9adGtJcUF6Tkh2VFl2LW1FRnliZlR5TU1vaTBUcy10Wnd0Z2twWms5NF9ib2hVNzI2dzBtX3RzSGFSVGllbUVYbmhGS3JGdmNNNlJMM2lKUlluR2p1YWJxR3EzZXJLY29peUlyaVlWY05WVDdXc3I5Q3BMdGNIcW9QWmtHODJKMm4xMnFEWmQ1OHc?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:58:26 GMT"
     }
   ],
   "sources": [
