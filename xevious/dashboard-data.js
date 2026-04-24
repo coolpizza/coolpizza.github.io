@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-24T13:27:46.214576+09:00",
+  "generatedAt": "2026-04-24T15:24:51.640730+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "20.9°C",
-        "feelsLike": "21.4°C",
-        "highLow": "최고 22.8° / 최저 6.7°",
-        "humidity": "28%",
-        "wind": "1.8 m/s",
+        "temperature": "22.6°C",
+        "feelsLike": "21.8°C",
+        "highLow": "최고 22.5° / 최저 6.7°",
+        "humidity": "29%",
+        "wind": "2.6 m/s",
         "rainChance": "0%",
-        "pm10": "16.0 μg/m³",
-        "pm25": "13.9 μg/m³",
+        "pm10": "14.4 μg/m³",
+        "pm25": "12.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "58",
-        "updatedAt": "2026-04-24 13:15"
+        "airQualityIndex": "56",
+        "updatedAt": "2026-04-24 15:15"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "22.2°C",
-        "feelsLike": "22.6°C",
-        "highLow": "최고 23.3° / 최저 5.7°",
-        "humidity": "39%",
-        "wind": "7.8 m/s",
+        "temperature": "23.5°C",
+        "feelsLike": "22.5°C",
+        "highLow": "최고 23.5° / 최저 5.7°",
+        "humidity": "33%",
+        "wind": "5.2 m/s",
         "rainChance": "0%",
-        "pm10": "6.2 μg/m³",
-        "pm25": "5.2 μg/m³",
+        "pm10": "5.6 μg/m³",
+        "pm25": "4.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-04-24 13:15"
+        "airQualityIndex": "53",
+        "updatedAt": "2026-04-24 15:15"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "람사르 습지도시 서귀포, 제2기 어린이 습지탐사대 모집",
+      "title": "구윤철 부총리, 주요기업 사장단 간담회",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kdEhGekN4eDJnYXBTSHR3ZTRpcXoxeDhENFJ2RkhpQm56XzhFdEtWRW1ESmh6SnRMdW95Y01xUU82VFZ3Mkw0RUxOMA?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 06:03:55 GMT"
+    },
+    {
+      "title": "[인천 주요 뉴스]인천시, 매머드급 국비 확보 총력…첨단산업 등 11개 사업",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySV9QRXFuUk41Zm95MVdzdjV4NjhZWGFvUjd5a0xTR2kyMWJ0V25pM3hiWFJrYTVGMG10d0x4Q1NiTWF3UHZ5V3VlLWl5RENybGxN?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 06:02:00 GMT"
+    },
+    {
+      "title": "[수도권 주요 뉴스]고양·파주~인천공항 '심야 공항버스', 30일 개통",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKOXE4VzRaY1RiV0t4ajFjMEZfR29TOGdGMlg0WVhUSWFLMTlFTjYyODNHdU85Nm43TVhRSVhpNGRDYXNTWnhVWmdxdlVnNGpCOWhB?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 06:02:00 GMT"
+    },
+    {
+      "title": "주요기업 사장단 만난 구윤철 부총리",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0WDZyTnZKbjRGMnBGNVcxNld1RDdXR3dDeTY0SnlTOGpza2l1OFpfU2VmWnRhZ1h4a1BlelRIR2dMZkhjNVJMWnB6V0hDT0R2NHlR?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 06:04:00 GMT"
+    },
+    {
+      "title": "구윤철 부총리, 주요기업 사장단 간담회 개최",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vVldRNDAzOTZQVW11TzJSQUtGX1NvOXNwRVBYTG5NTW1PR2kwN09hbzZfRmNCR0JyWVlQOTFaVkdsLV9UanlSU2FiUldETTBkNVpv?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 06:00:00 GMT"
+    },
+    {
+      "title": "[오전 주요 국제금융뉴스](24일)",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XU2dzWDZvV0taams5ejRrLWJheDBGczAwb0dSRC1QRHNrODhjTlV2dnY5aWVmMFkyUGhxNFFUQnhockV3T1BPaXB1UnEyc0xjR2UySHlRM1pHckt4eEs1RDE2bGN4b3RfWlRPcG51QjHSAXRBVV95cUxNWWVDcTZFRlhIN1puUVdPeXBXajktVk5vS3VIbS1nMXBlOHFnNGVEQmtwQjZhSENyazV5WThSOGFoek9LbEt5dFVybGdtaDVQaGhZLWZPTFFVUTB3WlZ1LXh4cTlva2tfZjNUMTN5ZEE0N1dUdA?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 06:15:05 GMT"
+    },
+    {
+      "title": "하루 10분 호주 뉴스: 4월 24일 금요일",
+      "source": "SBS Australia",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS0JDRmE5dHcxTWp5YzJNUENCTWFZMW1fZWw3dWhYeWxRZzJ0czZsLUtZcG9wMzZ1R3Rzb1o0X1FoUmQ5NTRadFVXcGRHb01kamtHTFFYWWhWVjRLbllDN0RhZkFLaXhZY2d6bU5ZMG1Ob0FrXzd6amhkMGtQQW56RjJzbHkzM3ZGdW9vM05oYnVHYkx4d3Q4?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 06:22:16 GMT"
+    },
+    {
+      "title": "AI 음모론",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVpGWFRJQ0JNZy15TDQ1WWFnNmNZS05WWlpaZGlMZFZaQko0eFJqZVhBTHVxZDV3WnJwUnBHdnduMDA2VFg0VTlEblJNbWloTHhERDh6UUlBNFJwYS1yRTRYN3huZmViSWNHV08zX0FiYkhCdWFPVWt5ZHQ5UmZReDZIZHJBYjEwd2R0bDdPeFFCUVJIWmk3QTZVY2xEdVU5bGxWWjI5VkQxMnlaZTdaS0hZUndwY3M?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 04:20:20 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEl2OVhiQzktZVdJdUJTS1Q0WHRYVnRfcU1HRUdsWUJhRk42LXFBSTBLQXBKOEhSakdLbkQ3aWZsUlBFakxNcnpheHJYTkpxbEtMaEctMnJaVU9odjRNUVFlejA3UW81aks3VzBfZ1JRTW5WNHowNEpsNGlmRk1ZbXdOQ3lhVm9Qc2FNczFkTzBSYVRtUzBfOFBZMF9QdUZEdnBOVG8tZ3lic29oZWp0RzIyb083RWlaSmg4?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 06:24:12 GMT"
     },
     {
-      "title": "다시 초여름 더위…청계천 그늘에서 책 읽는 시민들",
+      "title": "주요기업 사장단 간담회",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBVng4UDBsaFJTNnJMVVdIcUlDWTgzS1JQODFRR0FnLXBIUVZhQzhwNnlxSDVRNnF4aHY4TFR4UGdBcGcwdV9JN285UWg1WjlTWm1FTjhwd0RfNGk3X0hjWA?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 04:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QeDRVeS0zaEtQRERWNFlqMldraW5uS2hHeGtYOG5yaHpTU1phUndxMVNsSG1aRXk2cFo2STdoMjk2MzhQWlViaUYyOHZkcVN4ck13?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 05:48:00 GMT"
     },
     {
-      "title": "고유가 피해지원금 1차 신청 27일 시작…복지대상자 5월8일까지 지급",
-      "source": "거제저널",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QS3gzbmpoN0pDZV9hT2U4OWxWV1E4MnVsVGtQOWZCWkg4TU5QQ25aZzRwMm0yYWhENDVzaWdlX1doZll6UVEtZHBmOWJQTXUySVI5Sk1wRENMck1lTF9yNlR2Wnl1WXFMOEpqWFNHRmxmYjQ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 03:53:41 GMT"
-    },
-    {
-      "title": "체르노빌 핵사고 40년",
+      "title": "페북 운용사 메타, 8000명 감원하고 AI 투자 확대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wWXdNeER5VFJYX3NCTzc1T3lwSE5HS3M5ZFgxM1hNcFM1SDZRNG5EeldyemNTcmJzVmlLR0pkUnZMUGR4Zm1sczdMRy1MeXJaTTFn?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 04:06:00 GMT"
-    },
-    {
-      "title": "음성군 소이지구, 농촌용수개발사업 신규지구 선정",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQmRrOW11SnhBQ1dqdEJzelI5S2tUaEplUzFpeG9ud1o4V0NjcFBBT0MxZTMyQXFUUXlSYkpPcDQ0S0tGa3BWMUxuUkNmZE8ybWdfQmplODZjOWI1Zm9PSGthcmpYT0xselJIQVdKSi1iUlVvR0o4VTQwcWdMSXlaVmw3WnljUWN3RjRBVmxoV0lELWVmbUNBa1ZSR3BqQ3FkcTNDS2VkRDdNSlNjWFpOWS1KMFNlcU5F?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 04:05:40 GMT"
-    },
-    {
-      "title": "부산해수청, 신항 불법 어로 행위 등 집중 단속",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYd2Y2RlJVNnVpNmIyMXVrMnR4b0lTMzYwaF9WY2djYnpaSFp3UDZTYlNLcnlyd3A5bUVNZGpoTW9pcUd4UjRZdE8zdy1Zem1PV3Rr?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 04:17:00 GMT"
-    },
-    {
-      "title": "루닛, 유상증자 청약률 104.7%···자본 조달 완료",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pbEx6eXA5djIyQmxVeVk1S3RRbWdtZ0lreU51YUFJdXh1Mkl2Z1R1YzhhMTdlQ2JDbzV1Z2xEM2dXSXF1ZmlpcV95M3RsazVKMDQw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 04:20:00 GMT"
-    },
-    {
-      "title": "알콘 \"콘택트렌즈 착용자 교체주기 '미준수' 절반 넘어\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41R0lqd0NJTEk0dldKR3BoOHRPdmlJWXhaamp1MThjNFUwYlh2RE1jbGYzUDhQUkFFa1FYZXJsQUdrNTB6TDdWN2Y2eWRVMUdrQ0RB?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 04:16:00 GMT"
-    },
-    {
-      "title": "BPA, 아프리카에 부산항 디지털 플랫폼 '체인포털' 소개",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DMEpneGxCSWFEa1VKX1owVEZpNmw4LWhlQS1ZSC16cVpGTnFyTzBBVXE2a0RxV3plT2g0U1VEbXkwb294MG1VNkgyeWh4M1JOdThV?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 04:17:00 GMT"
-    },
-    {
-      "title": "[단독] '알파고 아버지' 허사비스, 이재명 대통령 만난다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kNnVzbVQ2YWNDbEg4VmRrcTNIOVkwdWtNRlkyUG43eFAtaG1lUnlPb25ROHJzU0NGWVA5aVg3TGpUNWV2UGNTVVZzLW5RdzFHVkM4?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 04:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pdVBieUwzSTNEa1k1czJQUnZDN1lZZzBXbzFHbVdMc2FZQmVYVWJ3b1VnREhYaTk0QkpKekYyb281T256dkpiakdmc0Z3aUtrTTRN?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 06:11:11 GMT"
     }
   ],
   "sources": [
