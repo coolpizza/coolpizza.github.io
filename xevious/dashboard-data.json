@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T22:59:09.654873+09:00",
+  "generatedAt": "2026-04-25T00:03:09.554248+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "12.3°C",
-        "feelsLike": "11.3°C",
+        "temperature": "11.5°C",
+        "feelsLike": "10.1°C",
         "highLow": "최고 23.3° / 최저 6.7°",
-        "humidity": "67%",
-        "wind": "0.8 m/s",
+        "humidity": "69%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "pm10": "38.9 μg/m³",
-        "pm25": "37.5 μg/m³",
+        "pm10": "44.4 μg/m³",
+        "pm25": "43.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-04-24 22:45"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-04-24 23:45"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "10.0°C",
-        "feelsLike": "8.8°C",
+        "temperature": "9.7°C",
+        "feelsLike": "8.2°C",
         "highLow": "최고 23.7° / 최저 5.7°",
-        "humidity": "88%",
-        "wind": "5.1 m/s",
+        "humidity": "86%",
+        "wind": "6.0 m/s",
         "rainChance": "0%",
-        "pm10": "28.3 μg/m³",
-        "pm25": "26.4 μg/m³",
+        "pm10": "31.0 μg/m³",
+        "pm25": "28.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "34",
-        "updatedAt": "2026-04-24 22:45"
+        "updatedAt": "2026-04-24 23:45"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[뉴스9 강릉 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42OFBDb3ZVRFRKZ1VmbmRkNHI2NDFjV3hSYUxGMTd4YWc5UFRmSTlVZlVzTUJmSGFPczZwUDAybGpEdEkzaWxVd3I3VkZBeWtfZUF2WDFnODF2MUk?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 13:20:00 GMT"
+      "title": "충북교육청-교사노조 '정책협의회 절차 합의서' 체결",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mZDM2V2IyWWdNanhXRUgxdlJlSExRcVgxN1psS3FJS3BYaEZkMndJdlJ1bjRFQjZ4Rk8zaHdhalJUeF9UcmZCS1c3VXFzSXRuMUo5R2NKY1kxWlRUSFEw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 14:04:46 GMT"
     },
     {
-      "title": "2026년 4월 24일 세계 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aNDI4a2JEYmYzMDdEZHNCU3ZTdnhjU3FSZzNuNExBMlRtb1ZtaUdXMHJSemk4ZDhSTzNpTXZORDZPXzE4bkZoX2o0ay14X0ctTXdEcURKY0lpLWZHcUFBR0h1dlFkaVFZcTgzR3FLU3lzWGFFSHh3U0pwUUJXQlE?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 13:41:36 GMT"
-    },
-    {
-      "title": "민주 신용한·노영민·송기섭·한범덕 '치맥회동'…원팀 선언",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tZ2NLcDZjeEJjS0w4bDhHRGhQWFdoSE1mZjYzTUdSbUNoWGNCdDRjTnp4Xzh2eEVkOE5hSVhkNVhway1JYllZcnV1cVd4NzhadmhTR2E3Z0Nna0NLMXd0Xw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 13:47:00 GMT"
-    },
-    {
-      "title": "크렘린궁 '푸틴, 마이애미 G20 정상회의 참석할 수도, 안 할 수도'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkJhQThETDBndWVVUGd6UTVZRGdKRkJDYjNpTWktNDd1WVEyWlFZV1kxQUZYbkM1Y3U0YzdncDJnSENKM0RHeElLT3pWOS1YcFRqYWRlbkxqRTF1ZUlIcDl5eUdEcUpWY1NPTmRQdDFGcUZuME9mYTN0R3o2WnFxZzA0cElUeEdLdkJJd096V0xIWl9DTkQzb3E1N0U4c1phZzRYWFZHVURYYmFIenQ0MWVILVRUUGp6N3c?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 13:17:20 GMT"
-    },
-    {
-      "title": "[청년골프] 아마추어 김연서,KLPGA ‘제2회 덕신EPC 챔피언십’1번홀 티샷",
+      "title": "[청년골프] 굿 샷 장은수,KLPGA ‘제2회 덕신EPC 챔피언십’1번홀",
       "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZODYwcDdNb0l6WXIzVXR3UzJwbUljc0xtRTEyZ3hYUDZPZHduLWZpTlFHWU04VVFOUkw5UEdiV0RsSjRhTk9jR1E4QWJGS0xfTTNCekpQU29TNUR3OFEtaGJFajh0REhwb1E?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 13:19:39 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DT0h4N2MzdmRlYjlLZ3dPUmgyMmZoT1VRYTF4LUFadDBTRGZQZTNCM0duenVhWkRYdlhmNHhiOGdGMzZ1dEZDakVmYjlGemhiVjRSVUJyNTRsdWpXdk1yeEEwdE1YWHZwUXc?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 14:18:16 GMT"
     },
     {
-      "title": "李대통령, 인도·베트남 순방 마치고 귀국",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fSGVSNzNqYWxaU1hXWmd2ZkZESEZEWVlfMTBCRHZMNktnSlpwQTNTZFlTTHdrbWcyYmJpb2VPQUV6d3RtVHFoM2tFSk9GVFZkTUVV?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 13:29:00 GMT"
+      "title": "서울고법, 다음 주 윤석열·김건희 항소심 선고 생중계 결정",
+      "source": "news.nate.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZ1NEVXlMMmdscWt1c2x0X0FIYUlabW1FYlBrOFVKSk9rRWJKa3hlcGJHWk5vQjY5Uy0yUHI4ek1QaVBaMVpEdll3MkdWbXItVDNZ?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 14:14:00 GMT"
     },
     {
-      "title": "2026년 4월 24일 베트남 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZ2UtM2h3bmJ5dzJQS2V0cUtfSTY3Wnd2SDhBWVdqMElrbjRTZGVDd2xjekxBbnZfTGw5RERqWDZBTGtjU3IybzdQTVgweVJFUTFUWWx2MnJhN0dITUhMTVdTS3V2bHdJNk5sbk9OYjlCWG9FNF95YUQyQ1NiaEE?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 13:51:09 GMT"
+      "title": "검찰, 방시혁 구속영장 반려…보완수사 요구",
+      "source": "news.nate.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WN1Jkai1vN3RjZ2tma29qYmhETUM3Q2YzMjhQelRpR3JsMVptNnkzb2RBbm0yQ2VHNjFTTk5mLW1rUTJ6cUNmRm9yd3k5XzhhWEtj?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 14:25:00 GMT"
     },
     {
-      "title": "미 국방장관 \"유럽·아시아, 호르무즈 무임승차 끝났다\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKMU5QXzgyYWpqVnFUSEFGZXV0NXlsM3hlYzd1WHl1Vm5QQ1A0WjZRRWtDTDZlTWlrc3F6QWRRRnBhYXVGTXJlR045ZUMzTUlOZXpQSUtSX1Z1b1UtMzZ5Wg?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 13:41:00 GMT"
+      "title": "충북교육청-교사노조 '정책협의회 절차 합의서' 체결",
+      "source": "news.nate.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HSXYwSDVGX1VtSFlZT254ZVVEd0dfd2ItUTNxdVpIcjVnMDB0NWgwU1hvSVRtWXA2eUFGbUVtVkszWUlOZWdiYnVnVUd5bVdPTHQ0?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 14:05:00 GMT"
     },
     {
-      "title": "'왕사남' 장항준 감독, 단종문화제 찾았다…특별 강연 진행",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBU3lCZUc0VktfZFJ6S3pBeXFvVU5DdXRMcFI0dUZoTkI0ZTJibzN4V2ZoRjZPZGdSSUVVM1RGZEZNYjZlQ09NUVdWWEtkQ09RRUJN?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 13:35:00 GMT"
+      "title": "정우 \"♥김유미, 테토녀 스타일…여전히 설레\"[전현무계획3][★밤TView]",
+      "source": "news.nate.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YdGJBMHZwcWltOHVaMVptcVVnSVJJNS1FeHBtTGk4M0tNVlVtZFhSeTdCcDk0bW5BdVJhdjYtcW45blZtRFUwSXFlT2VvQkt5a1A0?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 14:05:00 GMT"
     },
     {
-      "title": "러시아, 미국 G20 정상회의에 대표단 파견···푸틴 참석은 미정",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14YXZXa3c1VG1LUlJNYS1kaTRkRUJpUTdGMEFzeWFWalVReXZQWmhIWUYxRkxieVVsOFdSNE50V0FDWk9vZzBieGFxMWdkRjJBczVr?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 13:27:00 GMT"
+      "title": "'감독' 정우, 곽튜브 연기 칭찬 \"일찍 알았다면 '짱구' 제안했을 것\"[전현무계획3][별별TV]",
+      "source": "news.nate.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IbkVJTlNsMEFDSnNXRFo5UjJYdDcwOXQ5REZMdTNqLWRuRlZrLXFuTnB6My1Hb1JfRUNzS01sMUsxeFc1NXJzRGJvekVtSU84RHQ0?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 14:05:00 GMT"
+    },
+    {
+      "title": "2026 화순 봄꽃 축제, 꽃강길 경관 전시 5월 10일까지 연장",
+      "source": "무등뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vNHFXb3pnVUNxY2UteVVIN3JlcXlmVjRGSGRhTWFYT2tKbk9MUGNsc0o2YjA0cVgtUmc4Zy05US1RRExoQVhyRTB0LVVHSjBGcGZfY1VRLWx0WDZJSDJ3VnYyNHZ1b3M?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 14:05:17 GMT"
+    },
+    {
+      "title": "안산 상록구 금속 구조물 제작 공장서 불…35분 만에 완진",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fbUJrVW92ZEZDLTZ0RjJBSkJwWF93amgyWHhlRDNkc0tIU3o0TFhPX21Pa0NhT1JFbzNCejJyckVJNGM5SmdRZWs0bTEzbzMxSGZsckRB?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 14:37:21 GMT"
+    },
+    {
+      "title": "원신, 다음 신규 지역 '스네즈나야' 오는 8월 12일 출시 예고",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GeE9rX0d1bEJ6MDg5dlV3N3UwVkhXYU53WlNVXzBINklCUWxwRV9CZTk3TGNzX0dRc1ZIUHktVzk1dFhKMmVLdER3b19rellURklfUWpiNlhBcldKZ1Y1Qg?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 14:03:22 GMT"
     }
   ],
   "sources": [
