@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T00:03:09.554248+09:00",
+  "generatedAt": "2026-04-25T01:08:34.172467+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,33 +67,33 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "location": "서울",
-        "summary": "약간 흐림",
-        "temperature": "11.5°C",
-        "feelsLike": "10.1°C",
-        "highLow": "최고 23.3° / 최저 6.7°",
-        "humidity": "69%",
-        "wind": "2.9 m/s",
+        "summary": "맑음",
+        "temperature": "10.6°C",
+        "feelsLike": "9.1°C",
+        "highLow": "최고 23.6° / 최저 8.8°",
+        "humidity": "72%",
+        "wind": "3.0 m/s",
         "rainChance": "0%",
-        "pm10": "44.4 μg/m³",
-        "pm25": "43.0 μg/m³",
+        "pm10": "54.8 μg/m³",
+        "pm25": "53.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "48",
-        "updatedAt": "2026-04-24 23:45"
+        "airQualityIndex": "54",
+        "updatedAt": "2026-04-25 01:00"
       },
       {
         "location": "익산",
-        "summary": "대체로 맑음",
-        "temperature": "9.7°C",
-        "feelsLike": "8.2°C",
-        "highLow": "최고 23.7° / 최저 5.7°",
-        "humidity": "86%",
-        "wind": "6.0 m/s",
+        "summary": "약간 흐림",
+        "temperature": "9.3°C",
+        "feelsLike": "7.5°C",
+        "highLow": "최고 25.2° / 최저 7.0°",
+        "humidity": "84%",
+        "wind": "6.9 m/s",
         "rainChance": "0%",
-        "pm10": "31.0 μg/m³",
-        "pm25": "28.9 μg/m³",
+        "pm10": "33.5 μg/m³",
+        "pm25": "31.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-04-24 23:45"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-04-25 01:00"
       }
     ]
   },
@@ -105,7 +105,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "성북구",
         "stationName": "중앙에너비스 종암지점",
         "address": "서울 성북구 종암로 58",
-        "updatedAt": "2026-04-23 07:59:38",
+        "updatedAt": "2026-04-24 23:37:31",
         "districtSamples": [
           {
             "district": "성북구",
@@ -124,7 +124,7 @@ window.DASHBOARD_DATA = {
             "price": "1,979원/L"
           },
           {
-            "district": "성동구",
+            "district": "은평구",
             "price": "1,979원/L"
           }
         ]
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "충북교육청-교사노조 '정책협의회 절차 합의서' 체결",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mZDM2V2IyWWdNanhXRUgxdlJlSExRcVgxN1psS3FJS3BYaEZkMndJdlJ1bjRFQjZ4Rk8zaHdhalJUeF9UcmZCS1c3VXFzSXRuMUo5R2NKY1kxWlRUSFEw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 14:04:46 GMT"
-    },
-    {
-      "title": "[청년골프] 굿 샷 장은수,KLPGA ‘제2회 덕신EPC 챔피언십’1번홀",
+      "title": "[청년골프] 티샷은 부드럽게 리 슈잉,KLPGA ‘제2회 덕신EPC 챔피언십’1번홀",
       "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DT0h4N2MzdmRlYjlLZ3dPUmgyMmZoT1VRYTF4LUFadDBTRGZQZTNCM0duenVhWkRYdlhmNHhiOGdGMzZ1dEZDakVmYjlGemhiVjRSVUJyNTRsdWpXdk1yeEEwdE1YWHZwUXc?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 14:18:16 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80c3hlQ1FQcS1LUlAzWlZ1ZUhlTndHZGFVLTU3Vno5RGt6ZDVTUC00S2VYYzFsSHBDMDVOVlNEQkhIR1pmNGFiRUFxaG90b0FGOVh1OUNUenZwNlVzLUE3WTJObnpOUGZqN3c?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:01:40 GMT"
     },
     {
-      "title": "서울고법, 다음 주 윤석열·김건희 항소심 선고 생중계 결정",
-      "source": "news.nate.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZ1NEVXlMMmdscWt1c2x0X0FIYUlabW1FYlBrOFVKSk9rRWJKa3hlcGJHWk5vQjY5Uy0yUHI4ek1QaVBaMVpEdll3MkdWbXItVDNZ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 14:14:00 GMT"
+      "title": "장동혁 사퇴 거부…당대표·후보 따로 가는 초유의 선거",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3Z1ZHUDlzVnhYVHJmaTB5cGg0VFNTRDA2M2xnd3MzU01LRzlaajZnaTdpSmRTeWdPQVdqa3cwc0dnNW9wbkRRenpCUm1Za2tNVDA4?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 15:52:00 GMT"
     },
     {
-      "title": "검찰, 방시혁 구속영장 반려…보완수사 요구",
-      "source": "news.nate.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WN1Jkai1vN3RjZ2tma29qYmhETUM3Q2YzMjhQelRpR3JsMVptNnkzb2RBbm0yQ2VHNjFTTk5mLW1rUTJ6cUNmRm9yd3k5XzhhWEtj?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 14:25:00 GMT"
+      "title": "호르무즈 위기 앞에 갈라진 EU…이란 제재 완화 놓고 이견",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzdsMnd2dFh5ZnhGdWQ0UFYxV0dLX19xOUtJNEU3TGF2d0VxZGZGOV9VaWgwVjBPVnpZdHQ1TGRRRzBuVGZPRElhOU8wSjR0T0p3b3hjcTRyWnFNUERYTldhQjBMRnNfT2lkdENxN1dlMzdZRGFJaGV3eFhKTlRNX3VOVWtFeWVkQXdDa1hBbll0bVpJUzQyMHBEWEFCVDJYcW5SXzZRX1otck1FRjJQZHNZZ2pZZXRRNFE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 15:32:22 GMT"
     },
     {
-      "title": "충북교육청-교사노조 '정책협의회 절차 합의서' 체결",
-      "source": "news.nate.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HSXYwSDVGX1VtSFlZT254ZVVEd0dfd2ItUTNxdVpIcjVnMDB0NWgwU1hvSVRtWXA2eUFGbUVtVkszWUlOZWdiYnVnVUd5bVdPTHQ0?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 14:05:00 GMT"
+      "title": "\"안전한 완주 도우며 시민 불편 줄일 것\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lUzVkcWRjcjhHdHRic0REcDRKc0JiT2g3UjQ5eXpTa2NTa0NLTjVSMVFKZlMxaHltd1J1dTYyQnBSOXlCNDhRdTBJdFhVVy1iTFlr?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 15:47:00 GMT"
     },
     {
-      "title": "정우 \"♥김유미, 테토녀 스타일…여전히 설레\"[전현무계획3][★밤TView]",
-      "source": "news.nate.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YdGJBMHZwcWltOHVaMVptcVVnSVJJNS1FeHBtTGk4M0tNVlVtZFhSeTdCcDk0bW5BdVJhdjYtcW45blZtRFUwSXFlT2VvQkt5a1A0?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 14:05:00 GMT"
+      "title": "국힘 \"장특공까지 악마화…대통령 갈라치기 멈춰야\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42LXJRUXdiYUpVNmFxUVE4VV92dGM0bVNGc1ZKZ2xpbU12andINzhidENqc2hqMENmQ1JPenV6cWJUa3I0ZXAzV21PZHNaLTU5N0RJ?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 15:24:00 GMT"
     },
     {
-      "title": "'감독' 정우, 곽튜브 연기 칭찬 \"일찍 알았다면 '짱구' 제안했을 것\"[전현무계획3][별별TV]",
-      "source": "news.nate.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IbkVJTlNsMEFDSnNXRFo5UjJYdDcwOXQ5REZMdTNqLWRuRlZrLXFuTnB6My1Hb1JfRUNzS01sMUsxeFc1NXJzRGJvekVtSU84RHQ0?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 14:05:00 GMT"
+      "title": "검찰, 방시혁 영장 반려 \"경찰에 보완수사 요구\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wdm1hdGhKZWhobnpkc0E3eElqNWxDZnROMHYyc01rRTZVNW5pOG9yeXRkUnZxV1plTnJ2MEoycmxVOEZYLUtDSXMtTWQ2VDBHMllj?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 15:49:00 GMT"
     },
     {
-      "title": "2026 화순 봄꽃 축제, 꽃강길 경관 전시 5월 10일까지 연장",
-      "source": "무등뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vNHFXb3pnVUNxY2UteVVIN3JlcXlmVjRGSGRhTWFYT2tKbk9MUGNsc0o2YjA0cVgtUmc4Zy05US1RRExoQVhyRTB0LVVHSjBGcGZfY1VRLWx0WDZJSDJ3VnYyNHZ1b3M?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 14:05:17 GMT"
+      "title": "경찰, '이재명 조폭 연루설' 주장 폭력배 무고 혐의 수사",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkcXY4M005N1V0ZVlaOU5aRVp0TkQ3Wi1oWjI0VkJHdTFvdnBiYVdxZjdVZGVlMnpCTmotVWpFTmhiaDRUVFJpQ204U3d4T2oySW9z?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 15:45:00 GMT"
     },
     {
-      "title": "안산 상록구 금속 구조물 제작 공장서 불…35분 만에 완진",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fbUJrVW92ZEZDLTZ0RjJBSkJwWF93amgyWHhlRDNkc0tIU3o0TFhPX21Pa0NhT1JFbzNCejJyckVJNGM5SmdRZWs0bTEzbzMxSGZsckRB?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 14:37:21 GMT"
+      "title": "정청래, '12일 단식' 안호영 의원 병문안",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52UzB4TU11b2pxbzdBR3Z6azExekRuLXhjOEFZQlRqRmt6SjNKLXFQZ3hJSzZhbC1fQkxQUXBzbHRhd2NKSHZndmtacTBYMzlvcW9z?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 15:32:00 GMT"
     },
     {
-      "title": "원신, 다음 신규 지역 '스네즈나야' 오는 8월 12일 출시 예고",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GeE9rX0d1bEJ6MDg5dlV3N3UwVkhXYU53WlNVXzBINklCUWxwRV9CZTk3TGNzX0dRc1ZIUHktVzk1dFhKMmVLdER3b19rellURklfUWpiNlhBcldKZ1Y1Qg?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 14:03:22 GMT"
+      "title": "[포토]보쉴리 상대 '3회말 솔로홈런 터트린' 최정",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RSEIwU1Azcmc3WWN2cklDS1o1SVpNVU9YNEktTUxlNEk1VEpEQ1c1eWxFSTFienJjTkJNTWxkTXh5R3VaMldKaE03YW1DblZuTDdPVTNFLVVvd2Fs?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 15:32:00 GMT"
+    },
+    {
+      "title": "[포토]'5회말 안타출루' 최지훈",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NczExUVFINzd4YmRPMURuOUJBSi1JUE5UeXFsZDgyTnBfOTZEd0JHTzRXdGEzMUtPbGVGb0IxaVJBeVpzMkw2OFNoOEd3X29XaE1HVVJ2R3lPM0pp?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 15:29:00 GMT"
     }
   ],
   "sources": [
