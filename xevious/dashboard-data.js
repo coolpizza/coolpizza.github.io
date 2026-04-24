@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T06:12:04.000039+09:00",
+  "generatedAt": "2026-04-25T07:01:55.659922+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "7.5°C",
-        "feelsLike": "5.6°C",
+        "temperature": "8.2°C",
+        "feelsLike": "6.5°C",
         "highLow": "최고 23.4° / 최저 7.5°",
-        "humidity": "82%",
-        "wind": "4.3 m/s",
+        "humidity": "80%",
+        "wind": "3.4 m/s",
         "rainChance": "0%",
         "pm10": "52.3 μg/m³",
         "pm25": "49.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-25 06:00"
+        "updatedAt": "2026-04-25 06:45"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "6.7°C",
-        "feelsLike": "3.8°C",
+        "temperature": "7.7°C",
+        "feelsLike": "5.5°C",
         "highLow": "최고 25.5° / 최저 6.7°",
-        "humidity": "85%",
-        "wind": "10.5 m/s",
+        "humidity": "86%",
+        "wind": "7.2 m/s",
         "rainChance": "0%",
         "pm10": "40.0 μg/m³",
         "pm25": "36.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "35",
-        "updatedAt": "2026-04-25 06:00"
+        "updatedAt": "2026-04-25 06:45"
       }
     ]
   },
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-25 00:45:51",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-24 09:52:02",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,40 +177,28 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "[26년 4월 25일(토)] \"개미만 털린다\"…주식거래 12시간 연장에 개인투자자들 '발끈' - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHJpVzI1by1LREctbVZjWXNkQlYwTEhzT2J3amthZU50ak5mSC1JRzJQTkRxU3FIZ0duQy11Nkp2YlRuX0xrUDBwclprMG5hUW5BeFZPTzFVT3o1V0ZWb2syZFJ5UEo0MzZHY211Wk1HbjQ2YjZFeTJNU2VSamlrVw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:40:00 GMT"
+    },
+    {
       "title": "[모닝와이드] 오늘의 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lS1N1WEdLa1B2ZUZkcHlSaXNLZlNqbTEzS1RrNG5uWThza1BSdHl5MkxQMXlwWFo5VWN1VDdFOWQ3SkNHMHc1TXdqa0hrUE5pVUthYU5YcTk1SUtNTElmWWxmYVpfVGhlTGE2WWVJd1h0aXNKQmhzWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KdWFKU2t5VkJNRmpKZURlcVFrakZaNWQzMmJ0czB4Wmc3empwUlFkZzBOQ3Q4VFQ5emszU1FLQURWZ1hkdkh6aGxQUHhVMFB0TUhV?oc=5",
       "publishedAt": "Fri, 24 Apr 2026 21:07:00 GMT"
-    },
-    {
-      "title": "건조한 주말…캠핑·야외활동 시 화기 사용 주의[오늘날씨]",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiTWlqYTJvNG9wRFl5eXdjSlZOaGkwRFhNY2RPMHhBSHZJRHQ1RWNvelhmQjQ0QXRJMm9KTzRkaU0yQ3dWTUVTODRrMzRjOUk2eFVpMjNtWndCbVlfSWR4RlhVN1U?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:00:00 GMT"
-    },
-    {
-      "title": "이란 국영방송 '아라그치 외무, 파키스탄 등 순방…미국 안만나'(종합)",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQancyTFU2QVdvMmVwWDI0Z0VpUXpFMzI4YzYwTmpUbElYa1dHZllrRkZrNUl4aGxEZE9fWDVkWkRMYUdpalhKSGNUTkZndDJLcFBCcnlxVkJNSnRGSEV1eXRRRXNjSzhLMWZRbG51TkpsUW1LeDZSSm1fcXBYREdqRXN2OHowQUh3OGR4dDZjMVJEcWl2MUNIanFZNUVKd3hvNVpzSkpSN0tmTjAtYWZOeXNvTmZudHd2VXQ1SGVRZk8zLXRNUHFYMUp5Yw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:00:22 GMT"
-    },
-    {
-      "title": "[청년골프] 화이팅 리 슈잉,KLPGA ‘제2회 덕신EPC 챔피언십’1번홀 티샷",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fRDBFLXZBRGMwVHVwTHl4Tl9sdkw1aU9CTHNCUTI4ajlTbFB1MWRETjd3d283dkVNLWVlRHhmeHBsX0pfNTdvelVGRzFvV1JJTEJXUEJBZVRfSVpPbnVldXpYZ0NIa3hLSlE?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:04:53 GMT"
     },
     {
       "title": "동방신기·에스파·트와이스…日 도쿄에 K팝 팬 40만 이상 집결",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFN3eXRNdWJWZnJyYVdoWUZDQWRpWlFmeDliLUVNQ3pEcnRMYXJRUXd3YnlYVnVlU1cxNnRTaWoyX1o5V3FsNE1uaE5YRDl2RzRtbjlGVXNBZ3JBMEdxT3k5SW4wUWdOU01wYkItN290RXM5SnlUWllKX0tFUnlqRmx0YUZDQkdhU1B1VThNY1BiM3hEQ1l0TS1HUE1pNnF3T0pMVjdETDAtV1R0ZENoLTctYmJUMjF0dkE?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:03:03 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWVZxaFZUWTBPdmUzbEJkM1ZvRFZzWUxPQ3J5c3NFTDVsend2eDBvenI1QUpKU293S19EQUJSVlRIY3pQZGtXRW8zekpwYk5paDBGZWJYWkxjZTYwaVlNNFpPemRuT2g3RlZueklpUXpYeHhqSGlla0lnSEJZNjFvekl0MlYzYWZoWWZLdklHRDhpTVVRRFFKVE1sZXBvZ0x4TVVmOGVBSXB6M3VGempudW16Tm56ZjVSVkhiVjRmem94RWFvSGxMei01VQ?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:13:03 GMT"
     },
     {
-      "title": "\"녹색대전환, 모두의 성장\"…GX 국제주간 마무리",
+      "title": "정당 지지율 민주 48% 국힘 20%…PK도 41:28",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbU9ocE9yOXFnbnRHaUhpd1J3WHBPQms4SWJDenFCV1RkQnltanZMU0U4WUgtQlN6UllHNzNGZTBSS3dfRWplVmxEU3c4eXZSZVRr?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xYVFpbFE2RzZNWi1HekQzSmtZWXdONzdRdW5yLUdPaTFWSllXWGhSN0NCSU1uR1dCQlVvb1dvWWtZRVpTcERSU2Z0UURZV2J5dlln?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:28:00 GMT"
     },
     {
       "title": "나들이 수요 정조준…차·패션·뷰티·육아 총출동 할인[주말e커머스]",
@@ -219,22 +207,34 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Fri, 24 Apr 2026 21:08:03 GMT"
     },
     {
-      "title": "정시아, 남다른 교육관 \"'예원학교 입학' 딸, 학원 억지로 안 보내\"[아시정]",
+      "title": "[속보] 국제유가, 하락…WTI 1.51%↓",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lLW9QQTVzbmc4WWFQSXBmNjZVZmNBVzA2SG5uTFZwNjdWNjVOcm1QQlpxakdpYWE4YWk0d1gwTFBtcUZnbkpfZGRTZUFiUHdVUG1uMkswaEM0VURRcVhnOFJNdTBqcWJyQi1kWjlEd3JuelBkc0NqMQ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 20:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVnUwT2U3UGN0cHd3Ym0wcFQycFozb25BLXZ4S2d1dWNad0VHWndnN3hBaktJNVByQk1Gdy11M1hpc3dWbUpWTmVWeU5EeU5KMDB3?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:25:00 GMT"
     },
     {
-      "title": "亞 넘어 美·유럽 메인스트림…수출 17조 시대 연다[K-뷰티 3.0①]",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFNiN3V6dzhTc3pRMThnNF9wdGt0UXR4dFl5UVZ2Nm1GcWZmcERHa00wYTRtZDFFOV9BUFpyRmxnVzE2amE0d3pMVGdZUlQ2RjdFazZ3V25HczdLbU1HZEFFRGhrTGJEdDhvUlEwbElaMXdTUEpNcVEtRUhNeV9ZQTU0VUNMSnB6NXF5MHVfaWd1d3RlWFNRMElheTBJLWNISTBvMDVQaXVRZVBfUGYzTU9paTNobjFZ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:08:03 GMT"
+      "title": "[속보] 뉴욕증시, 혼조…나스닥 1.63%↑",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yUHBrckR3WkUzNkxYZEdiRTZLQVVSSEVTTVZTdUUwUWFjb3cxNzZwWlVZV3FuSE9nS2V0WTFLZWxsbkdrSktfOElkX2xCeXFiQW5n?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:14:06 GMT"
     },
     {
-      "title": "[주간政談] 李 순방까지 따라온 정동영 '구성' 논란",
+      "title": "미-이란 협상 개최 급물살…S&P·나스닥 이틀만에 또 최고치[뉴욕마감]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3dHRHOVA4RURwQ2txR0U3YVY5eHFsc2Q2NDRBWS1sQUdyeG9TVUpRdnVEN09nbG42UmtvNk9JcE5paFV3czd0OEVIX2g0ZkozYkc4?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 21:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9icmtjR3ZtNnVxZUxIODJrQ3paNXJtRmtOWHlHN2xWbUExN0dIOWY5TlVEUTRjRVFGd3Fmdjd5M3VrRHpuM0k2ejF5QjAtekpGR1U2d00wYng2VE55bEc2MTRXYTBOMno5Z0E?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:41:00 GMT"
+    },
+    {
+      "title": "[청년골프] 힘찬 스윙 고지우,KLPGA ‘제2회 덕신EPC 챔피언십’2번 홀",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52VWg1bXM5akg1LVpFX29zVHo3cXlLZEgyamV5MmZDMERfX2YtOXFWQzhVS2F5ektpdjFULUZjb0lwMkdtSk5Sd2NTUmtsdVlJMWw3dU1mcGxjNzBNUTdwNlpZaDd3RDZ3X1E?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:25:44 GMT"
+    },
+    {
+      "title": "[속보] 국제유가, 하락...WTI 1.51%↓",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BOVd0bjRzamtIRFdrZ2RHVHRROWNsZ0VIT21yMEI3Y29oQm5mQ2tXWk1wYWtpNDJKcWlNWnNrT0p4ZlR1Zi1TRDZKVzhNTXNJcDRuakFKRS1mbG5VU2xPLUJqSzFEN09OXzlaWWRJRlZNUHVN?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 21:24:00 GMT"
     }
   ],
   "sources": [
