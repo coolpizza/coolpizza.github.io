@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-24T15:24:51.640730+09:00",
+  "generatedAt": "2026-04-24T17:31:23.547762+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "22.6°C",
-        "feelsLike": "21.8°C",
-        "highLow": "최고 22.5° / 최저 6.7°",
-        "humidity": "29%",
-        "wind": "2.6 m/s",
+        "temperature": "21.1°C",
+        "feelsLike": "19.4°C",
+        "highLow": "최고 23.0° / 최저 6.7°",
+        "humidity": "39%",
+        "wind": "6.2 m/s",
         "rainChance": "0%",
-        "pm10": "14.4 μg/m³",
-        "pm25": "12.6 μg/m³",
+        "pm10": "14.9 μg/m³",
+        "pm25": "12.9 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "56",
-        "updatedAt": "2026-04-24 15:15"
+        "airQualityIndex": "55",
+        "updatedAt": "2026-04-24 17:15"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "23.5°C",
-        "feelsLike": "22.5°C",
-        "highLow": "최고 23.5° / 최저 5.7°",
-        "humidity": "33%",
-        "wind": "5.2 m/s",
+        "temperature": "21.7°C",
+        "feelsLike": "19.8°C",
+        "highLow": "최고 23.6° / 최저 5.7°",
+        "humidity": "40%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
-        "pm10": "5.6 μg/m³",
-        "pm25": "4.5 μg/m³",
+        "pm10": "6.0 μg/m³",
+        "pm25": "4.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "53",
-        "updatedAt": "2026-04-24 15:15"
+        "airQualityIndex": "54",
+        "updatedAt": "2026-04-24 17:15"
       }
     ]
   },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "구윤철 부총리, 주요기업 사장단 간담회",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kdEhGekN4eDJnYXBTSHR3ZTRpcXoxeDhENFJ2RkhpQm56XzhFdEtWRW1ESmh6SnRMdW95Y01xUU82VFZ3Mkw0RUxOMA?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 06:03:55 GMT"
+      "title": "[주가] 4월 24일 주요 제약바이오 5% 변동 현황",
+      "source": "메디파나뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41Smp3cGtwUl9QRlJaU0RLUDBoaVFRZFhsbFNJd2JBS0lsdnVQVlJqQ2dlakt2QlVlVkJNbHVlSVpCZjZ5bXdjLW5oSmtmMEhaTWVzVnFRRFNKcllTdVdUV2RQd3BHRE9nYkFr?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 07:34:46 GMT"
     },
     {
-      "title": "[인천 주요 뉴스]인천시, 매머드급 국비 확보 총력…첨단산업 등 11개 사업",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySV9QRXFuUk41Zm95MVdzdjV4NjhZWGFvUjd5a0xTR2kyMWJ0V25pM3hiWFJrYTVGMG10d0x4Q1NiTWF3UHZ5V3VlLWl5RENybGxN?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 06:02:00 GMT"
-    },
-    {
-      "title": "[수도권 주요 뉴스]고양·파주~인천공항 '심야 공항버스', 30일 개통",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKOXE4VzRaY1RiV0t4ajFjMEZfR29TOGdGMlg0WVhUSWFLMTlFTjYyODNHdU85Nm43TVhRSVhpNGRDYXNTWnhVWmdxdlVnNGpCOWhB?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 06:02:00 GMT"
-    },
-    {
-      "title": "주요기업 사장단 만난 구윤철 부총리",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0WDZyTnZKbjRGMnBGNVcxNld1RDdXR3dDeTY0SnlTOGpza2l1OFpfU2VmWnRhZ1h4a1BlelRIR2dMZkhjNVJMWnB6V0hDT0R2NHlR?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 06:04:00 GMT"
-    },
-    {
-      "title": "구윤철 부총리, 주요기업 사장단 간담회 개최",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vVldRNDAzOTZQVW11TzJSQUtGX1NvOXNwRVBYTG5NTW1PR2kwN09hbzZfRmNCR0JyWVlQOTFaVkdsLV9UanlSU2FiUldETTBkNVpv?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 06:00:00 GMT"
-    },
-    {
-      "title": "[오전 주요 국제금융뉴스](24일)",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XU2dzWDZvV0taams5ejRrLWJheDBGczAwb0dSRC1QRHNrODhjTlV2dnY5aWVmMFkyUGhxNFFUQnhockV3T1BPaXB1UnEyc0xjR2UySHlRM1pHckt4eEs1RDE2bGN4b3RfWlRPcG51QjHSAXRBVV95cUxNWWVDcTZFRlhIN1puUVdPeXBXajktVk5vS3VIbS1nMXBlOHFnNGVEQmtwQjZhSENyazV5WThSOGFoek9LbEt5dFVybGdtaDVQaGhZLWZPTFFVUTB3WlZ1LXh4cTlva2tfZjNUMTN5ZEE0N1dUdA?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 06:15:05 GMT"
-    },
-    {
-      "title": "하루 10분 호주 뉴스: 4월 24일 금요일",
-      "source": "SBS Australia",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS0JDRmE5dHcxTWp5YzJNUENCTWFZMW1fZWw3dWhYeWxRZzJ0czZsLUtZcG9wMzZ1R3Rzb1o0X1FoUmQ5NTRadFVXcGRHb01kamtHTFFYWWhWVjRLbllDN0RhZkFLaXhZY2d6bU5ZMG1Ob0FrXzd6amhkMGtQQW56RjJzbHkzM3ZGdW9vM05oYnVHYkx4d3Q4?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 06:22:16 GMT"
-    },
-    {
-      "title": "AI 음모론",
+      "title": "中, 트럼프 방중 전 '판다외교' 가동…'양국 인민 우의 증진'(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEl2OVhiQzktZVdJdUJTS1Q0WHRYVnRfcU1HRUdsWUJhRk42LXFBSTBLQXBKOEhSakdLbkQ3aWZsUlBFakxNcnpheHJYTkpxbEtMaEctMnJaVU9odjRNUVFlejA3UW81aks3VzBfZ1JRTW5WNHowNEpsNGlmRk1ZbXdOQ3lhVm9Qc2FNczFkTzBSYVRtUzBfOFBZMF9QdUZEdnBOVG8tZ3lic29oZWp0RzIyb083RWlaSmg4?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 06:24:12 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXBGbW1IWldBV05MdlAycUI4QUJGb2FQUHljMG40YlFuYkJ0ZDVOcEVNcWZ0SmtzeHJNUXIzY3JJLUNRaHNDU1VLN2JqcUhSRUEyWFNGS3cwQk91NnpKcVhqY2JrbFc5cnNrS1dTX0lLek5rXzVmS2EyTGR4cWxfcE15ZFY3NHdWVnV4N3NLU09jRGhyQWNETXUyU1JFVTJEb2EzNm9KNGZSdE44MElFX1Q4cHhkRWk0RVBDR0o1QjFSY0t3SzVZZWlB?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 08:19:58 GMT"
     },
     {
-      "title": "주요기업 사장단 간담회",
+      "title": "트럼프 방중 앞두고 中 '판다 외교' 가동",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QeDRVeS0zaEtQRERWNFlqMldraW5uS2hHeGtYOG5yaHpTU1phUndxMVNsSG1aRXk2cFo2STdoMjk2MzhQWlViaUYyOHZkcVN4ck13?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 05:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uX0d5WnJGakwwa3ZBNkxIQVBmSF9wVk1zLUk5VHNuWTNGUWVpVEdzUjltLUlwUFdpZ1BYQlVQNXNoUmYybmRTMFVjNWhnSVptWnlWZVNiOEl1cmtWUzE5TFdid0dwMllnM3JaUkNPRVZxRW9jeVVMNA?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 08:12:00 GMT"
     },
     {
-      "title": "페북 운용사 메타, 8000명 감원하고 AI 투자 확대",
+      "title": "두산에너빌리티, 베트남 신규 원전 시장 공략 가속화",
+      "source": "기계신문",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55bG9QZ252REtwYWpZbzFRYjQtdG5BMmx3VUMzcVl6VWx3ZUVwWVFyREI3dU1vS09CX0ktZi1ZM2p4Y0JuSmN0a08zUTVoUGF6RldfUFhuaWZleWNPN0ozWm4yeElmdw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 07:38:41 GMT"
+    },
+    {
+      "title": "전남경찰청 '심야 화물차' 과속·졸음운전 등 계도·단속 강화",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50Y3dOd2J2WW1lNlpndlV5YlQxSFBBeU1UNHV6MmtYZm4ycnp2M3dNZGtyMFJEWVVQdzVic0wycG52c19nazZpenIzM3NEMEtWVXRtem5pUHBSVVJIaHhV?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 07:40:18 GMT"
+    },
+    {
+      "title": "트럼프, 이란전쟁 비협조 스페인 나토 방출 검토",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSE1QUFJ1X1VBbE1qUHV3NjBwZVJDeXpiWThGSThpdUJBRGVLOXNCUjZQQW5yaDUwM0NFNUVTQndvZ2xPYjd2WEtlSmJEZi1IMWFxc1NIRFo4WkVyRE5iSmtGZW5hRmdOQVQxUWVqRlRuOGsyNVdhZlhkeEdqTGJoMGhRWmhIODczbF9TSFZtMjlXNGJsMFhNN2xYQ1B4cm5NMmhPcGFxVzRuLVJCU2FYcDBwS2RjYm4zZjlOatIBdEFVX3lxTE9tdXhlWHFIQ3FaYzVZeUYyNllQUXM2OWdEQVJMUWZkY181SHdBVWw2SWYya3lDaXBGTC1fRGhFeG5sVXItb0RXMVhyY0NGcEljRU44SFhheGZkR1QzLXAzdTRYb2kxM2xYbXRQRHBGUW1aNTlz?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 07:38:49 GMT"
+    },
+    {
+      "title": "[오늘의 주요공시] 현대모비스·기아·현대로템 등",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VRlZBREttaGpsTUZmYjVNdkVWREQ1bThqdTNFOHVmcThrVEdzS1RjcXJZMHhtRXo4dTRhSVZNVUgycUxCQTFLSUlLZmZQMFppTTRrTXJhXzl5Y1lEa3kxUjRpZmFqTGVLYlpHTGNB?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 08:27:00 GMT"
+    },
+    {
+      "title": "나들이하기 좋은 주말…'큰 일교차와 건조한 대기'는 주의",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWo2cTJZRXh6NnBUU3Z5VF83WW1aQzJxb0xSbnhNblVOcXNjS0ppRGM5WFMzNEdwcFdadEg1VU9OdUthc0JTWEJwVWpNLVVGaFNEcW9QMm00VTB1bGx0THNFMUVOdU5jdUtRekljSUZnbXdqZDJBckdkOTV4ZFROT0JXR2ZrLUdlZFdVdGluNEZMNmlpTGlMWmtCcGRiUjYydENNSmM0Y0hXWi1FaEkxX2RQU0tKbGJpa0E?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 08:21:02 GMT"
+    },
+    {
+      "title": "펄어비스, '붉은사막' OST 첫 앨범 발매",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pdVBieUwzSTNEa1k1czJQUnZDN1lZZzBXbzFHbVdMc2FZQmVYVWJ3b1VnREhYaTk0QkpKekYyb281T256dkpiakdmc0Z3aUtrTTRN?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 06:11:11 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42aGYyalFzemh3N0dvN1hNOVhielhWMnFiYlBsY1k3YVdjX3RQWl9rSWhCWTd6cDY2WEQwQV83UGVjR2J4U3MtMHJ1a3BIRFlWTkxDZ01CTWdKZVVXTVloaWYzT2VNS0QyQWhzOTJ5UDZJdFZ3WWtqSg?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 08:15:00 GMT"
+    },
+    {
+      "title": "기아, 글로벌 점유율 4.1% 달성…'판매 성장 전환점'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQanNzcVd1NkZtY2tXR1hrMlZhbWdYZzNpZUthVVF2WTNVMVpIZHdYdUx5V3dYLUpuQTJ0Uk4xamx6NmtDZEpEVFVQSlNGYmlFRnpHMmRGMTY4ZnZGUUpMTTRBeVpUS2I1QzJ5Y2o0YkNkdGp3QWtIeXMzeW15c3UzekMtQ0NxbmJZOGdEcEpHbDMtYUo2bTYxTUI2LW1NTXQ1ZHdoUmdOaXQ3T21wZ0Rlc3EydkE1QzNnMlpEMlhYWlY4Y1U5dGRJRm1B?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 08:21:37 GMT"
     }
   ],
   "sources": [
