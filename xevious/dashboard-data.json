@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T08:45:04.363027+09:00",
+  "generatedAt": "2026-04-24T10:16:04.192469+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "10.4°C",
-        "feelsLike": "8.2°C",
-        "highLow": "최고 22.8° / 최저 6.8°",
-        "humidity": "58%",
-        "wind": "3.0 m/s",
+        "temperature": "14.3°C",
+        "feelsLike": "13.5°C",
+        "highLow": "최고 22.8° / 최저 6.7°",
+        "humidity": "48%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "pm10": "38.0 μg/m³",
-        "pm25": "36.2 μg/m³",
+        "pm10": "21.8 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "58",
-        "updatedAt": "2026-04-24 08:30"
+        "airQualityIndex": "59",
+        "updatedAt": "2026-04-24 10:00"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "11.8°C",
-        "feelsLike": "9.8°C",
-        "highLow": "최고 23.5° / 최저 5.8°",
-        "humidity": "59%",
-        "wind": "4.0 m/s",
+        "temperature": "16.2°C",
+        "feelsLike": "15.3°C",
+        "highLow": "최고 23.3° / 최저 5.7°",
+        "humidity": "46%",
+        "wind": "3.7 m/s",
         "rainChance": "0%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "17.3 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "46",
-        "updatedAt": "2026-04-24 08:30"
+        "pm10": "11.6 μg/m³",
+        "pm25": "9.6 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-24 10:00"
       }
     ]
   },
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[전국 주요 신문 톱뉴스](24일 조간)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZLVRVd3o1TUs5N0hxNnZYODl5VUxfSlZuRGlzSC1RVWVTcHd3enRCWUVuSWt6bUdTQktIdXFtbV9zdXdSal9zbnZoeFFaMHpJOXJPSzdnT0pfQmvSAWBBVV95cUxQUm9QaU9LUVVOLXludmFhX0JFMGhYRkRRM2ItSE9zWFFhVkQtaURnNlA2U2lkWmUtcEJ0TU9USkxWWEc2c3ltdXEzb1lJM1I0YXVqdXFpQ0RybGNjUncxYlU?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 23:00:01 GMT"
+      "title": "석문서 트랙터 깔림 사고..80대 숨져",
+      "source": "당진신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44d3ZTRmNzYVdYbjY3VGZ5NjVJN1BIX0RVaVhEZnkzbk5yUnFZR3d0V0hSWWpyc2hWRGJHVFhRWk16M3dEX0FjaWh0OFhselBhVU9DWEw5amlKZVprWFZOU1ptaXNNV2pz?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 00:59:55 GMT"
     },
     {
-      "title": "유가 급등·중동전쟁 협상 불확실성에 뉴욕증시 하락 마감[뉴스새벽배송]",
-      "source": "이데일리TV",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rMElDXzUwQ3BjWERUT2d4bXppeEhJSzhpWDRDc3RrSUJNMWpFSncxazdoSjVEV0V5Smx0aHJZbEs1R1FEWGF4R0RhS3hUdU4xSF9UTFJ4bTBlOU54TldNS1hLd25MRHdGQ3VJWTdjN2tMM0ZCVUhZdGowOA?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 23:03:00 GMT"
+      "title": "1분기 다단계 업체, 에스디플랫폼 폐업…2곳 신규 등록",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02ZVZreVdVck94WkhYdFhNVi04QWFlMUZkRk94dWEyempVVUo4dm5jQ2ZJQUVKdlFDQ0RDRzZpektLck9veW15c1cyNkJ1R0N5eXlOZA?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 01:00:00 GMT"
     },
     {
-      "title": "[아파트값 상승 톱10] 서울 송파구 '문정래미안' 등",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12WWRHOERwelhfUC1HTFdmYjgzUmx2X05nZEh6YVJYMmdJUHVUX2JrcWl5S3Bqc25sM0kyS0pVT1lKcnkyUkZvZ2ZNWGRPdy1odHBOY1lGZ21xMjNuSEVIbXZZSlYxM0tVbDlFajBOUV9CckRnOTRDOQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 23:31:00 GMT"
+      "title": "트럼프 “이스라엘-레바논 휴전 3주 연장”⋯국제유가, 나흘째 급등 外 [오늘의 주요뉴스]",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qdVJ2cFZ5R1djbGh6bFlseUJxaGVkMEVQXzFBQ28zTmxjbnRjemZWQnpva25mQmhORkVXOTJrbmdPZDhIRjJqWmo3SUxMNUdlZU1UYw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 00:39:00 GMT"
     },
     {
-      "title": "4월 24일 아침 뉴스: 오늘 아침 국회는 연간 5억 VND 소득세 면제 기준액을 폐지하는 법안을 승인했습니다.",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVNHcmJtWnViRTJPNnp3djFYUW12MVA5UUd1NzJEOWhpRENzMGFobnptOHpIdG1tOHFPMHNDQjE5N2FQN19rT0YxVnNGTE52OVR0MF9KNjRiQllZX0hDZUNpR3ZKMFhjcjJEazgwT0ZGU2RaZnhubnZ4Yk56S1RIdk84NkN5Ml9ubFdURFFQQ0g2UkdOd2xYQ2NlWkRQdUNNUWdQWXJaa0hzS3RLSFRVb291WWZ1UVJkeUtkcQ?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 23:31:39 GMT"
-    },
-    {
-      "title": "수원특례시 결산검사위원, 주요사업 추진현장 점검",
-      "source": "케이에스피뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5TkpNY3dPWmdiTXQxR0VybHpOOWEwR0c5bXlieGM0SGNIb2dPZGU0ODNxbnBjNVdUWUFjYjJUaUN1eWxE?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:54:00 GMT"
-    },
-    {
-      "title": "시흥시, 광역 긴급차량 우선신호시스템 구축… 골든타임 사수한다",
+      "title": "3년 새 상호 3번 바꾼 다단계업체…공정위 '거래 주의해야'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUERVbXZuNGpnaGJsXzNERmY1OWRMUHJfRTRfUmFWWU5FRkxMLUZRcGNXdHc3MUt5Znc4eFdQZ3B5alhZWXk2MWYyTVFaZllUbkVBOVFWSXJZZFBiOXEybE9HVlFlUVRZQjFCb1o0dE9kUl9ZaUJGRW94c1Q4M3EzeV9SWEU3ZGl6UVNpdnh2UVhnZExMcEVuSnRhbm51Z2FFcW95Nl9FUkI4VTlCTU5DSU1CMkV1Wmo2?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 22:55:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUUxoeC15dGZQbmlISEF4R3NsSlJpZHZYVEhITFlXX1Y2eWwxc1RkVDN5T1E3aTdMUDNneFdUMUh4N2ljbXRyZ3pJckZhWlR5Mm4zTkFCUEd4TXZlb0JRSkxQb3RWaU5MMHNZbUpvWUVDbV83bjBEMVU1dDZ2TUo3NE9EelMyeTdnR2lwaUpoUUswZVd5SjlqMDBiZXZ1c0ZMSVFJOTh6RUs1STBmUDVpb016VXUxYWVuSFE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 01:05:39 GMT"
     },
     {
-      "title": "이마트, 어린이날 맞아 장난감 최대 30% 할인",
+      "title": "\"간판 바꾸고 주소 옮기고\"…우리나라 다단계 업체 몇 곳일까",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JTFcxei1mV1RuVm1MWVhfWl9pcEtxQ0xpell2UC1Bd3U1OVFjV19UTjlNNnhQSnlpQTdsSmJldGFFM0JoVzlydURQZ0UzeG9JM3ZN?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 23:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NTGhvLTN6NUZQSzFDWUhDWC1HOEVHcFA3M0RhZ0RUTGZ1dnBSUW9FOHVhV2NyOTg0YUcxRzJaMnoycjV1Sk01U1FFTDY1Z2hlNlZn?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 01:02:00 GMT"
     },
     {
-      "title": "신세계백화점, K뷰티 중소기업 베트남 진출 돕는다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qZHA2TG4zaWhoTTFLMUVTaXBrQkdrMXJFWElFcW4tcWt6dWJBMjBwYVN0Mkp5RTlwOU53NHVwUy1McDlrOUhmYy1pSzBsclB6ak1xMld4LUgyN3l1TEZxNw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 23:06:00 GMT"
+      "title": "뚜껑 열린 맨홀에 행인 부상",
+      "source": "당진신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5OHE5YndrM2dYYUJOd2ZEcHZRd1VuVjRWM080b1BpVllOWFpFaDlnTEh4S2JsalVKLWZfNmJ4T3g3TVZRNkM0Zl8yVFg0UEY1XzhnakhQSDk4UzV5OXN6U0RMdU5hajRf?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 00:59:51 GMT"
     },
     {
-      "title": "미국 \"12월 마이애미 G20 정상회의에 러시아 초청\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GRGpyV2U1anFDY0xPWElNczBUSThPWlhKVnhpc05CZmxTWFRqeTJRT0FiMlJCOTR6LTJ2OFcwQ244Y1BOOWdzQlNYZ1RTeFo5ZGZvODYzYjdTa2w1Yndlei04T1Eya2VMSWZMNjc5bC1rUE5wVEpQeg?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 23:01:00 GMT"
+      "title": "정원주 대우건설 회장, 베트남 경제사절단 일원으로 방문",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkIzTXg4OHFtLTZPczZEaE9JNmwyek5SamUzcFpDR3FrX211eG52LUo2Q016ZHduU1FLa2tqZVFmTk41b1FCb0x5YXBmQnBPOXJPRVluNmVTcTFMVnJWU2VwNHdZNC03b3NndXFET1FVOWZNM2NJMzZ3RG1GcXF1YVgzbWF4YjdUMlozWGJNVzlmcnFrV1h4LXRjRUJkSlJtZXFETWlOX2tUNlFKRjdKQTJJWlUyMFZp?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 00:54:02 GMT"
     },
     {
-      "title": "김택진 엔씨 대표 \"AI 시대, 통찰력 뒷받침돼야\"",
+      "title": "합덕읍 우사 화재..보온등 과열로 4000만원 피해",
+      "source": "당진신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ya0x6YnlYT2Jsbm0xd2Nza3NRMUI1RkJVdTRTcFNXTHM2SEZXcGdOTG42elRtTzE1ZXFnTWh1Ylg2Vnl1VnhfZEdENVM1TENtcGVRZ0E4VVhaUzVWamViWWg0V1dMUVQz?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 01:00:04 GMT"
+    },
+    {
+      "title": "연일 천장 뚫었던 코스피, 잠시 숨 고르며 개장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTlNYRUc2ZE9YNWxuZVhlam9HQmc1MWVXVHRSc3BuNW5fR2RRM3c0eUp5T1FTQVVWbnByMW1DZERyVm9PcGs1cURwWDJ0XzhTLTlUZjhXckpnamZMai1OZnVIN3NLd040VkZsemVZMkxXSUtFRW05Zw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 23:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1MTJWV1JaTHY5UHZMckZfcU03U1NROF9fV193R21jY1lqTEhfQm84S05zcTV2X3lGQXJnOE1uelBMNkQzYUNiN2xZMWpZb3hBX0R3?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 00:42:00 GMT"
+    },
+    {
+      "title": "최태원 대한상의 회장 '베트남과 첨단제조 등 고부가가치 창출 협력해야'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUgwbkVGRnlWMjZmVkRHUTllbzg1c1Q3WVBEZ0NIN3FLeC1IV3lUVDNuNmZ6c2dKc3FHZVlVelpuZzgzcU9nSU5IQXZQS045Ulo1YUxuWFNkdlZoSDFXMGV5ZFQtdzZvMFVZSHpSSWtpeEtRS25Pcmg2SXgzWEdLOWhEZlhlREJnSjRZcmpCS1hfSlpVQ2hRaXlUamQ1aVM1Nkk5MGQtSWEzX1p5SmZ3ODktZWN6cnkyTmZWWlhVNmE4MHJ2c3h6S0xn?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 00:55:06 GMT"
     }
   ],
   "sources": [
