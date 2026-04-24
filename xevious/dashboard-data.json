@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-04-24T20:07:15.325715+09:00",
+  "generatedAt": "2026-04-24T21:06:56.662038+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,475.81",
-      "change": "+57.88",
-      "changePercent": "+0.90%",
-      "direction": "up",
-      "updatedAt": "2026-04-23 15:32"
+      "value": "6,475.63",
+      "change": "-0.18",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-24 18:05"
     },
     {
       "label": "코스닥",
-      "value": "1,174.31",
-      "change": "-6.81",
-      "changePercent": "-0.58%",
-      "direction": "down",
-      "updatedAt": "2026-04-23 17:14"
+      "value": "1,203.84",
+      "change": "+29.53",
+      "changePercent": "+2.51%",
+      "direction": "up",
+      "updatedAt": "2026-04-24 21:02"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,302.92",
-      "change": "-187.11",
-      "changePercent": "-0.38%",
+      "value": "49,310.32",
+      "change": "-179.71",
+      "changePercent": "-0.36%",
       "direction": "down",
-      "updatedAt": "2026-04-23 22:59"
+      "updatedAt": "2026-04-24 05:43"
     },
     {
       "label": "S&P 500",
-      "value": "7,122.27",
-      "change": "-15.63",
-      "changePercent": "-0.22%",
+      "value": "7,108.40",
+      "change": "-29.50",
+      "changePercent": "-0.41%",
       "direction": "down",
-      "updatedAt": "2026-04-23 23:00"
+      "updatedAt": "2026-04-24 05:40"
     },
     {
       "label": "나스닥",
-      "value": "24,536.41",
-      "change": "-121.16",
-      "changePercent": "-0.49%",
+      "value": "24,438.50",
+      "change": "-219.07",
+      "changePercent": "-0.89%",
       "direction": "down",
-      "updatedAt": "2026-04-23 22:58"
+      "updatedAt": "2026-04-24 06:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,480.1450",
-      "change": "+1.18",
-      "changePercent": "+0.08%",
-      "direction": "up",
-      "updatedAt": "2026-04-23 22:54"
+      "value": "1,477.1350",
+      "change": "-3.82",
+      "changePercent": "-0.26%",
+      "direction": "down",
+      "updatedAt": "2026-04-24 21:01"
     },
     {
       "label": "100엔/원",
-      "value": "927.54",
-      "change": "+0.54",
-      "changePercent": "+0.06%",
-      "direction": "up",
-      "updatedAt": "2026-04-23 23:00"
+      "value": "926.71",
+      "change": "-0.29",
+      "changePercent": "-0.03%",
+      "direction": "down",
+      "updatedAt": "2026-04-24 21:01"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "15.6°C",
-        "feelsLike": "14.0°C",
-        "highLow": "최고 23.0° / 최저 6.7°",
-        "humidity": "49%",
-        "wind": "3.1 m/s",
+        "temperature": "14.5°C",
+        "feelsLike": "13.5°C",
+        "highLow": "최고 23.3° / 최저 6.7°",
+        "humidity": "60%",
+        "wind": "1.4 m/s",
         "rainChance": "0%",
-        "pm10": "28.4 μg/m³",
-        "pm25": "27.1 μg/m³",
+        "pm10": "33.5 μg/m³",
+        "pm25": "32.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-04-24 20:00"
+        "airQualityIndex": "46",
+        "updatedAt": "2026-04-24 21:00"
       },
       {
         "location": "익산",
-        "summary": "대체로 맑음",
-        "temperature": "13.9°C",
-        "feelsLike": "12.0°C",
-        "highLow": "최고 23.6° / 최저 5.7°",
-        "humidity": "66%",
-        "wind": "9.4 m/s",
+        "summary": "약간 흐림",
+        "temperature": "12.2°C",
+        "feelsLike": "10.6°C",
+        "highLow": "최고 23.7° / 최저 5.7°",
+        "humidity": "76%",
+        "wind": "7.3 m/s",
         "rainChance": "0%",
-        "pm10": "19.5 μg/m³",
-        "pm25": "18.0 μg/m³",
+        "pm10": "24.9 μg/m³",
+        "pm25": "23.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "26",
-        "updatedAt": "2026-04-24 20:00"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-04-24 21:00"
       }
     ]
   },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-24 07:33:04",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-24 09:52:02",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@
   },
   "news": [
     {
-      "title": "[한국뉴스 TV] 26년 4월 24일 (금) 오늘의 주요뉴스",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPN3lrWHN6ZmFHM1l4c1JEUENjb0NEalZJVUx4Z2stTWdHTFJxVUF6cVRVZTBqSHdONzRkOHNZNmlXN3hiLXNOalpHYWU5TV9nXzdyQnpEMGtmV3MyZXZmYl96RUxjOFE?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 10:08:29 GMT"
-    },
-    {
-      "title": "방시혁 구속영장 반려…경찰에 “보완하라”",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GcWJiM2ZBUzdSZUxCUjBZZl93ZGhBeUg2dVY5SXJucG10VndpY1ZGdkJPMWVRUXBMUHN4Z19KME5EY05lNVRJYzBpNVdXalZTUmFNMWtLYWRqcUY1TGfSAWNBVV95cUxNeWdVcTUxLW9BMGVfWDJWLXhWT1dvMldRZXY2WHBiS0h1TUNYVkNpMHNBYlVQem1fcDROWkc2R1dadkx2aGNIeTh0UGtqMmY0aDdGbDlTMHVwWFdpSjh5N1NmOW8?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 10:24:00 GMT"
-    },
-    {
-      "title": "다음주 윤석열-김건희 2심 선고, 나란히 생중계된다",
+      "title": "효성, 1Q 영업익 946억원…전년比 15.6%↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tRmkyMTlGdG9MbV9oNFBNUXR5S3UzX2hrcEJtbWhhQkNBYUJQbTJkd3lWSXJvUHFhM3NZWklXNnlTUUo4TFlUVmpEUEtwLTZJaHpZ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 10:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0cDVDUE1Zc0ExVWs3TzVJSG9MOWp4M1cxYlZQU0lHaVN5QkQxbFNGNjdJMFVDNVBYRnR0c1FvUG8yTHpneFBfR050c1RjU2ZRSVlj?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 11:54:00 GMT"
     },
     {
-      "title": "스페인 총리, 나토 회원자격 정지 美이메일 보도에 '논쟁 위말리지 않을 것'",
+      "title": "전남기술과학고 전남지방기능경기대회 주요 종목 석권 > 뉴스",
+      "source": "더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oUktyajI5aXMybGNpT0NkajJMTkhTSnNodjRLTDY3NTZnQU5udlpQN05xSmw5MjZxbVFCaXBPUEtOOWM?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 11:40:00 GMT"
+    },
+    {
+      "title": "[올댓차이나] 대만 증시, 美 반도체주 강세에 사상 최고치로 급반등 마감…3.23%↑",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzBSajlmN2RuaXk4aUZfRXUyUXFVMkJmYWRyYTRZRkVCMDdNMnZCNXpuY2JzMkJhOWIxanhXSkZDVEZHZmowMEJhUUNzdnZ0TGk1cFZ1WndtYzFsWjItX3lpTG1ZSlVwaTFGcm0tbWU3a0daQklCZ3JwOHZfSEtuN2FVZkhXc3dnVWpoazN1clp1R1RRTzhLeFgwcWs2amF1bU9BRDJGSWdMQXNaWmxGQk9kOG0wMndQZ2c?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 10:21:21 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFYtQWg3a0UxRExWaW5DdjZFZk1CZS05cTBPUTVCdnNCaTZuaDhCdy1NeXFxRGllRXl2ajNjakk5c3I1OFl5Z2hsTFFpWnE5NjhvVjVvTmlNeENoaVVORFRwMjQ0MzhNVW5oazh3V3lGYnhYRk5rN2hlNFAxYzN3aEYyN3U5RkZscFB3NHdQMWgxRVRMUEhKMnRkRFV3aVB2Tk5MTzZXc3kwaXoxNWE3WHllVEFmOENt?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 11:07:11 GMT"
     },
     {
-      "title": "현대차그룹, 복정역 인근에 AI·SW 연구거점 구축 추진…8조 투입",
+      "title": "미·이란, 이제는 '버티기 작전'…전쟁 장기화하나",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FcjZ4Ymt3NUpqY2dPQkkzTWY4el9kYTBxc2g1elpVQ2FGanBHOWpuMFU3VUV2Zk1lWjVvQ2pBN2U3Sk9hX3l3aDVmQW4tcnZjWWlv?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 10:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zbEZwLW5WcWlmN3gtRFRiRFRGVFN5cGluQV92NEJZY2dvNE5vSVVrNnA5VmtfeVJxclFEbm94WGVDWHA2Z2tLaTFxTkNlZ0FqRlRF?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 11:48:00 GMT"
     },
     {
-      "title": "경남정보대, 베트남서 지역정주형 유학생 유치 총력",
+      "title": "[비하인드 뉴스] \"국힘 지지율, 합치면 40%\"…'기적의 계산법' 봤더니",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBENlNTRGNDVVAydHhMWHgxUEI0eENTcXRneDZmaVNtdmU4OUpyNWRTUUlHZTdKSHB2LTY4RDRiSFg4NHZOVFpjMi1zd01VZFpiVkpDRU9oUTh0WnI4MmdhdQ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 10:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VdkdyZXVCOWtCX0cyM193VGVTclRiUHhLeGlaTWRYOHNKWUlVZjIyeTFBMWJSY0x6RGNQaVAxZVpuWmFJVnU5cmQwUXZyX09MZVQ4?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 11:25:00 GMT"
     },
     {
-      "title": "[포토]3-0 만드는 솔로포 최정",
+      "title": "[앵커 한마디] 거짓말이 거짓말을 낳고…",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrR0UzbWFuS3FWcktUR0lONHRzblpILTA1WnZUOFh3bTRIMWZRQXpod0JkVTFxS1RvVUIwTmxpTk1jeEw5RVV0c2dxZTVRTkV5el96Qzd3?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 10:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qc29CVm9sU0JIb1NQZ0hrdUgyNGZkY0ZuTlM3Q1M4VFdycmwyVXUyTHNTYldLOGtlU0w2OFB6LTc0NG9ycHlFemRham9fMWNwOEQw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 11:41:00 GMT"
     },
     {
-      "title": "[메디컬투데이 - 쇼츠뉴스] 한국 의약품 R&D 파이프라인 세계 3위 도약 및 바이오 의약품 중심의 산업 재편",
+      "title": "[내일 날씨]서울 낮 최고 27도 초여름 날씨…건조한 대기·일교차 주의",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03T1MxaGVEcmlYUVlyeF8tb3k5T3RIZjFMdFFoMkFvRFB5dHpCdkV0SnQtTDAyM05QWmZ1bTRZT1MtMFhxNHRmOXFfOGprYVJoTzFJ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 10:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83RHJsMlJDbGtpNFBTY2tCVElyanZhakgyRlpiMzAzVHc5bFFMNS1wOEsxMGRnRVc1OWNoSlVpRGdkSC1pTnM1S2xSLXI3djlCMTZV?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 11:33:00 GMT"
     },
     {
-      "title": "유엔기후변화협약 기후주간 기념식 여수서 개최",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TSG5YeklEcXNRcmJ4MDJQZDRRYS1kcGlXSUlYNG9NcjJOOGNYRU1MUllTazVsSkE2WGJyQ1ZZcU1WUk5ETW9INXMzQTAwOUsyRXUzQzJFdFY0LXM?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 10:58:00 GMT"
+      "title": "크립토 데일리",
+      "source": "CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVJVSUo4RUlMVk1XZklNejc5bnJOM05xd0k0QzBmSElfaUFROG1aTm5rVEFqc2o4aEI2bHZNNVdHYkhkN2N5VF9lekdlZURlZGtFWFdjNXRaSm1FNXk2STd1ZEVOcTgyd3ZUWjJNb2VwSUhINjhmb2RETTRtVzYzTHlWUHIyc29ta3pHWi04Rmh6OFVqNXI4c2NBZUtRTGF3enpXcWxxZkxZWmNBZ2FLZ0VBNFd5aklZZTVGc0hpX3JGaS1uNXNFaGVYRnlVa2hZSlVGUHpVNThLdw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 11:24:10 GMT"
     },
     {
-      "title": "WSJ ‘스캠보디아’ 표현에 캄보디아 발끈…“국가 명예 훼손”",
-      "source": "재외동포신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXQ3g3VjUxY2c1SFc5ZXZCWkdfVk9iUi1oZWYwazQxMVpLMndVYWlmeG50RTBRaVdPOXBGZ19fUm1iRnRnbEp6LUFoV1JCa0duQ01jTEVlRG5DSll1cEp2eHVxaGd1M1BQYUJMRQ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 10:26:15 GMT"
+      "title": "정청래, 12일째 단식 후 병원 이송 '안호영 병문안'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zbWtULTNKNjdUemZ2MF9fa1gxWnBrVDZjTnNDc0prMFlaUTg3cTcwNWpkSkNPMThad2xXVndoVXR3dHBOZC1nSWduTW9oTXBOTFc0?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 11:32:00 GMT"
+    },
+    {
+      "title": "박종화 대표이사, 씨엠티엑스 주식 소유 현황 변동",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uMjZZeVc3OXJRWkhKR3Bjek90RDRlV1ViMnhLOTJ3UU1OVDlpRXFoRG5sU0FUOG5XNEJFdVNQYWFnemt5aEtrLUNmeWpmVWZZb1hv?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 11:21:00 GMT"
     }
   ],
   "sources": [
