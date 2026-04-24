@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T02:14:09.850066+09:00",
+  "generatedAt": "2026-04-25T02:59:56.955241+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "10.0°C",
-        "feelsLike": "8.5°C",
-        "highLow": "최고 23.6° / 최저 8.8°",
-        "humidity": "72%",
-        "wind": "2.7 m/s",
+        "temperature": "8.9°C",
+        "feelsLike": "7.3°C",
+        "highLow": "최고 23.5° / 최저 8.2°",
+        "humidity": "79%",
+        "wind": "3.9 m/s",
         "rainChance": "0%",
         "pm10": "58.6 μg/m³",
         "pm25": "56.6 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "58",
-        "updatedAt": "2026-04-25 02:00"
+        "updatedAt": "2026-04-25 02:45"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "9.1°C",
-        "feelsLike": "7.2°C",
-        "highLow": "최고 25.2° / 최저 7.0°",
+        "temperature": "8.7°C",
+        "feelsLike": "6.9°C",
+        "highLow": "최고 25.3° / 최저 6.3°",
         "humidity": "82%",
-        "wind": "7.2 m/s",
+        "wind": "5.6 m/s",
         "rainChance": "0%",
         "pm10": "34.5 μg/m³",
         "pm25": "31.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "30",
-        "updatedAt": "2026-04-25 02:00"
+        "updatedAt": "2026-04-25 02:45"
       }
     ]
   },
@@ -177,52 +177,16 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "\"글로벌 IP 질서, 기술·통상·데이터로 재편\"... 일본, 국제 지식재산 ‘충돌 구조’ 진단",
-      "source": "특허뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQSHQ1aURtQThvanJORkJrQ0ZjMTkxNUZQSzMyS0RtUXdnbGtVdm9oY3ZwRzcwN2RQekFxVVRjRlpUR1V2aVFSQw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 16:23:00 GMT"
-    },
-    {
-      "title": "[지표로 보는 경제]4월 25일",
+      "title": "김정관 장관, \"산업부, 세 가지 중요한 싸움 마주해\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBESHZTRXVOVEhYQ3NQZXdtZ2VjYXZYNmZwMUlxd0syd1JJWEgxbkhyR0tBaDVsLUdPSkUwQlZhY1pRSHg2cVg1aW1GektEWEpjcjQ3MWtDX1NsUi15T2tKTENqdk9fYy13WVE?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 16:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40MUlxS3FRLVRyd3hma0ZraFVhbERMckFyVUd0a3VGd0M5ODhTT1NVRUgxajlPZlU5SkpmS3JQdmNzQ0dBYjdHQWJBNDdpUmJzekZz?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 17:16:00 GMT"
     },
     {
-      "title": "“차디찬 감옥에서도 지켜낸 신념과 가족 사랑, 후대가 이어야 할 삶의 기록”",
-      "source": "통일뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvVGR4eUhBWGdmRzAtVXZuTUZxcklXbjZyNDh5Vmp5WWZLQVl1R2tWU2lkTVNjMmdaVDNnVC0xY0FzRFFNdXRfeXR1Qm5OUzhleTJMNkMzYUgzbExJaHluV2ZINHktTndUTjNEZndR?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 16:20:55 GMT"
-    },
-    {
-      "title": "EU부패방지국, '엡스타인 친분' 전 집행위원 수사 착수",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hdFlQOWszc0lNaGVBNGtScDBnLXZPNU92TlRYVFF6Q0cwd09Yc20wd3UzU0JjRjllXzA3QTFybjlUZTBtQkxSbGRVdkNuNzg?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 16:22:16 GMT"
-    },
-    {
-      "title": "[청년골프] 임희정,KLPGA ‘제2회 덕신EPC 챔피언십’1번홀 티샷",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hV09wMVBWSUdLb2FkWlp4SVZiV0YxSzJXWGdqRzdOZ054SFFQWEFDOGRYTzZ0V1UzT3R1alN1cGpYSmZtMDJhRUFFbGNhZF9VU2d5VktOczNMNExsWE5pVzRmV1FnM3FFT1E?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 16:22:33 GMT"
-    },
-    {
-      "title": "한성대, 개최… 전통 동양화 재료 산학협력 확대",
-      "source": "뉴스에이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LejBKYV95d05YLW1mQU43bEdzbW44SS1FdGpSbE9QdWo4VU5pUU4yRXRkMUYzeG15UnhUekJVemFhbU9MazBIYVE2N3UySEpGNVFYcmNmRGg0Mzhndm5mQlNlTDVhbll2?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 16:39:40 GMT"
-    },
-    {
-      "title": "'왕과 사는 남자' 관객수 1665만…VOD 서비스 개시",
-      "source": "bntnews.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GaEU0ckxwQ21Pa3FpZGlHelkzVkQtT2R0cGRVcW9IUnRuZW5fWGk0eW85bTB6ekFFeWxlZjFFY0VOV2JQN19iZGhmYjVGR01hUnRGV2VVdDZIXzN2MkJCM1YxMkE?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 16:46:22 GMT"
-    },
-    {
-      "title": "檢, 방시혁 구속영장 반려…\"보완 수사\"",
+      "title": "NEXZ, 신곡 'Mmchk'(음츠크) 뮤직비디오 최초 공개",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vOW9qb3doT3V5WU41Y2s2UnMzaWdTSWlyb1pCam1fd2tNM1JjOURScmpPc0Q5Sl9paEpYVjVYMC1nb2NxSUdBNWJBVnZkakktekdZ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 16:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xWUZ4OTVHdEYwZnAyYm1UczQzRGZncWN5ZG4yd0hyLXYxY0NGVmRzVXpiZU10VXhvREgzLW1GS1hDOEJuVktyb3drRTM0dWd2WHhZ?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 17:51:00 GMT"
     },
     {
       "title": "\"구글, 앤스로픽에 최대 400억달러 투자 추진\"…AI 경쟁 '격화'",
@@ -235,6 +199,42 @@ window.DASHBOARD_DATA = {
       "source": "99Bitcoins",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblIyZ0d0S0dJWkM4QzlnQ3FqNmZWWUd4cWF4c3dYWDN1Z09PWlhoMDJXQmRYNTZhXzR5QmEwc19XVHcxYlBadWRVQ01oeW1zbVpuVmJDQXdEcG1qcWdpYUxFN19GWGV3OTMzbXRZeEkzTVphZmt5UWxaRE9HT2JlXzF6TjE3cjVCYkRqOU9GelJId1IxZmxiN0kwaS1iTmptOVVaWQ?oc=5",
       "publishedAt": "Fri, 24 Apr 2026 17:03:18 GMT"
+    },
+    {
+      "title": "'아!' LG 유영찬 9회말 부상 OUT 악재→염갈량도 웃지 못했다, 승리 소감에서 빠진 1명의 이름 \"터프한 상황에서 우리 승리조인…\"",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFRjBfNjFoWEVFdDFaSTItZ3YyODVvcmdOVERoUGRIbFN0NEZ4N0MwaUMyQ19VVmllYUg1WmE3elloa2ZXWm1PMzJ4a2VaWENUWi0wbDZlSm5QQUdP?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 17:13:00 GMT"
+    },
+    {
+      "title": "란제리 모델도 했던 女테니스 은퇴선수, 임신 중 깜짝 복귀 선언 \"2027년에 만나요\"",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fUDdfU2htT2lrZ055U2tvdnNqMWtJOGNvS2FqekI5eWFJaUpYWmhreGJwcW9WdVpWYmlzeWRZNUVWVkVZblNMV2cyaTZac2s4TFNESWpZaEM5TGNx?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 17:01:00 GMT"
+    },
+    {
+      "title": "美법무부 파월 연준의장 수사 중단…차기 의장 인준 '청신호'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sYXZ5X0ZvYVdLczRTSXhJME9QRHUzRDhCbjZYOVRSNm4yejFwcUFaZEliZGI5TnQ2SU1pTHlEZ0M5ZUUtUDJGaVRMdnA5YTFiZUxr?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 17:12:00 GMT"
+    },
+    {
+      "title": "오세훈·배현진·주호영 “결단” 압박에도 장동혁 버티기…국힘 내홍 확산",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPT3VsdUt2RlVXTlhnQ25pcG1HdjJpWnJWVUhjV3B4YkRHWDNzQnBiV3JVb25seTVTM2VvdVNWNWtjbHFkMEdteE1NSXVfYmpBLTBVSTFkV3NuVklpRXB4alNlUXc0ZERHVEhDaDBGQWVjUFNk?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 17:14:03 GMT"
+    },
+    {
+      "title": "장원영·박보검 투샷에 ‘깜짝’…11살 나이 차 안 믿기는 비주얼",
+      "source": "스포츠경향",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5b3NNM0tiM0VmcWtvZnBKQlRMUW9TRlBZcHktbmp2Rmo3UHVkNWVMODJwRFdyQjg5cVhscjFTRVZqNlRuUUFwWGdtak9fNE1MU2tOSkJ0akhWOUJrZGfSAWNBVV95cUxOX0I1Szl6Nzl2d1FDNzN3TGZHeVczNG82Z2VnVWdKOW5UQnZhU2ppeEZXYXRqdjAtOHgycXpBSmg0LXFPZFdEdUd4UHRTTDJhQWJCVE85cjBiTXZQWUJQbmxHX28?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 16:00:00 GMT"
+    },
+    {
+      "title": "구성환, 눈물의 국토대장정 완주..\"잘 갔지? 나중에 봐\" 꽃분이 추억에 오열[나혼산][별별TV]",
+      "source": "스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMGN0SjNzSjJ1RTMzTVdSNWs0dzhJVjFxOG85Xzk5OFhrVkxOSmxuRVVMTmcwNERMc0tDVldYUmQ4enJZdU51ZHE5Rnp6UmxlUFg0b3ZORlBScjYzRzZnQ052djcyaVNYZ3VWSERmbEdrN2thOXE3TGE4WE9SaTRkQw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 15:24:03 GMT"
     }
   ],
   "sources": [
