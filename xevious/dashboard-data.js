@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-26T01:30:16.573631+09:00",
+  "generatedAt": "2026-04-26T02:08:53.879485+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "12.2°C",
-        "feelsLike": "10.7°C",
+        "temperature": "12.0°C",
+        "feelsLike": "10.5°C",
         "highLow": "최고 22.6° / 최저 9.1°",
         "humidity": "62%",
-        "wind": "2.3 m/s",
+        "wind": "1.5 m/s",
         "rainChance": "0%",
-        "pm10": "57.3 μg/m³",
-        "pm25": "55.8 μg/m³",
+        "pm10": "61.7 μg/m³",
+        "pm25": "60.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "65",
-        "updatedAt": "2026-04-26 01:15"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-04-26 02:00"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "9.7°C",
-        "feelsLike": "7.0°C",
+        "temperature": "9.1°C",
+        "feelsLike": "6.3°C",
         "highLow": "최고 21.2° / 최저 6.3°",
-        "humidity": "65%",
-        "wind": "7.9 m/s",
+        "humidity": "68%",
+        "wind": "8.7 m/s",
         "rainChance": "0%",
-        "pm10": "57.3 μg/m³",
-        "pm25": "55.8 μg/m³",
+        "pm10": "61.7 μg/m³",
+        "pm25": "60.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "65",
-        "updatedAt": "2026-04-26 01:15"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-04-26 02:00"
       },
       {
         "location": "파주",
         "summary": "대체로 맑음",
-        "temperature": "10.0°C",
-        "feelsLike": "6.9°C",
+        "temperature": "8.6°C",
+        "feelsLike": "5.1°C",
         "highLow": "최고 21.3° / 최저 5.8°",
-        "humidity": "53%",
-        "wind": "8.1 m/s",
+        "humidity": "57%",
+        "wind": "10.2 m/s",
         "rainChance": "0%",
-        "pm10": "57.3 μg/m³",
-        "pm25": "55.8 μg/m³",
+        "pm10": "61.7 μg/m³",
+        "pm25": "60.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "65",
-        "updatedAt": "2026-04-26 01:15"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-04-26 02:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "9.0°C",
-        "feelsLike": "7.7°C",
+        "temperature": "8.4°C",
+        "feelsLike": "7.1°C",
         "highLow": "최고 20.7° / 최저 7.2°",
-        "humidity": "97%",
-        "wind": "6.2 m/s",
+        "humidity": "98%",
+        "wind": "5.8 m/s",
         "rainChance": "0%",
-        "pm10": "25.9 μg/m³",
-        "pm25": "23.6 μg/m³",
+        "pm10": "27.5 μg/m³",
+        "pm25": "24.7 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "42",
-        "updatedAt": "2026-04-26 01:15"
+        "updatedAt": "2026-04-26 02:00"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,978원/L",
         "lowestDistrict": "금천구",
-        "stationName": "㈜씨더블유이엔지",
-        "address": "서울 금천구 남부순환로 1410 (독산동)",
-        "updatedAt": "2026-04-25 23:11:04",
+        "stationName": "(주)화동유업 화동주유소",
+        "address": "서울 금천구 시흥대로 484",
+        "updatedAt": "2026-04-25 14:12:02",
         "districtSamples": [
           {
             "district": "금천구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "김포감정주유소",
-        "address": "경기 김포시 김포대로 1135",
-        "updatedAt": "2026-04-25 23:52:59",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-04-25 08:45:48",
         "districtSamples": [
           {
             "district": "김포시",
@@ -362,9 +362,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "파주 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "파주시",
-        "stationName": "헤이리주유소",
-        "address": "경기 파주시 탄현면 평화로 809",
-        "updatedAt": "2026-04-25 17:58:15",
+        "stationName": "파주경인주유소 ㈜티에이치에너지",
+        "address": "경기 파주시 조리읍 통일로 124",
+        "updatedAt": "2026-04-25 23:03:01",
         "districtSamples": [
           {
             "district": "파주시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "[청년골프] 이동하는 이서윤4",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc19MOHRxb3pPLUZRdVMtdFJVNVdzZlV3VXdEamphS0pTMEZPMkhWaXdrVnRKZld6amkyYzJKUmdmSjBwemM3Zmcwam12TFB2ZzN1Z2dEV1owRGVES2JqZF9YOG4zbjZVaFE?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:45:43 GMT"
+    },
+    {
+      "title": "美-이란, 주말 2차협상 무산…트럼프 \"대화 원하면 전화하면 돼\"(종합)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WYml1UlFOU24xOUczWlVvQ2xFRFF6eXpoa01rLTktak9wSlU0WmlTUlNyN0dhck1Qc1lZeEwwdmdESW4xdld3Q0g2a2NISnhoSXd4NDFpMUdNQTFPdmFoMA?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:56:00 GMT"
+    },
+    {
+      "title": "오페라 무대 설 부산 청년 찾는다…시립예술단 솔리스트 모집",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3lOdGFBUE5YZ2dTNzdHNTJtby1Wczk1RFRVV2dVSTNMQ3FDUFN2ZWdZYlE5dmVaN2hWQjUzZVlCWVlCeUltZllwckNQV0NnMkttazBSNl91M1ZyNGoyczZHV1BZd3BDeU5TNjllSEZWcWxzM2xXY29MWGNRaG1hUWZ4Q3JpaWczRlVYWE9aSndHa3VEdWd4bGdHXy02VjdUOTVOc1dxTm54S09lVW1DdW5zVGhwaUlP?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:15:36 GMT"
+    },
+    {
       "title": "[청년골프] 타구 방향은 정확히 윤수아",
       "source": "청년투데이",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZSnF0UkFvdnROdVJUaEhKWXhuN2xYZXQ5Tkh3ZG9lY3V1NTRvRGVMbEZFbE1iWDFvZzdtSW1hUE1jNXgwX0NkZk9zbkQwMTVvbFlvZkE0SGxYbnVwaHRxcjF6TEVLa3lSSUE?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 16:15:02 GMT"
     },
     {
-      "title": "'비 ♥' 김태희, '전참시' 뜬다…정샘물 찐친으로 지원사격[스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54QmVSRWphM09DOTByZ0xna2FrZ0d5NG43WnZwNEltMkFab3ZhNHpwdDlPdFExVTdLNGMwYV9sUmgzODktd1FRZEJLRXdLZU1JU0ZqRlBhaTlGcFUwZnl2NQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:27:00 GMT"
+      "title": "“중국어 모르면 비행 금지”…기내 난동 中승객, 결국 ‘이런’ 결말 맞았다",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZVjBxcm9uWjBScmV6WTEySDQ1bW5YQUwxb0FhSGJmNlNWa1FPeVI3TnE1WGYyZWRaNDQ1MkNiVUlXSm5xTnVaT19zNGc5aUZaa1NtV3hBaW5yZVpr0gFTQVVfeXFMUDJkRmp4ZmVYdnZ4dlEzS0VhZXhLWGU0X3pnQnRPWm9jekx0bWFEVjNzUmFDb3k0R0R4MnJ3NXNXR0dEeU9Ob0tzU0tURlM1SXo3VEk?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:45:00 GMT"
     },
     {
-      "title": "대기 건조하고 일교차 커…남해안 등 소나기[오늘날씨]",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPajZEcGJVd1lSeHpkRVVUWld1bXhCQXNIeGxkYTQyREEzWFJjTVFwZjRqb2Q0VkZ4ZDRpS01TNXRzalJCOXpGZ3BMLTViLXhhUkNxcG5mOTkyeTZvVkh0YkRBdjZKRmROSTJaa2VyVTZBbjk3YVVtcGM3UEdiZ1k3bmhDU0FSVWV5cExQbHFScW9Bdi1PQk9IT3dfcEJSMmhBRFJ5TlZRTEs0N3hSVlJZY18tRFNLbHg2TUdBMkJTTUxaUXdIc21rNnB3?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:43:52 GMT"
+      "title": "'악동' 맥그리거, 드디어 5년 만에 복귀 임박 \"내 일? 사람 KO 시키고 돈 버는 것\" 기세등등…UFC 회장도 '세 단어' 복귀 예고",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwUGNOUUVsQi1FLWo4X194T2ZSRGd3aGNDZ3RuOVZZOGJZbmJMa3BaRVhEc21LcUU4MDIwMWp6VHFDV2dWQ053bENPTWVSTXJxRjl4ckl2aU5Fd0dC?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:46:00 GMT"
+    },
+    {
+      "title": "'초대박' 1차 지명→1:1 트레이드→ERA '1점대' 압권! 무려 9년만 잠재력 폭발하나, 직접 지명했던 염갈량도 깜놀 \"난 그만둔 줄…\"",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hWkRLekhDTDRvTW5MOHpoaUVTUExhNkotZXA4eXVoUGtuX3l3UlRjZElmd3Nra0NoNV9aeWpBYjVnQi1KZHN4Q3BGRk1VZUpaT1lNX1RTQUlKOHQ5?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:44:00 GMT"
     },
     {
       "title": "中 축구 호언장담 \"日·北 잡고 우승한다\"…한국에 졌어도 '근자감' 최고 \"안방이라 다르다\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KRVk3NlZDdHhaRVZySVBfQXUycDlmaHBST0J0MVJCcHY0cEgwTERYTndjdmtrZTdKSDI1WmZhSTM0a1hjc0UyejdIWFNzbndXeGNiaFFR?oc=5",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lclZWck9HUGVrMzBBcEFPTDZnOGZ6VC1tR2UtYjlBSDgwMHBGMzZ2VkZKR3hXbEFFTG02MDRyWmQ3Z2owVER5dnU0dEt5eVFqc0JyTUotMnAyOVda?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 16:22:00 GMT"
     },
     {
-      "title": "오페라 무대 설 부산 청년 찾는다…시립예술단 솔리스트 모집",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IelRQSEI4ZGp1d3RIbUZKekNtNDBDZll3MVpaUEJHelNmNWlhSWlmdml3b0Iyc2VWWEpKZExuZkNMMWVNcTJJRnZoTkhLcXFXT3lJ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:00:00 GMT"
-    },
-    {
-      "title": "엄지윤, '왕사남' 엄흥도 후손이었다…\"단종 박지훈이 눈물 버튼\"[전참시][★밤TView]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySmlzSWl6aVBVMllqOWJ1TmJ3NlFKQkJEenZERWIxYVJ4ME5nMVlHdGE5aGJHbkJvRkRLME9YQVR6ZnhXS3V2LUp4ajF6YTBrU0Qw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:44:00 GMT"
-    },
-    {
-      "title": "이상윤·엄정화, 얼마나 친한 거야…어깨동무→매너 다리로 찐친 바이브",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1faDZTelJzb1oxa05udXN5WnZZQWtrQVFOMjl6NmdqQV9Yal9uYnNkNmxWYnZneGNudTdoN2FsNDN3T011RXRicjB1YzAzMFVMMXhj?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:35:00 GMT"
-    },
-    {
-      "title": "'3주 연장' 무색한 레바논 포성…이스라엘, 휴전 중 공습 강행",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1MVpzZktjRW9lVlVDMk9lY1ZTYXRqRjNWaFh3NGRVSjFWRFlFQ0prNXNPazFNai1saUhIbkhES2loSGJzWWhhak5yLVRCdzdHNXhMZVhxNkY0X1BXdWUwMWJ4QnExa095Unc?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:32:00 GMT"
+      "title": "'118일' 걸렸다! 토트넘 드디어 승! 황희찬 '교체+5분' 활약 토트넘, 울버햄튼에 1-0 승 '잔류 희망' 살렸다[PL·리뷰]",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VeklMV2ZBRnVVQkVNQTR3c1dMWEpuMVRocEs1T3V1OUhmU01oX2M5cHRpaVE2dXJnVl9zOGI1TUJYM1JuWDVRQVl3VTFSOVU5WklfV0NNdzVKakF1?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:43:00 GMT"
     },
     {
       "title": "엄지윤, 엄흥도 후손이었다 \"박지훈 보면 눈물 나\"(전참시)",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWlPb2dvRlNkZHFDc04zODhFazhnQjZGZ09hUmljLVVZb283Q2JsMWdoVjBHX01qeF8xSEVXR2FXMW5pRGJWRDFhX0xlSVF0Y1NudU5TT2dGMjA4YldPU3NsUDZIVkdTUUpLOEVEdTJ2MlFNZFZxa2lodjBtODdUeEhtQTJ4eVRqamlwbVhucw?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 15:58:00 GMT"
-    },
-    {
-      "title": "인텔 코어 게이밍 PC Ultra 1939년산 나무 상자에 담긴 7개",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGFQa0pNc2t6OW9XdkNZcE1XdkQtUzNNTkR0bVFhX1AwSzN3UnJGYVJQUnlydHhkc2U0V3pmVzZqaUJ1eUJUNHZHRHJiUVFZeFJqRmdDOUtQekllMndBRHh3VWJEY2pPcENLSmdnb2dQYldUejJManJtSU5EaEIxbmF2NlRjUFNSdGg5cFV2a0ZXU0dmMnpZaFV0RkxtWlJoR0hTTWR1QzhKcDYyekNLbmtKZ3Q2Y3UyU3c?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:19:32 GMT"
     }
   ],
   "sources": [
