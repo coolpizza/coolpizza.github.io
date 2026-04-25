@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-26T02:08:53.879485+09:00",
+  "generatedAt": "2026-04-26T02:55:00.213285+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,63 +67,63 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "location": "서울",
-        "summary": "대체로 맑음",
-        "temperature": "12.0°C",
-        "feelsLike": "10.5°C",
-        "highLow": "최고 22.6° / 최저 9.1°",
-        "humidity": "62%",
-        "wind": "1.5 m/s",
+        "summary": "약간 흐림",
+        "temperature": "11.1°C",
+        "feelsLike": "9.4°C",
+        "highLow": "최고 22.3° / 최저 9.4°",
+        "humidity": "64%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
         "pm10": "61.7 μg/m³",
         "pm25": "60.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 02:00"
+        "updatedAt": "2026-04-26 02:45"
       },
       {
         "location": "김포",
-        "summary": "대체로 맑음",
-        "temperature": "9.1°C",
-        "feelsLike": "6.3°C",
-        "highLow": "최고 21.2° / 최저 6.3°",
-        "humidity": "68%",
-        "wind": "8.7 m/s",
+        "summary": "약간 흐림",
+        "temperature": "8.1°C",
+        "feelsLike": "5.3°C",
+        "highLow": "최고 20.9° / 최저 5.7°",
+        "humidity": "73%",
+        "wind": "8.8 m/s",
         "rainChance": "0%",
         "pm10": "61.7 μg/m³",
         "pm25": "60.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 02:00"
+        "updatedAt": "2026-04-26 02:45"
       },
       {
         "location": "파주",
-        "summary": "대체로 맑음",
-        "temperature": "8.6°C",
-        "feelsLike": "5.1°C",
-        "highLow": "최고 21.3° / 최저 5.8°",
-        "humidity": "57%",
-        "wind": "10.2 m/s",
+        "summary": "약간 흐림",
+        "temperature": "9.1°C",
+        "feelsLike": "5.6°C",
+        "highLow": "최고 20.9° / 최저 5.4°",
+        "humidity": "50%",
+        "wind": "8.9 m/s",
         "rainChance": "0%",
         "pm10": "61.7 μg/m³",
         "pm25": "60.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 02:00"
+        "updatedAt": "2026-04-26 02:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "8.4°C",
-        "feelsLike": "7.1°C",
-        "highLow": "최고 20.7° / 최저 7.2°",
-        "humidity": "98%",
-        "wind": "5.8 m/s",
+        "temperature": "7.6°C",
+        "feelsLike": "6.2°C",
+        "highLow": "최고 21.4° / 최저 7.1°",
+        "humidity": "97%",
+        "wind": "5.2 m/s",
         "rainChance": "0%",
         "pm10": "27.5 μg/m³",
         "pm25": "24.7 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "42",
-        "updatedAt": "2026-04-26 02:00"
+        "updatedAt": "2026-04-26 02:45"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-25 17:58:52",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-25 18:01:24",
         "districtSamples": [
           {
             "district": "계양구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜김포제2주유소",
-        "address": "경기 김포시 대곶면 대곶북로 347",
-        "updatedAt": "2026-04-25 08:45:48",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-04-26 00:59:46",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[청년골프] 이동하는 이서윤4",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc19MOHRxb3pPLUZRdVMtdFJVNVdzZlV3VXdEamphS0pTMEZPMkhWaXdrVnRKZld6amkyYzJKUmdmSjBwemM3Zmcwam12TFB2ZzN1Z2dEV1owRGVES2JqZF9YOG4zbjZVaFE?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:45:43 GMT"
-    },
-    {
       "title": "美-이란, 주말 2차협상 무산…트럼프 \"대화 원하면 전화하면 돼\"(종합)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11UHNwNjZrMDhsRWtJVFRmTXZ4ejl6OGoyVzBHSzE5ZTBkYlc4dllqWkxjeUo1Vjd6MHpfRUYxX1dCVEthNlp0Nkt3Ry1sRVB0Tmp4eTFpdEZQLVnSAWBBVV95cUxQaFA2T3UzTXk4dkV0T2RiWmhpckpKYmpVdW1YbGlJa044RHRweE1JTXB5NlF6SXhPcnFDa0NjMVE5aWNJemZIU1JfQmJwM0ZMazJ0YlBQUU9IYzVpQXpRWXA?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:55:36 GMT"
+    },
+    {
+      "title": "美·이란, 2차협상 무산…트럼프 \"대화 원하면 전화하면 돼\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WYml1UlFOU24xOUczWlVvQ2xFRFF6eXpoa01rLTktak9wSlU0WmlTUlNyN0dhck1Qc1lZeEwwdmdESW4xdld3Q0g2a2NISnhoSXd4NDFpMUdNQTFPdmFoMA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zMW1FQVRveGUzMGlYb3pkVGx4MC0zcFVvbXpfRnZaeVVwNDRWaWNjUDlsandxbXJvaW9yRWY3ZlZkeVdFZGZxdGxtdEptQkctbzNkQ1lVTm9lRVR0cWVfS1RwX2NOd1dQZmc?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 17:17:00 GMT"
     },
     {
-      "title": "오페라 무대 설 부산 청년 찾는다…시립예술단 솔리스트 모집",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3lOdGFBUE5YZ2dTNzdHNTJtby1Wczk1RFRVV2dVSTNMQ3FDUFN2ZWdZYlE5dmVaN2hWQjUzZVlCWVlCeUltZllwckNQV0NnMkttazBSNl91M1ZyNGoyczZHV1BZd3BDeU5TNjllSEZWcWxzM2xXY29MWGNRaG1hUWZ4Q3JpaWczRlVYWE9aSndHa3VEdWd4bGdHXy02VjdUOTVOc1dxTm54S09lVW1DdW5zVGhwaUlP?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:15:36 GMT"
+      "title": "박서진, 연락 두절 母 찾아 병원행 \"암인지 확인해야 한다\" 충격",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXakQwaTNtcVBQVFotT1Y1VVA1TC1sOWpHbEhrV0xIN1VlN3cwN1lNVnc1cXdvN19tLXloOTVGMGROeC1RQ2h1ZEtMWDJ6VlpkUmhDUDk4VU11WlFFb1RkVA?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 17:51:00 GMT"
     },
     {
-      "title": "[청년골프] 타구 방향은 정확히 윤수아",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZSnF0UkFvdnROdVJUaEhKWXhuN2xYZXQ5Tkh3ZG9lY3V1NTRvRGVMbEZFbE1iWDFvZzdtSW1hUE1jNXgwX0NkZk9zbkQwMTVvbFlvZkE0SGxYbnVwaHRxcjF6TEVLa3lSSUE?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:15:02 GMT"
+      "title": "'오바마 분짜' 가고, '이재명 쌀국수집' 떴다?…\"'이잼'이 베트남 하노이에 찍은 맛집 좌표\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oWWUwbGs4Vm5PYlZQZ2haZWdIYUc5UUFaOXJ4Wk5UcFk2U2RUWDQzOHBsNjVZcmJHSzNYbE1ZU2xxVGYyNG5jSURBQjkzSmZTVE8zTDd2VFFrMmtkYnRmUw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 17:16:00 GMT"
     },
     {
-      "title": "“중국어 모르면 비행 금지”…기내 난동 中승객, 결국 ‘이런’ 결말 맞았다",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZVjBxcm9uWjBScmV6WTEySDQ1bW5YQUwxb0FhSGJmNlNWa1FPeVI3TnE1WGYyZWRaNDQ1MkNiVUlXSm5xTnVaT19zNGc5aUZaa1NtV3hBaW5yZVpr0gFTQVVfeXFMUDJkRmp4ZmVYdnZ4dlEzS0VhZXhLWGU0X3pnQnRPWm9jekx0bWFEVjNzUmFDb3k0R0R4MnJ3NXNXR0dEeU9Ob0tzU0tURlM1SXo3VEk?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:45:00 GMT"
+      "title": "인텔 코어 게이밍 PC Ultra 1939년산 나무 상자에 담긴 7개",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGFQa0pNc2t6OW9XdkNZcE1XdkQtUzNNTkR0bVFhX1AwSzN3UnJGYVJQUnlydHhkc2U0V3pmVzZqaUJ1eUJUNHZHRHJiUVFZeFJqRmdDOUtQekllMndBRHh3VWJEY2pPcENLSmdnb2dQYldUejJManJtSU5EaEIxbmF2NlRjUFNSdGg5cFV2a0ZXU0dmMnpZaFV0RkxtWlJoR0hTTWR1QzhKcDYyekNLbmtKZ3Q2Y3UyU3c?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:19:32 GMT"
     },
     {
-      "title": "'악동' 맥그리거, 드디어 5년 만에 복귀 임박 \"내 일? 사람 KO 시키고 돈 버는 것\" 기세등등…UFC 회장도 '세 단어' 복귀 예고",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwUGNOUUVsQi1FLWo4X194T2ZSRGd3aGNDZ3RuOVZZOGJZbmJMa3BaRVhEc21LcUU4MDIwMWp6VHFDV2dWQ053bENPTWVSTXJxRjl4ckl2aU5Fd0dC?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:46:00 GMT"
+      "title": "AMD는 새로운 프로세서를 위해 초대형 소켓을 준비하고 있습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnE4b0FQbi1IR1dmR2lUZjRPTXIxRm10SExvVVk1R1lvNzdxcWdUTTVEY08xbEYzUDg4WUEzMExFSUJ2X1dJRm5wcHUyUDNnd3NJYVdYX05VTndvWmZGTUJJOUNIbG80bG9RdWN2TmZCeVFRZlhJV0Q2WDhSRlZ6WFJHczJrTkV2MlV0Z0lXWVJBUQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:53:16 GMT"
     },
     {
-      "title": "'초대박' 1차 지명→1:1 트레이드→ERA '1점대' 압권! 무려 9년만 잠재력 폭발하나, 직접 지명했던 염갈량도 깜놀 \"난 그만둔 줄…\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hWkRLekhDTDRvTW5MOHpoaUVTUExhNkotZXA4eXVoUGtuX3l3UlRjZElmd3Nra0NoNV9aeWpBYjVnQi1KZHN4Q3BGRk1VZUpaT1lNX1RTQUlKOHQ5?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:44:00 GMT"
-    },
-    {
-      "title": "中 축구 호언장담 \"日·北 잡고 우승한다\"…한국에 졌어도 '근자감' 최고 \"안방이라 다르다\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lclZWck9HUGVrMzBBcEFPTDZnOGZ6VC1tR2UtYjlBSDgwMHBGMzZ2VkZKR3hXbEFFTG02MDRyWmQ3Z2owVER5dnU0dEt5eVFqc0JyTUotMnAyOVda?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:22:00 GMT"
-    },
-    {
-      "title": "'118일' 걸렸다! 토트넘 드디어 승! 황희찬 '교체+5분' 활약 토트넘, 울버햄튼에 1-0 승 '잔류 희망' 살렸다[PL·리뷰]",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VeklMV2ZBRnVVQkVNQTR3c1dMWEpuMVRocEs1T3V1OUhmU01oX2M5cHRpaVE2dXJnVl9zOGI1TUJYM1JuWDVRQVl3VTFSOVU5WklfV0NNdzVKakF1?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:43:00 GMT"
-    },
-    {
-      "title": "엄지윤, 엄흥도 후손이었다 \"박지훈 보면 눈물 나\"(전참시)",
+      "title": "엄지윤, '기혼자' 김원훈과 장기 연애에 \"불륜하는 느낌\"(전참시)[순간포착]",
       "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWlPb2dvRlNkZHFDc04zODhFazhnQjZGZ09hUmljLVVZb283Q2JsMWdoVjBHX01qeF8xSEVXR2FXMW5pRGJWRDFhX0xlSVF0Y1NudU5TT2dGMjA4YldPU3NsUDZIVkdTUUpLOEVEdTJ2MlFNZFZxa2lodjBtODdUeEhtQTJ4eVRqamlwbVhucw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVnVHSWR6ZzVDaWFKa28xaFZBZTZ5cmNCU00xc1V0eVVQOEN1UExxTkxpeklYTDVHSVhpWHFlSmh0ZVJwV1dZMTgzRk9ETnEydTFOWEJkaGtSc21fUHQxZVNULVJSdWNNRUNVT085bmpIWkxsOC1zYkFxd1JSYlZuNUpkLUVYTGE4dm9BdW5RUQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:45:00 GMT"
+    },
+    {
+      "title": "\"이란처럼 말라카 해협도 통행료 받자\" 제안했던 인니 장관, 발언 철회",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclpjYkx3X3o1UXF3UG93STJUQjdFbUR0OS11bGV0SzNHZWdXaUZNeGVySmNsVGdzY3B6STRnaHVPX3Q5NE4tc2pka092WlI2TjdqOTFfalVpNjc4WElfbjBjT0dsSzBsNkdTU2dkaV9BUlQ0U1BuOElxU2JyQmk3VHVfLTJzN2tNcFAyUTVGRzhHU2dkRHZhN0tXYTFWZw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:28:49 GMT"
+    },
+    {
+      "title": "신동엽, '신보람 ♥' 지상렬에 \"집 빼고 다 사줄 것..내년 봄 결혼 추천\"[살림남][★밤TView]",
+      "source": "ASIA ARTIST AWARDS 2025",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aX2V3MVU0V1lETXRZRF9GaWdLN09JRFVST0xiRzRzVmJzaUZ2VGxLQUlYVFBkeER3Z1ljUXdlRTFnSHdwUUlQeW9Dem9UOVlMWHdmcUd6YnlLMmNPRnVkYQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:57:04 GMT"
+    },
+    {
+      "title": "미 협상단 파견에도 이란 “회담계획 없다”…2차협상 재개 두고 ‘샅바싸움’",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMTIyWHNqLS1CSHd1TDJtaXVfakdRY1kycXVFRkZ5dTlza2ZDVFoxWVFoSUJlR1RRRElhWVdlUGhyX0hncWQzYThCeW1hLVA4M2E4aHBham5DWG9Bck0wYU1PT2xxWWZJUEk5c3A2OUNJSXBYWWV3blJ0N2RQX2RkQ1Bn?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 12:47:00 GMT"
     }
   ],
   "sources": [
