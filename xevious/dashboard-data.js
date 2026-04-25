@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T11:07:26.528181+09:00",
+  "generatedAt": "2026-04-25T13:46:39.982577+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "18.4°C",
-        "feelsLike": "19.4°C",
+        "temperature": "22.8°C",
+        "feelsLike": "23.5°C",
         "highLow": "최고 22.9° / 최저 7.3°",
-        "humidity": "48%",
-        "wind": "2.2 m/s",
+        "humidity": "37%",
+        "wind": "5.8 m/s",
         "rainChance": "0%",
-        "pm10": "30.7 μg/m³",
-        "pm25": "25.8 μg/m³",
+        "pm10": "22.0 μg/m³",
+        "pm25": "17.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-04-25 11:00"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-04-25 13:30"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "21.4°C",
-        "feelsLike": "23.1°C",
+        "temperature": "25.1°C",
+        "feelsLike": "26.9°C",
         "highLow": "최고 25.5° / 최저 6.4°",
-        "humidity": "46%",
-        "wind": "1.3 m/s",
+        "humidity": "36%",
+        "wind": "2.4 m/s",
         "rainChance": "0%",
-        "pm10": "17.9 μg/m³",
-        "pm25": "15.5 μg/m³",
+        "pm10": "22.2 μg/m³",
+        "pm25": "11.9 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "56",
-        "updatedAt": "2026-04-25 11:00"
+        "airQualityIndex": "58",
+        "updatedAt": "2026-04-25 13:30"
       }
     ]
   },
@@ -131,16 +131,12 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,885원/L",
-        "lowestDistrict": "강화군",
-        "stationName": "가나안주유소",
-        "address": "인천 강화군 화도면 해안남로 2351",
-        "updatedAt": "2026-04-25 07:35:09",
+        "lowestPrice": "1,969원/L",
+        "lowestDistrict": "계양구",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-25 10:55:41",
         "districtSamples": [
-          {
-            "district": "강화군",
-            "price": "1,885원/L"
-          },
           {
             "district": "계양구",
             "price": "1,969원/L"
@@ -156,6 +152,10 @@ window.DASHBOARD_DATA = {
           {
             "district": "서구",
             "price": "1,975원/L"
+          },
+          {
+            "district": "부평구",
+            "price": "1,979원/L"
           }
         ]
       },
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "\"미 협상팀 25일 파키스탄행\"‥\"미국 안 만나\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WRFFpR2sxNWc2Unl6TFoxaVBWYkpLWUhPaVItZU5INzR4dldCTTNsUk9KUlFzTUNKZVdodjZ1S21hYVJSOTd3NjZpaUd2QWtsZHFacGNkRlB1Smp0VmFIbHQzVFgwUVEtYWtnTDFfd3k0SDdJeG84bUhn0gF6QVVfeXFMUDViQVZrY05PWmk1MlUyRElFaUJydTRsYlpWS1liblFWQmZEVjJtcXFzSmZZa05ZMmk0cHAtVWNzeENfOVFUdzBSbG41TEZYTnZMTXF0SWI0VXBlbzZSTl9tMXdlOHNFZ2E2akdERURHODVpT0ppOVZCS2c?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 01:58:06 GMT"
+      "title": "[청년골프] 최혜준 ,BYD SEAL을 노려라...15번 PAR3 홀 티샷",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiWXNQSnFzcF85TU9ZN1RsTWFsbEUyZDRqVk9hY3lxQTVuMU43UjhqcVQ2Y1ZjQ1A1TWF4WGVKNDhNY2NEQ2N1UEZRa0lVMURxbXF2WkVBXzBpRFY2dlpNX3NNMlJDTkREckE?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 04:21:38 GMT"
     },
     {
-      "title": "매뉴얼 깬 ‘늑구 신드롬’…동물 바라보는 한국 사회 시선이 변했다",
-      "source": "시사저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OalNiUW84ZVNfM2J5WEM2T2VFSy1xRVdKMno5d05FYWEzMV8xTDBjSWRTTFl1ZE50aGRIckh5RDdZdFhGdlJRVjYxc0phekpBVFFJTFdQQnpBSHhfUGR5NVNEdmExM045d29iU2hHQdIBc0FVX3lxTFBsNjRTMHRqbDNxZkFPZjZUWlMxUVpNTU9RR3hmZmtsMjN4cmFKNXp4VWcyUG5Ta1F0bGw3RndTR2t3cXRKUC11ZGFNSG5sZ0FBTXZJbTZOSUFuWkVxNGxmMXc1ODQ3WWZzU2hEV19RVlhYZDg?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 02:00:00 GMT"
-    },
-    {
-      "title": "[기획연재7] 삽교천변 안식교 농장, 신촌사업장, 소들섬 간척 이야기",
-      "source": "당진신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZdDNUOHVDZUNyc2RWV09LMmM3ZGMtb3FtRXZJZGdLcUt2dHlJYUNuaVlFWVI5bHUzaEZEclBqMlM2bWVTaHlQTTZGUmRNLTh2U044UnMtZnl5OHNNcDZRclpCX0tQMWZC?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 02:00:00 GMT"
-    },
-    {
-      "title": "문어·오징어 어획량↑…황금연휴 앞둔 동해안 어장 '기대감'",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90QmZSWjlaYUdoVlZ1ck1pODUzbXpzRzY3emlBM3ppTk1nSGdUdG9LeEhjQWZKem5iczJmWnN2OTJONjVpUTJjZ0ZUb0szR2ZZWk1KeA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 01:37:06 GMT"
-    },
-    {
-      "title": "반도체 호황에 3% 성장 전망까지…현실은 경기 여전히 안개 속",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVcwWUxZNXo2YjhyR2hKWGRkN3MyTUpRWDJjNzB5NG16dkdYeGFxamVvaTkxLTNnNlJoc3ctZkhPQXlMbEU1M0dKbkcxQm9lNTc2cGdWM1JTbHl6U3ZfVnNBb0NiUGZ4ZXF2OHY0NWgxZXBhZ3JucmtqX0NDUS0xa19BY2RKTkdISEhPMTc3X3pHVTR5UEZwLTFvcEUyT2VnZjhrNjZGS0xSaXhGY1dyRlBvNXAzZk0?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 01:48:33 GMT"
-    },
-    {
-      "title": "'방혜자 회고전'부터 박수근의 '작가의 방'까지…국립현대미술관 3곳 주요 전시 한눈에[주말&]",
+      "title": "잠실 더비 변수…'LG 유영찬·두산 김택연' 뒷문 동시 이탈",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GYWhVX2wzOEVma1FOZVVzTVdMRGlFODV2OFlINTdtQlFlS0NIZl9VOGUzTVNwNUdsM2ZNczBUeHRLMmVLZ25KWVlIMlFoUlJ1UnlF?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 02:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03UURqRFNnNDVpMHBHaGh5dW1iSVd5Znd2WGlmeFZXNW9tdGQxUUxuSjhrQy1sSkFKZU80RXFXQWJVZHFZRFAwX2tiQ1JONHVIWVFpWTNydVExSF9sWWc0QzJFMnAySjRjOW51ZVpqY3p2d01hRlNrTg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 04:42:00 GMT"
     },
     {
-      "title": "충북 전역으로 건조주의보 확대…'화재 주의'",
+      "title": "'美포드-中지리, 미국 협력 논의했으나 주춤…대신 유럽서 협력 검토'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTm4tazhQb082OXQwaTNJNm1ac3FBRUFhV1lPWDRkWXh4eVdJa2RieHJHY2hWWUxYTXM2X3NYQUhNSVY3MGxja2FZU0FhMTg5ZDBHaGtiX3B0QWtGMVlLSklURHpuN1NtelF3bEctNXdvaVc3TDFhb0tFak4zb1NFLXZLVGczTG5nSzRLdER2akY4aDJ1Y1JjcFhmRjIwVlIxLVZLOXd5Q0RRN2oxZXo5X0lnNUZfVkxq?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 01:38:57 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXBfNTczZ1R3ME1ZbHNMNjRFcnFINFRPcnhkOE93dGNXb1pXR2RqR0hjaTlJUl9Rbnk5djFDakxPUFYydGNFU3BoRVNMRUtsV2JLWTFLc2RmRndfZjZzYTdQVTdLRXAyVFhKblZ0bi0yY1FVZWdsNTNIZGY5ay1PUXpxRklrMC1Ub1Bnc2xwOTJrX1FDQTE2cHFBSmZrd3hydnIxakw3alpQaDc1V2N6alBtWFZra2pS?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 04:19:23 GMT"
     },
     {
-      "title": "도미노피자, '고유가 피해지원금' 27일부터 사용 가능",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNTmVHQkpVRzNpMUx1S21KQ09tLWZaTVFPMGhDcFJpelJYUW93ZUFRakVEUDVkWmNVb09SSnptem5sREtrS0N5OVI4aS1BTzV2V19n?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 01:44:00 GMT"
-    },
-    {
-      "title": "이라크 바스라에 유조선 입항…호르무즈 봉쇄속 2척째 진입",
+      "title": "국힘 '한미관계 이상 징후'…'與 '외교안보에 정쟁은 매국 행위'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDFtNHM0d0pUa2o2b24yODVWQ1c1LU1jV0lYR1RVY2c5N2xFS0hLZnhrcmpQc0VZRWZvR3hDVHk1RDZrOWYtUWZaSm9yd3pSX25mNUZ1THBxWk55ZXhZR1ZDWnFDemlkUzEwSXYya3V3Q1ZLYVQ1Mnk3RmpwYVg0LWlNNWtQMFJGRmNuT0M0MTNuWEJTcDNFTGVRZzY4SzIxNVpwVHBXcmFDZVdfRDI5OV9MRFFWMjdOT2c?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 01:28:58 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTkgtcjA2aEM2NmlnVlR0Q0VFZW43XzZxVzBMOE8yRVdYNnBHenVmZGJGeVE0ak85c2lUbHZ3WjRnTl9qNlFDNlFoVl9BQkVDTXFYbVdQS3NGM1ZzUHdiR25YM3JLX3M0TmlxajlodWYzZkpwUk9FZEJxZDNoMnVIeko3Z2tLS0VSZ2pHSUlVcGlRZno2Tnl2VW9sdUl4a1RGcDhQbXhYelVoNnlkR21pOWVrQ0ZuR2piZHVBeWwxbUlNcXZqdmw1X2ZCRQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 04:15:46 GMT"
     },
     {
-      "title": "휘닉스파크, '블루캐니언 연간이용권'…최대 78% 할인",
+      "title": "이진숙 \"대구시장 불출마…국힘 후보에 힘 보탤 것\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CaHZrY1Y2dmo1ZGh6cUZzMlFPb3BPT2o1SW8yVEZTRkNPU28zQ2lJcUhtN2NJdmkzc0hzcHp4TFI2SVRydm1zc3AyQUtndFZXREFz?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 01:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LcjdERjlVVVZGd1BUSzJlbEdVNUZPQ3U5UGgyMlpFbG9QdDgzSHlPRjU1RnpMZ0lHcFVIZ1lHdzAweHhnZGE0M2R0VkdYVGdVWEpF?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 04:20:00 GMT"
+    },
+    {
+      "title": "국힘 \"대구선거 승리 밑거름\"…이진숙 불출마 선언에 안도",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yZlkteXp4bndhX21TeTNMeVYyN1hGQWpWQ0l0ZkpOV2VoS3hEd3hJLXVybHlmZU1FN2lHekM1bnBtSmFfeVBJWUVYdERMeEpkd19v?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 03:48:00 GMT"
+    },
+    {
+      "title": "국힘 중진들 \"李 정부, 외교 무능을 노선 투쟁으로 덮으려…안보는 뒷전\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SWHVhRG1SRG5WSUlNeHV5OHgwb1ZFY3hWUnlWdXF5eDlVNXFKMVJYNVRlYndwWFRCcmtObURYQkk5X1ljSUlkOF9LcjFMZUNxcUNV?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 03:51:00 GMT"
+    },
+    {
+      "title": "강원도 전 지역 건조특보 발효…\"산불 등 화재 각별히 유의\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BeWNVSjJnVng2QnlPcEFIUV9zZF9BYTNGWnlZcURVT0hBTXd4ekFQLS1NUV80XzNzdzV6QTRDS2ItMThCcUY0bG1sZ1dScmNTR3JYZTVaQ25YT0xPY3RBWXhIYmJUMXBuVEo4REJxN0xyYjhuYWF1aQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 04:02:00 GMT"
+    },
+    {
+      "title": "추미애 경기도지사 후보, 안병용 의정부시장 예비후보 응원…‘신 르네상스’ 힘 실리나",
+      "source": "월드장애인사랑뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KMXFxTi0wZzVEU1J2ZDNKOGptcFI3ZkM1TVFwS2ctM2dTUEcwZHNuVHdISl9mZGpSanA4Z041cjZlOXJfSUhwalRBUlJaaTdfNWVzeXVvRGNYUUwzRS0tUDVZSG1SVTUyOFVUS0hmQQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 04:30:29 GMT"
+    },
+    {
+      "title": "‘안전한 바다 만들기 앞장’ 동해해경, 유관기관 합동 어선 안전점검 실시",
+      "source": "뉴스데일리",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ba3EzbFo5WEJaVC1qUV82QktBVkxxOFctYXdMWDVxTUJud1o1NUhuS3ZVcFJ5eVIzUmRzS1ZmeERPVjE0S2gzR0ZoSzVjd2F4ajhMUUowOURueUFkVW1yN08xa0NlX2hFTXdj?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 03:52:51 GMT"
     }
   ],
   "sources": [
