@@ -25,6 +25,8 @@ OPINET_TIMEOUT = 12
 OPINET_RETRIES = 2
 WEATHER_LOCATIONS = [
     {"label": "서울", "latitude": 37.5665, "longitude": 126.9780},
+    {"label": "김포", "latitude": 37.6153, "longitude": 126.7156},
+    {"label": "파주", "latitude": 37.7599, "longitude": 126.7802},
     {"label": "익산", "latitude": 35.9483, "longitude": 126.9577},
 ]
 
