@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-26T02:55:00.213285+09:00",
+  "generatedAt": "2026-04-26T03:32:58.876848+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "11.1°C",
-        "feelsLike": "9.4°C",
+        "temperature": "10.9°C",
+        "feelsLike": "8.9°C",
         "highLow": "최고 22.3° / 최저 9.4°",
         "humidity": "64%",
-        "wind": "3.3 m/s",
+        "wind": "4.4 m/s",
         "rainChance": "0%",
-        "pm10": "61.7 μg/m³",
-        "pm25": "60.1 μg/m³",
+        "pm10": "62.9 μg/m³",
+        "pm25": "61.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 02:45"
+        "updatedAt": "2026-04-26 03:15"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "8.1°C",
-        "feelsLike": "5.3°C",
+        "temperature": "7.2°C",
+        "feelsLike": "4.2°C",
         "highLow": "최고 20.9° / 최저 5.7°",
-        "humidity": "73%",
-        "wind": "8.8 m/s",
+        "humidity": "79%",
+        "wind": "10.5 m/s",
         "rainChance": "0%",
-        "pm10": "61.7 μg/m³",
-        "pm25": "60.1 μg/m³",
+        "pm10": "62.9 μg/m³",
+        "pm25": "61.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 02:45"
+        "updatedAt": "2026-04-26 03:15"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "9.1°C",
-        "feelsLike": "5.6°C",
+        "temperature": "8.7°C",
+        "feelsLike": "5.1°C",
         "highLow": "최고 20.9° / 최저 5.4°",
-        "humidity": "50%",
-        "wind": "8.9 m/s",
+        "humidity": "54%",
+        "wind": "9.7 m/s",
         "rainChance": "0%",
-        "pm10": "61.7 μg/m³",
-        "pm25": "60.1 μg/m³",
+        "pm10": "62.9 μg/m³",
+        "pm25": "61.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 02:45"
+        "updatedAt": "2026-04-26 03:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "7.6°C",
-        "feelsLike": "6.2°C",
+        "temperature": "7.3°C",
+        "feelsLike": "5.9°C",
         "highLow": "최고 21.4° / 최저 7.1°",
         "humidity": "97%",
-        "wind": "5.2 m/s",
+        "wind": "4.6 m/s",
         "rainChance": "0%",
-        "pm10": "27.5 μg/m³",
+        "pm10": "27.9 μg/m³",
         "pm25": "24.7 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "42",
-        "updatedAt": "2026-04-26 02:45"
+        "airQualityIndex": "41",
+        "updatedAt": "2026-04-26 03:15"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,978원/L",
         "lowestDistrict": "금천구",
-        "stationName": "(주)화동유업 화동주유소",
-        "address": "서울 금천구 시흥대로 484",
-        "updatedAt": "2026-04-25 14:12:02",
+        "stationName": "㈜씨더블유이엔지",
+        "address": "서울 금천구 남부순환로 1410 (독산동)",
+        "updatedAt": "2026-04-25 23:11:04",
         "districtSamples": [
           {
             "district": "금천구",
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-25 18:01:24",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-25 23:50:42",
         "districtSamples": [
           {
             "district": "계양구",
@@ -376,28 +376,40 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "美-이란, 주말 2차협상 무산…트럼프 \"대화 원하면 전화하면 돼\"(종합)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11UHNwNjZrMDhsRWtJVFRmTXZ4ejl6OGoyVzBHSzE5ZTBkYlc4dllqWkxjeUo1Vjd6MHpfRUYxX1dCVEthNlp0Nkt3Ry1sRVB0Tmp4eTFpdEZQLVnSAWBBVV95cUxQaFA2T3UzTXk4dkV0T2RiWmhpckpKYmpVdW1YbGlJa044RHRweE1JTXB5NlF6SXhPcnFDa0NjMVE5aWNJemZIU1JfQmJwM0ZMazJ0YlBQUU9IYzVpQXpRWXA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:55:36 GMT"
+      "title": "Westwood, Boyd County 대기질 지도",
+      "source": "IQAir",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbXp2cUdON2xCeVk4SGpLQWZmYlI2ajcyZS1jelpVeERYQjFwbVZPN0dPY3hKUEZYdWRzaFdsbG1zenlQN29LbVIza2RUcU9WbkFQazVZRndqdjB2czZ0UWRiNHpMa3dodmFYenczSzRibnJwZXZEVTh3enFnc1U?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 18:12:35 GMT"
     },
     {
-      "title": "美·이란, 2차협상 무산…트럼프 \"대화 원하면 전화하면 돼\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zMW1FQVRveGUzMGlYb3pkVGx4MC0zcFVvbXpfRnZaeVVwNDRWaWNjUDlsandxbXJvaW9yRWY3ZlZkeVdFZGZxdGxtdEptQkctbzNkQ1lVTm9lRVR0cWVfS1RwX2NOd1dQZmc?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 17:17:00 GMT"
+      "title": "트럼프 \"이란 협상단, 언제든 美에 연락 가능\"",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84V0lfMVktajNIZVYtck1FNVRYdlA2RXl4WXFRSW1qa3B6bnpHOEpDOW84NzJNYTV4RllPdUZ5ZzNpVjFDNExWcXFBS3BCUkVV?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 18:19:05 GMT"
     },
     {
       "title": "박서진, 연락 두절 母 찾아 병원행 \"암인지 확인해야 한다\" 충격",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXakQwaTNtcVBQVFotT1Y1VVA1TC1sOWpHbEhrV0xIN1VlN3cwN1lNVnc1cXdvN19tLXloOTVGMGROeC1RQ2h1ZEtMWDJ6VlpkUmhDUDk4VU11WlFFb1RkVA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzc1NkMTBWNTVabC02MU4zZHNtX0NVdXhKVWFHUzRQUzB3OGgydHN1aGlfQ0ZqTE1WVU9SRTFQUW5aTktYajc1OW55cmhpTFFld3Z3?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 17:51:00 GMT"
     },
     {
-      "title": "'오바마 분짜' 가고, '이재명 쌀국수집' 떴다?…\"'이잼'이 베트남 하노이에 찍은 맛집 좌표\"",
+      "title": "박서진母, 갑상샘 혹 2년 방치…\"또 암이면 자식들 어떻게 보나\" 눈물",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oWWUwbGs4Vm5PYlZQZ2haZWdIYUc5UUFaOXJ4Wk5UcFk2U2RUWDQzOHBsNjVZcmJHSzNYbE1ZU2xxVGYyNG5jSURBQjkzSmZTVE8zTDd2VFFrMmtkYnRmUw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 17:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzWFRickpFcU1oSXFjdVBvVzBvYVJmOW4tTUl1NDBvcFNVaHBBTzJpaDlLRUdNdlR3TzFscGNodVE0V2tVT3BGSVZEVGFJRkdDdGVOellvb0h4ZFBuOXV5eGpDSlhrNE10dVBoaWpDVWtjcUc3blFrUg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 18:16:00 GMT"
+    },
+    {
+      "title": "[속보] 트럼프 \"美 대이란 협상단 파키스탄행 취소\"…2차 종전 협상 무산",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEctai1GZndJNjBXdElWZC1fQzdVeFRqMlJtSnNBRFBEVE01c0t4OThpVlNQSGZrd2RSVEVNaC1jRGFHTEV3SVpVZ1RzME1uYzVCYVNuSWZlT0xaMHVEcjdTTTNGM0FpdjlUWEQyYUt6S0RCakN3aWNlaURoQ3dWRWZDZnRhS3lYTllYaE9lTXdsS2tDVC0walRFbE5sdw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:03:00 GMT"
+    },
+    {
+      "title": "엄지윤, 엄흥도 후손이었다 \"박지훈 보면 눈물 나\"(전참시)",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWlPb2dvRlNkZHFDc04zODhFazhnQjZGZ09hUmljLVVZb283Q2JsMWdoVjBHX01qeF8xSEVXR2FXMW5pRGJWRDFhX0xlSVF0Y1NudU5TT2dGMjA4YldPU3NsUDZIVkdTUUpLOEVEdTJ2MlFNZFZxa2lodjBtODdUeEhtQTJ4eVRqamlwbVhucw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:58:00 GMT"
     },
     {
       "title": "인텔 코어 게이밍 PC Ultra 1939년산 나무 상자에 담긴 7개",
@@ -412,12 +424,6 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 25 Apr 2026 14:53:16 GMT"
     },
     {
-      "title": "엄지윤, '기혼자' 김원훈과 장기 연애에 \"불륜하는 느낌\"(전참시)[순간포착]",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVnVHSWR6ZzVDaWFKa28xaFZBZTZ5cmNCU00xc1V0eVVQOEN1UExxTkxpeklYTDVHSVhpWHFlSmh0ZVJwV1dZMTgzRk9ETnEydTFOWEJkaGtSc21fUHQxZVNULVJSdWNNRUNVT085bmpIWkxsOC1zYkFxd1JSYlZuNUpkLUVYTGE4dm9BdW5RUQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 14:45:00 GMT"
-    },
-    {
       "title": "\"이란처럼 말라카 해협도 통행료 받자\" 제안했던 인니 장관, 발언 철회",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclpjYkx3X3o1UXF3UG93STJUQjdFbUR0OS11bGV0SzNHZWdXaUZNeGVySmNsVGdzY3B6STRnaHVPX3Q5NE4tc2pka092WlI2TjdqOTFfalVpNjc4WElfbjBjT0dsSzBsNkdTU2dkaV9BUlQ0U1BuOElxU2JyQmk3VHVfLTJzN2tNcFAyUTVGRzhHU2dkRHZhN0tXYTFWZw?oc=5",
@@ -428,12 +434,6 @@ window.DASHBOARD_DATA = {
       "source": "ASIA ARTIST AWARDS 2025",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aX2V3MVU0V1lETXRZRF9GaWdLN09JRFVST0xiRzRzVmJzaUZ2VGxLQUlYVFBkeER3Z1ljUXdlRTFnSHdwUUlQeW9Dem9UOVlMWHdmcUd6YnlLMmNPRnVkYQ?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 13:57:04 GMT"
-    },
-    {
-      "title": "미 협상단 파견에도 이란 “회담계획 없다”…2차협상 재개 두고 ‘샅바싸움’",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMTIyWHNqLS1CSHd1TDJtaXVfakdRY1kycXVFRkZ5dTlza2ZDVFoxWVFoSUJlR1RRRElhWVdlUGhyX0hncWQzYThCeW1hLVA4M2E4aHBham5DWG9Bck0wYU1PT2xxWWZJUEk5c3A2OUNJSXBYWWV3blJ0N2RQX2RkQ1Bn?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 12:47:00 GMT"
     }
   ],
   "sources": [
