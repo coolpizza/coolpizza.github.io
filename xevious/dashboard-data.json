@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T22:37:07.332110+09:00",
+  "generatedAt": "2026-04-25T23:26:58.900544+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "13.0°C",
-        "feelsLike": "12.1°C",
+        "temperature": "12.5°C",
+        "feelsLike": "11.2°C",
         "highLow": "최고 23.7° / 최저 7.3°",
-        "humidity": "67%",
-        "wind": "1.3 m/s",
+        "humidity": "68%",
+        "wind": "3.0 m/s",
         "rainChance": "0%",
-        "pm10": "39.8 μg/m³",
-        "pm25": "38.4 μg/m³",
+        "pm10": "46.4 μg/m³",
+        "pm25": "45.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-04-25 22:30"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-04-25 23:15"
       },
       {
         "location": "김포",
         "summary": "맑음",
-        "temperature": "11.6°C",
-        "feelsLike": "9.9°C",
+        "temperature": "11.0°C",
+        "feelsLike": "9.0°C",
         "highLow": "최고 21.2° / 최저 4.9°",
-        "humidity": "65%",
-        "wind": "3.7 m/s",
+        "humidity": "66%",
+        "wind": "5.6 m/s",
         "rainChance": "0%",
-        "pm10": "39.8 μg/m³",
-        "pm25": "38.4 μg/m³",
+        "pm10": "46.4 μg/m³",
+        "pm25": "45.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-04-25 22:30"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-04-25 23:15"
       },
       {
         "location": "파주",
         "summary": "맑음",
-        "temperature": "11.7°C",
-        "feelsLike": "9.5°C",
+        "temperature": "11.2°C",
+        "feelsLike": "8.7°C",
         "highLow": "최고 21.7° / 최저 4.8°",
-        "humidity": "61%",
-        "wind": "6.2 m/s",
+        "humidity": "59%",
+        "wind": "6.8 m/s",
         "rainChance": "0%",
-        "pm10": "39.8 μg/m³",
-        "pm25": "38.4 μg/m³",
+        "pm10": "46.4 μg/m³",
+        "pm25": "45.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-04-25 22:30"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-04-25 23:15"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "11.7°C",
-        "feelsLike": "10.5°C",
+        "temperature": "10.7°C",
+        "feelsLike": "9.8°C",
         "highLow": "최고 25.9° / 최저 6.4°",
-        "humidity": "81%",
-        "wind": "6.2 m/s",
+        "humidity": "89%",
+        "wind": "4.7 m/s",
         "rainChance": "0%",
-        "pm10": "12.5 μg/m³",
-        "pm25": "11.7 μg/m³",
+        "pm10": "17.7 μg/m³",
+        "pm25": "16.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "50",
-        "updatedAt": "2026-04-25 22:30"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-04-25 23:15"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,978원/L",
         "lowestDistrict": "금천구",
-        "stationName": "(주)화동유업 화동주유소",
-        "address": "서울 금천구 시흥대로 484",
-        "updatedAt": "2026-04-25 14:12:02",
+        "stationName": "㈜씨더블유이엔지",
+        "address": "서울 금천구 남부순환로 1410 (독산동)",
+        "updatedAt": "2026-04-25 23:11:04",
         "districtSamples": [
           {
             "district": "금천구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜김포제2주유소",
-        "address": "경기 김포시 대곶면 대곶북로 347",
-        "updatedAt": "2026-04-25 08:45:48",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-04-25 17:59:15",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,46 +376,46 @@
   },
   "news": [
     {
-      "title": "[뉴스9 충북 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QaERlS1lNVVV0STVGOEYtSFVPdEVjYjRaRjF0VHFoS1I3Ti1ZZHNCTHB0TGY5NlBOZXlxR1pVems4VWt5VDJSVFV3S0FnVlJJUkVUdTM3V0w2WmM?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:14:00 GMT"
-    },
-    {
-      "title": "충북교육청·충북교사노조, 정책협의 본격 착수",
+      "title": "민주당 여수시장 후보, 서영학 후보 선출",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NQ2dydDJWTHA1czh1VVRuMHdJeUxhbXMzSk03aDAxdFRPdzJmaDBvSjBRUTd1RWZzWkFOOVhMMGxDMEJlYWtSdFNFRWlONWhhWmtr?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1Vi1HZVZTOC1LOW00SUgyVE9sTnNLSlBvR2EzQnRPWFNmbG9hN2JPR3RIbHU0TGlKZFlrSmRUbTdKUHZFRlpiTHZGbWp2Tm5HUE84?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:07:00 GMT"
     },
     {
-      "title": "오존, '전소니 동생' 전주니와 26일 결혼…9년 열애 결실",
+      "title": "민주당 장성군수 최종 후보로 현직 김한종 후보 선출",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QSTVvTlZ1NFJOY2NWMm9CenV2dk9HNU8tOVJFbVliU2xLdU9lUkNQTERUZk9BSDNycnZKUjlPQ3FGSXBtRVBUS1huR00yTUZPdHBVaG4wQ0lTeDZFUC00Yg?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wQ1hPbWZEUERpT3pvR3U4WmhJTDBjbjhqSldmQU5DUGI1WXBweVQ5UTlzREZ6REFqRWRtcnFHMG1PTGNma0NLRzh5Q1hvTHAzWFA0?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:07:00 GMT"
     },
     {
-      "title": "[포토]장수연,첫 홀 버디 도전",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QdnRsd2ZnaWV2d0JsNm0zb1lNekxwc1hjc2JtN1BQWTRRX1VjRHo1TzFLMjFMNWpsM1pSZzQ2Z0NrMEdhbTZVOF9CeGlWUlFkQzBWc19KN04tbUJVTDZwdE5FRDlfbmdQdFcwQTdfN1hVZnN1?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:13:58 GMT"
-    },
-    {
-      "title": "동성로 뒤흔든 김부겸….\"대구상권 상징공간 반드시 되살리겠다\"",
+      "title": "'살림남2' 지상렬, 신보람과 내년 봄 결혼?···\"2세는 딸이 좀 더 좋을 듯\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85RDk3d3E0OUlSY2M1Xzllck4yQlFYejNvdFFac19yOFhtR25maXhYcjNyLUZ4cmVWM3E4ZzVkeE1YOFdwTE0tcUhhNmh3UENjUm04?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 12:38:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QQ000OGI2V3k1TFhCbVBZQXRSMDNsb3ViVndRNThmeElMUFdoTlFaZ0N6SEoxRjRKV01tbE05ZW5iTUp4VE5LUE9LZEQ1ak9QSWcxLVVoWjhOcU02bUhzbHBwcGxCQzQ1?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:47:00 GMT"
     },
     {
-      "title": "신동엽, 박서진 '성형 변천사'에 \"자리 잘 잡았네\" 팩폭[살림남][별별TV]",
+      "title": "울진 죽변 앞바다서 스쿠버다이빙 30대 실종…해경 수색 나서",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SWC1pM2xYVU1EeVhmS3RiTUc2T0trclVKSC01T1ZBbDMzOVlOU2hoQ3RYTnBJMGlCcW5ZLVgwaTFLTUxYT2dKNzFzZTVMSjNUZkNN?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QZEs3azRhVTlSdWJNU1psYzhrSFlKNjlQYktYaUFrMnpndkt3eFYxUVFSOUhYb1E1OGEyZDJlbDRqRFZ3ZTlmOUM5cVB3dTIzYzFv?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:42:00 GMT"
     },
     {
-      "title": "아이유♥변우석, 왈츠→로맨틱 프러포즈 \"내 아내가 되어주시겠습니까\"[대군부인]",
+      "title": "변우석, 노상현에 질투 폭발 \"아이유 내 안사람…언행 주의\"[대군부인][★밤TView]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwaDBOa0hEOTU3WGNMZDJjd1pOVkRSa2x2T2dzS3JoZXNhN1ZLUFVydUROemxsdkZEWEcxckkwdk1scjQxMDdyRnhDMWpqTHhYLS04WkhfQVBMQU5uNHRSTzh2QzJGM3NUSmRrY3BnaVE1aDdYUnlGbg?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiSXpMNTRfbG9ZNG1WLXVMUFp0ckZ4eEwtTDVobjU0eVBwZVhlSW9YM1kwUnhhbXVZNkUyVndKOFZwekFVMDBEem05UFg0ZmV2WVI0?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:47:00 GMT"
+    },
+    {
+      "title": "[랭킹뉴스] 상위권 점수 140대 ‘밀집’…2026년 AI 모델 순위, 불과 몇 점 차",
+      "source": "스타트업엔",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mdVN3TXVFZlFXejhobzJzT0xkN05OTHZDZVhiM2dzUVZPeXVSdWd2ZzRhTEUwQ3lQOE9XeWx6MDVabmIwTDlzcHBLa2l5cVUzU0Rrcm0tYkxFLVByNGg4Z2xjb3hlYURS0gFsQVVfeXFMT01Ia2VGOVcyX2QzVkJMZ0ZMOV95Q2k3ZEVDalpoOEdUZGx0X1ZqQ1ZEUzBOQjRjcmNvTFIzanFXYnQzRzA5bVhfN2R5cVczU0xuY3kzdDNLcm5SaTMzWnU1d2h3LWFpclZrUFZ0?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:33:53 GMT"
+    },
+    {
+      "title": "공승연, 과거 성준 유언 조작 \"아이유, 변우석 약점될 것\" 독기 폭발[대군부인][별별TV]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HTnFkOHhWOHhTS3pEcmNvVll1dEpCRC1VM1ZqdUFJQVlfNHVwTXBONHRoWHJ3cUpYVnV1N29fZW1DQ3JlQmFyU2t0N0NQLVI5cjNCSF9kTmZSTWZPNm4wQjRPcndpSlUyNGVsQzROYVA2WTFKdHhLRQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:38:00 GMT"
     },
     {
       "title": "악어 서식지서 '웃통 까고 샷?'…“태닝하려고?” “악어가 더 놀랐겠다”",
@@ -424,16 +424,16 @@
       "publishedAt": "Sat, 25 Apr 2026 13:30:00 GMT"
     },
     {
-      "title": "증평군, 청년 가구에 월세 지원",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1UENyejcwVHhjcGVzRmtDbGVRQjF3cGM2Z0V3blN6dWJlN1hUN0NKXzN4bWpqN0ZWcVdrLVpzdzZnNkpkczN2WTJXOFhXb2FsNDhQY3RMdWwwTjQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:13:00 GMT"
+      "title": "[포토]아마추어 현세린,패기넘치는 임팩트",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDNqS0pDcWd1WUl2b1RpQzA5UThVa0lIRUE0ZVI4bTBkOVVSNU9KaWVmMmRWdDNrMVVNRTI1MzAtVHlvSXhNRi1fcWtPd05jZTlHeG1HTk9kbGtURFVFallLWUI0RnRvRXpDXzduTkJSSmpaNjB3VF9EVzVNbGhGVQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:00:13 GMT"
     },
     {
-      "title": "박서진, '감상샘암 의심' 母에 절연 선언…\"인연 끊고 살자\"[살림남]",
+      "title": "오존, '전소니 동생' 전주니와 26일 결혼…9년 열애 결실",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zWTdIbW55N3VORm9fRndnSTYyZGM4cFVXVVQ0UkNmRm1EM0REN2JHbFlpTXFSMndlOEdtcEJOdlF5R0RZcVdxV3JmQnNrWG1aR1NmaWxCZGZSenJ4M09tT1o1OWY1M242?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QSTVvTlZ1NFJOY2NWMm9CenV2dk9HNU8tOVJFbVliU2xLdU9lUkNQTERUZk9BSDNycnZKUjlPQ3FGSXBtRVBUS1huR00yTUZPdHBVaG4wQ0lTeDZFUC00Yg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:31:00 GMT"
     }
   ],
   "sources": [
