@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T08:25:00.326745+09:00",
+  "generatedAt": "2026-04-25T09:03:00.048863+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "10.9°C",
-        "feelsLike": "9.3°C",
+        "temperature": "12.5°C",
+        "feelsLike": "11.1°C",
         "highLow": "최고 23.1° / 최저 7.4°",
-        "humidity": "69%",
+        "humidity": "65%",
         "wind": "2.9 m/s",
         "rainChance": "0%",
         "pm10": "55.8 μg/m³",
         "pm25": "53.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-25 08:15"
+        "updatedAt": "2026-04-25 08:45"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "12.1°C",
-        "feelsLike": "10.9°C",
+        "temperature": "14.4°C",
+        "feelsLike": "13.2°C",
         "highLow": "최고 25.4° / 최저 6.4°",
-        "humidity": "73%",
-        "wind": "3.8 m/s",
+        "humidity": "68%",
+        "wind": "5.4 m/s",
         "rainChance": "0%",
         "pm10": "42.6 μg/m³",
         "pm25": "40.0 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "47",
-        "updatedAt": "2026-04-25 08:15"
+        "updatedAt": "2026-04-25 08:45"
       }
     ]
   },
@@ -105,7 +105,7 @@
         "lowestDistrict": "강서구",
         "stationName": "이케이에너지(주) 강서주유소",
         "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-04-24 18:00:47",
+        "updatedAt": "2026-04-25 06:09:02",
         "districtSamples": [
           {
             "district": "강서구",
@@ -124,19 +124,23 @@
             "price": "1,979원/L"
           },
           {
-            "district": "양천구",
+            "district": "금천구",
             "price": "1,984원/L"
           }
         ]
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,969원/L",
-        "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-24 09:52:02",
+        "lowestPrice": "1,885원/L",
+        "lowestDistrict": "강화군",
+        "stationName": "가나안주유소",
+        "address": "인천 강화군 화도면 해안남로 2351",
+        "updatedAt": "2026-04-25 07:35:09",
         "districtSamples": [
+          {
+            "district": "강화군",
+            "price": "1,885원/L"
+          },
           {
             "district": "계양구",
             "price": "1,969원/L"
@@ -152,10 +156,6 @@
           {
             "district": "서구",
             "price": "1,975원/L"
-          },
-          {
-            "district": "부평구",
-            "price": "1,979원/L"
           }
         ]
       },
@@ -177,52 +177,46 @@
   },
   "news": [
     {
-      "title": "다음주 3668가구 분양…공덕역자이르네 등 청약[분양캘린더]",
+      "title": "[위클리 PICK 3] CU 물류센터 인명피해 사건부터 SK하이닉스 '이익률 72%' 역대급 실적까지",
+      "source": "오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtS19HWVR1S2p4Tk5JMGdSNnJqbE5LUVV1cmFLdmVKSDZZelhISzhSMWJyamMzZVJxSmliVTRLS1Jad2tSLUx5Vm44Z3Rfak9fUXFLVDd2bFB4X0N1S0RzeXIzclBGTG41eUZYWEpkdUg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 00:00:00 GMT"
+    },
+    {
+      "title": "여주시, 대규모 산업단지 조성 속도…첨단산업 육성 박차",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rd1JlQW02b19pd0l5RVE5TE9BdGdjTEUxSFQ5bVZxV1ZId3gzNEk4Z1dsc2Z6NXlGTEFyVEU5M1hOSHB5TG5GbGl1RGZHMThkUnJRTjNJUGtXYnM?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 23:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjRzJWalNwcmQ1SjZkS0ZIT0lJOVlaRmVLVWUzdkdvUVJ0dmlBd3RxMjNwZVVNMzRtRV9FWEoyMFRxdlA3VG9heGRTWXF6TlU2X0dyd2VB?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 23:30:00 GMT"
     },
     {
-      "title": "이 대통령, 27일 하사비스 딥마인드 대표 접견",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFOWxDSlZFcS16anNPTkNnQWRqbm02OEtuUllVQzl5NmNBSTdVSnFqcTJidVQ3MEVyVnBpZ3F2czk5d2NiNXRYQmN6eDJmUENKanRN?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 23:18:00 GMT"
-    },
-    {
-      "title": "공덕역자이르네 고덕신도시아테라 등 3668가구 청약[분양캘린더]",
+      "title": "홀로코스트부터 5·18까지 역사적 비극 다룬 영화들 스크린에",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSlg2ZXlPdjlEUVpER2tCa2dKamRjZW44UW5DTzZVWmRhUjZJOWxOdFQyNHdHeGZ4dTU3YUQ0U2JLSTJxbmVWcjV2cjZTQ25TRDVOUUhjdVJ5bVNIWkFFckRid3hOTTcwNVBBaGpvSkxtclFkZFk0cW85Yi04d2FRcmstbTRwTVRDRGNSUmpxTXNiZ3FXUDd2QzlGZ21wRkZob0hGeGNGLThiRWdOQktCTlpJdEdQUVA2NkE?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 23:13:12 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR05XbmQ2bkhYXy1HeHpObWhMbjFqVjdJRnlCeHF6WjFuZUc5azN6aTZKVmdlbG1fX1FXWkdhY2UxU1N5VzhDamZIWVh3Zy1DZE1oSElSTGN1MVJEcTJXbmMzd3dYN2dWNVpPTFJ6czc3ZmY1OC1RUzRsb3JJamtPNllCXzVmMkhSUXNheGdZRlJESXptaF85WUFxUnJQbVRuVTgxaE9LRnFKTmFCcVFMYTEyUVg0SjRObFE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 23:38:14 GMT"
     },
     {
-      "title": "서정욱 \"이진숙 재보선 출마 선회…'송영길 대항마' 황우여 곧 결론\"",
+      "title": "이란 \"파키스탄 방문, 미국 측과 만남 예정 없어\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iX3E0M2d6MFBoZWkxUzh4RHU0ajByMzE1RFVGS002eFZodlBHdE9kOGNaYmZWdF9aNHJ3ZFZDdXFhN3RoazI2TFd4c3M3cmxIZU84?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 22:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEcFZxdkpWNDZpVVZOZGs0LXcwN3dnRUZiTTllYkdKeVhJblVBUnhkX2pMT2FlYmtrUkE5MEtWTkIxOUtmSzRjV24tOHlJQVR0OXZnX3E0YTlQb3NQRGRURzMzVWhta0hpY0E?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 23:47:00 GMT"
     },
     {
-      "title": "대전·대구·광주·울산, 창업도시 지정…2조 푼다",
+      "title": "[신간] 암호화폐 붕괴 시나리오…'비트코인, 박수 칠 때 떠나라'",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjhrUUZOekExaW9TT0I0LTNvZnA2ek54bDZwZHRHMk1oR3hNUUtGNXN3c0Z0NTRIWmhqa09WMVhieUJJei1TbFNxejBxbGFLUmF2WkxvcVJiMDJjNWZQUkZURExRM2FkM1lvYUloamxZYUE3ZVEzVWVDMzVfemFWZXJib2wtVHhxSVp6c0tzUFRBS29qXzBkb2lneGtiZFZzcXVFb2pTQzNhVi01X25iblo5M1JwMnhBdmc?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 23:28:14 GMT"
+    },
+    {
+      "title": "아라그치 외무, 파키스탄·러시아 등 순방…\"미국 안만나\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nZHlWNUc4ektFbTg0c29XLUd4djNxNXZiTFFiTHR2STBpSnhIUG9fUkY0TnMtaTdvejctcXl3LWk3eUU2ZEwwM0JSaW5OV29QZW1N?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 22:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WWXNQUGQtWkpHT2JlYmpBMHBOUjhqZ0VmR3BzQUtDRnJsaFdTT2JXb21wOUtuQ1lkbXNjWWRFZmp0aWI2cmVvb0ZsNWNNeFQ1WFZz?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 23:49:00 GMT"
     },
     {
-      "title": "\"SK하이닉스 목표가 234만원…상승여력 91%\"",
+      "title": "김한규 \"하정우 출마? 다음주 초쯤에 결말\"[한판승부]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1taE5iOGs4SU1wdUVDbGV0VG1TVWpnQ0dTV25Scjl4Z2cwWGtSa0hTZmNKVk1GY0dzaUlma2dDTGE1clhrSy1Qd0J6UkZOWlFaYVpV?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 22:46:00 GMT"
-    },
-    {
-      "title": "박성한, 22G 연속 안타 터졌다…최정, 멀티포 'SSG 4연승'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jdDRfdk5aNGFBdDU4OHJJYkhDd1QwN3lQUEpFcUs3VjVrbVg5YjNzOGc3Q1pXbnhBclpIUFN6d1BROUxGdGJTejZuNnhReVBRLXZOdVhQMFhuTXRBcUZQYzhGcWxoSF91Nmc?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 23:17:00 GMT"
-    },
-    {
-      "title": "北, 日다카이치 공물 봉납 맹비난…\"역사 왜곡·평화 도전\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtbVYyZVdheWxQMUltQ0w3dGdXcjFPUVpQOHU2bFIwek45eHBQbnpEaHdvN1FvcmZZRFFCYmtlZGFNU0xjU3Q5d1cyOHFiN2hUMXM4bFRHalhQSV9CMmg4?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 22:52:58 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rZklYRml6aklNMVdjOEJvaV9laHFnTGFoNE4zVnJjdXpSdGVVa2VYMlhJMDFTa0I1TlhkX0JUM185d1Jaa3RieGxKUE1HeXVpOFpz?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 23:57:00 GMT"
     },
     {
       "title": "장특공제 손질 나선 정부…거주 vs 보유 기준 현실성은",
@@ -231,10 +225,16 @@
       "publishedAt": "Fri, 24 Apr 2026 23:13:12 GMT"
     },
     {
-      "title": "수변 따라 집값 갈린다…강·호수 품은 단지 '몸값' 상승",
+      "title": "이란 \"파키스탄 방문 외교장관, 미국 측과 만남 예정 없어\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wbzAtYXowVHA1a0dSU2NSOURQSUgtR2VxM0xlZ3dFU3ZoQ2lsYjhHakNxRUNkYkd4QnM0U3JUdVhaUjNxT2U4bjNlVXVSYXBCdDJR?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 23:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBocTFzM1pfX2xuYXNwOHBjN0FQOUNKakIxZjkyNjhQODBXZksyVG9ERVZRUjJDX2syX3JrSDBQOGI0R0dQazZXSXVWZWF5QkRCRXR3?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 23:32:00 GMT"
+    },
+    {
+      "title": "공덕역자이르네 고덕신도시아테라 등 3668가구 청약[분양캘린더]",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSlg2ZXlPdjlEUVpER2tCa2dKamRjZW44UW5DTzZVWmRhUjZJOWxOdFQyNHdHeGZ4dTU3YUQ0U2JLSTJxbmVWcjV2cjZTQ25TRDVOUUhjdVJ5bVNIWkFFckRid3hOTTcwNVBBaGpvSkxtclFkZFk0cW85Yi04d2FRcmstbTRwTVRDRGNSUmpxTXNiZ3FXUDd2QzlGZ21wRkZob0hGeGNGLThiRWdOQktCTlpJdEdQUVA2NkE?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 23:13:12 GMT"
     }
   ],
   "sources": [
