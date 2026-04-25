@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T00:53:27.473407+09:00",
+  "generatedAt": "2026-04-26T01:30:16.573631+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -71,59 +71,59 @@
         "temperature": "12.2°C",
         "feelsLike": "10.7°C",
         "highLow": "최고 22.6° / 최저 9.1°",
-        "humidity": "64%",
-        "wind": "2.8 m/s",
+        "humidity": "62%",
+        "wind": "2.3 m/s",
         "rainChance": "0%",
-        "pm10": "52.2 μg/m³",
-        "pm25": "50.8 μg/m³",
+        "pm10": "57.3 μg/m³",
+        "pm25": "55.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-04-26 00:45"
+        "updatedAt": "2026-04-26 01:15"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "10.0°C",
-        "feelsLike": "7.5°C",
+        "temperature": "9.7°C",
+        "feelsLike": "7.0°C",
         "highLow": "최고 21.2° / 최저 6.3°",
         "humidity": "65%",
-        "wind": "6.9 m/s",
+        "wind": "7.9 m/s",
         "rainChance": "0%",
-        "pm10": "52.2 μg/m³",
-        "pm25": "50.8 μg/m³",
+        "pm10": "57.3 μg/m³",
+        "pm25": "55.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-04-26 00:45"
+        "updatedAt": "2026-04-26 01:15"
       },
       {
         "location": "파주",
         "summary": "대체로 맑음",
-        "temperature": "10.4°C",
-        "feelsLike": "7.4°C",
+        "temperature": "10.0°C",
+        "feelsLike": "6.9°C",
         "highLow": "최고 21.3° / 최저 5.8°",
         "humidity": "53%",
-        "wind": "7.0 m/s",
+        "wind": "8.1 m/s",
         "rainChance": "0%",
-        "pm10": "52.2 μg/m³",
-        "pm25": "50.8 μg/m³",
+        "pm10": "57.3 μg/m³",
+        "pm25": "55.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-04-26 00:45"
+        "updatedAt": "2026-04-26 01:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "9.3°C",
-        "feelsLike": "8.1°C",
+        "temperature": "9.0°C",
+        "feelsLike": "7.7°C",
         "highLow": "최고 20.7° / 최저 7.2°",
-        "humidity": "95%",
-        "wind": "6.1 m/s",
+        "humidity": "97%",
+        "wind": "6.2 m/s",
         "rainChance": "0%",
-        "pm10": "22.7 μg/m³",
-        "pm25": "21.0 μg/m³",
+        "pm10": "25.9 μg/m³",
+        "pm25": "23.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-04-26 00:45"
+        "airQualityIndex": "42",
+        "updatedAt": "2026-04-26 01:15"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,978원/L",
         "lowestDistrict": "금천구",
-        "stationName": "(주)화동유업 화동주유소",
-        "address": "서울 금천구 시흥대로 484",
-        "updatedAt": "2026-04-25 14:12:02",
+        "stationName": "㈜씨더블유이엔지",
+        "address": "서울 금천구 남부순환로 1410 (독산동)",
+        "updatedAt": "2026-04-25 23:11:04",
         "districtSamples": [
           {
             "district": "금천구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "걸포주유소",
-        "address": "경기 김포시 금포로 1117-6 (걸포동)",
-        "updatedAt": "2026-04-24 20:40:49",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-04-25 23:52:59",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,16 +376,40 @@
   },
   "news": [
     {
-      "title": "엄지윤, '기혼자' 김원훈과 '연애→결혼식' 연기에 난색…\"불륜하는 느낌\"[전참시][별별TV]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FOFVGWDkzT3VpMzFjVFdkZG5zdS1GTkNlZllNejJ2UlVQWVpzUUI5QTRjSUh3UmtyU0pFQVU4bUN2eFp1OE1SRE5IRmw2U1Z6UkxV?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:26:00 GMT"
+      "title": "[청년골프] 타구 방향은 정확히 윤수아",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZSnF0UkFvdnROdVJUaEhKWXhuN2xYZXQ5Tkh3ZG9lY3V1NTRvRGVMbEZFbE1iWDFvZzdtSW1hUE1jNXgwX0NkZk9zbkQwMTVvbFlvZkE0SGxYbnVwaHRxcjF6TEVLa3lSSUE?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:15:02 GMT"
     },
     {
-      "title": "[포토]김지윤,퍼트라인을 살핀다",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xdkFnLUJtQV9BakpBU3AweHFWcDZWME50MWsxbWYyeXY0MW5XeGtZNWhnRVlVWUZ5ZWtpN2lWeDZiVjV4UHNvSGtteHhXdnYwRkxCX1R2N0VvMDRoNlRTcmkxNnUybDBIYk9PUVl2Vk92QTBv?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:12:03 GMT"
+      "title": "'비 ♥' 김태희, '전참시' 뜬다…정샘물 찐친으로 지원사격[스타이슈]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54QmVSRWphM09DOTByZ0xna2FrZ0d5NG43WnZwNEltMkFab3ZhNHpwdDlPdFExVTdLNGMwYV9sUmgzODktd1FRZEJLRXdLZU1JU0ZqRlBhaTlGcFUwZnl2NQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:27:00 GMT"
+    },
+    {
+      "title": "대기 건조하고 일교차 커…남해안 등 소나기[오늘날씨]",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPajZEcGJVd1lSeHpkRVVUWld1bXhCQXNIeGxkYTQyREEzWFJjTVFwZjRqb2Q0VkZ4ZDRpS01TNXRzalJCOXpGZ3BMLTViLXhhUkNxcG5mOTkyeTZvVkh0YkRBdjZKRmROSTJaa2VyVTZBbjk3YVVtcGM3UEdiZ1k3bmhDU0FSVWV5cExQbHFScW9Bdi1PQk9IT3dfcEJSMmhBRFJ5TlZRTEs0N3hSVlJZY18tRFNLbHg2TUdBMkJTTUxaUXdIc21rNnB3?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:43:52 GMT"
+    },
+    {
+      "title": "中 축구 호언장담 \"日·北 잡고 우승한다\"…한국에 졌어도 '근자감' 최고 \"안방이라 다르다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KRVk3NlZDdHhaRVZySVBfQXUycDlmaHBST0J0MVJCcHY0cEgwTERYTndjdmtrZTdKSDI1WmZhSTM0a1hjc0UyejdIWFNzbndXeGNiaFFR?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:22:00 GMT"
+    },
+    {
+      "title": "오페라 무대 설 부산 청년 찾는다…시립예술단 솔리스트 모집",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IelRQSEI4ZGp1d3RIbUZKekNtNDBDZll3MVpaUEJHelNmNWlhSWlmdml3b0Iyc2VWWEpKZExuZkNMMWVNcTJJRnZoTkhLcXFXT3lJ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 16:00:00 GMT"
+    },
+    {
+      "title": "엄지윤, '왕사남' 엄흥도 후손이었다…\"단종 박지훈이 눈물 버튼\"[전참시][★밤TView]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySmlzSWl6aVBVMllqOWJ1TmJ3NlFKQkJEenZERWIxYVJ4ME5nMVlHdGE5aGJHbkJvRkRLME9YQVR6ZnhXS3V2LUp4ajF6YTBrU0Qw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:44:00 GMT"
     },
     {
       "title": "이상윤·엄정화, 얼마나 친한 거야…어깨동무→매너 다리로 찐친 바이브",
@@ -394,46 +418,22 @@
       "publishedAt": "Sat, 25 Apr 2026 15:35:00 GMT"
     },
     {
-      "title": "엄지윤, '왕사남' 엄흥도 후손이었다…\"단종 박지훈이 눈물 버튼\"[전참시][★밤TView]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Id3pLZlVEdUZFZnhraTE2SGtLVG9pMDVGdVl0ZGluLW9ieGE5azFkOGxjeTZTMF9nUFJPbEdOeDdJU0U2ZVRIemhVZk5xdGIzVWluam1vckRwTTJQN05vN002YlZEYUZSTTBHbHBWMVFsZlBZczBlSA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:44:00 GMT"
-    },
-    {
-      "title": "“교육·경제 구조 바꾸겠다”…강정희, ‘체감형 변화’ 정치 강조",
-      "source": "뉴스N제주",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VVWJHMVpMeDJ6XzFLdkdnT19kYWlSdG5SSGZMcmhWSm14cTYxSU1CZkxhYmdXNURtWEZUeVFMeElQbU81OGNaU3R0dlUxOHlXMFRyZFNJSFpZZlRWRWEzdWpobHRaMkxBSWhQeA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:42:00 GMT"
-    },
-    {
-      "title": "민주당 세종시당, 6.3 지방선거 공천 발표… 주요 선거구 후보 윤곽 드러나",
-      "source": "충청뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JOEJmNW5WSUFIWDE2MnlOeGwtNnl0emgxYzdRVFEzM2gtelE3ZWhOTmhXX1NyYjRDQlBpbktQNF9WZXF1Z1NhWW1ITGZEcDNWRXJoY0hELWhnQ3A3d2owbnVNb0NPTzhWSzFuTw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 14:58:20 GMT"
-    },
-    {
-      "title": "[4월 과학의 달] 한국연구재단, 과학기술·인공지능 일상 구현…“다가온 미래”",
-      "source": "행정수도뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tRVE1Qm1HNUtPUTNvbkJvQzFkZmRxMXpWZ3g5a2s3RHBVa3JhMkR1TkwtaXZ5WlZRZmJLS25VSlhuSXlMS09xbWszOU5CbnMycF82aEhuaFoxWXVGZTd2QXpvVEd4QQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:31:18 GMT"
-    },
-    {
-      "title": "원익홀딩스·현대무벡스·뉴로메카·고영·휴림로봇,레인보우로보틱스·두산로보틱스 로봇주 동반 상승…월요일 주가 동향은?",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82TkJWWHh0UFdwekREV0hvYWtMSE1CLXVqeS01VzhGMnVXLWxwNnByN2w3S1RXTnBZcllaYmllZFhocDc4M3VYeFQ0VllEa0ZNQlBoTnRJQU5iRTdlTm80MkQ0MldubFh2?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:00:00 GMT"
-    },
-    {
-      "title": "전고체 배터리 관련주, 소재·장비 동반 상승 흐름…이수스페셜티케미컬 삼성SDI 삼성전기 대주전자재료 급등에 투자심리 확대",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM2FhcTBVQmR5NHItVnJGWGlBemJrT3RlVFBKUDF4bkY1ZkVvUThMNEJ4LVNLYmpJOUwwd2lVM01KWjd0RGl0dkpJUU1hRFp0MC1HR0NyOVlVcVczUm12MFdOQnY3eVdq?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:00:00 GMT"
-    },
-    {
       "title": "'3주 연장' 무색한 레바논 포성…이스라엘, 휴전 중 공습 강행",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1MVpzZktjRW9lVlVDMk9lY1ZTYXRqRjNWaFh3NGRVSjFWRFlFQ0prNXNPazFNai1saUhIbkhES2loSGJzWWhhak5yLVRCdzdHNXhMZVhxNkY0X1BXdWUwMWJ4QnExa095Unc?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 15:32:00 GMT"
+    },
+    {
+      "title": "엄지윤, 엄흥도 후손이었다 \"박지훈 보면 눈물 나\"(전참시)",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWlPb2dvRlNkZHFDc04zODhFazhnQjZGZ09hUmljLVVZb283Q2JsMWdoVjBHX01qeF8xSEVXR2FXMW5pRGJWRDFhX0xlSVF0Y1NudU5TT2dGMjA4YldPU3NsUDZIVkdTUUpLOEVEdTJ2MlFNZFZxa2lodjBtODdUeEhtQTJ4eVRqamlwbVhucw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:58:00 GMT"
+    },
+    {
+      "title": "인텔 코어 게이밍 PC Ultra 1939년산 나무 상자에 담긴 7개",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGFQa0pNc2t6OW9XdkNZcE1XdkQtUzNNTkR0bVFhX1AwSzN3UnJGYVJQUnlydHhkc2U0V3pmVzZqaUJ1eUJUNHZHRHJiUVFZeFJqRmdDOUtQekllMndBRHh3VWJEY2pPcENLSmdnb2dQYldUejJManJtSU5EaEIxbmF2NlRjUFNSdGg5cFV2a0ZXU0dmMnpZaFV0RkxtWlJoR0hTTWR1QzhKcDYyekNLbmtKZ3Q2Y3UyU3c?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:19:32 GMT"
     }
   ],
   "sources": [
