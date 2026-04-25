@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-04-25T19:06:37.409148+09:00",
+  "generatedAt": "2026-04-25T20:03:27.078769+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,191.92",
-      "change": "-34.13",
-      "changePercent": "-0.55%",
+      "value": "6,475.63",
+      "change": "-0.18",
+      "changePercent": "-0.00%",
       "direction": "down",
-      "updatedAt": "2026-04-17 18:05"
+      "updatedAt": "2026-04-24 18:05"
     },
     {
       "label": "코스닥",
-      "value": "1,170.04",
-      "change": "+7.07",
-      "changePercent": "+0.61%",
+      "value": "1,203.84",
+      "change": "+29.53",
+      "changePercent": "+2.51%",
       "direction": "up",
-      "updatedAt": "2026-04-18 16:28"
+      "updatedAt": "2026-04-25 20:01"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,447.43",
-      "change": "+868.71",
-      "changePercent": "+1.79%",
-      "direction": "up",
-      "updatedAt": "2026-04-18 05:40"
+      "value": "49,230.71",
+      "change": "-79.61",
+      "changePercent": "-0.16%",
+      "direction": "down",
+      "updatedAt": "2026-04-25 05:36"
     },
     {
       "label": "S&P 500",
-      "value": "7,126.06",
-      "change": "+84.78",
-      "changePercent": "+1.20%",
+      "value": "7,165.08",
+      "change": "+56.68",
+      "changePercent": "+0.80%",
       "direction": "up",
-      "updatedAt": "2026-04-18 05:38"
+      "updatedAt": "2026-04-25 05:36"
     },
     {
       "label": "나스닥",
-      "value": "24,468.48",
-      "change": "+365.78",
-      "changePercent": "+1.52%",
+      "value": "24,836.60",
+      "change": "+398.10",
+      "changePercent": "+1.63%",
       "direction": "up",
-      "updatedAt": "2026-04-18 06:15"
+      "updatedAt": "2026-04-25 06:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1100",
-      "change": "+0.07",
-      "changePercent": "+0.00%",
-      "direction": "up",
-      "updatedAt": "2026-04-18 14:17"
+      "value": "1,476.6693",
+      "change": "-4.28",
+      "changePercent": "-0.29%",
+      "direction": "down",
+      "updatedAt": "2026-04-25 06:03"
     },
     {
       "label": "100엔/원",
-      "value": "928.29",
-      "change": "+0.29",
-      "changePercent": "+0.03%",
-      "direction": "up",
-      "updatedAt": "2026-04-18 17:05"
+      "value": "926.60",
+      "change": "-0.40",
+      "changePercent": "-0.04%",
+      "direction": "down",
+      "updatedAt": "2026-04-25 19:55"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "17.7°C",
-        "feelsLike": "16.1°C",
+        "temperature": "15.8°C",
+        "feelsLike": "14.7°C",
         "highLow": "최고 23.7° / 최저 7.3°",
-        "humidity": "43%",
-        "wind": "2.5 m/s",
+        "humidity": "57%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "pm10": "26.7 μg/m³",
-        "pm25": "24.2 μg/m³",
+        "pm10": "23.9 μg/m³",
+        "pm25": "22.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-04-25 19:00"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-04-25 20:00"
       },
       {
         "location": "김포",
         "summary": "맑음",
-        "temperature": "14.5°C",
-        "feelsLike": "13.7°C",
+        "temperature": "12.3°C",
+        "feelsLike": "10.9°C",
         "highLow": "최고 21.2° / 최저 4.9°",
-        "humidity": "74%",
-        "wind": "5.2 m/s",
+        "humidity": "80%",
+        "wind": "7.4 m/s",
         "rainChance": "0%",
-        "pm10": "26.7 μg/m³",
-        "pm25": "24.2 μg/m³",
+        "pm10": "23.9 μg/m³",
+        "pm25": "22.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-04-25 19:00"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-04-25 20:00"
       },
       {
         "location": "파주",
         "summary": "맑음",
-        "temperature": "14.9°C",
-        "feelsLike": "14.0°C",
+        "temperature": "13.9°C",
+        "feelsLike": "12.5°C",
         "highLow": "최고 21.7° / 최저 4.8°",
-        "humidity": "71%",
-        "wind": "5.7 m/s",
+        "humidity": "62%",
+        "wind": "4.2 m/s",
         "rainChance": "0%",
-        "pm10": "26.7 μg/m³",
-        "pm25": "24.2 μg/m³",
+        "pm10": "23.9 μg/m³",
+        "pm25": "22.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-04-25 19:00"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-04-25 20:00"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "18.9°C",
-        "feelsLike": "18.3°C",
+        "temperature": "16.2°C",
+        "feelsLike": "15.0°C",
         "highLow": "최고 25.6° / 최저 6.4°",
-        "humidity": "59%",
-        "wind": "6.3 m/s",
+        "humidity": "64%",
+        "wind": "7.3 m/s",
         "rainChance": "0%",
-        "pm10": "30.3 μg/m³",
-        "pm25": "17.4 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-25 19:00"
+        "pm10": "10.7 μg/m³",
+        "pm25": "8.1 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "55",
+        "updatedAt": "2026-04-25 20:00"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "美연방정부 총살형 허용…트럼프 적극적 사형집행 연장선",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aFgzVmhpUFRZVHdDQ0ExR0dqWmkzNU9feS1IRmMxcmNwQVZBcnBXc283V1BRTms4QUVKS2FZeFVsZEJBaUtTMnRIaEo0dmZkbWV3VE9NXzR1ZDTSAWBBVV95cUxOU2pIMmYzcHU0aWZiUGoydVJydlRxU2hxNzN4c0Z4OGpYQ2RFQ3dDZlZEVVZMOUc2b0xaLVUxc3pkZE40Z0FoQUxtRW4tMEpEVElVdVpDWkhSZjdpODByaWQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:20:55 GMT"
+      "title": "[청년골프] 버디펏 하는 김지윤",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2eXp5V0JxMGhhWWM2TkZrcWhJWm15eGZqSU5FWW9Ydi1Va3d6THZMNjh4Sk05eHA0UlhNQ0lrU0Z6WVk3dWhYTUJrbFkxTVBFUjlhYi1JWGlwdkNzcTAzcUM0aG9aWGc1NVE?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 10:59:39 GMT"
     },
     {
-      "title": "북한, 스웨덴 주재 대사 임명…서방 외교 공관 인선 지속",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBZFJiNmJLdFM5eWFaQmZEQ3JHa2Z0MmhjUEkyUnJlM0E4UGV5T1Y0WXFVNWc1bEY5elVTQjVYdERqRkJHSnB5eXdVYVhJSTB6cWR4SFVGNUZWcmhZQWM4?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:07:30 GMT"
-    },
-    {
-      "title": "내일도 맑고 일교차 커…남부엔 오후 소나기",
+      "title": "4월 25일 MBN 뉴스센터 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tcTNoRTB4a1M4V1IydFV3ZkdyeDVlY283bzNvbEtfZEdJZGduYlpSMU5iVEF5ZlRyTERWV0N2b1FtOGFteXZFa19yN3lwRkUzLVY0?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BZGRoRlk5MkltMnY5R01LY0c3SzkwZ0NIUGdMTFY4MUFka1FnVk5XMDk0X0phUW1UN0FkWWVfNlFfYV85XzV4ZVEyQTdlaWJ5N0hB?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 10:37:00 GMT"
     },
     {
-      "title": "내륙 중심 일교차 20도 안팎…남부지방 비[내일날씨]",
+      "title": "“전문직보다 낫다”…삼전·하닉고시 열풍",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGQ21QUFd1bEF2T01kTklYZ2tFbG5UN3lubE1KRjk2Szh3UlQ5N0RhUElMQ2xpRWlscDh6R3FaMUlKcFQxdmlONE5YbjFIQ0dfX1E5eEVQOVVjYzI3NnhiZEtUONIBY0FVX3lxTFBGQ21QUFd1bEF2T01kTklYZ2tFbG5UN3lubE1KRjk2Szh3UlQ5N0RhUElMQ2xpRWlscDh6R3FaMUlKcFQxdmlONE5YbjFIQ0dfX1E5eEVQOVVjYzI3NnhiZEtUOA?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 10:04:00 GMT"
+    },
+    {
+      "title": "이란, 일부 국제선 운항 재개…전쟁후 첫 항공편 이륙",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTkhWWHBmanJ0bGswT29wSzVhdWpWUmlVOHNqcFFxeG4tRDNfUTlfbGx6MTRNS1dUcWRlN3JKNElnWGlnNzQtV0RJM3NuSVVfOXROSGJXeHhhVmlwWkdUaVVGWnBSSnZ2LXBUckY3YTVpSWRDN3V5N1c2NGR6NWRySzlPSGpzWTBlelJISVBKZ21sMDd0REstbGxlX24wUkVScTZuYmxUNVZlWDRqWnZmOENVZ1JDWGYxeGRpcERXcDNud2ZsRnd6SXJ3?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:31:08 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeG8xbFRSZTdrQkdSU2FZN2NNZ2JPMDRxckprdThESmZMUWlWdTZFMWtZYkxLZHZhM01MMUJoZXNXUHJFc2F4OEpxWTNEdVZJbVRseVRBcWo2MG1jSEdaYU1PTWtkMnVSeURNX29lSTlDWXM0QzhqeHo5MDNzRGsycXZEbUtWRjFYZGlWNk85eWg3VjVreUcwXzE0STUzNDRRVnB5U0E3MTkwQUVPWGpQdXlsQkR1N3Z0?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 10:29:39 GMT"
     },
     {
-      "title": "\"피로 맺은 75년 우정\"…백발 노병 된 영연방 영웅들 가평 찾았다",
-      "source": "아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00b3dKNWE2TGYxWWFaRlh1WU5yY2ljM21lSDVhVVpUenFwMHlSSlZTd1dReTAtOFZINnZ4SGNPel9zN1YxN0E?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:09:14 GMT"
+      "title": "'나혼렙: 어라이즈' 국제 대회 & 쇼케이스... 헌터 '류즈캉' 최초 공개",
+      "source": "ipnn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YMzNIOTlIZExFTXRsRXRJVmIwTWp3SFpNR0RNSFNwOE9IMW5VYWhhUnRwWURua2NGLXMzdDFKWUJNb1B5TkFiQXJwaHY5NzRQOHVDR2g4eTNySFVYWloyU0ltbWx1UUtV?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 10:18:40 GMT"
     },
     {
-      "title": "혜리, 재계약 계약금 안 받은 이유⋯\"스태프에게 보너스 줘라\"",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KQnRxRE51RnNRYVhZbk1RLVNWd29SYUI1OV9DeG80S3FIa2lSbTNjcGxDNEpISElVN2NBX0k1ajYyUTZzM00zbkhJU2FvNXlKN2NKbVN5MmNKckE0Y2g2TUs4bnJkQjhfSU5NbE1HYjYtZE1p?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 10:02:00 GMT"
-    },
-    {
-      "title": "호르무즈 막히자 美 에너지 수출 사상 최대…전시 특수 지속은 '미지수'",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seTRidHNKWHpvSWJGYUE3U0JIVWJtR2phTW4ta0lEUjNsSVprWG01ZWIzMFc1aGVKa1haOFBUV0F2c203TTJHMHhRN2ZyQmRFQ3c4eXlvWW8?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:21:08 GMT"
-    },
-    {
-      "title": "허경환, 통영서 양상국에 인지도 밀렸다…고정 뺏길까 '위기'[놀뭐]",
+      "title": "'건조 특보' 삼척서 산불…1시간 27분 만에 진화",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54eXgxSVVHX25hYlFhTzd2YkNyYi1QQklDSlAzYnNYbTRySzdER3lPYWV0eVdqbkVvcVVDS2R3dFVhRjZTWF9DbVQ5d2l4a3BxWEM3Q3dHV3FGRGlnOVNFU0U0SDFUVmEzUjI2cUxxbDRkd1pZWmtqNw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aRDk4Wmh0alVFODRPTmpOcXB4MXdqRk01UGVfU2Z4SUNIZzFSUG5BQlZXbklTbWNNY2pFenJtTENSaDhKelI1dVlBZFVNS0lYYTB4RzlnNjdzNGp1SmwtMA?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 10:57:00 GMT"
     },
     {
-      "title": "세종전통시장 찾은 더불어민주당 정청래 대표",
+      "title": "유재석, 명실상부 '유마허' 실력 입증…압도적 1위에 환호[놀뭐][★밤TView]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RaDJDU05RSEtkMTZjc3NFV3J5SV9uU0ZEYWlaalJhQ3NtQURONFAybnBKdFc4XzBnVm5SdDQ3dHQzcnd2UXp0cllwTXdqSkphQnpQRDYtdzJuNDRyb1lCY0FBYU5fOVA5RlptbzV3?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBheXh6d3BvMnF0TXNhR01oNHRVY0FsVUdQVFdmaWN6NE85b2tMMDVIS3Rha2NMV3g0N2Vjb05pX2ZmWTVLajQ1dlZTb2ZuZGwyRF9TajlpNDNFR01rVUs2ZmVWM2Zpand0QTZ0Mkh3LTMwM2xmbmlCaw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 10:52:00 GMT"
     },
     {
-      "title": "김대호 \"프리랜서 1년째…MBC에서 다시 부르면? 갈 것\"[불후]",
+      "title": "화물연대 \"엄정 수사·책임자 처벌\"…합의점까지 진통 예상",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wMVc4cVlvbS1nemg0Q1p2bktiem9EYUhaV2F0bUV5T19mRHU4blp6Y2xjdWZZQmdFRE5SWUFsc0RJeE0tVkd0c05uZDI3WEkzZFZjc2hoWWt2b0hBMWc2bVlQU0tkUm1rZ2ZEbkFJRXk4Vl92SmxXTA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LQjRfQnFUVlR2VXA2TmFNNmhpdVlkTG5wOGNuUW9rUUEtbExWZ09ab3dKT2FHMDd5MG1EZUFJR2RVakxuNFBCSFBXbFdrUENQeV84?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 10:41:00 GMT"
+    },
+    {
+      "title": "유재석, 전망대 앞에서 '쫄보' 인증…하하는 공포감에 '가스 누출'까지[놀뭐][별별TV]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uM2Q5X2YySVFyZ2xUV2g5c04xd2Z3TWJMWVJGYmE1bnZmT0lmQzlScHl4eGFDX3RpSW1Kend0T2NyaVVGaVdsaWR4V0NVTzd5UlFVby15bXNZMEs1Q0RuNUdzVHplOUxH?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 10:37:00 GMT"
+    },
+    {
+      "title": "'2026 ECA', 25일 진주서 개막식 개최…주요 인사+참가국 협단체 관계자 참석",
+      "source": "엑스포츠뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SQ0hUdFU4ZjNVZEdqRlFBSC1mS3hJVzFadVJhdGJvS3VxMS1fOU41OFRHTFgwd1Q4SVBLZ0pvcjNsWDN6cDRCT01yNVBHX0RwdjlEZg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 10:51:40 GMT"
     }
   ],
   "sources": [
