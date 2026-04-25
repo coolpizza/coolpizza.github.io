@@ -69,11 +69,51 @@ AQI_LABELS = [
     (100, "매우 나쁨"),
 ]
 WEEKDAY_LABELS = ["월", "화", "수", "목", "금", "토", "일"]
-SEOUL_MART_CHAINS = [
-    {"label": "이마트"},
-    {"label": "롯데마트"},
-    {"label": "홈플러스"},
-    {"label": "코스트코"},
+MART_CLOSURE_AREAS = [
+    {
+        "region": "서울",
+        "weekday": 6,
+        "occurrences": [2, 4],
+        "chains": [
+            {"label": "이마트"},
+            {"label": "롯데마트"},
+            {"label": "홈플러스"},
+            {"label": "코스트코"},
+        ],
+    },
+    {
+        "region": "김포",
+        "weekday": 2,
+        "occurrences": [2, 4],
+        "chains": [
+            {"label": "이마트"},
+            {"label": "롯데마트"},
+            {"label": "홈플러스", "available": False},
+            {"label": "코스트코", "available": False},
+        ],
+    },
+    {
+        "region": "일산",
+        "weekday": 2,
+        "occurrences": [2, 4],
+        "chains": [
+            {"label": "이마트"},
+            {"label": "롯데마트"},
+            {"label": "홈플러스"},
+            {"label": "코스트코"},
+        ],
+    },
+    {
+        "region": "익산",
+        "weekday": 6,
+        "occurrences": [2, 4],
+        "chains": [
+            {"label": "이마트"},
+            {"label": "롯데마트"},
+            {"label": "홈플러스"},
+            {"label": "코스트코", "available": False},
+        ],
+    },
 ]
 
 KMA_GRID_WIDTH = 149
@@ -333,6 +373,10 @@ def format_full_date_label(date_value):
     return f"{date_value.year}년 {date_value.month}월 {date_value.day}일 ({WEEKDAY_LABELS[date_value.weekday()]})"
 
 
+def monthly_holidays(year, month, weekday, occurrences):
+    return [nth_weekday_of_month(year, month, weekday, occurrence) for occurrence in occurrences]
+
+
 def format_local_time(iso_text):
     if not iso_text:
         return now_text()
@@ -574,28 +618,69 @@ def load_weather_data():
 def load_mart_closure_data(current_dt=None):
     current_dt = (current_dt or dt.datetime.now(TIMEZONE)).astimezone(TIMEZONE)
     current_date = current_dt.date()
-    holidays = [
-        nth_weekday_of_month(current_date.year, current_date.month, 6, 2),
-        nth_weekday_of_month(current_date.year, current_date.month, 6, 4),
-    ]
-    holiday_text = ", ".join(format_month_day_label(item) for item in holidays)
-    today_closed = current_date in holidays
+    areas = []
+
+    for area in MART_CLOSURE_AREAS:
+        holidays = monthly_holidays(
+            current_date.year,
+            current_date.month,
+            area["weekday"],
+            area["occurrences"],
+        )
+        holiday_text = ", ".join(format_month_day_label(item) for item in holidays)
+        today_closed = current_date in holidays
+        chains = []
+
+        for chain in area["chains"]:
+            available = chain.get("available", True)
+            chains.append(
+                {
+                    "label": chain["label"],
+                    "todayClosed": today_closed if available else False,
+                    "todayStatus": "오늘 휴업" if available and today_closed else "오늘 영업" if available else "점포 없음",
+                    "holidayText": holiday_text if available else "점포 없음",
+                    "updatedAt": now_text(),
+                }
+            )
+
+        areas.append(
+            {
+                "region": area["region"],
+                "monthLabel": f"{current_date.year}년 {current_date.month}월",
+                "chains": chains,
+            }
+        )
 
     return {
-        "region": "서울",
-        "monthLabel": f"{current_date.year}년 {current_date.month}월",
         "todayLabel": format_full_date_label(current_date),
-        "chains": [
-            {
-                "label": chain["label"],
-                "todayClosed": today_closed,
-                "todayStatus": "오늘 휴업" if today_closed else "오늘 영업",
-                "holidayText": holiday_text,
-                "updatedAt": now_text(),
-            }
-            for chain in SEOUL_MART_CHAINS
-        ],
+        "areas": areas,
     }
+
+
+def preserve_mart_closure_updated_at(mart_closures, previous_mart_closures):
+    previous_by_region = {}
+
+    if previous_mart_closures:
+        for area in previous_mart_closures.get("areas", []):
+            region = area.get("region")
+            if region:
+                previous_by_region[region] = area
+
+        legacy_region = previous_mart_closures.get("region")
+        legacy_chains = previous_mart_closures.get("chains")
+        if legacy_region and legacy_chains and legacy_region not in previous_by_region:
+            previous_by_region[legacy_region] = {"chains": legacy_chains}
+
+    for area in mart_closures.get("areas", []):
+        previous_area = previous_by_region.get(area.get("region"), {})
+        if area.get("chains"):
+            area["chains"] = preserve_list_updated_at(
+                area["chains"],
+                previous_area.get("chains"),
+                "label",
+            )
+
+    return mart_closures
 
 
 def load_market_data():
@@ -983,11 +1068,10 @@ def build_dashboard_data(previous_data=None):
             "location",
         )
 
-    if mart_closures.get("chains"):
-        mart_closures["chains"] = preserve_list_updated_at(
-            mart_closures["chains"],
-            previous_data.get("martClosures", {}).get("chains"),
-            "label",
+    if mart_closures.get("areas"):
+        mart_closures = preserve_mart_closure_updated_at(
+            mart_closures,
+            previous_data.get("martClosures"),
         )
 
     if gasoline.get("areas"):

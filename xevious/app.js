@@ -194,31 +194,44 @@ function renderGas(gas) {
 }
 
 function renderMartClosures(martClosures) {
-    if (!martClosures || !martClosures.chains || martClosures.chains.length === 0) {
+    if (!martClosures || !martClosures.areas || martClosures.areas.length === 0) {
         martClosureCardEl.innerHTML = '<p class="empty-state">휴업일 정보를 불러오지 못했습니다.</p>';
         return;
     }
 
     const renderedAtText = formatDateTime(viewRenderedAt.toISOString());
     const todayLabel = martClosures.todayLabel || "날짜 정보 없음";
-    const regionLabel = martClosures.region || "서울";
 
     martClosureCardEl.innerHTML = `
-        <p class="mart-summary">${escapeHtml(regionLabel)} 기준 · 오늘 ${escapeHtml(todayLabel)}</p>
-        <div class="mart-grid">
-            ${martClosures.chains.map((chain) => `
-                <article class="mart-chain-card">
-                    <div class="mart-chain-head">
-                        <p class="stat-label">${escapeHtml(chain.label)}</p>
-                        <span class="pill ${chain.todayClosed ? "down" : "up"}">${chain.todayClosed ? "휴업" : "영업"}</span>
-                    </div>
-                    <p class="mart-status">${escapeHtml(chain.todayStatus || "정보 없음")}</p>
-                    <p class="mart-holidays">이번 달 휴업일 ${escapeHtml(chain.holidayText || "정보 없음")}</p>
-                    <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
-                    <div class="meta-text">데이터 기준 ${escapeHtml(formatDateTime(itemSourceTimestamp(chain) || currentDataTimestamp() || viewRenderedAt.toISOString()))}</div>
-                </article>
-            `).join("")}
-        </div>
+        <p class="mart-summary">오늘 ${escapeHtml(todayLabel)}</p>
+        ${martClosures.areas.map((area) => `
+            <section class="mart-region">
+                <div class="mart-region-head">
+                    <p class="mart-region-title">${escapeHtml(area.region || "지역 정보 없음")}</p>
+                    <p class="mart-region-month">${escapeHtml(area.monthLabel || "기준 월 정보 없음")}</p>
+                </div>
+                <div class="mart-grid">
+                    ${(area.chains || []).map((chain) => {
+                        const unavailable = chain.todayStatus === "점포 없음";
+                        const pillClass = unavailable ? "flat" : chain.todayClosed ? "down" : "up";
+                        const pillText = unavailable ? "없음" : chain.todayClosed ? "휴업" : "영업";
+
+                        return `
+                            <article class="mart-chain-card">
+                                <div class="mart-chain-head">
+                                    <p class="stat-label">${escapeHtml(chain.label)}</p>
+                                    <span class="pill ${pillClass}">${pillText}</span>
+                                </div>
+                                <p class="mart-status">${escapeHtml(chain.todayStatus || "정보 없음")}</p>
+                                <p class="mart-holidays">이번 달 휴업일 ${escapeHtml(chain.holidayText || "정보 없음")}</p>
+                                <div class="meta-text">표시 시각 ${escapeHtml(renderedAtText)}</div>
+                                <div class="meta-text">데이터 기준 ${escapeHtml(formatDateTime(itemSourceTimestamp(chain) || currentDataTimestamp() || viewRenderedAt.toISOString()))}</div>
+                            </article>
+                        `;
+                    }).join("")}
+                </div>
+            </section>
+        `).join("")}
     `;
 }
 
