@@ -68,6 +68,13 @@ AQI_LABELS = [
     (80, "나쁨"),
     (100, "매우 나쁨"),
 ]
+WEEKDAY_LABELS = ["월", "화", "수", "목", "금", "토", "일"]
+SEOUL_MART_CHAINS = [
+    {"label": "이마트"},
+    {"label": "롯데마트"},
+    {"label": "홈플러스"},
+    {"label": "코스트코"},
+]
 
 KMA_GRID_WIDTH = 149
 KMA_SKY_LABELS = {
@@ -311,6 +318,21 @@ def now_text():
     return dt.datetime.now(TIMEZONE).strftime("%Y-%m-%d %H:%M")
 
 
+def nth_weekday_of_month(year, month, weekday, occurrence):
+    first_day = dt.date(year, month, 1)
+    offset = (weekday - first_day.weekday()) % 7
+    day = 1 + offset + (occurrence - 1) * 7
+    return dt.date(year, month, day)
+
+
+def format_month_day_label(date_value):
+    return f"{date_value.month:02d}/{date_value.day:02d}({WEEKDAY_LABELS[date_value.weekday()]})"
+
+
+def format_full_date_label(date_value):
+    return f"{date_value.year}년 {date_value.month}월 {date_value.day}일 ({WEEKDAY_LABELS[date_value.weekday()]})"
+
+
 def format_local_time(iso_text):
     if not iso_text:
         return now_text()
@@ -547,6 +569,33 @@ def load_weather_data():
         areas = [fetch_open_meteo_weather_location(location) for location in WEATHER_LOCATIONS]
 
     return {"areas": areas}
+
+
+def load_mart_closure_data(current_dt=None):
+    current_dt = (current_dt or dt.datetime.now(TIMEZONE)).astimezone(TIMEZONE)
+    current_date = current_dt.date()
+    holidays = [
+        nth_weekday_of_month(current_date.year, current_date.month, 6, 2),
+        nth_weekday_of_month(current_date.year, current_date.month, 6, 4),
+    ]
+    holiday_text = ", ".join(format_month_day_label(item) for item in holidays)
+    today_closed = current_date in holidays
+
+    return {
+        "region": "서울",
+        "monthLabel": f"{current_date.year}년 {current_date.month}월",
+        "todayLabel": format_full_date_label(current_date),
+        "chains": [
+            {
+                "label": chain["label"],
+                "todayClosed": today_closed,
+                "todayStatus": "오늘 휴업" if today_closed else "오늘 영업",
+                "holidayText": holiday_text,
+                "updatedAt": now_text(),
+            }
+            for chain in SEOUL_MART_CHAINS
+        ],
+    }
 
 
 def load_market_data():
@@ -912,6 +961,8 @@ def build_dashboard_data(previous_data=None):
     except FetchError as error:
         weather = fallback_snapshot("weather", previous_data.get("weather"), error, empty_value={"areas": []})
 
+    mart_closures = load_mart_closure_data()
+
     gasoline = load_gasoline_data(previous_data.get("gasoline"))
     if not gasoline.get("areas"):
         gasoline = fallback_snapshot("gasoline", previous_data.get("gasoline"), FetchError("No gasoline areas were fetched."), empty_value={"areas": []})
@@ -932,6 +983,13 @@ def build_dashboard_data(previous_data=None):
             "location",
         )
 
+    if mart_closures.get("chains"):
+        mart_closures["chains"] = preserve_list_updated_at(
+            mart_closures["chains"],
+            previous_data.get("martClosures", {}).get("chains"),
+            "label",
+        )
+
     if gasoline.get("areas"):
         gasoline["areas"] = preserve_list_updated_at(
             gasoline["areas"],
@@ -946,6 +1004,7 @@ def build_dashboard_data(previous_data=None):
         "usMarkets": us_markets,
         "currencies": currencies,
         "weather": weather,
+        "martClosures": mart_closures,
         "gasoline": gasoline,
         "news": news,
         "sources": [

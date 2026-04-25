@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T18:40:08.177462+09:00",
+  "generatedAt": "2026-04-25T18:54:37.384297+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -324,5 +324,40 @@ window.DASHBOARD_DATA = {
       "label": "Google News RSS",
       "url": "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko"
     }
-  ]
+  ],
+  "martClosures": {
+    "region": "서울",
+    "monthLabel": "2026년 4월",
+    "todayLabel": "2026년 4월 25일 (토)",
+    "chains": [
+      {
+        "label": "이마트",
+        "todayClosed": false,
+        "todayStatus": "오늘 영업",
+        "holidayText": "04/12(일), 04/26(일)",
+        "updatedAt": "2026-04-25 18:54"
+      },
+      {
+        "label": "롯데마트",
+        "todayClosed": false,
+        "todayStatus": "오늘 영업",
+        "holidayText": "04/12(일), 04/26(일)",
+        "updatedAt": "2026-04-25 18:54"
+      },
+      {
+        "label": "홈플러스",
+        "todayClosed": false,
+        "todayStatus": "오늘 영업",
+        "holidayText": "04/12(일), 04/26(일)",
+        "updatedAt": "2026-04-25 18:54"
+      },
+      {
+        "label": "코스트코",
+        "todayClosed": false,
+        "todayStatus": "오늘 영업",
+        "holidayText": "04/12(일), 04/26(일)",
+        "updatedAt": "2026-04-25 18:54"
+      }
+    ]
+  }
 };
