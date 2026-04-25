@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T15:14:22.065620+09:00",
+  "generatedAt": "2026-04-25T16:45:25.801783+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "22.2°C",
-        "feelsLike": "21.3°C",
-        "highLow": "최고 23.0° / 최저 7.3°",
-        "humidity": "33%",
-        "wind": "6.8 m/s",
+        "temperature": "21.8°C",
+        "feelsLike": "19.5°C",
+        "highLow": "최고 23.7° / 최저 7.3°",
+        "humidity": "31%",
+        "wind": "5.8 m/s",
         "rainChance": "0%",
-        "pm10": "20.8 μg/m³",
-        "pm25": "15.1 μg/m³",
+        "pm10": "20.6 μg/m³",
+        "pm25": "15.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "68",
-        "updatedAt": "2026-04-25 15:00"
+        "updatedAt": "2026-04-25 16:30"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "25.6°C",
-        "feelsLike": "26.1°C",
+        "temperature": "24.5°C",
+        "feelsLike": "22.9°C",
         "highLow": "최고 25.6° / 최저 6.4°",
-        "humidity": "34%",
-        "wind": "3.2 m/s",
+        "humidity": "40%",
+        "wind": "11.2 m/s",
         "rainChance": "0%",
-        "pm10": "44.8 μg/m³",
-        "pm25": "16.4 μg/m³",
+        "pm10": "48.9 μg/m³",
+        "pm25": "17.5 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "60",
-        "updatedAt": "2026-04-25 15:00"
+        "updatedAt": "2026-04-25 16:30"
       }
     ]
   },
@@ -124,8 +124,8 @@ window.DASHBOARD_DATA = {
             "price": "1,979원/L"
           },
           {
-            "district": "양천구",
-            "price": "1,984원/L"
+            "district": "마포구",
+            "price": "1,980원/L"
           }
         ]
       },
@@ -133,9 +133,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-25 10:55:41",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-25 11:00:24",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,64 +177,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[청년골프] 나이스 샷 김하은, 9번홀",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbzFqY3I5UmtSX0tER3hCa0FTLWNpZzFxSnJ0U1RiZGtDanVQREVyRVA1V0tuRE5GYXdfNlUxZ2hHSnBWcWlTaTdQeHRTUmdHd25uN0dMNDRwUkFra2p3TE1JMmYyUnJ6RlE?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 05:46:45 GMT"
-    },
-    {
-      "title": "정원오 “오세훈 시장, 자꾸 저에 대해 부정적 말씀…정책 승부했으면” [현장영상]",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JSU9sTlRsb19WdG9sdlpvYWNoRUlDQW42NXlGdmNNLVF2MGdVdGFCMlNISnJLWTFnbmx5Y0U5TFRHYW5SMUpkam9nMWR5NGZPbzRhSk9YM3h6b245OE14cXBnd9IBY0FVX3lxTE1JSU9sTlRsb19WdG9sdlpvYWNoRUlDQW42NXlGdmNNLVF2MGdVdGFCMlNISnJLWTFnbmx5Y0U5TFRHYW5SMUpkam9nMWR5NGZPbzRhSk9YM3h6b245OE14cXBndw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 05:17:00 GMT"
-    },
-    {
-      "title": "민간임대 대신 일반분양 택한 당진 지엔하임 3차",
+      "title": "“주요 길목마다 철탑 투성이..당진 또 희생해야 하나”",
       "source": "당진신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lMHFmVzlwVEJDeTQwOWpkM0RSa29WZDcwN3FuRWtxR3l3bTZIakpUUTdfZmNlbk1TSEE5c3hBUjE1UGR0YXRYRl9qQWFnVTN0d2lqVkJGRVFGSkRKdW5kQ2daWFNJdEs1?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 06:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45UTNLRkRNTnpGRm1PM2VsNng2V1RXMHpRWm50bGhiXzB6SGJlcUw2dnlTQ1Nham5fN2lLMUlvSmJ6dFRKRmZQdUQ1ek1uVk42SHpocDB3VVpIZjhhNjZ5ZUdlM3dkN1F5?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "[6·3대전] 허태정·이장우, 난타전 예고…주요 쟁점 구체화",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xYmg5RUlCTUxrMHVTempvel94Mlc5UlRGcjlkR0tqWGdIOUFfdEppWGlSU1FrU3FxUUpwcno1blE4Nk9GTTdwbmp3VWtadHA2ZUNZ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 05:23:00 GMT"
+      "title": "이란 테헤란 공항 국제선 일부 재개…무스카트·이스탄불·메디나행 운항",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13UXFVaU5WVGNiU2tKMXh1Wlp0LXZUbDlxbUxOcmhaX1g4WmpTX1VESVZYNjdBR0ZLaG4wdFRmTFAzcE54STJKR2x2VUFicGpMcVY3bmJtaWJITnVIclpES1Jn?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 07:32:44 GMT"
     },
     {
-      "title": "[부음] 권기주(DB그룹 홍보팀장)씨 모친상",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYalpEdGZubE95OFJnUWM2TE5xSV9xOHFPTTM4ZjRqNWRqWkRDaDJCSGhOSk5jZ1FuODNIWkVkVk1id1poM2FUeFpvTm9kNm5LdXl5cU1ya1E3Ym1LanJuNHpyNDZKVGZacGpzR3BkUlBNZ3Bi?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 05:20:00 GMT"
-    },
-    {
-      "title": "'2026 아시아 이스포츠 대회' 진주서 개막",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwbnhPTkdacGhRNFZaM3NGRlprS3M2MFZ4Z19tSF9ZNDhTUVlzel9OdTNZZlU0cmxXSlBwZUtPNG5SaXJpOHBRcDFKM2Z1X3d5cW5R?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 06:01:00 GMT"
-    },
-    {
-      "title": "등산하는 30대 女에 \"내 애인해도 되겠어\"…추파 던진 할아버지",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93U3Z5WndYM21nQ1FxTWFuQl9BWDdNNzBPUGlHZkViOEg1Yml0RnBCbG1XUUlaRWVpQVhweEVFbmttMGtQWG05Z2dmN0RiclBYVnRUOFFmWm9TYy04NzV5ZQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 05:16:00 GMT"
-    },
-    {
-      "title": "국힘 \"한미 관계 이상 징후\" vs 민주 \"매국 행위\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxMUF3MjFTZWxCTFg3Q0Z2ckR2NjQtMjVOQ0J6Rmd5bU9oV0k4STJOb2ZDWVlVTGtaZFVWTVU0elRoX3gtSGdiM3h6STc3RlBBUlB2b0VnWVBidVBSeHFnc0pIdUU3bkJZZTdyYUFLNUI3WmM0NUVROA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 05:18:00 GMT"
-    },
-    {
-      "title": "美, 새 관세 부과하나…‘강제노동 제품 수입’ 공청회",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByRlAtNlhSdHU3VTM3SER4aDdLb2ZlazZzWlhGN1poWjZZUTFBeUoyeTFwTVk3b3YyeU5acG0wNXJxN2RRYUNIblYxQXFXZVJOMUM1cHA0bmxDcjAwaHZ0VkU1dEE0TkxWNXd0LdIBb0FVX3lxTE9BWnFsZFloNGNRRVMwU0pTbzM2OHozZUdjaUxQRlVrNmVueTBfaWVXRGpYQ3N6dExIbjgyd3VIS0V3RmRhclRXbkt6ZG90VmJJUWE1Vm9TUzJ2eTFOUG9UbF91Smx2NmhvOGdwYnFlbw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 05:52:29 GMT"
-    },
-    {
-      "title": "中 1분기 재정수입 1332조원 2.4%↑…“3년 만에 최대폭·지출 확대 지속”",
+      "title": "산업장관 '3가지 중요한 싸움…정책적 뒷받침 제때 실행'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSENPSFdhdWJ2ckk1MUE1azVULW5Sa1J4LTY1UU55dDU5dHZVZ3F6OTlyRnBjeEw0SDF2YTRIZE84T3AxTFdmejJGdkRzY2VCX0lDa0VENGVVYmZNWE1UMDk4cG5yRjJTWDNldEhLOHVQWFZaVjhuSmh4a2Z3dzhReVRfLUNobmZOQVM0alhuY3lBME05S28tSE9UZUpSZ09fUjRSRFM0V0hRVXF0TTR2Y3ZiQ2J6aG8?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 05:19:03 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdGV2UDdjRVhhZ2pLamhvWmVEOW5OOFNtU0xBSjZDYnJIR0VKMkFkZEJKRGdkaGNWR0E0OThNeEdVNWNCYlVaaVBOREJrbWtGcTZaSlFoeWtMSFVFdnk1YW9ZaEVGR05DT2c4VjFLOFk5V244VDZnRHh5MjczdGNyVFVPZTJRWGNSM1o4djdCX0lRNWllS2swTnNhS2pTY1FvVnAzbExvc0xwdWNyMWY3Wkw4N1Y0QjA?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 07:24:13 GMT"
+    },
+    {
+      "title": "박정주 \"홍성에 투자, 돈 벌 수 있다는 확신 주겠다\"",
+      "source": "굿모닝충청",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LUmlnT0h0U2FNRFdvajhHcHRueXRTaFZnYnlhcGxfbHVMZlM5WVBiUlZoTGdJeHAwcC1CUDlUYnFnN1VFU2h3Ml9oLTl5MGdaS0lmci1WNkk0VnNWZlZNMEQyTjhuOXJ6a2tQa29vZVBrdw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 07:24:04 GMT"
+    },
+    {
+      "title": "이 대통령, 주사기 매점매석에 \"혼자 잘 살면 뭔 재미…반사회적 행태 단죄\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pcHNMNUtPcHFCekVfa01SQmFKWDhuUlNlQmF3NW5icmdNSGlJd2FVMU10bzY1UGJqd210RktmZWxSVnpKajdDNV9DYUFUSk5wakJKbTZ1eGNlUVFZaFRwMHplOVkxY0JPeGhXVG1Xa21CbzYtM0xkMw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 07:29:00 GMT"
+    },
+    {
+      "title": "정청래 당대표, 조치원 세종전통시장 방문...조상호 세종시장 예비후보와 민생현장 동행-",
+      "source": "전국도민뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54SG95VWphNjhUVy1KZmhZZFpoOG8zNUd3eGphUEtLSGpfT2g3YlNCdUZ5UDdZNFIzQmpjS1ZkYXE1Wk1seVhvN1RyNVpLMS16a1VJTEdxd3hjOUQySDJITzFYemVHVUQyblZFcXNB?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 07:36:19 GMT"
+    },
+    {
+      "title": "2차 종전협상 난항 전망⋯“이란 협상파ㆍ강경파 내부 분열”",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tWVczcTlYa01fYnNCeUs1SWFJbEpBcXZ6VzNYUEF0bGcwYV8xbS1JMW5SUTREYnVFNzBsbV9ZMlRleXFFdzVFS1o5aklLbWU5YklqVnJRQy1Pd0NFRHNLSTFWVnRlQTB0OFBSSTM4N01RMm9r?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 07:36:00 GMT"
+    },
+    {
+      "title": "양양국유림관리소, 입산자 대상 산불예방 캠페인·기동단속",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3hBbzZWRTdhcDVVd2k1c3N1dGZpWG9LOVVlRGZsckY3aURBM2hTNGZxRXd0bEE5OTVLQVBhR01qMUx1N3dBUGF3aG4xcTZrb3ZRbDVtcXF5RVpicWtraHB5Q3NGT29tMXc0TlBOQ3FZQWhjQnIxcjBvSDhkcTk4Y2dFeld1TllCZHpBMXFiNU02SGhramd0X3Ruc2VkS3BKTTM2Z1huNGtNNzBCbWlxVUdibUNQeWtm?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 07:24:13 GMT"
+    },
+    {
+      "title": "정원오, 오세훈 '李대통령 예스맨' 공세에 \"정책으로 승부\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xMUFDV1JUNVh5SHpjQ0RLNTRNaVNSTWR6bTY2MWR5VTdTdmZOdUdpbHdjSnZWYlBnQ2V3STMxdkFHcmNpekFwLXdKMGRRaDRlenNB?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 07:25:00 GMT"
+    },
+    {
+      "title": "英국왕 첫 방미 앞두고…워싱턴서 호주 국기 잘못 걸려",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2Q4ZzhadE8xQ0RjX0sxelhNT2R0Zjd2cHRneTZIekdBbEV5eDVySG4wZ2hCSjkzZ2xURXQ3WjRxalJtYlA2ZE45UWsxRUtRVFhVNjJheWRlWkFiaXBlakJyZy1UOS01Zjg5UFBpOVQzZ3d2TmpKVkhXcjBZZjc0S2JBLXhsbVNLZVcwN0dBdTVFVFhpVHYxWFdBakh0ay02dzh0QnhsdkMxcUpuRDVRbXlXa2tFOXpESGc?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 07:09:52 GMT"
     }
   ],
   "sources": [
