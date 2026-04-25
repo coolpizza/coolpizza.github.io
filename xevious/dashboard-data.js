@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T18:32:39.661636+09:00",
+  "generatedAt": "2026-04-25T18:40:08.177462+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -73,6 +73,36 @@ window.DASHBOARD_DATA = {
         "highLow": "최고 23.7° / 최저 7.3°",
         "humidity": "40%",
         "wind": "3.4 m/s",
+        "rainChance": "0%",
+        "pm10": "22.3 μg/m³",
+        "pm25": "19.7 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "68",
+        "updatedAt": "2026-04-25 18:30"
+      },
+      {
+        "location": "김포",
+        "summary": "맑음",
+        "temperature": "15.6°C",
+        "feelsLike": "14.8°C",
+        "highLow": "최고 21.2° / 최저 4.9°",
+        "humidity": "67%",
+        "wind": "5.1 m/s",
+        "rainChance": "0%",
+        "pm10": "22.3 μg/m³",
+        "pm25": "19.7 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "68",
+        "updatedAt": "2026-04-25 18:30"
+      },
+      {
+        "location": "파주",
+        "summary": "맑음",
+        "temperature": "16.4°C",
+        "feelsLike": "15.3°C",
+        "highLow": "최고 21.7° / 최저 4.8°",
+        "humidity": "61%",
+        "wind": "5.6 m/s",
         "rainChance": "0%",
         "pm10": "22.3 μg/m³",
         "pm25": "19.7 μg/m³",
@@ -177,9 +207,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "걸포주유소",
-        "address": "경기 김포시 금포로 1117-6 (걸포동)",
-        "updatedAt": "2026-04-24 20:40:49",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-04-25 08:45:48",
         "districtSamples": [
           {
             "district": "김포시",
@@ -191,9 +221,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "파주 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "파주시",
-        "stationName": "헤이리주유소",
-        "address": "경기 파주시 탄현면 평화로 809",
-        "updatedAt": "2026-04-25 14:58:47",
+        "stationName": "파주경인주유소 ㈜티에이치에너지",
+        "address": "경기 파주시 조리읍 통일로 124",
+        "updatedAt": "2026-04-25 14:54:40",
         "districtSamples": [
           {
             "district": "파주시",
@@ -204,12 +234,6 @@ window.DASHBOARD_DATA = {
     ]
   },
   "news": [
-    {
-      "title": "종전 협상 가능할까? 미국 특사 파키스탄행...이란 '직접 회동 계획 없다'",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WQ1RNa0ptRjR1Y2lWcFVSYjhHWHdERHN0LVRuRHZrR0tNeXpGZEowSV9iaW05ekpmd1VxYVFTcFpPOVNsd25QdWtOU0xIVEU1T0d4czBfNDliaFBL0gFiQVVfeXFMTmZvNHBaZnAzOUNnWXBVc0FOelBfVW9KYWQ4UUVpMUg4ZllrX29VaUFHM1QtTVBoQnc0Q2poNE5UdlpTeDFhcjBZR2Z2RGY3ekswWUJkcllUdE1vcHNjVVF1cXc?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:34:31 GMT"
-    },
     {
       "title": "“뒤에서 빵빵대도 무조건 멈추세요”",
       "source": "당진신문",
@@ -223,12 +247,6 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 25 Apr 2026 09:07:30 GMT"
     },
     {
-      "title": "장동혁, ‘직함 부풀리기’ 논란에 “분명 차관보…본질 호도 유감”",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EbTRHT3BNODVKUGJ6WU1FMGpUOHEwVUxTREE2eks3TzRlTjVvYlFFRUFtMk04SmtXeVFmOVh5Szh1cmpnOWxJeVk3MFJXTG10TktSdmhTLVc1YXlRLWt2XzZ0SdIBY0FVX3lxTE1EbTRHT3BNODVKUGJ6WU1FMGpUOHEwVUxTREE2eks3TzRlTjVvYlFFRUFtMk04SmtXeVFmOVh5Szh1cmpnOWxJeVk3MFJXTG10TktSdmhTLVc1YXlRLWt2XzZ0SQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:36:00 GMT"
-    },
-    {
       "title": "내륙 중심 일교차 20도 안팎…남부지방 비[내일날씨]",
       "source": "뉴스통",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTkhWWHBmanJ0bGswT29wSzVhdWpWUmlVOHNqcFFxeG4tRDNfUTlfbGx6MTRNS1dUcWRlN3JKNElnWGlnNzQtV0RJM3NuSVVfOXROSGJXeHhhVmlwWkdUaVVGWnBSSnZ2LXBUckY3YTVpSWRDN3V5N1c2NGR6NWRySzlPSGpzWTBlelJISVBKZ21sMDd0REstbGxlX24wUkVScTZuYmxUNVZlWDRqWnZmOENVZ1JDWGYxeGRpcERXcDNud2ZsRnd6SXJ3?oc=5",
@@ -239,12 +257,6 @@ window.DASHBOARD_DATA = {
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RaDJDU05RSEtkMTZjc3NFV3J5SV9uU0ZEYWlaalJhQ3NtQURONFAybnBKdFc4XzBnVm5SdDQ3dHQzcnd2UXp0cllwTXdqSkphQnpQRDYtdzJuNDRyb1lCY0FBYU5fOVA5RlptbzV3?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 09:17:00 GMT"
-    },
-    {
-      "title": "통웨이솔라, 한국 그린에너지 엑스포 2026에서 첨단 셀 기술 및 TNC 제품 가치 강조",
-      "source": "워터저널",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xUVZYWWF3ZnhwUjFCaHRsZU9ONXFrUjlFbzcyblBNOUh1OFJYQ1NENFlhRXdmRzdwWFZVUWU4U0xKTzd1OTctNDJEMXlPU2c5R0MzM0lFTDNiMm1sempxd3lFT1d6c3Q1MFAyYUtpUlctbE13TC1CRVVsWFk?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:33:47 GMT"
     },
     {
       "title": "[청년골프] 덕신EPC, 주니어 육성으로 골프의 뿌리를 키운다",
@@ -263,6 +275,24 @@ window.DASHBOARD_DATA = {
       "source": "이투데이",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96S25WQ0g0WE1UMmRpck16cEpqdjJ6VW1XRlI4cHc5UzZvdkVwcUg0UWpackZXMEdCZGpmRFR5NHhzN1c4ejVJM1B2UlVjeFdnM1BzWVhpa2JVU21idFUwZUJTVU1zb3ZHZ2tJN2IxRDZfOGhD?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 09:02:00 GMT"
+    },
+    {
+      "title": "美연방정부 총살형 허용…트럼프 적극적 사형집행 연장선",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUUl4bXhUbU1FVDI2Z0lhMFBaMElnZzRPOUp4bGpxcFFGU2xDYWlUdi1TYjRGOEdTem1DZ0NrQnVQaFpoVmUyWlhaSlhFZmEybkZtWWpsaG5DX0xHVXNyTklqYnFZcUZxaWl2Z19BSFhGTTlDS1J5X3hlZlFWRHBSMThfc1B4RGEyd3A3RDFtaXFYYm9uVk1nSEFXdlBLWDNoTkJqMlltSDVCeW9WMDNtamlpM21mVjBQZ0I1eFRpTV8yNkhHYW9OcU1n?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:29:30 GMT"
+    },
+    {
+      "title": "김대호 \"프리랜서 1년째…MBC에서 다시 부르면? 갈 것\"[불후]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wMVc4cVlvbS1nemg0Q1p2bktiem9EYUhaV2F0bUV5T19mRHU4blp6Y2xjdWZZQmdFRE5SWUFsc0RJeE0tVkd0c05uZDI3WEkzZFZjc2hoWWt2b0hBMWc2bVlQU0tkUm1rZ2ZEbkFJRXk4Vl92SmxXTA?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:29:00 GMT"
+    },
+    {
+      "title": "조갑제 \"장동혁은 민주당 도우미…정치판서 제거해야\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NRlZTZGhPaVhPNTQ4MlFvbWJYT2pCS0dib2RfREViLXlRWnBKUFdISExxOW16SDItLVBxdWp2ZlZhX0hYMlk0cEhScGxrZ21pT3Jn?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:18:00 GMT"
     }
   ],
   "sources": [
