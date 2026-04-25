@@ -784,6 +784,22 @@ def load_gasoline_data(previous_gasoline=None):
         if fallback_area:
             areas.append(fallback_area)
 
+    try:
+        gimpo_result = fetch_district_gasoline("경기도", "02", "김포시")
+        areas.append(summarize_gasoline_area("김포 최저가", [gimpo_result]))
+    except FetchError as error:
+        fallback_area = fallback_gasoline_area(previous_gasoline, "김포 최저가", error)
+        if fallback_area:
+            areas.append(fallback_area)
+
+    try:
+        paju_result = fetch_district_gasoline("경기도", "02", "파주시")
+        areas.append(summarize_gasoline_area("파주 최저가", [paju_result]))
+    except FetchError as error:
+        fallback_area = fallback_gasoline_area(previous_gasoline, "파주 최저가", error)
+        if fallback_area:
+            areas.append(fallback_area)
+
     return {"areas": areas}
 
 
