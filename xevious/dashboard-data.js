@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-26T03:32:58.876848+09:00",
+  "generatedAt": "2026-04-26T04:26:45.079012+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "10.9°C",
-        "feelsLike": "8.9°C",
-        "highLow": "최고 22.3° / 최저 9.4°",
+        "temperature": "9.8°C",
+        "feelsLike": "7.7°C",
+        "highLow": "최고 22.0° / 최저 9.2°",
         "humidity": "64%",
-        "wind": "4.4 m/s",
+        "wind": "3.9 m/s",
         "rainChance": "0%",
-        "pm10": "62.9 μg/m³",
-        "pm25": "61.2 μg/m³",
+        "pm10": "61.9 μg/m³",
+        "pm25": "59.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 03:15"
+        "updatedAt": "2026-04-26 04:15"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "7.2°C",
-        "feelsLike": "4.2°C",
-        "highLow": "최고 20.9° / 최저 5.7°",
-        "humidity": "79%",
-        "wind": "10.5 m/s",
+        "temperature": "6.5°C",
+        "feelsLike": "3.4°C",
+        "highLow": "최고 20.2° / 최저 5.5°",
+        "humidity": "81%",
+        "wind": "11.2 m/s",
         "rainChance": "0%",
-        "pm10": "62.9 μg/m³",
-        "pm25": "61.2 μg/m³",
+        "pm10": "61.9 μg/m³",
+        "pm25": "59.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 03:15"
+        "updatedAt": "2026-04-26 04:15"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "8.7°C",
-        "feelsLike": "5.1°C",
-        "highLow": "최고 20.9° / 최저 5.4°",
-        "humidity": "54%",
-        "wind": "9.7 m/s",
+        "temperature": "7.1°C",
+        "feelsLike": "3.5°C",
+        "highLow": "최고 20.7° / 최저 5.6°",
+        "humidity": "67%",
+        "wind": "11.3 m/s",
         "rainChance": "0%",
-        "pm10": "62.9 μg/m³",
-        "pm25": "61.2 μg/m³",
+        "pm10": "61.9 μg/m³",
+        "pm25": "59.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 03:15"
+        "updatedAt": "2026-04-26 04:15"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "7.3°C",
-        "feelsLike": "5.9°C",
-        "highLow": "최고 21.4° / 최저 7.1°",
-        "humidity": "97%",
-        "wind": "4.6 m/s",
+        "summary": "맑음",
+        "temperature": "7.1°C",
+        "feelsLike": "5.0°C",
+        "highLow": "최고 21.3° / 최저 7.1°",
+        "humidity": "94%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
-        "pm10": "27.9 μg/m³",
-        "pm25": "24.7 μg/m³",
+        "pm10": "27.3 μg/m³",
+        "pm25": "24.0 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "41",
-        "updatedAt": "2026-04-26 03:15"
+        "updatedAt": "2026-04-26 04:15"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,978원/L",
         "lowestDistrict": "금천구",
-        "stationName": "㈜씨더블유이엔지",
-        "address": "서울 금천구 남부순환로 1410 (독산동)",
-        "updatedAt": "2026-04-25 23:11:04",
+        "stationName": "(주)화동유업 화동주유소",
+        "address": "서울 금천구 시흥대로 484",
+        "updatedAt": "2026-04-25 14:12:02",
         "districtSamples": [
           {
             "district": "금천구",
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-25 23:50:42",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-25 18:01:24",
         "districtSamples": [
           {
             "district": "계양구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "태리알뜰주유소",
-        "address": "경기 김포시 고촌읍 김포대로451번길 3",
-        "updatedAt": "2026-04-26 00:59:46",
+        "stationName": "걸포주유소",
+        "address": "경기 김포시 금포로 1117-6 (걸포동)",
+        "updatedAt": "2026-04-24 20:40:49",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,40 +376,52 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "Westwood, Boyd County 대기질 지도",
-      "source": "IQAir",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbXp2cUdON2xCeVk4SGpLQWZmYlI2ajcyZS1jelpVeERYQjFwbVZPN0dPY3hKUEZYdWRzaFdsbG1zenlQN29LbVIza2RUcU9WbkFQazVZRndqdjB2czZ0UWRiNHpMa3dodmFYenczSzRibnJwZXZEVTh3enFnc1U?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 18:12:35 GMT"
-    },
-    {
-      "title": "트럼프 \"이란 협상단, 언제든 美에 연락 가능\"",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84V0lfMVktajNIZVYtck1FNVRYdlA2RXl4WXFRSW1qa3B6bnpHOEpDOW84NzJNYTV4RllPdUZ5ZzNpVjFDNExWcXFBS3BCUkVV?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 18:19:05 GMT"
-    },
-    {
-      "title": "박서진, 연락 두절 母 찾아 병원행 \"암인지 확인해야 한다\" 충격",
+      "title": "'강남 불패' 8주째 굴욕…성동·성북 '쌍끌이'에 서울 집값 상승폭 확대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzc1NkMTBWNTVabC02MU4zZHNtX0NVdXhKVWFHUzRQUzB3OGgydHN1aGlfQ0ZqTE1WVU9SRTFQUW5aTktYajc1OW55cmhpTFFld3Z3?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 17:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6YV90azZxdzFtYWtWb29DbmwzSERPVjVyQXRnSTN3X1FSS3puejloMnZVVTBpQ3ZUNDN3b1Y4ZDRQd1U1dFJmWkdtWTV4cGxGUHR3UEdtbXVjQ2c4MGg0RnNKUVdKQlUxZ2dHTkVGeExmbVlncnBVSA?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 19:20:00 GMT"
     },
     {
-      "title": "박서진母, 갑상샘 혹 2년 방치…\"또 암이면 자식들 어떻게 보나\" 눈물",
+      "title": "美-이란, 주말 협상 무산…트럼프 \"대화 원하면 전화하라\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzWFRickpFcU1oSXFjdVBvVzBvYVJmOW4tTUl1NDBvcFNVaHBBTzJpaDlLRUdNdlR3TzFscGNodVE0V2tVT3BGSVZEVGFJRkdDdGVOellvb0h4ZFBuOXV5eGpDSlhrNE10dVBoaWpDVWtjcUc3blFrUg?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 18:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4M2JPQ2NnbC1jcWhMTC1wbGJydkUtT082RURIZ2ctSWNZYjZyaUUtbGNWRFY4QUtHVmlZU2k3UHNwa2hzbHVvVlRpb1AySjRoWjJOVG1xSXozaWRRWGFacHZhcS1BdGFPN2c?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 18:37:00 GMT"
+    },
+    {
+      "title": "카제로스 익스트림 1막 업데이트! 보상은?",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tMG5PQjhTNzBEWkJ4NGxqcjVBOF9MOUZzclY2bnM2ODlWVTQwbFVfZmpkdWNrSlFRZmFfMTRFdHVGYXJBVC1CTG9tMzdXenFRSGpCMmo1QU84eTNrdnI3LTRnQmRncy0wamFQNHh6bw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 18:37:33 GMT"
+    },
+    {
+      "title": "\"암 지겨워\" 박서진, 母 걱정에 오열…조직검사 결과는 '혈관종'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15bDlJa3gzZ0U4NkRmdnNYTXY1OGhCZUpWUlhwMnFwWWdrSVBTR2g4aU93cFRGREJPOS1KcXo4d2d0ZkpMbWZTWXNuTGl1NkpYMENr?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 19:06:00 GMT"
+    },
+    {
+      "title": "대구·경북 일부 5㎜ 안팎 소나기…아침 6도·한낮 27도",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wajdIdzZmQ3ZmT0RWajBOejBHQ0d1YWFXWm94T194eVV3dTVtd1FzWC1TdXVWaC1oOFlBTjY0VVJuc2RLdkZFRk15X2NXOGRDMk5wOVhBQklvUjlnNFYtRw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 19:02:00 GMT"
+    },
+    {
+      "title": "방망이 놓쳐 심판 머리 직격했던 日리그 외인타자, 이번엔 포수 머리 강타→\"또 너야? 대책 마련해라!\"",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xc0pyMDltYkZNV1ExVTBReGxIQnI1eDhzMHJZMHg1Ykx3R3BHLWpIWXVzUVFIa19KcXp5emJTRGUxTWRsU1hqeGI4Y2dyZVc0ZHByLVk2OGR5UE5n?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 18:33:00 GMT"
+    },
+    {
+      "title": "박서진, 母 수술 숨긴 부모에 절연 선언 \"인연 끊자…난 가족 없다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rZUxkWXVmLXMxaHpPRWVjN2tfRVlpR3pPSlVrSmtmYWFYMzJ2bGlFZUZlYnpWTnJhUlRzVElfajBteWIxbzZlWm1NcU5nSUNmSDBB?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 18:43:00 GMT"
     },
     {
       "title": "[속보] 트럼프 \"美 대이란 협상단 파키스탄행 취소\"…2차 종전 협상 무산",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEctai1GZndJNjBXdElWZC1fQzdVeFRqMlJtSnNBRFBEVE01c0t4OThpVlNQSGZrd2RSVEVNaC1jRGFHTEV3SVpVZ1RzME1uYzVCYVNuSWZlT0xaMHVEcjdTTTNGM0FpdjlUWEQyYUt6S0RCakN3aWNlaURoQ3dWRWZDZnRhS3lYTllYaE9lTXdsS2tDVC0walRFbE5sdw?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 16:03:00 GMT"
-    },
-    {
-      "title": "엄지윤, 엄흥도 후손이었다 \"박지훈 보면 눈물 나\"(전참시)",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWlPb2dvRlNkZHFDc04zODhFazhnQjZGZ09hUmljLVVZb283Q2JsMWdoVjBHX01qeF8xSEVXR2FXMW5pRGJWRDFhX0xlSVF0Y1NudU5TT2dGMjA4YldPU3NsUDZIVkdTUUpLOEVEdTJ2MlFNZFZxa2lodjBtODdUeEhtQTJ4eVRqamlwbVhucw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 15:58:00 GMT"
     },
     {
       "title": "인텔 코어 게이밍 PC Ultra 1939년산 나무 상자에 담긴 7개",
@@ -422,18 +434,6 @@ window.DASHBOARD_DATA = {
       "source": "GameGPU",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnE4b0FQbi1IR1dmR2lUZjRPTXIxRm10SExvVVk1R1lvNzdxcWdUTTVEY08xbEYzUDg4WUEzMExFSUJ2X1dJRm5wcHUyUDNnd3NJYVdYX05VTndvWmZGTUJJOUNIbG80bG9RdWN2TmZCeVFRZlhJV0Q2WDhSRlZ6WFJHczJrTkV2MlV0Z0lXWVJBUQ?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 14:53:16 GMT"
-    },
-    {
-      "title": "\"이란처럼 말라카 해협도 통행료 받자\" 제안했던 인니 장관, 발언 철회",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclpjYkx3X3o1UXF3UG93STJUQjdFbUR0OS11bGV0SzNHZWdXaUZNeGVySmNsVGdzY3B6STRnaHVPX3Q5NE4tc2pka092WlI2TjdqOTFfalVpNjc4WElfbjBjT0dsSzBsNkdTU2dkaV9BUlQ0U1BuOElxU2JyQmk3VHVfLTJzN2tNcFAyUTVGRzhHU2dkRHZhN0tXYTFWZw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 14:28:49 GMT"
-    },
-    {
-      "title": "신동엽, '신보람 ♥' 지상렬에 \"집 빼고 다 사줄 것..내년 봄 결혼 추천\"[살림남][★밤TView]",
-      "source": "ASIA ARTIST AWARDS 2025",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aX2V3MVU0V1lETXRZRF9GaWdLN09JRFVST0xiRzRzVmJzaUZ2VGxLQUlYVFBkeER3Z1ljUXdlRTFnSHdwUUlQeW9Dem9UOVlMWHdmcUd6YnlLMmNPRnVkYQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:57:04 GMT"
     }
   ],
   "sources": [
