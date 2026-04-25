@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T23:26:58.900544+09:00",
+  "generatedAt": "2026-04-26T00:10:08.457400+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,68 +67,68 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "location": "서울",
-        "summary": "맑음",
-        "temperature": "12.5°C",
-        "feelsLike": "11.2°C",
-        "highLow": "최고 23.7° / 최저 7.3°",
+        "summary": "대체로 맑음",
+        "temperature": "12.0°C",
+        "feelsLike": "10.4°C",
+        "highLow": "최고 22.6° / 최저 9.1°",
         "humidity": "68%",
-        "wind": "3.0 m/s",
+        "wind": "4.1 m/s",
         "rainChance": "0%",
-        "pm10": "46.4 μg/m³",
-        "pm25": "45.1 μg/m³",
+        "pm10": "52.2 μg/m³",
+        "pm25": "50.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-04-25 23:15"
+        "updatedAt": "2026-04-26 00:00"
       },
       {
         "location": "김포",
-        "summary": "맑음",
-        "temperature": "11.0°C",
-        "feelsLike": "9.0°C",
-        "highLow": "최고 21.2° / 최저 4.9°",
-        "humidity": "66%",
-        "wind": "5.6 m/s",
+        "summary": "대체로 맑음",
+        "temperature": "10.5°C",
+        "feelsLike": "8.3°C",
+        "highLow": "최고 21.2° / 최저 6.3°",
+        "humidity": "67%",
+        "wind": "6.3 m/s",
         "rainChance": "0%",
-        "pm10": "46.4 μg/m³",
-        "pm25": "45.1 μg/m³",
+        "pm10": "52.2 μg/m³",
+        "pm25": "50.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-04-25 23:15"
+        "updatedAt": "2026-04-26 00:00"
       },
       {
         "location": "파주",
-        "summary": "맑음",
-        "temperature": "11.2°C",
-        "feelsLike": "8.7°C",
-        "highLow": "최고 21.7° / 최저 4.8°",
-        "humidity": "59%",
-        "wind": "6.8 m/s",
+        "summary": "대체로 맑음",
+        "temperature": "10.4°C",
+        "feelsLike": "7.5°C",
+        "highLow": "최고 21.3° / 최저 5.8°",
+        "humidity": "58%",
+        "wind": "8.2 m/s",
         "rainChance": "0%",
-        "pm10": "46.4 μg/m³",
-        "pm25": "45.1 μg/m³",
+        "pm10": "52.2 μg/m³",
+        "pm25": "50.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-04-25 23:15"
+        "updatedAt": "2026-04-26 00:00"
       },
       {
         "location": "익산",
-        "summary": "맑음",
-        "temperature": "10.7°C",
-        "feelsLike": "9.8°C",
-        "highLow": "최고 25.9° / 최저 6.4°",
-        "humidity": "89%",
-        "wind": "4.7 m/s",
+        "summary": "흐림",
+        "temperature": "10.1°C",
+        "feelsLike": "8.9°C",
+        "highLow": "최고 20.7° / 최저 7.2°",
+        "humidity": "92%",
+        "wind": "5.9 m/s",
         "rainChance": "0%",
-        "pm10": "17.7 μg/m³",
-        "pm25": "16.6 μg/m³",
+        "pm10": "22.7 μg/m³",
+        "pm25": "21.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-04-25 23:15"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-04-26 00:00"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 4월 25일 (토)",
+    "todayLabel": "2026년 4월 26일 (일)",
     "areas": [
       {
         "region": "서울",
@@ -136,31 +136,31 @@ window.DASHBOARD_DATA = {
         "chains": [
           {
             "label": "이마트",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 18:54"
+            "updatedAt": "2026-04-26 00:04"
           },
           {
             "label": "롯데마트",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 18:54"
+            "updatedAt": "2026-04-26 00:04"
           },
           {
             "label": "홈플러스",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 18:54"
+            "updatedAt": "2026-04-26 00:04"
           },
           {
             "label": "코스트코",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 18:54"
+            "updatedAt": "2026-04-26 00:04"
           }
         ]
       },
@@ -238,24 +238,24 @@ window.DASHBOARD_DATA = {
         "chains": [
           {
             "label": "이마트",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 19:06"
+            "updatedAt": "2026-04-26 00:04"
           },
           {
             "label": "롯데마트",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 19:06"
+            "updatedAt": "2026-04-26 00:04"
           },
           {
             "label": "홈플러스",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 19:06"
+            "updatedAt": "2026-04-26 00:04"
           },
           {
             "label": "코스트코",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "김포감정주유소",
-        "address": "경기 김포시 김포대로 1135",
-        "updatedAt": "2026-04-25 17:59:15",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-04-25 17:59:55",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "민주당 여수시장 후보, 서영학 후보 선출",
+      "title": "민주당 세종시당, 6.3 지방선거 공천 발표… 주요 선거구 후보 윤곽 드러나",
+      "source": "충청뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JOEJmNW5WSUFIWDE2MnlOeGwtNnl0emgxYzdRVFEzM2gtelE3ZWhOTmhXX1NyYjRDQlBpbktQNF9WZXF1Z1NhWW1ITGZEcDNWRXJoY0hELWhnQ3A3d2owbnVNb0NPTzhWSzFuTw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:58:20 GMT"
+    },
+    {
+      "title": "대기 건조하고 일교차 커…남해안 등 소나기[오늘날씨]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1Vi1HZVZTOC1LOW00SUgyVE9sTnNLSlBvR2EzQnRPWFNmbG9hN2JPR3RIbHU0TGlKZFlrSmRUbTdKUHZFRlpiTHZGbWp2Tm5HUE84?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 14:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90VmVFZHFfUWNmekZQZ0MxbnZCNWN4MWtXVEVUbHREYVJNNV81Z3k3YloyWC1IMDhRLW1VYUxQN1NpUk9pYkFkWHF6T1pDaXU5NUE4?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:01:00 GMT"
     },
     {
-      "title": "민주당 장성군수 최종 후보로 현직 김한종 후보 선출",
+      "title": "원익홀딩스·현대무벡스·뉴로메카·고영·휴림로봇,레인보우로보틱스·두산로보틱스 로봇주 동반 상승…월요일 주가 동향은?",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82TkJWWHh0UFdwekREV0hvYWtMSE1CLXVqeS01VzhGMnVXLWxwNnByN2w3S1RXTnBZcllaYmllZFhocDc4M3VYeFQ0VllEa0ZNQlBoTnRJQU5iRTdlTm80MkQ0MldubFh2?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:00:00 GMT"
+    },
+    {
+      "title": "'전참시' 엄지윤, 유부남 김원훈과 불편한 결혼 심경⋯\"스트레스, 불륜 하는 기분\"",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NS3lZd0U4b0tMMHhYT0N3alZTZlB2cGRubWRFQ3gycnBWRHVlcXZhOFRJdzBkSkNwOFNNd3Fsak95YnpBVUJicnBET0J3eFdKLS1QMFphek9Pc0RLM2FZdWhDM0Z5djVJS1JtT3d3UWZVVzJf?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:55:00 GMT"
+    },
+    {
+      "title": "양치승, '15억 빚' 도움 준 박하나와 재회…의리 남매 투샷",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wQ1hPbWZEUERpT3pvR3U4WmhJTDBjbjhqSldmQU5DUGI1WXBweVQ5UTlzREZ6REFqRWRtcnFHMG1PTGNma0NLRzh5Q1hvTHAzWFA0?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 14:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pZFVBVXBCTGdlM3k3ZXZMNmlTUHM0SzlQQlR3SFJ3ZVlNS1NtNmRNcmVuVC0tLUR2cVFNMml6Nk1WQ1hCSHI1MFVnWklLVUdhOWt3?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:57:00 GMT"
     },
     {
-      "title": "'살림남2' 지상렬, 신보람과 내년 봄 결혼?···\"2세는 딸이 좀 더 좋을 듯\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QQ000OGI2V3k1TFhCbVBZQXRSMDNsb3ViVndRNThmeElMUFdoTlFaZ0N6SEoxRjRKV01tbE05ZW5iTUp4VE5LUE9LZEQ1ak9QSWcxLVVoWjhOcU02bUhzbHBwcGxCQzQ1?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:47:00 GMT"
-    },
-    {
-      "title": "울진 죽변 앞바다서 스쿠버다이빙 30대 실종…해경 수색 나서",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QZEs3azRhVTlSdWJNU1psYzhrSFlKNjlQYktYaUFrMnpndkt3eFYxUVFSOUhYb1E1OGEyZDJlbDRqRFZ3ZTlmOUM5cVB3dTIzYzFv?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:42:00 GMT"
-    },
-    {
-      "title": "변우석, 노상현에 질투 폭발 \"아이유 내 안사람…언행 주의\"[대군부인][★밤TView]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiSXpMNTRfbG9ZNG1WLXVMUFp0ckZ4eEwtTDVobjU0eVBwZVhlSW9YM1kwUnhhbXVZNkUyVndKOFZwekFVMDBEem05UFg0ZmV2WVI0?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:47:00 GMT"
-    },
-    {
-      "title": "[랭킹뉴스] 상위권 점수 140대 ‘밀집’…2026년 AI 모델 순위, 불과 몇 점 차",
-      "source": "스타트업엔",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mdVN3TXVFZlFXejhobzJzT0xkN05OTHZDZVhiM2dzUVZPeXVSdWd2ZzRhTEUwQ3lQOE9XeWx6MDVabmIwTDlzcHBLa2l5cVUzU0Rrcm0tYkxFLVByNGg4Z2xjb3hlYURS0gFsQVVfeXFMT01Ia2VGOVcyX2QzVkJMZ0ZMOV95Q2k3ZEVDalpoOEdUZGx0X1ZqQ1ZEUzBOQjRjcmNvTFIzanFXYnQzRzA5bVhfN2R5cVczU0xuY3kzdDNLcm5SaTMzWnU1d2h3LWFpclZrUFZ0?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:33:53 GMT"
-    },
-    {
-      "title": "공승연, 과거 성준 유언 조작 \"아이유, 변우석 약점될 것\" 독기 폭발[대군부인][별별TV]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HTnFkOHhWOHhTS3pEcmNvVll1dEpCRC1VM1ZqdUFJQVlfNHVwTXBONHRoWHJ3cUpYVnV1N29fZW1DQ3JlQmFyU2t0N0NQLVI5cjNCSF9kTmZSTWZPNm4wQjRPcndpSlUyNGVsQzROYVA2WTFKdHhLRQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:38:00 GMT"
-    },
-    {
-      "title": "악어 서식지서 '웃통 까고 샷?'…“태닝하려고?” “악어가 더 놀랐겠다”",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YV3dDNmp0TXY2NndYdkNiWVNMZ1Bwc05odDJUZjc4MFVCUngzUFM0bDFmU1RHenN2eXEwTTdwc1l6MkVCb2p4Mjg4dWlEWWk3UUJycjlsR2NmRVZhOVRPVHBn?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:30:00 GMT"
-    },
-    {
-      "title": "[포토]아마추어 현세린,패기넘치는 임팩트",
+      "title": "[포토]이다연,무빙데이 파이팅 할게요",
       "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDNqS0pDcWd1WUl2b1RpQzA5UThVa0lIRUE0ZVI4bTBkOVVSNU9KaWVmMmRWdDNrMVVNRTI1MzAtVHlvSXhNRi1fcWtPd05jZTlHeG1HTk9kbGtURFVFallLWUI0RnRvRXpDXzduTkJSSmpaNjB3VF9EVzVNbGhGVQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 14:00:13 GMT"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1poR0ZPZkxkbmxtQUJWMmVTTUlmd0Y3UE5aaHJ3YWRLaVJXdDd4NEg5Q2djWTJqT0NHakVPVUpNVjQtYk0temNBbl9OUDJvaG9NT3gxN1ZHUHg5cW1GRFRTdTdKdnRxUHFHN1VTdDJjZG9jNXRGUGhsYWNCOXpNaQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:01:08 GMT"
     },
     {
-      "title": "오존, '전소니 동생' 전주니와 26일 결혼…9년 열애 결실",
+      "title": "전고체 배터리 관련주, 소재·장비 동반 상승 흐름…이수스페셜티케미컬 삼성SDI 삼성전기 대주전자재료 급등에 투자심리 확대",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM2FhcTBVQmR5NHItVnJGWGlBemJrT3RlVFBKUDF4bkY1ZkVvUThMNEJ4LVNLYmpJOUwwd2lVM01KWjd0RGl0dkpJUU1hRFp0MC1HR0NyOVlVcVczUm12MFdOQnY3eVdq?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:00:00 GMT"
+    },
+    {
+      "title": "엄지윤, 성공 후 母에 명품백 FLEX…\"지갑에 현금까지 두둑이\"[전참시]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QSTVvTlZ1NFJOY2NWMm9CenV2dk9HNU8tOVJFbVliU2xLdU9lUkNQTERUZk9BSDNycnZKUjlPQ3FGSXBtRVBUS1huR00yTUZPdHBVaG4wQ0lTeDZFUC00Yg?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 13:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TNEozQkM2R25Hczdqc2wtSW8zQ0NuZkhNZjZRWm94cU45cXJjaFhYMW1iMlBXNFpSM2JCanFVMF9aazN4akVXLVVyV2VyQWJZNE9J?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:53:00 GMT"
+    },
+    {
+      "title": "한국 기업 AI PC 도입률 37%…아태 평균 못 미쳐",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzNTNOQ3ZvUXZwQ1BNbzlKQmh0VWpSSkdvM1BEMUhPMjY3bFp5LWZzS0ZkY1UzNnlRYnRjZmR0X3FvblVVbE1zenB4OVVMcXY3bGRZ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 14:41:00 GMT"
+    },
+    {
+      "title": "[비즈토크] 유가 100달러에 코스피 7000?…상식 파괴되는 '반도체 광기' 어디까지",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SejBVUVFKU1hJMXgzTnF0aWtLUE5pWGNNWk8zVnR0S1V0b2tqSkhSY05YOWM2b1AtYzd6VC1UVVE2cDJ0eGhSSEtvcWdhMzNIUjg5aHFxREdRLTlhNm5UdQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:03:00 GMT"
     }
   ],
   "sources": [
