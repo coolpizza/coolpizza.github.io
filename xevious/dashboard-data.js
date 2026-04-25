@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-26T05:00:41.718122+09:00",
+  "generatedAt": "2026-04-26T05:36:42.451157+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "9.6°C",
-        "feelsLike": "7.7°C",
+        "temperature": "9.3°C",
+        "feelsLike": "7.1°C",
         "highLow": "최고 22.0° / 최저 9.2°",
         "humidity": "64%",
-        "wind": "1.8 m/s",
+        "wind": "3.5 m/s",
         "rainChance": "0%",
         "pm10": "61.9 μg/m³",
-        "pm25": "59.8 μg/m³",
+        "pm25": "59.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 04:45"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-04-26 05:30"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "5.8°C",
-        "feelsLike": "2.9°C",
+        "temperature": "5.6°C",
+        "feelsLike": "3.2°C",
         "highLow": "최고 20.2° / 최저 5.5°",
-        "humidity": "87%",
-        "wind": "9.7 m/s",
+        "humidity": "90%",
+        "wind": "7.3 m/s",
         "rainChance": "0%",
         "pm10": "61.9 μg/m³",
-        "pm25": "59.8 μg/m³",
+        "pm25": "59.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 04:45"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-04-26 05:30"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "6.0°C",
-        "feelsLike": "2.8°C",
+        "temperature": "5.7°C",
+        "feelsLike": "3.1°C",
         "highLow": "최고 20.7° / 최저 5.6°",
-        "humidity": "79%",
-        "wind": "10.2 m/s",
+        "humidity": "82%",
+        "wind": "7.1 m/s",
         "rainChance": "0%",
         "pm10": "61.9 μg/m³",
-        "pm25": "59.8 μg/m³",
+        "pm25": "59.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-04-26 04:45"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-04-26 05:30"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "7.1°C",
-        "feelsLike": "4.8°C",
+        "temperature": "7.3°C",
+        "feelsLike": "5.0°C",
         "highLow": "최고 21.3° / 최저 7.1°",
-        "humidity": "93%",
-        "wind": "8.9 m/s",
+        "humidity": "90%",
+        "wind": "8.7 m/s",
         "rainChance": "0%",
-        "pm10": "27.3 μg/m³",
-        "pm25": "24.0 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "41",
-        "updatedAt": "2026-04-26 04:45"
+        "pm10": "26.7 μg/m³",
+        "pm25": "23.0 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "39",
+        "updatedAt": "2026-04-26 05:30"
       }
     ]
   },
@@ -376,10 +376,16 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "'몰아보기'에서 '지금 보기'로…OTT, 라이브 승부수",
+      "title": "[오늘의 주요일정] 정치·정부 (26일, 일)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ISGlXZ1BZR19lb19XNENFOG1fRG0xQ05fczFMVzd6N1dyX2hOZWdxNS15aXRQazRDNllEdzdGX3BPNGdVcVJiWnJSbUlHSEJycC1uY3UxOE4yQQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[분양캘린더] 4월 4주차 '공덕역자이르네' 등 청약…3557가구 일반분양",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hek5kdkNfNUUtSFh0cG9HVms5VGZ5MTR4clhKRFlOclhnTVZycXBHYU4wblVSX1hkR1NxeTNaY3BfSWkwNkgxNHkyUDY1ODZoNWlYR25lRk0zVWdoMjkxaA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 19:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GMEZSSzFhd1VzcXVhTW5pSk1UV3ZIQjlWSFR6T04wRHd6YVdENURtVng0UGxyV3pPTS1EZjRaWWYwTlJOTFJSUDBaNmk5ZHNtMng0c21VV3RMcWxjdTZ3SGhHeERsLU5zMUdIa2lGaWozT3ltWkVYeQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 20:30:00 GMT"
     },
     {
       "title": "5대 주요 디파이(DeFi) 프로토콜, rsETH 브리지 버그로 인해 잠긴 30,765 ETH를 해제해 달라고 Arbitrum DAO에 요청",
@@ -388,52 +394,46 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 25 Apr 2026 19:41:04 GMT"
     },
     {
+      "title": "'추경호 vs 유영하' 국힘 대구시장 후보 오늘 결정된다…김부겸과 대결",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNTNpaS1HVDR3SklfUFFBZmxWRHZtVGpFQm9ybFJqMWNWYlM0UFo1LVhwRnJZYWdvaExhSHh4Q3ZnaDBORUxTaUgxV0IzclQxWE1n?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 20:01:00 GMT"
+    },
+    {
+      "title": "건강식인 줄 알았는데…김밥 한 줄, '췌장 부담' 키운다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JZUg3OG9xQllhRUF1YXlubk1aaXU2djNpbmVod3BzVzNCQU1YbTJGbXBrUzQybG8zX3cxLWliMnFmeVN0NzBRTVRjLXVhUnZ2S05J?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "'몰아보기'에서 '지금 보기'로…OTT, 라이브 승부수",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wY096b2l3aDRScjhVaWQ2OE9mZUx3MmVlVDZhTENyZi1YdThMdElYQ2xXeTZvclA0QUwtNG01WDhlWkoyLTlINjFlTUdFNDNxRHJz?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 19:54:00 GMT"
+    },
+    {
+      "title": "'200억 건물주' 유재석, 밥값 20만원 안 내려다 망신살[놀뭐][★밤TV]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xaGZjUjllWmNIWUlLZ0xKRVg0UFZ3clh3TkxERURlYW5GNVozV2pPZzA3ZGw3T0RMaWhfeXE1SmYyMm51UGJCWml1Y3lRMGdFanpz?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "\"모디 총리와\" 이재용 삼성전자 회장 '셀카 외교'로 인도서 신뢰 재확인 [14억 인구대국 잡아라①]",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KcTFxb0xHcTRqUWlXNFYxc3pWUzZvUDJLSTRwLVl6M2w0TlV2UFBUY1FMRkVSTm9xY2RBcGRidk94NGwzMVYzRVBEcTE3MGtmcndvUVJfdmxQTmptZlcwSdIBeEFVX3lxTFBSU3VUYW9OdGdnbWJsTkF1bjdqbVNnWlVDeEdiNllja1QyUnJUa05hNjQ3dVZTWmpfLUNQUFpoQ1UwbF9ZRk5DbUxZTzd0ZTNub2dpYjdsSjRIaU5xZ1FUVmd0SDZCWHpjamtNc0IwWEg2NE1SbFYxRg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 20:00:00 GMT"
+    },
+    {
       "title": "신동엽, 지상렬 여친 위해 성시경 호출 \"같이 테니스 쳐달라\"",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1N2bWV5T2lSTU5VWTMtS2FyVUJQU0RDTmYxZ1hKRl9jcUNPNXkzbGVFX00tODd5Um1LY1RkWVowdWpwZ2ZfMkVrYjZhaHJmUzExWmFELUpQdG84SUFNUzI1ZEt5TFhTbmpSUS1zSncweXZhVzFlZw?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 19:46:00 GMT"
     },
     {
-      "title": "'대활약' 이강인 '쾅!'→1골·1도움 작렬 PSG, 앙제에 3-0 승 '리그 우승' 한 걸음 더 다가갔다[리그1·리뷰]",
+      "title": "트럼프 \"이란, 美 파키스탄행 취소 직후 더 나은 제안해 와\"(종합2보)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44YnhMSXJrU3NnTF93MzNYQUFja0thU0FYenR3TWJPSzJpZExDNEJRekwzQ3RvQ0tUNEptV0VZdG5GbjQ4LUs0RzZPOGt4d3N5OEZqaDQ4c2hZT2dUMGFJOVlkX1BkOHRlRElFeElST2FxU2NUakdXTA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 19:50:00 GMT"
-    },
-    {
-      "title": "토트넘 죽다 살았다, 8분 남기고 극적 결승골→강등권 탈출은 실패…황희찬 교체 출전",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yUWtHZ0VHMnktamcwZHZ2THF2XzNTLXBkZkl5Y3BqS3JhbDlWV2Y4ak9tRVBWcEJ0NFloM2k3azFzU19aS0hMZEZaM3FDb0RXUDZhbmVIZGFVNEF4?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 19:30:00 GMT"
-    },
-    {
-      "title": "지상렬, 신보람과 결혼 임박?…신동엽 \"집 빼고 다 해줄게\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tTlkxbWpJSGJSNnFqSEpwUjU0VHFRb0dXbUlxa1BaeVpLTTA2ZXZGYW0tcGtLVF9sV2tnOGRYZ0xIZkozM1NETldxSmFvWVY5eHIw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 19:27:00 GMT"
-    },
-    {
-      "title": "\"암 지겨워\" 박서진, 母 걱정에 오열…조직검사 결과는 '혈관종'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15bDlJa3gzZ0U4NkRmdnNYTXY1OGhCZUpWUlhwMnFwWWdrSVBTR2g4aU93cFRGREJPOS1KcXo4d2d0ZkpMbWZTWXNuTGl1NkpYMENr?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 19:06:00 GMT"
-    },
-    {
-      "title": "대구·경북 일부 5㎜ 안팎 소나기…아침 6도·한낮 27도",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JWHVYcXBlV21GMzlVeUh1MGJhODluUDkyVXR4ekZjZW5oTWJ3M29mdFZ2elVPMnVaanR6a1FYRGpjeWxObHM3aXg3ZGtzX1hGRXAw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 19:02:00 GMT"
-    },
-    {
-      "title": "'강남 불패' 8주째 굴욕…성동·성북 '쌍끌이'에 서울 집값 상승폭 확대",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtMERqclpiS3I1aHh0NHkzVkZGdlBGcTMwZnRiY3hVcUtKQmZYUlBLYUJOeHIxcmh5TXdmUTZWSTNzYmhnVWZ1RW1oakhkUS1CS0ZF?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 19:20:00 GMT"
-    },
-    {
-      "title": "트럼프 \"美협상팀 파키스탄행 취소\"... 이란과 2차 종전 회담 무산",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEctai1GZndJNjBXdElWZC1fQzdVeFRqMlJtSnNBRFBEVE01c0t4OThpVlNQSGZrd2RSVEVNaC1jRGFHTEV3SVpVZ1RzME1uYzVCYVNuSWZlT0xaMHVEcjdTTTNGM0FpdjlUWEQyYUt6S0RCakN3aWNlaURoQ3dWRWZDZnRhS3lYTllYaE9lTXdsS2tDVC0walRFbE5sdw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 16:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wRUJQSjZwUEhiQjQybE10eExzU0RsX2p4b0RPZXNGU1FlbDk4dUpWUGR4V1pzNEJQTGRFR0wyNHV5MC1iOGx6c3hLVEJhZkJpM0RUTldQYkRNX0xROGN2NA?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 20:23:00 GMT"
     }
   ],
   "sources": [
