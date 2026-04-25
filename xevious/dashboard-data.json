@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T18:20:59.331447+09:00",
+  "generatedAt": "2026-04-25T18:32:39.661636+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "19.1°C",
-        "feelsLike": "17.1°C",
+        "temperature": "18.5°C",
+        "feelsLike": "16.8°C",
         "highLow": "최고 23.7° / 최저 7.3°",
-        "humidity": "38%",
-        "wind": "4.2 m/s",
+        "humidity": "40%",
+        "wind": "3.4 m/s",
         "rainChance": "0%",
         "pm10": "22.3 μg/m³",
         "pm25": "19.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "68",
-        "updatedAt": "2026-04-25 18:15"
+        "updatedAt": "2026-04-25 18:30"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "21.1°C",
-        "feelsLike": "19.7°C",
+        "temperature": "20.2°C",
+        "feelsLike": "19.2°C",
         "highLow": "최고 25.6° / 최저 6.4°",
-        "humidity": "49%",
-        "wind": "9.5 m/s",
+        "humidity": "53%",
+        "wind": "8.3 m/s",
         "rainChance": "0%",
         "pm10": "36.9 μg/m³",
         "pm25": "14.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "61",
-        "updatedAt": "2026-04-25 18:15"
+        "updatedAt": "2026-04-25 18:30"
       }
     ]
   },
@@ -133,9 +133,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-25 14:57:57",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-25 11:00:24",
         "districtSamples": [
           {
             "district": "계양구",
@@ -177,9 +177,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜김포제2주유소",
-        "address": "경기 김포시 대곶면 대곶북로 347",
-        "updatedAt": "2026-04-25 08:45:48",
+        "stationName": "걸포주유소",
+        "address": "경기 김포시 금포로 1117-6 (걸포동)",
+        "updatedAt": "2026-04-24 20:40:49",
         "districtSamples": [
           {
             "district": "김포시",
@@ -191,9 +191,9 @@
         "areaLabel": "파주 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "파주시",
-        "stationName": "파주경인주유소 ㈜티에이치에너지",
-        "address": "경기 파주시 조리읍 통일로 124",
-        "updatedAt": "2026-04-25 14:54:40",
+        "stationName": "헤이리주유소",
+        "address": "경기 파주시 탄현면 평화로 809",
+        "updatedAt": "2026-04-25 14:58:47",
         "districtSamples": [
           {
             "district": "파주시",
@@ -223,28 +223,28 @@
       "publishedAt": "Sat, 25 Apr 2026 09:07:30 GMT"
     },
     {
-      "title": "[청년골프] 방향은 정확히 윤수아",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hQ2xQQlVDdC1RZ282ZmJMU3ZHcjk5Zjh5LVMzNm5zRVZvc0l2YUxzQ3VwVmNRcVBrYnljbHItSkZwWmVEV0Z6NWFtNkxKVUFCNHVzZ1E2SzktVy1GNWpFdmIyalR0S3NiREE?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:29:37 GMT"
+      "title": "장동혁, ‘직함 부풀리기’ 논란에 “분명 차관보…본질 호도 유감”",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EbTRHT3BNODVKUGJ6WU1FMGpUOHEwVUxTREE2eks3TzRlTjVvYlFFRUFtMk04SmtXeVFmOVh5Szh1cmpnOWxJeVk3MFJXTG10TktSdmhTLVc1YXlRLWt2XzZ0SdIBY0FVX3lxTE1EbTRHT3BNODVKUGJ6WU1FMGpUOHEwVUxTREE2eks3TzRlTjVvYlFFRUFtMk04SmtXeVFmOVh5Szh1cmpnOWxJeVk3MFJXTG10TktSdmhTLVc1YXlRLWt2XzZ0SQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 08:36:00 GMT"
     },
     {
-      "title": "2027학년도 한양대학교 전형계획 학부모 설명회",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsOXQ2b3J1aXFpXzJyeUU3eG0xSi1rbWxsV2M2SGJGdGdQSVlzcjRNR3BQNmtTUEIteDlXU3ptQkZfZ1pwRTF5ZXBYWkl3bUs3cUdfY0tlSDNsc0ZWQ3JmSA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:42:00 GMT"
-    },
-    {
-      "title": "중동 전쟁에 美 에너지 수출 사상 최고…수요 지속성은 의문",
+      "title": "내륙 중심 일교차 20도 안팎…남부지방 비[내일날씨]",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXdhQlhzNkxZWVA4OHgxbmFOeWlVODJ5aWdPMnlFRjdHQzYzRHQwclVlTVR1am9vWEZxVV9YdFA1cTNBVHpYQndaaWxJUVd6S1B3elM5TjNlc282dkxjbFYtbE9IZ1ljT0pSZ0pBcl9fWWxySldXN183SmpyV2ZVQ1I3U0VrR25rM1VndzdhMUZqNm9LRDZza2t4dWw3amoxYWdxWnB1Tng2WHFTZmo2Mkc0eUMwYjZP?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:49:24 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTkhWWHBmanJ0bGswT29wSzVhdWpWUmlVOHNqcFFxeG4tRDNfUTlfbGx6MTRNS1dUcWRlN3JKNElnWGlnNzQtV0RJM3NuSVVfOXROSGJXeHhhVmlwWkdUaVVGWnBSSnZ2LXBUckY3YTVpSWRDN3V5N1c2NGR6NWRySzlPSGpzWTBlelJISVBKZ21sMDd0REstbGxlX24wUkVScTZuYmxUNVZlWDRqWnZmOENVZ1JDWGYxeGRpcERXcDNud2ZsRnd6SXJ3?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:31:08 GMT"
     },
     {
-      "title": "\"중동 리스크 속 단기처방 한계…인천 산업공급망 재편 필요\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BT1VnVVpuTXZUUTlQdm9wdzd2alFkUFpHeEtjYVpCenBJcE9xVmxZb210MHpsUGNtWjgyVHZoUEI3V244ek1fMEZlcXRVeERGbTlXaQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:05:08 GMT"
+      "title": "세종전통시장 찾은 더불어민주당 정청래 대표",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RaDJDU05RSEtkMTZjc3NFV3J5SV9uU0ZEYWlaalJhQ3NtQURONFAybnBKdFc4XzBnVm5SdDQ3dHQzcnd2UXp0cllwTXdqSkphQnpQRDYtdzJuNDRyb1lCY0FBYU5fOVA5RlptbzV3?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:17:00 GMT"
+    },
+    {
+      "title": "통웨이솔라, 한국 그린에너지 엑스포 2026에서 첨단 셀 기술 및 TNC 제품 가치 강조",
+      "source": "워터저널",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xUVZYWWF3ZnhwUjFCaHRsZU9ONXFrUjlFbzcyblBNOUh1OFJYQ1NENFlhRXdmRzdwWFZVUWU4U0xKTzd1OTctNDJEMXlPU2c5R0MzM0lFTDNiMm1sempxd3lFT1d6c3Q1MFAyYUtpUlctbE13TC1CRVVsWFk?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 08:33:47 GMT"
     },
     {
       "title": "[청년골프] 덕신EPC, 주니어 육성으로 골프의 뿌리를 키운다",
@@ -253,16 +253,16 @@
       "publishedAt": "Sat, 25 Apr 2026 08:59:21 GMT"
     },
     {
-      "title": "[내일 날씨] 화창한 초여름 날씨, 대기는 건조…남부·제주 비",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54S1RGV1dCeW5rVjFGX3BKTnN0SGtWUjhwMkJ3YmFqZ1FycVZPUVVQWVl3YzNxdGVDcmNWVTBLWUt3a1FXQ014SmxDSy1xOENzdWRnV013UjQwcWw5OF93UmxnSFUxSVRzSlJxZWtLNWp1eGtfSmdSRQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:00:00 GMT"
+      "title": "\"중동 리스크 속 단기처방 한계…인천 산업공급망 재편 필요\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BT1VnVVpuTXZUUTlQdm9wdzd2alFkUFpHeEtjYVpCenBJcE9xVmxZb210MHpsUGNtWjgyVHZoUEI3V244ek1fMEZlcXRVeERGbTlXaQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:05:08 GMT"
     },
     {
-      "title": "이란 테헤란 공항 국제선 운항 일부 재개…56일 만",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14cGZ3bEs4YWtfZmR1ZFpaNFhOSm1QYTBqb2tLYXNRNTlDQ2x1dEEwbi10a0xuazFZbXhKX3pUdFRPeUMzOWtyZWFlbXYxZEtORG5F?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:01:00 GMT"
+      "title": "이경실, '고가 달걀' 논란에 억울함 토로⋯\"사기꾼으로 몰려, 아들은 국방부 조사까지\"",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96S25WQ0g0WE1UMmRpck16cEpqdjJ6VW1XRlI4cHc5UzZvdkVwcUg0UWpackZXMEdCZGpmRFR5NHhzN1c4ejVJM1B2UlVjeFdnM1BzWVhpa2JVU21idFUwZUJTVU1zb3ZHZ2tJN2IxRDZfOGhD?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:02:00 GMT"
     }
   ],
   "sources": [
