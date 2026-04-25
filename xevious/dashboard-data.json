@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T21:07:20.435537+09:00",
+  "generatedAt": "2026-04-25T22:37:07.332110+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "14.8°C",
-        "feelsLike": "13.7°C",
+        "temperature": "13.0°C",
+        "feelsLike": "12.1°C",
         "highLow": "최고 23.7° / 최저 7.3°",
-        "humidity": "63%",
-        "wind": "3.8 m/s",
+        "humidity": "67%",
+        "wind": "1.3 m/s",
         "rainChance": "0%",
-        "pm10": "32.1 μg/m³",
-        "pm25": "30.9 μg/m³",
+        "pm10": "39.8 μg/m³",
+        "pm25": "38.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-25 21:00"
+        "updatedAt": "2026-04-25 22:30"
       },
       {
         "location": "김포",
         "summary": "맑음",
-        "temperature": "12.1°C",
-        "feelsLike": "10.4°C",
+        "temperature": "11.6°C",
+        "feelsLike": "9.9°C",
         "highLow": "최고 21.2° / 최저 4.9°",
-        "humidity": "73%",
-        "wind": "6.8 m/s",
+        "humidity": "65%",
+        "wind": "3.7 m/s",
         "rainChance": "0%",
-        "pm10": "32.1 μg/m³",
-        "pm25": "30.9 μg/m³",
+        "pm10": "39.8 μg/m³",
+        "pm25": "38.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-25 21:00"
+        "updatedAt": "2026-04-25 22:30"
       },
       {
         "location": "파주",
         "summary": "맑음",
-        "temperature": "13.9°C",
-        "feelsLike": "12.5°C",
+        "temperature": "11.7°C",
+        "feelsLike": "9.5°C",
         "highLow": "최고 21.7° / 최저 4.8°",
-        "humidity": "58%",
-        "wind": "2.5 m/s",
+        "humidity": "61%",
+        "wind": "6.2 m/s",
         "rainChance": "0%",
-        "pm10": "32.1 μg/m³",
-        "pm25": "30.9 μg/m³",
+        "pm10": "39.8 μg/m³",
+        "pm25": "38.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-04-25 21:00"
+        "updatedAt": "2026-04-25 22:30"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "14.3°C",
-        "feelsLike": "13.3°C",
+        "temperature": "11.7°C",
+        "feelsLike": "10.5°C",
         "highLow": "최고 25.9° / 최저 6.4°",
-        "humidity": "74%",
-        "wind": "6.5 m/s",
+        "humidity": "81%",
+        "wind": "6.2 m/s",
         "rainChance": "0%",
-        "pm10": "9.7 μg/m³",
-        "pm25": "8.7 μg/m³",
+        "pm10": "12.5 μg/m³",
+        "pm25": "11.7 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "54",
-        "updatedAt": "2026-04-25 21:00"
+        "airQualityIndex": "50",
+        "updatedAt": "2026-04-25 22:30"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-25 15:00:00",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-25 17:58:52",
         "districtSamples": [
           {
             "district": "계양구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "태리알뜰주유소",
-        "address": "경기 김포시 고촌읍 김포대로451번길 3",
-        "updatedAt": "2026-04-25 17:59:55",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-04-25 08:45:48",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[청년골프] 이동하는 이슬기",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Dc1pwT2RtYWF5NE9sRHZKNGZPS3hheXdrbmpoREk2b2xydEdyanZwS2dUeGhFeVZVVTl0RzRxcDJyckF2cUd6NldxSUtNV1Fpd0cwN2hzbDRpZTBMSlNyYWlvZ0FQRVlHMHc?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 11:54:41 GMT"
+      "title": "[뉴스9 충북 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QaERlS1lNVVV0STVGOEYtSFVPdEVjYjRaRjF0VHFoS1I3Ti1ZZHNCTHB0TGY5NlBOZXlxR1pVems4VWt5VDJSVFV3S0FnVlJJUkVUdTM3V0w2WmM?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:14:00 GMT"
     },
     {
-      "title": "함소원, 108배 수행 근황 공개 \"전남편 진화, 날 화나게 만들어\"",
+      "title": "충북교육청·충북교사노조, 정책협의 본격 착수",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLMXJrV05tb3pTb1RnS2o3RzhrQVliVE82c0hnSUg2UldnZzVfMWNTNV9wTkhKcUJLdVBXNEctc3ZiS2NGMUZ6MU5NUjlzMVhoUG1qQ09PdnpyVDR1a254NkdsWUdaNXZr?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 11:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NQ2dydDJWTHA1czh1VVRuMHdJeUxhbXMzSk03aDAxdFRPdzJmaDBvSjBRUTd1RWZzWkFOOVhMMGxDMEJlYWtSdFNFRWlONWhhWmtr?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:22:00 GMT"
     },
     {
-      "title": "올해도 뜨거운 프로야구 열기…역대 최소 경기 200만 관중 달성",
+      "title": "오존, '전소니 동생' 전주니와 26일 결혼…9년 열애 결실",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yLW1pNjF6V1VkVFpKcGFhc05JTVhyRHBiMkZhYno2Umo0MGVxQWxZbVVpYmVDb05zd1lXUXlETks4SlY2RWcyY2hXOFk5Z3dqNnlFS3pzeks2d08yU2s5STViSUx3NEVy?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 11:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QSTVvTlZ1NFJOY2NWMm9CenV2dk9HNU8tOVJFbVliU2xLdU9lUkNQTERUZk9BSDNycnZKUjlPQ3FGSXBtRVBUS1huR00yTUZPdHBVaG4wQ0lTeDZFUC00Yg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:31:00 GMT"
     },
     {
-      "title": "1221회 로또 1등 '6, 13, 18, 28, 30, 36'…보너스 번호 '9'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xOEpjT0NHN0tiYmR2Q1lOaU1HQl9NX2ZLVGNiYk40YThhS25jSDZTMkRFU0x4RERsd29zUVV2aEdhbkVYYktSLW9HM3dDbkZJREFB?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 11:48:00 GMT"
+      "title": "[포토]장수연,첫 홀 버디 도전",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QdnRsd2ZnaWV2d0JsNm0zb1lNekxwc1hjc2JtN1BQWTRRX1VjRHo1TzFLMjFMNWpsM1pSZzQ2Z0NrMEdhbTZVOF9CeGlWUlFkQzBWc19KN04tbUJVTDZwdE5FRDlfbmdQdFcwQTdfN1hVZnN1?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:13:58 GMT"
     },
     {
-      "title": "[내일 날씨] 포근한 전국 날씨…일부 지역 소나기",
+      "title": "동성로 뒤흔든 김부겸….\"대구상권 상징공간 반드시 되살리겠다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sOENzSkM4a1NDR2NodHY2Y0JsSmUxd1ZxcEY3emZMbHRIMVlxaVRubVVyZHBreU8xS1JfNk9wYkZHX2Jhai1kQnhSSEZYV2lNS29Z?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 11:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85RDk3d3E0OUlSY2M1Xzllck4yQlFYejNvdFFac19yOFhtR25maXhYcjNyLUZ4cmVWM3E4ZzVkeE1YOFdwTE0tcUhhNmh3UENjUm04?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 12:38:00 GMT"
     },
     {
-      "title": "김소영♥오상진, 둘째 아들 낳은지 22일 만에 셋째? \"조리원 올 일 無\" [스타이슈]",
+      "title": "신동엽, 박서진 '성형 변천사'에 \"자리 잘 잡았네\" 팩폭[살림남][별별TV]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91aHdsTTRZSmhfZldvelFaQjZVQlZsVFBXLVhhRjF5WUhGaV9xdzhOakZQbHVZOF95U3NTbmt4U0FzMWF4NjVEUk9tSWZya2s1V1VxWGlRVWNXS2NYd2R1TjBIclNrOGtn?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 11:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SWC1pM2xYVU1EeVhmS3RiTUc2T0trclVKSC01T1ZBbDMzOVlOU2hoQ3RYTnBJMGlCcW5ZLVgwaTFLTUxYT2dKNzFzZTVMSjNUZkNN?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:24:00 GMT"
     },
     {
-      "title": "건조특보 속 삼척·봉화 등 곳곳 산불…헬기 투입해 주불 진화",
+      "title": "아이유♥변우석, 왈츠→로맨틱 프러포즈 \"내 아내가 되어주시겠습니까\"[대군부인]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4UUdkYzNna0hubmx0YXQ5Q2RCVm9xOWRTMW5KZmRsVlo0MlZmUVNaWWdTZlUwbDZHRGY4a2xDTTV6STVsOE9CNE42Uy1La3NqbHNBWFlpdUNIREV4NGpTdGx4OVo0bXBaandjZ1BpN3N1Uld4VVlrZw?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 11:19:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwaDBOa0hEOTU3WGNMZDJjd1pOVkRSa2x2T2dzS3JoZXNhN1ZLUFVydUROemxsdkZEWEcxckkwdk1scjQxMDdyRnhDMWpqTHhYLS04WkhfQVBMQU5uNHRSTzh2QzJGM3NUSmRrY3BnaVE1aDdYUnlGbg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:13:00 GMT"
     },
     {
-      "title": "김혜수, 55세 무색한 완벽 수영복 자태…\"벌칙 의상도 소화하는 명품 몸매\"[스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFckVodktZekRCV25kUGc0NEVkR3c2RmF3VkFpcXJwSFQxWWFKeWM1U3RxWDRCY2RJSkZZR3VFa0I0WWhxS0pHQzRTbWRpTUY0UW84?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 11:38:00 GMT"
+      "title": "악어 서식지서 '웃통 까고 샷?'…“태닝하려고?” “악어가 더 놀랐겠다”",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YV3dDNmp0TXY2NndYdkNiWVNMZ1Bwc05odDJUZjc4MFVCUngzUFM0bDFmU1RHenN2eXEwTTdwc1l6MkVCb2p4Mjg4dWlEWWk3UUJycjlsR2NmRVZhOVRPVHBn?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:30:00 GMT"
     },
     {
-      "title": "[속보]1221회 로또 당첨번호 \"36·18·28·6·13·30…보너스 9\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wRjR3Q192OFl4bkFSdW0xU1dwRldaMkRXLWQ3TkY3RS1Mcnd3d094QUFNVzd6ZFlWU2o0M0wxeUpXMFdMVHVTbTNwcllIZFF0RHNrU2p3QmlEMU1NeWVDMWQtX1pIQzBWeGdxZnJjOW5qWUpXRDJCMg?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 11:41:00 GMT"
+      "title": "증평군, 청년 가구에 월세 지원",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1UENyejcwVHhjcGVzRmtDbGVRQjF3cGM2Z0V3blN6dWJlN1hUN0NKXzN4bWpqN0ZWcVdrLVpzdzZnNkpkczN2WTJXOFhXb2FsNDhQY3RMdWwwTjQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:13:00 GMT"
     },
     {
-      "title": "이민정, '와인 바꿔치기 논란' 안성재와 셀카 \"정확한 동갑\"",
+      "title": "박서진, '감상샘암 의심' 母에 절연 선언…\"인연 끊고 살자\"[살림남]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KM2RNeXQ1ckRPaUdELWtQMkRFVjV5TWZYaVFwVEI4WXlkV0dFZnVIc3d4Zmd6Rk9acTE5Q3hMdGNFMFRYcnJUc2NsejFlYXpEX1RB?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 11:11:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zWTdIbW55N3VORm9fRndnSTYyZGM4cFVXVVQ0UkNmRm1EM0REN2JHbFlpTXFSMndlOEdtcEJOdlF5R0RZcVdxV3JmQnNrWG1aR1NmaWxCZGZSenJ4M09tT1o1OWY1M242?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 13:03:00 GMT"
     }
   ],
   "sources": [
