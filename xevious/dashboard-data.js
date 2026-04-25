@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-25T17:35:44.351864+09:00",
+  "generatedAt": "2026-04-25T18:20:59.331447+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "20.4°C",
-        "feelsLike": "18.2°C",
+        "temperature": "19.1°C",
+        "feelsLike": "17.1°C",
         "highLow": "최고 23.7° / 최저 7.3°",
-        "humidity": "34%",
-        "wind": "4.9 m/s",
+        "humidity": "38%",
+        "wind": "4.2 m/s",
         "rainChance": "0%",
-        "pm10": "20.4 μg/m³",
-        "pm25": "16.6 μg/m³",
+        "pm10": "22.3 μg/m³",
+        "pm25": "19.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "68",
-        "updatedAt": "2026-04-25 17:30"
+        "updatedAt": "2026-04-25 18:15"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "22.7°C",
-        "feelsLike": "21.1°C",
+        "temperature": "21.1°C",
+        "feelsLike": "19.7°C",
         "highLow": "최고 25.6° / 최저 6.4°",
-        "humidity": "44%",
-        "wind": "11.5 m/s",
+        "humidity": "49%",
+        "wind": "9.5 m/s",
         "rainChance": "0%",
-        "pm10": "48.1 μg/m³",
-        "pm25": "17.1 μg/m³",
+        "pm10": "36.9 μg/m³",
+        "pm25": "14.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "61",
-        "updatedAt": "2026-04-25 17:30"
+        "updatedAt": "2026-04-25 18:15"
       }
     ]
   },
@@ -172,10 +172,56 @@ window.DASHBOARD_DATA = {
             "price": "1,968원/L"
           }
         ]
+      },
+      {
+        "areaLabel": "김포 최저가",
+        "lowestPrice": "1,979원/L",
+        "lowestDistrict": "김포시",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-04-25 08:45:48",
+        "districtSamples": [
+          {
+            "district": "김포시",
+            "price": "1,979원/L"
+          }
+        ]
+      },
+      {
+        "areaLabel": "파주 최저가",
+        "lowestPrice": "1,979원/L",
+        "lowestDistrict": "파주시",
+        "stationName": "파주경인주유소 ㈜티에이치에너지",
+        "address": "경기 파주시 조리읍 통일로 124",
+        "updatedAt": "2026-04-25 14:54:40",
+        "districtSamples": [
+          {
+            "district": "파주시",
+            "price": "1,979원/L"
+          }
+        ]
       }
     ]
   },
   "news": [
+    {
+      "title": "종전 협상 가능할까? 미국 특사 파키스탄행...이란 '직접 회동 계획 없다'",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WQ1RNa0ptRjR1Y2lWcFVSYjhHWHdERHN0LVRuRHZrR0tNeXpGZEowSV9iaW05ekpmd1VxYVFTcFpPOVNsd25QdWtOU0xIVEU1T0d4czBfNDliaFBL0gFiQVVfeXFMTmZvNHBaZnAzOUNnWXBVc0FOelBfVW9KYWQ4UUVpMUg4ZllrX29VaUFHM1QtTVBoQnc0Q2poNE5UdlpTeDFhcjBZR2Z2RGY3ekswWUJkcllUdE1vcHNjVVF1cXc?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 08:34:31 GMT"
+    },
+    {
+      "title": "“뒤에서 빵빵대도 무조건 멈추세요”",
+      "source": "당진신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCNTk5QnhOb01tb0VzdHpqMS0wVExIVjdYQXlyMGIyQ0hwaklxekhtaGxsWVR1WjRfaERWZ0ZWdkhZeTA0U3JILVNveURNY0hlVkRWMV9KMHdCY21QZzM2WXlSM2tVaGtw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:00:00 GMT"
+    },
+    {
+      "title": "북한, 스웨덴 주재 대사 임명…서방 외교 공관 인선 지속",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBZFJiNmJLdFM5eWFaQmZEQ3JHa2Z0MmhjUEkyUnJlM0E4UGV5T1Y0WXFVNWc1bEY5elVTQjVYdERqRkJHSnB5eXdVYVhJSTB6cWR4SFVGNUZWcmhZQWM4?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:07:30 GMT"
+    },
     {
       "title": "[청년골프] 방향은 정확히 윤수아",
       "source": "청년투데이",
@@ -183,58 +229,40 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 25 Apr 2026 08:29:37 GMT"
     },
     {
-      "title": "당진시의원 감축 위기 모면..14석 유지 가닥",
-      "source": "당진신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBad3VrckxUdnUwYnBlRE9NdTI1RWJjWEswMFBxd3Y4MVNya0Ztc2hCS1Y0TE5odWtFNUtxZ043dUFTUEtadGtva1NZRXhnRzdfa2ZIUVpLWVdzMXQ3d0EwTDZjLU9ZSFNQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:00:00 GMT"
+      "title": "2027학년도 한양대학교 전형계획 학부모 설명회",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsOXQ2b3J1aXFpXzJyeUU3eG0xSi1rbWxsV2M2SGJGdGdQSVlzcjRNR3BQNmtTUEIteDlXU3ptQkZfZ1pwRTF5ZXBYWkl3bUs3cUdfY0tlSDNsc0ZWQ3JmSA?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 08:42:00 GMT"
     },
     {
-      "title": "내륙 중심 일교차 20도 안팎…남부지방 비[내일날씨]",
+      "title": "중동 전쟁에 美 에너지 수출 사상 최고…수요 지속성은 의문",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzZybHlYbVdsbWlkR0NYakF0MlNSb2ExRnhncDBEd0lxdTZMVnZ4d2JsMGFaZ3JiclJ6MWxHNFpCclVSUGkycUZUa1NpYndOWGo5emE2ZThVMWxtZWdUX0VJX2Nka0Fma195aGFtby0yMzNmU0ZJNWxOWmYzaXBQdTZHenBYM2g2MnBfQmtaNk5IT2tYQWxrc1kyVUZzTkRUY21FZTdQVlltQWlKeVZEZFJSaHh2VXdF?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:19:55 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXdhQlhzNkxZWVA4OHgxbmFOeWlVODJ5aWdPMnlFRjdHQzYzRHQwclVlTVR1am9vWEZxVV9YdFA1cTNBVHpYQndaaWxJUVd6S1B3elM5TjNlc282dkxjbFYtbE9IZ1ljT0pSZ0pBcl9fWWxySldXN183SmpyV2ZVQ1I3U0VrR25rM1VndzdhMUZqNm9LRDZza2t4dWw3amoxYWdxWnB1Tng2WHFTZmo2Mkc0eUMwYjZP?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 08:49:24 GMT"
     },
     {
-      "title": "신호 어기고 좌회전하다 '쾅'…2명 경상",
+      "title": "\"중동 리스크 속 단기처방 한계…인천 산업공급망 재편 필요\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BT1VnVVpuTXZUUTlQdm9wdzd2alFkUFpHeEtjYVpCenBJcE9xVmxZb210MHpsUGNtWjgyVHZoUEI3V244ek1fMEZlcXRVeERGbTlXaQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:05:08 GMT"
+    },
+    {
+      "title": "[청년골프] 덕신EPC, 주니어 육성으로 골프의 뿌리를 키운다",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RVENwUVhvcWtzVEZiTE80OFd4UW1rdzR1SExhcVJPZFRmRWJIUXlsM214Z084THJUejVOOTgwbGlYeHVNX3hFNm14MDJQMnlCUlN3aHU5ejFjQ2xmcGJLTGRCX0pmVDBmWEE?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 08:59:21 GMT"
+    },
+    {
+      "title": "[내일 날씨] 화창한 초여름 날씨, 대기는 건조…남부·제주 비",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ySlptQWNPTnZmaUl0ckxYbGtlc29hQlN5aGRUaFR2UVh3T05qZkhXcU1EVElRNDlTb1JCRWNTUGVISnM4N2xubFhkNmZKeWoyLU81dUdZSXdHMkVjQ2ZVcA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54S1RGV1dCeW5rVjFGX3BKTnN0SGtWUjhwMkJ3YmFqZ1FycVZPUVVQWVl3YzNxdGVDcmNWVTBLWUt3a1FXQ014SmxDSy1xOENzdWRnV013UjQwcWw5OF93UmxnSFUxSVRzSlJxZWtLNWp1eGtfSmdSRQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:00:00 GMT"
     },
     {
-      "title": "이번주 국내 주요 금융일정(4.27~5.1)",
+      "title": "이란 테헤란 공항 국제선 운항 일부 재개…56일 만",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fZHdEZEJWTkdNLW1TSU9XNktOUU5wWWIxbFVIRkVSN21QLUkzOFNpSF9ldTF3XzA4VEFIRzZtLTQya3RaWDI1SEYzdGQ3Y29Ya01B?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:01:00 GMT"
-    },
-    {
-      "title": "러시아, 우크라에 대규모 공격…4명 사망·수십 명 부상",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JZ1JGQlNxbDBEQVFsY0RDXzR4b0VyNEJ3aXY4SGpOZ2FxVW9XVFI5UUZTQjJTcVdhMTRZQmpTTHA2eUtYZW81THN2bjZVczF2SUJZ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:17:00 GMT"
-    },
-    {
-      "title": "바노바기, '무신사 메가스토어 성수' 입점…오프라인 유통 확대",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02alhMeldBVkVBdlNmenVaRVE4M2l0c3NCUndOV1g0ODR5NlFHU3liUXhIQ1Z5Yk9fRDQzZ0JseFFaNElJcHIwazM4U3lFLUI4TWhV?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:18:00 GMT"
-    },
-    {
-      "title": "'패럴림픽 5관왕' 김윤지 \"포상금 5억·순금 20돈 메달 받아\"[전참시]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3TjM2S0prdF81Sy1NVFFvWDhFTFo2dzN6cTI2eUZyVGtFSzFkalNXTFhMRXA5TkwtbzlxVHpWSTN1d1FPQWU5SWo1ejdzRHU0Y2QwNS1ER3d6cS1rWnRIRg?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 08:07:00 GMT"
-    },
-    {
-      "title": "범죄자들의 공범은 AI?… 美 검찰, 플로리다 총격범 사용 '챗GPT' 형사 수사",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CVGRDOTFMekV3WXMydkR5cFdUcEdEaGtSM2FkVzduOExYbEZoUm1UbFVCQWx5ZlVJMTlUdlM5VDllcnhhdmJrR0VpbXQ5V0xoXzh1VlVNeHRMUGN1T0xnQzRn?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 07:50:00 GMT"
-    },
-    {
-      "title": "75명과 성관계 불법촬영한 판사아들…'30일 구금형' 특혜 처벌에도 우는 소리",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rVFZ3LWFzRFo1QWRnclpFTFFxZUhvUjI4Q1JfQk5iMXNLZmx3NElGTHpFSV9oc1hLSXNzdTRQWTBwWlg1QmtReGYxbG1fVDRYampyN1k5c21yR2hJZWY1ZFVR?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 07:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14cGZ3bEs4YWtfZmR1ZFpaNFhOSm1QYTBqb2tLYXNRNTlDQ2x1dEEwbi10a0xuazFZbXhKX3pUdFRPeUMzOWtyZWFlbXYxZEtORG5F?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 09:01:00 GMT"
     }
   ],
   "sources": [
