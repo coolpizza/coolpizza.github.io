@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-26T07:24:08.346653+09:00",
+  "generatedAt": "2026-04-26T08:00:46.723297+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "9.8°C",
-        "feelsLike": "7.7°C",
+        "temperature": "11.2°C",
+        "feelsLike": "9.3°C",
         "highLow": "최고 22.0° / 최저 9.2°",
-        "humidity": "66%",
-        "wind": "4.0 m/s",
+        "humidity": "56%",
+        "wind": "1.9 m/s",
         "rainChance": "0%",
         "pm10": "56.2 μg/m³",
         "pm25": "54.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-26 07:15"
+        "updatedAt": "2026-04-26 07:45"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "7.9°C",
-        "feelsLike": "6.4°C",
+        "temperature": "9.8°C",
+        "feelsLike": "8.8°C",
         "highLow": "최고 20.2° / 최저 5.5°",
-        "humidity": "88%",
-        "wind": "3.6 m/s",
+        "humidity": "86%",
+        "wind": "2.2 m/s",
         "rainChance": "0%",
         "pm10": "56.2 μg/m³",
         "pm25": "54.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-26 07:15"
+        "updatedAt": "2026-04-26 07:45"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "8.2°C",
-        "feelsLike": "6.2°C",
+        "temperature": "9.7°C",
+        "feelsLike": "8.1°C",
         "highLow": "최고 20.7° / 최저 5.6°",
         "humidity": "72%",
-        "wind": "3.9 m/s",
+        "wind": "2.4 m/s",
         "rainChance": "0%",
         "pm10": "56.2 μg/m³",
         "pm25": "54.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "64",
-        "updatedAt": "2026-04-26 07:15"
+        "updatedAt": "2026-04-26 07:45"
       },
       {
         "location": "익산",
         "summary": "맑음",
-        "temperature": "10.1°C",
-        "feelsLike": "8.8°C",
+        "temperature": "11.6°C",
+        "feelsLike": "10.9°C",
         "highLow": "최고 21.3° / 최저 7.1°",
-        "humidity": "85%",
-        "wind": "5.4 m/s",
+        "humidity": "80%",
+        "wind": "1.8 m/s",
         "rainChance": "0%",
         "pm10": "24.0 μg/m³",
         "pm25": "21.0 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "33",
-        "updatedAt": "2026-04-26 07:15"
+        "updatedAt": "2026-04-26 07:45"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,978원/L",
         "lowestDistrict": "금천구",
-        "stationName": "㈜씨더블유이엔지",
-        "address": "서울 금천구 남부순환로 1410 (독산동)",
-        "updatedAt": "2026-04-25 23:11:04",
+        "stationName": "(주)화동유업 화동주유소",
+        "address": "서울 금천구 시흥대로 484",
+        "updatedAt": "2026-04-25 14:12:02",
         "districtSamples": [
           {
             "district": "금천구",
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-25 18:01:24",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-25 23:50:42",
         "districtSamples": [
           {
             "district": "계양구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜김포제2주유소",
-        "address": "경기 김포시 대곶면 대곶북로 347",
-        "updatedAt": "2026-04-25 08:45:48",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-04-25 23:52:59",
         "districtSamples": [
           {
             "district": "김포시",
@@ -362,9 +362,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "파주 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "파주시",
-        "stationName": "파주경인주유소 ㈜티에이치에너지",
-        "address": "경기 파주시 조리읍 통일로 124",
-        "updatedAt": "2026-04-25 23:03:01",
+        "stationName": "헤이리주유소",
+        "address": "경기 파주시 탄현면 평화로 809",
+        "updatedAt": "2026-04-26 00:29:06",
         "districtSamples": [
           {
             "district": "파주시",
@@ -376,10 +376,46 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[만화로 보는 시니어 뉴스] 비브리오패혈증 예방 “조개, 껍질 열리고 5분 더 끓이기 ”",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFY2czTElqR0FmdGRBaWlTV21MZnh6MVFkY29pUFcxajhfM2l6RG9JZHo5OXcxZHVqN2pUYmFrQ3BxMGRMWEs2TVY1T2R3b1dlcnF3R2hyWTR4UQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 22:00:00 GMT"
+      "title": "[청년골프] 타깃방향 드라이버티샷 이정민",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaQjZIV1dzZ0NJZXQ5bm45V3JiVzFPb3kwVE10TmwxTm5laTFoeXNsWGFFdEU4V0l5elhxNzA3c2YwS2swNUR3UDRqSDE1RnZZQjMyUTkzdXpPeTRqSEJWdGlTemNZeEhZQUE?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 22:56:05 GMT"
+    },
+    {
+      "title": "\"치맥은 못참지\"…치킨업계 연매출 '6000억 시대' 열렸다",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6eGlfYlVjNF9FV0Z0RmNGRUE5LVNuamhGUHNtSFBLTmdXMF9vOTFVNGVTckUwRkdIWU1DSGYzVnhlNjZHcjA5WHM4ZVVpcDBRbDMtaUxiUlBSV0RuVVNV?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 22:40:00 GMT"
+    },
+    {
+      "title": "美·이란 2차협상 향방 불투명…호르무즈·핵 입장차 못 좁혔나",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMEZDdmFqQ2NDNzlOX3J2cnVUd19acEJoN3gtUy1XRlZoZmRGRjdleDd3bFVYc0poRUUybkc4ZnNhYS1JR1EzZ2x3eU5nSHFOTXNObzdtemdHNVI4M3dLa2tSaHBpRUVaWVJScUJfTGppd0F4Vzk1c0JaWVlOeFFvU29xbThfMkFXZjBadWMzVkdhRGtlT1JMU3ZVcF9BNjdfRHdrQ1pzQm50NEUtcjlEdXh2WHFqWFZh?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 22:41:38 GMT"
+    },
+    {
+      "title": "관악구, 전국 최초 '도로열선 시각화 지도' 구축",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QdEJTTkdSZUpZd3IyMGhQWXBpXzlSLWx2SC1YU1NCX3ROTmJFRjFZLVJ4b0VEenhJWVlGc3ZzRGk2cFlZR1dXMHd5bUFqdHBXdEhVcV8tUVNqc1ZZSTVVNQ?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 22:53:00 GMT"
+    },
+    {
+      "title": "컴포즈·빽다방 낮출 때…매머드커피만 마진 키웠다",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTRHJtZThKNHE3d2VXRi03LS1HOGJfeHVHWWoxdmx6R0g5MHpUQ0JMU2FzYk44VE0zUDNJT3RMclJCc3gxUnlZMGxfYjhKSWZ5ZnVOSUVhQmpNYUZValZn?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 22:25:00 GMT"
+    },
+    {
+      "title": "유류할증료 쇼크에 해외여행 '주춤'…국내 호텔·리조트 인기",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGtkdEtLT0ZjOXZVdzV0cXlKRERHc2dXZWFmWDVlSWlyaGFwQU1Vd21VeVFLc0ZIRzY1ME1fVURqakNZX0dWVGZnTTIzRmFHNEp0UjZxdXZRMndsZXE1X2YxOFp1aHZEYWZjX3hYUzB4dkQyeVYyemlRODBQVFNMSGFZdHg1Z040WHlvbl95T0RrM2UwRmJtd2lRQVVGSnlfQ0czdlBqclZGbFVXSFRCZTFOQzBiaGc0?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 22:36:54 GMT"
+    },
+    {
+      "title": "윤석열 '내란 우두머리' 2심 시작…'체포 방해' 항소심 선고",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10ampjTUZxQ0FkY25wc1p0a0QxQTV5VGxpTUdZU3BvdEZhZ3hpbm1TNmI4amFqekk5WDB5czRfTjZBSVNWR05yOE9LVFBvUldNWERoQk9TRC1vNUY3WmtxS2M5WkpKQ3pERnc?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 22:03:00 GMT"
     },
     {
       "title": "중동발 석유화학 수급난 틈타 '대기업 사칭 거래' 기승",
@@ -388,52 +424,16 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sat, 25 Apr 2026 22:06:35 GMT"
     },
     {
-      "title": "증평소방서, 좌구산 등산로에 산불 초기 진화용 소화기 설치",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42VU1GUnVzbEhQVFhsWUZ6M0FvYy1yYTdEWjlfaDh2X25CeXdLdmRLdU5meFUxdTI4NnFQNGc0alRrX1Vka1g3bThRbFRMeHJ1U0ZOZkFBVU5laUhncEx3?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 21:47:53 GMT"
-    },
-    {
-      "title": "박성광, '개그콘서트'서 통편집 걱정…'드래곤볼' 패러디 중 변수",
+      "title": "빈혈 철분주사, 성분 따라 골절 위험 2배 '가능성'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzdjlMTGZnX2Mwd3NzNmZTOTRRYThBLXpybzNhVUJNdFZyVmxvTHY0TkVkRG5mOVZnNG92UDdZdUJ3MnloODNrakNmSU5OQnpKMGYzWEZBWGQ0UEl4NktBcThUeWZWV0UzUzFiOF9UUzF5S01mMWZoSQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 22:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsZlBUc2ZXOVdoZHI5eEowTUNSdHM3c2tXZGdYVU81OEJHVHNmLW1ZeFNoTnh3LTk4UUhjVzM3bUROVENuVWx5eWl4d2hPZmJhSDkw?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 22:33:00 GMT"
     },
     {
       "title": "반도체 ETF 1년새 3배 오를 때…레버리지 ETF는 11배↑",
       "source": "뉴스통",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTEJWeWlDbHA0TjRaVm51eHRZY0RGSTA1Wi00NU53QzJTdXhYZVJPYXFzeFF2aUhhQ2NSMmU5UWhPY25CM3J1VVN0Z3ZaWHB6T1dyYlNYY2J2MWlkZDFNSUNfb0ZUbzEyREtFQWJnMENSQ0FLaUZqc1dYNjk2X3UyR2p1VlpLb1hTZmhFVy1uX1FNQWNhS3VJWjF2YTQ2Ml9WMGR5VWhEd3diUlhocEVxUEpXYmpqcVlvWGc?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 22:06:35 GMT"
-    },
-    {
-      "title": "싱가포르 연구원이 특구를 떠나지 않는 이유",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IMGxXRWdQTUJva1BiUjlaaDFnZEJDN01iMTJKTkZfLU0zRF9vVUN5Y2o5aWNXcnpiYktiMXZfaUtGclNhRDNMU0tTQXFKLVlxOTNGaVJvRUFZVmoyNUNqYW56QjM4ZE14bkxuNnBVNEpxNUZacmxTUQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 21:40:00 GMT"
-    },
-    {
-      "title": "한 병에 3천원 차익…식용유 사러 국경 넘는 이란인들",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGFIeklmRFZOWVlqZ0lXN1ZYYktqcFBGOG9ZSlk1aFJ3VGhpMU1hTDNLc2themh1ZENpaVhwV09LeExTQ2NlREpodTloQVNXWWhuZzgzU29KWVpjUjdCLWxjYVRxUVVMb2pOZlNhUTNPbW1CZmJwSFd4Njd3OVV3WURlb3N1TnNHcXdGUzYxdVpYTU1ZallNMXh2clZ4T2FDZDl4SDViZ25BbENPRFR6SDQ3QXB1bFJid2c?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 22:06:35 GMT"
-    },
-    {
-      "title": "방탄소년단, 美 탬파서 북미 투어 시작…12개 도시 31회 공연 대장정",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhMEVscE8tWWtjUzhDUHJVcGJmUkp6YTB6T3djWVQ0SEU0bzBaVFFPOVFQZ3k5WVNBY2VkTjN6bTdiQlVqNERrTURwM3ptNkNaMW1zMm92Q2plSXdyMjFUd1laaUxTUjViSnpYMQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 22:09:00 GMT"
-    },
-    {
-      "title": "부안군, 동학농민혁명 백산대회 132주년 기념행사 30일 개최",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzdMNXVROWxjMHJJQ3E3Y3p4WG9ocjNZYVVtWkJyVDFLNWZIVVgwRUsxN05wcHN1M0ZfbzdBSVVfdFlwdm5rRklOTWpVdy1BOERuSm96UFFuQ1otSjlzQTdyQ1ZFOUI1dkhEZTNyZkxtR25ISzEtQ1JtWUd0NGQ0WUlsTEEyLXFhdGZoU2FuNFNmLUJUenB2MVd5X3h1bEVSdVRtWFpFMlhsaU9mNTd0ZjJxQncyS3Vj?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 21:36:32 GMT"
-    },
-    {
-      "title": "윤석열 '내란 우두머리' 2심 시작…'체포 방해' 항소심 선고",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBibG5yRDVSV2MwTWtTYy1UM2x0bkhka3daRVZLNGZ5T29KRk12VGYwQ0FpT3BkbENCOWdPOHB2Y3BTcjV3ZFpySjZyaUtjLUc3a3VHZFRkREs4cDVGZzRUWjZn?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 22:00:00 GMT"
     }
   ],
   "sources": [
