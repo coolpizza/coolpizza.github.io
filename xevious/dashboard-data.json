@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T03:33:09.928340+09:00",
+  "generatedAt": "2026-04-27T04:30:56.147407+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,63 +67,63 @@
     "areas": [
       {
         "location": "서울",
-        "summary": "약한 비",
-        "temperature": "9.6°C",
-        "feelsLike": "8.2°C",
-        "highLow": "최고 20.0° / 최저 9.3°",
-        "humidity": "76%",
+        "summary": "이슬비",
+        "temperature": "9.1°C",
+        "feelsLike": "7.7°C",
+        "highLow": "최고 19.2° / 최저 9.0°",
+        "humidity": "78%",
         "wind": "1.8 m/s",
         "rainChance": "100%",
         "pm10": "39.9 μg/m³",
-        "pm25": "27.4 μg/m³",
+        "pm25": "27.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-04-27 03:30"
+        "airQualityIndex": "54",
+        "updatedAt": "2026-04-27 04:15"
       },
       {
         "location": "김포",
-        "summary": "이슬비",
-        "temperature": "8.5°C",
-        "feelsLike": "6.5°C",
-        "highLow": "최고 17.2° / 최저 8.4°",
-        "humidity": "81%",
-        "wind": "6.5 m/s",
+        "summary": "약한 비",
+        "temperature": "8.3°C",
+        "feelsLike": "6.2°C",
+        "highLow": "최고 17.3° / 최저 7.6°",
+        "humidity": "83%",
+        "wind": "7.0 m/s",
         "rainChance": "90%",
         "pm10": "39.9 μg/m³",
-        "pm25": "27.4 μg/m³",
+        "pm25": "27.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-04-27 03:30"
+        "airQualityIndex": "54",
+        "updatedAt": "2026-04-27 04:15"
       },
       {
         "location": "파주",
-        "summary": "이슬비",
-        "temperature": "7.9°C",
-        "feelsLike": "5.6°C",
-        "highLow": "최고 18.2° / 최저 7.7°",
-        "humidity": "82%",
-        "wind": "7.4 m/s",
+        "summary": "강한 이슬비",
+        "temperature": "8.8°C",
+        "feelsLike": "7.0°C",
+        "highLow": "최고 18.0° / 최저 7.5°",
+        "humidity": "79%",
+        "wind": "4.5 m/s",
         "rainChance": "96%",
         "pm10": "39.9 μg/m³",
-        "pm25": "27.4 μg/m³",
+        "pm25": "27.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-04-27 03:30"
+        "airQualityIndex": "54",
+        "updatedAt": "2026-04-27 04:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
         "temperature": "7.5°C",
-        "feelsLike": "5.4°C",
-        "highLow": "최고 19.9° / 최저 6.7°",
-        "humidity": "92%",
-        "wind": "8.0 m/s",
+        "feelsLike": "5.7°C",
+        "highLow": "최고 20.5° / 최저 6.5°",
+        "humidity": "91%",
+        "wind": "6.4 m/s",
         "rainChance": "19%",
-        "pm10": "28.5 μg/m³",
-        "pm25": "15.4 μg/m³",
+        "pm10": "31.1 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "25",
-        "updatedAt": "2026-04-27 03:30"
+        "airQualityIndex": "26",
+        "updatedAt": "2026-04-27 04:15"
       }
     ]
   },
@@ -302,16 +302,12 @@
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,969원/L",
-        "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-26 23:55:45",
+        "lowestPrice": "1,975원/L",
+        "lowestDistrict": "남동구",
+        "stationName": "지에스칼텍스㈜ 논현제일셀프주유소",
+        "address": "인천 남동구 청능대로 460 (고잔동)",
+        "updatedAt": "2026-04-26 21:53:59",
         "districtSamples": [
-          {
-            "district": "계양구",
-            "price": "1,969원/L"
-          },
           {
             "district": "남동구",
             "price": "1,975원/L"
@@ -327,6 +323,10 @@
           {
             "district": "부평구",
             "price": "1,979원/L"
+          },
+          {
+            "district": "중구",
+            "price": "1,980원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "李대통령 인도 방문, 모디 총리와 게임 생태계 협력 논의",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3eWp0S0dDSnJGN2RCLUdrdHNaeVQyMVRaeFhBMGY2V1hqTlV4bGhuV0tiN1R0R1lLa29jOHpvNTAyRUt4Nk1WRmN2Um4xR3Vuc1NrbEtyNjB1UmU1X3c?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 18:19:12 GMT"
+      "title": "소형 평형도 공간 경쟁…초역세권 단지 공덕역자이르네[르포]",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ3FfeXoxOVB1Q2o3bktRWVM5MkwxbUdCVzAxMU0zS20wRmMwVVlBUVRGcGpiNENGSy1ZZTF2b19sMjdodGd3RlEyZExHU1p5bWdDbkRORDlMVHA1MzYzZGhwVmFZSFRrVHlCb1BmRUpEVEl4OFdnNTJOWkhQaHVvWDBqRFBJWHE5VXBkVEF3d0dHeGtTbXBuWlV1TnoxeTVxNnhGQ1ZaR1M3QTBaV0JXTXV5cV80NzNrNVE?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:18:08 GMT"
     },
     {
-      "title": "이소라, 15년 만에 만난 홍진경 성공에 감탄 \"여자 신동엽 됐네\"",
+      "title": "신동빈 롯데 회장, 베트남서 올 첫 해외 현장경영",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jcnJNRDM5bF9qTUtzZkFkZGFCUXZmYlNjQ1hBWHZvYnZlY1NscXBiSW51b1Z0X1ZfUFZwOUhHZ0JFTFhjeHJWTUVjaEtHOWpXVE1iMUlpZ2lURVFQd2VXNw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 18:11:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1cHlsVFV2al9RQjNXS2F3S1lwbGItUUxXSmdRTEc5c281a1gwOV9BQzB4RmpHRlRrTTZaM1VkUFpnZmdHajdEY3E0MENVRjhOeGVF?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:22:00 GMT"
     },
     {
-      "title": "신동엽 \"서울대 딸, 소주 23잔 마셔도 멀쩡\"…주량 DNA 인증",
+      "title": "통영시 주요사업 추진상황 점검 및 현지확인 실시 > 뉴스",
+      "source": "더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRaUxBU2hGdlFjeU1DbXQwbFZaY1lORS05cmNiVGJPbWJiNlc2OFpUU2tLMFZBaTVMRWlzaGViUWpvN2p6cnpCQVdGYXFFWUpCWm1XbGdxWDJTaW0xWUtNeXNfMlg5SFNxUGpSUUZycUU?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 18:46:00 GMT"
+    },
+    {
+      "title": "화려한 콘셉트 너머 정직한 실력의 증명…에스파, 도쿄돔에 내린 굳건한 닻",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjh0cjJGMVJ6b0IzTFhmSEcxLTYwMnVpOVFxeExNQm83NnZ1eTR5U250ZkxxeGxSMXQ4SlZnSllFSjB3Ti1ndHlfZzVienZKd3NJQ3U2cHFIZlJWeXRVV0JtSHVFS1M4Q0g0MzRBX0h6elFOSjFQX09VdVBUeW53eVlaMG9TYmFJUG9zcUstQXo1VEpFUXhmbTFaelR0bkJMTzc0RjhSc0dwNWNubE1LR2VQMnk5a1Vq?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:18:08 GMT"
+    },
+    {
+      "title": "[알림]혁신을 이끌 '가상융합기술기업'을 찾습니다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41ZkZTYjYwb0d2OVpna21ySzlyN2NMYWpPc2RsOG9qcDFId2ZXTjdpbG9GZFdXMlRoVzNQWUx0cGkwQWVLYzE3ckE2VmxTcHpJc0tr?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 17:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nZi1oUHRiYVpDeTd6bGVvaXhGaE5LNUc2YUVnalBHWHN6eEhjTm01RHFFdTNTWEFoZHZvVW9qNzA2VXFmS1Q0MkpaWk9QaU9uQnpuRkx5eWROSndvY3VGSFRxbkdZbEIyU1F2Rk9nUXY3WHdmV0gwYw?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:01:00 GMT"
     },
     {
-      "title": "총격 사건 속 찰스 3세 방미 “예정대로 하되 대중 행사는 조정”",
-      "source": "newsis.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zNml1TmhJUDIxUExBWHozMkpOcldSNVY3ZEVSbFFIbjlKRUdpUVZBZkprbGJPQVl2RWlnTEEyX0I1LW4tYUlkWUIwXzBGN0pldC1jeFpkd3NtUVZ4Qm1IONIBeEFVX3lxTE1yNjYyWk14aUsySnR0Y0pCUEZ4eDRGc1YxWVB2YU5IUHZubjg4RnZOOW9zcU1wUE9OczljVi1URFBxVXMwVWlKczcxVnhfOEEwbHh2SFF6SExGOERiR0FmblNULURxMGpyVzhNUFBlM2pha05tVnJERQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 17:57:03 GMT"
+      "title": "'초롱초롱한 눈빛 직접 볼 때 실감'…에스파, 도쿄돔 채우는 방식",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3h1cWhreS16TjVFbkl5bzhwckE4Zl9XRVlENHdHaFRsakxxSzE0aUcycFlzdjQ0RTdXVU1iSHdnTEZGeGpXbEZTb1JlRDg4NUJ4anhoTHp0VGt5VXMtbXZGU2tUYU5laW9WdFlWNjZrV3JpNGpSN01nQmdvRDE1WVZKbUROTUcwdDdXa3JGdExPdXNnRnZKdGdOalh0WTYtRkdpVlowaHpsbENtRlZpZFphdEhHRnFj?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:18:08 GMT"
     },
     {
-      "title": "추경호 대구시장 후보 확정…김부겸과 양강 구도 형성",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03bEV4TDJGUjg4cS1wcy1BUzFnSUVqS3lnTUozYW1CZzh5eDNZWVhQUFAyVm5wN0VscnVwbk5NVXpOeEY3cVRyRWJ3cTY0bUhUVndhc3J3aG45ai1tRjBiODkwbEJqY3Jk?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 18:00:00 GMT"
+      "title": "어닝시즌에 또 최고치?…변수는 美FOMC",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVb2VxMnJkUkFJTGZINUZ3ZUFSMTlYZDl0QUdJbzJNM19ld1AxemZNX0p3OEk4dS12UDVoZGl2eng4em51YmdNMVhTS2Z6ZWNsRjFz?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:18:00 GMT"
     },
     {
-      "title": "카제로스 익스트림 1막 업데이트! 보상은?",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tMG5PQjhTNzBEWkJ4NGxqcjVBOF9MOUZzclY2bnM2ODlWVTQwbFVfZmpkdWNrSlFRZmFfMTRFdHVGYXJBVC1CTG9tMzdXenFRSGpCMmo1QU84eTNrdnI3LTRnQmRncy0wamFQNHh6bw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 17:53:10 GMT"
+      "title": "동방신기·트와이스 등 日공연에 40만명…한류 25년, 여전히 뜨겁다",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1o3MFZnM0M3a3ZoeER4WHF3MXhFWG1LRlZraUVlMVM2anJRZi1SXy1CV2trZHZMZ21JaFVCY1BKWXZIbXlSSnFvLVNQM195TGJHR3MtcFQ4dWZROXpnMzltWkV6MVphQUJZVkpkc3lzRXBGUFJQQnBSWUF5Rk5wU1JQb1VsX3ZKWUVSS1ZyZ2xKUEVpQWd1UlpsZlRBRXkybWxjTkwxQkJXWFNjNnBTX2xOR3ZZT1RnSnc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:03:04 GMT"
     },
     {
-      "title": "AMD 드라이버 릴리스 Radeon 26.4.1 버전은 4월 28일에 출시될 예정입니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGFiRTI2eC1EYkUzNW5ISFVyNkhyWmNWS2VvbVVSdkRNeHNjY3VGcU1uQ25kMWJkWXNBbXd6c1E3cmZHLXdPYmdYcDdXY0t6VGE5RE1rMG5RX09CNkhqVDllOXY4dGVTb1VJQkdVa2RuUmN4UGNkMnB1ZjhRMm1VODhPM3JXWjBzN0tJdUc0bDJ4UEpUdHRn?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 17:37:11 GMT"
+      "title": "총격에 멈춘 백악관 만찬…재개 여부 논의",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5odXNYdm9oUGF0STdLVDlfNXRrSnZicWRFR3R0Z3d0dkY5dl9oaXdaYTZWd1B0YVVQQzBrOTVEQU1sYXo0UGRKLVFfY3F6cjhwVUlZ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:13:00 GMT"
     },
     {
-      "title": "메릴 스트립 이어 딸도 이혼.. 배우 남편과 두 번째 파경 [할리웃통신]",
-      "source": "TV리포트",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UNEEyRVVsUDc5dXRhZzlCdHZ6dGU3Ui13ZWFPVll6WEZORmliZWNGTGtzOFVGS2RkRjVqdzExZEJtdWVmUTBhSkxKX2NsdFp1OWxnMGdRLU_SAV5BVV95cUxPQnNBRlhHVGNNc0VuRUR2RHBWQlhLSTJHSVdmM2FuRHpxakRybjFuYW13ZWZuNDIxekhKaURWeGxEbU1ldW5OZ1R6VUFERmxqa1pFb0lZOFBSXzVhNi1R?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:37:01 GMT"
-    },
-    {
-      "title": "최고 가격 2연속 동결했지만 주유소 가격 꾸준히 올라, 왜",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdENyWlVEbFBQR3RsVEd0OFkwbHFuYXlhODJlY19saDNmLU0xOGhvbEp0REdyMTE2aWpLMkJ3UzZhLThWMHFRMW9YalQ2NUFhVzNrbENKcWo2OFYtVTl6ZzFZdnVFYUJQQ1VEOVdmSEU0MFRRZmlPSHcxdHRYMDltZjRadW9kdm9LN2s4N2ln?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:32:00 GMT"
-    },
-    {
-      "title": "11화 새로운 항해의 시작",
-      "source": "브런치",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YelA5V3Z2STg2OFhuNTl0cDhCTmFOTnRnQWxFQWVJNzRQelFWZkhaOTZZMDA2Z3NxMXpFZzNPT1BnckI3U1VWS1Z6T2E5dw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 14:39:09 GMT"
+      "title": "'8700兆 데이터센터' K건설 새 시장 연다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pYWxPT201U0FMNlBkYjZEaDc0eEZaUldZNDFFcktyZTZhWFIyalNWNFc2aFZ5VEl2aGJPOHFwc1prTFZZZUJqTVpGbHYtM2JUMkYw?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:04:00 GMT"
     }
   ],
   "sources": [
