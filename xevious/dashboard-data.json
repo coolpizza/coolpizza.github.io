@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T21:34:16.058726+09:00",
+  "generatedAt": "2026-04-26T22:49:49.701259+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "13.0°C",
-        "feelsLike": "11.2°C",
+        "temperature": "12.0°C",
+        "feelsLike": "10.3°C",
         "highLow": "최고 22.1° / 최저 8.6°",
-        "humidity": "58%",
+        "humidity": "63%",
         "wind": "3.6 m/s",
         "rainChance": "0%",
-        "pm10": "28.3 μg/m³",
-        "pm25": "19.4 μg/m³",
+        "pm10": "31.7 μg/m³",
+        "pm25": "21.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "62",
-        "updatedAt": "2026-04-26 21:30"
+        "updatedAt": "2026-04-26 22:45"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "10.3°C",
-        "feelsLike": "8.5°C",
+        "temperature": "9.9°C",
+        "feelsLike": "8.0°C",
         "highLow": "최고 20.3° / 최저 5.4°",
-        "humidity": "80%",
-        "wind": "7.2 m/s",
+        "humidity": "81%",
+        "wind": "7.1 m/s",
         "rainChance": "0%",
-        "pm10": "28.3 μg/m³",
-        "pm25": "19.4 μg/m³",
+        "pm10": "31.7 μg/m³",
+        "pm25": "21.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "62",
-        "updatedAt": "2026-04-26 21:30"
+        "updatedAt": "2026-04-26 22:45"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "11.3°C",
-        "feelsLike": "9.5°C",
+        "temperature": "10.6°C",
+        "feelsLike": "8.9°C",
         "highLow": "최고 20.9° / 최저 5.7°",
-        "humidity": "68%",
-        "wind": "5.2 m/s",
+        "humidity": "73%",
+        "wind": "5.0 m/s",
         "rainChance": "0%",
-        "pm10": "28.3 μg/m³",
-        "pm25": "19.4 μg/m³",
+        "pm10": "31.7 μg/m³",
+        "pm25": "21.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "62",
-        "updatedAt": "2026-04-26 21:30"
+        "updatedAt": "2026-04-26 22:45"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "11.1°C",
-        "feelsLike": "10.1°C",
+        "temperature": "10.3°C",
+        "feelsLike": "9.4°C",
         "highLow": "최고 22.2° / 최저 7.1°",
-        "humidity": "84%",
-        "wind": "4.3 m/s",
+        "humidity": "86%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "pm10": "11.9 μg/m³",
-        "pm25": "6.3 μg/m³",
+        "pm10": "16.2 μg/m³",
+        "pm25": "8.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "26",
-        "updatedAt": "2026-04-26 21:30"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-04-26 22:45"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-26 17:59:55",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-26 15:06:27",
         "districtSamples": [
           {
             "district": "계양구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜김포제2주유소",
-        "address": "경기 김포시 대곶면 대곶북로 347",
-        "updatedAt": "2026-04-26 13:49:22",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-04-26 17:59:54",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[청년골프] 힘차게 드라이버 티샷하는 이세영",
+      "title": "[청년골프] 퍼팅라이 살피는 양서후",
       "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50dmg5d2pPMGtLdThHVC1vR3doektDUUJ2d3ZNSEZDOXJFcUgzNWVvbTYxaFRmUU01NU9hNkJqSElwU09UMHhWTlNYaW91ZElhdjZVZGN5VjdEUUV5cmE2cW5ha3ZQcnNtNlE?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 12:17:58 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jSTJWbGs3QUtncG5qb0YyZ0pKbDloOU5nOXNCSVB0XzdkUWNWWV9neXVXRkwxU3lsZ0x0ZjlxSERSMmh2SzkwWkRTU180OWg2cWxNOHpMMGdiRjVXMlAyQ0VMZmY2c1BOMVE?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 13:24:03 GMT"
     },
     {
-      "title": "구미 28.1도 올해 최고…경북 곳곳 때 이른 초여름",
+      "title": "주간 애플 뉴스: 트럼프의 팀 쿡 칭찬, 관세 환급 미신청, M&A 전략 변화 가능성 등",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOS0V2Um1Uc1hNWElWQ0FnSl9PRUgydjFWWTZZZzJXOFc2ZWxmNU41dVdUQlN3MWlPUWJFdnlTbnR1NnJlel84aGlTNHRwRlZWUUFYcVNkdXJfSnFXeUVsOEtubHNjNFhRQ3Y5WlRSaWpTYkVZZ2ppWHFpZ3kyUVF4ZGM3cGYzMWdWZzhZeWVsdVFGUmVQOFhrbWk2akJLSUpfVkNHYTItRXVvblNxT2txclhBSHQ4MnFpZUtVRUJCWnRmZnZMWk4tN2JFTGJ3cjllMXpuREt2V0ljUi00UDFxaUJuM2o3UHFIdF9KRVhSQTRTZ3RLbGNPdHVROHNOZ0FyVU5TeE9jT081a0J2OUpsZlYxLVd1amg0ckE1TWJMTFE3U0NuRndVT1cwaGhSOW5PSHVfUF9rNnJIZmhzMDdFRmZuOV9neHVyV3ZXVWR5TU4wdGlRQ1VGeDRpNA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 13:23:34 GMT"
+    },
+    {
+      "title": "IMF \"韓, 연금지출 5년간 GDP의 0.7%↑\".. G20 선진국 중 최고속",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41SUxNRkdPV3l1WndVUi0xUlRPZXppSGt2SUNxamZ3QllEWVpwcnRKVWhwVjV4YkdHUEJRaVhLLUt0NnIxQlVtUnFFVm1pSDJFWEJXMzhlMjNqMmg5ZkFyZW5Ld0l3VVJYbGhV?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 13:25:30 GMT"
+    },
+    {
+      "title": "창작극 황금기 이끈 이상우 별세…송강호·문성근 길러낸 연극계 스승",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GdEJlQ3l4WEUzTW9jMmJfbEc1X0dnZUY3R2Q1RndxeDh5c3RfMThObkVKc19PcXVWcF9Rai1JMTliQTd3MHp4X1ZFMkZadHNGcENJeERuajN0UGhvUnBQOFQyTHZmSk9TU2lGb1plLTNFQTRMYWlYbQ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 13:30:00 GMT"
+    },
+    {
+      "title": "경찰, 가평 골프장 10만명 개인정보 유출 수사…북한 소행 의심",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0hlNGgyc0dPanQtWDBia0Z2bnZBWmJiNTVXOG1RUVRUZWFxQXRXNnFneG1KQTdQSzMzNWNYaEFmNGZHUnppUzdYLVV3Qm56bzM3Q2VZdmFHODhPeFpialFBdThzVXhiY09mYmNvWVVmWGhidWVzRUFNa3lZT3lxVDF1S0d0dVFHVXN2WGE5eUZRQjh6NzNYc0ptVUdBNHVNSUVPdnVTYkFZTC1TY2lGLWc3bXJEcnM?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 12:06:42 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlRPWnhDR1hBMW44X0g5dDBvYWpXLVlIZW9jYU1aZ1M0YURWejM1ZnZ6X2tSaTVjZmJOdThOT3BmdjZBQ1NZeHpDT3FrNnpMOHExX2g2eUFpZUg5RlBsNm1uOHFLanZQRTJsMVZ5bTdqQ0tTbVFIZG5KdFJiUDE3TVFTYVkzanE1UFpsbG52dlozdjJRZU02bnl5c0l5WXBWVGlhcWY3NnA0WTNfRjRtaDBWeS02NEgw?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 13:16:51 GMT"
     },
     {
-      "title": "강바람 살랑살랑 잠수교의 선물[포토뉴스]",
+      "title": "주간 정치 뉴스: 백악관 기자단 만찬 총격 사건, 미국 협상단의 파키스탄행 취소 등",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQSm9iYmZYZVJmSzRkZzgyVHNBOEh0SWZnS0R6ZEYyMlR6cjhUR2IxUXhIZmY4d1hMWk8yeWhRX1JFQ0Yyd1ZNR2lQTDc3aXVKSWx5NXdCWmo1TWNEZENTOW1yQlFCdS03OFBzTElCV3ZqUjZzSWFKazJ2OGFkTTRJUFJWODlHeFpxWHVSczNPeVpwdmtkUS1BdmtGQm5KTzdwY2xKY01RYnJDR3VxeHdkMFh5Um81ZDhkcnpGNTdrUnNkT0RhUmctUFZHc2xTMF84MUpBM3hWTlN5SWozMFBxdm5BMG5sbF9XYi1rSER6cGZCYkJmOTV6OXlBdldOdUlTSUlwX0lWbGJKUGtlX3VfdWFReUJqX0Fib20tYTc4YUVFTWdlRjdNNnhHVEd2RERMZEVMOXUyWGd5V1BLTmp5dGVyNm1NRjUtd0lydmFCczBnRWs0NmcwNF80aGE2dU5uM3Fj?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 13:08:33 GMT"
+    },
+    {
+      "title": "민주당, '금전거래 의혹' 순천시장 후보 감찰…\"결과 따라 조치\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ZUVLMndrUDVzSU5EUHhUMXo2bWt6aENSVHdtRDdZWkJ0TmZrRDZsSXNpWkwtNWNVZGFkMXN1bFg4Qm5XSGVHX0hoVmlGOE1LMzBV?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 12:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GUy1aVC1RUWlHV1dKSDg1M1NZaERiY2JEYnM2RHA2NVByRlNOcl9NWS0xOUxMemkxNTlMNHdBYjlQdHI5dlF4QTF5TElGS1FhV1NB?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 13:16:00 GMT"
     },
     {
-      "title": "경북 구미서 경비행기 불시착…조종사 자력 탈출",
+      "title": "송규환, FOMS Korea 'AKRC Round 1' 우승",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QNVVWd2VGMzVmR1hwb09xWkdVSWVGN3duQ0pXX1ZOTUJYck1jRnJHMWllcENKdG51LUkwVEo1NUFvMVU2Uk9SVnNCdTFEUjRvTU9Z?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 12:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pRVpsN2xBVGVGajJxUGV1aFY0czY4ZEoxNHFEaWh2LTJ4V09lUDBMWks5Skp6QnZoaXZDVTdXV2ZVaFNXOTEtWnFHNGV5cVQ3alo2N0NQb01VZmxNdVItOVdtYkpTbnk3OHRVSnFnMFFIdVoydE00Sg?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 13:03:00 GMT"
     },
     {
-      "title": "이재용 회장 '양질의 청년 일자리 창출'…삼성, 4대그룹 유일 공채 지속",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWIxNXJzVk43RzJfMnhWRVB4dlRsNXZ1dHNBTTdpdVhVMnJWM3BBSzBqWVVCMmllU3FIMXh0ZkpDZ2J2el9feGhIR0JvbGRhZERRVFVNczVfVVRha1FKMUNDaWowTUZNY3doVDZNckkzSjg1VU00STJ4UWcyZmxQd3l1RVpJcDI5d0k2Z3VNM3BlYXlBanB2QV9fU1JLaGU3TzNuQjFCdkh1RkRsNWNGaW5Sd3J5bk14V1hGX0pLeTZLWk51TFJBMUdR?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 12:01:47 GMT"
-    },
-    {
-      "title": "與, 백악관 총격사건에 '美에 위로…어떤 폭력도 용인 안 돼'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRF96czRELVlxdDhudUl5RlVOcm5GOWNObXJUUTljT2poX0NMVWxzWC1JUVBBUDhnSkhhV0hmMVNtLXN2QWpZQnRBMkJieTRTSUM1UHZJYUNWVHdtRXo4VXl5ejFDMl81alEwZWdlZmU4d2Z4ajBCNFdZbldkcG1wdlVNczFRT094bzBJTDlIcmtDVUZRMGxwR091ZGhCRlZTWG56N1JSSE9ITGQ3ekpZWFRlX2UtWDFNWEktd0cxVzJkU1Y1TFRXR2RMUQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 12:16:43 GMT"
-    },
-    {
-      "title": "GH 김용진 사장, 현장경영 속도전",
+      "title": "이장우♥조혜원, 백허그하고 난리났네…예능 최초 '신혼생활' 공개 [시골마을 이장우3]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11dmRCNjJuYUtwaFd5UUxVWU05Nm9pcVFJMVVxY0pTWS1VX0pKR0p2TjNrM093Nl9ldDl1cUJYcHMwVE1UdVBHNjl1V0VEbzV2T2Jv?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 12:09:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjaHJoRGExOWx2eU1meEUtbEkzaDdiczhxaVJNSncyQ1dtTGZneEp3VUJiZVNrZGtBOUdCWWhDNDdGdkFfWW9oQVB0Yjg2ekpWMF9v?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 12:51:00 GMT"
     },
     {
-      "title": "'로봇 조끼' 입고 감귤 따니 허리 통증 뚝",
+      "title": "[속보] \"이란 외교장관, 오만 방문 후 파키스탄으로 출발\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50ZGZVZUxvR3MwYnBEUm02QmR6TWZXb3htUzNkdFZQUE5JZ1h4ZVEtcGhrZGNGY0p6RWlNbC1HaUpoTElmRWJrVm1sbzZSOWtsLS1R?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 12:05:00 GMT"
-    },
-    {
-      "title": "불법 유턴하다 보행자 치어 숨지게 한 70대 금고 2년",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CU1MtRmdsQkFUZEJFOGVDaUZqNmppODVnMldaZVloc1hBSHBwUXZPaW1TS2xJOWpIUU0zRjB1T0lFX1RTQ2RET2hudXRIOVR1NTBr?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 11:57:00 GMT"
-    },
-    {
-      "title": "\"이주노동자 200만시대 인권 보장을\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZeXRrY0xYbTJyd1VoQW8xR3dCU0JobWxDakZxOXVST2RKY1BhRjVEbS1md2JHRkdqSm1TZ0J0YkdLSUpqXzFaZ2prdjdLdG41Y1dV?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 11:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IS2F3aG5abUl6UVU5SWw5QkJwN3hFMDhNaUlybFRkanowSjdDbXVVTkp0dVNXS3JhUVFHN0Zna2pDMDhUWWRjb3FTQk9lVElXbE1Lb196azlOZGlkT3ZxbVZWMXFLbHNtZGc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 13:32:00 GMT"
     }
   ],
   "sources": [
