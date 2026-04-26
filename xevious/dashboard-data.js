@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-26T23:36:24.458863+09:00",
+  "generatedAt": "2026-04-27T00:14:50.090809+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,68 +67,68 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "location": "서울",
-        "summary": "약간 흐림",
-        "temperature": "11.5°C",
-        "feelsLike": "9.9°C",
-        "highLow": "최고 22.1° / 최저 8.6°",
-        "humidity": "66%",
-        "wind": "3.6 m/s",
-        "rainChance": "0%",
-        "pm10": "35.2 μg/m³",
-        "pm25": "23.5 μg/m³",
+        "summary": "이슬비",
+        "temperature": "11.2°C",
+        "feelsLike": "9.7°C",
+        "highLow": "최고 20.1° / 최저 9.3°",
+        "humidity": "70%",
+        "wind": "3.3 m/s",
+        "rainChance": "93%",
+        "pm10": "36.9 μg/m³",
+        "pm25": "25.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-26 23:30"
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-27 00:00"
       },
       {
         "location": "김포",
-        "summary": "약간 흐림",
-        "temperature": "10.0°C",
-        "feelsLike": "8.4°C",
-        "highLow": "최고 20.3° / 최저 5.4°",
-        "humidity": "81%",
-        "wind": "5.4 m/s",
-        "rainChance": "0%",
-        "pm10": "35.2 μg/m³",
-        "pm25": "23.5 μg/m³",
+        "summary": "약한 비",
+        "temperature": "10.1°C",
+        "feelsLike": "8.7°C",
+        "highLow": "최고 17.5° / 최저 8.5°",
+        "humidity": "79%",
+        "wind": "4.3 m/s",
+        "rainChance": "89%",
+        "pm10": "36.9 μg/m³",
+        "pm25": "25.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-26 23:30"
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-27 00:00"
       },
       {
         "location": "파주",
-        "summary": "약간 흐림",
-        "temperature": "10.2°C",
-        "feelsLike": "8.5°C",
-        "highLow": "최고 20.9° / 최저 5.7°",
-        "humidity": "75%",
-        "wind": "4.7 m/s",
-        "rainChance": "0%",
-        "pm10": "35.2 μg/m³",
-        "pm25": "23.5 μg/m³",
+        "summary": "약한 비",
+        "temperature": "9.8°C",
+        "feelsLike": "7.8°C",
+        "highLow": "최고 18.7° / 최저 7.6°",
+        "humidity": "76%",
+        "wind": "6.1 m/s",
+        "rainChance": "92%",
+        "pm10": "36.9 μg/m³",
+        "pm25": "25.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-04-26 23:30"
+        "airQualityIndex": "61",
+        "updatedAt": "2026-04-27 00:00"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
+        "summary": "흐림",
         "temperature": "10.1°C",
-        "feelsLike": "9.3°C",
-        "highLow": "최고 22.2° / 최저 7.1°",
-        "humidity": "86%",
-        "wind": "1.8 m/s",
-        "rainChance": "0%",
-        "pm10": "21.2 μg/m³",
-        "pm25": "11.7 μg/m³",
+        "feelsLike": "9.2°C",
+        "highLow": "최고 20.9° / 최저 6.4°",
+        "humidity": "84%",
+        "wind": "1.5 m/s",
+        "rainChance": "10%",
+        "pm10": "24.7 μg/m³",
+        "pm25": "14.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-04-26 23:30"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-04-27 00:00"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 4월 26일 (일)",
+    "todayLabel": "2026년 4월 27일 (월)",
     "areas": [
       {
         "region": "서울",
@@ -136,31 +136,31 @@ window.DASHBOARD_DATA = {
         "chains": [
           {
             "label": "이마트",
-            "todayClosed": true,
-            "todayStatus": "오늘 휴업",
+            "todayClosed": false,
+            "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-26 00:04"
+            "updatedAt": "2026-04-27 00:09"
           },
           {
             "label": "롯데마트",
-            "todayClosed": true,
-            "todayStatus": "오늘 휴업",
+            "todayClosed": false,
+            "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-26 00:04"
+            "updatedAt": "2026-04-27 00:09"
           },
           {
             "label": "홈플러스",
-            "todayClosed": true,
-            "todayStatus": "오늘 휴업",
+            "todayClosed": false,
+            "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-26 00:04"
+            "updatedAt": "2026-04-27 00:09"
           },
           {
             "label": "코스트코",
-            "todayClosed": true,
-            "todayStatus": "오늘 휴업",
+            "todayClosed": false,
+            "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-26 00:04"
+            "updatedAt": "2026-04-27 00:09"
           }
         ]
       },
@@ -238,24 +238,24 @@ window.DASHBOARD_DATA = {
         "chains": [
           {
             "label": "이마트",
-            "todayClosed": true,
-            "todayStatus": "오늘 휴업",
+            "todayClosed": false,
+            "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-26 00:04"
+            "updatedAt": "2026-04-27 00:09"
           },
           {
             "label": "롯데마트",
-            "todayClosed": true,
-            "todayStatus": "오늘 휴업",
+            "todayClosed": false,
+            "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-26 00:04"
+            "updatedAt": "2026-04-27 00:09"
           },
           {
             "label": "홈플러스",
-            "todayClosed": true,
-            "todayStatus": "오늘 휴업",
+            "todayClosed": false,
+            "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-26 00:04"
+            "updatedAt": "2026-04-27 00:09"
           },
           {
             "label": "코스트코",
@@ -287,16 +287,16 @@ window.DASHBOARD_DATA = {
             "price": "1,979원/L"
           },
           {
-            "district": "광진구",
-            "price": "1,979원/L"
-          },
-          {
             "district": "은평구",
             "price": "1,979원/L"
           },
           {
             "district": "양천구",
             "price": "1,984원/L"
+          },
+          {
+            "district": "관악구",
+            "price": "1,985원/L"
           }
         ]
       },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "걸포주유소",
-        "address": "경기 김포시 금포로 1117-6 (걸포동)",
-        "updatedAt": "2026-04-24 20:40:49",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-04-26 17:59:54",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[영상뉴스]오늘의 주요뉴스 2026년 4월 27일",
-      "source": "영남경제",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iV1JmNC16enBsdUtpTTR0N1ZDLXFoZXFGWE10MWcxWFVMTnJXM2FRVFJwNC1ibXBrU1Zob1lmMElJTzdpdGY0Y09yMnFoNEMwME9NckItZHo3ZHNlWHhGM1F5VS1xXzA?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 13:55:18 GMT"
-    },
-    {
-      "title": "[청년골프] 방신실, 캐디와 화이팅",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81ZVNhdjJ4czEzWkpnQThIdGZlNFZGVWdVaDEyRmJVSDVnVS10ZVhuZm1SOWRxQTEzYnE1OXJKaU5DOHdyNXRJbnZMMzVad2l2cV82QVlBTEl3NERydVFwNWM1RGZoM2hXd3c?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 13:54:16 GMT"
-    },
-    {
-      "title": "민주당, 화순군수 후보에 임지락",
+      "title": "[사진] 서울시장 후보들의 주말",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iSXcyZzZKS2dTMjhNX0hXdHVjR3cyWC13S21hUklqaVViSjNNS1J3VVJWTU1tbC14OWxoYlE1eUFqWkNMM29qd3FxY1dZZV8yTV9BRF9SN190QVRPZjNodw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 14:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wQlNKZDc2ejN2RXhCdHl6cko1amtqRTZQT3ZtRWJfRXhqMzczY1o5eFdOZ1FCRW80d1cyV3hIbUN3XzJxZTRVbUpxakYzZ0M0TmRJ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:03:00 GMT"
     },
     {
-      "title": "지역기업 인력난 해소 위해 아시아 엘리트 공학도 유치한다",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02UEJLbkVHczVXaU1wUWVfNUVlMm9TVGpHTTVpbFhDNzlQbDJ4QzZoSHJfUDdTZEo5ckJ6WmpjSDh1QlJxSi1CYkg0VVJhN2NkZkZvc0ZpSGFSS3p3MllPQld1TzM0V2tsdVhN?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 13:57:00 GMT"
+      "title": "오늘 금시세(금값)는?…종전 협상 여전히 '난항' 국면",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kZFBSTXN5ME5yemNiY2Q3ZW1vN0lmZGxjZG1wb2dST3BULS1MWEhQZFJEUFoydFBUUGRmUGlub1lwenFOdWgxUEl2Tjl1MHY0WWRKcWJBMFJ4OUJrZklHY2l1VGZsLVU?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:03:00 GMT"
     },
     {
-      "title": "동해서 승용차끼리 충돌···70~80대 노부부 숨져",
+      "title": "이란 외무, 하루 만에 다시 종전 중재국 파키스탄으로",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBESGV2UF9XZWFKLU1odW5Xd1Nkb2Y4andQQkYzWUtZYVJRT0Fva2w3MnJVc09OSFNpNHdtc2k3d2xFZjZlQXBVQXdnUGpYRERUajhJQkRqb3ktY0dUNEZPYXhEejRBaFR5QmVyVnZleWNNRm4z0gF0QVVfeXFMUERIZXZQX1dlYUotTWh1bld3U2RvZjhqd1BCRjNZS1lhUlFPQW9rbDcyclVzT05IU2k0d21zaTd3bEVmNmVBcFVBd2dQalhERFRqOElCRGpveS1jR1Q0Rk9heER6NEFoVHlCZXJWdmV5Y01GbjM?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 14:23:55 GMT"
+    },
+    {
+      "title": "\"이 대통령과 호흡…배불려 드리겠다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ycnJtX1gzVGVVT0dPbXJ6SVpKUVBWZ1Y2LWtVQVVaSjlQc2xXUWtpYWlMd2pmdGpGZVF6Z3J6VHFBSEV4U09fSFYyOWhCTUstRWVr?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 14:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBra2M4Yk15YlI1VldUVGdDZEJVSUhhdEtxNnFRaG1ZaFhTUS1SVC1jdVVGWUtHYmRtY21KTHZ4NW9haEx2dEJ6bjZLcHpJbmJKLUtr?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:03:00 GMT"
     },
     {
-      "title": "출산율 반등 속 지갑 연 조부모.. 60대 출산 관련 소비 61%↑",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhTnFYdUlnQk5Vc2ROTWtyYlVaUDllbUJTdHhfV2RHaThERllnajNtX0pUX05fSjZKSXNwanZ3LW9IVnBFRHRqVUhrZ1N0QnJyT1Z3a1djN2RkWHppMk1tNWc2WlE4dENmNUhB?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 13:57:04 GMT"
-    },
-    {
-      "title": "보건당국 개입에도…의료 소모품 '재고 불안·단가 인상'",
+      "title": "홍진경, '이소라♥신동엽 열애' 과거 폭로 \"'내 남친이야' 고백하더라\" [소라와 진경]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nR3UxUFRQWFVVR250QXBnTXZ0Mml2RFBzMm1hOTRLLW11dURzOTFoUEloVHBrUUZKRXk5aHZUSXc0Mmc3VVE4eGl3X0JvTG9zU0RZcXZrYVFaNTNKbGFaQQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 14:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90aW1YQk1TVVU1dVBqYS15MkpFeWtVRkJOSjRkSUREOUZYcVRTb2R2N2p4Um40bUF4VmctU3h1U01YV2RYbC1pYnlvNk00eWw4OE5Gb00tcEVkb2pkVHdGMg?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:09:00 GMT"
     },
     {
-      "title": "김영훈 노동부 장관 \"고용불안 기간제 대상 \"수당 더 주는 '공정수당'\" 검토",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VUXo5VG9WSUIxQ0ZVY3VsSW4wSW5GYUZnNDB3bEhqZjh3b0NVSXBuUHNwVFc3eUJOX2lQbkVJMFNKZ3lvYVMyTXBqcEZsa2JtVXZlU2R1dEZKd3BMaHhwQmhMd0pYVkE4V0tN?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 13:51:36 GMT"
-    },
-    {
-      "title": "만찬 도중 '탕탕탕'…'트럼프 참석' 만찬장 아수라장",
+      "title": "\"대구가 무너지면 보수도 무너진다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IanFoSXRSUXpqdmNkTS1OSE04cklZTEY0NklseFpOMGdic2RHUWVCR0lud19OUlhjem9tc3g2eFBuTUoyWnJZM09UTVRxSEg0UW04?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 14:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94TFh3OTNsaXQ3S09nUW10a0hVZkxJTlUtVXF0Q1Zla1RScDE1SkNYenUwZ1pMbVV5cjFENE1HWU1NV21RcmNpbHdPeXlCVVVFMkd3?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:03:00 GMT"
     },
     {
-      "title": "장윤주, '도수코' 인연 신현지 극비 결혼식 깜짝 공개…\"닮은꼴 톱모델 포스\"[스타이슈]",
+      "title": "밤부터 수도권 비…일교차 15도 안팎[오늘날씨]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tRDJpM1JGQXI0dkR3R2NiTGR1eFZqTkhsR09rYzdlNDA4WnJMVm44Wmo3UG9rNkpoUGhFUnh3YU1YNm9RSWNLTl9ndU9XTDhFelRJ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 14:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15NWpBdVl1M09UNy1ENG91RnN3ZTRQR2RsNFpMdXFJQUhEZ0QtMzJHRkw1aTJFRElnc3JrZXB1b3NwMl9iNkFmaFFsdVRXSmNRbnRR?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:01:00 GMT"
+    },
+    {
+      "title": "이란 외무, 다시 파키스탄으로…미·이란 협상 불씨 살아나나",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySHhMWHlyX09fdkxIRUV0STJHc29WNURqVFRmYklDSVhSalBIM1JxWXJ4YmNDTllJdUNxRWdnZmkyQThBemk4Z2VJWHBEcW9VZVdj?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 14:52:00 GMT"
+    },
+    {
+      "title": "[중국증시 주간 포인트] 5대 중앙은행 금리결정, 중국 제조업 지표, 4월 정치국 회의, 노동절 연휴 일정, 산업기업별 이슈 등 이벤트 폭주하는 '슈퍼위크'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsdkJ4U3RmZUlwOS03blp4LTJwMmJNUHNuWl8wTE5ibHdhNlp6TXB1bmV4RVNQanpXdGNQWlp6N2FoTlpkYWJYNlhpb2FMbVV1MUhSR1JHTjUtYXVkbF9OVA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:02:00 GMT"
+    },
+    {
+      "title": "안효섭, JYP 연습생 탈락 후 눈물…\"인생의 오점 같아\"[스타이슈]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51Y0dOMjdNa3pEbmJtVUdoWWpuX2Z2Y3FSTVA4MHlKWWFWaG81VGN5VE9NMUJ6bEVzY3VhV0VqRWgzalpFd3BMbk5odWxpejJaa0hj?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:00:00 GMT"
     }
   ],
   "sources": [
