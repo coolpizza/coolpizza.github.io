@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T06:59:30.087524+09:00",
+  "generatedAt": "2026-04-27T07:32:56.791341+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "9.2°C",
-        "feelsLike": "7.6°C",
+        "temperature": "9.6°C",
+        "feelsLike": "8.5°C",
         "highLow": "최고 19.2° / 최저 9.0°",
-        "humidity": "77%",
-        "wind": "3.6 m/s",
+        "humidity": "79%",
+        "wind": "1.1 m/s",
         "rainChance": "100%",
-        "pm10": "44.2 μg/m³",
-        "pm25": "30.6 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "46",
-        "updatedAt": "2026-04-27 06:45"
+        "pm10": "30.7 μg/m³",
+        "pm25": "25.6 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "32",
+        "updatedAt": "2026-04-27 07:30"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "9.0°C",
-        "feelsLike": "8.0°C",
+        "temperature": "9.8°C",
+        "feelsLike": "9.4°C",
         "highLow": "최고 17.3° / 최저 7.6°",
         "humidity": "97%",
-        "wind": "4.8 m/s",
+        "wind": "2.3 m/s",
         "rainChance": "90%",
-        "pm10": "44.2 μg/m³",
-        "pm25": "30.6 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "46",
-        "updatedAt": "2026-04-27 06:45"
+        "pm10": "30.7 μg/m³",
+        "pm25": "25.6 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "32",
+        "updatedAt": "2026-04-27 07:30"
       },
       {
         "location": "파주",
         "summary": "강한 이슬비",
-        "temperature": "7.8°C",
-        "feelsLike": "6.3°C",
+        "temperature": "8.6°C",
+        "feelsLike": "7.3°C",
         "highLow": "최고 18.0° / 최저 7.5°",
-        "humidity": "93%",
-        "wind": "4.8 m/s",
+        "humidity": "91%",
+        "wind": "4.1 m/s",
         "rainChance": "96%",
-        "pm10": "44.2 μg/m³",
-        "pm25": "30.6 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "46",
-        "updatedAt": "2026-04-27 06:45"
+        "pm10": "30.7 μg/m³",
+        "pm25": "25.6 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "32",
+        "updatedAt": "2026-04-27 07:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "7.7°C",
-        "feelsLike": "6.0°C",
+        "temperature": "9.3°C",
+        "feelsLike": "8.0°C",
         "highLow": "최고 20.5° / 최저 6.5°",
-        "humidity": "93%",
-        "wind": "5.8 m/s",
+        "humidity": "89%",
+        "wind": "4.5 m/s",
         "rainChance": "19%",
-        "pm10": "36.6 μg/m³",
-        "pm25": "20.9 μg/m³",
+        "pm10": "20.0 μg/m³",
+        "pm25": "15.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "28",
-        "updatedAt": "2026-04-27 06:45"
+        "airQualityIndex": "25",
+        "updatedAt": "2026-04-27 07:30"
       }
     ]
   },
@@ -376,34 +376,22 @@
   },
   "news": [
     {
-      "title": "1부 오늘의 주요뉴스",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50d2hKaHNrRV82SDNfanpFVEVlVUpqS01VM0Q4U3BMSmVwX3o1dkd4LVBtdFpHYmFIUmtPWW90bWFRS2tud292QXNHb09SX2JvemREZ01iZVBfOWZUVDhub0Zld2JFYVg4RmxlcUF4Qm43dlY0Zk5lZ2FR0gF6QVVfeXFMTWs2bFIzLW9kMmVWMUM2UlB0b3VpSVBJVmw5UGViNzcyeFdaLVcwb2RUWjhraUZxNUExd19ERzcycFdMNzZPQ0xYYUJqaW1sRXFLZlVBYmVWT0hDRVBDQUh0dGJ5RkhWRU1TNGNrMmh5SGhBZnMxM293c1E?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:02:30 GMT"
+      "title": "4월 27일 굿모닝 MBN 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10ZFVCY3Z5V3Rka0pQU1VVSVBORUlVZkVQbHF0MzJSckNxaXppQlI3VWRXNzVvUVJWRDlsYkRJNVZKd24zSGowYmRURE5EOVhmYU9MRnd3UHFyNEp5WjlNTw?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 22:11:00 GMT"
     },
     {
-      "title": "[카드뉴스] 5월 연휴 꼭 가야할 전국 축제 9선",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUjE5N3h0aWZMRVV2NjdtR1FHT2Noenl0MHByY2tOOERLUmZiVjVOVVl4eVIzR0E5YnVxcHRvZzR0T3NESTdOX0NTSHpteGJmM2pFT045b0NyUQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:00:00 GMT"
+      "title": "주간 기술 뉴스: 인텔의 호실적, 메타·아마존 제휴, 구글의 앤트로픽 투자 가능성 등",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPWEYzazFiWHJZMUdkVWhlSkpPTFhkdFF5aHR3Z184b3Z3aVQwdkhMVXN6RzBlTFlmNWdxZW1ob3NTQXo3NEJkbWZLX2h5dnpYYzdMN1piUXZsSlBQQnZvbUhPdU5QZEpiZHdlNS1oSnBtY0NsTWdoNXJlOWtEYVVuYTZXNGFMeFI2QTJVMTRZSGNCMmlyOW1RMmFTUWNfa1c2ZVlvWG4yalZQZG5NNDRhVFRhYjI0dVlrOTRrZTUyQ0Fnalk2N0Jwd0lOTWxNeHIySDJGS1B1MXRWcF8wMWdrSGlycEtfQWdlU2Vkd1R6b241WERTRW1HeXpORGZsaDFtRnlKT1RDbloxV1Q1aWhXSWttQzVaenVsSzJDRnd2RFZ2Zkg4OFEtN0h5ejRGMWNmdEF1WHlkUW5kQWJjNFMzTFJFb1hsUjdZRm5kaVdsYmNjbTNf?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 22:29:18 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(24일) 주요공시]",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbVIwOWJwblVObG5BcDZXY0FYSDFwX0R3ZGJCNTBjbTZSWm5kalNyTU5XUVBJOGdPM1F0alNWT3JySWZHaFRUSDVZbVF0YkN6WHNGbER3TUxFX3PSAWBBVV95cUxNckYzN0V0RlRDdFVCRXFEODBGY1NmNk5nbVdrSHZLTnFYU2xmNXpBNEU0N0ZjbWFGd3dmeEt3bjBnVGVaOU1OTXVNeDRHeG45dlVJT21mcnN6cllzWF9OMl8?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:05:01 GMT"
-    },
-    {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yWmZhQXVJY1ZMa3ZSQWMtMTFHYnNkUG5XWDN6eUtDbnk4MTdKcEQteGVIbW1LUExjaWpuSWFKZENvVGczdE91Si1KN3JYZ2dmQTlXRkFJSTJhel9WR0dvQThJNFRlSGFQTmfSAWZBVV95cUxQYkdHV0taNlFIeXdDWFE3dWpCOVd6M3dsemtZVmhQS1JSc0ZCOFhjZWZ1NlZxSF8tRXVxUDBudzdNV2ZCeUU2dU54ZF9hVW5HUnpfVTVPUkNMMHU5SlZWRzFGZm9VbEE?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:05:00 GMT"
-    },
-    {
-      "title": "文 전 대통령 오늘 국회 방문…'판문점선언' 8주년 기념사",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iXzVIMUE5dlgtdXFteS1ZTlBwcUh1Y3RyS3NGa1UzWmpjeTJhdTIwRE1BWDlrdDZkQVA0ZDhReGszUlI0NDdLTlpmeDBWRjVhdnpYSDVST2JfQQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:30:00 GMT"
+      "title": "[개장] 뉴욕증시, 불안한 종전 협상 속 빅테크 실적 슈퍼위크",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPejM3VUhxbVdkRy1PVUY1TGhsY1NZdmE0OUVSU0dka3pLVG5iTC1BeUhJQVZSa3NtZVJrcDdSR1RyNy1WNjE3cExyNU9OYmpWeDNVVjhHVk4ycmZ1aFJGMDBhc194a3VhRl9YMzR4bHZYR1FOTklxYmNFM3JzaFhHM3c5SndtVXRSOEF5MXd5V2xlTzV5RS1OV0JfYXVQX01yMlZKa0VTclkxT3FUbkpjUVJpYzdzaW14aVE?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 22:06:05 GMT"
     },
     {
       "title": "백악관 만찬장서 총성, 트럼프 무사대피 外 [간추린 주말뉴스]",
@@ -412,28 +400,40 @@
       "publishedAt": "Sun, 26 Apr 2026 21:48:21 GMT"
     },
     {
-      "title": "이란 외무, 다시 파키스탄행‥트럼프 \"전화 하라\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MUDdTZnEtVG5PTjFrejYzNlJlRDVvNjdqLVNTLV96MTc5ZnlyOFlTMm56TmxpSjBuc3VlVHl4ODlEdWdxb2x6NXNCemhWOHNNcEd1TFRPSzV2VXpZaHBhLVVkdTdOalBpS0FaNDdxQTRqOWV3Q0p2NWZ30gF6QVVfeXFMT3YwbXNGbnV4c0hUbU0zUnBQYVJzNEVTeTE4TTdNV1hLVDZaWDNkejlWeUZKbVZxRTg3WWtuWnVvVTM0Z3NlcnV0Zm5KM3BrMmFpVUdzVkktR2FILTB4OWg3aWRBa09iZG01d1JuVzRoQkdiR1VNNnl3VVE?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:05:09 GMT"
+      "title": "전국 대체로 흐려…낮 최고기온 27도",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yaXdDeEFCNk9DQThmUFNLM09XdTBHYTRyLUFPRFV0OFlRMjROOXJsQ0o0YjhLRzFhbklQM3IxWDRoa0JxMklBbVp6X2FNY2RMR1lUYkpCRkRfWFJfWVNseUhXa2VPZWR0WkEyTzNKaDQwQzY5LTIxcg?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 22:24:00 GMT"
+    },
+    {
+      "title": "[IPO 첫돌 에이유브랜즈] 무신사 동맹 효과…유통·투자 시너지 윈윈",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWkhsR2hDSzBvMjNpejFIWUJpWWI3N1g2TWZ4Q1l4VjhMSml3bWFhR0h4a3BUZUZLNDZxSmZ1cHBNeWwzaThpTmZ3UjdhbzFZYmN2N0ZjY0RpXzk3WHhISDNLOXozaFhIdGpaYTF1VFo4cDZNN25mc1ZpNldWUXdPTFlGeUdYWE9VNE1zM2FHRUpITmdQcWhISmY5bFJmUXlIWER0MUdEMWluWVdkdHpubTY0MERTT1lNSWc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 22:03:22 GMT"
+    },
+    {
+      "title": "日 홋카이도 남동부서 규모 6.1 지진 발생",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11NDVidVlhc0FJMmItLXR3VjZjRE9OUTNyaS1iQ2tEN08waEszVUtXLXJqM3d6YmN6Si1nbXRIYUh1Vjk1U24yLWdMa0ZsT3hzTUlTSlI0M2hWdDdGSDNQMjNONDNNREpld2M4enYxbEFmbmZKR3p5VA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 22:12:00 GMT"
+    },
+    {
+      "title": "고속도로서 화물차 적재물 닻 낙하…추돌사고·교통 정체",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tUk40VTdzUFNZdEJXVXExalNNTVZ0UnNHdS1NcF8ybzVIMGU2WVJUMy1IQlExQ29sd0IxUlkweWlJSXQ1blFGYmx0eVdMZTA1Q0U0?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 22:01:00 GMT"
+    },
+    {
+      "title": "백악관 기자협회 \"총격 파행 만찬, 향후 일정 논의 착수\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqTzc2TWwxaUVGWlU5dE1zc0lKNy0wQmZRVVlROTBHeV9tVWhYRUEydmtFS3hIZ2RfTWx1a1VuZ1BxS2Z2Q1ZzSnREbXNWTnQ5VGpRbVV1bWtGMVdEVXhkdA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 22:13:00 GMT"
     },
     {
       "title": "이란 외무장관, 다시 파키스탄으로…\"구체적 종전 조건 전달\"",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92VUFza2ZmNEZJUWtFYWE3N0lXNG8tRVRQakNLaUpnY3VScER2dHR0ZkUyd1JzdHNFZVdHSVlmM3dtSFZ5YjE2UzlhVHNJTjNuWngzcWNiUDVOekdyUlU4TEJqUVNBbm12dGl1TjdfZS1ha2JPM25pdg?oc=5",
       "publishedAt": "Sun, 26 Apr 2026 21:39:00 GMT"
-    },
-    {
-      "title": "첫발 뗀 치매머니 정책…대상 확대·후견제 개선 등은 과제",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSVNsbjJLdWZjQ0pVZ1cxVUFxUUdUeTJqcjZQZjRybFJXa3d5THR4TkV6NjBNMWw5dTZ0aTd4MWdXZHIzUjlUeFpZZ09TMXpSR0dNQTJ6MDJ2THUta1JFMFd5WnpJYUhXUllZWFFWYkpPSF9nT3pDeHAtVzVtUVRDX2xiUFRaeDJvVTRBVnlYcFJlQl9sUEpBX1BrcG5Kekw5TEJWSUhwRHpNaDRTcV90elo3VUhFa0IteXc?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:13:18 GMT"
-    },
-    {
-      "title": "총격 직전 성명‥'트럼프·고위직' 암살 암시",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zUm5UdF9obnlUNHk5WDd1cUE4OGgxNG90d01fdjl3cDlwazN6MnVfd2JpRXhpSkFOUU9XQ09WeTJuWEJ1UFkwTUFoYWtOT3FaWWRMWkVXNFdtRTk3YTJ2QmdtM1h2OUd5X3ZZQXBrX0pGSDFHOW9LY1RB0gF6QVVfeXFMT1NUcVBfZzJucFI0NjNkQXpLUDMtT3NyTTNBZGJtV3RqQ0VYTzhoUXRvd1FrZzlLaXo2NUIxci1ON2tRSnBIaGtDclFQUUE1eXg5dThkeVRtNXRoTFlpc3h3c2hGZlJta0tSb3ExVkZIWmZ0ZUQ2S3hVTHc?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:10:50 GMT"
     }
   ],
   "sources": [
