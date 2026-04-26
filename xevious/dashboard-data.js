@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-27T00:14:50.090809+09:00",
+  "generatedAt": "2026-04-27T00:56:39.567098+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "11.2°C",
-        "feelsLike": "9.7°C",
+        "temperature": "10.8°C",
+        "feelsLike": "9.5°C",
         "highLow": "최고 20.1° / 최저 9.3°",
-        "humidity": "70%",
-        "wind": "3.3 m/s",
-        "rainChance": "93%",
+        "humidity": "73%",
+        "wind": "2.4 m/s",
+        "rainChance": "100%",
         "pm10": "36.9 μg/m³",
         "pm25": "25.0 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "61",
-        "updatedAt": "2026-04-27 00:00"
+        "updatedAt": "2026-04-27 00:45"
       },
       {
         "location": "김포",
         "summary": "약한 비",
         "temperature": "10.1°C",
-        "feelsLike": "8.7°C",
+        "feelsLike": "8.8°C",
         "highLow": "최고 17.5° / 최저 8.5°",
         "humidity": "79%",
-        "wind": "4.3 m/s",
-        "rainChance": "89%",
+        "wind": "3.3 m/s",
+        "rainChance": "90%",
         "pm10": "36.9 μg/m³",
         "pm25": "25.0 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "61",
-        "updatedAt": "2026-04-27 00:00"
+        "updatedAt": "2026-04-27 00:45"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "9.8°C",
-        "feelsLike": "7.8°C",
+        "temperature": "8.9°C",
+        "feelsLike": "6.7°C",
         "highLow": "최고 18.7° / 최저 7.6°",
-        "humidity": "76%",
-        "wind": "6.1 m/s",
-        "rainChance": "92%",
+        "humidity": "78%",
+        "wind": "7.5 m/s",
+        "rainChance": "96%",
         "pm10": "36.9 μg/m³",
         "pm25": "25.0 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "61",
-        "updatedAt": "2026-04-27 00:00"
+        "updatedAt": "2026-04-27 00:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "10.1°C",
-        "feelsLike": "9.2°C",
+        "temperature": "9.3°C",
+        "feelsLike": "7.8°C",
         "highLow": "최고 20.9° / 최저 6.4°",
-        "humidity": "84%",
-        "wind": "1.5 m/s",
-        "rainChance": "10%",
+        "humidity": "88%",
+        "wind": "5.5 m/s",
+        "rainChance": "19%",
         "pm10": "24.7 μg/m³",
         "pm25": "14.1 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "34",
-        "updatedAt": "2026-04-27 00:00"
+        "updatedAt": "2026-04-27 00:45"
       }
     ]
   },
@@ -346,15 +346,15 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "김포 최저가",
-        "lowestPrice": "1,979원/L",
+        "lowestPrice": "1,977원/L",
         "lowestDistrict": "김포시",
-        "stationName": "태리알뜰주유소",
-        "address": "경기 김포시 고촌읍 김포대로451번길 3",
-        "updatedAt": "2026-04-26 17:59:54",
+        "stationName": "수현주유소",
+        "address": "경기 김포시 월곶면 김포대로 2553",
+        "updatedAt": "2026-04-26 21:33:14",
         "districtSamples": [
           {
             "district": "김포시",
-            "price": "1,979원/L"
+            "price": "1,977원/L"
           }
         ]
       },
@@ -376,10 +376,34 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "[주간경제지표] 2026년 4월 24일자",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53X0dKcGJxSjIxejhWckNnQWhGb3FzT1F3bHNha1JLQlZtU2pXLU9FZnFkeWFUNUJjT2Ywd0tiY25nOUtEXzZzbDBOVDZQZTNNYTRVSVQ3R0JGcWpTNXhHRkxiUmtMZWlQd3c?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:32:00 GMT"
+    },
+    {
+      "title": "\"예술의전당 라이벌은 넷플릭스·유튜브\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ndWRuQzdPT05oVGxEV0hsOGswc1hFR0Y2M2JmTC1xNTJyZlRJaTZlQTVzQlhtMkdYRkphcm13ZndtTGlrNkhLczNZSXF3bW9CV0JZ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:43:00 GMT"
+    },
+    {
       "title": "[사진] 서울시장 후보들의 주말",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wQlNKZDc2ejN2RXhCdHl6cko1amtqRTZQT3ZtRWJfRXhqMzczY1o5eFdOZ1FCRW80d1cyV3hIbUN3XzJxZTRVbUpxakYzZ0M0TmRJ?oc=5",
       "publishedAt": "Sun, 26 Apr 2026 15:03:00 GMT"
+    },
+    {
+      "title": "김승현 딸, 칠순 맞은 할머니에 명품 FLEX…\"키운 보람 있어\" 울컥[스타이슈]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EemdPX1FDWl9mRVdJTTNLVmJVS0xQRElaaUFuUkV6TENzRU43M2F3QjRfek9OQUFYbDlyVWdHV3d4dlpwaTVCYzJzSGZMSXJ0aTJZ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:46:00 GMT"
+    },
+    {
+      "title": "\"숨은 그이 찾기\" 류이서♥전진, 개구쟁이 커플 아니랄까봐…기상천외한 '거울 셀카'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nbUJDVFdHN1JnUC1nMjlTQk1TYS1mRUZneXl4NTQ5MVpRNDdzTjV3d3lsYktwaG9hdUhQbW1ZR0VhTFZJY0R0aXJfQzNwNTZLUThB?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:40:00 GMT"
     },
     {
       "title": "오늘 금시세(금값)는?…종전 협상 여전히 '난항' 국면",
@@ -388,52 +412,28 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sun, 26 Apr 2026 15:03:00 GMT"
     },
     {
-      "title": "이란 외무, 하루 만에 다시 종전 중재국 파키스탄으로",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBESGV2UF9XZWFKLU1odW5Xd1Nkb2Y4andQQkYzWUtZYVJRT0Fva2w3MnJVc09OSFNpNHdtc2k3d2xFZjZlQXBVQXdnUGpYRERUajhJQkRqb3ktY0dUNEZPYXhEejRBaFR5QmVyVnZleWNNRm4z0gF0QVVfeXFMUERIZXZQX1dlYUotTWh1bld3U2RvZjhqd1BCRjNZS1lhUlFPQW9rbDcyclVzT05IU2k0d21zaTd3bEVmNmVBcFVBd2dQalhERFRqOElCRGpveS1jR1Q0Rk9heER6NEFoVHlCZXJWdmV5Y01GbjM?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 14:23:55 GMT"
+      "title": "\"가평군 리앤리CC 가입자 10만명 개인정보 북한 해킹 가능성\"",
+      "source": "뉴스버스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNF8wTG9uVVd0bEtkMlVRMHF0S3RyUUFCeTZSeEpuVHBFZmR5dU9XTjFmZDdTaG5LU0lBaTRyOVFOV1NYZkZZT0l4a3NUUmZJU0F0RG00bnRwc0U5cWd5Z2YzdDUxV1hvQ3c?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:29:31 GMT"
     },
     {
-      "title": "\"이 대통령과 호흡…배불려 드리겠다\"",
+      "title": "박완수 경남지사, 주말도 도내 주요 행사장서 '활발 소통'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBra2M4Yk15YlI1VldUVGdDZEJVSUhhdEtxNnFRaG1ZaFhTUS1SVC1jdVVGWUtHYmRtY21KTHZ4NW9haEx2dEJ6bjZLcHpJbmJKLUtr?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVkp0Y2lrVkFsMWRnV053MWtvbHhEN0tSZmdUc3M3RjBRV0kyMml2Mk5sbE5Vc0FMeTNiemE5NU5KUDcyR04tYWozTDRFMTNFdXpJ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:33:00 GMT"
     },
     {
-      "title": "홍진경, '이소라♥신동엽 열애' 과거 폭로 \"'내 남친이야' 고백하더라\" [소라와 진경]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90aW1YQk1TVVU1dVBqYS15MkpFeWtVRkJOSjRkSUREOUZYcVRTb2R2N2p4Um40bUF4VmctU3h1U01YV2RYbC1pYnlvNk00eWw4OE5Gb00tcEVkb2pkVHdGMg?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:09:00 GMT"
+      "title": "트럼프 노린 총격사건, 현장서 나타나 웃더니 \"XX 엄청났다, 즐겼어\" 외친 데이나 화이트 UFC CEO…전 세계 비난 폭발",
+      "source": "엑스포츠뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uazFpbjZRb3VLaUlveDZabzZYS09xbTVmc25FRVBpWkV1T1ZTZ2VEVk0yQzNRZF8wc3hCLTRIUFl1aU41YnM3MmI3T3JrS0c0cUMyag?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:23:15 GMT"
     },
     {
-      "title": "\"대구가 무너지면 보수도 무너진다\"",
+      "title": "고수, 또 망언? \"잘생겼다는 말=인사치레…셀카 500장 中 겨우 한 장 건져\"[냉부해]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94TFh3OTNsaXQ3S09nUW10a0hVZkxJTlUtVXF0Q1Zla1RScDE1SkNYenUwZ1pMbVV5cjFENE1HWU1NV21RcmNpbHdPeXlCVVVFMkd3?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:03:00 GMT"
-    },
-    {
-      "title": "밤부터 수도권 비…일교차 15도 안팎[오늘날씨]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15NWpBdVl1M09UNy1ENG91RnN3ZTRQR2RsNFpMdXFJQUhEZ0QtMzJHRkw1aTJFRElnc3JrZXB1b3NwMl9iNkFmaFFsdVRXSmNRbnRR?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:01:00 GMT"
-    },
-    {
-      "title": "이란 외무, 다시 파키스탄으로…미·이란 협상 불씨 살아나나",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySHhMWHlyX09fdkxIRUV0STJHc29WNURqVFRmYklDSVhSalBIM1JxWXJ4YmNDTllJdUNxRWdnZmkyQThBemk4Z2VJWHBEcW9VZVdj?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 14:52:00 GMT"
-    },
-    {
-      "title": "[중국증시 주간 포인트] 5대 중앙은행 금리결정, 중국 제조업 지표, 4월 정치국 회의, 노동절 연휴 일정, 산업기업별 이슈 등 이벤트 폭주하는 '슈퍼위크'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsdkJ4U3RmZUlwOS03blp4LTJwMmJNUHNuWl8wTE5ibHdhNlp6TXB1bmV4RVNQanpXdGNQWlp6N2FoTlpkYWJYNlhpb2FMbVV1MUhSR1JHTjUtYXVkbF9OVA?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:02:00 GMT"
-    },
-    {
-      "title": "안효섭, JYP 연습생 탈락 후 눈물…\"인생의 오점 같아\"[스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51Y0dOMjdNa3pEbmJtVUdoWWpuX2Z2Y3FSTVA4MHlKWWFWaG81VGN5VE9NMUJ6bEVzY3VhV0VqRWgzalpFd3BMbk5odWxpejJaa0hj?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aclh0SUZUWjRwT2pjcFdBWVdtX0Q0eXQ2Um00eVU2eUNsM1J3R3JuYnB5TkdFeGxaSFRJWE5rYzNVWFplME1iQXhKUlVMRE1VNkxB?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 15:35:00 GMT"
     }
   ],
   "sources": [
