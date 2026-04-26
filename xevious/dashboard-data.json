@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T12:54:38.610770+09:00",
+  "generatedAt": "2026-04-26T15:00:22.195897+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,63 +67,63 @@
     "areas": [
       {
         "location": "서울",
-        "summary": "대체로 맑음",
-        "temperature": "21.5°C",
-        "feelsLike": "21.8°C",
-        "highLow": "최고 22.1° / 최저 8.6°",
-        "humidity": "32%",
-        "wind": "5.0 m/s",
+        "summary": "약간 흐림",
+        "temperature": "21.9°C",
+        "feelsLike": "21.3°C",
+        "highLow": "최고 22.2° / 최저 8.6°",
+        "humidity": "34%",
+        "wind": "6.5 m/s",
         "rainChance": "0%",
-        "pm10": "16.5 μg/m³",
-        "pm25": "8.0 μg/m³",
+        "pm10": "18.2 μg/m³",
+        "pm25": "7.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-26 12:45"
+        "updatedAt": "2026-04-26 14:45"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "20.1°C",
-        "feelsLike": "20.4°C",
-        "highLow": "최고 20.1° / 최저 5.4°",
-        "humidity": "48%",
-        "wind": "10.2 m/s",
+        "temperature": "19.7°C",
+        "feelsLike": "19.3°C",
+        "highLow": "최고 20.4° / 최저 5.4°",
+        "humidity": "51%",
+        "wind": "11.6 m/s",
         "rainChance": "0%",
-        "pm10": "16.5 μg/m³",
-        "pm25": "8.0 μg/m³",
+        "pm10": "18.2 μg/m³",
+        "pm25": "7.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-26 12:45"
+        "updatedAt": "2026-04-26 14:45"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "20.3°C",
-        "feelsLike": "20.2°C",
-        "highLow": "최고 20.8° / 최저 5.7°",
-        "humidity": "39%",
-        "wind": "8.6 m/s",
+        "temperature": "20.8°C",
+        "feelsLike": "19.6°C",
+        "highLow": "최고 20.9° / 최저 5.7°",
+        "humidity": "38%",
+        "wind": "11.0 m/s",
         "rainChance": "0%",
-        "pm10": "16.5 μg/m³",
-        "pm25": "8.0 μg/m³",
+        "pm10": "18.2 μg/m³",
+        "pm25": "7.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-26 12:45"
+        "updatedAt": "2026-04-26 14:45"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "21.3°C",
-        "feelsLike": "22.9°C",
+        "temperature": "21.2°C",
+        "feelsLike": "21.0°C",
         "highLow": "최고 21.5° / 최저 7.1°",
-        "humidity": "59%",
-        "wind": "9.0 m/s",
+        "humidity": "57%",
+        "wind": "11.9 m/s",
         "rainChance": "0%",
-        "pm10": "15.1 μg/m³",
-        "pm25": "7.4 μg/m³",
-        "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-04-26 12:45"
+        "pm10": "12.6 μg/m³",
+        "pm25": "6.6 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "45",
+        "updatedAt": "2026-04-26 14:45"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,978원/L",
         "lowestDistrict": "금천구",
-        "stationName": "㈜씨더블유 이엔지 금천지점",
-        "address": "서울 금천구 독산로 147",
-        "updatedAt": "2026-04-26 10:36:37",
+        "stationName": "㈜씨더블유이엔지",
+        "address": "서울 금천구 남부순환로 1410 (독산동)",
+        "updatedAt": "2026-04-25 23:11:04",
         "districtSamples": [
           {
             "district": "금천구",
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-26 06:10:37",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-26 10:58:52",
         "districtSamples": [
           {
             "district": "계양구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "태리알뜰주유소",
-        "address": "경기 김포시 고촌읍 김포대로451번길 3",
-        "updatedAt": "2026-04-26 10:59:29",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-04-26 10:59:52",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "트럼프, 총격대피 후 기자회견서 건재 과시…'이견 평화로 해소해야'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkhTMVYxOTVkektYQjhNbkpGdTd1N1BzQWJzRDd2NXh2OFFBTTRZUFgyRHpUd1VXbVhDTTliN0lKQVB4cVJjR0IycXR0SmdrMTl0bUcxLVFuRkxpX0pKVC1Xc1IyWDgwZFZCVEE3T3pGUWkzdFBPVGZMRzVUZ0c4TzU0Y2NlemtRRkdVMUNxYlF3dzAwODJ3SzRyMjhobDdHbkZDaWVwT1hTMEJybmVtQ2UzeHB4VlVU?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 03:42:56 GMT"
-    },
-    {
-      "title": "'대한민국 자원봉사대상' 후보자 공모…청소년까지 확대",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yalBEQWQ2eFN1SjRHVGRVeWFId0d6RmtRMTlCYWprWnB3V3RGWUlPbWhaOHhoMUhGV2dHN0dub0lYZkZNVGR1VTV1cFlyUXh4QTdiUDNNeTFhcUU0?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 03:00:00 GMT"
-    },
-    {
-      "title": "LG전자, 차량사고 발생 알림 긴급호출시스템 공개",
+      "title": "쪽방촌 찾아 배식 봉사하는 정원오 서울시장 후보",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QOUdSQUxndEtFLTlUcjNQRHZNelBmSDROaE0xLWlsc0pXMWRTNXlmS05tUFBnSF9KZ3YzMTVtN2hvMDNPaEIwNmRCV202Qmhma193?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 03:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLaDNuQjFWR0RfbzVxX3huTG1oMExMVi03WlZLa1NFeWRzRDRKME5vUDdGcWI5SDRrSnU0S3ZVRE10R0o1UGF5bkc3QzZFNm1lcjQwNkhVdFZBelVLVnZHX2d1bHdGNUFtRXdRVXJB?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 05:47:00 GMT"
     },
     {
-      "title": "호반건설, 면목역6의5구역 수주…서울 정비사업 공략 속도",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50QnVXQUhHdGpEUUFzNXlXTDZpZGdlLUUtTldJN09WUlRXcDBiRFBzdEE4SmhjYnUxckt1bTRaWklrdDU2ZWRGb3RuOWdFVTgxTTBuMHZKc2ZydW1pNUt6S0p1V3N0ZnZtMFNGcThn?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 03:48:00 GMT"
-    },
-    {
-      "title": "코이카, 공공기관 동반성장 평가 3년 연속 '최우수' 등급",
+      "title": "美국무장관 어디갔나…이란 협상장서 안 보이는 외교수장",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmpXZ2YxZlI2TWUyNk03TWxic2NkbkxNYlVuSVl6UndDcnB2VWdBZXVTcXBPTVFvcDZsWTNPdUhoODVIZ19fXzlyZTlzcXNOMU5zTXZSMXhXVnVXNHVMWHRPa05QRlBKeGFNUEZRYTdFZHJobFZGbFdvZS1YUmUtOXRTd2hqY3g4NXA5N281TnJSSlJnQW9HTTZLbHRjUFlkckc3WmlGU0xOZ0tGZ3JNeFZTanhiWVZH?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 03:42:28 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZldscWpOSnVkMzQ0d001VFJWek5aaXlxVHpoRDYxVjZBdjN3NUVXTXg3MTBDNlpyZGZqal8xU2RXb2dGZVdkeVFhSnB4dkJRZDJTVFRnMkdQYngzdG04TF8zTjdVeWpnV2lYeng3WGJIVnRjcFlzamY0LU4zM0hjRWM2bUlWVUdHT3Z3SnlfbkpFVkxYZFVBZHduQVpuZS1CODZzMFJtcE5BX3NGSG4zajFnMGlBeEFYSVE?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 05:57:53 GMT"
     },
     {
-      "title": "\"천년 고찰 화재 막는다\"…소방청, 전통사찰 점검·현장 소통 강화",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFS0NheFNjNTBrQ1VaYV92YXE5Mjh3TFJEcjY2Z1lCZUZiQzdITF9xWm00eExKcVZfWFFEak8zYmdTZnFDZVFSTG1mMjVsdlhqZHhveDhMSkZxSms0?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 03:00:00 GMT"
-    },
-    {
-      "title": "GH 김용진, 현장경영 강화…주요 사업지 실행력·안전 점검",
+      "title": "[뉴스특보] 트럼프 참석 만찬서 총격…'2차 회담' 또 불발",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03MVVPSjVCOHJDS2I0V0xEejZ2c2hYRVQ4RUZOcmJyZDZManhPV2JybWtBNE9sd01ELXkzb3ZtWU1YamxDRTRRR241ZGZ5VGFqR01LX1NJUUI5VUIxaUNyZw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 03:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wNUk4a001M0QyLWNDUUMwVFMzMVdBS3A0cWFXS2ZrSFlral90bml3WkNuVVhqc1dwV05xb1lHX0JnemlfdHlYcUppbTFxU0tRN0I0?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 05:49:00 GMT"
     },
     {
-      "title": "정관장 글로벌 공략 속도…'홍삼, 면역 넘어 뇌·대사에도 긍정적'",
+      "title": "접으면 9.23mm…아이폰 폴더블, 삼성 와이드보다 더 얇아지나",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTUtaEszaWxNUnJWdnF2QTZMS3FHT0V6a2dCTzIzTjc4Wm54TE5qN3puUHpabXZha2ItVkZjWFpfNlRkN1VZXy04R21vUlF3d1l4VkQ5ckdta2xfbDJzRDZhclB0R3QwdjNTWERvWHZRNlVJWDFibV8ta1p2d3JxTHFrX2hBQ01JYjgybGhOREhMWUtPTXl0VVVCRjlTdGFGYklUT0ZuZFZQWmRJVzdZcUVkVV9qQmdh?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 03:20:03 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeTF5aGJSSUhTTWJuRzVLQUlsY3VXT0pRbXR5OHVWZ282RjBUQVNXY0tIVUNFbkwwSzJYVERkTUpoQ2ZSNXpNbVBnMU4zWVdSWHUwdVhCbGQ5UGFheWxBaTdSenZSemw5MVl3SUhhWEl5MU9jeEs0R0pod3Y1TGRiLVdJVlVmZWRxNkVkWWtIaW9WZ3k5WXd1TTlvc0Z6aXUxemJJYzVoNEdmaWdESXpLWlprMkJVU0U?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 05:52:53 GMT"
     },
     {
-      "title": "중동發 불확실성에…정부 '경제 체질개선' 논의 착수",
+      "title": "배식봉사하는 정원오 더불어민주당 서울시장 후보 내외",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yelg2cGRnWnNYZ2xBdmk4T0Q1YTR1MU1kNFQwRFRtenlVS1ZtZWlLaTd5b09lUlRCR3pFVjRvcDh0Mk1Mcl85UEU4N0NaN3FvM2VJ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 03:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00aHMwdUNmTkV0b3lfWXB2ZFBGaWtLYlZORjgzRVFyNXpnZm1vY1d2c2ZCbmpsX2EtUEhTdWx6cmdha2J3S3c4S3lQR3JJaFNpSkx0ZVp6MThrV1ZZaUlleA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 05:47:00 GMT"
     },
     {
-      "title": "'도전! 어린이 안전 골든벨' 등 어린이안전박람회 참가자 모집",
+      "title": "중동발 공급망 대란에…한국무역협회, 해상·항공 수출물류 지원나서",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcDVaXzNxVVpnQm5qY1d6NWhfN0dSWnpaOUZBWXZSMzJEV2tyVEktUW8wMmlKcUxYX3JPRUNxeVllOUlia01qcjZ2eXJ4d3BDc1RUb3k5b3VHZnFsLUtwUnRxUG1LV014cEFEZXdaLUxJN0pjc3VFaVFFTy1xbG5qRkdnR2ROOGdoOUF0bGk2eUdZTjZid1RnWGdfTXdnQzI1TG5YWTF1MkVHU1JfZjZnWTBueFNlQmtWeHdV?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 03:02:19 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1dZUjNZR21CSkJxQmhuYXduV3RyNVp2aE83MFBKa1VIQ25vNUViSDRfbmdnUDNmZFozUUQ3cUxpM2JQb0Zhd2ppVUIzVGtodExCMVE5ZGFieE15em00SGwtbU5YOWhZOVNiMGNPblh0a1VaTXV1Tk90bHU3bVZISFVZRS1qWmgtY3hGdGhXYXl6cGh3dzFFUUgwVHpPSzFhaGduMDZ0OEVlbURvRm1ZWmRxd19PbG1I?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 05:42:52 GMT"
+    },
+    {
+      "title": "서영교, 與원내대표 불출마…\"국조·법사위에 집중\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIS1F5QVZDRjJtSmgwcG1KTFFrZXBvSHQ4WGhyeXR3ODFNemlkYnhjTUI1bjJkNm5LUS1KVDJ5M0NHTEFfYXJ2MGduMnFUN0VVWXBN?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 05:49:00 GMT"
+    },
+    {
+      "title": "트럼프 '링컨 같은 인물이 암살대상…美대통령 위험 직업'(종합2보)",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTnl4UmdIbzhfTVY0cmx1VGJPRl8xNUotOVFraHdJclVGMW1NdGpmUjZLaURLVHB1ZUdLeFN3VHZlMW9DU1dKek9KajVTei1UODRnSlZrckFoV2ZPbWRyMFQwS3pydGR4R1Z1amx3WGx6TzBNdHgyeVRFbjB3WEUyQzlEVENocUN3bWFTMGJFN0pnR2d0enFUaHhiMXdReTloM0dLaFc5ejVZYWoyTTRpX3BsZmRxanRGWXc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 05:12:05 GMT"
+    },
+    {
+      "title": "금융연구원 \"증권사 은행식 규제 과도···자본운용 경직\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fVHBjbDB5bjVZYl9NYUtVUnFzWmZEa2FUOVJoZ1FzejliMTR3VnpBMngxS1kxcllIZGx6cjlWRVo5cFU1UmI4cmxfNzZ3S2N5aC1fcko3NDhLLWh6YkRCX0VNWDZqR3lzang5Z010ZWhQcEZXNEd5cA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 05:42:00 GMT"
+    },
+    {
+      "title": "윤진욱 투비유니콘 대표, 인공지능정부 기술자문위원 위촉",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsOE9FZDNOcUg0OUpKRHQ0UFJUNXdZSUdSd1ZtZTFzNjlOUDNnbjlkODhBSFdITGFzNmJQanpxWVE2dzNwOTczNTlDa2N0dFpzRC1ucmg2b2lFaVNPN2xlNw?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 05:52:00 GMT"
     }
   ],
   "sources": [
