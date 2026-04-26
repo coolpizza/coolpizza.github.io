@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-27T08:14:40.718317+09:00",
+  "generatedAt": "2026-04-27T08:59:21.218939+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "10.0°C",
-        "feelsLike": "8.9°C",
-        "highLow": "최고 19.2° / 최저 9.0°",
-        "humidity": "81%",
-        "wind": "1.8 m/s",
+        "temperature": "10.3°C",
+        "feelsLike": "9.2°C",
+        "highLow": "최고 19.4° / 최저 8.9°",
+        "humidity": "87%",
+        "wind": "4.8 m/s",
         "rainChance": "100%",
         "pm10": "31.7 μg/m³",
         "pm25": "25.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "30",
-        "updatedAt": "2026-04-27 08:00"
+        "updatedAt": "2026-04-27 08:45"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "10.1°C",
-        "feelsLike": "9.3°C",
-        "highLow": "최고 17.3° / 최저 7.6°",
-        "humidity": "97%",
-        "wind": "5.4 m/s",
+        "temperature": "11.2°C",
+        "feelsLike": "10.6°C",
+        "highLow": "최고 16.9° / 최저 7.6°",
+        "humidity": "96%",
+        "wind": "5.9 m/s",
         "rainChance": "90%",
         "pm10": "31.7 μg/m³",
         "pm25": "25.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "30",
-        "updatedAt": "2026-04-27 08:00"
+        "updatedAt": "2026-04-27 08:45"
       },
       {
         "location": "파주",
-        "summary": "강한 이슬비",
-        "temperature": "9.2°C",
-        "feelsLike": "8.3°C",
-        "highLow": "최고 18.0° / 최저 7.5°",
-        "humidity": "89%",
-        "wind": "1.8 m/s",
+        "summary": "약한 비",
+        "temperature": "9.8°C",
+        "feelsLike": "8.7°C",
+        "highLow": "최고 17.8° / 최저 7.3°",
+        "humidity": "95%",
+        "wind": "5.9 m/s",
         "rainChance": "96%",
         "pm10": "31.7 μg/m³",
         "pm25": "25.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "30",
-        "updatedAt": "2026-04-27 08:00"
+        "updatedAt": "2026-04-27 08:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "10.3°C",
-        "feelsLike": "9.3°C",
-        "highLow": "최고 20.5° / 최저 6.5°",
-        "humidity": "84%",
-        "wind": "2.9 m/s",
+        "temperature": "12.0°C",
+        "feelsLike": "10.9°C",
+        "highLow": "최고 20.0° / 최저 6.6°",
+        "humidity": "77%",
+        "wind": "4.1 m/s",
         "rainChance": "19%",
         "pm10": "18.2 μg/m³",
         "pm25": "12.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "25",
-        "updatedAt": "2026-04-27 08:00"
+        "updatedAt": "2026-04-27 08:45"
       }
     ]
   },
@@ -287,11 +287,11 @@ window.DASHBOARD_DATA = {
             "price": "1,979원/L"
           },
           {
-            "district": "은평구",
-            "price": "1,979원/L"
+            "district": "양천구",
+            "price": "1,984원/L"
           },
           {
-            "district": "양천구",
+            "district": "은평구",
             "price": "1,984원/L"
           },
           {
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-26 18:00:27",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-27 07:59:18",
         "districtSamples": [
           {
             "district": "계양구",
@@ -346,15 +346,15 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "김포 최저가",
-        "lowestPrice": "1,977원/L",
+        "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "수현주유소",
-        "address": "경기 김포시 월곶면 김포대로 2553",
-        "updatedAt": "2026-04-26 21:33:14",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-04-27 07:58:37",
         "districtSamples": [
           {
             "district": "김포시",
-            "price": "1,977원/L"
+            "price": "1,979원/L"
           }
         ]
       },
@@ -376,52 +376,46 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "트럼프의 이란 전화 협상 의향과 한국 GDP와 원화 영향까지 이시각 주요뉴스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VT0dhVklTeUdJZ3FLajJXajdIdnhrWHhnZ1Y0bFVZNWZNMEpRMzlvZkc3MENFcnhFQXcxRmFEcnduN3ZKcGQzdnBOMVdXMzlGekR6MC1OYkZKNWdFWjlFbGxIVW9ybFBHTkRuXzNzUnnSAXRBVV95cUxNT0g5VndJd3NHQ0hTakJvOElmU0l0TksyMnR5ajVGLTNMVVFUM0tSZkM4WElWSFJwempYc1hXNDlfcWpIQkkzdEhBWDM2R0QyVFZoSVBWc3FCWFdfQTl2RzlqbE5aRE1xY3NicllPU3RaVUZqQQ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 23:50:35 GMT"
+    },
+    {
       "title": "[전국 주요 신문 톱뉴스](27일 조간)",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnaVlFZERLd0l5aElzamtYN3ZfTTRhdUJxbFM1V2M4QWFsNVNZdzJseGVPdXFJcFp3S01ubkZITGVsWU1SYzZ3Nl8zMVZYblA5TFNHMm93Tjd6VFnSAWBBVV95cUxNQTQyVkY2enBiRDdZUndrc1htSkZQSFNHd2E3RUl5T2xGX2hJel92VHY4UTRhNHhhRTJydmVTLXFzN1VxSHo4aUxBWXZGOWNZS2pwWk9pYVNJeVF5LWc5X1A?oc=5",
       "publishedAt": "Sun, 26 Apr 2026 23:00:02 GMT"
     },
     {
-      "title": "4월 27일 굿모닝 MBN 이 시각 주요뉴스",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LQlVlUlowY1MwNTRqR05TYmlfMlN4Y0JEUUtUTThRQ1ZURTFZZzQ2dGdCemZQRlVSU3JZdkszek1TczNQWmhRclktb2Z4bGR2UEdn?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 22:45:00 GMT"
+      "title": "[뉴스광장 울산 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QeXdzNk52WFdtX25WakVEbTFxSFQ0dVpwcTY3VU0wTi0yVUZpenhaSjRtc1BncXJBV3dtM01DdE56bnRGel9JaWdOYUxzdjhWYWhRZWF0R1M0M2M?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 23:15:00 GMT"
     },
     {
-      "title": "4월 27일 여수시 주요일정",
-      "source": "남해안신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XUjdUN1g3bjdrdDZaQ2E3dk1oNEIzLTN2NzJXdGwtTGpOQXN5cjc2OFRDSU1PV1ZyX3poOVZ4VUs5dXRXU01RVGNYXzNtLURPbE1NVmc5RW1admNabmpIeU1SNFBiTkp1?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 22:20:17 GMT"
-    },
-    {
-      "title": "부천시, 펄벅문학상·심포지엄·문화축제 등 주요 사업 점검",
-      "source": "부천포커스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4ZjlhTUxXbnVmLXRwQ29hUEtzLWI2dEJIVU1lNDJjd3FNQ0pOTVNwbUpHV2xVMG1BTUQyT2J5dHNwSVBGeFBpSHp2eUFsUnNLOFFIVWlZN3YxUWFXUFJMaHVEWW01Y1h5Z2c?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 22:40:53 GMT"
-    },
-    {
-      "title": "'경기 투어패스' 출시…\"2만원대로 130곳 자유 이용\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Vlg5VkUxWUFsaUpveEZNbld5Um1qeHpGdnZIQTB6ekswMXpqZW5HRWdLNjJvWTdoaENPMG9pNGdNMTJXcFExcHA3YWZROFNZOENfcWRn?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 22:44:46 GMT"
-    },
-    {
-      "title": "부산시, 6월 BTS 공연까지 교통거점·관광지 먹거리 특별단속",
+      "title": "키움證 '제일기획, 산업 구조 변화에 성장 둔화…목표가↓'",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQnl6aExlc2xCazBqN3lUVk1RdVdUUElzM1ktOHYxcmwyaUFZN0pCVFVXWVg0NDBTT1lkLTlZclQ1UERzUGtxenE1cl9ndC1jbEc3LWJpWUdhbDRRX3NYVkpxbG5QV1RTUnV0Z0w3czlaUEgtaTFLWlE0ZFZFZ1dfNkJjalluTXdSbmZxc2JMZVd2WmJza2k0N3NkbzE1MnZEZmhOeFV3OER4dVdESFprSjlTWkxsQTN1Z1E?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 22:58:54 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3U3c25Vc0I4MHA2c2VKdkpFdVB4akxXMGdtbmd4c1h2TFVrYzZjNTEtbjI2RERuRElyQ0JaOTZ0aXJlM0VJU0FkbWJWeG1DYk5JbTd4QVN1RlAwa21MTWczWDBJTGFXRGF3OVNNVmdkcGtHV0pjU1VhTUx6R1QtZlZGWEp5Y2xKTTVHMlFhMC0xTjVZTlBJMlg0bjFnbDJ4WktOUldkSU9TajV6c2RXZV9CS2h5QlBT?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 23:53:43 GMT"
     },
     {
-      "title": "이란 노이즈 속 '슈퍼위크' 돌입…코스피 상승 이어가나[뉴스새벽배송]",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGIwV0RXcHNuQ0pFR2J4bWFyVDBHTnJnQUNROWl6U3VwS3JINFpKUGpOU1hxS3hOMjREeDE0SEQ3TEprU0FiVE5KbWYxNExnVnN2T2F5VWxraVNNdS1BVGtmWTZIMi1iZTJkaXNQUkRkTE9wbTJuSlhGLW1zQWpvMQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 23:10:20 GMT"
+      "title": "\"헥토이노베이션, 의심하지 않는 실적 성장\"-유안타증권",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tdkg5S0F4clFVWEZ6RWZaOXFUWjliZTZmQk1QblpuN3VDdVZqLXdXckhoUzVySW4xMERlOENJTmprZzBJQUZzQ0FTSnlSbGZKREdHZVNYX1hnMG5CUFZoVA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 23:52:00 GMT"
     },
     {
-      "title": "주간 기술 뉴스: 인텔의 호실적, 메타·아마존 제휴, 구글의 앤트로픽 투자 가능성 등",
+      "title": "주간 모빌리티 뉴스: 테슬라 1분기 실적, 트럼프의 스피릿항공 인수 발언 등",
       "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPWEYzazFiWHJZMUdkVWhlSkpPTFhkdFF5aHR3Z184b3Z3aVQwdkhMVXN6RzBlTFlmNWdxZW1ob3NTQXo3NEJkbWZLX2h5dnpYYzdMN1piUXZsSlBQQnZvbUhPdU5QZEpiZHdlNS1oSnBtY0NsTWdoNXJlOWtEYVVuYTZXNGFMeFI2QTJVMTRZSGNCMmlyOW1RMmFTUWNfa1c2ZVlvWG4yalZQZG5NNDRhVFRhYjI0dVlrOTRrZTUyQ0Fnalk2N0Jwd0lOTWxNeHIySDJGS1B1MXRWcF8wMWdrSGlycEtfQWdlU2Vkd1R6b241WERTRW1HeXpORGZsaDFtRnlKT1RDbloxV1Q1aWhXSWttQzVaenVsSzJDRnd2RFZ2Zkg4OFEtN0h5ejRGMWNmdEF1WHlkUW5kQWJjNFMzTFJFb1hsUjdZRm5kaVdsYmNjbTNf?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 22:29:18 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPT3ZVSzVmQ3NxMmc0NmwzUms0NmVvZXBGaTNkQnQ3MERseU5kdmVpeUxHbkhjZ3pVRnUtT19LSk9TYWdZWHVMRFFhaTYyQlJmaWF2M1phb3pHTDlhUnFKMmY1ZlBDSWZxSUM4N1ViWXVGT0JGbjZlREliZ1RycXphVHhDaldERmxXNUN4Q0ZnNVA5RDBYd082Z0xDTEZEZmc5bTdReHZZREdBYi1aaGlwQWFyRW9iR25WU0s4ZWNMbzlpUEdCOXM2MTk3WXA1YmZPNE5VVVhoSnprVmZEYU9Gemg4RVZZQWZDclFMYlJOdjgwcTJuUXNnM0Ffa3B0OTBMbVdrVnVIX09CWF9YdWtYOE9Ga0tVeUlQS2pOcU1sUTNudExWVEN3cndKVVlPemFxUHc3U2NvVkFpYThkb1ZSRHgxSUNremppcTFOSzFEYi1OQ2Q2eWtvR2VR?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 23:24:19 GMT"
+    },
+    {
+      "title": "이란, 파키스탄 통해 美에 핵·호르무즈 '레드라인' 서면 전달",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WUEZocTVuS1htT0VCTlI0aGlZTUs4VEFjUTNzZEpNaVpIeHVsdkY3Y09wOGJqTGxQNkUyc0dqRWVGTkJOZnplUEx6T1FDMTRwZkc5V284WmJXUnozazE5YzNB?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 23:46:59 GMT"
     },
     {
       "title": "[전국 주요 신문 사설](27일 조간)",
@@ -430,10 +424,16 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sun, 26 Apr 2026 23:00:02 GMT"
     },
     {
-      "title": "전쟁 리스크 눌렀다…코스피 질주 속 변수는 '금리·실적'",
+      "title": "(기고)유엔의 침묵과 힘의 질서 사이에서 한국이 가야 할 길",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2pONVFoT25fdGtBZWxzd0ZrY2NrRmM2YUlKMlJ4TUdmclpYVHd3WnJPand3NEVKaFAxeDdvZUJSN1VubnhQZU84QTY3TmN1UlhtY1c4dzdGcV9UN3QwUFRwMUVnUjRzTG5QdXBsbUxvYi0xZlowd3haZ2UtODQ3R2xYZ1BjUnNta2ZrVVBUaUl1SFdiWkRNZlRvcWJVcFExTDB5N0l6X3hJSlUwcENUVDdROG93d2FUVWc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 23:44:50 GMT"
+    },
+    {
+      "title": "전북 4개 시군 건조 특보…건조한 날씨 속 산불 조심",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WZkgxSlRZZXUwaHhBT1ZQTXpRWnRxX2hBc0hlSk5jVEF4OEl3OEwzZUJBSU0xc2pMS2JNMWJBMDlzUW5ITzJHd0ZKMkprYzBNSWY0?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 22:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10ZWhNVVF0ZXA3REt0QzJlVVdYZmZtTWVhSjF6Ujhrak45TFd0ZGptd0VTLWZ4MURHVk9Hb0NLdTZaTXNpQ0FmelZEV0dTTUppNWZv?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 23:37:00 GMT"
     }
   ],
   "sources": [
