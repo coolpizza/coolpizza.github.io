@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T06:28:56.699082+09:00",
+  "generatedAt": "2026-04-27T06:59:30.087524+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "9.0°C",
-        "feelsLike": "7.3°C",
+        "temperature": "9.2°C",
+        "feelsLike": "7.6°C",
         "highLow": "최고 19.2° / 최저 9.0°",
-        "humidity": "78%",
-        "wind": "4.0 m/s",
+        "humidity": "77%",
+        "wind": "3.6 m/s",
         "rainChance": "100%",
         "pm10": "44.2 μg/m³",
         "pm25": "30.6 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "46",
-        "updatedAt": "2026-04-27 06:15"
+        "updatedAt": "2026-04-27 06:45"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "8.1°C",
-        "feelsLike": "6.4°C",
+        "temperature": "9.0°C",
+        "feelsLike": "8.0°C",
         "highLow": "최고 17.3° / 최저 7.6°",
-        "humidity": "96%",
-        "wind": "7.5 m/s",
+        "humidity": "97%",
+        "wind": "4.8 m/s",
         "rainChance": "90%",
         "pm10": "44.2 μg/m³",
         "pm25": "30.6 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "46",
-        "updatedAt": "2026-04-27 06:15"
+        "updatedAt": "2026-04-27 06:45"
       },
       {
         "location": "파주",
         "summary": "강한 이슬비",
-        "temperature": "7.6°C",
-        "feelsLike": "5.9°C",
+        "temperature": "7.8°C",
+        "feelsLike": "6.3°C",
         "highLow": "최고 18.0° / 최저 7.5°",
-        "humidity": "92%",
-        "wind": "5.3 m/s",
+        "humidity": "93%",
+        "wind": "4.8 m/s",
         "rainChance": "96%",
         "pm10": "44.2 μg/m³",
         "pm25": "30.6 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "46",
-        "updatedAt": "2026-04-27 06:15"
+        "updatedAt": "2026-04-27 06:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "6.7°C",
-        "feelsLike": "4.6°C",
+        "temperature": "7.7°C",
+        "feelsLike": "6.0°C",
         "highLow": "최고 20.5° / 최저 6.5°",
         "humidity": "93%",
-        "wind": "7.1 m/s",
+        "wind": "5.8 m/s",
         "rainChance": "19%",
         "pm10": "36.6 μg/m³",
         "pm25": "20.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "28",
-        "updatedAt": "2026-04-27 06:15"
+        "updatedAt": "2026-04-27 06:45"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-27 00:53:20",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-26 18:00:27",
         "districtSamples": [
           {
             "district": "계양구",
@@ -400,16 +400,16 @@
       "publishedAt": "Sun, 26 Apr 2026 21:05:00 GMT"
     },
     {
-      "title": "‘장특공제’, ‘사드 재고’, ‘호르무즈 기뢰’",
-      "source": "뉴스톱",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKaFNqQjZuY3R1ODdFMnJvWVdBR19fVkdwdlMxamJuemFzbENyYVNNcVFIWldKb2RtaDZJcHVLZkVFdnRvMGJYQVZLWThUYWR2ZXlxODA3ZnZldkg0eDJXZ01XRExfYVZVUmhERHRuMA?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:51:24 GMT"
+      "title": "文 전 대통령 오늘 국회 방문…'판문점선언' 8주년 기념사",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iXzVIMUE5dlgtdXFteS1ZTlBwcUh1Y3RyS3NGa1UzWmpjeTJhdTIwRE1BWDlrdDZkQVA0ZDhReGszUlI0NDdLTlpmeDBWRjVhdnpYSDVST2JfQQ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:30:00 GMT"
     },
     {
-      "title": "첫발 뗀 치매머니 정책…대상 확대·후견제 개선 등은 과제",
+      "title": "백악관 만찬장서 총성, 트럼프 무사대피 外 [간추린 주말뉴스]",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSVNsbjJLdWZjQ0pVZ1cxVUFxUUdUeTJqcjZQZjRybFJXa3d5THR4TkV6NjBNMWw5dTZ0aTd4MWdXZHIzUjlUeFpZZ09TMXpSR0dNQTJ6MDJ2THUta1JFMFd5WnpJYUhXUllZWFFWYkpPSF9nT3pDeHAtVzVtUVRDX2xiUFRaeDJvVTRBVnlYcFJlQl9sUEpBX1BrcG5Kekw5TEJWSUhwRHpNaDRTcV90elo3VUhFa0IteXc?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:13:18 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ0xla2FmQkpoaVV4Y1BUWHFYS000QTVXd3E1ajVxRnkzd0RaU3pGZUhyZFFYU3NTR3BybXUzaEhINlRTc1VGb3B2NlhJb3Q5cHpBQmZiRDRvZHVyY3FYVU9HT0syRlNKa2Y4a1k0TFlvVVNzZExSVWZIZmhTeXdKaE9jVldCNUZLY3dFUUxfNFJVZGVqaHZOanV4bTAwcGtOM0RwTHNLZUdMbF9oMVpvbFYxd2hmNHpy?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:48:21 GMT"
     },
     {
       "title": "이란 외무, 다시 파키스탄행‥트럼프 \"전화 하라\"",
@@ -418,16 +418,16 @@
       "publishedAt": "Sun, 26 Apr 2026 21:05:09 GMT"
     },
     {
-      "title": "尹 '내란 우두머리' 2심 오늘 시작",
+      "title": "이란 외무장관, 다시 파키스탄으로…\"구체적 종전 조건 전달\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aeGFFRU15d0QwSEp6NHB3VTJnVnotWFRaLTJiZk03SnNvN1o5aG5MVDV1bjFsUWV2X3hndFdJRnprRjkweVIwbS1yQV9MNlgyVnNKRS1nZkEwZWNBVzlaSw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:23:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92VUFza2ZmNEZJUWtFYWE3N0lXNG8tRVRQakNLaUpnY3VScER2dHR0ZkUyd1JzdHNFZVdHSVlmM3dtSFZ5YjE2UzlhVHNJTjNuWngzcWNiUDVOekdyUlU4TEJqUVNBbm12dGl1TjdfZS1ha2JPM25pdg?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:39:00 GMT"
     },
     {
-      "title": "서울AI재단, MIT와 손잡고 시각데이터 기반 AI 연구 착수",
+      "title": "첫발 뗀 치매머니 정책…대상 확대·후견제 개선 등은 과제",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXJsNlpqbkd1b18wZjJUaXFqSXF3ZnBYNkxtVVZjNWpQbTE0czhXZTk1RGxXUmZ0V2c3TzZLWWpHWTlaZW5xdk5tYlpsZVVfcHIyajFickVkUTRzRWZlenFvYWl5UjlybTh0Y1lhaHRHZG15cGM2R1lVbkZ4eWlQa1dzSzBYSkU5TmZ1NUE2cm1MdWZYbTB5c1FwaFRnV0xsNFo4ZUhoeGVVb0N6c2NsUmlFUmhQNEgw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 21:03:48 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSVNsbjJLdWZjQ0pVZ1cxVUFxUUdUeTJqcjZQZjRybFJXa3d5THR4TkV6NjBNMWw5dTZ0aTd4MWdXZHIzUjlUeFpZZ09TMXpSR0dNQTJ6MDJ2THUta1JFMFd5WnpJYUhXUllZWFFWYkpPSF9nT3pDeHAtVzVtUVRDX2xiUFRaeDJvVTRBVnlYcFJlQl9sUEpBX1BrcG5Kekw5TEJWSUhwRHpNaDRTcV90elo3VUhFa0IteXc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:13:18 GMT"
     },
     {
       "title": "총격 직전 성명‥'트럼프·고위직' 암살 암시",
