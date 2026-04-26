@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-27T04:30:56.147407+09:00",
+  "generatedAt": "2026-04-27T05:06:28.022202+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "9.1°C",
-        "feelsLike": "7.7°C",
+        "temperature": "9.0°C",
+        "feelsLike": "7.5°C",
         "highLow": "최고 19.2° / 최저 9.0°",
         "humidity": "78%",
-        "wind": "1.8 m/s",
+        "wind": "2.6 m/s",
         "rainChance": "100%",
-        "pm10": "39.9 μg/m³",
-        "pm25": "27.2 μg/m³",
+        "pm10": "41.2 μg/m³",
+        "pm25": "28.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "54",
-        "updatedAt": "2026-04-27 04:15"
+        "airQualityIndex": "50",
+        "updatedAt": "2026-04-27 05:00"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "8.3°C",
-        "feelsLike": "6.2°C",
+        "temperature": "7.6°C",
+        "feelsLike": "5.2°C",
         "highLow": "최고 17.3° / 최저 7.6°",
-        "humidity": "83%",
-        "wind": "7.0 m/s",
+        "humidity": "89%",
+        "wind": "9.7 m/s",
         "rainChance": "90%",
-        "pm10": "39.9 μg/m³",
-        "pm25": "27.2 μg/m³",
+        "pm10": "41.2 μg/m³",
+        "pm25": "28.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "54",
-        "updatedAt": "2026-04-27 04:15"
+        "airQualityIndex": "50",
+        "updatedAt": "2026-04-27 05:00"
       },
       {
         "location": "파주",
         "summary": "강한 이슬비",
-        "temperature": "8.8°C",
-        "feelsLike": "7.0°C",
+        "temperature": "7.6°C",
+        "feelsLike": "5.2°C",
         "highLow": "최고 18.0° / 최저 7.5°",
-        "humidity": "79%",
-        "wind": "4.5 m/s",
+        "humidity": "86%",
+        "wind": "9.4 m/s",
         "rainChance": "96%",
-        "pm10": "39.9 μg/m³",
-        "pm25": "27.2 μg/m³",
+        "pm10": "41.2 μg/m³",
+        "pm25": "28.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "54",
-        "updatedAt": "2026-04-27 04:15"
+        "airQualityIndex": "50",
+        "updatedAt": "2026-04-27 05:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "7.5°C",
-        "feelsLike": "5.7°C",
+        "temperature": "7.8°C",
+        "feelsLike": "6.2°C",
         "highLow": "최고 20.5° / 최저 6.5°",
-        "humidity": "91%",
-        "wind": "6.4 m/s",
+        "humidity": "88%",
+        "wind": "4.6 m/s",
         "rainChance": "19%",
-        "pm10": "31.1 μg/m³",
-        "pm25": "16.8 μg/m³",
+        "pm10": "33.5 μg/m³",
+        "pm25": "18.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "26",
-        "updatedAt": "2026-04-27 04:15"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-04-27 05:00"
       }
     ]
   },
@@ -302,12 +302,16 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,975원/L",
-        "lowestDistrict": "남동구",
-        "stationName": "지에스칼텍스㈜ 논현제일셀프주유소",
-        "address": "인천 남동구 청능대로 460 (고잔동)",
-        "updatedAt": "2026-04-26 21:53:59",
+        "lowestPrice": "1,969원/L",
+        "lowestDistrict": "계양구",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-27 00:53:20",
         "districtSamples": [
+          {
+            "district": "계양구",
+            "price": "1,969원/L"
+          },
           {
             "district": "남동구",
             "price": "1,975원/L"
@@ -323,10 +327,6 @@ window.DASHBOARD_DATA = {
           {
             "district": "부평구",
             "price": "1,979원/L"
-          },
-          {
-            "district": "중구",
-            "price": "1,980원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "소형 평형도 공간 경쟁…초역세권 단지 공덕역자이르네[르포]",
+      "title": "[오늘의 주요일정] 광주·전남(27일, 월)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UelVLcjFUdi1QdWd0aTRmdEdxN2ZOSVhyQ3RTMThrOUQyN1JjNTgwRndMdElpcVBGOHhucDNWZ2ZuY2h4RW9fT0RBbVEzMFZJbEw1NFl4N20wQlVtdHBZ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 정치·정부 (27일, 월)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmVEFOaTRiTmdmWHRBUlNOajBGTFJKcE13YXE1Z0NZNlNlamI3UmNxM0ZrZFcyNmpzcTRLWklaUkJZeVA3REwwMmsyMXQ1a1dqd29reE5KR0lpZTNlQWs4bVc1UWpUbE94YXZidndkeTBuT2dyZ253Mw?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:01:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 부산·경남(27일, 월)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tTjBRcWFvdFU2bUlHSFplOGtJeWlwdkVzMzJwc3lzY1JVLVB1dnY2aFB1Q3dOempmbE9ocWVZTEU0VEJGNzduRHRTRHk0R3RVQUxEbDg2RE44OU9aUWZvNQ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요 일정] 울산(27일, 월)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XUEFRc2lnYlJic1MzcjFhdHVjQWJJV0N1dmJQRHB2MElLRVJUN1BvLUpwRVdsanJDZ0szcy1fX0xpYXZMLU9jVkJlaTJudEtNeVd6TFNtS3QxYWRsMVZHSw?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요 일정] 경기(27일, 월)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrV2h3Ny1NRnpLeDhmMXFoWjFwcTJWM0RISVlIVEtGR3hhdVBsSllUUmhkRXE3V2tyTzdZMFhnS2h4Q25HOXNkNVFmcVJQYkhYNVFNb1I2Q0MyQkZielFOOA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:01:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정]전북(27일, 월)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MFZwNDd2ZVFrTEVDRXRSd1FERGljUWM4Z1J4R2R3WWtucTFqZ1dSLWdKbU1lSlMzNlpfUEZicWZFek1Va2k1aFBGUXYyeGxmR0Vr?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "尹 '내란 우두머리' 2심 오늘 시작…1심 '무기징역' 선고 67일만",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ3FfeXoxOVB1Q2o3bktRWVM5MkwxbUdCVzAxMU0zS20wRmMwVVlBUVRGcGpiNENGSy1ZZTF2b19sMjdodGd3RlEyZExHU1p5bWdDbkRORDlMVHA1MzYzZGhwVmFZSFRrVHlCb1BmRUpEVEl4OFdnNTJOWkhQaHVvWDBqRFBJWHE5VXBkVEF3d0dHeGtTbXBuWlV1TnoxeTVxNnhGQ1ZaR1M3QTBaV0JXTXV5cV80NzNrNVE?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 19:18:08 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2lDZHRVWlliMEs0bFk4RmJwd29oQ21zOEQ5YU5RRjVSdS1fbGQ3NlRqR0x5ZGZTY0xKYl9nSVNIMGdvZVBJZDJxZkVIZ3lLLVFNVTZJRmlEX3QwWmVqTjBIS0R4cjdnOHNQejY5ejhvbWdFSHNDT2hsdENocUZ2V3VSc3dhdHoyeE1DQlRGSldVUUhrSnJiYl95bzJSQnVJaFpJb0xEZEgwMzVBRHJuTmJ0N1l1ZEtt?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:03:11 GMT"
     },
     {
-      "title": "신동빈 롯데 회장, 베트남서 올 첫 해외 현장경영",
+      "title": "[오늘의 주요일정]제주(27일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1cHlsVFV2al9RQjNXS2F3S1lwbGItUUxXSmdRTEc5c281a1gwOV9BQzB4RmpHRlRrTTZaM1VkUFpnZmdHajdEY3E0MENVRjhOeGVF?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 19:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xcURRcHp5WGdibm5ab0Z2YXR3bS11eWJZVkxuc2MwVGJnamlSS2FkV3ZTZ3NYbzBIX3JoNTRHQUNTXzR4X25zVnk1aGx5RFdNcjFBczNscC1mOVpTR1g5bUJEYWpfNlljbGVROWV3SHhIUGoxSWFmMQ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "통영시 주요사업 추진상황 점검 및 현지확인 실시 > 뉴스",
-      "source": "더코리아",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRaUxBU2hGdlFjeU1DbXQwbFZaY1lORS05cmNiVGJPbWJiNlc2OFpUU2tLMFZBaTVMRWlzaGViUWpvN2p6cnpCQVdGYXFFWUpCWm1XbGdxWDJTaW0xWUtNeXNfMlg5SFNxUGpSUUZycUU?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 18:46:00 GMT"
+      "title": "[오늘의 주요일정] 대전·충남(27일, )",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lUVI4bXNUZU5HclhJRC1qc2dwZ25UOEdtVGg4ckNIeURTWHBCbmQ1VVBuMFBaczlsamxTQ2ctdi0zbUJIc2VSU0xfMEdyRE1jcGZHQk84REdUWU91MjhlMVlxbmVRUWtvVUkzczcyb2dqUktKeXdmOA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "화려한 콘셉트 너머 정직한 실력의 증명…에스파, 도쿄돔에 내린 굳건한 닻",
+      "title": "수변 입지 따라 집값 갈랐다…수도권 강·호수 프리미엄 뚜렷",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjh0cjJGMVJ6b0IzTFhmSEcxLTYwMnVpOVFxeExNQm83NnZ1eTR5U250ZkxxeGxSMXQ4SlZnSllFSjB3Ti1ndHlfZzVienZKd3NJQ3U2cHFIZlJWeXRVV0JtSHVFS1M4Q0g0MzRBX0h6elFOSjFQX09VdVBUeW53eVlaMG9TYmFJUG9zcUstQXo1VEpFUXhmbTFaelR0bkJMTzc0RjhSc0dwNWNubE1LR2VQMnk5a1Vq?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 19:18:08 GMT"
-    },
-    {
-      "title": "[알림]혁신을 이끌 '가상융합기술기업'을 찾습니다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nZi1oUHRiYVpDeTd6bGVvaXhGaE5LNUc2YUVnalBHWHN6eEhjTm01RHFFdTNTWEFoZHZvVW9qNzA2VXFmS1Q0MkpaWk9QaU9uQnpuRkx5eWROSndvY3VGSFRxbkdZbEIyU1F2Rk9nUXY3WHdmV0gwYw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 19:01:00 GMT"
-    },
-    {
-      "title": "'초롱초롱한 눈빛 직접 볼 때 실감'…에스파, 도쿄돔 채우는 방식",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3h1cWhreS16TjVFbkl5bzhwckE4Zl9XRVlENHdHaFRsakxxSzE0aUcycFlzdjQ0RTdXVU1iSHdnTEZGeGpXbEZTb1JlRDg4NUJ4anhoTHp0VGt5VXMtbXZGU2tUYU5laW9WdFlWNjZrV3JpNGpSN01nQmdvRDE1WVZKbUROTUcwdDdXa3JGdExPdXNnRnZKdGdOalh0WTYtRkdpVlowaHpsbENtRlZpZFphdEhHRnFj?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 19:18:08 GMT"
-    },
-    {
-      "title": "어닝시즌에 또 최고치?…변수는 美FOMC",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVb2VxMnJkUkFJTGZINUZ3ZUFSMTlYZDl0QUdJbzJNM19ld1AxemZNX0p3OEk4dS12UDVoZGl2eng4em51YmdNMVhTS2Z6ZWNsRjFz?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 19:18:00 GMT"
-    },
-    {
-      "title": "동방신기·트와이스 등 日공연에 40만명…한류 25년, 여전히 뜨겁다",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1o3MFZnM0M3a3ZoeER4WHF3MXhFWG1LRlZraUVlMVM2anJRZi1SXy1CV2trZHZMZ21JaFVCY1BKWXZIbXlSSnFvLVNQM195TGJHR3MtcFQ4dWZROXpnMzltWkV6MVphQUJZVkpkc3lzRXBGUFJQQnBSWUF5Rk5wU1JQb1VsX3ZKWUVSS1ZyZ2xKUEVpQWd1UlpsZlRBRXkybWxjTkwxQkJXWFNjNnBTX2xOR3ZZT1RnSnc?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 19:03:04 GMT"
-    },
-    {
-      "title": "총격에 멈춘 백악관 만찬…재개 여부 논의",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5odXNYdm9oUGF0STdLVDlfNXRrSnZicWRFR3R0Z3d0dkY5dl9oaXdaYTZWd1B0YVVQQzBrOTVEQU1sYXo0UGRKLVFfY3F6cjhwVUlZ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 19:13:00 GMT"
-    },
-    {
-      "title": "'8700兆 데이터센터' K건설 새 시장 연다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pYWxPT201U0FMNlBkYjZEaDc0eEZaUldZNDFFcktyZTZhWFIyalNWNFc2aFZ5VEl2aGJPOHFwc1prTFZZZUJqTVpGbHYtM2JUMkYw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 19:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDFvVXNCd1FwME9lV2F2Nl9DaHctaGZjSVVOUnhPcUtaTzFxSTI3YXdEZm94cm9fRFdhaDZWNHJFMFNsZUpvbzJkQlVqcFZnWDVqdzRWWFJXZW9kM0h4TVBGUEl3YVY0QktUT092UFNyUzdob3ViVnRScXhmdUJqdWFiSWo0UmNHTTdFWHZCem02U3c4enF1V3pkUEFkM0JYb1luUWkyR20wNFFjQUZtR2ZrNkF5REw1?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:38:21 GMT"
     }
   ],
   "sources": [
