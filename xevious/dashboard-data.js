@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-27T01:29:17.677375+09:00",
+  "generatedAt": "2026-04-27T02:12:54.905713+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "10.5°C",
-        "feelsLike": "9.2°C",
+        "temperature": "10.1°C",
+        "feelsLike": "8.7°C",
         "highLow": "최고 20.1° / 최저 9.3°",
-        "humidity": "74%",
-        "wind": "2.4 m/s",
+        "humidity": "77%",
+        "wind": "3.2 m/s",
         "rainChance": "100%",
-        "pm10": "38.5 μg/m³",
-        "pm25": "26.3 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-04-27 01:15"
+        "pm10": "39.7 μg/m³",
+        "pm25": "27.2 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "60",
+        "updatedAt": "2026-04-27 02:00"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "9.9°C",
-        "feelsLike": "8.6°C",
+        "temperature": "9.6°C",
+        "feelsLike": "8.0°C",
         "highLow": "최고 17.5° / 최저 8.5°",
-        "humidity": "79%",
-        "wind": "3.3 m/s",
+        "humidity": "81%",
+        "wind": "4.7 m/s",
         "rainChance": "90%",
-        "pm10": "38.5 μg/m³",
-        "pm25": "26.3 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-04-27 01:15"
+        "pm10": "39.7 μg/m³",
+        "pm25": "27.2 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "60",
+        "updatedAt": "2026-04-27 02:00"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "8.6°C",
-        "feelsLike": "6.3°C",
+        "temperature": "8.3°C",
+        "feelsLike": "6.0°C",
         "highLow": "최고 18.7° / 최저 7.6°",
-        "humidity": "80%",
-        "wind": "7.9 m/s",
+        "humidity": "82%",
+        "wind": "7.6 m/s",
         "rainChance": "96%",
-        "pm10": "38.5 μg/m³",
-        "pm25": "26.3 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-04-27 01:15"
+        "pm10": "39.7 μg/m³",
+        "pm25": "27.2 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "60",
+        "updatedAt": "2026-04-27 02:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "8.8°C",
-        "feelsLike": "7.1°C",
+        "temperature": "7.9°C",
+        "feelsLike": "6.3°C",
         "highLow": "최고 20.9° / 최저 6.4°",
-        "humidity": "90%",
-        "wind": "7.0 m/s",
+        "humidity": "93%",
+        "wind": "6.0 m/s",
         "rainChance": "19%",
-        "pm10": "25.4 μg/m³",
+        "pm10": "26.2 μg/m³",
         "pm25": "14.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-04-27 01:15"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-04-27 02:00"
       }
     ]
   },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "'냉부해' 고수, 아내 요리 실력 자랑…\"햄버거·피자도 집에서 직접 만들어\"[별별TV]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZNWtjZVkyb0FVRnJnSFVpS1Rwc1UyX0ZtRS1iZjM2cEVoRnNpVHVKalBiRGdOblBURUNaRUNOOEwyc09LWGdzX1o2bHcwcUNpLXhr?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 16:00:00 GMT"
+      "title": "이충우 여주시장 후보, 선거사무소 개소…민선 8기 성과 앞세운 본선전",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vcVI2bUNNY3lzU2YzNmdSLVVKckpxMWF4SDBQMlQxX2JXcmVmNTFnZXg0MWJYeHhZQ0YtQ3VSZm5oWVBQUzNid0RuOVBJUQ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 16:46:47 GMT"
     },
     {
-      "title": "'쌍둥이 출산' 초아, 마라맛 현실 육아 근황…\"시부모님 덕에 천국 경험\"[스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OSkxLRk1EbG5qUHVCR3VrUHBlWVU1SFpzM2Y3Z2QwWmlkTl95dGtwc21YdTZqQTRCWXpuYk1xbnB5WnRqc2VuRGV4M1gtMkNKUnBN?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 16:05:00 GMT"
+      "title": "[단독] 황명석 경북도 권한대행 “지방자치 30년, 여전한 중앙-지방 ‘상하 관계’”",
+      "source": "다경뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mbmR2MzhUZHVmcXVPazRoT2VCNlM1SFBXWllaNk00UURJMGFFdmdsWkpGWnB0Um8ydm5XcW95WXY0TkdJ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 16:48:00 GMT"
     },
     {
-      "title": "신동빈 회장, 베트남 찾아 올해 첫 해외 현장경영",
+      "title": "'알파고 아버지' 허사비스 입국",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83Sk93Uk9fU3JwN0FBYWZ4M0drS0liUGhPWHNYSlM2eGdsSHVhcENDY25JLURDbUFtcVE2eTJGMnpXTTlsdE1SZTl1aVE4bEZLQnptbFR4R3h2OXJlQ0w4bA?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pQk1pVnByZi1QSFdwYkxrN2VTbHp1YldrRVdWcGZrV2JPTUJOSW1CbG5GZVdNYU42VDh3ZkR0SW5wWHdHQkVIWGZEU3B3VXlEWmpV?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 16:22:00 GMT"
     },
     {
-      "title": "김승현 딸, 칠순 맞은 할머니에 명품 FLEX…\"키운 보람 있어\" 울컥[스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EemdPX1FDWl9mRVdJTTNLVmJVS0xQRElaaUFuUkV6TENzRU43M2F3QjRfek9OQUFYbDlyVWdHV3d4dlpwaTVCYzJzSGZMSXJ0aTJZ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:46:00 GMT"
+      "title": "마라톤 인류 첫 '2시간 벽' 돌파...케냐 샤웨 1시간59분30초",
+      "source": "뉴스버스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1V2RYTTdjZUViMXEzQzllRTFDZzJudTgwUXFXcUxCbXdicWhpSVN3ZVZvUDFpdDJ1RlpudGd6U2FvamstS0VJY3NKT3ZrX0Ric1drMG5idUstcHhzbER3NDh3Tjd6Mk9SR0E?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 17:05:19 GMT"
     },
     {
-      "title": "\"숨은 그이 찾기\" 류이서♥전진, 개구쟁이 커플 아니랄까봐…기상천외한 '거울 셀카'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nbUJDVFdHN1JnUC1nMjlTQk1TYS1mRUZneXl4NTQ5MVpRNDdzTjV3d3lsYktwaG9hdUhQbW1ZR0VhTFZJY0R0aXJfQzNwNTZLUThB?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:40:00 GMT"
+      "title": "부산 중구 2026년 상반기 찾아가는 구민 안전교실 운영 > 뉴스",
+      "source": "더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE52amd1T3F0YTRsQkF4MDNrV0x5YTktMllvRExuV1pzeFpvdzhKb29lZi1LNmU5eXNjNGFpd05EOGN0blU?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 17:00:00 GMT"
     },
     {
-      "title": "고수, 또 망언? \"잘생겼다는 말=인사치레…셀카 500장 中 겨우 한 장 건져\"[냉부해]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aclh0SUZUWjRwT2pjcFdBWVdtX0Q0eXQ2Um00eVU2eUNsM1J3R3JuYnB5TkdFeGxaSFRJWE5rYzNVWFplME1iQXhKUlVMRE1VNkxB?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:35:00 GMT"
+      "title": "넥슨, '바람의나라' 후속작 개발 재개...'프로젝트 BB' 가동",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSaUdPWVBPdkF5Zm5SeGU1RVplMUZLZXB2OVdOZVBHdEpXMnZoQnhQLTVtVjdRS3hndm9GbUV6T243aGxneTZaaDhmYkRPWmtPQmtuaTA0ZVFTWWh0M2c?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 16:24:58 GMT"
     },
     {
-      "title": "\"런닝화가 피로 뒤덮였다\" 인류 최초 '1시간대' 마라톤 기록 나온 날, 여자부선 지옥의 레이스 \"내 발이 터져버렸어\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRLTJfM2c0TTJLTXdEcWFPR1FsbWRCOEtTSF8tQUIxYkx6ck4zT3lWWGlzMWpvWDE4UllfaUNZeGxqbzhranlBT0s3VDB2b0tuVWRaZVRCaVZidDlRMXJjVlZLeUNhMnMyUjBoaU1vOC1UdDJCZlc3Zg?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 16:23:00 GMT"
+      "title": "리앤리CC 골프장 고객 10만명 정보 털렸다… 북한 해킹 가능성",
+      "source": "dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YOUtaVUlsY1FTRDIzakpTeDFCVUxEdXdFQnh5YndJTGZiWV9HRGtzTE1Ob3JnLVNCWS1hTEFRV1pZMjFkNWx5QXg5UE1CcWdNR1NFNllMX1AwdGs?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 16:23:23 GMT"
     },
     {
-      "title": "\"문해력 높이기 위해 독서·토론 수업 늘릴 것\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GOVlWaE1RY3pWdE5aemhtcFZWTHk3MEJGMUFUUnJTajV0dnExZHpLQ2ttTFY2TV9pVEdTczduZlhyRmIwd2FhVnBXYnhzaFRvOGFz?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:47:00 GMT"
+      "title": "미국은행, OCC 스테이블코인 법안 4일 남았다",
+      "source": "BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqeUVzazVrV3JsTDgtc3puLVRfdUxIb3phcU1GVzJIS0xieFlQOS1neFpUeXJtVlhyN25xaWhPY2FEQ0tVdTJZVE5nbXAyODh5WDVwbGZWdE55bE5HMlZMUkl2UzJjaGFSbnR0d2p4SDg?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 16:53:54 GMT"
     },
     {
-      "title": "\"예술의전당 라이벌은 넷플릭스·유튜브\"",
+      "title": "\"아라그치 외무 파키스탄행, 핵 협상과는 무관\"-이란 타스님",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ndWRuQzdPT05oVGxEV0hsOGswc1hFR0Y2M2JmTC1xNTJyZlRJaTZlQTVzQlhtMkdYRkphcm13ZndtTGlrNkhLczNZSXF3bW9CV0JZ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 15:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CQXhYeHdyRmhrRmJKdW1fWGxGM3NzaWFuMWRPUFJUUjBycGF0bU02REQ3V0tvYnctaDNEQ3Z0eHk1UV9VWS1IRVRsTHJ4cmx4LWFj?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 16:58:00 GMT"
     },
     {
-      "title": "오늘부터 최대 60만원 지급…고유가 피해지원금 \"카드깡 안 돼\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQ1d5WllOZTdKaHhyd0JkZlBraThBcVV3a19HOGFOUEZkbEJCN1V1TFpmNndyTXBrXzJ5aklpZTMyWjdBRnVqYXJlZzBHOGFrNm93?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 16:03:00 GMT"
+      "title": "거제시 한전 거제지사 에너지 절약 합동 캠페인 전개 > 뉴스",
+      "source": "더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA2akJZWnFNSXVfTkI3dDRzY1BtQmM4aGFsTjZBa0Z5eV9mbmVOTFpkQ2o2TXZDRVQtdEZQYmNLOE9Yd2c?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 16:46:00 GMT"
     }
   ],
   "sources": [
