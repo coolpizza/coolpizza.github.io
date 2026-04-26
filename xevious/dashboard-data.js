@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-27T05:55:48.836352+09:00",
+  "generatedAt": "2026-04-27T06:28:56.699082+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -72,58 +72,58 @@ window.DASHBOARD_DATA = {
         "feelsLike": "7.3°C",
         "highLow": "최고 19.2° / 최저 9.0°",
         "humidity": "78%",
-        "wind": "3.6 m/s",
+        "wind": "4.0 m/s",
         "rainChance": "100%",
-        "pm10": "41.2 μg/m³",
-        "pm25": "28.0 μg/m³",
+        "pm10": "44.2 μg/m³",
+        "pm25": "30.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "50",
-        "updatedAt": "2026-04-27 05:45"
+        "airQualityIndex": "46",
+        "updatedAt": "2026-04-27 06:15"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "7.8°C",
-        "feelsLike": "5.7°C",
+        "temperature": "8.1°C",
+        "feelsLike": "6.4°C",
         "highLow": "최고 17.3° / 최저 7.6°",
-        "humidity": "94%",
-        "wind": "8.7 m/s",
+        "humidity": "96%",
+        "wind": "7.5 m/s",
         "rainChance": "90%",
-        "pm10": "41.2 μg/m³",
-        "pm25": "28.0 μg/m³",
+        "pm10": "44.2 μg/m³",
+        "pm25": "30.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "50",
-        "updatedAt": "2026-04-27 05:45"
+        "airQualityIndex": "46",
+        "updatedAt": "2026-04-27 06:15"
       },
       {
         "location": "파주",
         "summary": "강한 이슬비",
-        "temperature": "7.5°C",
-        "feelsLike": "5.5°C",
+        "temperature": "7.6°C",
+        "feelsLike": "5.9°C",
         "highLow": "최고 18.0° / 최저 7.5°",
-        "humidity": "90%",
-        "wind": "6.8 m/s",
+        "humidity": "92%",
+        "wind": "5.3 m/s",
         "rainChance": "96%",
-        "pm10": "41.2 μg/m³",
-        "pm25": "28.0 μg/m³",
+        "pm10": "44.2 μg/m³",
+        "pm25": "30.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "50",
-        "updatedAt": "2026-04-27 05:45"
+        "airQualityIndex": "46",
+        "updatedAt": "2026-04-27 06:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "6.8°C",
-        "feelsLike": "4.9°C",
+        "temperature": "6.7°C",
+        "feelsLike": "4.6°C",
         "highLow": "최고 20.5° / 최저 6.5°",
-        "humidity": "92%",
-        "wind": "5.8 m/s",
+        "humidity": "93%",
+        "wind": "7.1 m/s",
         "rainChance": "19%",
-        "pm10": "33.5 μg/m³",
-        "pm25": "18.6 μg/m³",
+        "pm10": "36.6 μg/m³",
+        "pm25": "20.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "28",
-        "updatedAt": "2026-04-27 05:45"
+        "updatedAt": "2026-04-27 06:15"
       }
     ]
   },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (27일, 월)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oV0hLZDVZdHlCYkJydEZzaktlbFF1V3dDRHRKWHBXQTFzVlVQdmxVYkpfeW1BY1Ewdmt6N3JyMlNUWWV6T09rdEFRSXhmY0t1MzFNXzg5aFdUQQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:00:00 GMT"
+      "title": "1부 오늘의 주요뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50d2hKaHNrRV82SDNfanpFVEVlVUpqS01VM0Q4U3BMSmVwX3o1dkd4LVBtdFpHYmFIUmtPWW90bWFRS2tud292QXNHb09SX2JvemREZ01iZVBfOWZUVDhub0Zld2JFYVg4RmxlcUF4Qm43dlY0Zk5lZ2FR0gF6QVVfeXFMTWs2bFIzLW9kMmVWMUM2UlB0b3VpSVBJVmw5UGViNzcyeFdaLVcwb2RUWjhraUZxNUExd19ERzcycFdMNzZPQ0xYYUJqaW1sRXFLZlVBYmVWT0hDRVBDQUh0dGJ5RkhWRU1TNGNrMmh5SGhBZnMxM293c1E?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:02:30 GMT"
     },
     {
-      "title": "신현송 한은총재 '열공모드'…출장 건너뛰고 업무보고·티타임",
+      "title": "[카드뉴스] 5월 연휴 꼭 가야할 전국 축제 9선",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUjE5N3h0aWZMRVV2NjdtR1FHT2Noenl0MHByY2tOOERLUmZiVjVOVVl4eVIzR0E5YnVxcHRvZzR0T3NESTdOX0NTSHpteGJmM2pFT045b0NyUQ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:00:00 GMT"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(24일) 주요공시]",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbVIwOWJwblVObG5BcDZXY0FYSDFwX0R3ZGJCNTBjbTZSWm5kalNyTU5XUVBJOGdPM1F0alNWT3JySWZHaFRUSDVZbVF0YkN6WHNGbER3TUxFX3PSAWBBVV95cUxNckYzN0V0RlRDdFVCRXFEODBGY1NmNk5nbVdrSHZLTnFYU2xmNXpBNEU0N0ZjbWFGd3dmeEt3bjBnVGVaOU1OTXVNeDRHeG45dlVJT21mcnN6cllzWF9OMl8?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:05:01 GMT"
+    },
+    {
+      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yWmZhQXVJY1ZMa3ZSQWMtMTFHYnNkUG5XWDN6eUtDbnk4MTdKcEQteGVIbW1LUExjaWpuSWFKZENvVGczdE91Si1KN3JYZ2dmQTlXRkFJSTJhel9WR0dvQThJNFRlSGFQTmfSAWZBVV95cUxQYkdHV0taNlFIeXdDWFE3dWpCOVd6M3dsemtZVmhQS1JSc0ZCOFhjZWZ1NlZxSF8tRXVxUDBudzdNV2ZCeUU2dU54ZF9hVW5HUnpfVTVPUkNMMHU5SlZWRzFGZm9VbEE?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:05:00 GMT"
+    },
+    {
+      "title": "‘장특공제’, ‘사드 재고’, ‘호르무즈 기뢰’",
+      "source": "뉴스톱",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKaFNqQjZuY3R1ODdFMnJvWVdBR19fVkdwdlMxamJuemFzbENyYVNNcVFIWldKb2RtaDZJcHVLZkVFdnRvMGJYQVZLWThUYWR2ZXlxODA3ZnZldkg0eDJXZ01XRExfYVZVUmhERHRuMA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:51:24 GMT"
+    },
+    {
+      "title": "첫발 뗀 치매머니 정책…대상 확대·후견제 개선 등은 과제",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcDZwU1Z4elVoOVpKQlRxLUhRMElONnZ4NkUtWDR4bXZYLWRtc2FfQVdQcF9ac3gwajVGQkprcW5GRDVqUHdhNjNOQ0ttOWdtY3VKblFPYnVwRFNEdlA3Z1VCUnNlWi1QSDNCOWZLZGw2WXdtR0plRW1rdDN3Njc5ZmtQRTB2R250d3g2dnVzckZzTUItcHlZbkhSWUlfS21zbVZzRjNMMGJQRlJCdlFOaGNaU2t2eXR6c3c?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:53:17 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSVNsbjJLdWZjQ0pVZ1cxVUFxUUdUeTJqcjZQZjRybFJXa3d5THR4TkV6NjBNMWw5dTZ0aTd4MWdXZHIzUjlUeFpZZ09TMXpSR0dNQTJ6MDJ2THUta1JFMFd5WnpJYUhXUllZWFFWYkpPSF9nT3pDeHAtVzVtUVRDX2xiUFRaeDJvVTRBVnlYcFJlQl9sUEpBX1BrcG5Kekw5TEJWSUhwRHpNaDRTcV90elo3VUhFa0IteXc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:13:18 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 광주·전남(27일, 월)",
+      "title": "이란 외무, 다시 파키스탄행‥트럼프 \"전화 하라\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MUDdTZnEtVG5PTjFrejYzNlJlRDVvNjdqLVNTLV96MTc5ZnlyOFlTMm56TmxpSjBuc3VlVHl4ODlEdWdxb2x6NXNCemhWOHNNcEd1TFRPSzV2VXpZaHBhLVVkdTdOalBpS0FaNDdxQTRqOWV3Q0p2NWZ30gF6QVVfeXFMT3YwbXNGbnV4c0hUbU0zUnBQYVJzNEVTeTE4TTdNV1hLVDZaWDNkejlWeUZKbVZxRTg3WWtuWnVvVTM0Z3NlcnV0Zm5KM3BrMmFpVUdzVkktR2FILTB4OWg3aWRBa09iZG01d1JuVzRoQkdiR1VNNnl3VVE?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:05:09 GMT"
+    },
+    {
+      "title": "尹 '내란 우두머리' 2심 오늘 시작",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zTkVma0dWenBqeGNtb1BMS2tyc1RjUV85UUN4ZmZDOGM4dGx6SGlvUnFPQjYwbXp4RUVNMzl6X09CdnJGREVVcC0zeHdUU25xOEpn?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aeGFFRU15d0QwSEp6NHB3VTJnVnotWFRaLTJiZk03SnNvN1o5aG5MVDV1bjFsUWV2X3hndFdJRnprRjkweVIwbS1yQV9MNlgyVnNKRS1nZkEwZWNBVzlaSw?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:23:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정]전북(27일, 월)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tNmZ3bHFJc1pHNG1rODJQNXJmeTFrV1I1b2NwRTVYT2tWZ21YWV9zR25ublVhX0JRU1AyYnU1eFE5cmNCU2M2RGNnLUNXWmhOeHhWYQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 충북·세종(27일, 월)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiM08zWU9VUDZlM2c1dVprRlNtMXNCUnB3Uk5zN3l3UDlTU3VWalBsMVI3ZlhIUXNUVDlDRXl5ellhSERZU2JvRTQyelFocXcyaV95YXlJRGdONkRQTUY2bw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:02:00 GMT"
-    },
-    {
-      "title": "英 버킹엄궁 “찰스 3세 방미 예정대로 진행”…총격 사건으로 대중 행사는 조정(종합)",
+      "title": "서울AI재단, MIT와 손잡고 시각데이터 기반 AI 연구 착수",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTlRBQV9IUnBHT1E3UjViOFdHdXRwQ0dyR0d2SXRINThrS2FHUzNOUHhoTTdLdzJ5N1BreVBqU2hmVDd3aEVHd1hrS2wxMndvZ1l4ZmM5YnJMNzlXLXRNdFpRZGtEUnpXaU5BYzRKbzJuRW9JM3U5OTViR1hZTzFGUDNvRVRtRnVNc2gzTTZfSjJQb3ZtRDhMT1IwZzJIV0tfeHpma2FJbUV0ZmhPQ3Q2OWo1VVdyTWJX?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:28:15 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXJsNlpqbkd1b18wZjJUaXFqSXF3ZnBYNkxtVVZjNWpQbTE0czhXZTk1RGxXUmZ0V2c3TzZLWWpHWTlaZW5xdk5tYlpsZVVfcHIyajFickVkUTRzRWZlenFvYWl5UjlybTh0Y1lhaHRHZG15cGM2R1lVbkZ4eWlQa1dzSzBYSkU5TmZ1NUE2cm1MdWZYbTB5c1FwaFRnV0xsNFo4ZUhoeGVVb0N6c2NsUmlFUmhQNEgw?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:03:48 GMT"
     },
     {
-      "title": "[오늘의 주요일정]제주(27일, 월)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52TllpQTdaX3ltMTBQOXNQWUY2UnBJRkt1QVVEY0h3ZjBya3ppRXF3eUdhMjAzOS1Sa2hRWWp2N1J4Z25yLXdSUVNjVG50Y1c4?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정]제주(27일, 월)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UQlBTdURkZFNEWlRtcGtBMGVVSEN2d2RvV3cxZ1dfeG5VZ3cwTjVnVGo4VHc2V0xBYm1CSUxucnE4Q2ozSUVKd21QWmk3LWVIcmVR?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:01:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 대전·충남(27일, )",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyNWVBOUtUTU5ZeDR0UGFwSENpSVhBb3N0bjlSTEducEhaYW02cVM3TGVyY25DMG1GMWpzcVhsZVBlcjFLLTNqYXFIQmt1cXF6S3p3TlMzM3pBSzYtM0UxVQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정]전북(27일, 월)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MFZwNDd2ZVFrTEVDRXRSd1FERGljUWM4Z1J4R2R3WWtucTFqZ1dSLWdKbU1lSlMzNlpfUEZicWZFek1Va2k1aFBGUXYyeGxmR0Vr?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 20:00:00 GMT"
+      "title": "총격 직전 성명‥'트럼프·고위직' 암살 암시",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zUm5UdF9obnlUNHk5WDd1cUE4OGgxNG90d01fdjl3cDlwazN6MnVfd2JpRXhpSkFOUU9XQ09WeTJuWEJ1UFkwTUFoYWtOT3FaWWRMWkVXNFdtRTk3YTJ2QmdtM1h2OUd5X3ZZQXBrX0pGSDFHOW9LY1RB0gF6QVVfeXFMT1NUcVBfZzJucFI0NjNkQXpLUDMtT3NyTTNBZGJtV3RqQ0VYTzhoUXRvd1FrZzlLaXo2NUIxci1ON2tRSnBIaGtDclFQUUE1eXg5dThkeVRtNXRoTFlpc3h3c2hGZlJta0tSb3ExVkZIWmZ0ZUQ2S3hVTHc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:10:50 GMT"
     }
   ],
   "sources": [
