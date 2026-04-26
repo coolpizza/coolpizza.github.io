@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T17:45:11.167219+09:00",
+  "generatedAt": "2026-04-26T18:37:27.247279+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "19.5°C",
-        "feelsLike": "17.2°C",
+        "temperature": "17.7°C",
+        "feelsLike": "15.4°C",
         "highLow": "최고 22.1° / 최저 8.6°",
-        "humidity": "35%",
-        "wind": "5.8 m/s",
+        "humidity": "39%",
+        "wind": "5.1 m/s",
         "rainChance": "0%",
-        "pm10": "27.8 μg/m³",
-        "pm25": "10.7 μg/m³",
+        "pm10": "28.5 μg/m³",
+        "pm25": "12.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-26 17:30"
+        "updatedAt": "2026-04-26 18:30"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "16.6°C",
-        "feelsLike": "14.7°C",
+        "temperature": "14.3°C",
+        "feelsLike": "12.5°C",
         "highLow": "최고 20.3° / 최저 5.4°",
-        "humidity": "57%",
-        "wind": "9.4 m/s",
+        "humidity": "64%",
+        "wind": "8.7 m/s",
         "rainChance": "0%",
-        "pm10": "27.8 μg/m³",
-        "pm25": "10.7 μg/m³",
+        "pm10": "28.5 μg/m³",
+        "pm25": "12.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-26 17:30"
+        "updatedAt": "2026-04-26 18:30"
       },
       {
         "location": "파주",
         "summary": "대체로 맑음",
-        "temperature": "18.3°C",
-        "feelsLike": "16.2°C",
+        "temperature": "16.0°C",
+        "feelsLike": "14.3°C",
         "highLow": "최고 20.8° / 최저 5.7°",
-        "humidity": "45%",
-        "wind": "8.0 m/s",
+        "humidity": "56%",
+        "wind": "6.6 m/s",
         "rainChance": "0%",
-        "pm10": "27.8 μg/m³",
-        "pm25": "10.7 μg/m³",
+        "pm10": "28.5 μg/m³",
+        "pm25": "12.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-26 17:30"
+        "updatedAt": "2026-04-26 18:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "17.9°C",
-        "feelsLike": "16.2°C",
+        "temperature": "15.6°C",
+        "feelsLike": "14.0°C",
         "highLow": "최고 22.1° / 최저 7.1°",
-        "humidity": "58%",
-        "wind": "10.8 m/s",
+        "humidity": "62%",
+        "wind": "8.3 m/s",
         "rainChance": "0%",
-        "pm10": "9.3 μg/m³",
+        "pm10": "8.8 μg/m³",
         "pm25": "5.0 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "41",
-        "updatedAt": "2026-04-26 17:30"
+        "airQuality": "보통",
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-26 18:30"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-26 11:00:25",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-26 14:54:07",
         "districtSamples": [
           {
             "district": "계양구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜김포제2주유소",
-        "address": "경기 김포시 대곶면 대곶북로 347",
-        "updatedAt": "2026-04-26 13:49:22",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-04-26 14:59:56",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[무잇슈] ˝이대로면 문 닫는다˝ 고유가에 착한가격업소 ´휘청´",
-      "source": "무등일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EMzBRZTY2eGRmYW5aM3hCb0l5YUhvVHAwWjh6T1p1SmE4LVNoUmN5Yll2ME4zYmY3UUxERm5GMW9UUEEtVmtkMGEySVVoRUJ5REdtZ29n?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 08:28:00 GMT"
+      "title": "'대진표 확정' 김부겸 개소식에 與총출동…'대구가 국힘 혼내야'(종합)",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1FacXV1Z1ZReVR2aTl5NElBbWZsakplcF9UbjhlcGtfN3BYVUZ2U2I1d3kxTFhsaVh4NHNJbTloVVNNTlNHaEh6X0pwcWppRDVyTVd1V1lPWk5rdE1UQ0lLTDh2enVVeUMxTWdINVJacDExYmFSUHQ1SFVXM3ZJaHQyLU50OGYyQlBsWG5aSHBnQlBnRWFzTnBBSFQ3aXVxNHFHd0VUSXFKTVh2ZW43QUVSaTh1a2Q3Mnc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 09:33:44 GMT"
+    },
+    {
+      "title": "이란 언론 '백악관 만찬 총격'에 음모론...\"겁쟁이들\"",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBua1VmN3BKb1NhdjJDZ2I3dHAxSzBDVDVWMHBPZWhWZzN5Vk05OFhNOUdGSThkenl5cFpqdC1zaWtKdVpRZkdPYXQ1Q0U5MkVubUViajhsTjl1MG5uNHc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 08:58:00 GMT"
+    },
+    {
+      "title": "이란 언론 '백악관 만찬 총격'에 음모론…\"겁쟁이들\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GT25oVHZwT2lGdExUOW9IWVJVZEVOUzE4cGpISlk0NzJNQlpHUURINmdXNXVUWlI5cGdsRDBrYnJaVlZBWjhiN0J1NHBsdk80TG1z?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 09:05:00 GMT"
+    },
+    {
+      "title": "'산모·영유아 미생물 분석하세요'…서비스 출시",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWExDNF9BMzBIOVJuQy0yYkNUei0xRnJTUFV6YzRVS3RpOHk4S19EemIxcmV0RE5PRUxBalNmd3J2TmIxXzhSSG1DeGI1RzF3WW1sU1lRUGppOGg5aGtjTC1GVHZ6M091ZUZEZ0ozOUVUcVE4M1VscnpURW5VZkl6eHJrb1UwTEZsS0xCeUxPWEZhaDRFay1zRGExXzctcUZHZHprQU1wLVYyazBUbkFCNmJlME9iWEFa?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 09:13:39 GMT"
+    },
+    {
+      "title": "트럼프 또 암살시도 '안전'…\"이란과 무관한 듯\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XLVBzOFRMTjdrLWdjdWFKYllIVWdwQXZlVklnTzJhX1l6YVNkN0tUM0JJN2tvSXlaTjNQMlU0SGRqMmxSNjJFeEZUNlpDaENfQnNj?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 09:13:00 GMT"
+    },
+    {
+      "title": "[포럼] 수직형 AI 지원 정책 강화해야",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VdjZMQ1lmZ1RjdVRaYkFxaU41X3VNNVpBOF9PbEVoenh5Y2xIckd4eUpINzJuWTFKblJ1aUlMMUNrSkJKbFRKdzhmOXR0T1kyeGZn?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 09:11:00 GMT"
+    },
+    {
+      "title": "월요일 전국 대체로 흐려…밤부터 수도권·강원·충청에 비",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVE9vTzdZZUd2ZFNiZ0dBbFRpdURyWEJUaWtlX1JDcGNDb2ZMbnRmbWF0TXNmcnVGTDA5REV4LWR0S0wtNk1Rc19BdWxqRU43X3VWdEZVcXo0dUY3LUhhVXJYMWFuSUd6QXVCRDFzZnIzVUY4bEZpUGtkYVZ3ZnhBOHlLQnRCbWRtS3diSVRFRlpySlFONElhT2pWNEQyM1RhV0I5QWdYRzF5TjFiZGQ1eXNvTEJHT2ZWb1E?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 08:48:34 GMT"
+    },
+    {
+      "title": "[데일리안 오늘뉴스 종합] '美 대통령 참석 만찬장' 총격, '트럼프 총격범'은 칼텍 출신 공학도, 국민의힘 대구시장 후보에 추경호 등",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VNkFYNXJBYzgtRmxXb3p1NU40SWNDSEx2dG04Zk9xdGphNV9aYWVzd2Jta0RzbFdXTXpVb2psWU52WUMyazF3dF9adHZUbWhsZmxnV3JNODRCbDlzaklwR0R5SDJWYTE3b1E?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 09:02:00 GMT"
     },
     {
       "title": "김병민 서울시 정무부시장, 사의 표명…오시장 캠프 합류(종합)",
       "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQkswT0JTMHpfNkhFbnRkdGR0dTRFOWpPQ180eHE5NndVSWk2UGVnNHYzbFpWbl9FV2JZQmJZM0wtQTctek5ITVhfNjNuNUlnWDZyZmFrVGJCUTNfRDZKNzRpLVl6alhlNnhJOGdoWG81QTlyWlUwcmN2SnVXNVVycGNJeWxtRFlnUUh2X3JNUXhHNmpMRXg3TmN6Q2VxN0JhTVBOS1hOSXUyM3RpVHppWjBlOThIVERI?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 08:42:58 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdW5LS2ZTSkU3MS0ybmFnV0FoVlFEeVFFT1FDUHgzbjlkdlZZNU50Rm1MSTBmR09aUzhaeDhGb0gzWlBySzNyZEFMV1RxcW1JWm1GOWRjVnlEN3JQSWp6Z29RMldlMGE1UFN1Q0ozbU5DeHR6MkJ4cnFoaFpBbTdjc0l3b0JZWjR6cS1XWW9GVlAxN2w4TTVaVW81Z3VyVS0tQjRuNTNiOEt2dHVJRmZ6ODVSVVBFeUZsbjRlUFk3dU5SUkU3djcxTF9n?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 08:47:58 GMT"
     },
     {
-      "title": "李대통령, 백악관 만찬 총격사건에 \"민주주의 중대한 위협\"",
+      "title": "김병민 서울시 정무부시장, 사의 표명…캠프 합류",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SdGRaSFYwQV91M1d4UDhUTThMOG5wV3JpYld0VE43VTUxZU1XZmh4N1FMdm45Rk1jSU5ZQnJuSEpKRVVkVW0tUmN0Wk01V2s2VnRv?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 08:32:00 GMT"
-    },
-    {
-      "title": "김용진 GH 사장, ‘실행 중심’ 현장 경영 박차",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yUHlEdDJnVnA4Y3RIdW1kSzhiU2RiUkNtWnFBS1JKSy05Q2hnZjZ4LWV6LXlPd0VkbU92YlNqa2hudmxJczZJUVZ5OVF6SUxQMDd1VzdpTkxsY28xSktZNDA2Z1R3cHVyVmVqc9IBb0FVX3lxTE96bDZ6SHdIUkx4MEVaZmpkSmRXeldpYVplWnduSFNQc0xPQXVUYzZya1BOUmgzS0YtWHhFdVRjZHN5dmdvOHBuR1Fmbnc4blY0a1h4OWNINDYxZ1BhRkVEYlY3TW1ucHR4Ulk1X19LQQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 08:17:55 GMT"
-    },
-    {
-      "title": "이 대통령, 트럼프 총격 사건에 '민주주의 중대 위협'",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb2FfRlhlWGwyNndTNE9SenFpRzI5ZHZDdjVvLUo3d0pEeGE3dTlGMEl2Q2dfYVR6NFh3cE9mM0ZVUHhMek9tRGRZXzlDMndTX180OGFJQUQ4eXIwRlBMb0ZEa1RtOElUWUE4Mk5xSTA3NGJEaV9tT3JqUXBacEx0N0dtNVNJdE1HdndUekdxZ012N2sycWpHdDlGR1d5UEJleHZPemNCRDdJV0xXbzlEYnBtTEtmUThMdWMyY1NmN2RaQzVpbGRWelVB?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 08:43:46 GMT"
-    },
-    {
-      "title": "[포토] 박수종 '앰뷸란스는 안 탈래요'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJN2pneU5CUkcxTFJKWnlQaVVOX1M1Z1V4M3dXT3g2MlprbnFqWXc2bHZtTEtsZ3dYTkRMcTNBQWtndmozQXJGWGZCZVhobDlheE52WWlGNC1HV1piVXNwWjVCRHV0S29QYU9MdWJ4X0wzckJTY1p4TA?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 08:33:00 GMT"
-    },
-    {
-      "title": "AI가 표적 찍고 드론이 타격…국회서 터져 나온 군사 AI 경고음",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUm9Ya0ZmZzBzWmJjdWlWLTIzQUxLS2hXZ2EwcHZSODZqd0ZIdjllY3RMd2lqc0t3Rm9XMnhRZC1PSVJrRTJEZ0RkZ29CNWtra3hVekNFb3FMN1czWkpyUWRBYlVlQUJXY1VLTkxnX0paN0F3ZUdQdU5nV29RVG40Qm9uUGJBVlZ1TlNkd1NMOVVhVW5rVHlySlZIb1V1TFg1X2h6VE9wdE0zZXFPbmtVYS1vWHl1a1U?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 08:39:10 GMT"
-    },
-    {
-      "title": "박은식 산림청장, 대전 계족산 일원서 산불예방 캠페인",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zY1lYM19TZC1kSUM2cUJYZW5MMDI4cnV2QXVOUDE3eVhqa0hEYTIwLUFRRFZqekVrdWgtVmllOTd2REF6M2JhbmgyVUp6REUyTVBN?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 08:29:00 GMT"
-    },
-    {
-      "title": "트럼프 참석 만찬장 밖 무장괴한 총격…'당국자들 쏘려 했다'(종합3보)",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORVNCZE41NHNBcjlUWGRkVGFfX0cxeEc4V29rRklxOUdmWFQ2T3Fld0g0cUZ0aFZ1Um9qaXZGVkhSa21GYVFNaXBDWGllaW5RTHkwTDZnNGxpR0JnczRJZk1yVS1oeTY0NWcxb09CckxLT2E0dlVFdVczb1pYQXNCMG1xR2V4TWRWQTNOY0Q3ekpWTjdLdlVSOUZDRjdfMnlldDd3WGR3UFdyMi02bVlvdXd4UUNmRjhsYlE?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 08:22:30 GMT"
-    },
-    {
-      "title": "화물연대, 숨진 간부 정신계승 '총력투쟁 결의대회'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kUWZhRW50aTNEV2xtbnFNY0REM2YwR0k2NXdNNDRuSHpCeXpiZlhqWEExTUQ5T2dfWlNTMDN2clc4SzdkVnZwMFR5R3FyZUxQZHl2STM4UnNxQkJOYW9Ueml3UUQ1MVllU3JBenJYOWdvdmZlc2hvaA?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 08:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ydXEyZXJmbFR0bi1qdTdzUWZWT3NtWTRDVF9WQUpVZ2ZfVTVla3BwVkNrQjN4bVE2blMtOHQyM01palpBXzYwYVFhVFhSai0zc3FuT09JZG1nVnBUeDlKa2N1SVgyMThORmc?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 09:14:00 GMT"
     }
   ],
   "sources": [
