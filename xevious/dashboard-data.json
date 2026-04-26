@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T19:30:53.538524+09:00",
+  "generatedAt": "2026-04-26T20:09:38.796015+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "16.2°C",
-        "feelsLike": "14.0°C",
+        "temperature": "14.8°C",
+        "feelsLike": "12.7°C",
         "highLow": "최고 22.1° / 최저 8.6°",
-        "humidity": "44%",
-        "wind": "5.1 m/s",
+        "humidity": "49%",
+        "wind": "4.8 m/s",
         "rainChance": "0%",
-        "pm10": "28.7 μg/m³",
-        "pm25": "15.3 μg/m³",
+        "pm10": "25.5 μg/m³",
+        "pm25": "17.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-26 19:15"
+        "updatedAt": "2026-04-26 20:00"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "12.6°C",
-        "feelsLike": "10.8°C",
+        "temperature": "11.4°C",
+        "feelsLike": "9.8°C",
         "highLow": "최고 20.3° / 최저 5.4°",
-        "humidity": "70%",
-        "wind": "7.7 m/s",
+        "humidity": "78%",
+        "wind": "6.6 m/s",
         "rainChance": "0%",
-        "pm10": "28.7 μg/m³",
-        "pm25": "15.3 μg/m³",
+        "pm10": "25.5 μg/m³",
+        "pm25": "17.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-26 19:15"
+        "updatedAt": "2026-04-26 20:00"
       },
       {
         "location": "파주",
         "summary": "대체로 맑음",
-        "temperature": "14.0°C",
-        "feelsLike": "12.5°C",
+        "temperature": "12.5°C",
+        "feelsLike": "10.8°C",
         "highLow": "최고 20.8° / 최저 5.7°",
-        "humidity": "66%",
-        "wind": "5.9 m/s",
+        "humidity": "69%",
+        "wind": "6.2 m/s",
         "rainChance": "0%",
-        "pm10": "28.7 μg/m³",
-        "pm25": "15.3 μg/m³",
+        "pm10": "25.5 μg/m³",
+        "pm25": "17.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "63",
-        "updatedAt": "2026-04-26 19:15"
+        "updatedAt": "2026-04-26 20:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "14.1°C",
-        "feelsLike": "12.7°C",
+        "temperature": "12.8°C",
+        "feelsLike": "11.4°C",
         "highLow": "최고 22.1° / 최저 7.1°",
-        "humidity": "67%",
-        "wind": "6.3 m/s",
+        "humidity": "72%",
+        "wind": "6.1 m/s",
         "rainChance": "0%",
-        "pm10": "9.1 μg/m³",
-        "pm25": "5.7 μg/m³",
+        "pm10": "9.0 μg/m³",
+        "pm25": "5.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "33",
-        "updatedAt": "2026-04-26 19:15"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-04-26 20:00"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-26 17:59:55",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-26 15:06:27",
         "districtSamples": [
           {
             "district": "계양구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "김포감정주유소",
-        "address": "경기 김포시 김포대로 1135",
-        "updatedAt": "2026-04-26 14:59:56",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-04-26 13:49:22",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,34 +376,46 @@
   },
   "news": [
     {
+      "title": "4월 26일 MBN뉴스센터 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zQ0NKWlBiM3UweEkxT3FEM3B1QmwybV80NXNHRGFSMnVKZkVja3VFX050S1dnblNTcVhXM2JUalAzd1lmam9NcUJNS0dKVW1ESGhv?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 10:35:00 GMT"
+    },
+    {
+      "title": "[공감 2026] 성과 완성 vs 체질 개선…동두천시장, 양자 대결",
+      "source": "OBS경인TV",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80cmhBLXVZd09VYVg3VWxZMVRCbFpEeG9BNVcteThyVVV3WWFBb3dOSFRkYjgtTGxjNDN6dTJONmNsb1YzSXhHQWFhVU40V2NqTUl0TXE2Sk5nMm13UXBoTC15ZGUzOF9PQmxvc3h3?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 10:57:38 GMT"
+    },
+    {
+      "title": "가평 골프장서 10만명 개인정보 유출…북한 해킹 가능성",
+      "source": "뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlA3TlUyTERnZjNxVUQxeDBLT1lxdEc2SFFzZ2k4SHpYZmdHYzlhRElSa0NZRWtpYXRFcHE3OXJpdFlOOEdwUHcxUzNWQmxBQ2ZjSVl1UUpqT19KTGVJQk5wNnZOQVpLUVZHVmJwSUwwTzR2YV9MbDFsd196eEViemxYMlpEOGNYUDZXNUdsODBwWk1OVGIySTNZNEVNVzZ0N1Y2ZzNzQ0xtdzNwLVFSaTM0UVlaZDdWSEE?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 10:56:49 GMT"
+    },
+    {
+      "title": "[미리보는 이데일리 신문]정의선 뚝심…아이오닉V, 中공략 재시동",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmw5NDh6UXMycHpGWXpncDNXU2NKQUJpWVNuekVlbkN5NTJtNWtMWGItRGJwX3FITGNoSzJsU2FrZkd1U3hUOVczd3A4WlVrV2ZHRjJHZl9SdzkxaEhoanhZWlg2WW5zZVBxMGlURThxR2REUVhodGlQa01FS3NRWA?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 10:43:08 GMT"
+    },
+    {
+      "title": "세계 주요 지도자들 \"트럼프 무사해서 다행\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VUEJqeUJmZmluVFM2NmdtWmRpTm1KYTRfY1daVFBXb1EweDdtbDUwX0VLTE1Da0R5ZVJSRVpENENhbWgwcERZdWY4T1JpT3pSUTBN?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 10:26:00 GMT"
+    },
+    {
       "title": "'대진표 확정' 김부겸 개소식에 與총출동…'대구가 국힘 혼내야'(종합)",
       "source": "뉴스통",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGhNcWJKLWZFUHotX3F5N3M5RlRXUVdOMjBmemN4enNfamZRd1RvRmN2aXVqZDNJeEt3VU1sc3ZpREZraEwwWWRJajVjN1VHNGgyQ0w4WXNyZUNaSG41NlhCX1VwTEotMmJpc3VYU2ViYXE0dlJBSlZRUjhUQ1B2Z1VXd1hWUGtlb2JIUnEzdTNUMFdqY3lFa3pTX1hueUpjNlNzbmNnbmM1MDQwN1dSUkw0WlNCcXd3M215MjBOZmRfMHBWbk9EaVNkRQ?oc=5",
       "publishedAt": "Sun, 26 Apr 2026 10:25:11 GMT"
     },
     {
-      "title": "주요국 지도자들, 트럼프 참석 만찬장 총격 사건에 \"폭력 규탄\"",
+      "title": "[자막뉴스] \"'최초 대구시장' 위해서라면!\"…정청래 \"김부겸이 오지 말라면 안 간다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04aHJUTnFrNjVzMVVmNEplMDJ2U1RzZDJnZDNRSkhLSXBXb01lY1BxenVjMER6bjFoNVdpT1B1OWNLdzZxdWQzeFVhQXE4aG5HT3J0dXZvSUJXODRDdy1sMWt6QWV5VFJ0TkhrQ3BMVEo0dnQ0aUJVcQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 10:22:00 GMT"
-    },
-    {
-      "title": "용인특례시 결산검사위원 주요 사업 현장 방문",
-      "source": "하나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GSkx5VmtEajFPandtbUo4ZmFXMUIxdzZ4NDBKZ0JVMVJhV0lEd3R5UzVDMDNtY0dEaVZaeDJ4WjlUSXNPZ1AtTGRLcmthbjI3TVpGZ2t3cFpfUjZadDA3azJObFVPM3Q2dThtMw?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 09:31:56 GMT"
-    },
-    {
-      "title": "반도체에 가린 1%대 잠재성장률…주저앉는 韓경제 기초체력(종합)",
-      "source": "뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUkkzcm1lNDB0eGVIeWgza2tsazE5NFhhYmN0Y3Z3UWo1T21wdDBOT25GX0pSd3ZkRlNxVERERi00UExMeDBQbExlY0pYeFMxdWtVb1pnQzk1a0Y3cC11ZkU2Qk5fZ2hWRjlwY0pMSkMzN1RmWTYtLUl3ZTVKa1RyeEF0eUZkZ3VDTl9tNk9xV3Zzc3dqLXlXRlgtRmdBRGJXUTVqLWV4UTdhZWhfZ25FTWFTM1psMllQNmgtam1KOUNQVjJkTTR2UW9B?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 10:09:05 GMT"
-    },
-    {
-      "title": "이란 대통령 \"美 위협·봉쇄로 강요된 협상 임하지 않을 것\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LZVExaC15ck10WWZxeWlWbFMwV1ZPU3NucVBVdndTQ3U2dzlvU2VtMm1kdXRsNmlXN0ZFVWFKWE4tSnJiQnNfSGRwODUwOGJFQWNWbEw1VVF1QlhEUFhGWVV2V3ZMQWNKVVlRMVFQQTlvMlFLeWxZNA?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 10:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nS3VHZTZrYUYtMnVlZ3RyME9XMzB1c18zbkh1UEVNMVI1d1g2TkkxMWhuMFYtZHlxem5HX2dzX2ZBWkoxbTM1NGY4by1JVE13Ung4?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 10:38:00 GMT"
     },
     {
       "title": "노량진·자갈치 시장도 새벽배송으로…쿠팡, 수산시장 유통 판 키웠다",
@@ -412,28 +424,16 @@
       "publishedAt": "Sun, 26 Apr 2026 10:19:06 GMT"
     },
     {
-      "title": "김부겸 대구시장 후보 선거사무소 개소…5천명 운집 성료",
+      "title": "골프장서 10만명 개인정보 털렸다…경찰, 北소행 가능성 조사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84WDljZmlhWTBWMVdVRGFWRmRxWFZ1Q25yUGYyb1JWTzZ1TjV5LTNvOTZlaWlfdXFGT2ZKVFJCSHpucmxhcDB6TXpoUWwwdFJLZmlN?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 10:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iTE5xWVpSRmY0LXh3bE1lOEhudTVVOVZaNEVBMFhEd05nMUJjZElRWXMyMHJhUlNYMkY3TVJMVktMa1V2Tk0zcVlKUnRkY0EwMGRB?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 10:50:00 GMT"
     },
     {
-      "title": "참치 한 마리에 47억원…日스시 체인점 '세계 최고가' 기네스 등재",
+      "title": "가평 골프장서 '10만명' 개인정보 유출…북한 해킹 가능성 有",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04el9hQ1dZc0UtUHNIa1hTVU84V1M1TTVXM0p5U3hTOEp3eGJ1WFJHdTg1MVQ0NUQ4Ukx0QjFOckJYcmFGb1V3YVFTdWNPUm90X2U0ZGVLd2VvcS0ybDk3WW5TS0tRWHZjUy1IVHlmNTNab29mdWlxag?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 10:24:00 GMT"
-    },
-    {
-      "title": "빅테크 실적 발표 앞두고…'협상 취소' 찬물 악재 될까?",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uanZPMm5UWWUwQVE2c2l5QXMwOEZoT1dJaHJmSHpXNjY0d1dFS3FNTTUwMlNpcEdDLXJjM1JIcmplbWdBeG1ndExXLWNRdUZZTHk4?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 09:59:00 GMT"
-    },
-    {
-      "title": "경찰, '수사자료 공개 논란' 백해룡 경정 본격 감찰",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OYnhZVFZVRGQxWTRDemI0YXZBNDUzWmFaSHZzcDhiUXhTQ195TzRQMHNsVVhsWHpWd3V0ZFJOTXJ0T0dZTjZpS3dKMHlneGNwMzRJ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 09:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UOTBYWGRacWpVYkpCcVF1c2dJeEo1Tk16eHJCUldkSGttMEVUWXFxQS0xV2JrN1BYRjlsUEo3bFpscndjMmw3MWlYcThOV3c2VlN0SzhSc05MUVQySGFMSQ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 11:02:00 GMT"
     }
   ],
   "sources": [
