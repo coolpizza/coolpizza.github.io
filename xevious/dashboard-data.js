@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-27T20:11:37.997697+09:00",
+  "generatedAt": "2026-04-27T20:21:20.599166+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,470.60",
-      "change": "-6.90",
-      "changePercent": "-0.47%",
+      "value": "1,471.00",
+      "change": "-6.50",
+      "changePercent": "-0.44%",
       "direction": "down",
-      "updatedAt": "2026-04-27 20:10"
+      "updatedAt": "2026-04-27 20:18"
     },
     {
       "label": "100엔/원",
-      "value": "924.06",
-      "change": "-2.82",
+      "value": "924.08",
+      "change": "-2.80",
       "changePercent": "-0.30%",
       "direction": "down",
-      "updatedAt": "2026-04-27 20:10"
+      "updatedAt": "2026-04-27 20:18"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "강한 이슬비",
-        "temperature": "12.2°C",
-        "feelsLike": "11.8°C",
+        "temperature": "12.0°C",
+        "feelsLike": "11.7°C",
         "highLow": "최고 19.8° / 최저 8.9°",
-        "humidity": "84%",
-        "wind": "2.2 m/s",
+        "humidity": "85%",
+        "wind": "1.1 m/s",
         "rainChance": "96%",
         "pm10": "45.9 μg/m³",
         "pm25": "21.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "37",
-        "updatedAt": "2026-04-27 20:00"
+        "updatedAt": "2026-04-27 20:15"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "10.9°C",
-        "feelsLike": "9.8°C",
+        "temperature": "10.8°C",
+        "feelsLike": "9.7°C",
         "highLow": "최고 18.3° / 최저 7.6°",
         "humidity": "90%",
+        "wind": "6.4 m/s",
+        "rainChance": "96%",
+        "pm10": "45.9 μg/m³",
+        "pm25": "21.5 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "37",
+        "updatedAt": "2026-04-27 20:15"
+      },
+      {
+        "location": "파주",
+        "summary": "약한 비",
+        "temperature": "10.8°C",
+        "feelsLike": "9.7°C",
+        "highLow": "최고 18.6° / 최저 7.6°",
+        "humidity": "91%",
         "wind": "6.1 m/s",
         "rainChance": "96%",
         "pm10": "45.9 μg/m³",
         "pm25": "21.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "37",
-        "updatedAt": "2026-04-27 20:00"
-      },
-      {
-        "location": "파주",
-        "summary": "약한 비",
-        "temperature": "10.9°C",
-        "feelsLike": "9.9°C",
-        "highLow": "최고 18.6° / 최저 7.6°",
-        "humidity": "90%",
-        "wind": "5.7 m/s",
-        "rainChance": "96%",
-        "pm10": "45.9 μg/m³",
-        "pm25": "21.5 μg/m³",
-        "airQuality": "보통",
-        "airQualityIndex": "37",
-        "updatedAt": "2026-04-27 20:00"
+        "updatedAt": "2026-04-27 20:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "13.6°C",
-        "feelsLike": "12.4°C",
+        "temperature": "13.2°C",
+        "feelsLike": "12.2°C",
         "highLow": "최고 21.4° / 최저 6.7°",
-        "humidity": "75%",
-        "wind": "6.7 m/s",
+        "humidity": "77%",
+        "wind": "5.8 m/s",
         "rainChance": "3%",
         "pm10": "8.7 μg/m³",
         "pm25": "6.1 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "34",
-        "updatedAt": "2026-04-27 20:00"
+        "updatedAt": "2026-04-27 20:15"
       }
     ]
   },
@@ -376,22 +376,16 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[화제현장 이곳] 디지털 격차 해소…찾아가는 ‘디지털 버스’ 호응",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04VFhkVDVyMk9HMW1EWWRZWlV2d2RnT28tMUtCRkVlWGVJYlNlbzFXSzU2eHFMUVVQa01FUFJDX3VSYzNKa0NkS0NKQnlBYm5Nb00xRzBzajRxUnM?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:59:00 GMT"
+      "title": "정원오 \"오세훈, 윤석열에 아부\"…서울시장 선거 공방 격화",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWTXl4UDdFX2YwZ2lhZHNKUnJ6bUtZOEVzRERvUnVtRktwdUV4Ym9OS1B1Q0c1VEV4VEtZUUNHb0pXMTZOaTJrMGVYS1VQYU9URUlMY3R5R19OQQ?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 11:17:31 GMT"
     },
     {
-      "title": "한국TV홈쇼핑협회 신임 회장에 임광기 前 SBS 논설위원",
-      "source": "서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xUzRtMm91TV9PSEJITjRRMzA5bGl6aHZlRU04bXZBNDZsdnJFZzZSSjVQYkQxTXFFTWZqNElqTXBxanpKQ1o2ZUNrMktmUzJqRUpPMzBQa0FnY3doWnM3NExSQ2ltVDFHSHc?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:51:10 GMT"
-    },
-    {
-      "title": "정원오 \"강남 재건축, 전력 다해 뒷받침\"",
+      "title": "경찰, '주사기 매점매석' 4개 업체 수사 착수",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OUs4REJXS0l3TWFxdGxINW9yTVd5TlVGOFlycjR1NlVOMS1nR015XzdBNTdXanBjQjlrRDhYdV9JWUZTY3FzcTdZQ2R6T2tZYU9F?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEZDlseWpWRGgxVTQ5RVVyS1hnS0hnS3Rxak5ZSkZPTHlpZXVhSFdvT0xUM2g3Uk1iZEtnckRDaWN3RUNwc3lzSTBOUGIzb3FlYW1tQ1EwOHFncVQ0M0NjQUItQ1RIb0k4VVltNEI1VWlNZVVwNkxkRw?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 11:12:00 GMT"
     },
     {
       "title": "[산업 HOT 뉴스] 파라다이스시티, 롯데면세점과 '방한 수요' 정조준…\"공동 마케팅 속도\"",
@@ -406,10 +400,10 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Mon, 27 Apr 2026 10:36:00 GMT"
     },
     {
-      "title": "코스피, 첫 6,600선 마감…시총 '6천조' 돌파",
+      "title": "정원오 \"강남 재건축, 전력 다해 뒷받침\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iY2RJTEdXQk1nUERXQlNnN3NVYUdGZTR6M1M2S05Qc0gwU255Y2hwSTlJdHItd2NaX1pSZnRlQVNUTEd0Skw2WEhBMzRybktpYmdz?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OUs4REJXS0l3TWFxdGxINW9yTVd5TlVGOFlycjR1NlVOMS1nR015XzdBNTdXanBjQjlrRDhYdV9JWUZTY3FzcTdZQ2R6T2tZYU9F?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:56:00 GMT"
     },
     {
       "title": "영광교육지원처청, 지역사회가 한마음으로 만든 도전",
@@ -418,22 +412,28 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Mon, 27 Apr 2026 10:33:00 GMT"
     },
     {
-      "title": "시나위 출신 김바다, 또…\"대마 흡입·소지 인정\" 검찰 송치",
+      "title": "한화의 결단…ERA 9.00 김서현 1군 엔트리 말소",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qVzRuV1gyRjF0ZXcxZF9OU1NUQkk1RVV0dkJZbVRRakRYLTFycHNSMnhyOTI2U1p6eVo0R3pGSUlYSE9naVVBQktFb0pjUkRXX3hj?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zZm9sbEpjUkhLSzZpZlgzWDlHcW9VTUVZMVk1QzVhVEM2Y1RBSHJrUWd0ZEdTNUdVSDFhYUtyelZkeTFPdE9RUEh4OTVLamdFcFFlejI5a3FsaUJNa1pmQU1hVFM2elQ5NHRvZmtYX0VKQkt2NmtOQQ?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 11:02:00 GMT"
     },
     {
-      "title": "전남교육청, 교육활동보호 연수 갖고 예방‧현장 지원 방안 논의",
-      "source": "교육연합신문",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vMFlndHRIS3RQUDRvS0JBdm5peFJhQ2RVUVQ0Mmp0V3E4MmtaWTRmZi1NYnEzUG1jeERyYW5CWERyanU3OHZoX24wUGRjRnFYWXBOMDJkU2FFb1Ew?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:29:00 GMT"
+      "title": "'알파고의 아버지' 만난 김용범…\"AI 3강 가는 길, 생각보다 빨리 열려\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GSFZqaVlXXzlMa0dsUHMzNEtCWE91amxtUHJDcnhFREIwYUh1akF3SGJEZlRzNzMtTThJdDN4ZU5LVUJrZU1UR0hGVElYR0FTbnJR?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 11:06:00 GMT"
     },
     {
-      "title": "서울 강남서, 오는 29일 '유명 인플루언서 사기 사건' 대질조사",
+      "title": "쿠팡, 회원 탈퇴시 '이머니' 환불 않고 맘대로 소멸",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wU01lc1JLT1Y4b29HLUVXaWZHMmJyRVo5b0l6S2dVLUZVU2lVZ3otVTM1ZnVXYjBXa0NjcEZUVmVfVUNvcndKenJIUl9WRW5QT08w?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 11:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tNzVVaTY5UkFsVXFReVJKLTIxdkxoNW05aExqQWZNaVgtUjBEX1FtNEVaX25WUnFmbzhid2poM3BPXzlQMzM2MGZaSkk0Tjh4dDVfbDJKRGtwQkRjNm9rSw?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 11:12:00 GMT"
+    },
+    {
+      "title": "코스피, 첫 6,600선 마감…시총 '6천조' 돌파",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iY2RJTEdXQk1nUERXQlNnN3NVYUdGZTR6M1M2S05Qc0gwU255Y2hwSTlJdHItd2NaX1pSZnRlQVNUTEd0Skw2WEhBMzRybktpYmdz?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:36:00 GMT"
     }
   ],
   "sources": [

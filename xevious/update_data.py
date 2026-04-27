@@ -358,6 +358,20 @@ def now_text():
     return dt.datetime.now(TIMEZONE).strftime("%Y-%m-%d %H:%M")
 
 
+def us_eastern_to_seoul_text(date_text):
+    parsed = dt.datetime.strptime(date_text.strip(), "%Y.%m.%d %H:%M")
+    year = parsed.year
+
+    dst_start_day = nth_weekday_of_month(year, 3, 6, 2).day
+    dst_end_day = nth_weekday_of_month(year, 11, 6, 1).day
+    dst_start = dt.datetime(year, 3, dst_start_day, 2, 0)
+    dst_end = dt.datetime(year, 11, dst_end_day, 2, 0)
+    offset_hours = -4 if dst_start <= parsed < dst_end else -5
+
+    eastern = dt.timezone(dt.timedelta(hours=offset_hours))
+    return parsed.replace(tzinfo=eastern).astimezone(TIMEZONE).strftime("%Y-%m-%d %H:%M")
+
+
 def parse_naver_fx_quote(url, label):
     page = fetch_text(url)
     quote = parse_world_quote(page, label)
@@ -377,6 +391,21 @@ def parse_naver_index_quote(url, label):
     return {
         **parse_simple_quote(fetch_text(url), label),
         "updatedAt": now_text(),
+    }
+
+
+def parse_naver_world_quote(url, label):
+    page = fetch_text(url)
+    quote = parse_world_quote(page, label)
+    updated_match = re.search(r'<span class="date"><em>([0-9. ]+[0-9:]+)</em>\s*현지시간 기준', page)
+
+    updated_at = now_text()
+    if updated_match:
+        updated_at = us_eastern_to_seoul_text(updated_match.group(1))
+
+    return {
+        **quote,
+        "updatedAt": updated_at,
     }
 
 
@@ -714,12 +743,27 @@ def fallback_market_item(section_name, previous_items, label, error):
     raise error
 
 
+def load_market_item_with_fallback(loaders):
+    last_error = None
+
+    for loader in loaders:
+        try:
+            return loader()
+        except FetchError as error:
+            last_error = error
+
+    if last_error:
+        raise last_error
+
+    raise FetchError("시장 데이터 로더가 비어 있습니다.")
+
+
 def load_market_group(section_name, previous_items, definitions):
     items = []
 
-    for label, loader in definitions:
+    for label, loaders in definitions:
         try:
-            items.append(loader())
+            items.append(load_market_item_with_fallback(loaders))
         except FetchError as error:
             items.append(fallback_market_item(section_name, previous_items, label, error))
 
@@ -735,17 +779,21 @@ def load_market_data(previous_data=None):
         [
             (
                 "코스피",
-                lambda: parse_naver_index_quote(
-                    "https://finance.naver.com/sise/sise_index.naver?code=KOSPI",
-                    "코스피",
-                ),
+                [
+                    lambda: parse_naver_index_quote(
+                        "https://finance.naver.com/sise/sise_index.naver?code=KOSPI",
+                        "코스피",
+                    ),
+                ],
             ),
             (
                 "코스닥",
-                lambda: parse_naver_index_quote(
-                    "https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ",
-                    "코스닥",
-                ),
+                [
+                    lambda: parse_naver_index_quote(
+                        "https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ",
+                        "코스닥",
+                    ),
+                ],
             ),
         ],
     )
@@ -754,9 +802,27 @@ def load_market_data(previous_data=None):
         "usMarkets",
         previous_data.get("usMarkets"),
         [
-            ("다우존스", lambda: parse_google_finance_quote("https://www.google.com/finance/quote/.DJI:INDEXDJX?hl=en", "다우존스")),
-            ("S&P 500", lambda: parse_google_finance_quote("https://www.google.com/finance/quote/.INX:INDEXSP?hl=en", "S&P 500")),
-            ("나스닥", lambda: parse_google_finance_quote("https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?hl=en", "나스닥")),
+            (
+                "다우존스",
+                [
+                    lambda: parse_google_finance_quote("https://www.google.com/finance/quote/.DJI:INDEXDJX?hl=en", "다우존스"),
+                    lambda: parse_naver_world_quote("https://finance.naver.com/world/sise.naver?symbol=DJI@DJI", "다우존스"),
+                ],
+            ),
+            (
+                "S&P 500",
+                [
+                    lambda: parse_google_finance_quote("https://www.google.com/finance/quote/.INX:INDEXSP?hl=en", "S&P 500"),
+                    lambda: parse_naver_world_quote("https://finance.naver.com/world/sise.naver?symbol=SPI@SPX", "S&P 500"),
+                ],
+            ),
+            (
+                "나스닥",
+                [
+                    lambda: parse_google_finance_quote("https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?hl=en", "나스닥"),
+                    lambda: parse_naver_world_quote("https://finance.naver.com/world/sise.naver?symbol=NAS@IXIC", "나스닥"),
+                ],
+            ),
         ],
     )
 
@@ -764,8 +830,14 @@ def load_market_data(previous_data=None):
         "currencies",
         previous_data.get("currencies"),
         [
-            ("달러/원", lambda: parse_naver_fx_quote("https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=FX_USDKRW", "달러/원")),
-            ("100엔/원", lambda: parse_naver_fx_quote("https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=FX_JPYKRW", "100엔/원")),
+            (
+                "달러/원",
+                [lambda: parse_naver_fx_quote("https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=FX_USDKRW", "달러/원")],
+            ),
+            (
+                "100엔/원",
+                [lambda: parse_naver_fx_quote("https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=FX_JPYKRW", "100엔/원")],
+            ),
         ],
     )
 
