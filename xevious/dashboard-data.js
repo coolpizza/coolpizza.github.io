@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-27T13:44:16.185275+09:00",
+  "generatedAt": "2026-04-27T16:22:09.352872+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "강한 이슬비",
-        "temperature": "19.1°C",
-        "feelsLike": "19.8°C",
-        "highLow": "최고 19.4° / 최저 8.9°",
-        "humidity": "61%",
-        "wind": "6.8 m/s",
+        "temperature": "18.3°C",
+        "feelsLike": "17.1°C",
+        "highLow": "최고 19.8° / 최저 8.9°",
+        "humidity": "52%",
+        "wind": "5.0 m/s",
         "rainChance": "96%",
-        "pm10": "53.7 μg/m³",
-        "pm25": "24.6 μg/m³",
+        "pm10": "39.0 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "47",
-        "updatedAt": "2026-04-27 13:30"
+        "updatedAt": "2026-04-27 16:15"
       },
       {
         "location": "김포",
-        "summary": "강한 이슬비",
-        "temperature": "17.1°C",
-        "feelsLike": "17.4°C",
-        "highLow": "최고 17.3° / 최저 7.6°",
-        "humidity": "74%",
-        "wind": "12.2 m/s",
+        "summary": "약한 비",
+        "temperature": "14.8°C",
+        "feelsLike": "14.0°C",
+        "highLow": "최고 18.3° / 최저 7.6°",
+        "humidity": "75%",
+        "wind": "6.8 m/s",
         "rainChance": "96%",
-        "pm10": "53.7 μg/m³",
-        "pm25": "24.6 μg/m³",
+        "pm10": "39.0 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "47",
-        "updatedAt": "2026-04-27 13:30"
+        "updatedAt": "2026-04-27 16:15"
       },
       {
         "location": "파주",
-        "summary": "강한 이슬비",
-        "temperature": "17.9°C",
-        "feelsLike": "17.8°C",
-        "highLow": "최고 18.0° / 최저 7.6°",
-        "humidity": "65%",
-        "wind": "12.9 m/s",
+        "summary": "약한 비",
+        "temperature": "16.6°C",
+        "feelsLike": "15.2°C",
+        "highLow": "최고 18.6° / 최저 7.6°",
+        "humidity": "62%",
+        "wind": "8.9 m/s",
         "rainChance": "96%",
-        "pm10": "53.7 μg/m³",
-        "pm25": "24.6 μg/m³",
+        "pm10": "39.0 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "47",
-        "updatedAt": "2026-04-27 13:30"
+        "updatedAt": "2026-04-27 16:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "19.8°C",
-        "feelsLike": "18.8°C",
-        "highLow": "최고 19.9° / 최저 6.7°",
-        "humidity": "54%",
-        "wind": "8.5 m/s",
+        "temperature": "20.4°C",
+        "feelsLike": "19.2°C",
+        "highLow": "최고 21.4° / 최저 6.7°",
+        "humidity": "47%",
+        "wind": "6.6 m/s",
         "rainChance": "3%",
-        "pm10": "20.4 μg/m³",
-        "pm25": "8.4 μg/m³",
+        "pm10": "18.3 μg/m³",
+        "pm25": "7.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-04-27 13:30"
+        "airQualityIndex": "59",
+        "updatedAt": "2026-04-27 16:15"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-27 08:05:51",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-27 14:59:25",
         "districtSamples": [
           {
             "district": "계양구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "'설영우 쐐기골' 즈베즈다, 세르비아리그 우승 조기 확정",
+      "title": "오픈마켓 약관 시정과 바이오·뷰티 R&D 지원 등 이시각 주요뉴스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PUl9idFdBY1ZqcDA2dk9fS1pXdUI3UXpoQ3RQWThXTHRocXRSZXBmUjFZTERZdzZWeU52NGtNOWtKRjAzelhOdmZRSDc4TWt0MVBkX3NmOThlMlVMd3RtbUVMdkMyYU5CR1hoci03M0_SAXRBVV95cUxPazdrdWFFa0FwamdobVVQQldjdl9Ha1VZd1NoYVAtTHJFdzRXVDdDZTNJRFREcUdXai1kU2ZNenhVMTg4Qm9UTGdheFRHYlJuc1Z3a2V3ZGpQX1FCQzdpaTc3ZE9ULWpLMWxUSnFobGJmTjB3bw?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 06:43:41 GMT"
+    },
+    {
+      "title": "강원지사 후보들, 주요 현안 해법 제시…정책 방향 '온도차'",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FS0FMR1RxaG01TDBZNHRxZExMbUF1LWRWQXItNGhwXzYwYUlSNjhMOEs2a2w0OEV4NHkwOHhfdXc0dlhhckthNjBNVHU2MVF2Q1ZZUndsYXA3RzTSAWBBVV95cUxNRm96dkc3a3pjcGdtVlFhMFc0THFpMFRkSXZIT2xWR2k2OEE5U0RqVjZPYlZhb1RIQV9uc214VXpwQ1Bmb3BLUi13b2VzcWZ5QVhsb0pncWJEU0pWdFU4b0g?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 06:54:29 GMT"
+    },
+    {
+      "title": "하루 10분 호주 뉴스: 4월 27일 월요일",
+      "source": "SBS Australia",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPay1sWl9meGZvR05SNlExTEEzUkw4b0Fhb2luZnFybVkwZ1k0MFdTNEMwcmxSRmJlUnlqci1TbzJGQndkbWw4bEhRTHFBSGt3bUxocjE5TEtjVXhZTFBmLXE2RTBCdnB1SURlN0xLdG9xQkNJTEpSNFVDNV9rd3pWUVdhV3M2WUJNeGFNN0ItazZPQ1AtVWxr?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 06:30:24 GMT"
+    },
+    {
+      "title": "조선이공대 'RISE 총괄관리위원회' 개최…지역혁신사업 논의",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RRUtOWC1KeTJYSzN2cWp6UTRLZzQ4cGJBSG5wY2VYVk5qWmRwMTJZTExBZU9iNVFtR1hoZUFMbHQ3a2lzSFlkQWROamItaC1NOFNCbGdRMUJJQkQ0YjRhMA?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 04:20:56 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wUWE1R21sRlppNWxPSHlDUTZEZGtCQXBlS3gxSGpqT0F2WXBmOHd3XzZoVVlkRDVRMW9hQnFtYk1lRXZUZm12aVkzM0IxWWFuUVBnTTZoV2ZtOFBhNzU4?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 06:52:28 GMT"
     },
     {
-      "title": "[뉴스특보] 미?이란 경제고통 버티기…시간은 누구편?",
+      "title": "[속보] 코스피, 사상 최고치 경신…6600선 돌파",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzMl9YYWwxeE5OX0N6bmNKNlJKcTBfRU5jcC15WDZadk9ScDBCVWQ4RVFxY1F5N0xjRWVLZVFqNG5xOVJ1TzVGVDhBVEpvUTMzcHJibzRvYWxMZXBXQjJiaTJfTE5RMVNIQk1mRkY1WHR5UQ?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 06:32:00 GMT"
+    },
+    {
+      "title": "GS, 여수산단 주요기업들과 '탄소절감 협의체'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jQ0IzN3RPRzY4X3h0QmdHbHNCMzlWazFNY1Rfc2J5Nml2X0ptdXlIV0FBWFNtRnRoOXFJQVNxdnRqMUQ0OVpUaHVXWXM4VDExdHZz?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 04:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hdC1NeVpPb0pSUVBwSjhTTlZyVFI1bEM2dkt2TktnVThqZWtjOE1KbV81UkZxcjI5WGl1VXFKN3JTSkdNaC1hY1N5Q250c0ZrNFg0?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 07:03:00 GMT"
     },
     {
-      "title": "진석호 군산시장 예비후보 \"디즈니랜드 유니버설 스튜디오 유치\"",
-      "source": "노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xa3VPa0R5eG1TYUh1SDMwLXVrd2N3bGM4b2lfTUZ0OEtTSTFEYzBwaThTVU1pTnRnT0JENzVCdDUtUXdKcm5QaFJNd2lUcEFtYnc?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 04:24:00 GMT"
-    },
-    {
-      "title": "메이사, 신세계건설 전 현장에 드론 솔루션 공급…건설 DX 본격화",
-      "source": "스타트업엔",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEZ2RXcElfdE96UUV5TXEtbVdKWlR6cHRUZWJzZUVaS19oMy1ZNzlrZk9VaDNSWjlkalNySU5SZ0hldE14bzRmbFp0Y2otOXdmQ1lMS0VTaXVibmNPWUpIM2JGd0pMQ0ww0gFsQVVfeXFMTmU0d3NfNlJHWUR4SmZ0WVhOU2ZZc01rbV9jNnBYTUhsLVowYVh0M2x0LU1xY1JxY2dNUmlIWl92cUZYQTA5MzdaQ1JFQXFZczRhSWowZHVldEtndHgzN3dDWTBqWFFzTnc2MDV0?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 04:28:29 GMT"
-    },
-    {
-      "title": "울산 북구 해안·등대길 스탬프 투어 운영…기념품 추첨 증정",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9McDdKZGF2WWFvakJLdmhQZmVwaUFtYVZTbkRWSkZrNTFQTGZMeFRjdHFfVlgxV01HNm5YMkdMa0ptdG5LRm5RelgxajVzaHg0c2c?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 04:26:17 GMT"
-    },
-    {
-      "title": "코인원, 가상자산 주요인사 발언 실시간 제공",
+      "title": "현대백화점, 일본 주요 백화점에서 K패션 팝업스토어",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvWC1jei16Q0VCb05HbWtkeVZURWdRcnNrYkEzZUtfbndQSmJ2ZnlrY3NJUjh4WFhIaHpXaWZJaFVGT0tuaU8xVURNU2xpcklWM1pn?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 04:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hVG5HdzBmR3RGQzEyRmItZ0NKd1hDRGV5Zy1nelQzVHZDSUV1c1FFbXRmTGhLWmFjbF9IakRCcEZ5anRVMm1yZ3RoVExhbGJiYTBv?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 07:05:00 GMT"
     },
     {
-      "title": "이범석 청주시장 \"부시장 체제 흔들림 없는 시정 추진\"",
-      "source": "노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jT0FNbFkyaGtrWk42YVk1ZS1UX3lBUDlzaU5WcHpQbGpTUmRTNlY2SGhnR3g2MkFqWHRGbHVkYUpXNF94WThoZTZHd3F6TEZaQ1E?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 04:10:00 GMT"
-    },
-    {
-      "title": "아우디 강북 전시장, 리뉴얼 끝내 'A6 전용 공간까지 마련'",
+      "title": "출마 선언하는 박형준",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MQ1RZYldpVWtQa0tGNVo4YzBlaFlQMERTOGZET0dQS1h6RHdIckN2UkZPX0ZCTlhPMU1OYWdEWkxpZFk4c1Z0bV91QlJCSGRoZUFv?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 04:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aSVZiZlRVR0g5bXJmOGRRU2ttSGlRME9IZllBMVZlMDNsNE1aVG5pSkdQaGpWUjFQa3A1bi1CT25oVkRtN1RDRFduN0RmNEpjRDZB?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 06:39:00 GMT"
     },
     {
-      "title": "진석호 군산시장 예비후보 \"디즈니랜드 유니버설 스튜디오 유치\"",
+      "title": "과기부, 구글 딥마인드와 맞손…'K-문샷' 협력 본격화",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CR3E4M29LY0xueU9sVk1pSEtMVjVrLXlBYnljSGl2LWgzOW53N2RSR0RBQVA2ei1MdjFpLVRsRTREam14SEhPSEhydmxEWjVENGs4?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 04:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4QXdHdkc2NkJYZGJOM0I1SVZfY2lTUk1zdWczX1dqb2lBQ3lqQ3NPSUNIUmV1NGtvd2hvaDVjUEMxMU40T0llOXpiQ2Z5NS1YRklF?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 07:02:00 GMT"
     },
     {
-      "title": "이민근, 5월 2일 선거사무소 개소…\"원팀으로 재선 도전\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwV3g2YV81cGlhRlZVazljZUhOai1VcG1ydGVmOWV1OWNLeVRIMlhFaFZPR1VYdTR0X1RDVFltak5ibS1yeHBncTB1bmRVQlFTQV90dGVVTDNCc1doOS1uMTNaNHJJdU9GUjgwQ0dPa1pMZWtzVzJJTQ?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 04:32:00 GMT"
+      "title": "[뉴스핌 뉴스레터 Today ANDA] 4월27일",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0dDQtaktrTzFaQ0pxMXRJY1lCSzJjNkQ0aU5rMjloQkZiTUJsX2JNZGpqWWR6ZkpOeTdWOXMtN0dCM01aTlBNSGpPUWFfakVKSUhjTTVYRlE5RjBW?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 07:05:00 GMT"
     }
   ],
   "sources": [
