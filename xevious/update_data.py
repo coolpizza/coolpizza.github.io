@@ -358,6 +358,21 @@ def now_text():
     return dt.datetime.now(TIMEZONE).strftime("%Y-%m-%d %H:%M")
 
 
+def parse_naver_fx_quote(url, label):
+    page = fetch_text(url)
+    quote = parse_world_quote(page, label)
+    updated_match = re.search(r'<span class="date">([0-9. ]+[0-9:]+)</span>', page)
+
+    updated_at = now_text()
+    if updated_match:
+        updated_at = updated_match.group(1).strip().replace(".", "-")
+
+    return {
+        **quote,
+        "updatedAt": updated_at,
+    }
+
+
 def parse_naver_index_quote(url, label):
     return {
         **parse_simple_quote(fetch_text(url), label),
@@ -749,8 +764,8 @@ def load_market_data(previous_data=None):
         "currencies",
         previous_data.get("currencies"),
         [
-            ("달러/원", lambda: parse_google_finance_quote("https://www.google.com/finance/quote/USD-KRW?hl=en", "달러/원")),
-            ("100엔/원", lambda: parse_google_finance_quote("https://www.google.com/finance/quote/JPY-KRW?hl=en", "100엔/원", value_multiplier=100)),
+            ("달러/원", lambda: parse_naver_fx_quote("https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=FX_USDKRW", "달러/원")),
+            ("100엔/원", lambda: parse_naver_fx_quote("https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=FX_JPYKRW", "100엔/원")),
         ],
     )
 
@@ -1156,8 +1171,8 @@ def build_dashboard_data(previous_data=None):
                 "url": "https://www.google.com/finance/",
             },
             {
-                "label": "Google Finance: 환율",
-                "url": "https://www.google.com/finance/quote/USD-KRW?hl=ko",
+                "label": "네이버 금융: 환율",
+                "url": "https://finance.naver.com/marketindex/",
             },
             {
                 "label": "오피넷: 싼 주유소 찾기",

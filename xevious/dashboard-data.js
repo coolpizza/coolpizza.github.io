@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-27T20:05:51.699691+09:00",
+  "generatedAt": "2026-04-27T20:11:37.997697+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.1100",
-      "change": "+0.07",
-      "changePercent": "+0.00%",
-      "direction": "up",
-      "updatedAt": "2026-04-18 14:17"
+      "value": "1,470.60",
+      "change": "-6.90",
+      "changePercent": "-0.47%",
+      "direction": "down",
+      "updatedAt": "2026-04-27 20:10"
     },
     {
       "label": "100엔/원",
-      "value": "928.29",
-      "change": "+0.29",
-      "changePercent": "+0.03%",
-      "direction": "up",
-      "updatedAt": "2026-04-18 17:05"
+      "value": "924.06",
+      "change": "-2.82",
+      "changePercent": "-0.30%",
+      "direction": "down",
+      "updatedAt": "2026-04-27 20:10"
     }
   ],
   "weather": {
@@ -376,10 +376,16 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[한국뉴스 TV] 26년 4월 27일 (월) 오늘의 주요뉴스",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SUy1OZU45X0ZvRkdrNFdrVGpKWnNtTnNlZDctdThRNHQ2NWZ6d3BrX1pKZHg5cFhjQ2pGeGo0d2tkVS1sbVZzYk9JdE51WWNCMGFmSmZvS1V0c2RwRDkyY29uLXh6V2s?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:06:53 GMT"
+      "title": "[화제현장 이곳] 디지털 격차 해소…찾아가는 ‘디지털 버스’ 호응",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04VFhkVDVyMk9HMW1EWWRZWlV2d2RnT28tMUtCRkVlWGVJYlNlbzFXSzU2eHFMUVVQa01FUFJDX3VSYzNKa0NkS0NKQnlBYm5Nb00xRzBzajRxUnM?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:59:00 GMT"
+    },
+    {
+      "title": "한국TV홈쇼핑협회 신임 회장에 임광기 前 SBS 논설위원",
+      "source": "서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xUzRtMm91TV9PSEJITjRRMzA5bGl6aHZlRU04bXZBNDZsdnJFZzZSSjVQYkQxTXFFTWZqNElqTXBxanpKQ1o2ZUNrMktmUzJqRUpPMzBQa0FnY3doWnM3NExSQ2ltVDFHSHc?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:51:10 GMT"
     },
     {
       "title": "정원오 \"강남 재건축, 전력 다해 뒷받침\"",
@@ -388,10 +394,16 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Mon, 27 Apr 2026 10:56:00 GMT"
     },
     {
-      "title": "'대마 흡입·소지' 재범…그룹 시나위 출신 김바다, 검찰 송치",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTEt3YlFRTFk1bFBJUExWXzkzSXJPZDhjMWRqeWpjMEVFTEI1OUU0eGxLVTBGcUcwemliR0VnMHYtcnV6cHFlMU5vVE9rV05PUG5VMDRkdy1Kdy1OM0NacTBWUmFTV3lqNmFLYUlmTk9DTFJlRVdSaQ?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:53:00 GMT"
+      "title": "[산업 HOT 뉴스] 파라다이스시티, 롯데면세점과 '방한 수요' 정조준…\"공동 마케팅 속도\"",
+      "source": "비즈월드",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aVjNWXzViSUpVc1Q0NE4waUtLb3JPbUg5aHQ3MXBSNTh5d3VRMW1RQ1NZSDBBcnM5NWQ3MXRFLXpHTC11N1Z5anJtTUVTdVAxbmx3RHRXSVhGcXpBVmdjZVdnY0x2RXpCQnc?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:51:00 GMT"
+    },
+    {
+      "title": "전남기술과학고 복싱부, 전국종별선수권 고등부 ‘금·은메달’ 쾌거",
+      "source": "교육연합신문",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WcUN4T19mdThKWEpoX0FxcmliWUdJczRWSUtLRUdEQjVZcTc2UkI3UkMxeXB6NjJMU0pzNVYxNUJFZ3NwUTRVbXpaVGRLckhVZlg3MzVsS2R0WVNa?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:36:00 GMT"
     },
     {
       "title": "코스피, 첫 6,600선 마감…시총 '6천조' 돌파",
@@ -400,40 +412,28 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Mon, 27 Apr 2026 10:36:00 GMT"
     },
     {
-      "title": "[속보] '내란 가담·김건희 수사청탁' 박성재 6월 9일 1심 선고",
+      "title": "영광교육지원처청, 지역사회가 한마음으로 만든 도전",
+      "source": "교육연합신문",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44WWFTWWhjZkFTOXdWd2ZKTEF2UmZQSkZvZG8xS09MbmpKSUVOZE85VU5qZHktb1BzSTNlZlJIN3E4X0FsQkplcDAtZ0NUeDBHUTA1VW94SGwxdGRw?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:33:00 GMT"
+    },
+    {
+      "title": "시나위 출신 김바다, 또…\"대마 흡입·소지 인정\" 검찰 송치",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYTmRUYlNHSFR3ZUxyaXZRRmxtQkxNQ2U2OS1qQkhYQ21pWU1mQWN5Mm5Ka0hYdlRCbWZoRjJzT00xVXhFUmIzdGZsZE1PN01PdDRZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qVzRuV1gyRjF0ZXcxZF9OU1NUQkk1RVV0dkJZbVRRakRYLTFycHNSMnhyOTI2U1p6eVo0R3pGSUlYSE9naVVBQktFb0pjUkRXX3hj?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:53:00 GMT"
+    },
+    {
+      "title": "전남교육청, 교육활동보호 연수 갖고 예방‧현장 지원 방안 논의",
+      "source": "교육연합신문",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vMFlndHRIS3RQUDRvS0JBdm5peFJhQ2RVUVQ0Mmp0V3E4MmtaWTRmZi1NYnEzUG1jeERyYW5CWERyanU3OHZoX24wUGRjRnFYWXBOMDJkU2FFb1Ew?oc=5",
       "publishedAt": "Mon, 27 Apr 2026 10:29:00 GMT"
     },
     {
-      "title": "민주당, 정년 65세 논의 재개…노동계·재계 잇단 면담",
+      "title": "서울 강남서, 오는 29일 '유명 인플루언서 사기 사건' 대질조사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UYzhSeHdFeWdpUXdQb1ZYMDFhOUx4dExxd0l2MGs3V0haSTRlRUJ6NWpodk1hcDF6cUpzTElRLXBMSHRlSGJUWWJzTlhkRWFrLVhR?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:08:00 GMT"
-    },
-    {
-      "title": "민주당, 정년 65세 논의 재개…노동계·재계 잇단 면담",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrY3h3YlhpbFF1NG1YMXgwODNrZGlOdlFKM2hmb2FocDAtSnpleUQtakdqREdGNmoyNnRPRVlxSDl0dW94cmF4NG1JSmxNam1Fd3A1WHEtaHZhdw?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:07:55 GMT"
-    },
-    {
-      "title": "국힘, 김영환 충북지사 공천 확정…컷오프 위기 극복",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xd2NnM3ctZXQtVFVQam1lVGJ0cU5NSEF5SGJtdDFPRlFodjVQcl9PcFpsRmFMUE8xbVU2SDRULXBJbVVqS0htd0EtZ0JtVmUxNXNz?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:23:00 GMT"
-    },
-    {
-      "title": "지붕 까마귀 쫓으려 폭죽 '펑'…주택 화재로 번져 2500만원 피해",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yWFhNVDVCNS1TTUtnVkNzbm1TaWV3TWNZR3hYaE9TYkJJZjE2ZmdmNkdvM2N2ZU5FblpIUTFFY09HTElGaHlmVmk3MmcwT2lZTWs4aGNiUnkxcmFMOG1xYWh1b0JwNjB2Z0NidWJ0SHROcVJwbHdOdw?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:32:00 GMT"
-    },
-    {
-      "title": "이순재 떠나고…'90세' 신구, 최고령 현역 배우의 가슴 뭉클 커튼콜 [스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwTGlpX2tOWHZlb0Zubk14QmhZSjRHRUw1dUtrVk1PVm1JOENTX2ozRVBMeThSeVF5OUgzVUxKNHBlYXNZaGE3YVNmSXdjeDV1S3k0?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wU01lc1JLT1Y4b29HLUVXaWZHMmJyRVo5b0l6S2dVLUZVU2lVZ3otVTM1ZnVXYjBXa0NjcEZUVmVfVUNvcndKenJIUl9WRW5QT08w?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 11:05:00 GMT"
     }
   ],
   "sources": [
@@ -450,8 +450,8 @@ window.DASHBOARD_DATA = {
       "url": "https://www.google.com/finance/"
     },
     {
-      "label": "Google Finance: 환율",
-      "url": "https://www.google.com/finance/quote/USD-KRW?hl=ko"
+      "label": "네이버 금융: 환율",
+      "url": "https://finance.naver.com/marketindex/"
     },
     {
       "label": "오피넷: 싼 주유소 찾기",
