@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T05:08:23.491613+09:00",
+  "generatedAt": "2026-04-28T06:14:43.757462+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,168.04",
-      "change": "-62.67",
+      "value": "49,167.79",
+      "change": "-62.92",
       "changePercent": "-0.13%",
       "direction": "down",
-      "updatedAt": "2026-04-28 05:02"
+      "updatedAt": "2026-04-28 05:20"
     },
     {
       "label": "S&P 500",
-      "value": "7,173.95",
-      "change": "+8.87",
+      "value": "7,173.91",
+      "change": "+8.83",
       "changePercent": "+0.12%",
       "direction": "up",
-      "updatedAt": "2026-04-28 05:01"
+      "updatedAt": "2026-04-28 05:34"
     },
     {
       "label": "나스닥",
-      "value": "24,888.67",
-      "change": "+52.07",
-      "changePercent": "+0.21%",
+      "value": "24,887.10",
+      "change": "+50.50",
+      "changePercent": "+0.20%",
       "direction": "up",
-      "updatedAt": "2026-04-28 04:47"
+      "updatedAt": "2026-04-28 05:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.90",
-      "change": "-2.60",
-      "changePercent": "-0.18%",
+      "value": "1,475.00",
+      "change": "-2.50",
+      "changePercent": "-0.17%",
       "direction": "down",
-      "updatedAt": "2026-04-27 22:05"
+      "updatedAt": "2026-04-27 22:08"
     },
     {
       "label": "100엔/원",
-      "value": "925.38",
-      "change": "-1.50",
-      "changePercent": "-0.16%",
+      "value": "925.23",
+      "change": "-1.65",
+      "changePercent": "-0.18%",
       "direction": "down",
-      "updatedAt": "2026-04-27 22:07"
+      "updatedAt": "2026-04-27 22:08"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "10.4°C",
-        "feelsLike": "9.3°C",
+        "temperature": "10.5°C",
+        "feelsLike": "9.4°C",
         "highLow": "최고 17.0° / 최저 10.4°",
-        "humidity": "94%",
-        "wind": "7.2 m/s",
+        "humidity": "93%",
+        "wind": "6.5 m/s",
         "rainChance": "75%",
-        "pm10": "26.4 μg/m³",
-        "pm25": "21.9 μg/m³",
+        "pm10": "19.9 μg/m³",
+        "pm25": "17.7 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-04-28 05:00"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-04-28 06:00"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "10.4°C",
-        "feelsLike": "8.3°C",
+        "temperature": "10.3°C",
+        "feelsLike": "8.1°C",
         "highLow": "최고 16.7° / 최저 10.2°",
-        "humidity": "94%",
-        "wind": "13.7 m/s",
+        "humidity": "93%",
+        "wind": "13.6 m/s",
         "rainChance": "78%",
-        "pm10": "26.4 μg/m³",
-        "pm25": "21.9 μg/m³",
+        "pm10": "19.9 μg/m³",
+        "pm25": "17.7 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-04-28 05:00"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-04-28 06:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
         "temperature": "10.3°C",
-        "feelsLike": "8.7°C",
+        "feelsLike": "8.2°C",
         "highLow": "최고 16.9° / 최저 9.7°",
-        "humidity": "94%",
-        "wind": "10.5 m/s",
+        "humidity": "92%",
+        "wind": "12.3 m/s",
         "rainChance": "71%",
-        "pm10": "26.4 μg/m³",
-        "pm25": "21.9 μg/m³",
+        "pm10": "19.9 μg/m³",
+        "pm25": "17.7 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-04-28 05:00"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-04-28 06:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "11.0°C",
-        "feelsLike": "9.1°C",
+        "temperature": "10.3°C",
+        "feelsLike": "8.8°C",
         "highLow": "최고 15.8° / 최저 8.4°",
-        "humidity": "93%",
-        "wind": "13.2 m/s",
+        "humidity": "92%",
+        "wind": "8.3 m/s",
         "rainChance": "14%",
-        "pm10": "30.7 μg/m³",
-        "pm25": "21.5 μg/m³",
+        "pm10": "27.6 μg/m³",
+        "pm25": "21.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "31",
-        "updatedAt": "2026-04-28 05:00"
+        "airQualityIndex": "30",
+        "updatedAt": "2026-04-28 06:00"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-27 18:04:09",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-28 00:42:11",
         "districtSamples": [
           {
             "district": "계양구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[오늘의 주요 일정] 제주(28일, 화)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53bXdxRUZRM0dYZXRPMnlYNVROa2Y2OEViVU9zQ3BuVjJWNUZvdWlJbGNkMDV0M2pnOHpUb3NvZ1ZjUnBudTRnbk1EMW5uNlJR?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 20:00:00 GMT"
+      "title": "1부 오늘의 주요뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Nb2ZucmJ1ZXpRMnBTOUh6bDVNWTU4SVRHZWZBM0tUcE1TZ01HVXlYbTJOWE1QckFoeWVkU0ZMbW5nSTFPUnpPV0kzVnoxdmtRSDVfODVIVzU4OE1PR1dvQjhiUkhXanVVRTNUcUp1Z3V1WnNHMnpYYUtn0gF6QVVfeXFMUDdVNEpDQnN4OG1JWDgzeFhRUUFoMGU2d2NLdEIzZGFvTEQwZ2swdWpsdWNLZ0VqenRaNzlVTkZaX0lacS1mNzZOSkM4d3A0TWZEVm9hS2dvcFUyX19nRnhQZVp2Qm1kbTZWS2E1YzVJcFd3M2FDUXQ4SFE?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 21:02:21 GMT"
     },
     {
-      "title": "[오늘의 주요일정]전북(28일, 화)",
+      "title": "뉴욕증시 혼조 마감…S&P500·나스닥, 빅테크 실적 앞 최고치",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBc3FqcEh3dWVQM3c5TzNCMmY0cmlXUjNuMDg5cmVGcjkwZTN1ZDE0dkJUYnB5Wng4QUlXcjFmUGhHUmprOURwVnV1TXJJc3ZrQk5RV3dGNHZxUi1tR2FrdS1nWEdFZUk?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 21:10:09 GMT"
+    },
+    {
+      "title": "롯데멤버스, 챗GPT 기반 대화형 서비스 도입",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EWjFQQ2ZrQUNzX0RjcEZCc29NT054OE56VlgwRk9OTFVibndGbHZRc0lzSjIzUC1mWlBHZVZ2TlE4UlpKbmMxRmJCeFJNV3haYXh6YzVaM2FqajduV0xrUA?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmOXg1NkJaV0VQMnNFeFFGQmJfOFlMWDRaMGdRRHpCakFtUmt1bmRfeHR2YkxvRGRQNjRoY3dubTNMQ2lzSnl6MmZ1RFgtMFhCRGJN?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 21:00:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 대전·충남(28일, 화)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qMG5TVmJhNVZkSnktUjNXTnpvV2hKeEp1aVN2ZzEyUzVkV2c3OTUxZVl3T3UtVENSUW5OYmh3NVUzbWE4YXNkd0RSdXZWR2FQUElZZUNlTU9RZEZXdjBRNA?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 20:00:00 GMT"
+      "title": "[속보] 뉴욕증시, 혼조...다우 0.13%↓",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sSk5yY2R4OVgtemlENjRfMlZBbnlPb2hxNXJ6U0liR3dnVVo1U0tMSkNxSUJNNlBucEtsTkFZYUlMM1ZZRDVsaGdPRWRUTjBHZjBzZXJBMXRKM3ZKMjRuMnVudFBFVGF5OWZsV2d5aExlaTlv?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 21:11:00 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 경기(28일, 화)",
+      "title": "축구장 4개 길이 '440m 티라미수'…기네스 세계기록 경신",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oNEpHN3NTVUxfYldQTnkxVFBKMXhGaVZIWVdFbFZERXVod3BhcFRWLTc3M3lqMkxHbFNzc2lWTzYxeV9xeFpieHFBZ215OXhjYUtjSTlZTjM4Z2taMVdWQm9B?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 21:00:00 GMT"
+    },
+    {
+      "title": "여수 교차로서 1t 트럭-버스 충돌…1명 숨지고 11명 다쳐",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqUjI3WjRJUmFod1NtN0tfOGVHaEdhaXVPb2RvcUdBV3NWM2tDbEhNV2VfaU5nWGpVR2dBZzZERVRLLU9pLUw0T19wX2xua2ZYTWxJSjNoQVcxU3Z1UlhMLQ?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1icmN2X2czMDBPa3RtcnFiRGwyRFVRTkZxeDRsdGNiNnRGMkVzTHFIeFFnY1YtUERwOWFhUW9UZE1FWXZOQ0VvVmJhTEUzV3lBOGFJ?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 21:07:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 광주·전남(28일, 화)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96ckdwTEVVOTh3MTZsSzdGdDVmbkpqS05TQTRkS0c1bkRIWm9rZ0dZekpvakRmX0t3Q2REbnlzcHd6aElfVDZCc0lWa0FyNzRWWnE0TXNhTEx2cV81aVBR?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 정치·정부 (28일, 화)",
+      "title": "[과학세상] 심장 박동엔 암도 접근 못 한다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TVEpQbUs0MGtnMFBZUjd4U1FfaUtCSVdJY09FbUhhMzEzUmJ5cUp2LWZMMHE1aUNNOWRkQVRsYzRWU3Uxem5DM3E3QUVFSGgtbHBhV2hWN3V6UWttblFERg?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xTHZ0ZWFtdnlGVW5KR3BTMUN3X240eUVyaXJLYk5iam04ZjZic01HenV0WUpYcWFwNl9BUFR6blQtMEVwMTU1X2dMZWs1cEw1R3ZV?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 21:02:00 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 경기(28일, 화)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZy1OTEVkNjlNMUFoUnVZMno1SGhjdW93NHZwNXJRU3J2Uk5vY0FRb2VBOUJ0RUlaZXpnbGlYNnlHMTFVSWMwSzBXTW01ZzZlMWVFZW5B?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 충북·세종(28일, 화)",
+      "title": "美S&P500·나스닥 빅테크 실적앞두고 최고치마감…나스닥 0.2%↑(종합)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TVEhFMDcyb3gxYmk5OTdEMWFQcTI3dUJJUEUzbzNKcWZXNXo0ZktQOXQtQ3ljU21uTnAwSFRzYlUyb04yRFhBWVkwMjB6OU1vbENJTml3WlVQc2szZ2hrQg?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mWU1tUVc1YWxsazVJbFJkWDhfVTd3S056aEhDQUdhWnNtMnFGc0lyYU0xd1paOGRkVnBzb1FaNWluWkwzQTNhUGVJRU45X3FiQ3k4?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 20:43:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 울산(28일, 화)",
+      "title": "전국 흐리고 수도권 비 소식…기온 다소 낮아져[오늘날씨]",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GaE9yNHNJd3RDZUZha3piMDNjZHRSLTB4c1BGV2huYzEtMlVVM0tHSXh0MUtiM0U4ZWVHcUppSlY1eTVRMHA5R3VaQUFOdHpTRWc?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YU0h3MDF4N05hUjdJMmZpUVFLLVZsOHAwWXVFeVBDVWdoZk1Sa0JzeGdSYTVHMEV1ZWgza1EyQ3otY2ZSVVpVUjh2UW1aRF9TTnBjVDJOeTY5TkNmTHhzUDBHUQ?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 21:00:00 GMT"
     },
     {
-      "title": "전국 대체로 흐리고 곳곳 비…낮 최고 23도 [날씨]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYblRIOURjT3ZVdk93OHJCcmd2emNZaHg1RnpTVEtiUExCZU9lNUpaSTZ3R1NTc3JVVUkzZXJIcEJQdWtuUEVIX3lVUjdWdFFJVUE1N2dCbG1HQjd3SWl2Mw?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 20:00:00 GMT"
+      "title": "[뉴욕증시] 빅테크 기업 호실적 기대 높다…혼조 마감",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RSVFIeEtfOElyV2gwS2xSVUpoaUVCVktsOWlhY3Y0R191QUd4RDNEYUJIb2g2Yk5JS0xqWlJIQkg3VGJ5VmY1eHJkQWJnQ0dZeUdZTVY4LWZuSEhDQk5HUkdybTdiNlV6ZXRrcNIBb0FVX3lxTE0zUUZRd1gtbFZTR2ViSXdsSF9BLW9QMTZjcnVBSUU2cnRXQ0doSmRveEhQQkVSRGE3RjNaOGQwb1I2S2RfU3BPcWU1RWNicklEOGJ1REdjOUJmV3Q2bE9GT2xFV2FheGpPdFV2MGF5NA?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 20:57:32 GMT"
     }
   ],
   "sources": [
