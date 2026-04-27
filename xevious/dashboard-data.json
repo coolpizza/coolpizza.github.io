@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T20:21:20.599166+09:00",
+  "generatedAt": "2026-04-27T22:03:04.313927+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -23,9 +23,9 @@
     {
       "label": "다우존스",
       "value": "49,230.71",
-      "change": "-79.61",
-      "changePercent": "-0.16%",
-      "direction": "down",
+      "change": "+0.00",
+      "changePercent": "+0.00%",
+      "direction": "flat",
       "updatedAt": "2026-04-25 05:36"
     },
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,471.00",
-      "change": "-6.50",
-      "changePercent": "-0.44%",
+      "value": "1,471.50",
+      "change": "-6.00",
+      "changePercent": "-0.41%",
       "direction": "down",
-      "updatedAt": "2026-04-27 20:18"
+      "updatedAt": "2026-04-27 21:54"
     },
     {
       "label": "100엔/원",
-      "value": "924.08",
-      "change": "-2.80",
-      "changePercent": "-0.30%",
+      "value": "924.63",
+      "change": "-2.25",
+      "changePercent": "-0.24%",
       "direction": "down",
-      "updatedAt": "2026-04-27 20:18"
+      "updatedAt": "2026-04-27 21:54"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "강한 이슬비",
-        "temperature": "12.0°C",
-        "feelsLike": "11.7°C",
-        "highLow": "최고 19.8° / 최저 8.9°",
-        "humidity": "85%",
-        "wind": "1.1 m/s",
+        "temperature": "12.1°C",
+        "feelsLike": "11.6°C",
+        "highLow": "최고 19.9° / 최저 8.9°",
+        "humidity": "83%",
+        "wind": "2.7 m/s",
         "rainChance": "96%",
-        "pm10": "45.9 μg/m³",
-        "pm25": "21.5 μg/m³",
+        "pm10": "47.4 μg/m³",
+        "pm25": "26.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "37",
-        "updatedAt": "2026-04-27 20:15"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-27 21:45"
       },
       {
         "location": "김포",
         "summary": "약한 비",
         "temperature": "10.8°C",
-        "feelsLike": "9.7°C",
+        "feelsLike": "8.9°C",
         "highLow": "최고 18.3° / 최저 7.6°",
-        "humidity": "90%",
-        "wind": "6.4 m/s",
+        "humidity": "83%",
+        "wind": "10.1 m/s",
         "rainChance": "96%",
-        "pm10": "45.9 μg/m³",
-        "pm25": "21.5 μg/m³",
+        "pm10": "47.4 μg/m³",
+        "pm25": "26.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "37",
-        "updatedAt": "2026-04-27 20:15"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-27 21:45"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "10.8°C",
-        "feelsLike": "9.7°C",
+        "temperature": "10.6°C",
+        "feelsLike": "9.9°C",
         "highLow": "최고 18.6° / 최저 7.6°",
-        "humidity": "91%",
-        "wind": "6.1 m/s",
+        "humidity": "88%",
+        "wind": "2.4 m/s",
         "rainChance": "96%",
-        "pm10": "45.9 μg/m³",
-        "pm25": "21.5 μg/m³",
+        "pm10": "47.4 μg/m³",
+        "pm25": "26.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "37",
-        "updatedAt": "2026-04-27 20:15"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-27 21:45"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "13.2°C",
-        "feelsLike": "12.2°C",
+        "summary": "약간 흐림",
+        "temperature": "11.8°C",
+        "feelsLike": "10.9°C",
         "highLow": "최고 21.4° / 최저 6.7°",
-        "humidity": "77%",
-        "wind": "5.8 m/s",
+        "humidity": "86%",
+        "wind": "6.0 m/s",
         "rainChance": "3%",
-        "pm10": "8.7 μg/m³",
-        "pm25": "6.1 μg/m³",
+        "pm10": "8.4 μg/m³",
+        "pm25": "6.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-04-27 20:15"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-04-27 21:45"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "정원오 \"오세훈, 윤석열에 아부\"…서울시장 선거 공방 격화",
+      "title": "[한국뉴스 TV] 26년 4월 27일 (월) 오늘의 주요뉴스",
+      "source": "24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sWEw3R1p6TFZtNTVmT3ZtczFQaGVKMmUxZHJRT1paRnk2QVFyNUtGR2VjcXZqLTVvZ3JGbHd4NVVjc0xteXJrVmNRX3gzVUhTd3BvTUp3VFdfQWNzZlRndlFtU09MLUE?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 12:21:00 GMT"
+    },
+    {
+      "title": "국민의힘 공천, '경선 원칙' 시험대…재보선 전략공천 논란",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWTXl4UDdFX2YwZ2lhZHNKUnJ6bUtZOEVzRERvUnVtRktwdUV4Ym9OS1B1Q0c1VEV4VEtZUUNHb0pXMTZOaTJrMGVYS1VQYU9URUlMY3R5R19OQQ?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 11:17:31 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kODJWSkdQdllkNkVQSWVrY1NtazlhcGpGbjRYZW5oazBzX2NNc0NRNU9kZ1pGbGdKMFE5UGczUzUyT1Ntbi1HQVhIOUNCWnpMX0VwN2hKYzdKZw?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 12:15:38 GMT"
     },
     {
-      "title": "경찰, '주사기 매점매석' 4개 업체 수사 착수",
+      "title": "충남도, 대형 산불 복구 올해 마무리…'재해 대응형 산림' 전환",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEZDlseWpWRGgxVTQ5RVVyS1hnS0hnS3Rxak5ZSkZPTHlpZXVhSFdvT0xUM2g3Uk1iZEtnckRDaWN3RUNwc3lzSTBOUGIzb3FlYW1tQ1EwOHFncVQ0M0NjQUItQ1RIb0k4VVltNEI1VWlNZVVwNkxkRw?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 11:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIZ2lGdW1Ka3E5ZjhkREZQc3lBbk1OeWg1dVpGWlE0LUE4cXBCaVBFQ1pQRm1BcHlEZTliTU1IbExWV203M05vM0xIQkNUSHJ4ZTR0ZzN5dEkzVkM3Q1NOeC1raVRyNWEzdUZQYTNjdnV4MmFIeHExUQ?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 12:52:00 GMT"
     },
     {
-      "title": "[산업 HOT 뉴스] 파라다이스시티, 롯데면세점과 '방한 수요' 정조준…\"공동 마케팅 속도\"",
-      "source": "비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aVjNWXzViSUpVc1Q0NE4waUtLb3JPbUg5aHQ3MXBSNTh5d3VRMW1RQ1NZSDBBcnM5NWQ3MXRFLXpHTC11N1Z5anJtTUVTdVAxbmx3RHRXSVhGcXpBVmdjZVdnY0x2RXpCQnc?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:51:00 GMT"
+      "title": "셀룰라이트 마사지기 캐시워크 돈 버는 퀴즈, 정답은?",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GdjVmSGhoMEh4MENtWVN1VnczMVJFWmU0Z2ZlUzNUNnY5VFZoMjc3S1BJSFVCUFdRcnhHazRjNkw2U2l0TDlHRFRDRndRLVhzSWNtUGNXanPSAVhBVV95cUxNRnY1ZkhoaDBIeDBDbVlTdVZ3MzFSRVplNGdmZVMzVDZ2OVRWaDI3N0tQSUhVQlBXUXJ4R2s0YzZMNlNpdEw5R0RUQ0Z3US1Yc0ljbVBjV2pz?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 12:05:24 GMT"
     },
     {
-      "title": "전남기술과학고 복싱부, 전국종별선수권 고등부 ‘금·은메달’ 쾌거",
-      "source": "교육연합신문",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WcUN4T19mdThKWEpoX0FxcmliWUdJczRWSUtLRUdEQjVZcTc2UkI3UkMxeXB6NjJMU0pzNVYxNUJFZ3NwUTRVbXpaVGRLckhVZlg3MzVsS2R0WVNa?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:36:00 GMT"
-    },
-    {
-      "title": "정원오 \"강남 재건축, 전력 다해 뒷받침\"",
+      "title": "구미시 상주영천고속도로 추돌사고…1명 심정지",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OUs4REJXS0l3TWFxdGxINW9yTVd5TlVGOFlycjR1NlVOMS1nR015XzdBNTdXanBjQjlrRDhYdV9JWUZTY3FzcTdZQ2R6T2tZYU9F?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hMVJWTDF6bzJHQnIxY1c5SFZDQ0ctSjJPZ1NCcXFkdXhJeFFsVXRENGNiRTFhU0FyWW91Z3F4aHJCNXhiZGtGOEdZZ0R1R0hXcHYzeW0yUHdaUXRJazd2MA?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 12:41:00 GMT"
     },
     {
-      "title": "영광교육지원처청, 지역사회가 한마음으로 만든 도전",
-      "source": "교육연합신문",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44WWFTWWhjZkFTOXdWd2ZKTEF2UmZQSkZvZG8xS09MbmpKSUVOZE85VU5qZHktb1BzSTNlZlJIN3E4X0FsQkplcDAtZ0NUeDBHUTA1VW94SGwxdGRw?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:33:00 GMT"
-    },
-    {
-      "title": "한화의 결단…ERA 9.00 김서현 1군 엔트리 말소",
+      "title": "'CU 사태' 책임 인정 요구하는 화물연대[포토뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zZm9sbEpjUkhLSzZpZlgzWDlHcW9VTUVZMVk1QzVhVEM2Y1RBSHJrUWd0ZEdTNUdVSDFhYUtyelZkeTFPdE9RUEh4OTVLamdFcFFlejI5a3FsaUJNa1pmQU1hVFM2elQ5NHRvZmtYX0VKQkt2NmtOQQ?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 11:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ub1BtcGx3amtKZ1MxRC05MVhBc2duNm94V0hvYzN5T3BUQ1NpRzFhTHV1Wkw2QXFwTC04dGRoN0tFUnl6enZkQWl6bDRCcWtvN1JiSnl5c2h1OWpVZUtZQW1PczRud1E5LUxqWE56VElUcExVZld6ag?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 12:04:00 GMT"
     },
     {
-      "title": "'알파고의 아버지' 만난 김용범…\"AI 3강 가는 길, 생각보다 빨리 열려\"",
+      "title": "경북도의회 의원정수 284명 획정…4명 감소",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GSFZqaVlXXzlMa0dsUHMzNEtCWE91amxtUHJDcnhFREIwYUh1akF3SGJEZlRzNzMtTThJdDN4ZU5LVUJrZU1UR0hGVElYR0FTbnJR?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 11:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40eXgza1hwRWtYaV9hRkpNU25ZWWk4cjc2cXpkVUtCQUxmUzRteVNYVHlqaThhU08zZ3E4Y244U0laZm9aZ2dJVDJMMV9YU1BRbk9R?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 12:47:00 GMT"
     },
     {
-      "title": "쿠팡, 회원 탈퇴시 '이머니' 환불 않고 맘대로 소멸",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tNzVVaTY5UkFsVXFReVJKLTIxdkxoNW05aExqQWZNaVgtUjBEX1FtNEVaX25WUnFmbzhid2poM3BPXzlQMzM2MGZaSkk0Tjh4dDVfbDJKRGtwQkRjNm9rSw?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 11:12:00 GMT"
+      "title": "교회 법원, 미국 감독실 재정에 관한 장정 일부 조항에 대해 위헌 결정",
+      "source": "United Methodist News Service",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0NqTFhFZENSMHdKUWJCLWwyYk8xTHgxMjRneElRQl9XVWhadG1XVWNpRDh3Yk5jTGowM0ZnYkJmNHFkYWJBWDAtMm0xb1Q2c0phMVd0emgyU2FBaXZ1dUZ3Qlk5akc4eDNPVWo0MERmYldoWnZzTzdmQjJUUXJCV3FScmQ?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 12:58:30 GMT"
     },
     {
-      "title": "코스피, 첫 6,600선 마감…시총 '6천조' 돌파",
+      "title": "[미리보는 이데일리 신문]피지컬AI 급한데…하청까지 아틀라스 도입 발목",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTm54MkZTeGZrNjBoaWR2SUtHTXpBeFBoZHVCRmhpNWctRVR1UWRVb29pZ0FicjlRR25ON01maGp2UTdoYS0xZXZoVGMtWjZzOUdXd0hoX3NNbFdWbWY3VjE1ZkU5dnpyUG11Vkd5VEYxS2VzSEtIalR2NVlldFhudQ?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 12:53:12 GMT"
+    },
+    {
+      "title": "상장사 임원 보수, 기업 성과 지표와 함께 공시해야",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iY2RJTEdXQk1nUERXQlNnN3NVYUdGZTR6M1M2S05Qc0gwU255Y2hwSTlJdHItd2NaX1pSZnRlQVNUTEd0Skw2WEhBMzRybktpYmdz?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 10:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tbGZEN1dBN0VPekVtRmFhT3FnXzVKZ2NxVHMwb0Y0ZzNhblBiZ0ExVG5KYjFaNld0Y0VKa0N3T1N0MEhqd2c0c3FYY2pndGZ4MThv?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 12:22:00 GMT"
     }
   ],
   "sources": [
