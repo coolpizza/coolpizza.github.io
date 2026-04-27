@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: xevious-refresh
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -15,6 +19,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -24,7 +30,9 @@ jobs:
       - name: Refresh dashboard snapshot
         env:
           KMA_AUTH_KEY: ${{ secrets.KMA_AUTH_KEY }}
-        run: python xevious/update_data.py
+        run: |
+          git pull --rebase origin main
+          python xevious/update_data.py
 
       - name: Commit updated snapshot
         run: |
@@ -36,4 +44,4 @@ jobs:
             exit 0
           fi
           git commit -m "Refresh xevious dashboard data"
-          git push
+          git push origin main
