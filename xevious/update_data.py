@@ -358,6 +358,13 @@ def now_text():
     return dt.datetime.now(TIMEZONE).strftime("%Y-%m-%d %H:%M")
 
 
+def parse_naver_index_quote(url, label):
+    return {
+        **parse_simple_quote(fetch_text(url), label),
+        "updatedAt": now_text(),
+    }
+
+
 def nth_weekday_of_month(year, month, weekday, occurrence):
     first_day = dt.date(year, month, 1)
     offset = (weekday - first_day.weekday()) % 7
@@ -683,25 +690,69 @@ def preserve_mart_closure_updated_at(mart_closures, previous_mart_closures):
     return mart_closures
 
 
-def load_market_data():
-    korea = [
-        parse_google_finance_quote("https://www.google.com/finance/quote/KOSPI:KRX?hl=en", "코스피"),
-        {
-            **parse_simple_quote(fetch_text("https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ"), "코스닥"),
-            "updatedAt": now_text(),
-        },
-    ]
+def fallback_market_item(section_name, previous_items, label, error):
+    for item in previous_items or []:
+        if isinstance(item, dict) and item.get("label") == label:
+            print(f"[{section_name}] Reusing previous snapshot for {label}: {error}")
+            return item
 
-    us = [
-        parse_google_finance_quote("https://www.google.com/finance/quote/.DJI:INDEXDJX?hl=en", "다우존스"),
-        parse_google_finance_quote("https://www.google.com/finance/quote/.INX:INDEXSP?hl=en", "S&P 500"),
-        parse_google_finance_quote("https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?hl=en", "나스닥"),
-    ]
+    raise error
 
-    currencies = [
-        parse_google_finance_quote("https://www.google.com/finance/quote/USD-KRW?hl=en", "달러/원"),
-        parse_google_finance_quote("https://www.google.com/finance/quote/JPY-KRW?hl=en", "100엔/원", value_multiplier=100),
-    ]
+
+def load_market_group(section_name, previous_items, definitions):
+    items = []
+
+    for label, loader in definitions:
+        try:
+            items.append(loader())
+        except FetchError as error:
+            items.append(fallback_market_item(section_name, previous_items, label, error))
+
+    return items
+
+
+def load_market_data(previous_data=None):
+    previous_data = previous_data or {}
+
+    korea = load_market_group(
+        "koreaMarkets",
+        previous_data.get("koreaMarkets"),
+        [
+            (
+                "코스피",
+                lambda: parse_naver_index_quote(
+                    "https://finance.naver.com/sise/sise_index.naver?code=KOSPI",
+                    "코스피",
+                ),
+            ),
+            (
+                "코스닥",
+                lambda: parse_naver_index_quote(
+                    "https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ",
+                    "코스닥",
+                ),
+            ),
+        ],
+    )
+
+    us = load_market_group(
+        "usMarkets",
+        previous_data.get("usMarkets"),
+        [
+            ("다우존스", lambda: parse_google_finance_quote("https://www.google.com/finance/quote/.DJI:INDEXDJX?hl=en", "다우존스")),
+            ("S&P 500", lambda: parse_google_finance_quote("https://www.google.com/finance/quote/.INX:INDEXSP?hl=en", "S&P 500")),
+            ("나스닥", lambda: parse_google_finance_quote("https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?hl=en", "나스닥")),
+        ],
+    )
+
+    currencies = load_market_group(
+        "currencies",
+        previous_data.get("currencies"),
+        [
+            ("달러/원", lambda: parse_google_finance_quote("https://www.google.com/finance/quote/USD-KRW?hl=en", "달러/원")),
+            ("100엔/원", lambda: parse_google_finance_quote("https://www.google.com/finance/quote/JPY-KRW?hl=en", "100엔/원", value_multiplier=100)),
+        ],
+    )
 
     return korea, us, currencies
 
@@ -1035,7 +1086,7 @@ def load_news():
 def build_dashboard_data(previous_data=None):
     previous_data = previous_data or {}
     try:
-        korea_markets, us_markets, currencies = load_market_data()
+        korea_markets, us_markets, currencies = load_market_data(previous_data)
     except FetchError as error:
         korea_markets = fallback_snapshot("koreaMarkets", previous_data.get("koreaMarkets"), error, empty_value=[])
         us_markets = fallback_snapshot("usMarkets", previous_data.get("usMarkets"), error, empty_value=[])
@@ -1093,8 +1144,8 @@ def build_dashboard_data(previous_data=None):
         "news": news,
         "sources": [
             {
-                "label": "Google Finance: 코스피",
-                "url": "https://www.google.com/finance/quote/KOSPI:KRX?hl=ko",
+                "label": "네이버 금융: 코스피",
+                "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSPI",
             },
             {
                 "label": "네이버 금융: 코스닥",

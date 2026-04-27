@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-27T18:37:27.846860+09:00",
+  "generatedAt": "2026-04-27T20:05:51.699691+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,475.63",
-      "change": "-0.18",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-04-24 18:05"
+      "value": "6,615.03",
+      "change": "+139.40",
+      "changePercent": "+2.15%",
+      "direction": "up",
+      "updatedAt": "2026-04-27 20:05"
     },
     {
       "label": "코스닥",
-      "value": "1,203.84",
-      "change": "+29.53",
-      "changePercent": "+2.51%",
+      "value": "1,226.18",
+      "change": "+22.34",
+      "changePercent": "+1.86%",
       "direction": "up",
-      "updatedAt": "2026-04-25 20:01"
+      "updatedAt": "2026-04-27 20:05"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,476.6693",
-      "change": "-4.28",
-      "changePercent": "-0.29%",
-      "direction": "down",
-      "updatedAt": "2026-04-25 06:03"
+      "value": "1,467.1100",
+      "change": "+0.07",
+      "changePercent": "+0.00%",
+      "direction": "up",
+      "updatedAt": "2026-04-18 14:17"
     },
     {
       "label": "100엔/원",
-      "value": "926.60",
-      "change": "-0.40",
-      "changePercent": "-0.04%",
-      "direction": "down",
-      "updatedAt": "2026-04-25 19:55"
+      "value": "928.29",
+      "change": "+0.29",
+      "changePercent": "+0.03%",
+      "direction": "up",
+      "updatedAt": "2026-04-18 17:05"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "강한 이슬비",
-        "temperature": "15.3°C",
-        "feelsLike": "14.6°C",
+        "temperature": "12.2°C",
+        "feelsLike": "11.8°C",
         "highLow": "최고 19.8° / 최저 8.9°",
-        "humidity": "66%",
-        "wind": "3.3 m/s",
+        "humidity": "84%",
+        "wind": "2.2 m/s",
         "rainChance": "96%",
-        "pm10": "33.2 μg/m³",
-        "pm25": "19.1 μg/m³",
+        "pm10": "45.9 μg/m³",
+        "pm25": "21.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-04-27 18:30"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-04-27 20:00"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "11.8°C",
-        "feelsLike": "10.9°C",
+        "temperature": "10.9°C",
+        "feelsLike": "9.8°C",
         "highLow": "최고 18.3° / 최저 7.6°",
-        "humidity": "89%",
+        "humidity": "90%",
         "wind": "6.1 m/s",
         "rainChance": "96%",
-        "pm10": "33.2 μg/m³",
-        "pm25": "19.1 μg/m³",
+        "pm10": "45.9 μg/m³",
+        "pm25": "21.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-04-27 18:30"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-04-27 20:00"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "12.5°C",
-        "feelsLike": "11.5°C",
+        "temperature": "10.9°C",
+        "feelsLike": "9.9°C",
         "highLow": "최고 18.6° / 최저 7.6°",
-        "humidity": "82%",
-        "wind": "5.6 m/s",
+        "humidity": "90%",
+        "wind": "5.7 m/s",
         "rainChance": "96%",
-        "pm10": "33.2 μg/m³",
-        "pm25": "19.1 μg/m³",
+        "pm10": "45.9 μg/m³",
+        "pm25": "21.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-04-27 18:30"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-04-27 20:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "16.3°C",
-        "feelsLike": "15.3°C",
+        "temperature": "13.6°C",
+        "feelsLike": "12.4°C",
         "highLow": "최고 21.4° / 최저 6.7°",
-        "humidity": "67%",
-        "wind": "7.8 m/s",
+        "humidity": "75%",
+        "wind": "6.7 m/s",
         "rainChance": "3%",
-        "pm10": "6.8 μg/m³",
-        "pm25": "4.0 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "52",
-        "updatedAt": "2026-04-27 18:30"
+        "pm10": "8.7 μg/m³",
+        "pm25": "6.1 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "34",
+        "updatedAt": "2026-04-27 20:00"
       }
     ]
   },
@@ -139,28 +139,28 @@
             "todayClosed": false,
             "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-27 00:09"
+            "updatedAt": "2026-04-25 18:54"
           },
           {
             "label": "롯데마트",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-27 00:09"
+            "updatedAt": "2026-04-25 18:54"
           },
           {
             "label": "홈플러스",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-27 00:09"
+            "updatedAt": "2026-04-25 18:54"
           },
           {
             "label": "코스트코",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-27 00:09"
+            "updatedAt": "2026-04-25 18:54"
           }
         ]
       },
@@ -241,21 +241,21 @@
             "todayClosed": false,
             "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-27 00:09"
+            "updatedAt": "2026-04-25 19:06"
           },
           {
             "label": "롯데마트",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-27 00:09"
+            "updatedAt": "2026-04-25 19:06"
           },
           {
             "label": "홈플러스",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
             "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-27 00:09"
+            "updatedAt": "2026-04-25 19:06"
           },
           {
             "label": "코스트코",
@@ -276,7 +276,7 @@
         "lowestDistrict": "금천구",
         "stationName": "(주)화동유업 화동주유소",
         "address": "서울 금천구 시흥대로 484",
-        "updatedAt": "2026-04-26 17:21:54",
+        "updatedAt": "2026-04-27 09:17:01",
         "districtSamples": [
           {
             "district": "금천구",
@@ -306,7 +306,7 @@
         "lowestDistrict": "계양구",
         "stationName": "상야주유소",
         "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-27 14:59:25",
+        "updatedAt": "2026-04-27 17:56:04",
         "districtSamples": [
           {
             "district": "계양구",
@@ -350,7 +350,7 @@
         "lowestDistrict": "김포시",
         "stationName": "디더블유에너지",
         "address": "경기 김포시 대곶면 대명항로 346",
-        "updatedAt": "2026-04-27 08:35:49",
+        "updatedAt": "2026-04-27 15:24:08",
         "districtSamples": [
           {
             "district": "김포시",
@@ -364,7 +364,7 @@
         "lowestDistrict": "파주시",
         "stationName": "헤이리주유소",
         "address": "경기 파주시 탄현면 평화로 809",
-        "updatedAt": "2026-04-26 10:59:45",
+        "updatedAt": "2026-04-25 17:58:15",
         "districtSamples": [
           {
             "district": "파주시",
@@ -376,70 +376,70 @@
   },
   "news": [
     {
-      "title": "[무잇슈] 고유가 지원금 첫날 ‘폭주’…대기 100번에 혼선 속출",
-      "source": "무등일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wUHcyZVVRLXlmVFc4UjVlLVc5Snl5MXVOOUllYUFUQ2VXb1BXWXg5Rm9QalFPbktrU0E3WEE3VjdwMmFxQzgwWHRlZnVGZjBpRmFPUk5n?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 09:09:00 GMT"
+      "title": "[한국뉴스 TV] 26년 4월 27일 (월) 오늘의 주요뉴스",
+      "source": "24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SUy1OZU45X0ZvRkdrNFdrVGpKWnNtTnNlZDctdThRNHQ2NWZ6d3BrX1pKZHg5cFhjQ2pGeGo0d2tkVS1sbVZzYk9JdE51WWNCMGFmSmZvS1V0c2RwRDkyY29uLXh6V2s?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:06:53 GMT"
     },
     {
-      "title": "사바스티안 사웨, 런던 마라톤서 2시간 벽 허물다… 어떻게 가능했을까?",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZOFhpZ2dCX19ULVdkN1JNT0oweTN6SmFPM2VXVWtpbk1Fb1NpZ1BIVU5FSHdvbnlfR0tZUnJaZi1xSGZ6dElWemk2dDg0R3k3TWNnWC1JWTNXZmoySVZxWHNB0gFiQVVfeXFMTlk4WGlnZ0JfX1QtV2Q3Uk1PSjB5M3pKYU8zZVdVa2luTUVvU2lnUEhVTkVId29ueV9HS1lSclpmLXFIZnp0SVZ6aTZ0ODRHeTdNY2dYLUlZM1dmajJJVnFYc0E?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 08:43:27 GMT"
-    },
-    {
-      "title": "[포토뉴스]과기정통부, 'AI 사회정책 포럼' 27일 출범",
-      "source": "BBS 불교방송",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HOC1vZzlEZTA3N3lVajJkX3g0ck9iYWZSQ2hGNzZOWjZveXVLSHhrSHhkVTZwNy1wWmRRZDkyV1lSc3BYd1gtWkRxQWstYmZBWkV3dVhFS0wyODZ1Z3M0R3JYazlIdXNVNlVr?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 08:46:47 GMT"
-    },
-    {
-      "title": "[속보]민주당, 김용 공천 배제…\"선거 영향 종합적 판단\"",
+      "title": "정원오 \"강남 재건축, 전력 다해 뒷받침\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taGFmTlhoRzlpVzZSMjZRclNERm9LUFZfRlVicG5rNHVsYVFIZGNGT0lwa205eGVlZ0N1Z2dSRGVuVHJqSzlaenUzLTFJNlNralVlbEEycXlzM0c0N2hDWDZqaHhpZ0xHSllfQkpEMmJ5bEY0YTdCcA?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 09:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OUs4REJXS0l3TWFxdGxINW9yTVd5TlVGOFlycjR1NlVOMS1nR015XzdBNTdXanBjQjlrRDhYdV9JWUZTY3FzcTdZQ2R6T2tZYU9F?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:56:00 GMT"
     },
     {
-      "title": "\"항공권 가격 더 오른다. 지금 사라\" 스페인 관광장관",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41SGRIT1pmVW9WUnRHMUxIaUxoX2NGSFYwQnZsLTl1OFNEV0podnZ5b0M0TDZNT2pIOFZocGFybkRkNGhrelU5NXdYTW1Nc0c3enhn?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 08:58:42 GMT"
-    },
-    {
-      "title": "G7 중앙은행 동결 전망에도…채권시장, 매파 신호에 촉각",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCQ1BCcnZ5ZkxhbXE4LXFrajJmX2N6UGZfUHlkczRYVnZUNjV3NUtlejJYR2FpY3Q4enJERldfaG52V3ZnaDU0SGo5Q21hOGxlLXVhZllXNHjSAVhBVV95cUxQQkNQQnJ2eWZMYW1xOC1xa2oyZl9jelBmX1B5ZHM0WFZ2VDY1dzVLZXoyWEdhaWN0OHpyREZXX2hudld2Z2g1NEhqOUNtYThsZS11YWZZVzR4?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 08:39:34 GMT"
-    },
-    {
-      "title": "[속보] 민주당, 하남갑 '이광재'·평택을 '김용남'·안산갑 '김남국' 공천",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWtnVUNXa1pHRzFBS3JyR2I0TmtpVTRlOEtZWWF1eGJPYmxtY0FscUZMbXF5SWZuSGhNSndQeXVEeC1LMUU3aUU4VkZPdEJCVnNQM0x0OGtsYkJSRTRLMV9uVGxhVVo5Qmc1UEhXMW1LMUE1T1lQN1BiNG9DbmxiWTVVYmJFeUJvb2RCQzAyNXZlZlBuTWRqRGJpT2pjMnF2YTE1SHAwWUhjVVBCQnFCSjF6cGVTWEZkWmU3QjdnXzfSAXhBVV95cUxNNkpqVThXeTVIejZuZFpWdnNxTXZlRUt6c2tEVDdlWW5OMFJ5QjM4bUtIRTI3MFJrTFh6OGhwVTQxdUl4ZUV5VzVmX0R1eWJoMVhrVHI3QkhLQnFNc0k0Y3FydkZYSl9pbHVxWlVGdWF2VXRSaHlxY1g?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 09:06:25 GMT"
-    },
-    {
-      "title": "[뉴스인사이드_뉴스톡톡]코스피 사상 첫 6600선 돌파",
-      "source": "뉴스인사이드",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZWTFMYnZIQWx0Rnl6NWhIQV9wY251cGl5ZktUbEdIeHNvMkZNUldQYjdUZ2ZoLWNhNnAtckZsS2NuRWdFZmppdWt4SERoZ0NCelNiWjY3RHg0aUI2Q0tpX096SVYzdjZzSE5aZzFB?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 09:03:46 GMT"
-    },
-    {
-      "title": "대구시, 물산업 관련 대기업·지역 중소기업 협력 주선",
+      "title": "'대마 흡입·소지' 재범…그룹 시나위 출신 김바다, 검찰 송치",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GNXpaVUtwRTdwbjl5eVNWdDVKZ2lGdDNlUFktTnVoVTZOd1hfX2xmYnBSa2hUTk1KdTE4VXdRbnVqNkJMRHlaNjFWem1jT2tLUDlz?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 09:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTEt3YlFRTFk1bFBJUExWXzkzSXJPZDhjMWRqeWpjMEVFTEI1OUU0eGxLVTBGcUcwemliR0VnMHYtcnV6cHFlMU5vVE9rV05PUG5VMDRkdy1Kdy1OM0NacTBWUmFTV3lqNmFLYUlmTk9DTFJlRVdSaQ?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:53:00 GMT"
     },
     {
-      "title": "배성재·박지성, JTBC '2026 북중미 월드컵' 메인 중계진 확정",
+      "title": "코스피, 첫 6,600선 마감…시총 '6천조' 돌파",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iY2RJTEdXQk1nUERXQlNnN3NVYUdGZTR6M1M2S05Qc0gwU255Y2hwSTlJdHItd2NaX1pSZnRlQVNUTEd0Skw2WEhBMzRybktpYmdz?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:36:00 GMT"
+    },
+    {
+      "title": "[속보] '내란 가담·김건희 수사청탁' 박성재 6월 9일 1심 선고",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYTmRUYlNHSFR3ZUxyaXZRRmxtQkxNQ2U2OS1qQkhYQ21pWU1mQWN5Mm5Ka0hYdlRCbWZoRjJzT00xVXhFUmIzdGZsZE1PN01PdDRZ?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:29:00 GMT"
+    },
+    {
+      "title": "민주당, 정년 65세 논의 재개…노동계·재계 잇단 면담",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UYzhSeHdFeWdpUXdQb1ZYMDFhOUx4dExxd0l2MGs3V0haSTRlRUJ6NWpodk1hcDF6cUpzTElRLXBMSHRlSGJUWWJzTlhkRWFrLVhR?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:08:00 GMT"
+    },
+    {
+      "title": "민주당, 정년 65세 논의 재개…노동계·재계 잇단 면담",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03MlF0TUdKeWh1Rks0WWkzbXNKVGNxRXN4RE9DdVBwd25FOENIQWdvdEdRUks0aHRiTXZPblI3NWF5NVQtZ2tOQ0lTckFIbHhBbzVVT0otb1ZIYnV6T0RfTQ?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 08:46:18 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrY3h3YlhpbFF1NG1YMXgwODNrZGlOdlFKM2hmb2FocDAtSnpleUQtakdqREdGNmoyNnRPRVlxSDl0dW94cmF4NG1JSmxNam1Fd3A1WHEtaHZhdw?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:07:55 GMT"
+    },
+    {
+      "title": "국힘, 김영환 충북지사 공천 확정…컷오프 위기 극복",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xd2NnM3ctZXQtVFVQam1lVGJ0cU5NSEF5SGJtdDFPRlFodjVQcl9PcFpsRmFMUE8xbVU2SDRULXBJbVVqS0htd0EtZ0JtVmUxNXNz?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:23:00 GMT"
+    },
+    {
+      "title": "지붕 까마귀 쫓으려 폭죽 '펑'…주택 화재로 번져 2500만원 피해",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yWFhNVDVCNS1TTUtnVkNzbm1TaWV3TWNZR3hYaE9TYkJJZjE2ZmdmNkdvM2N2ZU5FblpIUTFFY09HTElGaHlmVmk3MmcwT2lZTWs4aGNiUnkxcmFMOG1xYWh1b0JwNjB2Z0NidWJ0SHROcVJwbHdOdw?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:32:00 GMT"
+    },
+    {
+      "title": "이순재 떠나고…'90세' 신구, 최고령 현역 배우의 가슴 뭉클 커튼콜 [스타이슈]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwTGlpX2tOWHZlb0Zubk14QmhZSjRHRUw1dUtrVk1PVm1JOENTX2ozRVBMeThSeVF5OUgzVUxKNHBlYXNZaGE3YVNmSXdjeDV1S3k0?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 10:15:00 GMT"
     }
   ],
   "sources": [
     {
-      "label": "Google Finance: 코스피",
-      "url": "https://www.google.com/finance/quote/KOSPI:KRX?hl=ko"
+      "label": "네이버 금융: 코스피",
+      "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSPI"
     },
     {
       "label": "네이버 금융: 코스닥",
