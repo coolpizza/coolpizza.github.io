@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-28T08:05:21.812517+09:00",
+  "generatedAt": "2026-04-28T09:02:03.481042+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
       "value": "6,615.03",
-      "change": "+139.40",
-      "changePercent": "+2.15%",
-      "direction": "up",
-      "updatedAt": "2026-04-27 20:05"
+      "change": "-0.00",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-28 08:59"
     },
     {
       "label": "코스닥",
       "value": "1,226.18",
-      "change": "+22.34",
-      "changePercent": "+1.86%",
-      "direction": "up",
-      "updatedAt": "2026-04-27 20:05"
+      "change": "-0.00",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-28 08:59"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,475.00",
-      "change": "-2.50",
-      "changePercent": "-0.17%",
+      "value": "1,474.00",
+      "change": "-1.00",
+      "changePercent": "-0.07%",
       "direction": "down",
-      "updatedAt": "2026-04-27 22:08"
+      "updatedAt": "2026-04-28 08:55"
     },
     {
       "label": "100엔/원",
-      "value": "925.23",
-      "change": "-1.65",
-      "changePercent": "-0.18%",
+      "value": "924.89",
+      "change": "-0.34",
+      "changePercent": "-0.04%",
       "direction": "down",
-      "updatedAt": "2026-04-27 22:08"
+      "updatedAt": "2026-04-28 08:55"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "11.2°C",
-        "feelsLike": "9.8°C",
-        "highLow": "최고 17.0° / 최저 10.4°",
-        "humidity": "85%",
-        "wind": "7.4 m/s",
+        "temperature": "11.7°C",
+        "feelsLike": "10.3°C",
+        "highLow": "최고 17.3° / 최저 10.4°",
+        "humidity": "82%",
+        "wind": "7.3 m/s",
         "rainChance": "75%",
         "pm10": "22.0 μg/m³",
         "pm25": "18.4 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "54",
-        "updatedAt": "2026-04-28 08:00"
+        "updatedAt": "2026-04-28 08:45"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "11.0°C",
-        "feelsLike": "8.5°C",
-        "highLow": "최고 16.7° / 최저 10.2°",
-        "humidity": "86%",
-        "wind": "15.3 m/s",
+        "temperature": "11.8°C",
+        "feelsLike": "9.6°C",
+        "highLow": "최고 17.0° / 최저 10.4°",
+        "humidity": "84%",
+        "wind": "13.8 m/s",
         "rainChance": "78%",
         "pm10": "22.0 μg/m³",
         "pm25": "18.4 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "54",
-        "updatedAt": "2026-04-28 08:00"
+        "updatedAt": "2026-04-28 08:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "10.7°C",
-        "feelsLike": "8.3°C",
-        "highLow": "최고 16.9° / 최저 9.7°",
-        "humidity": "87%",
-        "wind": "13.9 m/s",
+        "temperature": "11.5°C",
+        "feelsLike": "9.3°C",
+        "highLow": "최고 16.9° / 최저 10.1°",
+        "humidity": "85%",
+        "wind": "13.4 m/s",
         "rainChance": "71%",
         "pm10": "22.0 μg/m³",
         "pm25": "18.4 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "54",
-        "updatedAt": "2026-04-28 08:00"
+        "updatedAt": "2026-04-28 08:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "11.4°C",
-        "feelsLike": "9.4°C",
+        "temperature": "12.3°C",
+        "feelsLike": "10.2°C",
         "highLow": "최고 15.8° / 최저 8.4°",
-        "humidity": "84%",
-        "wind": "11.4 m/s",
+        "humidity": "81%",
+        "wind": "13.0 m/s",
         "rainChance": "14%",
         "pm10": "13.1 μg/m³",
         "pm25": "10.2 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "37",
-        "updatedAt": "2026-04-28 08:00"
+        "updatedAt": "2026-04-28 08:45"
       }
     ]
   },
@@ -272,15 +272,15 @@
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,976원/L",
+        "lowestPrice": "1,975원/L",
         "lowestDistrict": "금천구",
-        "stationName": "㈜씨더블유 이엔지 금천지점",
-        "address": "서울 금천구 독산로 147",
-        "updatedAt": "2026-04-28 07:24:25",
+        "stationName": "(주)화동유업 화동주유소",
+        "address": "서울 금천구 시흥대로 484",
+        "updatedAt": "2026-04-28 08:45:31",
         "districtSamples": [
           {
             "district": "금천구",
-            "price": "1,976원/L"
+            "price": "1,975원/L"
           },
           {
             "district": "강서구",
@@ -302,16 +302,12 @@
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,969원/L",
-        "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-28 00:42:11",
+        "lowestPrice": "1,975원/L",
+        "lowestDistrict": "남동구",
+        "stationName": "지에스칼텍스㈜ 논현제일셀프주유소",
+        "address": "인천 남동구 청능대로 460 (고잔동)",
+        "updatedAt": "2026-04-28 07:59:52",
         "districtSamples": [
-          {
-            "district": "계양구",
-            "price": "1,969원/L"
-          },
           {
             "district": "남동구",
             "price": "1,975원/L"
@@ -327,6 +323,10 @@
           {
             "district": "부평구",
             "price": "1,979원/L"
+          },
+          {
+            "district": "중구",
+            "price": "1,980원/L"
           }
         ]
       },
@@ -346,15 +346,15 @@
       },
       {
         "areaLabel": "김포 최저가",
-        "lowestPrice": "1,977원/L",
+        "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "디더블유에너지",
-        "address": "경기 김포시 대곶면 대명항로 346",
-        "updatedAt": "2026-04-27 15:24:08",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-04-28 07:59:39",
         "districtSamples": [
           {
             "district": "김포시",
-            "price": "1,977원/L"
+            "price": "1,979원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "4월 28일 굿모닝 MBN 이 시각 주요뉴스",
+      "title": "중동사태 협상난항 등 이시각 주요뉴스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TTGpCZXNUYi1SQjdrU3I3cjZQWWNZQXZVdC1OMW1qdjU0NUdXelhHQksybDZ4LVF4VlJPT1R5RFFwbjlFbG9XRGlTbE5jbTNFNGNHdkRjdHRYNWVLRFlVdTVvenFSdVVhMGFkY05QUUjSAXRBVV95cUxOYXh6cXlndkt4OC14bGQxa3ZSR3hiVEF0dmdyYzVGTkU2cV9aNnJzR3lYb0RvN3BuQ3pTNmIweTAxc25waTQwbWdONXBWLUFZYlpVcXN5RTk5YkRBT1k3dWpqMkpOcmp1RFpwM2RXLVhVcE5QbA?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 23:43:43 GMT"
+    },
+    {
+      "title": "뉴욕증시, 빅테크 실적 시즌 앞두고 최고치 마감",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jTW5XSnNodEFCUXEzZVRJSjBSNnNYcWtWZ1RpSVk4UXNHM2w5UHFQQURJa2FTYi1mRTI5RTNPdnR3cURQTUFtLVFHbm96dUQzUXJ1ZFZ1WFctRnBXTnpKY3A1QXk?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 23:57:33 GMT"
+    },
+    {
+      "title": "李대통령 \"산재 근절, 정부 주요 과제…갈 길 멀다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OZWlIQ1hOLWJYVldnVDUxaWF3blBxWjRHbGtjeXoyalFZM1R3SUVTMGNQa1RlZDhvTFpVMVhWWE5JUVRQOWhYNXhxcEdOTkVxQ2hJ?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 22:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90Ym5MZGN0RXI5QThWTTEwbzQ1SUZsWXlKNzZhd0ptdmp0dF83ZlNjbFdEZ01vU2M1M3NKbWlFU0UwN2NETEhkMmJVUE1EcnJLaGpMVm5nc29OQURoMDJOVw?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 23:55:00 GMT"
     },
     {
-      "title": "트럼프, 이란의 '호르무즈 개방 제안' 논의[뉴스새벽배송]",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNckV5N0o1YzlwNGhpblpYMjN4dHh4R1JvT2g3eHBVOFgtanlqOG5fOXM4eERsQWxja3JtSThxaVJMZC1vTFVoeEZ5UHZlT2twanVJRFg4UGMyNzQ4SE04akVjN1Y5Vm01OTQxUmptNVJIQ2FkcnVMMDctMjBvbGNhNw?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 22:55:13 GMT"
+      "title": "이란 불확실성, 암호화폐 일제 하락…비트 2%-이더 3%(상보)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92M01ZczNycGlEdUJRckVVV0tMVDdDa1hpaTlFU0IxdndJWEVWMFpXWVFPSm11TVQ0VGJSSmVnUW5FYmFGOERTZzVPa2tKZWRsbURhdk1WYXg?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 23:26:31 GMT"
     },
     {
-      "title": "총격범 '대통령 암살미수' 기소‥백악관 비상회의",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTE9JY1dqNnpDM0tXdmJITDNKSVJ2R3E0czZCZEZyRVA5SW5PRWZmOGp4TDdqTEFya1Jlc0N4R1RRYVpqRTUtMzFFM2doRFlWa04wb09pRDhDUVY4eFE0N2NVdi1xdTdWY3B5QVV4OUpXYzRfdU11UVpjTGxmbUdhR1JHcThQdUdaZ1ZQcE5wV0lwSGhvX0NTOTZQVEhwRFFlWTZncmIxQ1NjVXVvb1pSSVUwbzVlZWc3TGlwSWY0WWJGQdIBekFVX3lxTE1CMTJnX29Lem9FZDZfVTlPSlhnVk96RTM1QlMtTGc0Sjd1Q0pNaEtZTEpkanE5VVdPX2YtM2s1UlJpN1pZT0ZQN1IwanQ5WFBlZG5nN1VnY2xoa3JDM1BTTjNCckkwTkVqcGptUlZqa1dQVUxyVU0yblFn?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 22:09:16 GMT"
+      "title": "“전쟁 불안에도 '사상 최고'…뉴욕증시, 빅테크 기대에 역주행”",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HV1dQeEZNaDVJX2lRNWtJUDBzd3JuUzhkUmQ4eEVwbE1hRGQzYlBHWWlOc3ZvNjlJOUcySDU4aEtoVmI2RVdHVXhrYTR6cWhGcVpiUUxXMThpYjV1UXFRWkVB?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 23:09:35 GMT"
     },
     {
-      "title": "정승환, 오늘(28일) ‘오매진’ OST ‘잠 못 이루고’ 발매",
-      "source": "newsen.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TQmxkUjJ5Zkp2Q19DTEhnZjc5UXd4LXN3RTJucWZJMDM3RTl4QVhIeGdQZUFDaFVvYXktMDdEUUh5UUtVZ09Lbm1MWDZKa01yTVBOMGpaamw2cDQyUWFGQUhhVmNkZGt3?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 22:39:24 GMT"
-    },
-    {
-      "title": "4월 28일 굿모닝 MBN 주요뉴스",
+      "title": "발언대로 향하는 최태원 회장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WbWhmVGNOeHBvRW9Kclhrcy1ZNWNVNXdQa25sZTJJVkpBVk0yTTA0VUViUHRha3dTSVdFbF9uYUp4SlBQQ1FqcThtSXJ1a3J4S2FPeHlibF9QREh6SWJ0MA?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 22:09:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bW5jSW92SHlMVEFMTTJ2bUxWdERvT0NVZ0o5bTVzbmVoQVdJRGszWUhGejlKV2NmNzk5amY0a3ljRWFPTmpHLWhRXzBGSkdKb19wWVRPNFVqUGxFVks0Q1N0RGRTcTJWd2l5ZGxwcklDYnp1LTdIWA?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 23:52:00 GMT"
     },
     {
-      "title": "李대통령, 새벽에 국세청장 칭찬 \"열일 해줘 감사\"",
+      "title": "에이블씨엔씨 미샤, 미국·캐나다·대만 코스트코 입점",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41alJSQVdOU3BTTVJwOHNLYWdqNUp2bF82QXdCMVFpM2tuMnZ6SThJVVZjVDNTSEVtUjNzQ3BIa2U2b0tkdERSQ01xVG54c2M1UTNz?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 22:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzUmVMYWh0aTlKZ1JBc1VHcmRNRWRNZkxRd0huUXZON1dtM21vYWRCN0ZVcjFfZEIxaFdzeVBub18xQmVXemphc29wUGpacmFPZEdYQWkxd05oYzVEMjNaQg?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 23:57:00 GMT"
     },
     {
-      "title": "트럼프 만찬 총격범 기소···'대통령 암살미수' 혐의",
+      "title": "도경수 'Popcorn' 봄캐럴 등극하나…3주째 역주행 롱런[스타이슈]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41MDNnRTdzaXNXWnNsSmhzbmJpWXdHNXA5a212WWNtMjloUnRQbVNNcEdQZjVwLTJRY1k0eEthNjRTOENSQkFrWGVtV2RHeEdnYUc0?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 22:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pOVA4TnZiQVM2TzQzRlBZaU0xc2trdnR6Qm1zUWx3Z2VLTlFmOGh6WUhSQl9CRFBKOUtLRHBNUTFXUkpDYm85Q1Rkcy1FQk5UNDRj?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 23:51:00 GMT"
     },
     {
-      "title": "NH투자증권 \"한샘, B2B 부진·비용 부담…목표가 하향\"",
+      "title": "은행권 대출 연체율 '경고음'…기업대출 연체율↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HWUFPQmFuZlI3bm9HT0w3S2hzeG54eUU2STBOMlFhMThMa3ljODRCY1c5TlVOejl6VmVQb0hnUEVoblZlMnNYbUZwTGp2S3JNWXNzcUJtY05KRVh3QUUzdg?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 22:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ndWRRV0ZSSEExUzI4MW83RFI1VWhZZ2hwdkpFOVBpV3FNbDJDNmZRYnNlNnVrVUNJTEpjcjRfU0hrX1ZRb0V3WUJnMTUwLWZsRUhB?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 23:37:00 GMT"
     },
     {
-      "title": "정승규 대표이사, 이엠텍 주식 보유 현황 공시",
+      "title": "[AI MY 뉴스] 구조적 수혜주+리스크 헤지 '방어적 성장 포트폴리오'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OOEI5d1IxcVBkN3RGX2xVWjJYX2docURkdms0SlVZMFJIUHhQTDdkNzJsWjdURUpLVG1PTlkwTS1MU2JtRzhuMHhTaV95RFNvbnRj?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 22:55:00 GMT"
-    },
-    {
-      "title": "김경환 사내이사, 노을 주식 15만주 감소",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZSmViTnlPMTloTVVHaVBiREUzWXhOQ1Y5SE9yMDN0ZDlVUWl2dUhhVEtEdmJUMzZGUjNvS0NyVHJGR3hLVkNJMmw0WWFtaFBFNUpz?oc=5",
-      "publishedAt": "Mon, 27 Apr 2026 22:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YUUxlLWo5bVFSd2ZqM1NOU2gwNFJ5aE03ODE4OVc0Njc2cUtmV0dmTjBOMGNIMkRXWktRQTN2V3RyTldIdXVDZ19RUXY1OVpjRW1j?oc=5",
+      "publishedAt": "Mon, 27 Apr 2026 23:04:00 GMT"
     }
   ],
   "sources": [
