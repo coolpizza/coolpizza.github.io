@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-29T04:14:41.695952+09:00",
+  "generatedAt": "2026-04-29T05:44:26.756188+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,138.90",
-      "change": "-28.89",
-      "changePercent": "-0.06%",
+      "value": "49,141.93",
+      "change": "-25.86",
+      "changePercent": "-0.05%",
       "direction": "down",
-      "updatedAt": "2026-04-29 03:57"
+      "updatedAt": "2026-04-29 05:20"
     },
     {
       "label": "S&P 500",
-      "value": "7,139.73",
-      "change": "-34.18",
-      "changePercent": "-0.48%",
+      "value": "7,138.80",
+      "change": "-35.11",
+      "changePercent": "-0.49%",
       "direction": "down",
-      "updatedAt": "2026-04-29 04:02"
+      "updatedAt": "2026-04-29 05:20"
     },
     {
       "label": "나스닥",
-      "value": "24,665.76",
-      "change": "-221.34",
-      "changePercent": "-0.89%",
+      "value": "24,663.80",
+      "change": "-223.30",
+      "changePercent": "-0.90%",
       "direction": "down",
-      "updatedAt": "2026-04-29 03:57"
+      "updatedAt": "2026-04-29 05:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,472.80",
-      "change": "-2.20",
-      "changePercent": "-0.15%",
+      "value": "1,473.50",
+      "change": "-1.50",
+      "changePercent": "-0.10%",
       "direction": "down",
-      "updatedAt": "2026-04-28 22:04"
+      "updatedAt": "2026-04-28 22:08"
     },
     {
       "label": "100엔/원",
-      "value": "922.99",
-      "change": "-2.24",
+      "value": "923.01",
+      "change": "-2.22",
       "changePercent": "-0.24%",
       "direction": "down",
-      "updatedAt": "2026-04-28 22:07"
+      "updatedAt": "2026-04-28 22:08"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "7.7°C",
-        "feelsLike": "6.2°C",
+        "temperature": "7.1°C",
+        "feelsLike": "5.4°C",
         "highLow": "최고 18.8° / 최저 6.9°",
-        "humidity": "85%",
-        "wind": "2.4 m/s",
+        "humidity": "87%",
+        "wind": "3.4 m/s",
         "rainChance": "0%",
-        "pm10": "19.2 μg/m³",
-        "pm25": "18.5 μg/m³",
+        "pm10": "22.1 μg/m³",
+        "pm25": "21.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "30",
-        "updatedAt": "2026-04-29 04:00"
+        "updatedAt": "2026-04-29 05:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "6.9°C",
-        "feelsLike": "5.3°C",
+        "temperature": "6.4°C",
+        "feelsLike": "4.7°C",
         "highLow": "최고 17.1° / 최저 6.2°",
-        "humidity": "92%",
-        "wind": "3.9 m/s",
+        "humidity": "91%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "19.2 μg/m³",
-        "pm25": "18.5 μg/m³",
+        "pm10": "22.1 μg/m³",
+        "pm25": "21.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "30",
-        "updatedAt": "2026-04-29 04:00"
+        "updatedAt": "2026-04-29 05:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "5.6°C",
-        "feelsLike": "3.4°C",
+        "temperature": "5.1°C",
+        "feelsLike": "2.5°C",
         "highLow": "최고 18.4° / 최저 4.9°",
-        "humidity": "91%",
-        "wind": "5.8 m/s",
+        "humidity": "89%",
+        "wind": "7.2 m/s",
         "rainChance": "0%",
-        "pm10": "19.2 μg/m³",
-        "pm25": "18.5 μg/m³",
+        "pm10": "22.1 μg/m³",
+        "pm25": "21.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "30",
-        "updatedAt": "2026-04-29 04:00"
+        "updatedAt": "2026-04-29 05:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "6.5°C",
-        "feelsLike": "4.5°C",
+        "temperature": "6.6°C",
+        "feelsLike": "4.7°C",
         "highLow": "최고 17.3° / 최저 6.1°",
         "humidity": "90%",
-        "wind": "5.9 m/s",
+        "wind": "4.5 m/s",
         "rainChance": "0%",
-        "pm10": "23.2 μg/m³",
-        "pm25": "19.0 μg/m³",
+        "pm10": "24.4 μg/m³",
+        "pm25": "20.0 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "32",
-        "updatedAt": "2026-04-29 04:00"
+        "updatedAt": "2026-04-29 05:30"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-28 18:00:03",
+        "stationName": "상야주유소",
+        "address": "인천 계양구 벌말로584번길 1",
+        "updatedAt": "2026-04-29 00:39:44",
         "districtSamples": [
           {
             "district": "계양구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜김포제2주유소",
-        "address": "경기 김포시 대곶면 대곶북로 347",
-        "updatedAt": "2026-04-28 20:34:59",
+        "stationName": "걸포주유소",
+        "address": "경기 김포시 금포로 1117-6 (걸포동)",
+        "updatedAt": "2026-04-27 19:51:02",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "배터리 구독 서비스…가성비 경쟁, 현대차 '게임체인저'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zeVZWbGlLZXgyLU05eW1ySmQxUGNhelJ5SDF4QklFSE9lRzV2UWhST2lLdDRwX1hKeE9iMHBnUDBKQURKcVVxemI4MU1mMTFGNnZEbE5qd3R2OG85V2h5aw?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 19:08:00 GMT"
+      "title": "[오늘의 주요일정] 정치·정부 (29일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDekpiZmhLUUR3R3pjNXROT0V0MDRaYkFpZTlZczhmSTFsZGZvYzJVcHRjQ0FxM3pwdlAxdGhiZkc0WTFWc0FXcVQ5WkcxOWZ0YXFTaVd2aUQxdw?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "\"파운드리 사활\" 삼성, 테일러팹 '승부수'",
+      "title": "[오늘의 주요일정] 광주·전남(29일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Q2llN1BlSXhKbjhxWnJrLUQ3TFkzeHdKUDBGQWY3ekJVTHBoWkt1WFMwb215N05rcnJ3cGp1el9JR1lyWWYxWWpHQVlwS3h4eEFCOHRsNWNzZmdhbE1XMw?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 19:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nQ3VYSTFNSTkzTC1uVWd3eUxOY2s0R0J5Rlk0b2d6OGtZYS1JdHI5U19CX0haWld5LTBOTTIyeHFPQjFaUXR1VnpvRFBta2ZsTUVF?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "캐롯 품은 한화손보 車보험 '나홀로 성장'…빅5 굳히기 시동",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VRkNuR0prMGRoQ2w0bTlTTlZkZllodmpnNm1CajlvNVZ5N3lxRl9WdElXa3Nra2J6SzdKaDJnV3RTWGlfTWdwbzBYT2lYYXBGUFdoblEyZzF2UmxSQlcwaw?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 19:04:00 GMT"
+      "title": "[오늘의 주요일정]제주(29일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxUVZYQk9iXy1CQ0RkY3c3Y082VVMxeXZVSTVsQ1EyVl9vRkw0SERzWVVzN3FFV0hheUhlZk5UMkFxWjVmd3FCZ0JObDUzNUpU?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "美민주당 \"中자동차 미국시장 생산·판매 금지해야\"",
+      "title": "[오늘의 주요일정]전북(29일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oa1A5cU0xcjRHdVVqdEY2N01FdE8zMm5jVEJzRWhrM2pPb3kwWDlqc1ZLTWVBT2lSN09mSlllUUVrUERPZ3gzU0FGVkprOUhoUV9v?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 18:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QQkh4ZkVibXJsd2M0NVFmWThQRkhGT1lfQUs4Nk1rY2p4Y2VhWFFBZHBsWmxITElFU2dJR2EwV0U5bVg0c2RSdXFNdF9UbE5sRDdB?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 20:02:00 GMT"
     },
     {
-      "title": "AI에 뚫릴라…'보안 벽' 더 쌓는 2금융권",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RbWdTekhPcWhaVWxhLXd1bTZmWjV1UkF5b1YtdVcyS0hUQkZYSHBVRXNQc3ZCdkdoYnQ2QzBVNi1SSzBzOGZLcm42MGd2MzN5OGMwVVdkTjVCWEhZeFVSeXV0NFpSR1EtVVBPcGNoMEtGdzBUb0dhMA?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 19:04:00 GMT"
+      "title": "[오늘의 주요일정]전북(29일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jY05ObVlySDVLSGo4YTZ2eGphTHJ2Y1FVY2txNzJVanBXV1dJMXljRU5HSGEtbkFyaXpaM3dBNzczZFEyNHRJRTZRNGxla0I0RDUxTQ?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "\"中, 이란전쟁으로 묶었던 휘발유·항공유 수출 재개 준비\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ueDhwMnJ1cE04eG1YNWNtdVU5VmptVjJVd0xoZ3VpUUx1ZHpncm5LQVZQeldoSmlvQk9RR3JNSkUyaHVlZlhnaVk5S2FfQ2NaY1lxTndSTGV0d1Q2eEpSbkdVSGpPSjRRNHc?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 18:25:00 GMT"
+      "title": "[오늘의 주요일정] 충북·세종(29일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBodFBGN1dnR1ZKNFpuT3loNFNOWkpGRElHcUE5TkRnY2QwSElfalV5UElxM3ByTWpRRUgzSGV4aDRTNnExNHdXZ2I1UGd1ZERKQVFLcTUxZGkzQ1R4c2dB?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 20:00:01 GMT"
     },
     {
-      "title": "[기자수첩] 'AI 모르면 문맹' 지나친 강박의 부작용",
+      "title": "[오늘의 주요일정] 대전·충남(29일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CQXdlNXFHLXpxV3h0eTc2WlZRNkZ1el9hVWl5VmJyREZmUHcxeWVCMklBTFBwNUZBV2ZmMGh0WTk5WjlSRTVOM0lST1NzVEt0Q21Z?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 19:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82UGk4N1lRZFBuMlhpV3IybWNza09ibDBwLThBWEJVUWlOYWk3UThIcEdGem5UdEZXT2o5cnJ5b2pFdExoaUJGWGdYVFRQVXFQZ3hB?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 20:01:00 GMT"
     },
     {
-      "title": "계약 짧을수록 고비용 설계…'꼼수' 차단",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QOUJCY25QMUpjRURvLVFPNzBybHNFN05vUFRpMENNSk8xTnpJRG5GdzVVSjRrZXVMMHdsQXhzak9hRjdhdTNJeDlPMS1JVElHQXVJ?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 19:08:00 GMT"
+      "title": "[오늘의 주요 일정] 울산(29일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kQzNLeDJUR2Zqb21hdjhEcEJjbTR1Nmo4YUlDRmxlbUxyYzFSR2ZUQ3RuZHRONG9GVUxzZlBLLUhMRlJYdUd2cWpfc1FGazlvelE?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "[사설]망 사용료, 팩트 기반 대응 필요",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56OTVFaFJHd0c2VVZheTQ1eUg3d0ItckZ4dmJ2aWRBdjA0ZjktbjRlNVZGMklTblA1b3NNWGFRZGJoLUlubDVMQlM5Mi1MMURvQ3pF?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 19:05:11 GMT"
+      "title": "[오늘의 주요일정] 광주·전남(29일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0UXFIemExU2EwMUlzb2VMS0hRelVZdi0zZU5KYmJzVHVNQUVIWUtUVFViUWJDb2o3QzQzdGVoRG5mV3VVWlM0UFNPc3FhS0dxNmltdkx2MGF5ZVZxekE0?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "차량 뒤엉킨 구간서도 '차선 이동' 척척",
+      "title": "[오늘의 주요일정] 경기(29일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55Q2k0Z1VmelAzNFpqZlZMbGxOcTdjb2dudzRoQi12b0plRFZXbjlqZTJ6SktKaC1TcXVXYUs5ODlTWU1NWFhWeXVwQ0YtY3U1ckhsVDIwN0oyZlp3WHEwOGo3YXVSU0c2ZnA2YkJ6NEJNdDV4aW1Ocg?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 19:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JMzkxSTg3bjExZWl3WkZIVDFRM2ttVGp3WnBhVU5nOHFGWnRFSFJacVhqU0VTdnU5eEZ4WHM0NkNiWHBUdGp3bjlRUk9lWXhTOGVF?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 20:02:00 GMT"
     }
   ],
   "sources": [
