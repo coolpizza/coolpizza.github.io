@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T19:11:03.748367+09:00",
+  "generatedAt": "2026-04-28T21:02:43.459415+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.80",
-      "change": "-0.20",
-      "changePercent": "-0.01%",
-      "direction": "down",
-      "updatedAt": "2026-04-28 19:04"
+      "value": "1,479.10",
+      "change": "+4.10",
+      "changePercent": "+0.28%",
+      "direction": "up",
+      "updatedAt": "2026-04-28 20:56"
     },
     {
       "label": "100엔/원",
-      "value": "924.44",
-      "change": "-0.79",
-      "changePercent": "-0.09%",
-      "direction": "down",
-      "updatedAt": "2026-04-28 19:04"
+      "value": "925.74",
+      "change": "+0.51",
+      "changePercent": "+0.06%",
+      "direction": "up",
+      "updatedAt": "2026-04-28 20:56"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "14.1°C",
-        "feelsLike": "12.9°C",
-        "highLow": "최고 16.8° / 최저 10.3°",
-        "humidity": "64%",
-        "wind": "3.6 m/s",
+        "temperature": "12.0°C",
+        "feelsLike": "10.6°C",
+        "highLow": "최고 16.1° / 최저 10.3°",
+        "humidity": "69%",
+        "wind": "3.3 m/s",
         "rainChance": "80%",
-        "pm10": "12.5 μg/m³",
-        "pm25": "11.5 μg/m³",
+        "pm10": "13.5 μg/m³",
+        "pm25": "12.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "36",
-        "updatedAt": "2026-04-28 19:00"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-28 20:45"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "13.6°C",
-        "feelsLike": "12.5°C",
-        "highLow": "최고 16.6° / 최저 9.7°",
-        "humidity": "75%",
-        "wind": "6.9 m/s",
+        "temperature": "11.1°C",
+        "feelsLike": "9.7°C",
+        "highLow": "최고 16.6° / 최저 8.8°",
+        "humidity": "80%",
+        "wind": "6.2 m/s",
         "rainChance": "80%",
-        "pm10": "12.5 μg/m³",
-        "pm25": "11.5 μg/m³",
+        "pm10": "13.5 μg/m³",
+        "pm25": "12.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "36",
-        "updatedAt": "2026-04-28 19:00"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-28 20:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.9°C",
-        "feelsLike": "11.2°C",
-        "highLow": "최고 16.7° / 최저 9.0°",
-        "humidity": "71%",
-        "wind": "7.9 m/s",
+        "temperature": "10.6°C",
+        "feelsLike": "8.9°C",
+        "highLow": "최고 16.4° / 최저 8.6°",
+        "humidity": "78%",
+        "wind": "5.9 m/s",
         "rainChance": "86%",
-        "pm10": "12.5 μg/m³",
-        "pm25": "11.5 μg/m³",
+        "pm10": "13.5 μg/m³",
+        "pm25": "12.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "36",
-        "updatedAt": "2026-04-28 19:00"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-04-28 20:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "11.5°C",
-        "feelsLike": "9.1°C",
-        "highLow": "최고 15.5° / 최저 8.6°",
-        "humidity": "71%",
-        "wind": "10.9 m/s",
+        "temperature": "9.3°C",
+        "feelsLike": "7.7°C",
+        "highLow": "최고 15.5° / 최저 8.5°",
+        "humidity": "84%",
+        "wind": "5.6 m/s",
         "rainChance": "15%",
-        "pm10": "17.5 μg/m³",
-        "pm25": "15.4 μg/m³",
+        "pm10": "18.6 μg/m³",
+        "pm25": "16.9 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "37",
-        "updatedAt": "2026-04-28 19:00"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-04-28 20:45"
       }
     ]
   },
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-04-28 15:53:12",
+        "stationName": "봄까치셀프주유소",
+        "address": "전북 익산시 평동로 796",
+        "updatedAt": "2026-04-28 17:51:16",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "김포감정주유소",
-        "address": "경기 김포시 김포대로 1135",
-        "updatedAt": "2026-04-28 17:59:57",
+        "stationName": "걸포주유소",
+        "address": "경기 김포시 금포로 1117-6 (걸포동)",
+        "updatedAt": "2026-04-27 19:51:02",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "도이치 유죄로 뒤집혔다…김건희, 2심 징역 4년",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tcm1IMVpIT2dRcmg3eTBLaVhXYUt4VVdCVHZyRGM4NlM5Z1hlNWFJeDZOam1pa1JhVVZSTHNmWlNoWEZxYjVwdC11OHRTRGttTk1fXzlOUnZhcFBmSGfSAWNBVV95cUxOaGJpR0MzbEVhVm9zVHZDSFptS3NPVWdOU0FlbmlLekNSZW5KdGdDR0dneW15a0pHUDhDNFdYMExFYkctWmZ1Znc3Skw5QkJlS2dQTGZFZkh2WUk4MUVUczd5ZWM?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 09:56:00 GMT"
+      "title": "[뉴스7 대전·세종·충남 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xM0dVWlNiNWFGV1JTS2Q2TDd5bkRscUhVV2cyODU2MXRqclZFd29JMjAwZmc0cXBKTGwyZ0hOaDZ3OFI0aGlsNldfYlY4Z0ZTVDJNbVRyUS1fQWs?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 11:26:00 GMT"
     },
     {
-      "title": "108弗 넘은 브렌트유, 주요IB 전망치 상향",
-      "source": "파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MTVFxZEh2cUQ3TzU0VzY3QlZ3RE4xLXFXT2pPa1NlVkFjYldsVjRnTVpPTUtsaG52c0hZSHJYNVZJSlh5SVRWX0MzREFCbDAtZVlfWUNReE9FZ9IBXkFVX3lxTE93Y3NBb25TQVJsclZfSnppT1huckR6V0h1YjB3d2lPNXZSaUV0X0k0U1JpWEZzU2d3NE5IMEg1NGV0cEFWNmgxN2NTTEw0aW1LRG9BSnRUd1JaNlh0UXc?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 09:35:37 GMT"
-    },
-    {
-      "title": "[포토]'1회초 1실점이 아쉽구나' 사우어",
+      "title": "[포토]'7회말 등판 역전허용한' 장현식",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVVBHRHVMMTZqSmJnbzU0SVY4X2ctOFA1ZmFnd3k3d1FDcUd1RDFNYjAteWVzeDdIQ0pjRHJ6ZDdPWERwdm1zQ3k2N1N4RGNqSzNDcG9YVkNzOW53LV9kYUVjRWNZT1BZbmd0dzRKNEVpTEUtT05mYg?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 10:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uREwzMk5aYnZ1U3p0cTFFbUd4MlltOXJPZmotbDZDLWRtUFNOeWJxZGVZeEhiamRVX2ZVdlJLMm0zU19kb1F3LVIxRmdwM1dNQmZRRktR?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 11:57:00 GMT"
     },
     {
-      "title": "김건희, 2심서 '징역 4년' 선고",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2cTdqazZ6NHFMVjd2aUMzTU11VE40NkFOWTN6RnpZZS03cEhNQ29wZnRaZnZFMm9QXzVpUF9GbUt0NlF6Wm9jWDlCTmNPTFVZRUhZ?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 09:47:00 GMT"
+      "title": "성남시, 학교폭력 피해학생 조례안 “피해학생에 도움 아닌 혼란 우려”",
+      "source": "하나뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11SC1nZ3RiLXd0TnU3cUpudGVMaDlHdU4yT0pydUxFZW1ja2JxaklWNkZ3TEFGS3Nwd3dUZEJBZGh0T2lNWkZlMWlMZnlIaXZQdy1pendxMXJYVlU5cHAyRWhoWFdIWVZ5RjdyUg?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 11:55:01 GMT"
     },
     {
-      "title": "\"지역 프로구단 창단\" 논의 봇물…'표퓰리즘' 우려도",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxd3JrN3lQYTEzaGQySnpJNGx1cUQ4ZHktUnQwaWpOTGNzRmhHcDkwaXAyTFdFTk92ekRpMlZUekhJLUxJd1VmVzlLaUF6d2pTSHpB?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 09:57:00 GMT"
+      "title": "사건반장",
+      "source": "JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiclJJN08wMW84ZE94VFI1NFpPTTRic0xiS1pPZ3htOFJCdWFfT05EUHlaTlZIV2hhY1dNRFN6Mm01cGhGQ01JMw?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 11:08:34 GMT"
     },
     {
-      "title": "[fn광장] 한국 제조업 다시 살리려면",
+      "title": "日채용시장도 변화…\"주요기업 채용 계획서 경력이 절반 넘어\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WUmJyVEM4VUVkX3hCa25HandMSGZqUlR3TUZoTloxVUEtamE1ZENiUkxZX01ZajdHRU95TUdLTFdhdzU3Yl9ScnNpNXhxeTJHaGRSczU5cFBJMkQ5NWFsaQ?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 09:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4NTZ0bFg4QkZFMExmTFhyYWZiOXBXcVA0TExFTXhha284bW4yVGM2SURXa2ZLTFJYcVNzTFpoMEpvbEhxck9HdGFpVER5Q3YwdVhJ?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 11:50:00 GMT"
     },
     {
-      "title": "[주요공시] 4월 28일 오후",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vSVlYdlIwakNsOVlWMEpDV1pRZjlGYkF1RVZfOFlaX2ExVDBKNV9HUzBzU3BxV0E2Q1JwQ1VRVWo2NlBPazBfOHNBT1JrZXhMaHg0?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 09:18:00 GMT"
+      "title": "하남시의회, 서울-하남 잇는 ‘이음하천’ 밑그림 완성… “경계 허물고 상생의 물길 연다”",
+      "source": "하나뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Q3JpWWMySnBtMndaWC1NMC1Bb3lpM1ZtdFV2MURvR25BTTU2bkpsa1YwcHFkbVd4bjk0N2t0R0VUQ1dlTmpDZkkxNWZpYmtMWXlVYnRXNVZtTmV4ZWotLUJiX1AtY2h4cW5fVw?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 11:23:44 GMT"
     },
     {
-      "title": "경찰 '유명 인플루언서 사기 사건' 대질조사 예정",
+      "title": "[PRNewswire] 콘셉트 메디컬, 시로나 3년 예비 데이터 발표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnaUFFZ0ZVS0xWOE5SbXNuanZidWJac0dTNXluV1pqMkt5algyN09iVURGakhlMDRGSlRmUnZHdnNDMkN4NTl0dXVSaGc4dHdKMlNj?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 09:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uNlIyc204bWdVTHg4ejJqVFJuSVVsZm8zd3ByQlhSUk80ejVZcld2RzRYWG55VjNDblpuazRHMEItUndUNFFtOUktdFhFa3F2Nkkw?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 11:53:00 GMT"
     },
     {
-      "title": "초등학교 교무실에 불법 카메라 설치…경찰, 교직원 수사",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mNktjczU4RjBFNlJwTUd0S2hQd08xRGJ2QWhFQjBRdDU5bXg5Rm9UM0ZnX0lpY1Zjby00dFlTS3BMVS04dFFwRi1TVnFQRUQxdVBN?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 09:42:00 GMT"
+      "title": "안양시, 공공 건축 품질 향상 및 안전 강화 워크숍 개최",
+      "source": "하나뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMGhUeEVzWWpqSEhZcWRQcG9MbGs3LWdsMElSRS1oQm9YTExUMENuRkpTNDBjRUdSNXAtT3VlZHF2Q29WQkNuS19tYTBoQ0M5T2otRWpvS1FlSVY1TlRvN292emROcnNwekpHYg?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 11:23:12 GMT"
     },
     {
-      "title": "울진군, 음식물쓰레기 감량기 설치 지원…최대 70만 원",
+      "title": "NPT 개막부터 미·이란 '부의장 선출 공방'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84WVdta3VaNzJ5NXZJajA0U0RtU0JwSFBFQXFDWU51eFNOa3Q0UExIaktpeVJ5cS14SFB5My1zdjlyYUtfR19BS3Q5WExjaFdNWFdF?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 09:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qY2FtaENRbVBEclRiUFpPV2l0RnBnc2haZXhSUDRyS0FHdk9oUm4wM2Nsbk5uc0Q1R013b1A2VDIyT1NqRFhMS0dyMWx4cWNpOGJ1bnBrRi1KVm5rMkFPRA?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 11:56:00 GMT"
+    },
+    {
+      "title": "[포토]'7회말 무실점 웰스 이어 등판한' 우강훈",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcEV6U203LXNWN2xNTkFqZTUwcnRQc2xDVnpVcVdVQmJsa3JQdGRuZFVuLTZEY1dTZjFoZVFvQ3NMeU5pQnd0czhFQWp5Y3JuUDdXTUZzcU9CVl9L?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 11:40:00 GMT"
     }
   ],
   "sources": [
