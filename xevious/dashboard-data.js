@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-29T01:04:31.929735+09:00",
+  "generatedAt": "2026-04-29T02:52:25.772716+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,249.00",
-      "change": "+81.21",
-      "changePercent": "+0.17%",
+      "value": "49,196.32",
+      "change": "+28.53",
+      "changePercent": "+0.06%",
       "direction": "up",
-      "updatedAt": "2026-04-29 00:59"
+      "updatedAt": "2026-04-29 02:49"
     },
     {
       "label": "S&P 500",
-      "value": "7,124.19",
-      "change": "-49.72",
-      "changePercent": "-0.69%",
+      "value": "7,130.29",
+      "change": "-43.62",
+      "changePercent": "-0.61%",
       "direction": "down",
-      "updatedAt": "2026-04-29 01:01"
+      "updatedAt": "2026-04-29 02:40"
     },
     {
       "label": "나스닥",
-      "value": "24,543.79",
-      "change": "-343.31",
-      "changePercent": "-1.38%",
+      "value": "24,602.25",
+      "change": "-284.85",
+      "changePercent": "-1.14%",
       "direction": "down",
-      "updatedAt": "2026-04-29 00:47"
+      "updatedAt": "2026-04-29 02:35"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,473.50",
-      "change": "-1.50",
-      "changePercent": "-0.10%",
+      "value": "1,472.80",
+      "change": "-2.20",
+      "changePercent": "-0.15%",
       "direction": "down",
-      "updatedAt": "2026-04-28 22:02"
+      "updatedAt": "2026-04-28 22:04"
     },
     {
       "label": "100엔/원",
-      "value": "923.56",
-      "change": "-1.67",
-      "changePercent": "-0.18%",
+      "value": "923.24",
+      "change": "-1.99",
+      "changePercent": "-0.22%",
       "direction": "down",
-      "updatedAt": "2026-04-28 22:02"
+      "updatedAt": "2026-04-28 22:04"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "9.3°C",
-        "feelsLike": "7.8°C",
-        "highLow": "최고 19.0° / 최저 7.2°",
-        "humidity": "76%",
-        "wind": "2.4 m/s",
+        "temperature": "8.3°C",
+        "feelsLike": "6.9°C",
+        "highLow": "최고 18.8° / 최저 7.2°",
+        "humidity": "83%",
+        "wind": "2.3 m/s",
         "rainChance": "0%",
-        "pm10": "16.2 μg/m³",
-        "pm25": "15.5 μg/m³",
+        "pm10": "15.9 μg/m³",
+        "pm25": "15.3 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "32",
-        "updatedAt": "2026-04-29 01:00"
+        "updatedAt": "2026-04-29 02:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "7.5°C",
-        "feelsLike": "5.6°C",
-        "highLow": "최고 17.7° / 최저 6.6°",
-        "humidity": "92%",
-        "wind": "7.2 m/s",
+        "temperature": "7.0°C",
+        "feelsLike": "5.2°C",
+        "highLow": "최고 17.5° / 최저 6.1°",
+        "humidity": "93%",
+        "wind": "5.6 m/s",
         "rainChance": "0%",
-        "pm10": "16.2 μg/m³",
-        "pm25": "15.5 μg/m³",
+        "pm10": "15.9 μg/m³",
+        "pm25": "15.3 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "32",
-        "updatedAt": "2026-04-29 01:00"
+        "updatedAt": "2026-04-29 02:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "7.1°C",
-        "feelsLike": "4.9°C",
-        "highLow": "최고 18.8° / 최저 5.1°",
-        "humidity": "89%",
-        "wind": "6.9 m/s",
+        "temperature": "6.3°C",
+        "feelsLike": "4.1°C",
+        "highLow": "최고 18.5° / 최저 5.0°",
+        "humidity": "91%",
+        "wind": "6.4 m/s",
         "rainChance": "0%",
-        "pm10": "16.2 μg/m³",
-        "pm25": "15.5 μg/m³",
+        "pm10": "15.9 μg/m³",
+        "pm25": "15.3 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "32",
-        "updatedAt": "2026-04-29 01:00"
+        "updatedAt": "2026-04-29 02:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "6.8°C",
-        "feelsLike": "4.6°C",
-        "highLow": "최고 18.3° / 최저 5.3°",
-        "humidity": "88%",
+        "temperature": "6.1°C",
+        "feelsLike": "3.8°C",
+        "highLow": "최고 18.2° / 최저 5.3°",
+        "humidity": "92%",
         "wind": "7.2 m/s",
         "rainChance": "0%",
-        "pm10": "20.3 μg/m³",
-        "pm25": "17.1 μg/m³",
+        "pm10": "20.9 μg/m³",
+        "pm25": "17.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "32",
-        "updatedAt": "2026-04-29 01:00"
+        "updatedAt": "2026-04-29 02:45"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "김포감정주유소",
-        "address": "경기 김포시 김포대로 1135",
-        "updatedAt": "2026-04-28 23:53:40",
+        "stationName": "걸포주유소",
+        "address": "경기 김포시 금포로 1117-6 (걸포동)",
+        "updatedAt": "2026-04-27 19:51:02",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[주요경제지표] 2026년 4월 28일자",
+      "title": "\"UAE의 OPEC 탈퇴 결정은 미국에 승리\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FS3dVX3p6dEE4aDJLRlIwUnpYaFRMdWRDaTg5T29Wb2VTcDBBWGdDQVdJSGUwc1VfXzNHVGNIWWxKTEdEeUZzMGlVUjRrMnhyZ2ZibWNnNDl3Wm1xS0dYQ2hVN213aHpCQ3c?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 15:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZZHMzdTZsZk5oTkpuN1NJODBRZjl4N3JMakwyY3B3WW0yTTNuMlBDZC1NWDdOWDhic183LThtdE1QSHJCMHdyUlpYYldNZjBVcV9v?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 17:31:00 GMT"
     },
     {
-      "title": "[지표로 보는 경제]4월 29일",
+      "title": "한세엠케이 플레이키즈-프로, 올해 매출 1000억 목표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oTHJtcEIyMlBuT1QtNzVLUUgwLUhmdlpteG4zR2FDZkpZeVRFQkJaRFdmWHhSM0JCSnpWOUNXQXNBYjhuc1JiSkF3d3ZMcW1FTkVLb2dWSVRmZnlPdkFzbHJEX2xtMGhhYW9neTBn?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 15:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54Vi1QM0JtN1lMcEs2Ql9QMzR5aTIwWTRkZml2TW1YOWRKSVU1OU1lbkt1NFIzekdFRERXT3I0X05yMjZyZDhSaTIybVJBMjhiVXVZ?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 17:19:00 GMT"
     },
     {
-      "title": "[포토]'한점더 고마워!' 염경엽 감독",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUmxLTlhMSEtEcGgwbmY4dEUtbk1WbVRKc1FNdXNJS29kaXp6a0NNV1FGVGdEMUlBRXg3OFhuSGk2UWJUdEI4Si1rNFF1bFJkU1RoYnMybnRVWVQ4?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 15:45:00 GMT"
-    },
-    {
-      "title": "트럼프 \"이란 '붕괴 상태' 처했다고 알려와\"",
+      "title": "\"中, 5월부터 항공유·휘발유·경유 수출 재개 준비\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JR1o0OFNDRkdGZ04tb0U4MU1jNFBNUUhYZTZ1cVBrbV8xR2RVbFRnaTBQbl9QcnZuSzlzOHo1SV9sRXJuZDRwXy1CamQ4U1l1Y2ZVdGJKWjRxVlUxUE9JMDNqOGlGMkpxQnc?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 15:19:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Q3UxcXUxTWVSenlJQ2NsUWZEdTViUkozV1plTkVTMk5qQVc1N05BSFRqX0xKa2RxdmwtbzM0WFROaUhBdmJHWVZBMWNfZm05Tklj?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 17:22:00 GMT"
     },
     {
-      "title": "[포토]'박동원이 이 파울볼만 잡았더라면' 끝내기 패는 없었을텐데….",
+      "title": "[MT시평]연금투자 기준, 수익률보다 생존",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vX01uQmhjbUNKOHVkeE5QQ1RmQTY1aEthMU5TR2JzSDVOVG54ZTd0eG85UVB2WmotSjNIeEl4ZEE2NnRLUGp0QVpJZXdXZnBjMUlJbzBkenpWQ3luS3RyRg?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 15:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wc3NaVlE0cE1wYW8zc3FGME5OdnRWY3IzUEdfUzJZdmp0QTY2SVhXSkpOYm5tQXFOQlppaU1PN294N3AwSHZvcndNMWV5WnRBUlYxcVFFUUtFYXpYUHJBOTBXOHcwTlJ3ak94OUpNS1J1S0dxWEg4RQ?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 17:00:00 GMT"
     },
     {
-      "title": "[포토]2점을 지켜라! '7회말 무실점 웰스 이어 등판한' 우강훈",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2MUlJWWYtUlN5WHZrWGttSE9lT1R5My1RVVRSS1dvSDZRSGE1Q3YxbDBtai1WTjgyS0xoUk9NcmJRWVVMT0xneC1jTGNGTHVYalpOTjhJa2trTFFB?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 15:33:00 GMT"
+      "title": "황태선 문화관광팀장, 4월 칭찬공무원 선정",
+      "source": "광주뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50VHAzZUhTUFhOLWtBb1Q5amZrd2FQbzBtOXVzeU9rbjlURkxnX0FPWUNyOGpuNXhWQldic2U1UENYTUUtbEFTUWZOaUdWZGhkQlRQbVlQS3YyS19WdVNYeW0zS0lYOEk?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 17:37:58 GMT"
     },
     {
-      "title": "[포토]'하…최원준 빠르네' 오스틴",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEMG8xTXZMMEV3TXkwWmswb0gwSFFiYUtPZlZQdy1pbHR5Mkt3TDZrTWdQcWZtUlZkdUhMVzJRM0IyNTVFX3l6dzlLLTdyVWI0UUc5U3RYQlBMQWdG?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 15:26:00 GMT"
-    },
-    {
-      "title": "[포토]'1회부터 터지는구나!' 염경엽 감독",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OMkhDYnVDWkNVN0FWa01uTFZlWWloMHBzTkpIVzV0UlVQY1pLMHZOaUNZUUJTS29SM1U5ZDBQN1VRYzh1YWNWNUlSbWhUUEN4WTFSdHhJamxuUzMt?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 15:16:00 GMT"
-    },
-    {
-      "title": "UAE, 다음달 1일 OPEC·OPEC+ '전격 탈퇴'",
+      "title": "해지대지, 첫 연극 데뷔 '사랑해 엄마' 이모 역 출연",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5laDQwdXNmY0NuTjRrOEMwb0c2UmJza3I3TnVDcFJGWTZxQVZTbTllamVMQ25BZjZ3WFVNX2JUODBTVzFrWmI3bHdxT0lQc3pYMlhj?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 15:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01ZW9Ta3lWeXBRTWUyekl5bmdJZ0ZIQ242c3ZYTkF3ODBOdzJMcVIwOEJaZzZrdDFtdHhkOHNaVjk1RmdWQlc4Z05jZXJ0YUZWbTFV?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 17:19:00 GMT"
     },
     {
-      "title": "[천자칼럼] K치킨 전국지도",
+      "title": "트럼프 주니어, 28일 방한…사업 목적 방문",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFOW5pQ2RjdnpWVlIyQVFNMUFhaDFUN0xaeFJ4T0FOVlA1RlFXdTFhNkxRNkhWWEJlMno0RGQ5Nkp3aVI1c3JVQ3BIZVI1RmwwanpVWDl3ME12SGFfQ2VOYnBJcnBHOWJn?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 17:00:00 GMT"
+    },
+    {
+      "title": "아랍에미리트, 다음 달 1일 오펙 전격 탈퇴…석유 증산 예고",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12ZGVaQmthdEh5NFNKR0RhNHpyUkNGbXJ0SjY1X01ha0c5eFl3VVNqTHgzQkxKNHdEdy11a0JBWkp2N29oUWczakJLTWdQMUJhQVdV?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 15:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkb05CUnJTXzExa1BqamZjOXY0NFVlY0Z0NGpFS29rbGVoX21QbERlc2F2ZWJKakZhbVI3VVY2ZzlVUmFDSGRwdktzMUZ1VXNmV3NkNF9aUnJWLTFCTGxOTVo3RjcyV0s4bUhJcmRyNGZaUHhlajJ2Tg?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 17:33:00 GMT"
+    },
+    {
+      "title": "버추얼 아이돌 그룹 비던(B:DAWN), '범(BEOM)' 타이틀 포스터 공개",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kNE9JQ09vRUlfRFhYZDF6dFdEa3JXMHFzYURWeU1Va1lKaEs4OEx6cVdSME1Kd0hITmR6eVFEUG9QTGVCaVlBeGllZ3A3YnpackxSN1B3UlBaaE9XNXBpaQ?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 17:47:00 GMT"
+    },
+    {
+      "title": "부산에서 페리 타고 일본 소도시여행…시티투어닷컴 리조나레 시모노세키 상품 출시",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aa3dvUnJHbkdxQ21obV9waThGMmtIbndHSnZPTUtheVpwanFTQWpEVlFOLTBlSnVEX3JqSUdUTUh6ck1Dd05tTlVUVmtmRnVVWEJEb2ZSV1pMNmtzNzZaaF9HNEVwYXJxUWNKbzN1U20tUXFkYWVjRg?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 17:31:00 GMT"
     }
   ],
   "sources": [
