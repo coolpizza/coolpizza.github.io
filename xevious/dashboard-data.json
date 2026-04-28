@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T06:41:56.437418+09:00",
+  "generatedAt": "2026-04-29T07:38:59.720764+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.00",
-      "change": "-1.00",
-      "changePercent": "-0.07%",
+      "value": "1,474.50",
+      "change": "-0.50",
+      "changePercent": "-0.03%",
       "direction": "down",
       "updatedAt": "2026-04-28 22:08"
     },
     {
       "label": "100엔/원",
-      "value": "923.47",
-      "change": "-1.76",
-      "changePercent": "-0.19%",
+      "value": "924.05",
+      "change": "-1.18",
+      "changePercent": "-0.13%",
       "direction": "down",
       "updatedAt": "2026-04-28 22:08"
     }
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "7.3°C",
-        "feelsLike": "5.7°C",
+        "temperature": "8.6°C",
+        "feelsLike": "7.2°C",
         "highLow": "최고 18.8° / 최저 6.9°",
-        "humidity": "84%",
-        "wind": "2.3 m/s",
+        "humidity": "77%",
+        "wind": "1.3 m/s",
         "rainChance": "0%",
-        "pm10": "30.0 μg/m³",
-        "pm25": "29.4 μg/m³",
+        "pm10": "27.0 μg/m³",
+        "pm25": "26.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "29",
-        "updatedAt": "2026-04-29 06:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-04-29 07:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "6.5°C",
-        "feelsLike": "4.7°C",
+        "temperature": "8.3°C",
+        "feelsLike": "6.8°C",
         "highLow": "최고 17.1° / 최저 6.2°",
-        "humidity": "92%",
-        "wind": "5.0 m/s",
+        "humidity": "86%",
+        "wind": "3.9 m/s",
         "rainChance": "0%",
-        "pm10": "30.0 μg/m³",
-        "pm25": "29.4 μg/m³",
+        "pm10": "27.0 μg/m³",
+        "pm25": "26.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "29",
-        "updatedAt": "2026-04-29 06:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-04-29 07:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "5.6°C",
-        "feelsLike": "3.3°C",
+        "temperature": "7.8°C",
+        "feelsLike": "6.2°C",
         "highLow": "최고 18.4° / 최저 4.9°",
-        "humidity": "89%",
-        "wind": "6.2 m/s",
+        "humidity": "82%",
+        "wind": "2.7 m/s",
         "rainChance": "0%",
-        "pm10": "30.0 μg/m³",
-        "pm25": "29.4 μg/m³",
+        "pm10": "27.0 μg/m³",
+        "pm25": "26.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "29",
-        "updatedAt": "2026-04-29 06:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-04-29 07:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "6.5°C",
-        "feelsLike": "4.6°C",
+        "temperature": "8.3°C",
+        "feelsLike": "6.9°C",
         "highLow": "최고 17.3° / 최저 6.1°",
-        "humidity": "92%",
-        "wind": "5.6 m/s",
+        "humidity": "88%",
+        "wind": "3.4 m/s",
         "rainChance": "0%",
-        "pm10": "25.6 μg/m³",
-        "pm25": "21.3 μg/m³",
+        "pm10": "26.8 μg/m³",
+        "pm25": "24.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "31",
-        "updatedAt": "2026-04-29 06:30"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-04-29 07:30"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83dmJaeDVfLUx1d2JyalJaZzFiZVdfdzBQeGoyYjd1c0ZPMklBbVpmUVg2Z18xM1J0YWszZlpJcUEwQUZ1TWJYR1pDaTBPMDQ3VXduak5IUGVYZ3RybHdFbEExMEJ4TS1WV2c?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 21:04:00 GMT"
-    },
-    {
-      "title": "[카드뉴스] 어린이날, 손주와 당장 떠나는 대형 축제 Best 8",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84VzZVWEJmMXBNMm1HbzIxajRVNENBOTZpbTJGOE1hcndOU0M1TWZJdWZ4UlBEamRXc0kyaGJjaC1xUm5idDNFa2FXUjBSd2tONG4wS3Z0VmxfQQ?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 21:00:00 GMT"
-    },
-    {
-      "title": "[26년 4월 29일(수)] 증시 선두서 이끈다…K-철강, 무더기 '상한가' - 비티의 오늘 주요 뉴스 요약",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZzdrZ1A2cmprX2c0TnhJYUFtTVJncWJzd0JKWUdUVDFzQVgwTmVsODBVdk1SNS10bk9nWnVtb19VanNGaVZ0STdwSm41MHR4OFNXOTlLT0VWcnYwX1A5ZFdNYzRPYVBWV2c0N0o4Qk0xM2xzSU5YMHp3MXE0WlNldg?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 21:34:06 GMT"
-    },
-    {
-      "title": "[코스피·코스닥 전 거래일(28일) 주요공시]",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hLTZER3FXdWtiX19UcE5XSjNoenFObFlEM2FUanZaLTlhTVRCUlotMlc1Sm5SU1Y2RXpzUjVaUkFnRTBmZ05xeHc2ckprdTVBS3dzeExpSlE2Vk3SAWBBVV95cUxQSkJHWVc0dzRid2VpLWl3VWtYWDBFWEg4clVVZFJlS05fVFhKUGNBVXk0S2pnTFdRYWlWQmVhODM3RWZDa290OF9tcVV6bVlNeEdGajJnU3paVnFHZ1ZoaWI?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 21:05:00 GMT"
-    },
-    {
-      "title": "트럼프 \"이란 붕괴 상태\"‥미 유가 '천정부지'",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9weWdickN1TlJRbXBjUDJkQ0NMTDEwZFFPdFN2Wno4SFVGSFY2Z0J4QjRwZ0V5MWNZdEltLUg3QUVFMUlnZW53RlBzN0hGMkNBLVZpVXZzMEhRWXBRV21RTWRxQWRqbHZrLVZIQ3lIVUswYXdkaEZKcUNR0gF6QVVfeXFMTUxjakNnSzlENmo4amNGekVjVUI0LUhGeW5ncmhCQXQ0aXlEOUQ4T3VURVZBQ2xKRUJFWmsySDNCVnNYbEZ2bk5na212X0ZaMTlJcHNVZ1c0aXZGVE4wQi1HV0VtNE1QNFBYOERrWlIzU2gyV2VTdmQxY3c?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 21:04:38 GMT"
-    },
-    {
-      "title": "UAE \"다음 달 1일 OPEC 탈퇴\"‥독자 증산 예고",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nVmw4aVJMMGZQTU5PNVVVWGwxR1doaEFqNUQ1MkxoZm9CQ1E0cWJ2YXpKbzBxMHFYUFFFNFF6RTdWMVdJWHZ5X0l0N3lNemZ5OEhqU0g0LURyUk9KSkVBcEFhM2hublppZGU2NGJhcG5mczJTRmszOFZB0gF6QVVfeXFMT0hoaFJVQnlQYl9kSFBZMHhnd3lmZkRFOGJxaGptQjM3NGxpZERfUWVrLXhIQmtDUmNmWnNHdC1QZ0pmelpkdU9FbzFneUhCUFRtM3JDUjNITUlQemxTNmFlREVkVkdCaEt4RlNUb21Ia2c3Wl9fdnJBVEE?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 21:06:19 GMT"
-    },
-    {
-      "title": "주요일정(4월29일)",
+      "title": "4월 29일 굿모닝 MBN 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjclVSX2ZZeUpHUXlaTks1RXVhclcwR0tkUnNZa3V5dkExYjVXdVpXVmQxSFVUZ3NkNTlBQktDdldicFNfTXJpMFk5azFNYks1QTk4?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 21:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KRlFYMWlBYXNpTmJFMXpqdkNlNF9oNjE3aEJjWTB0Y0dFdEZxTUpJOEZXbS1URjNDMW81TXVIX1o5dUxJWE1QS2xTQ0xoY1lZcDhv?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 22:07:00 GMT"
     },
     {
-      "title": "\"도이치·샤넬백 모두 유죄\"‥김건희 형량 2배로",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhbndFZG9qM290Y1dEbnVFQzJKUG1hYWRiSXRhVF95dkY3S2hFd0hPUDc0ZUVsNVNqRk81ZF9Nd2VLYThqTTF0eWJRWUs4NGhVS3ZlaDVvRDd0UUpYYk1hS1JZNUthNndwcGhVOWJjejRZLVBnSDdDUl9R0gF6QVVfeXFMT1Y3UE0wSUtUXzVZcEVxS1V0bFdlY3pObmw4aU1xLWZONEIwaUczWUxxbVZsTTRKaW84bHNhZmhjVy05WjIxR0ZTc3ZCQWE3dEFSSlZHcFhyZ2FuTUFEb0RTWThsejd2a01WNFhLa2xLaWhwNWRJeHZ2SkE?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 21:10:29 GMT"
+      "title": "[4월 29일 간추린 뉴스] 드디어 출시되는 '이환'!",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91R0piQ0hCVmxYdDYxYUQ5MVI4am1wM3VnMzlQMjF5TndPM1JSU2xUcUtDT1V1S1dZUWVEREFFbUpCWEJ3NmtnSlAySFlXXzV2SEdyMVNCZjB1UVM3LVE?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 22:00:01 GMT"
     },
     {
-      "title": "'남편 구속' 양정원, 오늘(29일) 경찰 출두…사기 혐의 대질 조사 [스타이슈]",
+      "title": "\"아랍에미리트 OPEC 탈퇴 결정은 트럼프의 승리\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hQkRIMVBraWZ4MURiLUdBX3Z0b3FsTVp1QzVhaURwcjJOeFlxSWc0MXpxWFF1MzFWX0dTdXBHaW9LREw2YmVobGQ3aUNxT09SZVVXYUNRVk1Zd0twQTVVRA?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 21:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETjd5ejhyNUZKSjdxUkVIcHBiLTdjLXAtcF9LUHF0d1ZtajBqeElhWjFkZko2UjRhaGNxMEtSRnhtSm1IS0FmTUVPZXREa3M3YmQtdG9wSGlETjZTN2QzQw?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 22:31:00 GMT"
     },
     {
-      "title": "[속보] 국제유가, 상승…WTI 3.7%↑",
+      "title": "LCC, 중국 '알짜 노선' 대거 확보…실적 반등 '초석' 마련",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3MndHOEdtcG1Bdm1UOWRNcWd2Q2xpUnk2QXlqaGszMTQ1N3owcHRyRG96MTJCcEtEWmRoSk9VY1hiNFQ2SmNKN3Fjb0hVNFBuSEZGRjV2cE9pemoxUEEwaw?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 21:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwc1lYRFNYNk55aXh6dWFlUHRQVVV0Rm54M21KREpLT1JpYkpQaG1GNEJGTk9ubElfRFM5bjBpR0o4MGx5bW9nMjA2MzNFZ1lXbjJJ?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 22:30:00 GMT"
+    },
+    {
+      "title": "흐린 수요일…일교차 15도 안팎·오전 안개 '주의'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qakU4bmEtQnQxaVF6RnhUTEdmdW9FUFBNWGNhRFJsSnU3Y0RSVmxMeHdvOEtMLWpSaEpJRVUxYWNRZW5jV3RxeklpNWhETzRkT3NJ?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 22:25:00 GMT"
+    },
+    {
+      "title": "최동석, '전처' 박지윤 명예훼손 의혹 속…'공동구매' 공지 올렸다 \"배송 지연\" [스타이슈]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCYXR2UlNqc3B5REJEY0IwNDY5cDBQOGpBenlNaU9NZ0dPZUZHZGpWNlJqUTRWLWZFd0x5WlpvekVxRHBxdTBZcnVnWXZCVWdVWk1lajFrem9ZZGJEel9oag?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 22:17:00 GMT"
+    },
+    {
+      "title": "[4월28일] MS 독점 풀어낸 오픈AI…'인류 번영' 슬로건 뒤엔 'IPO 셈법'",
+      "source": "AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56NDg2X0lpeUpkTnBiZVUycEIweXRGaFhmXzRxMUZJNTlkZi03bkowN0RrNGFrS2tJQkl1NWh0MkhrLWc1eFRma21YS1ByR2lUZXZLMnJCRDhaZU1TZElNU0wyMnNfd1RIMkE?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 22:00:00 GMT"
+    },
+    {
+      "title": "진주시, 이전 공공기관·우주청 임직원 '시설 이용료 감면' 추진",
+      "source": "노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LVVhNSDVBNXdoZ2JDOU1rRDJTem5pd1NsZnlxTWl0OTNQV0FNZThrSER5QVVsR014Y094YWRhNm12WURVRDJCUzFVQjhVY3NlU0E?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 22:09:00 GMT"
+    },
+    {
+      "title": "[오늘의 IR] 두산·한화솔루션·에코프로비엠 등",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XdFhDWmN6bzRqZXRCY1liQXRuOVhKLWZVZG1mbXZvTXpVVXpYbXVZRUZiYUdINkRWOFNyU1U5OXlBMjVrT2k0eDRENXo0Ul9ROVE0?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 22:04:00 GMT"
+    },
+    {
+      "title": "[아주증시포커스] 코스피, 사상 최고치 경신하며 세계 8위",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhdjh5cWJqODFmMk5jQmtDbmV5UTBRdmswN3RtNGJLTkgwd3c3UFg5MWNSTVZhV2dRUDFhU0pIdWRIY1h0Nk0yWmJpM3pQUmZxaWtWc1hhYzhsZ9IBWEFVX3lxTE9tNnBhSWlub3ktMV9VSGV1VTRzbFJQQml1NFYxbUl5bkFEeTFzbHRIekhXNWdlb0tZS2NWY3MzZlZJdy1fem9qTUpjTHpXRHdPWjJBLVVQMlE?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:51:00 GMT"
     }
   ],
   "sources": [
