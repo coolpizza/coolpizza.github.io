@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-29T05:44:26.756188+09:00",
+  "generatedAt": "2026-04-29T06:41:56.437418+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,473.50",
-      "change": "-1.50",
-      "changePercent": "-0.10%",
+      "value": "1,474.00",
+      "change": "-1.00",
+      "changePercent": "-0.07%",
       "direction": "down",
       "updatedAt": "2026-04-28 22:08"
     },
     {
       "label": "100엔/원",
-      "value": "923.01",
-      "change": "-2.22",
-      "changePercent": "-0.24%",
+      "value": "923.47",
+      "change": "-1.76",
+      "changePercent": "-0.19%",
       "direction": "down",
       "updatedAt": "2026-04-28 22:08"
     }
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "7.1°C",
-        "feelsLike": "5.4°C",
+        "temperature": "7.3°C",
+        "feelsLike": "5.7°C",
         "highLow": "최고 18.8° / 최저 6.9°",
-        "humidity": "87%",
-        "wind": "3.4 m/s",
+        "humidity": "84%",
+        "wind": "2.3 m/s",
         "rainChance": "0%",
-        "pm10": "22.1 μg/m³",
-        "pm25": "21.4 μg/m³",
+        "pm10": "30.0 μg/m³",
+        "pm25": "29.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "30",
-        "updatedAt": "2026-04-29 05:30"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-04-29 06:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "6.4°C",
+        "temperature": "6.5°C",
         "feelsLike": "4.7°C",
         "highLow": "최고 17.1° / 최저 6.2°",
-        "humidity": "91%",
-        "wind": "4.0 m/s",
+        "humidity": "92%",
+        "wind": "5.0 m/s",
         "rainChance": "0%",
-        "pm10": "22.1 μg/m³",
-        "pm25": "21.4 μg/m³",
+        "pm10": "30.0 μg/m³",
+        "pm25": "29.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "30",
-        "updatedAt": "2026-04-29 05:30"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-04-29 06:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "5.1°C",
-        "feelsLike": "2.5°C",
+        "temperature": "5.6°C",
+        "feelsLike": "3.3°C",
         "highLow": "최고 18.4° / 최저 4.9°",
         "humidity": "89%",
-        "wind": "7.2 m/s",
+        "wind": "6.2 m/s",
         "rainChance": "0%",
-        "pm10": "22.1 μg/m³",
-        "pm25": "21.4 μg/m³",
+        "pm10": "30.0 μg/m³",
+        "pm25": "29.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "30",
-        "updatedAt": "2026-04-29 05:30"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-04-29 06:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "6.6°C",
-        "feelsLike": "4.7°C",
+        "temperature": "6.5°C",
+        "feelsLike": "4.6°C",
         "highLow": "최고 17.3° / 최저 6.1°",
-        "humidity": "90%",
-        "wind": "4.5 m/s",
+        "humidity": "92%",
+        "wind": "5.6 m/s",
         "rainChance": "0%",
-        "pm10": "24.4 μg/m³",
-        "pm25": "20.0 μg/m³",
+        "pm10": "25.6 μg/m³",
+        "pm25": "21.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-04-29 05:30"
+        "airQualityIndex": "31",
+        "updatedAt": "2026-04-29 06:30"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "걸포주유소",
-        "address": "경기 김포시 금포로 1117-6 (걸포동)",
-        "updatedAt": "2026-04-27 19:51:02",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-04-28 23:53:40",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (29일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDekpiZmhLUUR3R3pjNXROT0V0MDRaYkFpZTlZczhmSTFsZGZvYzJVcHRjQ0FxM3pwdlAxdGhiZkc0WTFWc0FXcVQ5WkcxOWZ0YXFTaVd2aUQxdw?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 20:00:00 GMT"
+      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83dmJaeDVfLUx1d2JyalJaZzFiZVdfdzBQeGoyYjd1c0ZPMklBbVpmUVg2Z18xM1J0YWszZlpJcUEwQUZ1TWJYR1pDaTBPMDQ3VXduak5IUGVYZ3RybHdFbEExMEJ4TS1WV2c?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:04:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 광주·전남(29일, 수)",
+      "title": "[카드뉴스] 어린이날, 손주와 당장 떠나는 대형 축제 Best 8",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84VzZVWEJmMXBNMm1HbzIxajRVNENBOTZpbTJGOE1hcndOU0M1TWZJdWZ4UlBEamRXc0kyaGJjaC1xUm5idDNFa2FXUjBSd2tONG4wS3Z0VmxfQQ?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:00:00 GMT"
+    },
+    {
+      "title": "[26년 4월 29일(수)] 증시 선두서 이끈다…K-철강, 무더기 '상한가' - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZzdrZ1A2cmprX2c0TnhJYUFtTVJncWJzd0JKWUdUVDFzQVgwTmVsODBVdk1SNS10bk9nWnVtb19VanNGaVZ0STdwSm41MHR4OFNXOTlLT0VWcnYwX1A5ZFdNYzRPYVBWV2c0N0o4Qk0xM2xzSU5YMHp3MXE0WlNldg?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:34:06 GMT"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(28일) 주요공시]",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hLTZER3FXdWtiX19UcE5XSjNoenFObFlEM2FUanZaLTlhTVRCUlotMlc1Sm5SU1Y2RXpzUjVaUkFnRTBmZ05xeHc2ckprdTVBS3dzeExpSlE2Vk3SAWBBVV95cUxQSkJHWVc0dzRid2VpLWl3VWtYWDBFWEg4clVVZFJlS05fVFhKUGNBVXk0S2pnTFdRYWlWQmVhODM3RWZDa290OF9tcVV6bVlNeEdGajJnU3paVnFHZ1ZoaWI?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:05:00 GMT"
+    },
+    {
+      "title": "트럼프 \"이란 붕괴 상태\"‥미 유가 '천정부지'",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9weWdickN1TlJRbXBjUDJkQ0NMTDEwZFFPdFN2Wno4SFVGSFY2Z0J4QjRwZ0V5MWNZdEltLUg3QUVFMUlnZW53RlBzN0hGMkNBLVZpVXZzMEhRWXBRV21RTWRxQWRqbHZrLVZIQ3lIVUswYXdkaEZKcUNR0gF6QVVfeXFMTUxjakNnSzlENmo4amNGekVjVUI0LUhGeW5ncmhCQXQ0aXlEOUQ4T3VURVZBQ2xKRUJFWmsySDNCVnNYbEZ2bk5na212X0ZaMTlJcHNVZ1c0aXZGVE4wQi1HV0VtNE1QNFBYOERrWlIzU2gyV2VTdmQxY3c?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:04:38 GMT"
+    },
+    {
+      "title": "UAE \"다음 달 1일 OPEC 탈퇴\"‥독자 증산 예고",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nVmw4aVJMMGZQTU5PNVVVWGwxR1doaEFqNUQ1MkxoZm9CQ1E0cWJ2YXpKbzBxMHFYUFFFNFF6RTdWMVdJWHZ5X0l0N3lNemZ5OEhqU0g0LURyUk9KSkVBcEFhM2hublppZGU2NGJhcG5mczJTRmszOFZB0gF6QVVfeXFMT0hoaFJVQnlQYl9kSFBZMHhnd3lmZkRFOGJxaGptQjM3NGxpZERfUWVrLXhIQmtDUmNmWnNHdC1QZ0pmelpkdU9FbzFneUhCUFRtM3JDUjNITUlQemxTNmFlREVkVkdCaEt4RlNUb21Ia2c3Wl9fdnJBVEE?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:06:19 GMT"
+    },
+    {
+      "title": "주요일정(4월29일)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nQ3VYSTFNSTkzTC1uVWd3eUxOY2s0R0J5Rlk0b2d6OGtZYS1JdHI5U19CX0haWld5LTBOTTIyeHFPQjFaUXR1VnpvRFBta2ZsTUVF?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 20:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjclVSX2ZZeUpHUXlaTks1RXVhclcwR0tkUnNZa3V5dkExYjVXdVpXVmQxSFVUZ3NkNTlBQktDdldicFNfTXJpMFk5azFNYks1QTk4?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:33:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정]제주(29일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxUVZYQk9iXy1CQ0RkY3c3Y082VVMxeXZVSTVsQ1EyVl9vRkw0SERzWVVzN3FFV0hheUhlZk5UMkFxWjVmd3FCZ0JObDUzNUpU?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 20:00:00 GMT"
+      "title": "\"도이치·샤넬백 모두 유죄\"‥김건희 형량 2배로",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhbndFZG9qM290Y1dEbnVFQzJKUG1hYWRiSXRhVF95dkY3S2hFd0hPUDc0ZUVsNVNqRk81ZF9Nd2VLYThqTTF0eWJRWUs4NGhVS3ZlaDVvRDd0UUpYYk1hS1JZNUthNndwcGhVOWJjejRZLVBnSDdDUl9R0gF6QVVfeXFMT1Y3UE0wSUtUXzVZcEVxS1V0bFdlY3pObmw4aU1xLWZONEIwaUczWUxxbVZsTTRKaW84bHNhZmhjVy05WjIxR0ZTc3ZCQWE3dEFSSlZHcFhyZ2FuTUFEb0RTWThsejd2a01WNFhLa2xLaWhwNWRJeHZ2SkE?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:10:29 GMT"
     },
     {
-      "title": "[오늘의 주요일정]전북(29일, 수)",
+      "title": "'남편 구속' 양정원, 오늘(29일) 경찰 출두…사기 혐의 대질 조사 [스타이슈]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QQkh4ZkVibXJsd2M0NVFmWThQRkhGT1lfQUs4Nk1rY2p4Y2VhWFFBZHBsWmxITElFU2dJR2EwV0U5bVg0c2RSdXFNdF9UbE5sRDdB?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hQkRIMVBraWZ4MURiLUdBX3Z0b3FsTVp1QzVhaURwcjJOeFlxSWc0MXpxWFF1MzFWX0dTdXBHaW9LREw2YmVobGQ3aUNxT09SZVVXYUNRVk1Zd0twQTVVRA?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:31:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정]전북(29일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jY05ObVlySDVLSGo4YTZ2eGphTHJ2Y1FVY2txNzJVanBXV1dJMXljRU5HSGEtbkFyaXpaM3dBNzczZFEyNHRJRTZRNGxla0I0RDUxTQ?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 충북·세종(29일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBodFBGN1dnR1ZKNFpuT3loNFNOWkpGRElHcUE5TkRnY2QwSElfalV5UElxM3ByTWpRRUgzSGV4aDRTNnExNHdXZ2I1UGd1ZERKQVFLcTUxZGkzQ1R4c2dB?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 20:00:01 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 대전·충남(29일, 수)",
+      "title": "[속보] 국제유가, 상승…WTI 3.7%↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82UGk4N1lRZFBuMlhpV3IybWNza09ibDBwLThBWEJVUWlOYWk3UThIcEdGem5UdEZXT2o5cnJ5b2pFdExoaUJGWGdYVFRQVXFQZ3hB?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 20:01:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요 일정] 울산(29일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kQzNLeDJUR2Zqb21hdjhEcEJjbTR1Nmo4YUlDRmxlbUxyYzFSR2ZUQ3RuZHRONG9GVUxzZlBLLUhMRlJYdUd2cWpfc1FGazlvelE?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 광주·전남(29일, 수)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0UXFIemExU2EwMUlzb2VMS0hRelVZdi0zZU5KYmJzVHVNQUVIWUtUVFViUWJDb2o3QzQzdGVoRG5mV3VVWlM0UFNPc3FhS0dxNmltdkx2MGF5ZVZxekE0?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 경기(29일, 수)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JMzkxSTg3bjExZWl3WkZIVDFRM2ttVGp3WnBhVU5nOHFGWnRFSFJacVhqU0VTdnU5eEZ4WHM0NkNiWHBUdGp3bjlRUk9lWXhTOGVF?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3MndHOEdtcG1Bdm1UOWRNcWd2Q2xpUnk2QXlqaGszMTQ1N3owcHRyRG96MTJCcEtEWmRoSk9VY1hiNFQ2SmNKN3Fjb0hVNFBuSEZGRjV2cE9pemoxUEEwaw?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 21:07:00 GMT"
     }
   ],
   "sources": [
