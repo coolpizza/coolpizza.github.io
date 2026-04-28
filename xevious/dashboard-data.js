@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-28T21:02:43.459415+09:00",
+  "generatedAt": "2026-04-29T01:04:31.929735+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,113 +22,113 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,167.79",
-      "change": "-62.92",
-      "changePercent": "-0.13%",
-      "direction": "down",
-      "updatedAt": "2026-04-28 05:20"
+      "value": "49,249.00",
+      "change": "+81.21",
+      "changePercent": "+0.17%",
+      "direction": "up",
+      "updatedAt": "2026-04-29 00:59"
     },
     {
       "label": "S&P 500",
-      "value": "7,173.91",
-      "change": "+8.83",
-      "changePercent": "+0.12%",
-      "direction": "up",
-      "updatedAt": "2026-04-28 05:34"
+      "value": "7,124.19",
+      "change": "-49.72",
+      "changePercent": "-0.69%",
+      "direction": "down",
+      "updatedAt": "2026-04-29 01:01"
     },
     {
       "label": "나스닥",
-      "value": "24,887.10",
-      "change": "+50.50",
-      "changePercent": "+0.20%",
-      "direction": "up",
-      "updatedAt": "2026-04-28 05:15"
+      "value": "24,543.79",
+      "change": "-343.31",
+      "changePercent": "-1.38%",
+      "direction": "down",
+      "updatedAt": "2026-04-29 00:47"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,479.10",
-      "change": "+4.10",
-      "changePercent": "+0.28%",
-      "direction": "up",
-      "updatedAt": "2026-04-28 20:56"
+      "value": "1,473.50",
+      "change": "-1.50",
+      "changePercent": "-0.10%",
+      "direction": "down",
+      "updatedAt": "2026-04-28 22:02"
     },
     {
       "label": "100엔/원",
-      "value": "925.74",
-      "change": "+0.51",
-      "changePercent": "+0.06%",
-      "direction": "up",
-      "updatedAt": "2026-04-28 20:56"
+      "value": "923.56",
+      "change": "-1.67",
+      "changePercent": "-0.18%",
+      "direction": "down",
+      "updatedAt": "2026-04-28 22:02"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "이슬비",
-        "temperature": "12.0°C",
-        "feelsLike": "10.6°C",
-        "highLow": "최고 16.1° / 최저 10.3°",
-        "humidity": "69%",
-        "wind": "3.3 m/s",
-        "rainChance": "80%",
-        "pm10": "13.5 μg/m³",
-        "pm25": "12.8 μg/m³",
+        "summary": "흐림",
+        "temperature": "9.3°C",
+        "feelsLike": "7.8°C",
+        "highLow": "최고 19.0° / 최저 7.2°",
+        "humidity": "76%",
+        "wind": "2.4 m/s",
+        "rainChance": "0%",
+        "pm10": "16.2 μg/m³",
+        "pm25": "15.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-04-28 20:45"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-04-29 01:00"
       },
       {
         "location": "김포",
-        "summary": "약한 이슬비",
-        "temperature": "11.1°C",
-        "feelsLike": "9.7°C",
-        "highLow": "최고 16.6° / 최저 8.8°",
-        "humidity": "80%",
-        "wind": "6.2 m/s",
-        "rainChance": "80%",
-        "pm10": "13.5 μg/m³",
-        "pm25": "12.8 μg/m³",
+        "summary": "흐림",
+        "temperature": "7.5°C",
+        "feelsLike": "5.6°C",
+        "highLow": "최고 17.7° / 최저 6.6°",
+        "humidity": "92%",
+        "wind": "7.2 m/s",
+        "rainChance": "0%",
+        "pm10": "16.2 μg/m³",
+        "pm25": "15.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-04-28 20:45"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-04-29 01:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "10.6°C",
-        "feelsLike": "8.9°C",
-        "highLow": "최고 16.4° / 최저 8.6°",
-        "humidity": "78%",
-        "wind": "5.9 m/s",
-        "rainChance": "86%",
-        "pm10": "13.5 μg/m³",
-        "pm25": "12.8 μg/m³",
+        "temperature": "7.1°C",
+        "feelsLike": "4.9°C",
+        "highLow": "최고 18.8° / 최저 5.1°",
+        "humidity": "89%",
+        "wind": "6.9 m/s",
+        "rainChance": "0%",
+        "pm10": "16.2 μg/m³",
+        "pm25": "15.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-04-28 20:45"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-04-29 01:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "9.3°C",
-        "feelsLike": "7.7°C",
-        "highLow": "최고 15.5° / 최저 8.5°",
-        "humidity": "84%",
-        "wind": "5.6 m/s",
-        "rainChance": "15%",
-        "pm10": "18.6 μg/m³",
-        "pm25": "16.9 μg/m³",
+        "temperature": "6.8°C",
+        "feelsLike": "4.6°C",
+        "highLow": "최고 18.3° / 최저 5.3°",
+        "humidity": "88%",
+        "wind": "7.2 m/s",
+        "rainChance": "0%",
+        "pm10": "20.3 μg/m³",
+        "pm25": "17.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-04-28 20:45"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-04-29 01:00"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 4월 28일 (화)",
+    "todayLabel": "2026년 4월 29일 (수)",
     "areas": [
       {
         "region": "서울",
@@ -287,16 +287,16 @@ window.DASHBOARD_DATA = {
             "price": "1,973원/L"
           },
           {
+            "district": "송파구",
+            "price": "1,973원/L"
+          },
+          {
             "district": "양천구",
             "price": "1,984원/L"
           },
           {
             "district": "은평구",
             "price": "1,984원/L"
-          },
-          {
-            "district": "관악구",
-            "price": "1,985원/L"
           }
         ]
       },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "걸포주유소",
-        "address": "경기 김포시 금포로 1117-6 (걸포동)",
-        "updatedAt": "2026-04-27 19:51:02",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-04-28 23:53:40",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[뉴스7 대전·세종·충남 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xM0dVWlNiNWFGV1JTS2Q2TDd5bkRscUhVV2cyODU2MXRqclZFd29JMjAwZmc0cXBKTGwyZ0hOaDZ3OFI0aGlsNldfYlY4Z0ZTVDJNbVRyUS1fQWs?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 11:26:00 GMT"
-    },
-    {
-      "title": "[포토]'7회말 등판 역전허용한' 장현식",
+      "title": "[주요경제지표] 2026년 4월 28일자",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uREwzMk5aYnZ1U3p0cTFFbUd4MlltOXJPZmotbDZDLWRtUFNOeWJxZGVZeEhiamRVX2ZVdlJLMm0zU19kb1F3LVIxRmdwM1dNQmZRRktR?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 11:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FS3dVX3p6dEE4aDJLRlIwUnpYaFRMdWRDaTg5T29Wb2VTcDBBWGdDQVdJSGUwc1VfXzNHVGNIWWxKTEdEeUZzMGlVUjRrMnhyZ2ZibWNnNDl3Wm1xS0dYQ2hVN213aHpCQ3c?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 15:32:00 GMT"
     },
     {
-      "title": "성남시, 학교폭력 피해학생 조례안 “피해학생에 도움 아닌 혼란 우려”",
-      "source": "하나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11SC1nZ3RiLXd0TnU3cUpudGVMaDlHdU4yT0pydUxFZW1ja2JxaklWNkZ3TEFGS3Nwd3dUZEJBZGh0T2lNWkZlMWlMZnlIaXZQdy1pendxMXJYVlU5cHAyRWhoWFdIWVZ5RjdyUg?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 11:55:01 GMT"
-    },
-    {
-      "title": "사건반장",
-      "source": "JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiclJJN08wMW84ZE94VFI1NFpPTTRic0xiS1pPZ3htOFJCdWFfT05EUHlaTlZIV2hhY1dNRFN6Mm01cGhGQ01JMw?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 11:08:34 GMT"
-    },
-    {
-      "title": "日채용시장도 변화…\"주요기업 채용 계획서 경력이 절반 넘어\"",
+      "title": "[지표로 보는 경제]4월 29일",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4NTZ0bFg4QkZFMExmTFhyYWZiOXBXcVA0TExFTXhha284bW4yVGM2SURXa2ZLTFJYcVNzTFpoMEpvbEhxck9HdGFpVER5Q3YwdVhJ?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 11:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oTHJtcEIyMlBuT1QtNzVLUUgwLUhmdlpteG4zR2FDZkpZeVRFQkJaRFdmWHhSM0JCSnpWOUNXQXNBYjhuc1JiSkF3d3ZMcW1FTkVLb2dWSVRmZnlPdkFzbHJEX2xtMGhhYW9neTBn?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 15:31:00 GMT"
     },
     {
-      "title": "하남시의회, 서울-하남 잇는 ‘이음하천’ 밑그림 완성… “경계 허물고 상생의 물길 연다”",
-      "source": "하나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Q3JpWWMySnBtMndaWC1NMC1Bb3lpM1ZtdFV2MURvR25BTTU2bkpsa1YwcHFkbVd4bjk0N2t0R0VUQ1dlTmpDZkkxNWZpYmtMWXlVYnRXNVZtTmV4ZWotLUJiX1AtY2h4cW5fVw?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 11:23:44 GMT"
-    },
-    {
-      "title": "[PRNewswire] 콘셉트 메디컬, 시로나 3년 예비 데이터 발표",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uNlIyc204bWdVTHg4ejJqVFJuSVVsZm8zd3ByQlhSUk80ejVZcld2RzRYWG55VjNDblpuazRHMEItUndUNFFtOUktdFhFa3F2Nkkw?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 11:53:00 GMT"
-    },
-    {
-      "title": "안양시, 공공 건축 품질 향상 및 안전 강화 워크숍 개최",
-      "source": "하나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMGhUeEVzWWpqSEhZcWRQcG9MbGs3LWdsMElSRS1oQm9YTExUMENuRkpTNDBjRUdSNXAtT3VlZHF2Q29WQkNuS19tYTBoQ0M5T2otRWpvS1FlSVY1TlRvN292emROcnNwekpHYg?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 11:23:12 GMT"
-    },
-    {
-      "title": "NPT 개막부터 미·이란 '부의장 선출 공방'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qY2FtaENRbVBEclRiUFpPV2l0RnBnc2haZXhSUDRyS0FHdk9oUm4wM2Nsbk5uc0Q1R013b1A2VDIyT1NqRFhMS0dyMWx4cWNpOGJ1bnBrRi1KVm5rMkFPRA?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 11:56:00 GMT"
-    },
-    {
-      "title": "[포토]'7회말 무실점 웰스 이어 등판한' 우강훈",
+      "title": "[포토]'한점더 고마워!' 염경엽 감독",
       "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcEV6U203LXNWN2xNTkFqZTUwcnRQc2xDVnpVcVdVQmJsa3JQdGRuZFVuLTZEY1dTZjFoZVFvQ3NMeU5pQnd0czhFQWp5Y3JuUDdXTUZzcU9CVl9L?oc=5",
-      "publishedAt": "Tue, 28 Apr 2026 11:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUmxLTlhMSEtEcGgwbmY4dEUtbk1WbVRKc1FNdXNJS29kaXp6a0NNV1FGVGdEMUlBRXg3OFhuSGk2UWJUdEI4Si1rNFF1bFJkU1RoYnMybnRVWVQ4?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 15:45:00 GMT"
+    },
+    {
+      "title": "트럼프 \"이란 '붕괴 상태' 처했다고 알려와\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JR1o0OFNDRkdGZ04tb0U4MU1jNFBNUUhYZTZ1cVBrbV8xR2RVbFRnaTBQbl9QcnZuSzlzOHo1SV9sRXJuZDRwXy1CamQ4U1l1Y2ZVdGJKWjRxVlUxUE9JMDNqOGlGMkpxQnc?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 15:19:00 GMT"
+    },
+    {
+      "title": "[포토]'박동원이 이 파울볼만 잡았더라면' 끝내기 패는 없었을텐데….",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vX01uQmhjbUNKOHVkeE5QQ1RmQTY1aEthMU5TR2JzSDVOVG54ZTd0eG85UVB2WmotSjNIeEl4ZEE2NnRLUGp0QVpJZXdXZnBjMUlJbzBkenpWQ3luS3RyRg?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 15:53:00 GMT"
+    },
+    {
+      "title": "[포토]2점을 지켜라! '7회말 무실점 웰스 이어 등판한' 우강훈",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2MUlJWWYtUlN5WHZrWGttSE9lT1R5My1RVVRSS1dvSDZRSGE1Q3YxbDBtai1WTjgyS0xoUk9NcmJRWVVMT0xneC1jTGNGTHVYalpOTjhJa2trTFFB?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 15:33:00 GMT"
+    },
+    {
+      "title": "[포토]'하…최원준 빠르네' 오스틴",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEMG8xTXZMMEV3TXkwWmswb0gwSFFiYUtPZlZQdy1pbHR5Mkt3TDZrTWdQcWZtUlZkdUhMVzJRM0IyNTVFX3l6dzlLLTdyVWI0UUc5U3RYQlBMQWdG?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 15:26:00 GMT"
+    },
+    {
+      "title": "[포토]'1회부터 터지는구나!' 염경엽 감독",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OMkhDYnVDWkNVN0FWa01uTFZlWWloMHBzTkpIVzV0UlVQY1pLMHZOaUNZUUJTS29SM1U5ZDBQN1VRYzh1YWNWNUlSbWhUUEN4WTFSdHhJamxuUzMt?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 15:16:00 GMT"
+    },
+    {
+      "title": "UAE, 다음달 1일 OPEC·OPEC+ '전격 탈퇴'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5laDQwdXNmY0NuTjRrOEMwb0c2UmJza3I3TnVDcFJGWTZxQVZTbTllamVMQ25BZjZ3WFVNX2JUODBTVzFrWmI3bHdxT0lQc3pYMlhj?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 15:12:00 GMT"
+    },
+    {
+      "title": "[천자칼럼] K치킨 전국지도",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12ZGVaQmthdEh5NFNKR0RhNHpyUkNGbXJ0SjY1X01ha0c5eFl3VVNqTHgzQkxKNHdEdy11a0JBWkp2N29oUWczakJLTWdQMUJhQVdV?oc=5",
+      "publishedAt": "Tue, 28 Apr 2026 15:29:00 GMT"
     }
   ],
   "sources": [
