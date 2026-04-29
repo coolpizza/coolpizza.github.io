@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T20:12:39.730128+09:00",
+  "generatedAt": "2026-04-29T21:28:41.374751+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,478.50",
-      "change": "+4.00",
-      "changePercent": "+0.27%",
+      "value": "1,478.40",
+      "change": "+3.90",
+      "changePercent": "+0.26%",
       "direction": "up",
-      "updatedAt": "2026-04-29 20:05"
+      "updatedAt": "2026-04-29 21:18"
     },
     {
       "label": "100엔/원",
-      "value": "925.36",
-      "change": "+1.31",
-      "changePercent": "+0.14%",
+      "value": "924.84",
+      "change": "+0.79",
+      "changePercent": "+0.09%",
       "direction": "up",
-      "updatedAt": "2026-04-29 20:05"
+      "updatedAt": "2026-04-29 21:18"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.0°C",
-        "feelsLike": "11.0°C",
-        "highLow": "최고 18.8° / 최저 6.7°",
-        "humidity": "56%",
-        "wind": "4.7 m/s",
+        "temperature": "12.2°C",
+        "feelsLike": "10.6°C",
+        "highLow": "최고 19.0° / 최저 6.7°",
+        "humidity": "63%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "pm10": "20.0 μg/m³",
-        "pm25": "18.6 μg/m³",
+        "pm10": "23.3 μg/m³",
+        "pm25": "21.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-04-29 20:00"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-04-29 21:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "11.0°C",
-        "feelsLike": "9.3°C",
+        "temperature": "10.3°C",
+        "feelsLike": "8.9°C",
         "highLow": "최고 17.1° / 최저 5.8°",
-        "humidity": "83%",
-        "wind": "8.3 m/s",
+        "humidity": "88%",
+        "wind": "6.6 m/s",
         "rainChance": "0%",
-        "pm10": "20.0 μg/m³",
-        "pm25": "18.6 μg/m³",
+        "pm10": "23.3 μg/m³",
+        "pm25": "21.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-04-29 20:00"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-04-29 21:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "11.1°C",
-        "feelsLike": "9.7°C",
-        "highLow": "최고 18.0° / 최저 4.7°",
-        "humidity": "78%",
-        "wind": "5.0 m/s",
+        "temperature": "10.4°C",
+        "feelsLike": "8.8°C",
+        "highLow": "최고 18.4° / 최저 4.7°",
+        "humidity": "79%",
+        "wind": "5.8 m/s",
         "rainChance": "0%",
-        "pm10": "20.0 μg/m³",
-        "pm25": "18.6 μg/m³",
+        "pm10": "23.3 μg/m³",
+        "pm25": "21.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-04-29 20:00"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-04-29 21:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.2°C",
-        "feelsLike": "10.6°C",
+        "temperature": "11.1°C",
+        "feelsLike": "9.9°C",
         "highLow": "최고 17.6° / 최저 6.1°",
-        "humidity": "69%",
-        "wind": "5.8 m/s",
+        "humidity": "76%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "10.8 μg/m³",
-        "pm25": "10.5 μg/m³",
+        "pm10": "10.6 μg/m³",
+        "pm25": "10.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "36",
-        "updatedAt": "2026-04-29 20:00"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-04-29 21:15"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-29 14:56:46",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-29 15:02:34",
         "districtSamples": [
           {
             "district": "계양구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[한국뉴스 TV] 26년 4월 29일 (수) 오늘의 주요뉴스",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbDdQOGs3YmFEQlg1QXZnX2tVMHI2d2xubmljX1hBOG9MYXZabUM1ckIxMEVoNThNN3lnWlhKRkRtckZONnB5VWRBZ1FfWlNlR1cxclQwU0ZROXpfN3l1dE5wenl0QjQ?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 10:21:10 GMT"
+      "title": "[영상뉴스]오늘의 주요뉴스 2026년 4월 30일",
+      "source": "영남경제",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fX2FZMXdXY2gtc09PQk9UNlpjYlY3UXNPZnQzY1YzNUhrN1k4NXVhTFdMS09hMVl0T1lLVkNYdGpWVzlQWFMwanhZNVhTM2ZVZmRQZk51SzRpTFpLWTkxLUtlQlZpNms?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 12:19:52 GMT"
     },
     {
-      "title": "트럼프, 백악관서 에너지업계 회동…이란 긴장 영향 논의",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fZkxUN1ZCcjIyQW0tcm9yV2xVQ0s4Q3ZsenRLOFNyVFphYjJIbXJ6aE9xeVE2YWFIUkU2V0g0NG5DS2NlWkJ5UFZRSHN1bzg5MWpUNFdCaU0?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 10:44:54 GMT"
-    },
-    {
-      "title": "주요주주 와이즈얼라이언스, 크리스에프앤씨 주식 보유 증가",
+      "title": "트럼프 \"이란, 빨리 상황 파악해야\"…종전 협상 압박",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnMUlmcnhRWm5pUV9OSVZQMFA3MlZ4b3lrUC1mRGZ2Rjh0RlBwSkJkaHltVzlkYmZ4d1JKQy1ZMEJfdjEwT1RTU0EwZHRqZWFyWl9z?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 10:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RTzIwZk1TS1ZSRF9oTEVueldOTTNfOFdFejlpb3p3OE1lRzBnaTRSNlRTNnFCcjVMdzdSSWZfNGt3YzVhcGE3STY2Q3BiR0RGZGFZ?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 12:11:00 GMT"
     },
     {
-      "title": "버드데이트(BUDDATE), 美 EWG 공식 'Earth Day Dinner' 참여",
+      "title": "에코프로, 1분기 영업이익 602억원... 실적 반등",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yemdFOWcxaG5CbUlTdnNiQjlIX3V2SXQ2T1hHTTZVUWhYYlRqYVY4dXVOT3RNWkRieFNYWEpobDhYc3hRRzFUX01PNmFvbFlodWM2YU9WRWRPbDJsZS05OTIzZXU2RkllVzMw0gFvQVVfeXFMTWdGT0J2Z3k1bG9KNmJPcEtHalotX2ljRzRNV3BaNUVnVXV6Z0t5dHItdC12T0x1NW9TWkhwWFdPNl92SEg3T3J3Y0ZjWE5UeHdOOURoRHB3ZDdSVHZJSVpqVk54bHctcko0NS1vWGdn?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 12:00:00 GMT"
+    },
+    {
+      "title": "주美대사관 경제·공공외교공사 교체…외교부, 주요국장 인사 단행",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mRC1jLWZSYTc5SnI2MFFnMUd2UDctbXgtYnpUN3dlNk11bnNZcnFhZl9VZGNOUy1tWFFfQ3hRUXl6NHpXRGQwNkdvZzVzdktoUEE4?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 10:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIMHIyd0k2d1NJOWVpZ3Z5UlVlZWYyUVhobFYxdWJaZjRqb2ZxMS1MMVFTY1hieFRGY3ZMOE5qNkhPS2RkRzhYN3FYazVibUE3Q1FCUEtYREx3LV9HWHNVUw?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 12:20:00 GMT"
     },
     {
-      "title": "[행복한 동행]DL, 싱가포르 라텍스 신공장 안정화…영업익 222% 껑충",
+      "title": "한정애, 키르기즈 고위 인사 만나 수자원 협력방안 논의",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ndU92Q3pQODlkSC1hMTFGY1c5dGpVZi1VZ1QtekQtbmR1b1dWbEU1UlF0d2tuR0tOSUt1VGdWb3JDZkdVbjVMdXAyM2ltWHFxZHdN?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 10:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VdUZSbENIY3RaWlNSRnZvVHBhRlVmM1lrUTFHRXp2cnpFaTNLUHFleUxOa3VkdUlpTldZSHBrLXI3M1FFNGREakxEMW11TGVaeUhj?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 12:09:00 GMT"
     },
     {
-      "title": "[포토]'제대로 던졌다!' 이엘리야",
+      "title": "\"2026~2027년 대공황, 더 부자 되려면…\" 기요사키 조언",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuZlBmYk1mcWN2UUxraGE4LTF0bzktNkhQM0ZHZGtwMklfOVVaLVNjbXBPaGx6bElZQ0RTV2k0WDZPbDBKc1BvS3hkMUFibWVOblFYUF9sbFZ3VFdwNGdmRA?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 10:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kU0dsc2Z2blNRcDZmdmVGS0kwZ01aT1R4MzIxcXBhcVFSUUxOUVdBS0k5bmNncWZOaGkxZzFlbkMwLWxwbXEtUExiNnJEcVRPTWhJ?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 12:13:00 GMT"
     },
     {
-      "title": "평창군·강원신보, 중동정세 어려움 겪는 소상공인 지원",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12dlVCYnQ0aHlPRFQwZWpPVjc5ZnB5WDY1YmZCOEFjUE93SEpmbGduMXVyTUZwNnNYU19oWlVDODNEZmdrN1dNRlJlck9oOWNLTnNKaA?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 10:29:17 GMT"
-    },
-    {
-      "title": "'체포방해' 유죄 다시 확인…\"공수처에 수사권 있다\"",
+      "title": "[포토]'어제의 아픔은 잊었다' 삼자범퇴 박영현",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aZ2xwckV2VXlXNWRld1pWc2xDYUlOTGxYUnRUVXpkeUQydWdicnNQem9TQmxvN21yY0llenRIV2xldXNtRFhmdGNFbHpyQ3lGcC0w?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 10:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YjFpby1xSHUwbUZMTkpTVktPVUY5SzVnZ01Ud1NWMWRQLUJfV3JPSXg2STlIV2JneTAzSWZmQUw0NEFxMGhkQmlnWXUxeWVMUWEzQjZB?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 11:58:00 GMT"
     },
     {
-      "title": "S&P, 한국 국가신용등급 AA 유지…등급 전망 '안정적'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGYmh0VUhzcS1zUVRzNGo5T0U4S0gwMi1QMHZULTlVSmh6ZDczSkc5ckRNVDhGbm5HakdLcllnaDBremdFQVYyVU96NzJNd1MzMWJ1NWZjQThpYU85X3Q4cw?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 10:50:00 GMT"
+      "title": "방미통위, 롯데카드에 과태료...\"개인식별 번호 안전조치 없어\"",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vbFNxRzNpUFRJeHRZNDZLOGsyQ3dHbU5FOFFuOEEtbkhUQjR2aWkwOWVsTl9ZbjgyeVhaTDVYc0pBbDdaSjNLejJaZGZPcUJpNXdhRUdB?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 11:44:23 GMT"
     },
     {
-      "title": "정동영, 해임요구 野 향해 \"美의원이냐…숭미 지나치다\"",
+      "title": "남양주 단열재 공장서 불…대응 1단계 발령",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nTElKM1ZJUlBUdzdwSExoUW1XREVNTDcySWU2NENKVlVpNDRRZC14OFZiOHl5M29jM0stN2hFUXNiWDRFSFBadzJZSk12VFNtWjkw?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 10:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5od3lfdEVyMnY0ZmpTNHFCc01hU3UxTTdiZ1h1RlNzUG1EN3FfTmlUS041dEFNTkp1VEhnT2Y2ZkQ2ZDNXekY3ek8yeEd6cVROenEyUmJtaDVhT2phaU9MUGhFdnJ5VzRPUFNzUXQyczJMUlV6RXNaNg?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 11:40:00 GMT"
+    },
+    {
+      "title": "[비하인드 뉴스] \"당적 바꿨잖아\" 서로 공격…근거는 '나무위키'?",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50REJpNTZjVllrdTJyR28wc3Y0NVdOYWtfaWRhOHVuRkdldnJQemUtb0VBSzZSbm5XN3dkdGpUbTBzX25RU0ExS094RU8xU1k1VGRB?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 11:44:00 GMT"
     }
   ],
   "sources": [
