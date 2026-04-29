@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T01:19:11.663521+09:00",
+  "generatedAt": "2026-04-30T02:52:33.386827+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,806.06",
-      "change": "-335.87",
-      "changePercent": "-0.68%",
+      "value": "48,835.97",
+      "change": "-305.96",
+      "changePercent": "-0.62%",
       "direction": "down",
-      "updatedAt": "2026-04-30 01:01"
+      "updatedAt": "2026-04-30 02:35"
     },
     {
       "label": "S&P 500",
-      "value": "7,128.98",
-      "change": "-9.82",
-      "changePercent": "-0.14%",
+      "value": "7,123.94",
+      "change": "-14.86",
+      "changePercent": "-0.21%",
       "direction": "down",
-      "updatedAt": "2026-04-30 01:06"
+      "updatedAt": "2026-04-30 02:40"
     },
     {
       "label": "나스닥",
-      "value": "24,628.43",
-      "change": "-35.37",
-      "changePercent": "-0.14%",
+      "value": "24,590.32",
+      "change": "-73.48",
+      "changePercent": "-0.30%",
       "direction": "down",
-      "updatedAt": "2026-04-30 01:01"
+      "updatedAt": "2026-04-30 02:35"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,486.00",
-      "change": "+11.50",
-      "changePercent": "+0.78%",
+      "value": "1,488.10",
+      "change": "+13.60",
+      "changePercent": "+0.92%",
       "direction": "up",
-      "updatedAt": "2026-04-29 22:03"
+      "updatedAt": "2026-04-29 22:06"
     },
     {
       "label": "100엔/원",
-      "value": "927.42",
-      "change": "+3.37",
-      "changePercent": "+0.36%",
+      "value": "928.44",
+      "change": "+4.39",
+      "changePercent": "+0.48%",
       "direction": "up",
-      "updatedAt": "2026-04-29 22:03"
+      "updatedAt": "2026-04-29 22:06"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "10.4°C",
-        "feelsLike": "9.4°C",
-        "highLow": "최고 21.0° / 최저 8.5°",
-        "humidity": "82%",
-        "wind": "2.2 m/s",
+        "temperature": "9.7°C",
+        "feelsLike": "8.8°C",
+        "highLow": "최고 21.1° / 최저 8.1°",
+        "humidity": "85%",
+        "wind": "1.8 m/s",
         "rainChance": "2%",
-        "pm10": "37.6 μg/m³",
-        "pm25": "36.3 μg/m³",
+        "pm10": "38.6 μg/m³",
+        "pm25": "37.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-04-30 01:15"
+        "updatedAt": "2026-04-30 02:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "9.2°C",
-        "feelsLike": "8.0°C",
-        "highLow": "최고 20.1° / 최저 5.2°",
-        "humidity": "89%",
-        "wind": "3.9 m/s",
+        "temperature": "8.7°C",
+        "feelsLike": "7.5°C",
+        "highLow": "최고 20.2° / 최저 5.6°",
+        "humidity": "91%",
+        "wind": "3.4 m/s",
         "rainChance": "2%",
-        "pm10": "37.6 μg/m³",
-        "pm25": "36.3 μg/m³",
+        "pm10": "38.6 μg/m³",
+        "pm25": "37.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-04-30 01:15"
+        "updatedAt": "2026-04-30 02:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "8.7°C",
-        "feelsLike": "6.8°C",
-        "highLow": "최고 19.9° / 최저 7.4°",
-        "humidity": "84%",
-        "wind": "6.1 m/s",
+        "temperature": "8.5°C",
+        "feelsLike": "6.9°C",
+        "highLow": "최고 20.1° / 최저 7.2°",
+        "humidity": "87%",
+        "wind": "4.7 m/s",
         "rainChance": "0%",
-        "pm10": "37.6 μg/m³",
-        "pm25": "36.3 μg/m³",
+        "pm10": "38.6 μg/m³",
+        "pm25": "37.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-04-30 01:15"
+        "updatedAt": "2026-04-30 02:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "9.0°C",
+        "temperature": "8.9°C",
         "feelsLike": "7.5°C",
-        "highLow": "최고 20.7° / 최저 7.4°",
-        "humidity": "87%",
-        "wind": "5.0 m/s",
+        "highLow": "최고 20.8° / 최저 7.2°",
+        "humidity": "83%",
+        "wind": "2.9 m/s",
         "rainChance": "49%",
-        "pm10": "17.5 μg/m³",
-        "pm25": "15.9 μg/m³",
+        "pm10": "19.9 μg/m³",
+        "pm25": "18.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-04-30 01:15"
+        "airQualityIndex": "31",
+        "updatedAt": "2026-04-30 02:45"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-29 23:31:27",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-29 18:02:20",
         "districtSamples": [
           {
             "district": "계양구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[주요경제지표] 2026년 4월 29일자",
+      "title": "美국방 \"韓, 국방비 늘리는 모범 동맹…특별한 호의 받을 것\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12b2ZwZU93VXBoM1JldFlIV1R0bnhUUmlfNHVWaVFFa3J5dFRXRmxSbUs2alFrb2ViVDdTb0c0SkJJYVM2RGdtLVVnNHZ3NlVuWkMxZ3lpTXU?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 17:38:14 GMT"
+    },
+    {
+      "title": "폴리텍, '비전2040' 실현 미래위 출범",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90SzNfQ212eERpUHF2OGZtU0ZaX0h1VTdwV04wajA4ZjNPaHdBakEtcUhZSkI4QlNpeHI1MFJXekFaeTlOdERRUGNJQ0tzY3NnclQ4dVBKVjVoa1VNRy1oYTdrMG5tekktN0E?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 15:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tMk1tUGxMZEszQWk1ejJmZ2VaREFsbkhwUEdJaGVreWhEWE8xX01ZaE84WGtTV3IzVThZVlhBbmVSaFk3Ulo4MUJ3VTVfbnNHV1VB?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 17:19:00 GMT"
     },
     {
-      "title": "[청년골프] 깔끔한 백스윙에 나이스 샷 박현경",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GdXJISlFVLV9MTldXMU9uQi0xb21IcWhlZ0dnUnIySTk1bk1fSXlkWTBRM01PNndQMWlNTUNicm1mT3RmV0toN25udlJyOGRFeTRfc2RoNnFlbXowSVBfZXRXc0hxVlA5bkE?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 15:19:18 GMT"
+      "title": "캠벨 \"中, 대만에 야심…트럼프 방중 시 '독립 반대' 압박 가능성\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mSXRhS0VXdmM2ODRjSV9DeUM0bm9QVDFBUWc1N3NDMnUtY1NtQXR6R05Nb2ctTHNZUEhPRTRqTnA1T1c4U3lOYThNLWRpVlQ0VU1UVEktOGc5SDB3Tmc?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 17:15:04 GMT"
     },
     {
-      "title": "\"외모 스트레스는 자기 관리가 아닌 '꾸밈 노동'\"",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wOTJBMjRoaV9NcktZeThkbTZUQnlNNnJNXzhMajFRMDZaaWhENm9RZEpoQzBGOU50X2cwYVZuWUtGZTZRX3lZazdGUExDU1J3ajBlNlNUWWdZbXY4aS1XWmVaNzVoTjg3RjFj?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 15:30:50 GMT"
-    },
-    {
-      "title": "배우 최지수, 두산 30일 잠실 홈경기 마운드 오른다 \"두산이 승리할 수 있도록\"",
+      "title": "유동규 \"성남 부조리 李도 알았다…남욱, 권력 무서워 거짓말\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QYm1nVkFFU29OTFdaUmo3YWxDLW93d2hBbHVfZFpucnNPMnRFNzVOeDEtTEFBdkdFTGU2VkppYm5NWTBpaVBoUWh0T3BYUnVyazhqeWxzNGNvWmc3QmdYSw?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 16:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wQS1lM1ppTklzSmFub0JQaElNMTA2M2hFYTg5TjZIdEY1VFNVOEtFX09XY2NySng2bjFoNHF2ekpGQnJqdm1PNmktTFpTOWxHRm9j?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 17:29:00 GMT"
     },
     {
-      "title": "\"성장 vs 교체\"…당진시장 선거, 도시 미래 놓고 격돌",
+      "title": "유동규 \"성남 부조리 李도 알았다\"…권력 무서워 진술 번복",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10V3NPZE9mX0Z2ZVFaVXBhTElwN0RyUXU1X0J1OFFwRTZWd2E0R3VmUEhnTG5nSDZIRTJWbU9RXzZ3eE03YVdoSDNQZUw4RlRHWW8w?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 15:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10YzktdUhxLWVMVm1OYlJPOXFKWVpJeWYyOHFNM1U5ZWxZbmxsR2ZXVmRnbkUwTVhjNTlONjNCTXVSZWN1WS16RkNndXJ3SG84cFRN?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 17:25:00 GMT"
     },
     {
-      "title": "증시 활황 속…'해외 빌딩 투자' 리츠株 폭락",
+      "title": "'에너지 감옥' 호르무즈…세계 경제를 가두다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VblRYR0NmRFdKMXc4MVpaSHhaWFVSZWpHN2tDMTFWcHk0a2JPcVVYdXRHZ0xyX2FVR0FRYWdSaG5BbXdpajlOdFkwbGh6VjcyYXFj?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 15:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OYXgwWTNNX3BVdHJJX2Q3ck5UeEJCZ05SYzZYaGI0UDlWeklSM1BDZWdVSmVrRXQ3SVNMaU5GT0VEdFBNOHItNW5PWXZsVnZkcFlR?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 17:09:00 GMT"
     },
     {
-      "title": "하루 평균 외환거래액, 1분기 152조원 사상 최대",
+      "title": "경북도, 우즈베키스탄 주요 대학과 광역형 비자 협약 확대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yajRUN3c5TnF5MzAtbG1fa0dEUllXSUpBcDFnVkdRM2pad3lKdGcwMWMyUW1IQ3oxUDluak1VNDM0MllncDRadDY0MWdhY0JsbUM0?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 15:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YdmNld3ozQWhESkZXTDlRVUFjTUpfXzBKRTBWSW1SbjVydHVCc3hFWFhySEN4T2tfd3hTYkJJVDlNdFljQXl2QjhGREcyUG5XUkt3?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 16:53:00 GMT"
     },
     {
-      "title": "[속보]뉴욕증시 기술주 중심 약세 다우존스 나스닥 하락",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvN05fSXBEUmg0alhybGhhSC1sZmFkdG91RTFPODRhSzgxcGVoQnYySkFsUVR1cUcwR0wza1NfWGQyMnoyRG4wRU5WVWxubWlLQV9VeDdWblprdW9mVzRjc0w5TXl4REFE?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 16:05:00 GMT"
-    },
-    {
-      "title": "5대 은행 예대금리차 1.5%p, 4년 만에 최대",
+      "title": "유동규 \"성남 부조리 이재명도 알았다…남욱, 권력 무서워 거짓말\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41M2NCdTJZOXAxRnFLVV9NQ2Y4MHBUckVCQ0Q0d0M0eW1CTnFnaDlZQmdSUFRpQ0xxRVE1QTU4c0tPdl93Z3k2YVB3TzRJeWVpVmpPMy1PQlZuNS1HN2J2U1dHUmFWa3JXaFE?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 15:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fUTFGZHlIdkJzUm1tT19zZFJLY3NtdEg5V3hJSDRIUDV0UG5HT2tHdHJTOXg3ZThmMVNiNDk5TzZFN0E0bWZ2S1pVcURGZFJZM1hr?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 16:56:00 GMT"
     },
     {
-      "title": "우리 밖으로, 우리도 나가봐?",
+      "title": "그래미 어워드 수상자 제이슨 므라즈, 11월 14일 KINTEX 1홀서 공연",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Kb1pDb2RvZkZRVUJSdnM0ZF9LQjFHcDFETHRzeEU4ekVlYkxialczQXl3a3h6RVJXdXpxMHZlYi1tMEw3VWhYZzQ5Z2FjQnphVWdZ?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 15:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wR25ZaE5XUHRoOVBpVjU3YzdMNWhDenFmTml4bTNadDdlSF9iUU56SmJhS2JQamdhVkRhSG5GYmVmZ3RVUTk5WDhKSjVsVDloaHI4?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 17:02:00 GMT"
+    },
+    {
+      "title": "강소라X안재현, KISF 2026 '글로벌OTT어워즈' 사회자 선정",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TUVVVam9xSG5BeGxjei1Wa1dzX3RsMVNYYjhVNWgwQ3pVVTVWQzgwZE92U2ZjT1J4M1dtOE1KS0JhVGRjT0pMLXV5emdtLUdRRXVIU2dlTm9ERkxRR0tiOU5iV3FPM2RD?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 16:53:00 GMT"
     }
   ],
   "sources": [
