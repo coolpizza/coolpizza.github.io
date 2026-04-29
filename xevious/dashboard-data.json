@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-30T07:14:41.689809+09:00",
+  "generatedAt": "2026-04-30T08:14:39.673692+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
       "value": "6,690.90",
-      "change": "+49.88",
-      "changePercent": "+0.75%",
-      "direction": "up",
-      "updatedAt": "2026-04-29 16:08"
+      "change": "-0.00",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-30 08:09"
     },
     {
       "label": "코스닥",
       "value": "1,220.26",
-      "change": "+4.68",
-      "changePercent": "+0.39%",
-      "direction": "up",
-      "updatedAt": "2026-04-29 16:08"
+      "change": "-0.00",
+      "changePercent": "-0.00%",
+      "direction": "down",
+      "updatedAt": "2026-04-30 08:09"
     }
   ],
   "usMarkets": [
@@ -56,9 +56,9 @@
     },
     {
       "label": "100엔/원",
-      "value": "927.48",
-      "change": "+3.43",
-      "changePercent": "+0.37%",
+      "value": "928.03",
+      "change": "+3.98",
+      "changePercent": "+0.43%",
       "direction": "up",
       "updatedAt": "2026-04-29 22:12"
     }
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "8.4°C",
-        "feelsLike": "7.1°C",
+        "temperature": "10.2°C",
+        "feelsLike": "8.9°C",
         "highLow": "최고 20.9° / 최저 7.5°",
-        "humidity": "85%",
-        "wind": "2.3 m/s",
+        "humidity": "76%",
+        "wind": "1.9 m/s",
         "rainChance": "2%",
-        "pm10": "47.3 μg/m³",
-        "pm25": "46.3 μg/m³",
+        "pm10": "45.5 μg/m³",
+        "pm25": "44.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-04-30 07:00"
+        "airQualityIndex": "50",
+        "updatedAt": "2026-04-30 08:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "7.4°C",
-        "feelsLike": "6.0°C",
+        "temperature": "10.4°C",
+        "feelsLike": "9.6°C",
         "highLow": "최고 19.9° / 최저 5.8°",
-        "humidity": "97%",
-        "wind": "3.9 m/s",
+        "humidity": "86%",
+        "wind": "2.5 m/s",
         "rainChance": "2%",
-        "pm10": "47.3 μg/m³",
-        "pm25": "46.3 μg/m³",
+        "pm10": "45.5 μg/m³",
+        "pm25": "44.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-04-30 07:00"
+        "airQualityIndex": "50",
+        "updatedAt": "2026-04-30 08:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "7.3°C",
-        "feelsLike": "5.6°C",
+        "temperature": "10.1°C",
+        "feelsLike": "8.9°C",
         "highLow": "최고 19.9° / 최저 5.9°",
-        "humidity": "88%",
-        "wind": "4.0 m/s",
+        "humidity": "77%",
+        "wind": "1.4 m/s",
         "rainChance": "0%",
-        "pm10": "47.3 μg/m³",
-        "pm25": "46.3 μg/m³",
+        "pm10": "45.5 μg/m³",
+        "pm25": "44.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-04-30 07:00"
+        "airQualityIndex": "50",
+        "updatedAt": "2026-04-30 08:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "8.2°C",
-        "feelsLike": "6.3°C",
+        "temperature": "10.8°C",
+        "feelsLike": "9.1°C",
         "highLow": "최고 20.4° / 최저 7.0°",
-        "humidity": "82%",
-        "wind": "5.1 m/s",
+        "humidity": "70%",
+        "wind": "3.9 m/s",
         "rainChance": "49%",
-        "pm10": "30.7 μg/m³",
-        "pm25": "29.2 μg/m³",
+        "pm10": "34.2 μg/m³",
+        "pm25": "32.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-04-30 07:00"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-04-30 08:00"
       }
     ]
   },
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-04-29 15:53:16",
+        "stationName": "봄까치셀프주유소",
+        "address": "전북 익산시 평동로 796",
+        "updatedAt": "2026-04-30 00:58:33",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "주요뉴스(4월30일~5월1일)",
-      "source": "매일노동뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QSkJyQWZnYWV5QklzWlQyLVRnd05uNG11ajhDcXhYUEpMMXBZVDNadDZCbmpqRy1xRHM2eGhHUUhCNV9VRTdBTFlhbGZxVDRzVXgyTTE0QnJjLVlBWUxfSXFPOWVQZ29ESzFhWU9yRE4?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:30:05 GMT"
+      "title": "[AI기자의 News Briefing] 4월30일 오늘의 주요 뉴스를 전해 드립니다.",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvSGxWbHRUOFpCSVFFbWRXSWFtd2pfbUcwcVNkX2dsM1pWbFQ1RG1sUHM3ckpINVdqUDdqNHNIMmxiNDg5UFhXbmMwRVpYWGRPVFhDa1BDcVRwRDBFdFFweXRYSWNLenhwTEE?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:16:23 GMT"
     },
     {
-      "title": "4월 30일 여수시 주요일정",
-      "source": "남해안신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wOGVJZ1RXMHFlcDU3NndtTEMzMFhMWUtjQS13dExCampXZy10WjFMYnY2R2VqZ0pVRUF5U01iVFpLc0tyVGJkY2g1TmJORERXTjZrNzZHckRfZ0xBcEZFaWhXZzhUdWRh?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:40:57 GMT"
+      "title": "[뉴스광장 전북 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vNWRhWjhPS1dURjRXLUY1XzlOeU85R2pVZ1c5UW1SeU1NMWtfX3VpTExzWU1yak5DNTlOT3h4XzNzd3JNTTJ6cldMb0tBZVYxX08tMUhnYnRCSlk?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:34:00 GMT"
     },
     {
-      "title": "1분기 中企 수출, 화장품·반도체 견인…중동은 '반토막'",
+      "title": "4월 30일 굿모닝 MBN 이 시각 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WOF9XR2g2Q2xONUJRc1ctemhBQ0xHbVF4VEZReW9VRWhoV2I1NFJqUzd2ZkxlMFB3T1l1NHpTcEcxS21NRXZJQkx4cDhieHVHakhBQkJtOXZMRmxNYmxMYQ?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:55:00 GMT"
+    },
+    {
+      "title": "[뉴스광장 울산 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JWFZuTGxfeTJpbFNOejg3eUhmNUtNMDNha0RvbTIyaE5JZmhzLTR5N29mOWU0b1A4N1k5Q2dlOXUxS3hhRVJ4YUNCeVhLMGo1MXQ4dmlaLWwwUHc?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:34:00 GMT"
+    },
+    {
+      "title": "하나증권 \"바이오, 이벤트 공백 속 옥석가리기…시총 3500억이 수익률 분수령\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnSExZellVYU1QX1hielhGaUtFal9hejV2TXA3ejBkbGNRckNVU0dwTk44UkJacFJCTmN0UG9CX3BjX2dPaU9zRHk0bnpFRHlCMG1wSlJrMmpfc2VBX0pzNA?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:56:00 GMT"
+    },
+    {
+      "title": "파라다이스 호텔 부산, LIV 골프 공식호텔 됐다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTbzlmd1VreUNCX2V4NEpxUGItSmZrTldNRkJzejVlMUNqQ1M2SE5GS1FyRE1FRF8zeldQOHlNMmwyYmE3cFZ3YlhTdnYzdWNpWmp3?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 23:03:00 GMT"
+    },
+    {
+      "title": "스마트글라스로 설비 본다…AI가 정보 즉시 표시",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zS1NJVkZsaFVIY054NWFmZllXdzNYbW9rcEdWQkpYVmRZMEdPS2ZWWktwYTlwbWw5NkJUdlNXcnYyUldLOGhTT3drbk9tZkhpMHlV?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:41:00 GMT"
+    },
+    {
+      "title": "한국 자산 65%가 부동산…경제구조 경고등",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UTFFSRTNEMkRZRDBlb1Z1UVpCUWlJTHdaeXZZTE01SlItS19MN05yZWQwTVR2SW94ME5LcnRadUpMNGdjMTlFdmhSYjVYMnZyV0NN?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:40:00 GMT"
+    },
+    {
+      "title": "인텔 12.06% 폭등, 반도체지수 2.35% 급등(종합)",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEU1NjWGwwUGxIaWxDaWM5bTdHaFc0Skd3eExjRi1tV05hS19HOElDbHctN2h0V2hOSnRLWlZrd3hJbTZJczNfdzhMZ1AtcG1JZ1kyYTItekZuLXl2?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:55:12 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3VFJNWUt5YWp0TnJWbkpybXpxZDVuYzBHZy1jZjl0bFF3R1hyS1BLQnZHdzhRWTZqbzlvWGJHUlA2amVZMGotcTZFdlJ1U2pyYWsxOGl2LWs?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 23:02:36 GMT"
     },
     {
-      "title": "[26년 4월 30일(목)] \"5월엔 팔아라\" 공포의 격언…코스피 질주에 '초조한 개미들' - 비티의 오늘 주요 뉴스 요약",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNV9mZmtjU1pZVVIxcXU2c0lpRTd2SFpUUHAtQVlZaDhnN1ZOcHhKWjB4ZnhHeHF3aHVjSEkzbVBmQTUxWE4wd2lHMktmNXZLdl9WU0VpWHY2c2Z0eU5UalZScEZSVjdHOXVXOWprcEF1VXU2eGU5RW5EbDIwODZmaQ?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:34:29 GMT"
-    },
-    {
-      "title": "박찬대 인천시장 예비후보, 뉴시스와 인터뷰",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OOWV3WjNDYmZwLWNyd3MxWmplRHZYdWF0WVdZWVdxZDNxLVNiZ1lWRUhmVGFGOEJUV3NhZVVIU3NJZlNpbTdlZHJjcjJsNC02Z1B2bHdJaS1GdGdIdnVVTQ?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 22:01:00 GMT"
-    },
-    {
-      "title": "[4월 30일 간추린 뉴스] 로그라이크 슈터 명가의 또 다른 신작 '사로스'",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CMk9wakk4NmdsZm1wSjZEM3EwRlBEalcyWXNhbTdTSzZqOTJxaWNTUlA2eGI5NkM2ZE1vNEJfRVpxWFI0M09VRDc4bGZGX0pDeTVZX0gxaUYwZzFDWWc?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 22:00:01 GMT"
-    },
-    {
-      "title": "[오늘의 청약 일정] 정동롯데캐슬136 당첨자 발표 등",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05a0lmNGYwNVJRMzFGQkZLOW16Nm9IektlTUN4UzVxd1JHTFphM0FyazhsdWVzWGNneGRJUTVkelVOWEw3VVc4RWZ1REI1MXpTWlZfUV91R1Z1TV9KbGVlSmxFT3dNRnp0R1FDenE0dUpPWE03?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 22:00:00 GMT"
-    },
-    {
-      "title": "'중국전기버스, 정조준' 현대차, 수소전기버스 보급 앞장서는 진짜 이유[Why]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CRGd3TG1DWk5WRWJZQlYxNU5Kako0MHVLVi1Tc2lOSER0QmtTS2hJUnNXSDdkUURfQUhIcXhZUUFPeGRYOVRQMUFuZkxOcFBPbHZOMkI3N0dvb3ZFaHd4R3BMUTRDblV2c1Ftamtjb0pyOXlDX2ZOSw?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 22:06:00 GMT"
-    },
-    {
-      "title": "[속보] 뉴욕증시, 혼조 마감…나스닥 0.04%↑",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FeHUyb1NvTFFRekZVZV9yaUtYZzFsb0VHR2xOR0IxYVNVNVdJcXRtQmRJTWJTX3ZNcTZNQ0ltdXhxemZINzVHSzB3MHdpRGVFUDBmb1JZTVdyUFFXblZzME1TWWY0ckdPd3NlcXJOd2N5bkVV?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:27:00 GMT"
-    },
-    {
-      "title": "최대호 안양시장 후보 \"시민주권시대로 재도약\" 다짐",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83WWxoYlRWWmN2Q2ZWTlZySldLWXRLVXhrN2xXNHJaRmhJR0hFMWxTTzF0cThEVmJTR3FLempUZkZKa1hLLXFtUXo1NFRwYi1UTWVz?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:37:00 GMT"
+      "title": "[아주증시포커스] 오픈AI 악재도 이겨냈다…코스피 6690.90 사흘째 최고치 경신 外",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aZ2xzR3NTTnRkTl9DMmJCSHNqMXpXYV9JdWhHMmNZWklwbl9zajNiTzVZZmFQMjdsendBZV81RzZmMXhSdV9KNTN0Yl91dVdOblV4VGZRRG5qUdIBWEFVX3lxTE43bUdyQ3FhVFcycHh3UWRGUlJkeWdDN29FTVdHUjd3RWc5NnJBbFIyTUNYZUhCdmdmR3Q0d2dFS28tYktTam9tTkVZZnFnRG8zUHd6OWR6Szg?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:43:00 GMT"
     }
   ],
   "sources": [
