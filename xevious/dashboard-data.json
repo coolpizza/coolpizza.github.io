@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T18:25:41.064172+09:00",
+  "generatedAt": "2026-04-29T20:12:39.730128+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,479.40",
-      "change": "+4.90",
-      "changePercent": "+0.33%",
+      "value": "1,478.50",
+      "change": "+4.00",
+      "changePercent": "+0.27%",
       "direction": "up",
-      "updatedAt": "2026-04-29 18:17"
+      "updatedAt": "2026-04-29 20:05"
     },
     {
       "label": "100엔/원",
-      "value": "925.93",
-      "change": "+1.88",
-      "changePercent": "+0.20%",
+      "value": "925.36",
+      "change": "+1.31",
+      "changePercent": "+0.14%",
       "direction": "up",
-      "updatedAt": "2026-04-29 18:17"
+      "updatedAt": "2026-04-29 20:05"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "15.6°C",
-        "feelsLike": "13.4°C",
+        "temperature": "13.0°C",
+        "feelsLike": "11.0°C",
         "highLow": "최고 18.8° / 최저 6.7°",
-        "humidity": "49%",
-        "wind": "6.5 m/s",
+        "humidity": "56%",
+        "wind": "4.7 m/s",
         "rainChance": "0%",
-        "pm10": "16.9 μg/m³",
-        "pm25": "15.4 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-04-29 18:15"
+        "pm10": "20.0 μg/m³",
+        "pm25": "18.6 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "34",
+        "updatedAt": "2026-04-29 20:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "10.4°C",
+        "temperature": "11.0°C",
+        "feelsLike": "9.3°C",
         "highLow": "최고 17.1° / 최저 5.8°",
-        "humidity": "70%",
-        "wind": "12.2 m/s",
+        "humidity": "83%",
+        "wind": "8.3 m/s",
         "rainChance": "0%",
-        "pm10": "16.9 μg/m³",
-        "pm25": "15.4 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-04-29 18:15"
+        "pm10": "20.0 μg/m³",
+        "pm25": "18.6 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "34",
+        "updatedAt": "2026-04-29 20:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "14.4°C",
-        "feelsLike": "12.2°C",
+        "temperature": "11.1°C",
+        "feelsLike": "9.7°C",
         "highLow": "최고 18.0° / 최저 4.7°",
-        "humidity": "57%",
-        "wind": "8.2 m/s",
+        "humidity": "78%",
+        "wind": "5.0 m/s",
         "rainChance": "0%",
-        "pm10": "16.9 μg/m³",
-        "pm25": "15.4 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-04-29 18:15"
+        "pm10": "20.0 μg/m³",
+        "pm25": "18.6 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "34",
+        "updatedAt": "2026-04-29 20:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "14.4°C",
-        "feelsLike": "12.4°C",
+        "temperature": "12.2°C",
+        "feelsLike": "10.6°C",
         "highLow": "최고 17.6° / 최저 6.1°",
-        "humidity": "65%",
-        "wind": "10.1 m/s",
+        "humidity": "69%",
+        "wind": "5.8 m/s",
         "rainChance": "0%",
-        "pm10": "15.0 μg/m³",
-        "pm25": "14.1 μg/m³",
+        "pm10": "10.8 μg/m³",
+        "pm25": "10.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "39",
-        "updatedAt": "2026-04-29 18:15"
+        "airQualityIndex": "36",
+        "updatedAt": "2026-04-29 20:00"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,972원/L",
         "lowestDistrict": "금천구",
-        "stationName": "㈜씨더블유이엔지",
-        "address": "서울 금천구 남부순환로 1410 (독산동)",
-        "updatedAt": "2026-04-29 08:24:25",
+        "stationName": "㈜씨더블유 이엔지 금천지점",
+        "address": "서울 금천구 독산로 147",
+        "updatedAt": "2026-04-29 09:13:46",
         "districtSamples": [
           {
             "district": "금천구",
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-04-29 14:59:37",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-04-29 15:53:16",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "\"백악관, 다시 앤트로픽 AI 쓰기로…행정명령 준비\"",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YVm9yNExIZWMzQUhpQUZpa09uS01VeFV1Z21SS0pxRnE1WGtHODhGaW85X2R0S1JCQUsyMVFVNDdyVFRNSGE0ZnNpaFFZVnd3VWZhODR2dURsWnPSAWBBVV95cUxObEE2cEMtWVJySHFwUTlETHRBT2R6SFFqeXZPM3VUU2gyVTVEQnNwcFNsajhRc29ENjBDYklhRjB6VFV6TTRfbk1UMUk0RTBzSEd1MEJpTjBwd3BrYVJRMGI?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 09:17:42 GMT"
+      "title": "[한국뉴스 TV] 26년 4월 29일 (수) 오늘의 주요뉴스",
+      "source": "24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbDdQOGs3YmFEQlg1QXZnX2tVMHI2d2xubmljX1hBOG9MYXZabUM1ckIxMEVoNThNN3lnWlhKRkRtckZONnB5VWRBZ1FfWlNlR1cxclQwU0ZROXpfN3l1dE5wenl0QjQ?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 10:21:10 GMT"
     },
     {
-      "title": "건보공단 당지지사, 장기요양기관 정보공유협의회 개최",
-      "source": "당진신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iQ0h5b1lyZ3B2NEpYMm1uZG12aUJIOWhQNnYwWXlWci1HRklFby1FUk9tTXVRbmpaNDlzYnhCUmUtQmZrVXg4M0MtaU9rRFpIZllQMGF1NmpPS05UNEZfUjFXaWxOemZo?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 09:01:54 GMT"
-    },
-    {
-      "title": "종근당, 1분기 영업이익 176억…전년 比 37% 상승",
+      "title": "트럼프, 백악관서 에너지업계 회동…이란 긴장 영향 논의",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQzdMQTFVZVY3cG91Z0FHem1NWS1MNWUwT0pYYTJ2dXQ3cm1xZ0JXckh6RTlCYXFZZ0lnb3NiMFgzRlQwUjkxQ2tmSDhkQ1dza0Z5enVtTU5VaXhNeVlLdQ?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 09:03:56 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fZkxUN1ZCcjIyQW0tcm9yV2xVQ0s4Q3ZsenRLOFNyVFphYjJIbXJ6aE9xeVE2YWFIUkU2V0g0NG5DS2NlWkJ5UFZRSHN1bzg5MWpUNFdCaU0?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 10:44:54 GMT"
     },
     {
-      "title": "한국대나무발전협회 ‘이사회 및 임시총회’",
-      "source": "교차로저널",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnZDYyc24zZ21nV0drVFlBYUJoeGRPS2h1MHg5Y3E0RHFNSmZYVG8tMTVOcTFFZGRDN3BtN2c3dVhaT2cyR2pmZzhla1F6a1ZXZjBBYkhsVFU3dHhiUXBMZDZBRVNnbmt5?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 08:50:43 GMT"
-    },
-    {
-      "title": "[주요 공시] 4월 29일 오후",
+      "title": "주요주주 와이즈얼라이언스, 크리스에프앤씨 주식 보유 증가",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PbEc2YmV5UWNkcjBpOWh3dTJKNEF1SG9MX3JwWjJkREgzb0pvU2d5NENsWk1QM3ZGRHNHTWtwM0RWMHM4NmVub2ZoTm9FU1pZVndJ?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 08:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnMUlmcnhRWm5pUV9OSVZQMFA3MlZ4b3lrUC1mRGZ2Rjh0RlBwSkJkaHltVzlkYmZ4d1JKQy1ZMEJfdjEwT1RTU0EwZHRqZWFyWl9z?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 10:36:00 GMT"
     },
     {
-      "title": "마리오아울렛 “글로벌 IP 아우르는 복합 문화공간으로 전환한다”",
-      "source": "ipnn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FVkFzWnJXTHZDRmN4dDVCem56MTRwRnZPdHJxdkZpZ1R1WjRXbUppeFNaaGRpc2hVV0kyVUZvVU1GLU0zTFJJY2xtcjMybW82aTRiTVlfRnliLXdyUVZqOGtmQ0V0S3A4?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 08:44:37 GMT"
+      "title": "버드데이트(BUDDATE), 美 EWG 공식 'Earth Day Dinner' 참여",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mRC1jLWZSYTc5SnI2MFFnMUd2UDctbXgtYnpUN3dlNk11bnNZcnFhZl9VZGNOUy1tWFFfQ3hRUXl6NHpXRGQwNkdvZzVzdktoUEE4?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 10:46:00 GMT"
     },
     {
-      "title": "방미통위, TBS 조건부 재허가…상업광고 '이례적' 허용",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00SmNRY1J0emo3OS1DVmZGbVR6b0hGWENSX0RObVdPWjZxNTJxM1ZXcENRVnEwOG03YW0wY1JqdVptbllIelAtM2dFM0d1YnpZcGcwSjhvYUpzdFpBSEJqVVBWY2VIR3p2SExWWkR3QTNiTDdnMVE?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 09:12:32 GMT"
+      "title": "[행복한 동행]DL, 싱가포르 라텍스 신공장 안정화…영업익 222% 껑충",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ndU92Q3pQODlkSC1hMTFGY1c5dGpVZi1VZ1QtekQtbmR1b1dWbEU1UlF0d2tuR0tOSUt1VGdWb3JDZkdVbjVMdXAyM2ltWHFxZHdN?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 10:52:00 GMT"
     },
     {
-      "title": "바임, '쥬피터 아나토미 워크숍' 성료…볼륨과 피부 질 동시 개선",
+      "title": "[포토]'제대로 던졌다!' 이엘리야",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuZlBmYk1mcWN2UUxraGE4LTF0bzktNkhQM0ZHZGtwMklfOVVaLVNjbXBPaGx6bElZQ0RTV2k0WDZPbDBKc1BvS3hkMUFibWVOblFYUF9sbFZ3VFdwNGdmRA?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 10:18:00 GMT"
+    },
+    {
+      "title": "평창군·강원신보, 중동정세 어려움 겪는 소상공인 지원",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Oa3ZwRDZkZkJIdzhjMWJ5OVI3MjZVLUE5MkRqcFNWU1ZoT1NWZ19ZVWVQVV9UWXN1N3QyRXc0ako4TU1LNzFrcldGWXpNTUljcHFUYnBR?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 09:04:06 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12dlVCYnQ0aHlPRFQwZWpPVjc5ZnB5WDY1YmZCOEFjUE93SEpmbGduMXVyTUZwNnNYU19oWlVDODNEZmdrN1dNRlJlck9oOWNLTnNKaA?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 10:29:17 GMT"
     },
     {
-      "title": "코스피 최고치에 '빚투' 사상 최대…증권사 신용융자 제한",
+      "title": "'체포방해' 유죄 다시 확인…\"공수처에 수사권 있다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1falRtVTlTRDhIMTROMmR4WklPeVEzeF8xMjd0Um1Ta0ZtRG5EWWZJX3VtRmNDclRjYU4xZmEtaFZkSU51Q1g2TFpKcFhVbjZTbFR6Qnd2OWZ4X1ZxbWRmMA?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 09:11:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aZ2xwckV2VXlXNWRld1pWc2xDYUlOTGxYUnRUVXpkeUQydWdicnNQem9TQmxvN21yY0llenRIV2xldXNtRFhmdGNFbHpyQ3lGcC0w?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 10:59:00 GMT"
     },
     {
-      "title": "우상호, 매머드급 특보단 위촉…김진태, 대규모 선대위 출범",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fNDR2QXpGbXJuZDdlR29MbGZQVDBVdTdoa01sRE9mQ250ckoyMmxXa2ZNb1lOVFVzQ0NiZ1FleV9hT1ZnMmlTU1g3UzNpQUUzTmoxLUo5c2N1eEXSAWBBVV95cUxPR3pkNWI2TnNZaXZlSndzUURyOHJ4eGJzeDNVbTBiMnV3bHJWc2EwQ2wxdU9DbUxqZ19NUGpXMFdybml6Y2M1ZG5XclFwWTBzb3dkYV9RTWRoY0NuaUZTLXc?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 08:52:19 GMT"
+      "title": "S&P, 한국 국가신용등급 AA 유지…등급 전망 '안정적'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGYmh0VUhzcS1zUVRzNGo5T0U4S0gwMi1QMHZULTlVSmh6ZDczSkc5ckRNVDhGbm5HakdLcllnaDBremdFQVYyVU96NzJNd1MzMWJ1NWZjQThpYU85X3Q4cw?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 10:50:00 GMT"
+    },
+    {
+      "title": "정동영, 해임요구 野 향해 \"美의원이냐…숭미 지나치다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nTElKM1ZJUlBUdzdwSExoUW1XREVNTDcySWU2NENKVlVpNDRRZC14OFZiOHl5M29jM0stN2hFUXNiWDRFSFBadzJZSk12VFNtWjkw?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 10:59:00 GMT"
     }
   ],
   "sources": [
