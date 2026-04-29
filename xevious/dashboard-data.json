@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T06:23:57.821281+09:00",
+  "generatedAt": "2026-04-30T07:14:41.689809+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "7.7°C",
-        "feelsLike": "6.2°C",
+        "temperature": "8.4°C",
+        "feelsLike": "7.1°C",
         "highLow": "최고 20.9° / 최저 7.5°",
-        "humidity": "88%",
-        "wind": "2.7 m/s",
+        "humidity": "85%",
+        "wind": "2.3 m/s",
         "rainChance": "2%",
-        "pm10": "43.9 μg/m³",
-        "pm25": "42.7 μg/m³",
+        "pm10": "47.3 μg/m³",
+        "pm25": "46.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-04-30 06:15"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-04-30 07:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "6.1°C",
-        "feelsLike": "4.3°C",
+        "temperature": "7.4°C",
+        "feelsLike": "6.0°C",
         "highLow": "최고 19.9° / 최저 5.8°",
-        "humidity": "98%",
-        "wind": "5.8 m/s",
+        "humidity": "97%",
+        "wind": "3.9 m/s",
         "rainChance": "2%",
-        "pm10": "43.9 μg/m³",
-        "pm25": "42.7 μg/m³",
+        "pm10": "47.3 μg/m³",
+        "pm25": "46.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-04-30 06:15"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-04-30 07:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "6.1°C",
-        "feelsLike": "3.8°C",
+        "temperature": "7.3°C",
+        "feelsLike": "5.6°C",
         "highLow": "최고 19.9° / 최저 5.9°",
-        "humidity": "90%",
-        "wind": "6.9 m/s",
+        "humidity": "88%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "43.9 μg/m³",
-        "pm25": "42.7 μg/m³",
+        "pm10": "47.3 μg/m³",
+        "pm25": "46.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-04-30 06:15"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-04-30 07:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "7.2°C",
-        "feelsLike": "4.9°C",
+        "temperature": "8.2°C",
+        "feelsLike": "6.3°C",
         "highLow": "최고 20.4° / 최저 7.0°",
-        "humidity": "85%",
-        "wind": "6.8 m/s",
+        "humidity": "82%",
+        "wind": "5.1 m/s",
         "rainChance": "49%",
-        "pm10": "29.0 μg/m³",
-        "pm25": "27.1 μg/m³",
+        "pm10": "30.7 μg/m³",
+        "pm25": "29.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "31",
-        "updatedAt": "2026-04-30 06:15"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-04-30 07:00"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-04-29 18:00:43",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-04-30 00:59:29",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[코스피·코스닥 전 거래일(29일) 주요공시]",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kaVZzNUY4bG9lWHBiQm5TYTRJcEUyWEJrTnpMUnlTN0hSeUJUdUdsYk1xVTl1NEFORGtMN2tyYW9yajFZTHdKVWdzTWZUMTk0LXVSXzVsRV9ISXPSAWBBVV95cUxNOXJNQ0hSSU1qUnBPbEpmV2k3NnF0ZWd6dWZZZW1Ed2E3MDNFdEFiRE1lX0dDZnBKdUwzek1sTEZxZVlLRUVDWW52VXpTenVuRFBQYTlTa2lPejR1cERkNF8?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:05:01 GMT"
+      "title": "주요뉴스(4월30일~5월1일)",
+      "source": "매일노동뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QSkJyQWZnYWV5QklzWlQyLVRnd05uNG11ajhDcXhYUEpMMXBZVDNadDZCbmpqRy1xRHM2eGhHUUhCNV9VRTdBTFlhbGZxVDRzVXgyTTE0QnJjLVlBWUxfSXFPOWVQZ29ESzFhWU9yRE4?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 21:30:05 GMT"
     },
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "title": "4월 30일 여수시 주요일정",
+      "source": "남해안신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wOGVJZ1RXMHFlcDU3NndtTEMzMFhMWUtjQS13dExCampXZy10WjFMYnY2R2VqZ0pVRUF5U01iVFpLc0tyVGJkY2g1TmJORERXTjZrNzZHckRfZ0xBcEZFaWhXZzhUdWRh?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 21:40:57 GMT"
+    },
+    {
+      "title": "1분기 中企 수출, 화장품·반도체 견인…중동은 '반토막'",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEU1NjWGwwUGxIaWxDaWM5bTdHaFc0Skd3eExjRi1tV05hS19HOElDbHctN2h0V2hOSnRLWlZrd3hJbTZJczNfdzhMZ1AtcG1JZ1kyYTItekZuLXl2?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 21:55:12 GMT"
+    },
+    {
+      "title": "[26년 4월 30일(목)] \"5월엔 팔아라\" 공포의 격언…코스피 질주에 '초조한 개미들' - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNV9mZmtjU1pZVVIxcXU2c0lpRTd2SFpUUHAtQVlZaDhnN1ZOcHhKWjB4ZnhHeHF3aHVjSEkzbVBmQTUxWE4wd2lHMktmNXZLdl9WU0VpWHY2c2Z0eU5UalZScEZSVjdHOXVXOWprcEF1VXU2eGU5RW5EbDIwODZmaQ?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 21:34:29 GMT"
+    },
+    {
+      "title": "박찬대 인천시장 예비후보, 뉴시스와 인터뷰",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LbTBSMWxwN3NFSGFtVXdOSWR6ekVkYlhyNEplM0lKQW10WC1UWHVsVVRzRF9TWU5YUnM5ODVxVWR2QjhrZGNuSDJzQlJuNThZV3Z3?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OOWV3WjNDYmZwLWNyd3MxWmplRHZYdWF0WVdZWVdxZDNxLVNiZ1lWRUhmVGFGOEJUV3NhZVVIU3NJZlNpbTdlZHJjcjJsNC02Z1B2bHdJaS1GdGdIdnVVTQ?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:01:00 GMT"
     },
     {
-      "title": "[청년골프] 임팩후 자세 유지하는 지한솔",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4dGNuOFk2RkQxcHNqTGpwZmt2QWE5WjBENjdqWmJjV3JXYWpsRzBHR2RqcXJueFdrYzV2eUZpM0ZzSWJjMzYtcVdGTmZjcEs5MmUzcEhIQXU2Y2o3NmJGUWZhMmJXNUJ6TVE?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 20:30:28 GMT"
+      "title": "[4월 30일 간추린 뉴스] 로그라이크 슈터 명가의 또 다른 신작 '사로스'",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CMk9wakk4NmdsZm1wSjZEM3EwRlBEalcyWXNhbTdTSzZqOTJxaWNTUlA2eGI5NkM2ZE1vNEJfRVpxWFI0M09VRDc4bGZGX0pDeTVZX0gxaUYwZzFDWWc?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:00:01 GMT"
     },
     {
-      "title": "알파벳 1분기 매출 1099억달러…시장 전망치 훌쩍 웃돌아",
+      "title": "[오늘의 청약 일정] 정동롯데캐슬136 당첨자 발표 등",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05a0lmNGYwNVJRMzFGQkZLOW16Nm9IektlTUN4UzVxd1JHTFphM0FyazhsdWVzWGNneGRJUTVkelVOWEw3VVc4RWZ1REI1MXpTWlZfUV91R1Z1TV9KbGVlSmxFT3dNRnp0R1FDenE0dUpPWE03?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:00:00 GMT"
+    },
+    {
+      "title": "'중국전기버스, 정조준' 현대차, 수소전기버스 보급 앞장서는 진짜 이유[Why]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yNjBad0ozU25jSjZoUUJuYk1acU5XM1ZGNXZuaE9CNnZadF8wRDRfYzVUZEdSZ21zeDRRdjVOaHlVRkJEQjFrX0hBX0dDa2RjV2hFd0ZEbkt0QnJ1T0FXbw?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 20:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CRGd3TG1DWk5WRWJZQlYxNU5Kako0MHVLVi1Tc2lOSER0QmtTS2hJUnNXSDdkUURfQUhIcXhZUUFPeGRYOVRQMUFuZkxOcFBPbHZOMkI3N0dvb3ZFaHd4R3BMUTRDblV2c1Ftamtjb0pyOXlDX2ZOSw?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 22:06:00 GMT"
     },
     {
-      "title": "MS 분기 매출 829억달러…시장 예상치 넘어서",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zbXFnQnZ4VDNUbUd0Y1pac3RhSWVZSjkxYWg1Y3kzQnVqU3ZBdkpMMi1Fd3hzMWtzSkowS3dad1VyYkRpa3k1U20zV1d2cnYzM0g1d1R6SXd5YUo2QU9hbg?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 20:59:00 GMT"
+      "title": "[속보] 뉴욕증시, 혼조 마감…나스닥 0.04%↑",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FeHUyb1NvTFFRekZVZV9yaUtYZzFsb0VHR2xOR0IxYVNVNVdJcXRtQmRJTWJTX3ZNcTZNQ0ltdXhxemZINzVHSzB3MHdpRGVFUDBmb1JZTVdyUFFXblZzME1TWWY0ckdPd3NlcXJOd2N5bkVV?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 21:27:00 GMT"
     },
     {
-      "title": "서울디자인재단, '약자동행' 디자인 확산한다",
+      "title": "최대호 안양시장 후보 \"시민주권시대로 재도약\" 다짐",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xWmZzd09XN3NzU1pfUVNyckhxdF9wLWxqUG9mak8ySmhPd2RXQXVUQmVVV1pQR0lrZkVaNnZsazN2MjRwc0FHbE9tNGdrbUV5Ulc0?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:00:00 GMT"
-    },
-    {
-      "title": "'마약 자수' 래퍼 식케이 오늘 항소심 선고",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJbW5iNllyUFQzRUZtZTQzZ19vNWRtVGI1b3VBSmV5WjVFYlZwSWdSaXNHREtheEdoaHBsNUJoUHprY2RJbW9DVzVwdHpqdVRCTW1Z?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:11:00 GMT"
-    },
-    {
-      "title": "메타 깜짝실적…1분기 매출 33% 증가",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05ejNGY1ZjYzE3N21LSkNlaFBJSjluaVprei12YWRyTks0dkNYNVpqLUg4bDlhYnVkZkxWbDdXWVNBaVQ2VTNxd243M2FXUzBJTXdVOGdlODhDY2RLTDF4ZWowemhCT3V0dV9UYmZidkwwR3lZTFFndw?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 20:47:00 GMT"
-    },
-    {
-      "title": "롯데멤버스, 카드 출시 1주년 기념 경품 행사 연다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EaTh1RVcwbkZNU0VPYlBxR2s2QmVMa3FzZVJvZmVXZHpzVUExb1R1bkt2aEg3Sk90aS1wZE94WDFUeVMyU0dmaUxubU9Gb0ZrMzBn?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 21:00:00 GMT"
-    },
-    {
-      "title": "31기 경수, 순자·영숙 경쟁에 가시방석…\"체할 것 같아\"[나는솔로][★밤TV]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Y3p1MzZrVkVmZl9qdDMzLWphcEl2OVF4Q256MDNnR0JDRHNfOTFTNlY3M3p3bmlRNUMzOFNiN29LcDU1aUQ1UlAwQkpKNTUtYjFQbkc4MnhpUGoxOU9oTQ?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 20:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83WWxoYlRWWmN2Q2ZWTlZySldLWXRLVXhrN2xXNHJaRmhJR0hFMWxTTzF0cThEVmJTR3FLempUZkZKa1hLLXFtUXo1NFRwYi1UTWVz?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 21:37:00 GMT"
     }
   ],
   "sources": [
