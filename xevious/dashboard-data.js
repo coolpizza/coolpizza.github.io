@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-04-30T20:59:07.887989+09:00",
+  "generatedAt": "2026-04-30T22:31:45.418442+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,477.00",
-      "change": "-11.00",
-      "changePercent": "-0.74%",
+      "value": "1,477.30",
+      "change": "-10.70",
+      "changePercent": "-0.72%",
       "direction": "down",
-      "updatedAt": "2026-04-30 20:54"
+      "updatedAt": "2026-04-30 22:00"
     },
     {
       "label": "100엔/원",
-      "value": "945.28",
-      "change": "+17.25",
-      "changePercent": "+1.86%",
+      "value": "942.13",
+      "change": "+14.10",
+      "changePercent": "+1.52%",
       "direction": "up",
-      "updatedAt": "2026-04-30 20:54"
+      "updatedAt": "2026-04-30 22:00"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "14.2°C",
-        "feelsLike": "11.9°C",
+        "temperature": "13.6°C",
+        "feelsLike": "11.4°C",
         "highLow": "최고 21.2° / 최저 7.8°",
-        "humidity": "48%",
-        "wind": "5.2 m/s",
+        "humidity": "53%",
+        "wind": "5.8 m/s",
         "rainChance": "3%",
-        "pm10": "9.2 μg/m³",
-        "pm25": "8.6 μg/m³",
+        "pm10": "11.1 μg/m³",
+        "pm25": "10.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "53",
-        "updatedAt": "2026-04-30 20:45"
+        "airQualityIndex": "49",
+        "updatedAt": "2026-04-30 22:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "13.0°C",
-        "feelsLike": "10.6°C",
+        "temperature": "12.7°C",
+        "feelsLike": "10.5°C",
         "highLow": "최고 20.3° / 최저 5.5°",
-        "humidity": "63%",
-        "wind": "10.0 m/s",
+        "humidity": "71%",
+        "wind": "11.0 m/s",
         "rainChance": "4%",
-        "pm10": "9.2 μg/m³",
-        "pm25": "8.6 μg/m³",
+        "pm10": "11.1 μg/m³",
+        "pm25": "10.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "53",
-        "updatedAt": "2026-04-30 20:45"
+        "airQualityIndex": "49",
+        "updatedAt": "2026-04-30 22:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "13.2°C",
-        "feelsLike": "11.0°C",
+        "temperature": "12.8°C",
+        "feelsLike": "10.7°C",
         "highLow": "최고 20.1° / 최저 6.6°",
-        "humidity": "60%",
-        "wind": "7.9 m/s",
+        "humidity": "66%",
+        "wind": "9.0 m/s",
         "rainChance": "3%",
-        "pm10": "9.2 μg/m³",
-        "pm25": "8.6 μg/m³",
+        "pm10": "11.1 μg/m³",
+        "pm25": "10.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "53",
-        "updatedAt": "2026-04-30 20:45"
+        "airQualityIndex": "49",
+        "updatedAt": "2026-04-30 22:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.6°C",
-        "feelsLike": "11.2°C",
+        "temperature": "11.8°C",
+        "feelsLike": "10.5°C",
         "highLow": "최고 19.3° / 최저 8.2°",
-        "humidity": "73%",
-        "wind": "5.8 m/s",
+        "humidity": "74%",
+        "wind": "4.7 m/s",
         "rainChance": "22%",
-        "pm10": "6.6 μg/m³",
-        "pm25": "6.2 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-04-30 20:45"
+        "pm10": "22.0 μg/m³",
+        "pm25": "19.6 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "60",
+        "updatedAt": "2026-04-30 22:15"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-04-30 08:00:00",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-04-30 17:59:14",
         "districtSamples": [
           {
             "district": "강서구",
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-04-30 17:59:25",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-04-30 17:59:47",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[뉴스7 충북 클로징]",
+      "title": "[뉴스9 광주·전남 헤드라인]",
       "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vSmVzSXAyeEEyZXl0TEJSNy1wMEtUMWFJZFVrWXlFclRPejhvM1ZSZF9HSXZLb0V6UVFkM3hmVzZmTDlCbGpiVUxKbE1McGxZSE5SSzZxSGhlR28?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 11:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tYVRuRmlTWk01VFd4QS1ZZWZCbloxWEtaNlhJVVNrZnRsU05RbDZac3pfTkhNWVNJUmpUaXBJY0VmSXVLNWNGc29iSVZxMUVUVXZmNUpNbGpVNE0?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 12:34:00 GMT"
     },
     {
-      "title": "[포토]'현수형 미안!' 6회말 김현수 안타 지우는 박해민",
+      "title": "\"'폭언 논란' 김문훈 목사 엄중한 권징 우선 시행하라\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52V1RxWWFVVEpMbE52QjNwdzlIb1dNa19OTEc3djczWjVtYWRXdjNOeVdsVXl1SnBtUlpHbk1QcnhzYmVyZWRPVl9lRUNrWWptS3JzbWxSMzl6U1NMMW5JV0ZGYlpLWGE1QktMLTBERUpXS00zNWxWTw?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 11:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsMzVDQV9mNW1oSWxNeDRqTWM4QWhaYXV6MzBiSzFXd1NTazJHVnVyal9Yd0dWOFJzU0l0Y0tsS29fVlUwcEVudTU0Z0psWmpseC1R?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 13:12:00 GMT"
     },
     {
-      "title": "[포토] 양우현 '끝내 디비지리'",
+      "title": "면허취소·집행유예 중 또 음주운전…20대 남성 구속",
+      "source": "노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fQVFUbWxzM2d5Z2J4SkxMUFZiTEdUS3BhRjljYVlGX2VESURQQ2tpVU5tOGJGamZDWkJ2eUxOYXp2MDF3SUFTZ2VsdURKNnVUWmc?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 13:07:00 GMT"
+    },
+    {
+      "title": "[뉴스9 강원 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SUlJkLU1NMHd5aW5PcjZoQjdyQTNqMC1OXzRjSjk1OUhnZVNPMnZ3dUVkdmJjbDAyY0xuVmUzYjNUSzF3TXZoaTNIWk83aVRfMTR4WkZjWGhiWUE?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 12:38:00 GMT"
+    },
+    {
+      "title": "주요주주 SGK, SG&G 주식병합으로 주식 수 감소",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2bTIxTGFNYWZYa3AxdWU2bFBVRExDUUs3dm5taWRpbURjSUhHNVRNYmFsVV9LUkpodlMwb2tIbjk1MVUyUHFnS21JdjJ6bWw0MmZ6dVFn?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 11:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ySGJObUc5NHVjR1hDSU9FcU1nSnd1VXZzRkVRVUFGR2ZYYjc2dVBRcE4wa01aSFNMNTVEYWJvYU1sc3phYzVnWFNDQmt2WnR5MHdN?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 13:11:00 GMT"
     },
     {
-      "title": "[비하인드 뉴스] \"국힘, 재보궐 8개 이겨야\" 고성국의 희망고문?",
+      "title": "미국 1분기 성장률 2.0%로 회복…전망치에는 못 미쳐",
+      "source": "노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YQXd1UXdIeGxEX2tOTnlJc1V0LTNWOHNQemZRbHUwTllhbjI0dU4wS29aLWhvamxHbWNyNzd4ODBYWDdVRGRjVGt6NHY2b3NrNmc?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 13:06:00 GMT"
+    },
+    {
+      "title": "디오, 주요 경영진 대상 자기주식 5770주 처분 결정",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCV1JoNHNnX0VBbXJVOHM4M2JhQVJ2UG91a0pRZmN1QkJRZlYtcmVQZFh3NEYwUGlLMWZFbG9UdmJEaXowcHRWYW91eVEzNjZzQnFj?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 11:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJTThPZDUwczdKUkE0c0t1aVlxNFZZenJIS1VPU2V6QmFIeGFkTElacldNTXRQOG8xSjM3eXdycmdIQWp2S1A0SjRwTTJWUnEyY2sw?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 13:11:00 GMT"
     },
     {
-      "title": "한국·호주, 에너지안보 공동성명…상호 공급 협력",
+      "title": "미국 1분기 성장률 2%…반등했지만 기대 이하",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90MnRxQ2d5Xzk1NjRkYWlqRW40cGJ1T2Y1WktMek00bk9IMEkwTWV5QkdqekxWNTFzX0l4dER2c1BobUZsREdvTjhRaGJFMkNNb09NdkhUQzVmOUdIeHlMRg?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 11:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FOHc1SXlLNUZiQ0VUYTdGRjRsd1d2SkZ0b25HcmZZSlp0NDdXaC1UdDM5SjlaOHpST0VudjdLbEVXY1lQaFpydHROZXp3bnJ5Nmh0Y1NXRWd0SUFLQjAxMg?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 12:51:00 GMT"
     },
     {
-      "title": "LG에너지솔루션, BMW에 10조원 규모 배터리 공급",
+      "title": "코닥어패럴, '코닥어패럴X히로노' 협업 컬렉션, 오픈런에 주요 품목 품절",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZWR3RGF0c25zaVJ5RHh4d1pmUERLSXpmSS1iVVdfYlNsVVdPeHowaWNxQkE3NVVoUW92eG1weVNFVG50QTlxOUZRUVNnSWdjZVktLUwzdWs3YXM4dzJrcF9nT0FhejE0eHFnYWFDNnpCRVBZWnd0dA?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 11:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpYTg4dEdkVHkwRS1uSE5yR2JTeVFXYi1EeG9tRFpMT3ZJZi1lMW9nb1d0cHZlbDk2dVk2YUg1c1RMY3J6STQ5aUdzbUFRNlFhSzJ1WHlNM1o2Q19lemhiX2RNTE1zaE9GZmdxTk5GdWpvcXNiUEFCTA?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 13:14:00 GMT"
     },
     {
-      "title": "[한번에쓱]5회말 추격의 실마리 '6회말엔 해결사 변신 최원준' 2타점 역전타",
+      "title": "유럽중앙은행, 금리 동결…\"물가 상방·경기 하방 리스크 커져\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9STFNsd3Q5c25PS1NnTUtPV1FMNGU0bWh5ZVF6cGpaT3NHY2xVS3JJX3Z6TmdSZ2pYSUVkSGNWS2lkbE1hS2J6eTRCN0I2Nkt4QTY0LWs4UWdtMXpzNWF4WVk4YUU4bkY2SlBNV2I0cXJHX1B4MlQzMQ?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 11:43:00 GMT"
-    },
-    {
-      "title": "LG엔솔, BMW 전기차 계약 따냈다…약 10조원 규모",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bnlsVUxkeHNoLXh3WE04NWZTYUR4RWtUOERjZzIwMGlaQnBrby1TcER4cHBaTi1Hb3E3eXlOeWVLT3NoU2NVX0tqRTNlUHVzUzRXZEsxT2RBSlQ5WTdEUVZkX2xMSWszTnRXMkgtYVpIeEhpZEhURA?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 11:05:00 GMT"
-    },
-    {
-      "title": "[포토] 박기량, 메이퀸이 5월을 맞는 자세",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NT2Z2OTFaa2kxc1pEOEZ6Tmc1MDVhODBkbFU2aXRhV3VlWmxwVWFhNE5iRjRLRmNDdWJ2WTVaMGNZU0F1QlAzSVpZeDByODdTMEh1WnFPRlJlTVVNZFdtRQ?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 11:05:00 GMT"
-    },
-    {
-      "title": "‘소년공’ 이 대통령, 청와대서 양대노총과 노동절 기념식…역대 처음",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINmdaLUNqLWFESTIxNHBVM0NMUElMLWMzZHgzWkVSdkw1U1RSOEFNbFpNaV9MWnA3clpmSHY1NWFJRnZiekUwRVVjNXM3a2wyMHNkajdlMG5yWGhIVVladXpZQm1jNE5XTzFr?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 11:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HMW1IYTVSaTdYQUp5WGpWRTFwMTFueVhIZ2J6WUt5Mkd3Y21MTklja2FYaldQcllaUWRGQWIwUUZEV3dsTGhrV1UtM2dZSWpWNXFwQzRMVkJxcHVJRFhFVFdsRlJLYVNncW1DVFNpNnptZGY0X1BYMA?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 13:22:00 GMT"
     }
   ],
   "sources": [
