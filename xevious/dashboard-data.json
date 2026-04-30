@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T03:19:59.070185+09:00",
+  "generatedAt": "2026-05-01T04:26:31.473538+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,589.62",
-      "change": "+727.81",
-      "changePercent": "+1.49%",
+      "value": "49,705.42",
+      "change": "+843.61",
+      "changePercent": "+1.73%",
       "direction": "up",
-      "updatedAt": "2026-05-01 02:45"
+      "updatedAt": "2026-05-01 04:09"
     },
     {
       "label": "S&P 500",
-      "value": "7,190.98",
-      "change": "+55.03",
-      "changePercent": "+0.77%",
+      "value": "7,216.39",
+      "change": "+80.44",
+      "changePercent": "+1.13%",
       "direction": "up",
-      "updatedAt": "2026-05-01 02:50"
+      "updatedAt": "2026-05-01 04:14"
     },
     {
       "label": "나스닥",
-      "value": "24,815.94",
-      "change": "+142.70",
-      "changePercent": "+0.58%",
+      "value": "24,899.46",
+      "change": "+226.22",
+      "changePercent": "+0.92%",
       "direction": "up",
-      "updatedAt": "2026-05-01 02:45"
+      "updatedAt": "2026-05-01 04:09"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,477.60",
-      "change": "-10.40",
-      "changePercent": "-0.70%",
+      "value": "1,475.70",
+      "change": "-12.30",
+      "changePercent": "-0.83%",
       "direction": "down",
-      "updatedAt": "2026-04-30 22:05"
+      "updatedAt": "2026-04-30 22:08"
     },
     {
       "label": "100엔/원",
-      "value": "943.74",
-      "change": "+15.71",
-      "changePercent": "+1.69%",
+      "value": "942.34",
+      "change": "+14.31",
+      "changePercent": "+1.54%",
       "direction": "up",
-      "updatedAt": "2026-04-30 22:05"
+      "updatedAt": "2026-04-30 22:08"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.8°C",
-        "feelsLike": "9.7°C",
-        "highLow": "최고 21.5° / 최저 10.6°",
-        "humidity": "63%",
-        "wind": "6.0 m/s",
+        "temperature": "11.1°C",
+        "feelsLike": "9.2°C",
+        "highLow": "최고 21.2° / 최저 10.5°",
+        "humidity": "65%",
+        "wind": "4.4 m/s",
         "rainChance": "4%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "17.1 μg/m³",
+        "pm10": "21.5 μg/m³",
+        "pm25": "19.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "40",
-        "updatedAt": "2026-05-01 03:00"
+        "updatedAt": "2026-05-01 04:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "10.9°C",
-        "feelsLike": "8.9°C",
-        "highLow": "최고 19.5° / 최저 9.9°",
-        "humidity": "76%",
-        "wind": "8.2 m/s",
+        "temperature": "10.4°C",
+        "feelsLike": "8.8°C",
+        "highLow": "최고 19.0° / 최저 10.0°",
+        "humidity": "78%",
+        "wind": "5.3 m/s",
         "rainChance": "6%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "17.1 μg/m³",
+        "pm10": "21.5 μg/m³",
+        "pm25": "19.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "40",
-        "updatedAt": "2026-05-01 03:00"
+        "updatedAt": "2026-05-01 04:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "11.0°C",
-        "feelsLike": "8.7°C",
-        "highLow": "최고 22.8° / 최저 9.3°",
-        "humidity": "67%",
-        "wind": "8.2 m/s",
+        "temperature": "9.9°C",
+        "feelsLike": "8.4°C",
+        "highLow": "최고 22.7° / 최저 9.6°",
+        "humidity": "77%",
+        "wind": "3.3 m/s",
         "rainChance": "4%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "17.1 μg/m³",
+        "pm10": "21.5 μg/m³",
+        "pm25": "19.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "40",
-        "updatedAt": "2026-05-01 03:00"
+        "updatedAt": "2026-05-01 04:15"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "10.1°C",
-        "feelsLike": "9.1°C",
-        "highLow": "최고 18.8° / 최저 9.1°",
-        "humidity": "91%",
-        "wind": "5.2 m/s",
+        "summary": "약간 흐림",
+        "temperature": "9.0°C",
+        "feelsLike": "7.8°C",
+        "highLow": "최고 18.6° / 최저 8.8°",
+        "humidity": "95%",
+        "wind": "4.7 m/s",
         "rainChance": "36%",
-        "pm10": "25.6 μg/m³",
-        "pm25": "22.8 μg/m³",
+        "pm10": "28.1 μg/m³",
+        "pm25": "24.4 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "60",
-        "updatedAt": "2026-05-01 03:00"
+        "updatedAt": "2026-05-01 04:15"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "\"이스라엘, 대이란 전쟁 재개 대비 경계태세 강화\"",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WcHR2b0E3MHNfenBFa0I5dVRfYmZ4M0JRdEFfbVYyV25lRnFuZlU1aEtqZDQwVXRjQUZLWWF2WlFZenZZVnBQX3ZrUUJvNEJDUXVUY0NJWEhHeGfSAWBBVV95cUxPcUlvd1FHcGQxUTY1QlFLMHM1VEtjTHFvekhfLXRlV3BOTG4wQVdKV2pMbTZ5cmJ5bTRIdEFZMnF3WVFZYlNYS3IxZ29SNGRhbTJISk1FTkxYcVdOX1ZTM2E?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 17:59:37 GMT"
-    },
-    {
-      "title": "이사배, 환한 미소",
+      "title": "제로 칼로리 탄산음료 브랜드 '부르르' 라인업 확장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IYzhiVy1nZ09vWmt4SjFpeDZhdy1mcXJMN2FaZDJadGlaZXBpWHgyNEd6TWVZSWlDX2tUTzVPaXI0V0RuemdJMHV2Qnk1YzcxZlZwd2szRmsyelpHanNyOQ?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 17:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kTWlxRXR1YldhU3lUeDdIbmZfVzBhcm93bk5RcllBREhWMjdMbUo5U3E2b0FXdl8wbUU4LS1QTlRqdWtiZmoyU0hFNDdULXRWOF9Mak9zNjdORlI3Zl9pVg?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 19:11:00 GMT"
     },
     {
-      "title": "'예매 세포' 임무 완료! 이제 '흥행 세포'가 깨어날 시간! 뮤지컬",
-      "source": "뉴스에이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vMUJJWXc1TUtyZnhCYWxRZXVZRlA0dmhLUUwzbXA1UlFZQW1UNlJKXzNpNkp1MHlMYkUwQ3VJR3dySlItWVB6bm1UUmFLYmxvZFdEYl9vYWNER0hxMzN6VmRpZnUtc2xf?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 18:01:51 GMT"
+      "title": "GROW 인베스트먼트 그룹, ADGM FSRA로부터 예비 승인 획득… 중동 시장 확장 이정표",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40bWs0b3dfRTA2SllrNVhnQndfTzdEZnZBLWZKMm9UOVRKZkNuc25fT2o1SlpFSzlmYnRZR1VMcXo2NjctQlhobGxyUTBuMEM5VEhBaW1n?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 19:10:03 GMT"
     },
     {
-      "title": "센트비, 가정의 달 맞이 5월 프로모션 전개",
+      "title": "월러스, AI 에이전트 메모리 SDK '멤월' 출시",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10bzJDYWQwdUc5VWFJa09heEZidGxJdWo3SnVUUVBDeXdXMnl4eWJXd0hvNS1EQllNdDFVT0JsSzVWWU1wX1d0c1VZdXFEV05x?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 18:43:37 GMT"
+    },
+    {
+      "title": "우리기술·두산에너빌리티·오르비텍·대창솔루션, 원전해체주 혼조…수급 엇갈림",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iVVlNRjNhWHRnR3c1T0hJUFpTMXdqbDdGUHVkd0ZlWm9fdU0wVnU5TlFqUnJ1aFdLaE1uV0ZoNEZRSENGaUgwd2RDWmp3WkNJRmRBTkh3V21Id3Nnb0pPNlFEUlFZbVpF?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 18:28:12 GMT"
+    },
+    {
+      "title": "송파 이어 서초도 \"집값 다시 오른다\"…정책 약발 다했나",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBY2IxVF9kazZxdFZOU1NLd2drdjVGRERveGlYdW1FQWVaREFYTkdWekhDUXd0X0NyREp0SlFVRUx6SHlFQVZSbDBnOVE3dWZEbHI0?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 17:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YZHhtMWpONkFhMGdzMUhMZlItMWtBbzAxZElJMmJHcE5HdkpCQ0VEUTJ2Qk95V20ydldnV2dPMFhISkVBeTNjT2FTZUtpeVQtNnphTDJlM1VzSzJrNU9Hbg?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 19:20:00 GMT"
     },
     {
-      "title": "브리타, 브랜드 첫 TV 홈쇼핑 진출",
+      "title": "라커룸 기강 무너진 레알 마드리드, 페레스 회장이 직접 무리뉴에게 SOS 쳤다..'머리 큰 애들 하나로 엮어달라'",
+      "source": "sportschosun.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BQ0EtblJrdGlVLWswN2hSckN5Z1R2X2dFVWlBNk9zZWZHRUJCSHQ5LXVPN1RScFZjcTd1XzE1QzczbVdicmhyQ3pOVWRRTzRla0RYSzB1MWtjdW0ycHBkRXNpbXAwRTBrVHpicnh2dnA4NFJicWVHYkFVbHNwZ9IBd0FVX3lxTE5zOUlwUm1SeXV0UG5oQmx0YUtLMHQ0cWRzMEpGeWtJVGJfOG9DWmpNa0w0Qzg2NnlxTDlldkJseXJXRWpuUHFLUEpITzgwTGo3UXgtdUR3VUhGWVVQLUJSQ0NONElxWkRkVThlOFMtclNvY2Nfdmg0?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 18:40:40 GMT"
+    },
+    {
+      "title": "美국방 \"이란전 휴전으로 60일 전쟁 시한 시계도 멈춰\" 주장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40dVRsa1RjRkxpS0xKNjhvSUpmRFBPdkVQMVJYdVhCbUdJV1pzQjBZdVRyYWZYakdyemRjSThBQ2dPUXRybVMyRGZEZmVwUzFOeWVvNW94V2tLNW9pV1JNNU9qWGp2YjEwVk4wLS0wVFU1aE9PZnpXNg?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 17:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rTlFMSDNSbjdQT0tZeE54c2VXZ2pXVFUxdnE5MjQ5WnJEUW0xSC1VeE9fV3BWR052d25YZUhXd0xJWHNCT0F6cnVSRUVtbU1FQ2VDZk5jSlFtVzBKeDFScg?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 19:18:00 GMT"
     },
     {
-      "title": "해운업 주요 모니터링 요인: 선종별 운임 및 수급 여건 변화, 특수상황 하의 원활한 장기계약 이행 여부",
-      "source": "쉬핑뉴스넷",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMYTNYaTh4ZWhRMzFVR1UwRWNnQl9IRWpSVktkbUNZa3FBcXJrM0NhMmc2cW8wUFRMNHNFWkZick5LdVVnbFRCckxmcm5qWXFwSUNoU2JMeGMtXzdWcl95LVdjWE94LTEzekJJbWRMSGhjaHc?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 17:26:16 GMT"
+      "title": "[6·3 픽] \"정치 신인은 편한 곳으로?\"…민주당, '낙점 공천' 논란",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Jam1RRkZSRms3N0prTWFjRldHaGo0WFo3dTcxeGpxaFc5dm1FTlVTY3pnMXdLdkw3WW5zUnZNVkpZTHc3dU13bEFkbFVjYjZ5djdz?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 19:00:00 GMT"
     },
     {
-      "title": "AI, 응급실 의사보다 더 뛰어나다? [지금은 과학]",
-      "source": "아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82b0FhQm9SRGxCbnoyNkVzTUVoREtsd0dNbzg5d1BESEFFUGZaTHh2aUVjak14WktEcFlnSVR2VkdSVldZRVBuY2UxOW0?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 18:00:01 GMT"
+      "title": "2시간 벽 깨졌는데 8시간18분? '에베레스트 마라톤' 뛰어보라",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0WG1pNmtrMW41R0pQQmNHenRiYjVoN2xyeUtPYVJXMTFaVzgyRUFrcjVRLVQ0Q003blp4NEtMWi1jRWZLWmlyMGM3eTF4Wk1XNE1CdV9XWU80V2dBaDhYRA?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 19:01:00 GMT"
     },
     {
-      "title": "육군, 미래 전장 대비 '드론 전력' 강화",
-      "source": "굿모닝충청",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdUJnOVpNR3AwcHdURWl0YWdCX0t2eVBxVmM5bElseXJpZkw2QTd3dmRWWXpZNFpOWmlER0RkSVJTU25EaHh6eWl4aXpKY1ZHNFY3RlMwOVZQUTkyQzBCNVhmdjVZN1kxMjdCb0QzQUJndw?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 17:21:34 GMT"
-    },
-    {
-      "title": "백악관 \"석유 증산 속도 낼 것\"…규제 완화로 에너지 공급난 정면 돌파",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfejRDM05qTlFhMGJBalFVUnVCeHZVTXZaRXN0RGhOc1BESHZmWFRNcUltQWFzRlpkTE9ESlZHdU5ZclB4OU5XajlBczkxOVZNLVU3SUUyMkpackc2?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 17:48:00 GMT"
-    },
-    {
-      "title": "장흥군 중대재해 예방 관리감독자 안전보건교육 실시 > 뉴스",
-      "source": "더코리아",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XWEwwckkwVERMZGNSOFBCcmp5OXUxcnRhazBDVTJfLTdhUDlfazI5Q1RCaWVGckF0N2d3WV9QSEI1aVN1WHpWcEd3R1FNTnp1bDFramtyYjNBbWFMdXhPOHg4Z3E5SWpCYW8xOWdINDQ?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 17:35:00 GMT"
+      "title": "월급쟁이부자들 \"프롭테크 솔루션 누적 전자계약 체결률 94% 달성\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVTFJBNVM5c0xCOGxBcFhZcF9taV82Q2hRX25GY2ZDVmlqNEtpNVVrNWFZTW1MQXhaeEpLZDJjSXVWSi15WWItamNrTHFza0x4VFNV?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 18:44:00 GMT"
     }
   ],
   "sources": [
