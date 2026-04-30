@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-01T06:40:41.014604+09:00",
+  "generatedAt": "2026-05-01T07:36:53.164581+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "10.6°C",
-        "feelsLike": "8.5°C",
+        "temperature": "11.1°C",
+        "feelsLike": "9.0°C",
         "highLow": "최고 21.2° / 최저 10.5°",
-        "humidity": "67%",
-        "wind": "5.4 m/s",
+        "humidity": "65%",
+        "wind": "6.3 m/s",
         "rainChance": "4%",
-        "pm10": "27.1 μg/m³",
-        "pm25": "24.6 μg/m³",
+        "pm10": "30.2 μg/m³",
+        "pm25": "27.7 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "38",
-        "updatedAt": "2026-05-01 06:30"
+        "updatedAt": "2026-05-01 07:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "10.2°C",
-        "feelsLike": "8.0°C",
+        "temperature": "11.3°C",
+        "feelsLike": "8.9°C",
         "highLow": "최고 19.0° / 최저 10.0°",
-        "humidity": "74%",
-        "wind": "8.1 m/s",
+        "humidity": "70%",
+        "wind": "9.8 m/s",
         "rainChance": "6%",
-        "pm10": "27.1 μg/m³",
-        "pm25": "24.6 μg/m³",
+        "pm10": "30.2 μg/m³",
+        "pm25": "27.7 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "38",
-        "updatedAt": "2026-05-01 06:30"
+        "updatedAt": "2026-05-01 07:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "9.8°C",
-        "feelsLike": "7.6°C",
+        "temperature": "10.7°C",
+        "feelsLike": "8.1°C",
         "highLow": "최고 22.7° / 최저 9.6°",
-        "humidity": "74%",
-        "wind": "7.3 m/s",
+        "humidity": "69%",
+        "wind": "10.0 m/s",
         "rainChance": "4%",
-        "pm10": "27.1 μg/m³",
-        "pm25": "24.6 μg/m³",
+        "pm10": "30.2 μg/m³",
+        "pm25": "27.7 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "38",
-        "updatedAt": "2026-05-01 06:30"
+        "updatedAt": "2026-05-01 07:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "9.6°C",
-        "feelsLike": "9.0°C",
+        "temperature": "11.4°C",
+        "feelsLike": "10.3°C",
         "highLow": "최고 18.6° / 최저 8.8°",
-        "humidity": "97%",
-        "wind": "2.5 m/s",
+        "humidity": "92%",
+        "wind": "8.7 m/s",
         "rainChance": "36%",
-        "pm10": "30.6 μg/m³",
-        "pm25": "26.5 μg/m³",
+        "pm10": "27.9 μg/m³",
+        "pm25": "24.9 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "60",
-        "updatedAt": "2026-05-01 06:30"
+        "updatedAt": "2026-05-01 07:30"
       }
     ]
   },
@@ -274,17 +274,13 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-01 00:57:44",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-04-30 18:00:15",
         "districtSamples": [
           {
             "district": "강서구",
             "price": "1,979원/L"
-          },
-          {
-            "district": "금천구",
-            "price": "1,983원/L"
           },
           {
             "district": "양천구",
@@ -296,6 +292,10 @@ window.DASHBOARD_DATA = {
           },
           {
             "district": "관악구",
+            "price": "1,985원/L"
+          },
+          {
+            "district": "금천구",
             "price": "1,985원/L"
           }
         ]
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "1부 오늘의 주요뉴스",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wRU1OOW1ZbXBQeGo3N3BMeGxmTzhpRUs1ZERDY3ZHcjNjV0RjVnJLb2dyWTBuTmQxZ1pWbnA5LXVObXkwenhDUV9PWi1VNVI5bE44b2U0cGJYZVRVZ29DdkhvclZJSHRSWm81aGRwN1ZkX1NDQ283TC1B0gF6QVVfeXFMTTBCMFNpMG5QRlFBTzVxXzdrVU8yY2dKNDJOVHVQOXlkcVhXX3JkMWtwdTllQ01ERW92bmFkY091MVNHZHExRUdFaUU1bmphVTFOOFNOdXFGYjBDaWZRTjZlWWxlS2MwWUJfRnRwTmVOV0NqWElPMjVmcUE?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:01:32 GMT"
+      "title": "[AI기자의 News Briefing] 5월1일 오늘의 주요 뉴스를 전해 드립니다.",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Mak14WEdkcjhRQjdlLUhtM1Y0X2ZRZXhKVGcwMFk2eG5ORUxOLXI1d3Mxb3p4MTNFLXI2MEIxUDJKV2NBNnpnZ3hwYUY2Q0x5Tk5rZ3h0d0NpS1RvTXFHalpwQk4wakxxRnc?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 22:14:15 GMT"
     },
     {
-      "title": "[카드뉴스] 65세 이상, 국가가 맡는 ‘치매머니’ 총정리",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FMVhSYk1YcWQ1eVpYOWtQM2VpQVJzR0JqbURVQ3BsSlNReThVMEdQVHhIaUNNSHpWNlFLWWh3MEY1c3dvSW9UNnZCR19neWdPd2tDVDJYTmtsZw?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:00:00 GMT"
+      "title": "[26년 5월 1일(금)] 코스피, 6600선도 깨졌다…사상 최고치 찍고 급락 - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQkNuSEFQVExnai1RSGpWMWFNTHpuNklIV2tZWEtPcWhHNjRmbTBmd2NFNExFZm9GbFlUYkRqNm9sd0trRjZPOTV4UFJ0TGdhaUlxaVlTNzNCbkdNenJka1NBZmVzU0RFaFdwa3ZqUGhlbmdNWHZobkRhc1lYVmRjTg?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 21:40:00 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(30일) 주요공시]",
+      "title": "\"달러-원 환율 1470원 후반대로 후퇴\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4T0kxMXhIa0thTXRRbFVmc3IzWEpZbkNBeC1ESktzQ3JZcWY0RWpwWTlfWThzclo0Rks2TVNzRVlOMGJxOEc1anhYX1dJdXVXWWY4?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 22:00:00 GMT"
+    },
+    {
+      "title": "북한, 사회주의애국청년동맹 11차대회 개최",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qUlRNRWwwYjdYV2JwZjBabEJHdVdIVkx2U1BFa3NSVXlJcjdsanRUN0lOM1pfdzBQbFNtTGJoaWJLbU9LNDJfMTZPdWtLQm02b3hyRF9ubktnZWJVdFJKaQ?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 21:46:00 GMT"
+    },
+    {
+      "title": "S&P·나스닥 사상 최고치…빅테크 실적이 효자[뉴욕마감]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xSVJHQjJIaEpEYlZJeHpEa29kM1FnOGJaMGNvOVJYU2VaXzVnVUZWSzJ4cVE2RTZlVXZpcmY0N19DUWdWc3dxWnlkZ1FLSlA5M3kw?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 21:55:00 GMT"
+    },
+    {
+      "title": "백제왕궁박물관, 어린이날 맞이 역사 체험 프로그램 '풍성'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jVDFSdHFpM0t3ZWdaLXc5T2lQd3VkTEJBUXFkX0ZQeWptYVZJOFN4aUxGMGpXZ3BfLXF0anVhTWZ5Rl81eEtIWU5mSkJxdUdqVGlJQ1ZadmFFWWRyTjBHdw?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 21:45:00 GMT"
+    },
+    {
+      "title": "유닉스, 5월 가정의 달 할인 행사 진행",
+      "source": "하이뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nX010eXctalVKeVl0akFTbVVCdVEzNmhLZWxqX2VuY0k1V254N2FRRjI5YUFjMG1JTnlOV3VpdWIza21iWXRXVjllc3pFcUtxMVc4Yzk4d0FQTVpGWFBtd1F6aXM5WE5lRUxZNExYa1I0eFd0ZGxz?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 22:30:00 GMT"
+    },
+    {
+      "title": "[대구소식] 반려견 유기 막는다…등록 의무화·단속 강화",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJZEM5S2N5NmpUNk94U1BmV3k0b0VlTFQ5RDAtRFkwMXJlUGVCUjl6QzQ4ejJZQ2txUWtpc0RCWHhtanBBWm83U1FLZ0c0ZmREUko5VnctSEFSUWvSAWBBVV95cUxQWmlOYmNfNy1jR1RBQWY4bmotalZhdmNLMEw4LWl6cnZpVldmYTRoOWN6dW9Ba0o3Y09OYmxJNXBCLV9KQ3lGMzdNSlRmWUFRU1FmbW04RG9HemJRR3JRbzE?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TTTN5LXctUmFwcHd2UWNNMWk1b1ZRU0tKTnJmeUROU0hHM3cwSXh6V2FFeXlwRS1lSDRDeEVOWGRtZGUyYVltejNnUDlQdDVFYUhnTkVPS0VWYXPSAWBBVV95cUxPYXFud1Rta0dHQ2toNzVZcDFuaFdSaS00SV9FejZLUG16c0VUV0JjdDJ1ZkdjNjgtOG5FdUlHWGU5Y3dMQkNuN3VSb191d2xIa0k2TTVfaFZWb1Zic2ZZTE8?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 21:46:00 GMT"
     },
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "title": "4년째 필리핀서 '독도' 알리는 부부…3호 '히어로' 선정",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1va1pIT01LTE9mWFVQN2xoNTZuQmpoU3JMRE9wSnB5LXM2eHpjZE9TTDlraXlEQTJoVmtkRms3bVlWd0hhWWZLOGs4UkFNTTRYWndF?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjb0F3N2k5U3NXT00zQ3NmVHdwbG9sTE43RnFseU0ySXV5dW40Ym52SjMyWlJDYU5LNmR1N05EY00taU80MHVGRGJRZWRVcl9SXzNSR3VJM0ZBWWRDbG9vY3FXdklld0JuVGhsTmdrV2QwVm9SSHI5bA?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 22:28:00 GMT"
     },
     {
-      "title": "[속보] 국제유가 하락…WTI 1.7%↑",
+      "title": "트럼프 \"이탈리아·스페인 미군도 감축할 수도…전혀 도움 안 됐다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZGh6c285RmZOZFVFQU82Y0F1aTAyeWlzWi1vcnFEVDBWb2g5ZjhQTlYwMzcwZWRSSmk0UThHcEJreV8wTW9KcnRaN1g1bmlrX045LVFONVFvVzljTTNPZA?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:26:00 GMT"
-    },
-    {
-      "title": "[속보] 뉴욕증시 상승…다우 1.62%↑",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tbGlXVEplYXotUXN0dXpTenFmajlVTTNFVTZMZ2Q4MHFTOEhEQ2xsV0xjUHpEVDhSV2gta1I4QlhaQmQzMG5MbWVPMnJWNm01QzdqaGVsdnlUXzBFZWxubEZhVkRpQTI3dXFOVUtYMXJfejhmcjRBUw?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:22:00 GMT"
-    },
-    {
-      "title": "네이버, AI 날개 달고 1분기 매출 '역대 최대'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MRTJhcDJzUTJiMWNNbVdZUF90OEE1RGYwb3Y0ajQ0TW1aT282LTVEMlVGMTVhLVVhdERWTjgzR0FKQmxzaEthVzNIZm1DQUtYRWFmRTZVTnA1M1A2UURKbA?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:04:00 GMT"
-    },
-    {
-      "title": "'빅테크 호실적' S&P500·나스닥 사상 최고치…다우 1.6%↑",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QakhMRS1xbi1LMzRBbGlROEhyTlhKTmhxbEZXRDBkTHdKcnltMXAyVnVGSHl5T3JaMWF1cG5pSzBPX2VJbFc2MTFkTTVxdkRHWGRZ?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 20:52:00 GMT"
-    },
-    {
-      "title": "[청년골프] 양팔을 곧게 펴고 스윙하는 노승희,KLPGA '제1회 DB 위민스 챔피언십'",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PSThzSlpscXFwWTVaRkZqbTFyQ2hHSWN4eEdOSFJhY0dvNzZ1cDdnay1haEJ2MlhxUjJJeFREczdKRmdQazRyY2FzOTM5Rkd2Z3VSNG1IczVqOWdEbkR4Y2ljbFh0VmtHOXc?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 20:47:14 GMT"
-    },
-    {
-      "title": "고물가 속 가정의 달 선물하기 트렌드는 \"C.A.R.E\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tV3RmdDZKV1ZLWklLWVRmNnlhd1FKUFN3OFpNeHJlVmpERTNhMlhTT1RJNVdlZ2h3QVFtQWJvc2FKWHFqT1d2amp2eXFYclBzWVc0?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PZ1o1Tnp6SWY0UlFUcElRVlp0NWotU3JNeC0ySnI0d2kyR1NyaFQ4bUZnaThyMDNpVVpJUjdEaXVNenZ6NHhMMEdhWWxHMWk4d0x3?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 22:20:00 GMT"
     }
   ],
   "sources": [
