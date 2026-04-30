@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-30T09:10:21.140826+09:00",
+  "generatedAt": "2026-04-30T12:59:26.494425+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "6,746.08",
-      "change": "+55.18",
-      "changePercent": "+0.82%",
-      "direction": "up",
-      "updatedAt": "2026-04-30 09:04"
+      "value": "6,670.31",
+      "change": "-20.59",
+      "changePercent": "-0.31%",
+      "direction": "down",
+      "updatedAt": "2026-04-30 12:57"
     },
     {
       "label": "코스닥",
-      "value": "1,220.70",
-      "change": "+0.44",
-      "changePercent": "+0.04%",
-      "direction": "up",
-      "updatedAt": "2026-04-30 09:04"
+      "value": "1,203.66",
+      "change": "-16.60",
+      "changePercent": "-1.36%",
+      "direction": "down",
+      "updatedAt": "2026-04-30 12:57"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,485.80",
-      "change": "-2.20",
-      "changePercent": "-0.15%",
+      "value": "1,484.40",
+      "change": "-3.60",
+      "changePercent": "-0.24%",
       "direction": "down",
-      "updatedAt": "2026-04-30 09:03"
+      "updatedAt": "2026-04-30 12:52"
     },
     {
       "label": "100엔/원",
-      "value": "927.55",
-      "change": "-0.48",
-      "changePercent": "-0.05%",
+      "value": "925.32",
+      "change": "-2.71",
+      "changePercent": "-0.29%",
       "direction": "down",
-      "updatedAt": "2026-04-30 09:04"
+      "updatedAt": "2026-04-30 12:52"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "12.4°C",
-        "feelsLike": "11.1°C",
-        "highLow": "최고 20.7° / 최저 7.6°",
-        "humidity": "64%",
-        "wind": "1.6 m/s",
-        "rainChance": "2%",
-        "pm10": "35.4 μg/m³",
-        "pm25": "34.0 μg/m³",
+        "temperature": "20.1°C",
+        "feelsLike": "21.0°C",
+        "highLow": "최고 20.8° / 최저 7.8°",
+        "humidity": "41%",
+        "wind": "4.4 m/s",
+        "rainChance": "1%",
+        "pm10": "15.9 μg/m³",
+        "pm25": "14.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-04-30 09:00"
+        "airQualityIndex": "60",
+        "updatedAt": "2026-04-30 12:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "13.2°C",
-        "feelsLike": "12.6°C",
-        "highLow": "최고 19.7° / 최저 5.6°",
-        "humidity": "71%",
-        "wind": "0.7 m/s",
-        "rainChance": "2%",
-        "pm10": "35.4 μg/m³",
-        "pm25": "34.0 μg/m³",
+        "temperature": "19.8°C",
+        "feelsLike": "20.5°C",
+        "highLow": "최고 19.9° / 최저 5.5°",
+        "humidity": "50%",
+        "wind": "9.4 m/s",
+        "rainChance": "0%",
+        "pm10": "15.9 μg/m³",
+        "pm25": "14.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-04-30 09:00"
+        "airQualityIndex": "60",
+        "updatedAt": "2026-04-30 12:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.9°C",
-        "feelsLike": "11.8°C",
-        "highLow": "최고 19.7° / 최저 6.4°",
-        "humidity": "65%",
-        "wind": "2.2 m/s",
-        "rainChance": "0%",
-        "pm10": "35.4 μg/m³",
-        "pm25": "34.0 μg/m³",
+        "temperature": "19.3°C",
+        "feelsLike": "19.0°C",
+        "highLow": "최고 19.8° / 최저 6.6°",
+        "humidity": "40%",
+        "wind": "9.8 m/s",
+        "rainChance": "1%",
+        "pm10": "15.9 μg/m³",
+        "pm25": "14.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-04-30 09:00"
+        "airQualityIndex": "60",
+        "updatedAt": "2026-04-30 12:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "13.5°C",
-        "feelsLike": "12.3°C",
-        "highLow": "최고 19.8° / 최저 8.1°",
-        "humidity": "63%",
-        "wind": "2.4 m/s",
-        "rainChance": "49%",
-        "pm10": "35.4 μg/m³",
-        "pm25": "33.6 μg/m³",
-        "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-04-30 09:00"
+        "temperature": "19.9°C",
+        "feelsLike": "20.4°C",
+        "highLow": "최고 19.9° / 최저 8.2°",
+        "humidity": "52%",
+        "wind": "6.9 m/s",
+        "rainChance": "20%",
+        "pm10": "30.6 μg/m³",
+        "pm25": "28.1 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "44",
+        "updatedAt": "2026-04-30 12:45"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-04-30 00:59:29",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-04-30 08:00:00",
         "districtSamples": [
           {
             "district": "강서구",
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "계양구",
-        "stationName": "상야주유소",
-        "address": "인천 계양구 벌말로584번길 1",
-        "updatedAt": "2026-04-29 23:31:27",
+        "stationName": "이케이에너지㈜ 금성주유소",
+        "address": "인천 계양구 벌말로 614",
+        "updatedAt": "2026-04-30 08:00:44",
         "districtSamples": [
           {
             "district": "계양구",
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-04-30 00:58:33",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-04-30 10:59:20",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "연준 금리 동결·워시 상원 인준 유력까지 이시각 주요뉴스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GZ1NELTNJWFRIZWdQRkxidXpHWU5vX0g3OFJWNTUwckVGaWN5QnhZZ1U5SjJORTVnTEtTcTJnQ0FjOHhmWWlCTHhhSHQ2SkNxRXJVU2VsS1FRQ25ZZ0l4VmhZcF96XzAyb0NaZDd5YmTSAXRBVV95cUxQbHI4eDVfVTNWMF81cnZMY1ZaYlp3TTQ5bWIxRTRpWHkxMF9xaU55Wkd1RHNGREFYeThLVUtyMmM1RVNvTDFWZDNzSkpycUV2VG9udzd4ZmJfamdFeHZEdFcxX0V1bUpNZnczeXJnVmhneGxKcg?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 23:58:37 GMT"
+      "title": "[12뉴스] 오늘의 주요뉴스",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aNlZFbnRSeUlleUpNZlFUWFJZNGxzVG1JRENPdXhWdThpSEhSVmJOaFUzZE9oMlVEZl91NmFaWEVzOC1Hc3B5VnIzWThFdi1iSVdmUm5acjY4c1VOblJ1WDVrY0JFRWFQcVHSAWZBVV95cUxNNjM5dkxkbWdtZHNsVEE2MDVGS1lBSnpkdWR2V2lCY2c3M2djREg3WXJTZTB1Y05CZTRKbHUxRTVOekFRQXNibE1GbVoxLTRla1FuTi1JY09PUXNBaHJHbk1fZ0NfbUE?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 03:04:00 GMT"
     },
     {
-      "title": "[정책브리핑] 2026년 04월 30일 목요일 주요 정책",
-      "source": "시선뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85ZzA5bDBNdHpmVDQ3SWwxdjFUX3NtTG1XX0J2SWNDeU1odF9OaDktRVJtWDRBTWN4ZlpueU54aDlUcV91czBEdVhNUVIyZkNBakF2Z05IWHFlQWlZb1NkazV6QzRfSmROblJDQ29B0gFyQVVfeXFMTWlkU3dER0FUWlBMMWxPZVhSOXBjcUFCcFZvSjJvSmRmVC1IQlBUZGNkcGFIMjM3RTVfaGZNVm1TbmNxZlFRZE9zVUYxWHRfVjNTdlZ1UzdOb3E3UVhWV2kycUFUVFpyT2tONlN1NTIzY1pn?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 23:59:00 GMT"
+      "title": "[청년골프] 티샷은 정확한 임팩트 배소현",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aMHJycko5ckQtZXFnNFpGUWtsczF3VkluWkZxcktPZk5mQ1NOamI0R0dseW9ldUxBam1uZHEwMng0SUt4VktwUHdfTUdENUtxbnpILWIwNmRJYklkM3ZUWFE4QXVpV3Y4NWc?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 03:45:21 GMT"
     },
     {
-      "title": "김승원 의원, 'PbD 인증제' 포함 개인정보 보호법 개정안 대표발의",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBObnEtR005d0tMZC1QYTJKWk9mckpvLUowNWxKWFdZRDNibjNfSmdFT3ZjcmNGNVBTTmlMZUVBVGx4dFE3OFVJSWkyMFBhR1dLYjNZbTlqbVJIcHo1UDVSOXhVLWNFbFY1N0hJ0gFvQVVfeXFMT0NWM1FFOUVTQmdqeW15QTZCUVYzVWFZeUVZcFBHbnhJXzdTTHp2NUdZVU95WnhxbjBFdGxZRGU3NFZBclNVX3pLYXBFQlJBU0pZenpOR2VPeDB3MlMxTGZ3VnktUW1CUFZFZk5CSGV3?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 00:04:42 GMT"
-    },
-    {
-      "title": "주요은행 예대금리차 다시 확대, 1년래 최고 수준",
+      "title": "[12뉴스] 오늘의 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4MkUwZmhWVUUxNWVXdDR2TThldjllN1BpYUVlNzZSQ3hNYnFVNTY1cmxJYkRRQk54bl9zYktsdkxMMjhEeUdjMDFqeG03Y0xlcldFbTYxOU5XQlloc0dJaw?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 23:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mYlJrc2dHN3pKakIzTnlUUDg5d25aZUkwaGVza1o4QjQ4aHQ1WXpPdWVtOGVSUUpDc0N0LTJHY05qeFNFLXJXcEVHa2xtS29qZTBr?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 03:07:00 GMT"
     },
     {
-      "title": "'혼빙 트렌드' 이끈 메가MGC커피 컵빙수 컴백…\"무더위 공략\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zMlBqVUEzaWJScWFFMFFBMWUtdGc0cVpEZHY0NWp3SFZ2eXVfR1VuRExLbVZaMk9EeDJSNDhWZmFrM3BTcVhuYVZaZDQxZHpqQTlzR3FHNDh1Y2FSU0RR?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 23:36:51 GMT"
+      "title": "수산시장 찾은 송언석",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aSEZFSFdrZkxUTHlzZFl2TVlsNlpjc2dFSV9obkxMRXBWSnVKdmVzQncyQ2VTRVIxZTljUTR6bjdRRVUyOEtBdXNRRjByWlNfa1VR?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 03:07:00 GMT"
     },
     {
-      "title": "뉴욕증시, 유가 급등에 혼조 마감…美연준 금리동결[뉴스새벽배송]",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVN1M0JvUWtld0duX3AtYk9neGY5eGxBUEc1ZGNCVFRIWWNtWGhZVVJyWFVtSTZrVDhiTlVIS2IwX1BnS2l6NG5HWk10OUN2b01TbVZFdUQ1by1xbk9ZV3JpdV9TUE9wa1JRdUpod1Z1MFdOdFk0ekdwTjZ4M3Fueg?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 23:23:05 GMT"
+      "title": "차기 경기교육감 임태희·안민석 양자 구도…주요 공약은",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TYmJFRGp3cE1ycWczWlo5SWRrMVNQZnMycEJzZmRLODhPN3RWdmhhYWRYQ2NtTmlpcGZUcnI1MG5FQ1daS0JaWGMwOURqVHhJQVQ4?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 03:48:00 GMT"
     },
     {
-      "title": "[속보] 코스피 48.49p(0.72%) 오른 6739.39(개장)",
+      "title": "노량진수산시장 방문한 송언석",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhQzkyeUllRElfei1NaVdIdkNsWDlSZnc0c21tUFQ4WndObk9WZHluY001WkRRNmhrbUpxRy1mbkFmYlg3Q3UtV0ItRllDNVpQdmo0?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 03:07:00 GMT"
+    },
+    {
+      "title": "당진농협, 농촌 왕진버스 의료서비스 실시",
+      "source": "당진신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYNEJHNXJUa1B3N3Ftc2VRUmJEU2dwUUc4RmQxaHNkamVEVExqUkFTdG5td2E5WU1MU2p2SXFBRnd4VnJ1YzgtRWFUb1lVd01ZVGNUWDlRY0ZQY1ZBbVNYSTB1VHJyZVhE?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 03:09:51 GMT"
+    },
+    {
+      "title": "유상대 한은 부총재, ADB 연차총회 참석⋯아시아 경제 수장들 만난다",
       "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BeEpKS2ExazZaQzRZR0lMc2o2a1I2S2VaZGJXcVZZYUQyUVFWajExN21zdVNnYmZHZ08wX2UtQUs1dF80b2JuWktZekY4TWJjZHdXVVI1ZG1CM2syTElrUU5meEp2empEeDViVlNn?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 00:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGSTFnSjZRalRSWmFjUDZlODEwQ2pOZk1iVmlVbXNfWWI1dm94aXg2bDFCX1dKZ3M4OS1hX0otenBaVzhfS0d4X1F6MzNpUUY3WERQcTBMdUdGa1hXdThEWG1DTWM0RldFR09hWU9welR5VDRN?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 03:00:00 GMT"
     },
     {
-      "title": "정용진 회장, 아내 콘서트서 ‘특급 외조’",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CaUpQMHlzWHlGeEhxTEs1V0hLa2JMU3NTZGdfNl9XR2NNUjZFMGcwQlFXNmhqZENoMlBaUlZkMGhxV0VHdExfZWdFY0F5UzRhaGFqZzQ3Zk8zUW1KWVh1dHpkbmJzZWVaRklv0gFvQVVfeXFMT0Y4eTFIZnd1VDlaZm5tUTJTUDFkd3JMTUllOUd2cXpfN2hIRjVWLV84ZXQxb3pRT1BRbmFZb0x1MzRPaW5xTTN6QXlsdkNiOXZDd0ZSdy1SZ0hJZ0YwODZvMG84VnJkSUNvZTFZbm93?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 00:04:52 GMT"
-    },
-    {
-      "title": "문혁수 LG이노텍 사장, 어플라이드 인튜이션 CEO와 회동",
+      "title": "유모차 '줄즈', 아름지기 기금 마련 바자회 참가",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qdzFON182aDMtUmJtZWozeDlRb2c2cUZHeXZOQ1JheGw4eDhMRXo3N3FmTDlGckhDdUJhVjEyemhPWFFhOXVPbzZIQmJwSzV2T3RJ?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 23:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNmhGeGtVM29xdnVsT1FIUElDVks3dUdVckVFLTRHSm9VRmFYc2d1bDM4eFNaQ1FnRG40MzdRMEJoakczM1R3ZjZWU3c1VWVRNVZv?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 03:30:00 GMT"
     },
     {
-      "title": "유통업계, 중일 ‘큰손’ 잡기 경쟁 격화",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWThueUVueXNFb01MVW9yM3lfWXFpTWlfdGlRMFZPODZxM3czbzFmMXdRWlNEakxnVzd6dXJqaDVDRHVuZVFuT3J0R2pvMmxlY21NSmVTRWk1Y0lIOFJlOUpnSFVyWGR4RThEd9IBb0FVX3lxTE9yVk1sZUg2enJBbFZ2VDA2WFNMZlZFRGVOc1VnQ0VhSmVMOE1OX01QLVBxQlBIbzdTWTIwMVpSbjloNTNTS1RfZDZSbjJMVDNSVlk2TTFXY041LVpYalRYS3UtbHNmSS1ublZ1aUhoNA?oc=5",
-      "publishedAt": "Wed, 29 Apr 2026 23:37:32 GMT"
+      "title": "\"경선 경쟁 끝, 이제 하나로\"…엄승용, 보령시장 '원팀' 선언",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tOHE1U2JTWGMwVUx1WFJtWmZJWS1FZ3Y1TC12Z3FKSTJON3Z4cjhiNUFKOTlqdVZvZE10U3RmZmdCekJwQVBUVkFHaG5qRXU4MVNn?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 03:38:00 GMT"
     }
   ],
   "sources": [
