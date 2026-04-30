@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-01T07:36:53.164581+09:00",
+  "generatedAt": "2026-05-01T08:33:51.912040+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,476.00",
-      "change": "-12.00",
-      "changePercent": "-0.81%",
+      "value": "1,476.50",
+      "change": "-11.50",
+      "changePercent": "-0.77%",
       "direction": "down",
       "updatedAt": "2026-04-30 22:10"
     },
     {
       "label": "100엔/원",
-      "value": "942.74",
-      "change": "+14.71",
-      "changePercent": "+1.59%",
+      "value": "941.86",
+      "change": "+13.83",
+      "changePercent": "+1.49%",
       "direction": "up",
       "updatedAt": "2026-04-30 22:10"
     }
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.1°C",
-        "feelsLike": "9.0°C",
-        "highLow": "최고 21.2° / 최저 10.5°",
-        "humidity": "65%",
-        "wind": "6.3 m/s",
+        "temperature": "11.9°C",
+        "feelsLike": "9.5°C",
+        "highLow": "최고 20.8° / 최저 10.4°",
+        "humidity": "60%",
+        "wind": "7.8 m/s",
         "rainChance": "4%",
-        "pm10": "30.2 μg/m³",
-        "pm25": "27.7 μg/m³",
+        "pm10": "15.8 μg/m³",
+        "pm25": "14.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-01 07:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-05-01 08:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "11.3°C",
-        "feelsLike": "8.9°C",
-        "highLow": "최고 19.0° / 최저 10.0°",
-        "humidity": "70%",
-        "wind": "9.8 m/s",
+        "temperature": "12.5°C",
+        "feelsLike": "9.8°C",
+        "highLow": "최고 18.9° / 최저 9.5°",
+        "humidity": "65%",
+        "wind": "12.4 m/s",
         "rainChance": "6%",
-        "pm10": "30.2 μg/m³",
-        "pm25": "27.7 μg/m³",
+        "pm10": "15.8 μg/m³",
+        "pm25": "14.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-01 07:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-05-01 08:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "10.7°C",
-        "feelsLike": "8.1°C",
-        "highLow": "최고 22.7° / 최저 9.6°",
-        "humidity": "69%",
-        "wind": "10.0 m/s",
+        "temperature": "11.9°C",
+        "feelsLike": "8.7°C",
+        "highLow": "최고 22.7° / 최저 9.3°",
+        "humidity": "62%",
+        "wind": "13.0 m/s",
         "rainChance": "4%",
-        "pm10": "30.2 μg/m³",
-        "pm25": "27.7 μg/m³",
+        "pm10": "15.8 μg/m³",
+        "pm25": "14.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-01 07:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-05-01 08:15"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "11.4°C",
-        "feelsLike": "10.3°C",
-        "highLow": "최고 18.6° / 최저 8.8°",
-        "humidity": "92%",
-        "wind": "8.7 m/s",
+        "temperature": "12.8°C",
+        "feelsLike": "11.2°C",
+        "highLow": "최고 18.5° / 최저 8.8°",
+        "humidity": "86%",
+        "wind": "11.9 m/s",
         "rainChance": "36%",
-        "pm10": "27.9 μg/m³",
-        "pm25": "24.9 μg/m³",
+        "pm10": "31.7 μg/m³",
+        "pm25": "26.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-05-01 07:30"
+        "airQualityIndex": "51",
+        "updatedAt": "2026-05-01 08:15"
       }
     ]
   },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[AI기자의 News Briefing] 5월1일 오늘의 주요 뉴스를 전해 드립니다.",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Mak14WEdkcjhRQjdlLUhtM1Y0X2ZRZXhKVGcwMFk2eG5ORUxOLXI1d3Mxb3p4MTNFLXI2MEIxUDJKV2NBNnpnZ3hwYUY2Q0x5Tk5rZ3h0d0NpS1RvTXFHalpwQk4wakxxRnc?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 22:14:15 GMT"
-    },
-    {
-      "title": "[26년 5월 1일(금)] 코스피, 6600선도 깨졌다…사상 최고치 찍고 급락 - 비티의 오늘 주요 뉴스 요약",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQkNuSEFQVExnai1RSGpWMWFNTHpuNklIV2tZWEtPcWhHNjRmbTBmd2NFNExFZm9GbFlUYkRqNm9sd0trRjZPOTV4UFJ0TGdhaUlxaVlTNzNCbkdNenJka1NBZmVzU0RFaFdwa3ZqUGhlbmdNWHZobkRhc1lYVmRjTg?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:40:00 GMT"
-    },
-    {
-      "title": "\"달러-원 환율 1470원 후반대로 후퇴\"",
+      "title": "통영시, 경남패스 환급 확대…최대 100% 교통비 지원",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4T0kxMXhIa0thTXRRbFVmc3IzWEpZbkNBeC1ESktzQ3JZcWY0RWpwWTlfWThzclo0Rks2TVNzRVlOMGJxOEc1anhYX1dJdXVXWWY4?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 22:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTEl6ZG5adDlzWHAzUXIwWms1NjlvMVVUYkNlT3dTcTMxbGkxX1NBS3QzWks0dl9PSHo5eGJlWkpvU19QcDlHWXF6MFROOVk1bE1Ma0VDOHVEMWJ2QVowTw?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:31:00 GMT"
     },
     {
-      "title": "북한, 사회주의애국청년동맹 11차대회 개최",
+      "title": "K바이오, FDA허가 문턱서 막히는 이유는?",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qUlRNRWwwYjdYV2JwZjBabEJHdVdIVkx2U1BFa3NSVXlJcjdsanRUN0lOM1pfdzBQbFNtTGJoaWJLbU9LNDJfMTZPdWtLQm02b3hyRF9ubktnZWJVdFJKaQ?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92WjBkM1V2ZHJMekx4YXRteGN1VGVWNFgtVDZycUh2OG45cU9hajE2Q0RzcnhUbzNlSkJXdUpjV3FvZkI5aWR5Nl91ZFFWWkhna0xRa3lTTDlJMzNWXzhJRg?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:22:00 GMT"
     },
     {
-      "title": "S&P·나스닥 사상 최고치…빅테크 실적이 효자[뉴욕마감]",
+      "title": "트럼프, 스페인·이탈리아 주둔 미군 감축 가능성에 \"아마도\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xSVJHQjJIaEpEYlZJeHpEa29kM1FnOGJaMGNvOVJYU2VaXzVnVUZWSzJ4cVE2RTZlVXZpcmY0N19DUWdWc3dxWnlkZ1FLSlA5M3kw?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xeWRxbXFySWI0RHRnREU1NFdHNWg5clFwWktlU3E2eHRYcmg3QS1RT2JuZFBGTWFuaXF1N1phUzIyNkQydnNLel81c290a2xFcnlN?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:04:00 GMT"
     },
     {
-      "title": "백제왕궁박물관, 어린이날 맞이 역사 체험 프로그램 '풍성'",
+      "title": "트럼프, 이탈리아·스페인 미군 감축 고려 질문에 \"아마도\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jVDFSdHFpM0t3ZWdaLXc5T2lQd3VkTEJBUXFkX0ZQeWptYVZJOFN4aUxGMGpXZ3BfLXF0anVhTWZ5Rl81eEtIWU5mSkJxdUdqVGlJQ1ZadmFFWWRyTjBHdw?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwOFpKWUxtcUFpNzdMY0Vsa1pZQUFfVW1MNU1Rc1pjeHJTQ1J1ejRDS2piNXlFd0l1RlhRclVTSHFxazkyLVRDMTRmSFJyclV6U0JZ?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 22:47:00 GMT"
     },
     {
-      "title": "유닉스, 5월 가정의 달 할인 행사 진행",
-      "source": "하이뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nX010eXctalVKeVl0akFTbVVCdVEzNmhLZWxqX2VuY0k1V254N2FRRjI5YUFjMG1JTnlOV3VpdWIza21iWXRXVjllc3pFcUtxMVc4Yzk4d0FQTVpGWFBtd1F6aXM5WE5lRUxZNExYa1I0eFd0ZGxz?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 22:30:00 GMT"
-    },
-    {
-      "title": "[대구소식] 반려견 유기 막는다…등록 의무화·단속 강화",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TTTN5LXctUmFwcHd2UWNNMWk1b1ZRU0tKTnJmeUROU0hHM3cwSXh6V2FFeXlwRS1lSDRDeEVOWGRtZGUyYVltejNnUDlQdDVFYUhnTkVPS0VWYXPSAWBBVV95cUxPYXFud1Rta0dHQ2toNzVZcDFuaFdSaS00SV9FejZLUG16c0VUV0JjdDJ1ZkdjNjgtOG5FdUlHWGU5Y3dMQkNuN3VSb191d2xIa0k2TTVfaFZWb1Zic2ZZTE8?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 21:46:00 GMT"
-    },
-    {
-      "title": "4년째 필리핀서 '독도' 알리는 부부…3호 '히어로' 선정",
+      "title": "북한, 천리마 제강 연합 기업소 직원들 조명…\"집단적 혁신\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjb0F3N2k5U3NXT00zQ3NmVHdwbG9sTE43RnFseU0ySXV5dW40Ym52SjMyWlJDYU5LNmR1N05EY00taU80MHVGRGJRZWRVcl9SXzNSR3VJM0ZBWWRDbG9vY3FXdklld0JuVGhsTmdrV2QwVm9SSHI5bA?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 22:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1NENEakZZTVVRWmdFVHh6MU9pc0dKTGZqdFRFN3N3d25uVEhnaElZRkRuQlk4cm0yQ1ZiYnpLbERwTUh6RlFaWGxjZ0hyR0FvNTJGYm03WllCUFlBZTdQcQ?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 22:36:00 GMT"
     },
     {
-      "title": "트럼프 \"이탈리아·스페인 미군도 감축할 수도…전혀 도움 안 됐다\"",
+      "title": "톱스타 없어도…넷플릭스 영호러 '기리고' 글로벌 4위 [N이슈]",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vb25OQ2s2Q3laV1dOaTlxcXAwQUdiLTZGOTFJSlpsdktPNm9DeVlRZDRiU1ZkbkdyQ2U3U0s4SDZUTmZzSGdPT0pMNTNmYTd5amlDSllSRFQ5Nmo0cEJISw?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:15:00 GMT"
+    },
+    {
+      "title": "트럼프, 영국 국왕 귀국 선물로 '스카치 위스키' 관세 폐지",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PZ1o1Tnp6SWY0UlFUcElRVlp0NWotU3JNeC0ySnI0d2kyR1NyaFQ4bUZnaThyMDNpVVpJUjdEaXVNenZ6NHhMMEdhWWxHMWk4d0x3?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 22:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tRmxCT0xGVXQ4ejdxOVpwekd0emNxaWRhcDNiRXZWR05sSDRNSUpaNUs3cm9KbE1EZWw0bG4xZGtILWNXSVd0NnRWNUMyTFdZRDFERjNnWFFHdUk2Y3g3Mw?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 22:34:00 GMT"
+    },
+    {
+      "title": "중동평화 정부대표, 유엔과 중동 전쟁 등 논의",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pbzhBMVIwU2pPcmJsRndpbGVwM3lEM1hEeGU0ZjZkVTZpRXdRcnNzWnI3Q2UyUXItdS01WlZlaTc5VXBkLUxGZnRHT0tqY0I3RXV6UDRXVVB0Q0gxdnJmNFdIYjZ2SHc?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 22:52:54 GMT"
+    },
+    {
+      "title": "미얀마, 아웅산 수치 가택연금 전환해 감형…\"18년 남아\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90LW4yOWxCVUtNdVA4d1c3aHc3REJ4bURuZnJUZENQWldBY1hNWHpESklKb3FhQmpmdjBCanZSTm9tT3N6UDVEZVpLWFVGcmptaF93?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:12:00 GMT"
+    },
+    {
+      "title": "버스기사 눈 찌르고 차에 대변까지…60대 집유",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vVjlFancxX1M5TndTV3doazB0OVBaODhBVHNMT255WUlBU0JiWFpBN0pZcG4wdmJYb3NCdzNMdUpsb3BQakRGdlF1WnZyZXU2QXp6b3RfQndiYXlMMS03ZQ?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 22:45:00 GMT"
     }
   ],
   "sources": [
