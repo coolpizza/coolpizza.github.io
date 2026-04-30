@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T22:31:45.418442+09:00",
+  "generatedAt": "2026-05-01T00:28:06.772693+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,861.81",
-      "change": "-280.12",
-      "changePercent": "-0.57%",
-      "direction": "down",
-      "updatedAt": "2026-04-30 05:20"
+      "value": "49,416.13",
+      "change": "+554.32",
+      "changePercent": "+1.13%",
+      "direction": "up",
+      "updatedAt": "2026-05-01 00:10"
     },
     {
       "label": "S&P 500",
-      "value": "7,135.95",
-      "change": "-2.85",
-      "changePercent": "-0.04%",
-      "direction": "down",
-      "updatedAt": "2026-04-30 05:32"
+      "value": "7,166.70",
+      "change": "+30.75",
+      "changePercent": "+0.43%",
+      "direction": "up",
+      "updatedAt": "2026-05-01 00:15"
     },
     {
       "label": "나스닥",
-      "value": "24,673.24",
-      "change": "+9.44",
-      "changePercent": "+0.04%",
+      "value": "24,724.66",
+      "change": "+51.42",
+      "changePercent": "+0.21%",
       "direction": "up",
-      "updatedAt": "2026-04-30 05:15"
+      "updatedAt": "2026-05-01 00:10"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,477.30",
-      "change": "-10.70",
-      "changePercent": "-0.72%",
+      "value": "1,477.70",
+      "change": "-10.30",
+      "changePercent": "-0.69%",
       "direction": "down",
-      "updatedAt": "2026-04-30 22:00"
+      "updatedAt": "2026-04-30 22:02"
     },
     {
       "label": "100엔/원",
-      "value": "942.13",
-      "change": "+14.10",
-      "changePercent": "+1.52%",
+      "value": "944.25",
+      "change": "+16.22",
+      "changePercent": "+1.75%",
       "direction": "up",
-      "updatedAt": "2026-04-30 22:00"
+      "updatedAt": "2026-04-30 22:02"
     }
   ],
   "weather": {
@@ -68,119 +68,119 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.6°C",
-        "feelsLike": "11.4°C",
-        "highLow": "최고 21.2° / 최저 7.8°",
-        "humidity": "53%",
-        "wind": "5.8 m/s",
-        "rainChance": "3%",
-        "pm10": "11.1 μg/m³",
-        "pm25": "10.3 μg/m³",
+        "temperature": "12.7°C",
+        "feelsLike": "10.8°C",
+        "highLow": "최고 21.0° / 최저 10.8°",
+        "humidity": "64%",
+        "wind": "6.6 m/s",
+        "rainChance": "4%",
+        "pm10": "14.4 μg/m³",
+        "pm25": "13.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-04-30 22:15"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-01 00:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.7°C",
-        "feelsLike": "10.5°C",
-        "highLow": "최고 20.3° / 최저 5.5°",
-        "humidity": "71%",
-        "wind": "11.0 m/s",
-        "rainChance": "4%",
-        "pm10": "11.1 μg/m³",
-        "pm25": "10.3 μg/m³",
+        "temperature": "12.2°C",
+        "feelsLike": "10.1°C",
+        "highLow": "최고 19.0° / 최저 9.4°",
+        "humidity": "73%",
+        "wind": "10.1 m/s",
+        "rainChance": "6%",
+        "pm10": "14.4 μg/m³",
+        "pm25": "13.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-04-30 22:15"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-01 00:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "10.7°C",
-        "highLow": "최고 20.1° / 최저 6.6°",
-        "humidity": "66%",
+        "temperature": "12.1°C",
+        "feelsLike": "9.9°C",
+        "highLow": "최고 22.8° / 최저 9.0°",
+        "humidity": "68%",
         "wind": "9.0 m/s",
-        "rainChance": "3%",
-        "pm10": "11.1 μg/m³",
-        "pm25": "10.3 μg/m³",
+        "rainChance": "4%",
+        "pm10": "14.4 μg/m³",
+        "pm25": "13.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-04-30 22:15"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-01 00:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "11.8°C",
-        "feelsLike": "10.5°C",
-        "highLow": "최고 19.3° / 최저 8.2°",
-        "humidity": "74%",
-        "wind": "4.7 m/s",
-        "rainChance": "22%",
-        "pm10": "22.0 μg/m³",
-        "pm25": "19.6 μg/m³",
+        "temperature": "10.8°C",
+        "feelsLike": "9.8°C",
+        "highLow": "최고 18.8° / 최저 8.9°",
+        "humidity": "85%",
+        "wind": "4.3 m/s",
+        "rainChance": "36%",
+        "pm10": "22.8 μg/m³",
+        "pm25": "21.0 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "60",
-        "updatedAt": "2026-04-30 22:15"
+        "updatedAt": "2026-05-01 00:15"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 4월 30일 (목)",
+    "todayLabel": "2026년 5월 1일 (금)",
     "areas": [
       {
         "region": "서울",
-        "monthLabel": "2026년 4월",
+        "monthLabel": "2026년 5월",
         "chains": [
           {
             "label": "이마트",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 18:54"
+            "holidayText": "05/10(일), 05/24(일)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "롯데마트",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 18:54"
+            "holidayText": "05/10(일), 05/24(일)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "홈플러스",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 18:54"
+            "holidayText": "05/10(일), 05/24(일)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "코스트코",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 18:54"
+            "holidayText": "05/10(일), 05/24(일)",
+            "updatedAt": "2026-05-01 00:25"
           }
         ]
       },
       {
         "region": "김포",
-        "monthLabel": "2026년 4월",
+        "monthLabel": "2026년 5월",
         "chains": [
           {
             "label": "이마트",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/08(수), 04/22(수)",
-            "updatedAt": "2026-04-25 19:06"
+            "holidayText": "05/13(수), 05/27(수)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "롯데마트",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/08(수), 04/22(수)",
-            "updatedAt": "2026-04-25 19:06"
+            "holidayText": "05/13(수), 05/27(수)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "홈플러스",
@@ -200,62 +200,62 @@
       },
       {
         "region": "일산",
-        "monthLabel": "2026년 4월",
+        "monthLabel": "2026년 5월",
         "chains": [
           {
             "label": "이마트",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/08(수), 04/22(수)",
-            "updatedAt": "2026-04-25 19:06"
+            "holidayText": "05/13(수), 05/27(수)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "롯데마트",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/08(수), 04/22(수)",
-            "updatedAt": "2026-04-25 19:06"
+            "holidayText": "05/13(수), 05/27(수)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "홈플러스",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/08(수), 04/22(수)",
-            "updatedAt": "2026-04-25 19:06"
+            "holidayText": "05/13(수), 05/27(수)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "코스트코",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/08(수), 04/22(수)",
-            "updatedAt": "2026-04-25 19:06"
+            "holidayText": "05/13(수), 05/27(수)",
+            "updatedAt": "2026-05-01 00:25"
           }
         ]
       },
       {
         "region": "익산",
-        "monthLabel": "2026년 4월",
+        "monthLabel": "2026년 5월",
         "chains": [
           {
             "label": "이마트",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 19:06"
+            "holidayText": "05/10(일), 05/24(일)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "롯데마트",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 19:06"
+            "holidayText": "05/10(일), 05/24(일)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "홈플러스",
             "todayClosed": false,
             "todayStatus": "오늘 영업",
-            "holidayText": "04/12(일), 04/26(일)",
-            "updatedAt": "2026-04-25 19:06"
+            "holidayText": "05/10(일), 05/24(일)",
+            "updatedAt": "2026-05-01 00:25"
           },
           {
             "label": "코스트코",
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-04-30 17:59:14",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-04-30 15:00:57",
         "districtSamples": [
           {
             "district": "강서구",
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-04-30 17:59:47",
+        "stationName": "봄까치셀프주유소",
+        "address": "전북 익산시 평동로 796",
+        "updatedAt": "2026-04-30 17:59:25",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[뉴스9 광주·전남 헤드라인]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tYVRuRmlTWk01VFd4QS1ZZWZCbloxWEtaNlhJVVNrZnRsU05RbDZac3pfTkhNWVNJUmpUaXBJY0VmSXVLNWNGc29iSVZxMUVUVXZmNUpNbGpVNE0?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 12:34:00 GMT"
+      "title": "트럼프 '주독 미군 감축' 언급에…독일 \"대비하고 있어\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zdjAzNHRMQk1sMVBDUUFnX0NyVGh6MFlWekEyb3FlZXNkclF6ck5DSWU1RnluNWNPLXN3LUJkX05LSlJ5VTJoaHRXTFBwRXo1aTFVblhjZW1GVjTSAWBBVV95cUxPRXRESU4xME5rZ2hQNE5lRjFhUi1CRllwQzZJM0l1c2c5YXJ6c0RjWkhHMXNldlZOVVVaLWp2WHVQZ1NEY3RULTdsU2IzOWxycHpsQlA3RG1BZEZtYUVEalQ?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 14:49:54 GMT"
     },
     {
-      "title": "\"'폭언 논란' 김문훈 목사 엄중한 권징 우선 시행하라\"",
+      "title": "[포토]'현수형 미안!' 6회말 김현수 안타 지우는 박해민",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YWFdkOWN5S2MyNjFfaGlqZHExYzJYc3duQnRTR2VTeUFRM0N3RWxQY1phakptUjNhWTJzbmc1bFdPWnU4U0h6cTd6eklsdF9FRUpfaWwyeW5zYjNh?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 15:03:00 GMT"
+    },
+    {
+      "title": "연휴 동안 포켓몬이 선사하는 스페셜 추억",
+      "source": "게임톡",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OY1NYVHYzX01pNF9nM3dMdkV0V1VqWFZTMmxtQmtYTVYyQTFsTU00ZXZxR3U4Q3ZaSUs4ZXdoRDNIOVU0bWlnX1lOWWMweENQOTFOY0Z1ZnZGOTVuV2JlRGlqS2ZsbDI4Y21lYQ?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 15:04:11 GMT"
+    },
+    {
+      "title": "라면 36%·김치 52%·장류 58%…식탁 물가 한숨 돌린다",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkWHJOMXF3d0lWMDg0cDFTbDlfYzNiSkljMFhPWXZiMXNmTWw5WFJIcjltUWJlamZiYXI5VGhldTRfelhRVkViNjh1TGNfbnlyQnfSAVNBVV95cUxOcVJVLUlPQTBacFdCZ0hyT21qWTU1bWJRRDU2Mjh1SHVQdExWUmNDUXJaRXgyMWFNdjg1enFXMVJqeUIwX2k2eFBxaS1xSllweFpWOA?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 14:34:53 GMT"
+    },
+    {
+      "title": "\"유권자 벌레 취급\"…\"현실 정치의 네거티브 공세\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsMzVDQV9mNW1oSWxNeDRqTWM4QWhaYXV6MzBiSzFXd1NTazJHVnVyal9Yd0dWOFJzU0l0Y0tsS29fVlUwcEVudTU0Z0psWmpseC1R?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 13:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wUFBoWXRmcENZQ3RxdjZNRWNJcnIwcjhIdlBja0d5NGlSal9ZTlhkNlpROXJrQWtSSk9mUmVRcWJYUmFKTHpMVi1tTVREdVRSRmx3?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 15:18:00 GMT"
     },
     {
-      "title": "면허취소·집행유예 중 또 음주운전…20대 남성 구속",
-      "source": "노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fQVFUbWxzM2d5Z2J4SkxMUFZiTEdUS3BhRjljYVlGX2VESURQQ2tpVU5tOGJGamZDWkJ2eUxOYXp2MDF3SUFTZ2VsdURKNnVUWmc?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 13:07:00 GMT"
-    },
-    {
-      "title": "[뉴스9 강원 오프닝]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SUlJkLU1NMHd5aW5PcjZoQjdyQTNqMC1OXzRjSjk1OUhnZVNPMnZ3dUVkdmJjbDAyY0xuVmUzYjNUSzF3TXZoaTNIWk83aVRfMTR4WkZjWGhiWUE?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 12:38:00 GMT"
-    },
-    {
-      "title": "주요주주 SGK, SG&G 주식병합으로 주식 수 감소",
+      "title": "트럼프 \"주독미군 감축 검토\"…비협조 동맹 겨눈 뒤끝",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ySGJObUc5NHVjR1hDSU9FcU1nSnd1VXZzRkVRVUFGR2ZYYjc2dVBRcE4wa01aSFNMNTVEYWJvYU1sc3phYzVnWFNDQmt2WnR5MHdN?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 13:11:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hR3h0OUhrMzVFSmZ2aUhnTDlVUkJfendDSlk5dnBIVjlVZm91dklRQVhZcWMwMVFNVVF3N3RPb2ZuTXY2aFphbkVWbjJ2QWJZT3ZR?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 15:13:00 GMT"
     },
     {
-      "title": "미국 1분기 성장률 2.0%로 회복…전망치에는 못 미쳐",
-      "source": "노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YQXd1UXdIeGxEX2tOTnlJc1V0LTNWOHNQemZRbHUwTllhbjI0dU4wS29aLWhvamxHbWNyNzd4ODBYWDdVRGRjVGt6NHY2b3NrNmc?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 13:06:00 GMT"
-    },
-    {
-      "title": "디오, 주요 경영진 대상 자기주식 5770주 처분 결정",
+      "title": "엄마·아빠, 월요일도 쉬면 안돼?",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJTThPZDUwczdKUkE0c0t1aVlxNFZZenJIS1VPU2V6QmFIeGFkTElacldNTXRQOG8xSjM3eXdycmdIQWp2S1A0SjRwTTJWUnEyY2sw?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 13:11:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcVZZR1ZyQkxqeDNfeDlKV0ZHdVkzVmVPb0VYeTBiWEdDbkNtR1ZJTmxOeWdvbjF1RWpLak52OTNCMndOd3pLVmRHMnY0WG1zQ2Ew?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 15:03:00 GMT"
     },
     {
-      "title": "미국 1분기 성장률 2%…반등했지만 기대 이하",
+      "title": "\"산재·체불 잡은 이재명 정부, 고용·유연성 정책은 미흡\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FOHc1SXlLNUZiQ0VUYTdGRjRsd1d2SkZ0b25HcmZZSlp0NDdXaC1UdDM5SjlaOHpST0VudjdLbEVXY1lQaFpydHROZXp3bnJ5Nmh0Y1NXRWd0SUFLQjAxMg?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 12:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYWFVpVEhQekg3WU5vMUp0UW14R0UwbHFXajhhYjQwWW1uc1A4bjVNU0JxNG12VnhnT3pCbXJ1cXdpQnlVVW5ib3ZzdjdRaGdxel9r?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 15:02:00 GMT"
     },
     {
-      "title": "코닥어패럴, '코닥어패럴X히로노' 협업 컬렉션, 오픈런에 주요 품목 품절",
+      "title": "'충격' 고향 지인 초대했는데 '유리병 테러' 날벼락…우파메카노 친구, PSG 팬들이 던진 투척물에 \"이마 찢어지는 중상\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpYTg4dEdkVHkwRS1uSE5yR2JTeVFXYi1EeG9tRFpMT3ZJZi1lMW9nb1d0cHZlbDk2dVk2YUg1c1RMY3J6STQ5aUdzbUFRNlFhSzJ1WHlNM1o2Q19lemhiX2RNTE1zaE9GZmdxTk5GdWpvcXNiUEFCTA?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 13:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kUUxnVUtyaTh2cjZ3OEZOSXV4NXNzLUE4cjdNM1JOYWVPUlVLRTBNU2lySVJQYWNxV1A0V1VZYWNvUnNyWWRBLWVHUnQ2WVpJZmczUDMtb2s2UExWVFFYMGJSNHk1OTFuakxHM2ZDTVB6TlR5eXprQg?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 15:15:00 GMT"
     },
     {
-      "title": "유럽중앙은행, 금리 동결…\"물가 상방·경기 하방 리스크 커져\"",
+      "title": "반도체로만 53조 번 삼성, 곧 7세대 HBM 공급",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HMW1IYTVSaTdYQUp5WGpWRTFwMTFueVhIZ2J6WUt5Mkd3Y21MTklja2FYaldQcllaUWRGQWIwUUZEV3dsTGhrV1UtM2dZSWpWNXFwQzRMVkJxcHVJRFhFVFdsRlJLYVNncW1DVFNpNnptZGY0X1BYMA?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 13:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YeTMyRHJvM29Id0xjODZScHZ2alp4ZTA2cGZXV0dub0JER3pGNWtvNTBtTDhKajgzMEJYTDhPWmtneWp3SmFrajN3b09XLXpjWHZ3?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 15:02:00 GMT"
     }
   ],
   "sources": [
