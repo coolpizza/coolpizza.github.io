@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T06:31:42.325050+09:00",
+  "generatedAt": "2026-05-02T07:14:32.669519+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "8.6°C",
-        "feelsLike": "7.9°C",
+        "temperature": "9.1°C",
+        "feelsLike": "8.4°C",
         "highLow": "최고 19.0° / 최저 8.4°",
         "humidity": "99%",
-        "wind": "1.6 m/s",
+        "wind": "2.9 m/s",
         "rainChance": "51%",
-        "pm10": "54.6 μg/m³",
-        "pm25": "51.9 μg/m³",
+        "pm10": "54.5 μg/m³",
+        "pm25": "52.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-05-02 06:15"
+        "airQualityIndex": "62",
+        "updatedAt": "2026-05-02 07:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "9.1°C",
-        "feelsLike": "8.0°C",
+        "temperature": "9.7°C",
+        "feelsLike": "8.6°C",
         "highLow": "최고 17.5° / 최저 8.2°",
         "humidity": "99%",
-        "wind": "5.5 m/s",
+        "wind": "6.6 m/s",
         "rainChance": "53%",
-        "pm10": "54.6 μg/m³",
-        "pm25": "51.9 μg/m³",
+        "pm10": "54.5 μg/m³",
+        "pm25": "52.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-05-02 06:15"
+        "airQualityIndex": "62",
+        "updatedAt": "2026-05-02 07:00"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "9.3°C",
-        "feelsLike": "8.2°C",
+        "temperature": "9.6°C",
+        "feelsLike": "8.5°C",
         "highLow": "최고 17.1° / 최저 8.6°",
         "humidity": "99%",
-        "wind": "5.8 m/s",
+        "wind": "6.9 m/s",
         "rainChance": "60%",
-        "pm10": "54.6 μg/m³",
-        "pm25": "51.9 μg/m³",
+        "pm10": "54.5 μg/m³",
+        "pm25": "52.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-05-02 06:15"
+        "airQualityIndex": "62",
+        "updatedAt": "2026-05-02 07:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "8.0°C",
-        "feelsLike": "6.2°C",
+        "temperature": "9.2°C",
+        "feelsLike": "7.7°C",
         "highLow": "최고 20.3° / 최저 7.5°",
-        "humidity": "92%",
-        "wind": "7.1 m/s",
+        "humidity": "89%",
+        "wind": "6.1 m/s",
         "rainChance": "33%",
-        "pm10": "53.2 μg/m³",
-        "pm25": "49.7 μg/m³",
+        "pm10": "49.0 μg/m³",
+        "pm25": "46.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "62",
-        "updatedAt": "2026-05-02 06:15"
+        "airQualityIndex": "63",
+        "updatedAt": "2026-05-02 07:00"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-02 00:58:40",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-01 18:00:12",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,16 +376,28 @@
   },
   "news": [
     {
-      "title": "[지선 D-30] 남은 주요 변수…부동산·단일화·투표율·공소취소",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZk9xWUZCS0dlYXJSRTVjZTdqdi1lUXJINnhORG10RTNmcXplNXkzcVdFd2w5ZVJ1Y0FqMnN2R0lEX2xzS3lFcnFzZUh2UGxHM1BGNHdYX1pCQQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 21:00:00 GMT"
-    },
-    {
       "title": "[모닝와이드] 오늘의 주요뉴스",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjM0FLN1c5Uy1RWWdfVWRsNkcxa3hsYmFZdnFmbWt1RktRNUpFQjlyVlc4dDlMMVNiYXhnY1k3M3BkR2NvbDE1cFJ2ZERpRk5UeWtyanloTklabFpWT3NNMFpabFY1MldTMUE1RW9MYkIzVVRTSnJWVg?oc=5",
       "publishedAt": "Fri, 01 May 2026 21:17:00 GMT"
+    },
+    {
+      "title": "[26년 5월 2일(토)] \"여보, 우린 구글 없어? 옆 집은 퇴사한대\"… 시총 1위 턱 밑 구글, 벼락거지 된 개미들 '오열' - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdWQ4X1JRb3FTS1dSX3BzMW53MVkwdW5QdVYyX0JfdUJHVm9WaVNWTGFwUVhNRTl6bFdYLTkyZnd1czRfSEVvTmFuYjBsTHo1X3R1bFBFNjBlYmY4cjl4SXRZX3BuWG80dC1zd2pLTkNKVE9BTmktby1DZGZQVnJQVQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:40:00 GMT"
+    },
+    {
+      "title": "[속보]美국방부 \"독일 주둔 병력 5000명 철수 추진\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FemVBQmZJR2trUzVFZE9Dc0d4M3F2amtOamFNU19BZnFYSW5VakZicU0yWElvajQwRlJoNk1MZ1p2QnVmc2cyeXRWWlpUR3RSOUZpOVV1YnZPNFNZNU9PMw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 22:01:00 GMT"
+    },
+    {
+      "title": "DN오토모티브·리노공업·세나테크놀로지[하나證 주간추천주]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tNDJaaGlVc21BdzAyZ1dOa3lrcElVY1pRSW4yV05lQXBYSVhSQU41WkljQXN0cXdBWHR2ZWhsYkNHTnVzWEhfYTZtbS1Qd2paS2F3ampHd245ckRJa1Frag?oc=5",
+      "publishedAt": "Fri, 01 May 2026 22:02:00 GMT"
     },
     {
       "title": "[속보] 국제유가, 하락…WTI 2.98%↓",
@@ -394,46 +406,34 @@
       "publishedAt": "Fri, 01 May 2026 21:15:00 GMT"
     },
     {
-      "title": "[속보] 뉴욕증시, 혼조 마감…나스닥 0.89%↑",
+      "title": "US May Day Chicago",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04akxYbFFyM3pnaFg5TFFrYlUzR1Rqa1dBT25pLUpBYnRmaThodDBqbV8zdUVsNTIteUVPTVRCdlI1ekNvUHhUQjNPeDJYeHM0Q3ln?oc=5",
-      "publishedAt": "Fri, 01 May 2026 21:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtVXFhU0VVLWFHSWs4NksxSVJ2eVJuS3VmUzA0dEFodzV5aWllai1VVHVPNGxVYW1kdHBvd3BXdVhybVVBa2ctVzR4WDR6ekV6ZlB4Z0VHZEhDLUJCSVlENA?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:16:00 GMT"
     },
     {
-      "title": "FDA, 액섬 오벨리티 알츠하이머병 초조 치료제로 승인",
-      "source": "의약뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UmhPSmtPeFgtUGo0bWdGWkw1bFMxenJaVUx0YXJwX0I5RXhvRTBMN0hwaDFRMXBYZFhXelVvRlhHc1hrVVFjMVpCcDlDUGx6S0FqSFJRV2oxWFlzdlZwNk9WNjRFSVU?oc=5",
-      "publishedAt": "Fri, 01 May 2026 21:02:04 GMT"
-    },
-    {
-      "title": "얼음 해쳐 '북극 항로' 뚫는 쇄빙선…'K-방산'에도 기회 요인?",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GSFh4dnBubXJfTXlUVl9xR2I2S1VXdi1qdU8zOXlDXzA4WHdnOFVwZUlQNTZuVjIxNHR0bl9BT2cyYXdzNkx0OFBGUVlrZEdjb0pRVW1KUVR0YXJuWmZqV1o5aEFGazQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 21:00:00 GMT"
-    },
-    {
-      "title": "[세종 인사이드아웃] 정부 주요 정책, 알고 보니 '이재명 경기도 공정국'이 원조",
+      "title": "뜨거운 코스피, 차가운 엔터주",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KUGFSYms4azJpQ2hNR2hsOFBTTk1OdDltSjVLU0RDcXVYYW03bWZpWE1seDk1Y2dkV1VZRVc2ZXJEWU96bFhybkEyU2pqNkZ3emNn?oc=5",
-      "publishedAt": "Fri, 01 May 2026 21:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qaHZBczJfREZWREJVemplU1pRRXZLUlB1SGRHWjJwT2VPZFlnMUNiMHJVWUhEcXFOTF9fNGl0dG1vWXRCSTE3RjlBSThGRmh1cUVONTNyMW5VU3NrTU1KOQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 22:09:00 GMT"
     },
     {
-      "title": "카카오, AI 도구함 확대⋯AI 에이전트 '오픈클로' 연동 지원",
+      "title": "배터리는 이제 데이터센터로…AI 전력 ETF 뜬다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzdzVxdGF5OHdxSUZYSlBRQldMdkVFTVdiNFJXUUpxNXNvSzl6b3ZlTjRnQmljQmJ0cXh1bjU4VkJKRy1kdDJKVHNaVE5FeWk0OVFn?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xd1NXVlQyR18weEY5SE11RjVXWmFkcUJMYmE4X0ZiMEhEUVhmTUE4cVdGZFd2R0NSbEtwMl93SnFmcG50UlBzVkJ2RGlWa0ZtT3NlMHA1ZmRxQjlJdU9aMg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 22:02:00 GMT"
     },
     {
-      "title": "'만능 트롯테이너' 이찬원, 오늘(2일) '여주 도자기 축제' 출연",
+      "title": "가상자산 시장, 다음 메타는 'AI 에이전트 결제'?[박현영의 코인사이트]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtZXZ3QzRUT2J3d2hHY2RnYTdQT29acjBtaHVraFVtRzVXOHptNndXOGtLM21HemRvdm5wamRyRTZ1U0M4aFZHWFFySU45b2g2VkdZ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 21:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1URFpXLU1DM3FCMDZ0U1h6MVVuUy10bHczdy1CQXJTOVdRQmpVUERTSGZKdmhjNXhRV1pOZDdiVjJ1a19QV2tWSlRtOGpFSG10S1JN?oc=5",
+      "publishedAt": "Fri, 01 May 2026 22:01:00 GMT"
     },
     {
-      "title": "[오늘 날씨] 낮 최고 26도 '포근'…연휴 둘째 날, 수도권 미세먼지 '나쁨'",
+      "title": "[챗집피티]강남 8학군 품은 '경·우·현'…통합재건축으로 새판 짠다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Yd1pVWHQ3dWRkMHluSU8ySWF6R1JLNVpKYVVWNVQ2ZklQZkhya09EdzBlLTRrdkc4ZmhJNTl4SHZDZTVNNzNTSEUySTBDVVF5eHdV?oc=5",
-      "publishedAt": "Fri, 01 May 2026 21:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YLV9CZzRvaVRLeVRpQVV1ZGxzU3VtU3NXN083U09WUEQ3WEIyOGVsNlNtcldYNkx6WExHVFM2dWtHVEJkZWxxei01ZDE4TGJKRGQ3aG1mUDdzd2o0R2FFT29aQXFqYUlDYVhrcHJyUFZmSzdCYWk4bQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 22:00:00 GMT"
     }
   ],
   "sources": [
