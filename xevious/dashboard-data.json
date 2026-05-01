@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T08:33:51.912040+09:00",
+  "generatedAt": "2026-05-01T09:17:24.741997+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,476.50",
-      "change": "-11.50",
-      "changePercent": "-0.77%",
+      "value": "1,477.00",
+      "change": "-11.00",
+      "changePercent": "-0.74%",
       "direction": "down",
       "updatedAt": "2026-04-30 22:10"
     },
     {
       "label": "100엔/원",
-      "value": "941.86",
-      "change": "+13.83",
-      "changePercent": "+1.49%",
+      "value": "942.17",
+      "change": "+14.14",
+      "changePercent": "+1.52%",
       "direction": "up",
       "updatedAt": "2026-04-30 22:10"
     }
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.9°C",
-        "feelsLike": "9.5°C",
+        "temperature": "13.2°C",
+        "feelsLike": "10.7°C",
         "highLow": "최고 20.8° / 최저 10.4°",
-        "humidity": "60%",
-        "wind": "7.8 m/s",
+        "humidity": "55%",
+        "wind": "8.3 m/s",
         "rainChance": "4%",
-        "pm10": "15.8 μg/m³",
-        "pm25": "14.8 μg/m³",
+        "pm10": "15.0 μg/m³",
+        "pm25": "14.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-05-01 08:15"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-05-01 09:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.5°C",
-        "feelsLike": "9.8°C",
+        "temperature": "14.0°C",
+        "feelsLike": "11.3°C",
         "highLow": "최고 18.9° / 최저 9.5°",
-        "humidity": "65%",
-        "wind": "12.4 m/s",
+        "humidity": "60%",
+        "wind": "12.3 m/s",
         "rainChance": "6%",
-        "pm10": "15.8 μg/m³",
-        "pm25": "14.8 μg/m³",
+        "pm10": "15.0 μg/m³",
+        "pm25": "14.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-05-01 08:15"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-05-01 09:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "11.9°C",
-        "feelsLike": "8.7°C",
+        "temperature": "13.4°C",
+        "feelsLike": "10.4°C",
         "highLow": "최고 22.7° / 최저 9.3°",
-        "humidity": "62%",
-        "wind": "13.0 m/s",
+        "humidity": "57%",
+        "wind": "12.6 m/s",
         "rainChance": "4%",
-        "pm10": "15.8 μg/m³",
-        "pm25": "14.8 μg/m³",
+        "pm10": "15.0 μg/m³",
+        "pm25": "14.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-05-01 08:15"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-05-01 09:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "11.2°C",
+        "temperature": "13.8°C",
+        "feelsLike": "11.9°C",
         "highLow": "최고 18.5° / 최저 8.8°",
-        "humidity": "86%",
-        "wind": "11.9 m/s",
+        "humidity": "80%",
+        "wind": "14.5 m/s",
         "rainChance": "36%",
-        "pm10": "31.7 μg/m³",
-        "pm25": "26.1 μg/m³",
+        "pm10": "34.9 μg/m³",
+        "pm25": "29.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "51",
-        "updatedAt": "2026-05-01 08:15"
+        "airQualityIndex": "50",
+        "updatedAt": "2026-05-01 09:00"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-04-30 18:00:15",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-05-01 07:57:30",
         "districtSamples": [
           {
             "district": "강서구",
@@ -302,16 +302,12 @@
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,969원/L",
-        "lowestDistrict": "계양구",
-        "stationName": "이케이에너지㈜ 금성주유소",
-        "address": "인천 계양구 벌말로 614",
-        "updatedAt": "2026-04-30 15:02:04",
+        "lowestPrice": "1,975원/L",
+        "lowestDistrict": "남동구",
+        "stationName": "지에스칼텍스㈜ 논현제일셀프주유소",
+        "address": "인천 남동구 청능대로 460 (고잔동)",
+        "updatedAt": "2026-05-01 07:58:26",
         "districtSamples": [
-          {
-            "district": "계양구",
-            "price": "1,969원/L"
-          },
           {
             "district": "남동구",
             "price": "1,975원/L"
@@ -325,6 +321,10 @@
             "price": "1,975원/L"
           },
           {
+            "district": "계양구",
+            "price": "1,979원/L"
+          },
+          {
             "district": "부평구",
             "price": "1,979원/L"
           }
@@ -332,15 +332,15 @@
       },
       {
         "areaLabel": "익산 최저가",
-        "lowestPrice": "1,668원/L",
+        "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "서동주유소",
-        "address": "전북 익산시 서동로 165 (마동)",
-        "updatedAt": "2026-04-30 18:13:19",
+        "stationName": "봄까치셀프주유소",
+        "address": "전북 익산시 평동로 796",
+        "updatedAt": "2026-05-01 07:56:27",
         "districtSamples": [
           {
             "district": "익산시",
-            "price": "1,668원/L"
+            "price": "1,969원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "통영시, 경남패스 환급 확대…최대 100% 교통비 지원",
+      "title": "[르포] '인니 물류허브' NPCT1을 가다…고효율·친환경 시스템",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OaTBXaVlCMnUzZjRWc2JvYkltR2FZdGsxWjV2T0h1UEsyV3ctV2RvWDhLU2ZsMGp0ckV1aTB4cUN2U0dWcWx0VWl1cEpmbndnakgzbVpSc3N5VUEyQl9zZ9IBYEFVX3lxTE5OaTBXaVlCMnUzZjRWc2JvYkltR2FZdGsxWjV2T0h1UEsyV3ctV2RvWDhLU2ZsMGp0ckV1aTB4cUN2U0dWcWx0VWl1cEpmbndnakgzbVpSc3N5VUEyQl9zZw?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:34:45 GMT"
+    },
+    {
+      "title": "\"이스라엘, 대이란 전쟁 재개 대비 경계 태세 강화\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTEl6ZG5adDlzWHAzUXIwWms1NjlvMVVUYkNlT3dTcTMxbGkxX1NBS3QzWks0dl9PSHo5eGJlWkpvU19QcDlHWXF6MFROOVk1bE1Ma0VDOHVEMWJ2QVowTw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yZTBWNWo4MXhMelJPaXFMcVlZdzQxZW15S2U0U2dCN2xDWjAxdWdWZm9wZzNNNHg2eFlucDlWZlpoaEZ5SkVyNUpDRzJsWnVxX2NBYS1mSmJ5SXd0T2lacTdhU1pqSFRlNkE?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:43:00 GMT"
+    },
+    {
+      "title": "더라운지, 디지털 전환 및 글로벌원심 서비스 운영",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wb0NSYXlrNUhvVWYyX1lKVzJwbDl4aUpIMzFMUmlWYlprYjB1WEJWQzhGLUh4R0ZNS0VydjdMSzZNT0pueDd0VVFBQkVTMWFVMW1Z?oc=5",
+      "publishedAt": "Fri, 01 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "\"바꾸자\" vs \"보수 뭉치자\"…부산시장 선거 민심 '안갯속'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQQkUyTHNqT3E0STlqcWdNTlpPMkZwV0FXT3NSZWZmQVJiZXBIWERJdEJ5SUI2cnN6ejd4Y0h1OGhuTXNydFVsaWlYLXVpekFVYjln?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:48:00 GMT"
+    },
+    {
+      "title": "애플, 아이폰 공급 제약에도 호실적…분기 매출 1111억달러",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNdWdLeTdScV90ZGt4bE5wNzFtdWVhc3BuZjlBMTlsVEF5TV9aMUIzc2FKTjlTdEF4RmtGTXZfSVVuYTRvN3FWem5adDYxUF8tR1ZR?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:42:00 GMT"
+    },
+    {
+      "title": "삼성전자 1분기 매출 133조…사상 최대 실적",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NOEFJNlBzSkYyOEJwYUp5bWQ4TUhDeDZTZUZVMncxSFp6OWlvbFhYNW1JZnN2SWpodzFHek55QlloU0U5V0hUSXBUNmY0dGtWdzBr?oc=5",
       "publishedAt": "Thu, 30 Apr 2026 23:31:00 GMT"
     },
     {
-      "title": "K바이오, FDA허가 문턱서 막히는 이유는?",
+      "title": "[청년골프] 나이스 샷 홍지원,KLPGA '제1회 DB 위민스 챔피언십'",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLbUJST05VTTFsYy1lSkN0dTZaZWVxbkwzbHdqTHlNSnNvN0lfOEozV2dXeTNyZDZnaUdLWURJNzFMMkhpMXdNWGF0ZHFOekFTYmlsSGRfdVB2djkxYkp5VV91ZENtbVpvcVE?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:58:03 GMT"
+    },
+    {
+      "title": "서울 아파트값 0.14% 상승…급매 소진에 서초·송파 재상승",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFdmE4M29xUW9MWEtqYjJLczBCQ0ZDdDB3d3VUcXlwVzFCMklBWC05blBhdXI0T3pvRThoR3gzZnpDaURDemtIamdaNTlDLTVWS1BJNXp1Z09Zbmxqejlr0gFTQVVfeXFMTVpmaGR1SjNlblM4SlJvaF9ZZkdKZ1lvSkt3UF9nYmliT2ZyZERVSmV2Vll5VkdHRlpDNjdVelpFUHZDSUpENkVVOWpSOXFvN3dyOFE?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:26:12 GMT"
+    },
+    {
+      "title": "유튜브에 '투명 프라이드 치킨' 등장…네티즌 \"노벨상 받아야\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92WjBkM1V2ZHJMekx4YXRteGN1VGVWNFgtVDZycUh2OG45cU9hajE2Q0RzcnhUbzNlSkJXdUpjV3FvZkI5aWR5Nl91ZFFWWkhna0xRa3lTTDlJMzNWXzhJRg?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 23:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MV3RiVjJXUkRNODNKMXVTd2FjdzVub3RpVVJUeXlaLWFxSVBJeXhzb3VJY3hlam1YaUtlSEQ5bDdpWDl4VTdwemdDeGExY2xDUllJ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 00:02:00 GMT"
     },
     {
-      "title": "트럼프, 스페인·이탈리아 주둔 미군 감축 가능성에 \"아마도\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xeWRxbXFySWI0RHRnREU1NFdHNWg5clFwWktlU3E2eHRYcmg3QS1RT2JuZFBGTWFuaXF1N1phUzIyNkQydnNLel81c290a2xFcnlN?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 23:04:00 GMT"
-    },
-    {
-      "title": "트럼프, 이탈리아·스페인 미군 감축 고려 질문에 \"아마도\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwOFpKWUxtcUFpNzdMY0Vsa1pZQUFfVW1MNU1Rc1pjeHJTQ1J1ejRDS2piNXlFd0l1RlhRclVTSHFxazkyLVRDMTRmSFJyclV6U0JZ?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 22:47:00 GMT"
-    },
-    {
-      "title": "북한, 천리마 제강 연합 기업소 직원들 조명…\"집단적 혁신\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1NENEakZZTVVRWmdFVHh6MU9pc0dKTGZqdFRFN3N3d25uVEhnaElZRkRuQlk4cm0yQ1ZiYnpLbERwTUh6RlFaWGxjZ0hyR0FvNTJGYm03WllCUFlBZTdQcQ?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 22:36:00 GMT"
-    },
-    {
-      "title": "톱스타 없어도…넷플릭스 영호러 '기리고' 글로벌 4위 [N이슈]",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vb25OQ2s2Q3laV1dOaTlxcXAwQUdiLTZGOTFJSlpsdktPNm9DeVlRZDRiU1ZkbkdyQ2U3U0s4SDZUTmZzSGdPT0pMNTNmYTd5amlDSllSRFQ5Nmo0cEJISw?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 23:15:00 GMT"
-    },
-    {
-      "title": "트럼프, 영국 국왕 귀국 선물로 '스카치 위스키' 관세 폐지",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tRmxCT0xGVXQ4ejdxOVpwekd0emNxaWRhcDNiRXZWR05sSDRNSUpaNUs3cm9KbE1EZWw0bG4xZGtILWNXSVd0NnRWNUMyTFdZRDFERjNnWFFHdUk2Y3g3Mw?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 22:34:00 GMT"
-    },
-    {
-      "title": "중동평화 정부대표, 유엔과 중동 전쟁 등 논의",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pbzhBMVIwU2pPcmJsRndpbGVwM3lEM1hEeGU0ZjZkVTZpRXdRcnNzWnI3Q2UyUXItdS01WlZlaTc5VXBkLUxGZnRHT0tqY0I3RXV6UDRXVVB0Q0gxdnJmNFdIYjZ2SHc?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 22:52:54 GMT"
-    },
-    {
-      "title": "미얀마, 아웅산 수치 가택연금 전환해 감형…\"18년 남아\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90LW4yOWxCVUtNdVA4d1c3aHc3REJ4bURuZnJUZENQWldBY1hNWHpESklKb3FhQmpmdjBCanZSTm9tT3N6UDVEZVpLWFVGcmptaF93?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 23:12:00 GMT"
-    },
-    {
-      "title": "버스기사 눈 찌르고 차에 대변까지…60대 집유",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vVjlFancxX1M5TndTV3doazB0OVBaODhBVHNMT255WUlBU0JiWFpBN0pZcG4wdmJYb3NCdzNMdUpsb3BQakRGdlF1WnZyZXU2QXp6b3RfQndiYXlMMS03ZQ?oc=5",
-      "publishedAt": "Thu, 30 Apr 2026 22:45:00 GMT"
+      "title": "부산교육청, 디지털 체험 e스포츠 챌린지 대회",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yX1Y5TFRSQk5EYWM2TWE5RFltRnlhWU5PbF9YOGFnTGFsa1ZsZFpXbGkxYU1EX1pCd3JHQTFFRW4yMzZ5QWVlRTJDbE1pNU5lSjBqR2dYX2h2a3PSAWBBVV95cUxNWnEtbGtzOC14TVEwakIwUGJ4ZGJEWC0xR3NmRlFDVmRmREZKMFZzVFctSkI5eGFQMWVqejRZOUY5N0wwalJ1ZVZEUEE3Q2FrdlJfZlVxZ3RTb1lPQ1VkWUc?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 23:30:01 GMT"
     }
   ],
   "sources": [
