@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T02:37:48.065833+09:00",
+  "generatedAt": "2026-05-02T03:47:24.918148+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,622.24",
-      "change": "-29.90",
-      "changePercent": "-0.06%",
+      "value": "49,580.26",
+      "change": "-71.88",
+      "changePercent": "-0.14%",
       "direction": "down",
-      "updatedAt": "2026-05-02 02:19"
+      "updatedAt": "2026-05-02 03:26"
     },
     {
       "label": "S&P 500",
-      "value": "7,251.84",
-      "change": "+42.83",
-      "changePercent": "+0.59%",
+      "value": "7,242.84",
+      "change": "+33.83",
+      "changePercent": "+0.47%",
       "direction": "up",
-      "updatedAt": "2026-05-02 02:24"
+      "updatedAt": "2026-05-02 03:31"
     },
     {
       "label": "나스닥",
-      "value": "25,173.29",
-      "change": "+280.98",
-      "changePercent": "+1.13%",
+      "value": "25,152.43",
+      "change": "+260.12",
+      "changePercent": "+1.04%",
       "direction": "up",
-      "updatedAt": "2026-05-02 02:19"
+      "updatedAt": "2026-05-02 03:26"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,473.00",
-      "change": "-15.00",
-      "changePercent": "-1.01%",
+      "value": "1,473.40",
+      "change": "-14.60",
+      "changePercent": "-0.98%",
       "direction": "down",
-      "updatedAt": "2026-04-30 22:26"
+      "updatedAt": "2026-04-30 22:27"
     },
     {
       "label": "100엔/원",
-      "value": "938.61",
-      "change": "+10.58",
-      "changePercent": "+1.14%",
+      "value": "938.38",
+      "change": "+10.35",
+      "changePercent": "+1.12%",
       "direction": "up",
-      "updatedAt": "2026-04-30 22:26"
+      "updatedAt": "2026-04-30 22:27"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "9.6°C",
-        "feelsLike": "8.8°C",
-        "highLow": "최고 19.3° / 최저 8.7°",
-        "humidity": "95%",
-        "wind": "3.4 m/s",
+        "temperature": "8.8°C",
+        "feelsLike": "7.9°C",
+        "highLow": "최고 19.0° / 최저 8.4°",
+        "humidity": "97%",
+        "wind": "3.6 m/s",
         "rainChance": "51%",
-        "pm10": "53.4 μg/m³",
-        "pm25": "50.6 μg/m³",
-        "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-02 02:30"
+        "pm10": "54.2 μg/m³",
+        "pm25": "51.5 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-02 03:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "8.9°C",
-        "feelsLike": "7.4°C",
-        "highLow": "최고 17.5° / 최저 7.9°",
-        "humidity": "98%",
-        "wind": "7.4 m/s",
+        "temperature": "8.4°C",
+        "feelsLike": "7.0°C",
+        "highLow": "최고 17.5° / 최저 8.2°",
+        "humidity": "99%",
+        "wind": "6.4 m/s",
         "rainChance": "53%",
-        "pm10": "53.4 μg/m³",
-        "pm25": "50.6 μg/m³",
-        "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-02 02:30"
+        "pm10": "54.2 μg/m³",
+        "pm25": "51.5 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-02 03:30"
       },
       {
         "location": "파주",
-        "summary": "흐림",
-        "temperature": "8.6°C",
-        "feelsLike": "7.4°C",
-        "highLow": "최고 17.7° / 최저 8.5°",
+        "summary": "약한 이슬비",
+        "temperature": "8.8°C",
+        "feelsLike": "7.6°C",
+        "highLow": "최고 17.1° / 최저 8.6°",
         "humidity": "99%",
-        "wind": "5.4 m/s",
+        "wind": "5.6 m/s",
         "rainChance": "60%",
-        "pm10": "53.4 μg/m³",
-        "pm25": "50.6 μg/m³",
-        "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-02 02:30"
+        "pm10": "54.2 μg/m³",
+        "pm25": "51.5 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-02 03:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "8.2°C",
-        "feelsLike": "6.5°C",
-        "highLow": "최고 21.4° / 최저 7.5°",
+        "temperature": "7.9°C",
+        "feelsLike": "6.2°C",
+        "highLow": "최고 20.3° / 최저 7.5°",
         "humidity": "93%",
-        "wind": "6.6 m/s",
+        "wind": "6.1 m/s",
         "rainChance": "33%",
-        "pm10": "49.6 μg/m³",
-        "pm25": "46.2 μg/m³",
+        "pm10": "52.0 μg/m³",
+        "pm25": "48.7 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "52",
-        "updatedAt": "2026-05-02 02:30"
+        "airQualityIndex": "56",
+        "updatedAt": "2026-05-02 03:30"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-01 17:58:36",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-01 18:00:12",
         "districtSamples": [
           {
             "district": "강서구",
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-05-01 15:53:15",
+        "stationName": "봄까치셀프주유소",
+        "address": "전북 익산시 평동로 796",
+        "updatedAt": "2026-05-02 00:17:55",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "미국, \"쿠바 대상 제재 확대 행정명령에 서명\"",
+      "title": "트럼프 \"스피릿항공에 최종 구제안 제시\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02ZHJ3WjJ1ZHRCT1Ytbm5FVERRRzJpZlJRMzRRZzlZN0hHcWlsRGtjeHh6eHIxT0RyQ3pvcEZXTXotdUN2YWZxT1ljSTlscHhTakFUc3JkYXB5OEUwVk1DMA?oc=5",
-      "publishedAt": "Fri, 01 May 2026 17:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02WkhQNFJIcWtQQjRVSkFsaEpPN3lLV0xVSnBfcnFyanNkTlltUVdZUHREdWx5WkNHeHNjZmFXbXgybXZGUFdLdElTMVdxSkZHelRTaElZSE51VTdFTFRISw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 18:39:00 GMT"
     },
     {
-      "title": "트럼프 \"EU 자동차 관세, 다음주 25%로 인상\"",
+      "title": "이럴수가! '前 한화 복덩이' 리베라토, 대만 역사상 '최악 외인 타자' 불명예 위기→66타수 연속 무홈런 굴욕",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NMElrNHJ0MXYxQ3Rxai1IeXF5T2N3Nm5fbXZvdlNuSkJ0cFZYeVZ4aGxmV1pzck5KYzBMNTRvTGN0Ylp1RXl3SFoxRlZRc0IwYTZLZS04Z29zQzZJcVFmTXUtTk5qTzRESHRnR2VSS0hzbk9rNFJQVg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VbVR6alE2c3dHRkF4WndOSnpqY0xwa2E4ZzlHZnpmcnVWT3VFcWxaSUNyQ3FOLXk1NFR2SHMyamxJTVUzZnk4c1F2NmxtNWZpQmNGbWhn?oc=5",
+      "publishedAt": "Fri, 01 May 2026 18:33:00 GMT"
+    },
+    {
+      "title": "뚱함의 미학·일상의 공감…행복을 주는 그림들",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VY0RqaWx2LVR0czlHXzA3aGoyeFZpQ3NaZjFFV21OOWtzRTVlTGNRT0FYTUVVWkNIZlpqSTI4cGlZdUNyWkxrODMxbEIycWFaZmxKYkswMFhfd085SWZGMQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 18:04:00 GMT"
+    },
+    {
+      "title": "이번 주의 주요 종목들",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVVWxxUnhOUm04VDZLWVJjSFVXZjAwaUNFYnV6d0Zqdk5WZ0o2UUJMdUFZZFJoVms3UU5xYVRqc28wajd1aWZBb0EzdDMwRHJ1Q2M5ekM1VWRsSnV6dFpGTHNCTmpGRXE2eFM3Z2x0VmQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 17:57:00 GMT"
+    },
+    {
+      "title": "트럼프, 안보·무역으로 '이란전 비협조' 보복…韓 영향 없을까",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGMmNaNVN4X0xsXzQ3U3BGTlY0UGhleHB6YmN0eGRvVnpDVVJDRDNLTWtVLVVNZVlWV1BmX2V6d3YzX0pjVzB0alpGX3UwUEVFYWxic2pRSlJLbmpENUJWQTV2Q09McVZpZTE1RlJfRGZvQ2s1RUFnUw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 18:07:00 GMT"
+    },
+    {
+      "title": "이더리움 재단, 1만 이더 추가 매각… 그 배경은? (+ETH, 이더리움 재단, BitMine, 장외 거래)",
+      "source": "민심뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sODBBTVpvMzZGZXJ4Wi1NeG9Kc0UtdWR4U3dzekdhUjZvQW9laWxDWUR1T3liUUtoOUZaZmV2dTJ5dmJ3NzZHSGRyZkFuTWhWN2tjczRPNTVmekZIUFFYdEFrVFJQZlVyd20tQg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 18:21:21 GMT"
+    },
+    {
+      "title": "\"싼맛에 산다\" 무시했는데…2조 대박 터진 쿠팡의 비밀",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVEM0V2lRdWxsak5mcVBxMWZuNlVpUmh5c0hPMXZhS3FCMmZCTmRIU3BlV0NIYkw4RTFsVDJPMDU4bFlaOWdVS0ljcEYzSnI5cFNsVVJsOXdiZ9IBVEFVX3lxTFBWU1NuWlp6RlI0X0JGOFpLZUVIdjAyLXNHS25XUDlqY2l1bzcxclNYVm1RMzNMUE8xSk9fTTRoY0dOdDZHYWsxWHdjamlhLWZrclRIMw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 17:13:00 GMT"
+    },
+    {
+      "title": "트럼프 “유럽연합(EU)산 승용차·트럭에 다음주부터 관세 25%로 인상”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnRpZUl6bEtFYWs0MEt1cGMwNWs3UVcyVERHVEpLa3JKNFp5MmxNUlY3eWh0N3AtanQ4QXh0bDRhakx6QUp2LVpST2thd1ZBeVJCdHU5SWhNOWU3alo2OTRXY0Rmd2ZyMVVfMzgtUmFYbnU5XzZMcUVQU0V5YlZpQlBn?oc=5",
+      "publishedAt": "Fri, 01 May 2026 16:56:00 GMT"
+    },
+    {
+      "title": "안세영 선봉 女셔틀콕, 대만 잡고 우버컵 4강行",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xLXlsaWJOa09JTzhHdVo5cUxXS0pCdHhncDNRZ1JSWXV1dEUzTXN0V2dyVGszM0txdktnTTVWZy03eExlMXpYcXFJRDBjOGgtbU1PV1h3QjdCckZYNVdVS2d4QlRxcjdIQzRISjlhWWNIY3FH0gFmQVVfeXFMT2FmU1NuQlMxRFJmcG8wa0VvcmJPb0NuRDhtdWRDNUxmX3daMUphT2VmS1JUT29VOE1GZzJwWllxQlRLLXJvdHp3bWdXeEpoeV9uRFRvelI3ZF83RDVLaWlkWTlYck1n?oc=5",
       "publishedAt": "Fri, 01 May 2026 16:40:00 GMT"
     },
     {
-      "title": "손 맞잡은 김부겸-추경호",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsdHlGTWNoQUNhT2lLQTNQc09BZ1lvWVpZQjV6SnBRaFRBWEpEdC1UcU0xendkRC1nY2tBeXExRFhhLUhaZmRZdGZlSUlHRWpOcElXRHpLN3NzbXNtZFZsZg?oc=5",
-      "publishedAt": "Fri, 01 May 2026 16:43:00 GMT"
-    },
-    {
-      "title": "트럼프 \"다음주부터 EU산 승용차·트럭 관세 25%\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNW8xSVltVUJvUElRa3hSa1RoRHpEbjFaenpQUlFLVWJZNEVibGp5b0NEQVI2S0JWbXVjTVlLWHVVa09sQXFmX2NXVWJMLS1pYlpGVzdSbVRUd253UExiUg?oc=5",
-      "publishedAt": "Fri, 01 May 2026 16:50:00 GMT"
-    },
-    {
-      "title": "트럼프 \"다음 주부터 EU산 승용차· 트럭 관세 25%로 인상\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KS0pCOXh3MHppRGlybUg1eHBpMkxsS0g3OGFnY3FXOGo2S0kteEtPVjZTMENFZzM5Y2pYa1M2blhsNzVOOTY2b3FRV0hKeWxrcXNZ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 16:58:00 GMT"
-    },
-    {
-      "title": "美 석유업계도 곡소리…이란전쟁 여파, 1년만에 순익 반토막",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vYmJPcEJScDVhd1hqZHRicWFXcC1lXzJDa0U1ZHNGQjdaY3RtWHZieWhtMlF1WjRzLVFTUlVvbWszb19JQlZvRTBaZFAwOEZ4azl3?oc=5",
-      "publishedAt": "Fri, 01 May 2026 16:58:00 GMT"
-    },
-    {
-      "title": "英법원 \"삼성전자, 中ZTE 특허 라이선스 3.9억 달러 정산해야\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05VFdCQWVvbzJLeGRQNzhBSkVieWhWaEh1T1Vaa0VuaEdobTRzWlh6X0JRZ1lWMUN3RENFUDdpeVc1dDZpSlpoYWE0VjNTdkl1V2t3?oc=5",
-      "publishedAt": "Fri, 01 May 2026 16:52:00 GMT"
-    },
-    {
-      "title": "부활한 노동절, \"공정 보상\" 목소리 커진 노동계",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KMGNNYVdibjdxMFFDZWNOTnZjUWRzV1J0TnpabzEtMWh3WFh5MVA5V29MUFNjb2FaY1BOTEo1c3g1bGJWMFZJaThZZjVqNUNCdWppMldkcktlTXFsWW8xYQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 16:43:00 GMT"
-    },
-    {
-      "title": "트럼프 \"EU산 승용차·트럭 관세 25%로 인상\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oOVlxa2Z2VVNDWjB4dVFjOGJuMnNKeWV0ZnhLa0VwalNkVnZMR0w5QjJzMF9iQjg4RXAwNmhiMzVoOC1JWkNWcUNhT1ZjTDNRckdr?oc=5",
-      "publishedAt": "Fri, 01 May 2026 16:46:00 GMT"
-    },
-    {
-      "title": "[속보]트럼프 \"EU, 무역합의 미준수…자동차 관세 25%로 인상\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EbS1mVDlhTDRlcC14XzBwVGpBcFIyeW1IZjRyci1Rd3hWckxWaUp4M0tpd0w0MHFDZFViWklPZEhyTmJUV0lLbnBpSmpGNmRNX2NuclVkWEdMQWdjTFgxSw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 16:38:00 GMT"
+      "title": "HUAWEI WATCH FIT 5 시리즈: 웨어러블 기술의 현대적 우아함 재정의",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OUWdmSHF0UU12d2VjVkc4bTBrWHozSFBFQzdodFVEVHluSHhSV2FQMHRqZnctdUEyVDNDX0JlQkNuOVVic2Q1cFdlXzdTUUdsWjlndGN3?oc=5",
+      "publishedAt": "Fri, 01 May 2026 16:10:03 GMT"
     }
   ],
   "sources": [
