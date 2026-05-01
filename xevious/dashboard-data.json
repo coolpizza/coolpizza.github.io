@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T17:37:52.488752+09:00",
+  "generatedAt": "2026-05-01T19:12:05.522717+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.50",
-      "change": "-13.50",
-      "changePercent": "-0.91%",
+      "value": "1,474.90",
+      "change": "-13.10",
+      "changePercent": "-0.88%",
       "direction": "down",
-      "updatedAt": "2026-04-30 22:12"
+      "updatedAt": "2026-04-30 22:13"
     },
     {
       "label": "100엔/원",
-      "value": "943.29",
-      "change": "+15.26",
-      "changePercent": "+1.64%",
+      "value": "941.68",
+      "change": "+13.65",
+      "changePercent": "+1.47%",
       "direction": "up",
-      "updatedAt": "2026-04-30 22:12"
+      "updatedAt": "2026-04-30 22:13"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "17.6°C",
-        "feelsLike": "16.1°C",
+        "temperature": "15.4°C",
+        "feelsLike": "13.8°C",
         "highLow": "최고 20.6° / 최저 10.5°",
-        "humidity": "56%",
-        "wind": "8.4 m/s",
+        "humidity": "60%",
+        "wind": "7.3 m/s",
         "rainChance": "10%",
-        "pm10": "11.6 μg/m³",
-        "pm25": "10.7 μg/m³",
+        "pm10": "18.9 μg/m³",
+        "pm25": "17.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "53",
-        "updatedAt": "2026-05-01 17:30"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-05-01 19:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "15.6°C",
-        "feelsLike": "13.3°C",
+        "temperature": "13.6°C",
+        "feelsLike": "11.0°C",
         "highLow": "최고 18.9° / 최저 9.2°",
-        "humidity": "70%",
-        "wind": "16.4 m/s",
+        "humidity": "74%",
+        "wind": "16.3 m/s",
         "rainChance": "8%",
-        "pm10": "11.6 μg/m³",
-        "pm25": "10.7 μg/m³",
+        "pm10": "18.9 μg/m³",
+        "pm25": "17.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "53",
-        "updatedAt": "2026-05-01 17:30"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-05-01 19:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "18.7°C",
-        "feelsLike": "16.9°C",
+        "temperature": "16.0°C",
+        "feelsLike": "14.2°C",
         "highLow": "최고 22.7° / 최저 9.3°",
-        "humidity": "59%",
-        "wind": "13.4 m/s",
+        "humidity": "63%",
+        "wind": "10.7 m/s",
         "rainChance": "4%",
-        "pm10": "11.6 μg/m³",
-        "pm25": "10.7 μg/m³",
+        "pm10": "18.9 μg/m³",
+        "pm25": "17.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "53",
-        "updatedAt": "2026-05-01 17:30"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-05-01 19:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "16.2°C",
-        "feelsLike": "14.5°C",
+        "temperature": "13.9°C",
+        "feelsLike": "12.7°C",
         "highLow": "최고 18.7° / 최저 8.7°",
-        "humidity": "69%",
-        "wind": "12.6 m/s",
+        "humidity": "79%",
+        "wind": "9.7 m/s",
         "rainChance": "32%",
-        "pm10": "11.2 μg/m³",
-        "pm25": "9.4 μg/m³",
+        "pm10": "17.3 μg/m³",
+        "pm25": "14.9 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-05-01 17:30"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-01 19:00"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-05-01 08:00:08",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-05-01 17:58:36",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "'시작된 변화 압도적 완성' 내건 오세훈",
+      "title": "[포토] 책 읽는 서울광장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RMjBrYmpGOWZpV09CT0ZmdVJ4ZnU5QmZtWmgtWkFxYk5STHNEaThMZmM2RWJscFU4NW8yNnU1NF9EWWUwdFNJQ3JTMDlqbG16bWZYcm9KNzdRQXZoczNSaw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 08:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kZWFLUW14OWd2SlYzbmpkbmJtR0djOEpLTVdCa0xwZUUySW9YZXg3Zkx6NHBZRUNONmUxS2JtRzM2SVQ1VnFqZzNaRW1PZG1qTzl0RFpDdmRmNkdMZGtEMg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 09:38:00 GMT"
     },
     {
-      "title": "춘천서 승용차·오토바이 충돌…80대 심정지 이송",
+      "title": "[포토] 광화문 분수가 우리 놀이터",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVcm12djV5T0pBQk5kTWJyVFdiTDFIRFdyMUV0RzBGZUlRb3hkbkxHZGdZSVJOc2RqSm1qSWRJVDFRalk0dWhJV3lqWGZVdWQyQkVIUE5BWUVxUlJQX0FfYQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 08:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YOGZlVmlXekRac250UXF6ZWFUMTJiU0xkWFBqUlpvUmdNOC1hUEJhRXVBcF9icGxSQ0p0d0x3bjFlTzFUZzUyckZUY09sMHgyemw3cUJHOXl3UmxJQ3hVUg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 09:35:00 GMT"
     },
     {
-      "title": "바노바기, 그룹 원더걸스 출신 배우 안소희 모델 발탁",
+      "title": "[포토] 잠실구장 또 만원, LG 트윈스 9경기 연속 매진",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zTDBUajU2OGhRQlZJZlY4Ym83ZTNUU2h0NVA4T3ZMbmdrR1Z4bmRnQTN5MUhzWXc4MFVfM1laZEo4cEJXYmgwTFNuOXVqM0ZxQk84?oc=5",
-      "publishedAt": "Fri, 01 May 2026 08:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBacUtEWG81ZGFQX3c1cjVCcUptYkpaVXNaVEpMcWtibXdCS0JsSE5XbVA3LVlNZ1lSdC1rTHhqRl9MTXpHcy0zX3RxNWV3aVV2MDZvY2wxZkVTdmpBcDdxM2E3YnZaNkh1emdYZmlESEx4ZTlrU05JSw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 09:55:00 GMT"
     },
     {
-      "title": "한국노총 전국노동자대회 참석한 정원오 후보",
+      "title": "K-관광 로드쇼 행사장 둘러보는 김대현 2차관",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySXdXWlhRRnJlMzc3c1E3Z052ZFVfMzZLdkJHVUNtVDY3MDdiY1R2TlVwajNESWN5eTlRVll6LTRxdGVoSjQyVkVkcEtjVkFrakZR?oc=5",
-      "publishedAt": "Fri, 01 May 2026 07:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01akxtRlZTei1ydHRVQlpfT3dfTWdiaU9ENFFCWnNfcnJITlpBSzBUdVd2Zm5EY3pyMDljMDk2LTJFVWY1RmM2NzZpQzNUWVV5ME1JSnBaMEJra01xTFdhQw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 09:15:00 GMT"
     },
     {
-      "title": "전국노동자대회 참석한 정원오 후보와 추미애 후보",
+      "title": "징검다리 연휴 시작…여행객 '북적'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53QmVBak1rUnhtaVpueHFoMEJvOG04NWlja0FLb1djU054VzBoRUtxRHdpOVZhdU1GQ1MxaGhsbVJ6aFhHYThQbFVFdEhPTlFPQzJtLTQzenhrU0VXWGNZUQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 07:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aelZxbGhsZ21abUw4MVd0TXVNU1o1WVp0VC1HdDNoTTVrbEktRHJ4XzJocFpTTnQ5cjdJb1lkSnJzZ3MycHhQdlFQWWl4VmlOandhMVFLT18yQV9mWVpYSg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 09:19:00 GMT"
     },
     {
-      "title": "구호 외치는 민주노총",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aRHoyRmRLQjVKdGVEWER4RTZvUEhDMlV6ZC12bmFCYVU1dXl2VlE4YmJidjExZ19GVGJtbElteXJQZ3dqdXRUSjJqb19FX3hZUWRsWXZSSGV5WnZmZ3VQSg?oc=5",
-      "publishedAt": "Fri, 01 May 2026 07:57:00 GMT"
+      "title": "목소리 키우는 UAE \"이란의 호르무즈 일방적 조치 신뢰 불가\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hczc4UmpVdVlRQmZsZDhQYVBsd0RpZUY0Z0Y0YjVHRGZna0duU3JucmZ4NzdOOWxHQ3RmbW9VWnhPVGwyRkdEd25ZV3pDWFFDWG9CZlZUMktnX1M4WFhKOG9n?oc=5",
+      "publishedAt": "Fri, 01 May 2026 09:31:22 GMT"
     },
     {
-      "title": "국제정원박람회 행사장 찾은 오세훈 국민의힘 후보",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mZGNXTWFWcEZGQ0xnb0ZvdEd5ZDJqMUkwOEFvNTNrQXBNcGVwQTl4cC1CY2dQMHJ5dlZQRkZQQ0hJOV9LczVJZVVTWTh4dkVxbWtYNUZrRnNhNElIc1IxYQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 07:44:00 GMT"
+      "title": "국힘, 대구 달성 이진숙 단수 공천‥'정진석 출마' 충남 공주 보류",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMGpYaUZQbXhfQWJDUHF3OFFHbHNYbGd6VG1EZVQ2SDJERG1aTzhhM2RrdUllQ3pHaERJVzNBTHNBLUFPS1ZidVREUE1KX3lyQm5zNk4wNFZEN3ZyZDNKeUZhR2JZeEZDckRiTEh1U3JpZm1Lc0NURnVlUHVWNXN4bzFZTWlvODhuQlFYQzdXMkdTdlBkbGtGRjloekFRTFlEQ3RhSEtyWnpEdTJiOHdYMElCR0FyT0YxSndZQW5qck_SAXhBVV95cUxQbnZ2dHoybC1JdjJyUEliVVF1ZV9Hc2NyZndBbVhpd2JZR3psZ0VqWFhSbkwyVnd4SzI2RktPYW9pZ3g3c3Q2U3ozckdLNTRmaG5zVEJlMjdWZUp1STVsY3VweTNIbnRMMGxPVmhuRURoYVRXMXBJcWI?oc=5",
+      "publishedAt": "Fri, 01 May 2026 09:13:22 GMT"
     },
     {
-      "title": "'서울형 그린라이프' 공약 설명하는 오세훈 후보",
+      "title": "즐거운 어린이날 행사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2b25MaU82SUg0UE5ja0tFNldHS1JLRXJpZEhZWlNMSTBhaXd6QUFFb0Znc0ZvbEpKR0NfQ2xqM0plU1Qyb0h1Ry14RE1vTzY4dEFwU09JMW1fbkFaRVRvbA?oc=5",
-      "publishedAt": "Fri, 01 May 2026 07:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYnZFM1dLQWVuVnZUcHVkSThxOTZyWGp6ZlRiVXhtQ0V4VXM3cFAwTjU3anRRSXhyRDdKWG42V2ZxY0xTc3FfMlpHMlRwMWtXdWZWYnNxUnFHMXVwc1RmdA?oc=5",
+      "publishedAt": "Fri, 01 May 2026 09:13:00 GMT"
     },
     {
-      "title": "한은 금리 인상론 급부상…증권가 \"연말 3% 도달\" 전망",
+      "title": "전진♥류이서, 부부싸움 공개 \"신혼여행 때…생각해보니 귀여워\"[내사랑 류이서]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iWWFtcEJEbUp5SHRKYWM0NnB6VXVNbS13NmpBd3JRNG9kQWFaNURvQkg1MFBvYXJQUDVySXV4UDJoa3BNM0w1VERnWGZ5YkQ0QkFR?oc=5",
-      "publishedAt": "Fri, 01 May 2026 07:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wSVhRd0pVR21qdno4Ynh1OFp4dWFxRERMWXU2SEtON3FxOVJndmZ5NG5Sa2Y3ZlFnT3lCemc5b202Zzd6elAyZ1U4VkhZUExFRnVnMWM5VWU4NGlTcVd0dw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 10:05:00 GMT"
     },
     {
-      "title": "구호 외치는 노동자들",
+      "title": "\"중동 전쟁에도 슈퍼사이클\"…수출 800억 달러 시대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ERjF0M1RhLXhqSmJxUGoydUVSNWNxeWg0MHZHLUhkbVlXbHRvdzhkeDl1aXUybjlSQjdyU3dldElTUUlsOVlCMEhFM0dGYTZ6WWZUZm5iUTFXTjJOMERrOQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 07:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VMDRGZ09fbzJwb3dxREVndEZXeUFQS0hlZzVSRlpKRFZjSEYyT09YREFlOUJxYm56WWIzQ01mZXBuZVNrWVVMb2tWcHdCVDkwcGVZ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 09:41:00 GMT"
     }
   ],
   "sources": [
