@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T19:12:05.522717+09:00",
+  "generatedAt": "2026-05-01T20:21:35.990790+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.90",
-      "change": "-13.10",
-      "changePercent": "-0.88%",
+      "value": "1,474.00",
+      "change": "-14.00",
+      "changePercent": "-0.94%",
       "direction": "down",
-      "updatedAt": "2026-04-30 22:13"
+      "updatedAt": "2026-04-30 22:15"
     },
     {
       "label": "100엔/원",
-      "value": "941.68",
-      "change": "+13.65",
-      "changePercent": "+1.47%",
+      "value": "941.39",
+      "change": "+13.36",
+      "changePercent": "+1.44%",
       "direction": "up",
-      "updatedAt": "2026-04-30 22:13"
+      "updatedAt": "2026-04-30 22:15"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "15.4°C",
-        "feelsLike": "13.8°C",
-        "highLow": "최고 20.6° / 최저 10.5°",
-        "humidity": "60%",
-        "wind": "7.3 m/s",
+        "temperature": "13.7°C",
+        "feelsLike": "12.3°C",
+        "highLow": "최고 21.5° / 최저 10.5°",
+        "humidity": "69%",
+        "wind": "6.7 m/s",
         "rainChance": "10%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "17.6 μg/m³",
+        "pm10": "31.7 μg/m³",
+        "pm25": "30.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-05-01 19:00"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-01 20:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "13.6°C",
-        "feelsLike": "11.0°C",
+        "temperature": "12.3°C",
+        "feelsLike": "10.3°C",
         "highLow": "최고 18.9° / 최저 9.2°",
-        "humidity": "74%",
-        "wind": "16.3 m/s",
+        "humidity": "83%",
+        "wind": "12.9 m/s",
         "rainChance": "8%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "17.6 μg/m³",
+        "pm10": "31.7 μg/m³",
+        "pm25": "30.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-05-01 19:00"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-01 20:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "16.0°C",
-        "feelsLike": "14.2°C",
-        "highLow": "최고 22.7° / 최저 9.3°",
-        "humidity": "63%",
-        "wind": "10.7 m/s",
+        "temperature": "13.5°C",
+        "feelsLike": "12.3°C",
+        "highLow": "최고 22.8° / 최저 9.3°",
+        "humidity": "75%",
+        "wind": "6.4 m/s",
         "rainChance": "4%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "17.6 μg/m³",
+        "pm10": "31.7 μg/m³",
+        "pm25": "30.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-05-01 19:00"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-01 20:15"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "13.9°C",
-        "feelsLike": "12.7°C",
+        "temperature": "11.9°C",
+        "feelsLike": "11.0°C",
         "highLow": "최고 18.7° / 최저 8.7°",
-        "humidity": "79%",
-        "wind": "9.7 m/s",
+        "humidity": "88%",
+        "wind": "6.5 m/s",
         "rainChance": "32%",
-        "pm10": "17.3 μg/m³",
-        "pm25": "14.9 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-01 19:00"
+        "pm10": "25.3 μg/m³",
+        "pm25": "22.6 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "38",
+        "updatedAt": "2026-05-01 20:15"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-01 17:58:36",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-01 15:00:58",
         "districtSamples": [
           {
             "district": "강서구",
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-05-01 07:56:27",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-05-01 15:53:15",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[포토] 책 읽는 서울광장",
+      "title": "존 메이저 前 영국 총리 \"잦은 총리 교체 안돼\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yeVo3dDZ6UFdMbDNrWWZyWm5QVkZzeVBnNXRBUjJwTjJ3QVRNQVVwTTFKeDZmOFRuRTVEcnN3ZXpTREJGOS00MHBVTEo0N3VhRzZzZ1FKMk9vVFXSAWBBVV95cUxNOVZOYldqVVdqSGV6eEg3X0NxWG5OaUNZM0V0b2ppZkctemtiaU9ORExLRkRWNm5WZUY4cUo0bjV5TWUyazAweG5VY09WWFR1RG1iTHN6NnBfLXRoQVlpWE8?oc=5",
+      "publishedAt": "Fri, 01 May 2026 10:30:13 GMT"
+    },
+    {
+      "title": "[내일날씨] 전국 흐리고 일교차 커···수도권 미세먼지 '나쁨'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kZWFLUW14OWd2SlYzbmpkbmJtR0djOEpLTVdCa0xwZUUySW9YZXg3Zkx6NHBZRUNONmUxS2JtRzM2SVQ1VnFqZzNaRW1PZG1qTzl0RFpDdmRmNkdMZGtEMg?oc=5",
-      "publishedAt": "Fri, 01 May 2026 09:38:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZZ2JiUnB3SW1MUlVDUEhSYUw3cGd6Z01qbzczLUdoaGQ1RnVVb3p0Zmd2Tm9RZTBGZXdCNF8tWk9fT0NIYlA5TW90Vkd6MjFOeTZPNWFtd2NBbmlIeWpTUg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 11:13:00 GMT"
     },
     {
-      "title": "[포토] 광화문 분수가 우리 놀이터",
+      "title": "황금연휴 첫날 전국 ‘북새통’⋯서울∼부산 최대 9시간",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80V2RSb2JvS2Rwd19pdVlQWHdCMi1jRlh1OFlVV1F6X0lRSVYzWE9QazQ0YjlZVzNVV3c5eTE2VVViNEE1RVVvTmx1V1FJZWxTbExyY2VwQmNIcjhDR2tETjJzcXFZc3ktaDJ4Rw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 10:26:00 GMT"
+    },
+    {
+      "title": "특검 '공소취소권' 놓고 충돌…\"끔직\" vs \"입증 때만\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YOGZlVmlXekRac250UXF6ZWFUMTJiU0xkWFBqUlpvUmdNOC1hUEJhRXVBcF9icGxSQ0p0d0x3bjFlTzFUZzUyckZUY09sMHgyemw3cUJHOXl3UmxJQ3hVUg?oc=5",
-      "publishedAt": "Fri, 01 May 2026 09:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kek1PZlB5UXg3LVI2OHctNFhKVV81VEJkVktmTklwVWJvUlZMMFA0TXZROUtRWEQ5cXBNTXBoNWI0T2pnRHhkLXl3MU9lX2xlS2VN?oc=5",
+      "publishedAt": "Fri, 01 May 2026 11:07:00 GMT"
     },
     {
-      "title": "[포토] 잠실구장 또 만원, LG 트윈스 9경기 연속 매진",
+      "title": "코요태 김종민 \"생각 없이 얘기해…실수하면 신지가 다 수습\"[워크맨]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBacUtEWG81ZGFQX3c1cjVCcUptYkpaVXNaVEpMcWtibXdCS0JsSE5XbVA3LVlNZ1lSdC1rTHhqRl9MTXpHcy0zX3RxNWV3aVV2MDZvY2wxZkVTdmpBcDdxM2E3YnZaNkh1emdYZmlESEx4ZTlrU05JSw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 09:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tNDRRbmNFTFIwaHEwWk8zSWQ3UkFzWENkc1R6QktXNXd2TDM3bk1tUklHVW92Sjg3ZzhhNU1ndzFodDZsUERyc3JRQl9VbmV4bkhpam05RGNnOFBKQ2psNA?oc=5",
+      "publishedAt": "Fri, 01 May 2026 11:13:00 GMT"
     },
     {
-      "title": "K-관광 로드쇼 행사장 둘러보는 김대현 2차관",
+      "title": "[포토] 톨허스트 '이제야 웃어요'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01akxtRlZTei1ydHRVQlpfT3dfTWdiaU9ENFFCWnNfcnJITlpBSzBUdVd2Zm5EY3pyMDljMDk2LTJFVWY1RmM2NzZpQzNUWVV5ME1JSnBaMEJra01xTFdhQw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 09:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5Q1c4TE9iN3BJazA1NEJaWk0zQmRiNlh6S1hfRjdydjFad0N3WHdJVDRmSG1ac0FxSmVEaXdmeVJ2Z1ZneW81eUp1SkdwTjhmUHlUcTBfYTA4dURnOHZwRGYzdzFGWFFWWUxzNDV1YUZvVi1FV1ZzcA?oc=5",
+      "publishedAt": "Fri, 01 May 2026 10:56:00 GMT"
     },
     {
-      "title": "징검다리 연휴 시작…여행객 '북적'",
+      "title": "경찰 \"노동절 집회, 주최 측 질서 유지로 안정적 마무리\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aelZxbGhsZ21abUw4MVd0TXVNU1o1WVp0VC1HdDNoTTVrbEktRHJ4XzJocFpTTnQ5cjdJb1lkSnJzZ3MycHhQdlFQWWl4VmlOandhMVFLT18yQV9mWVpYSg?oc=5",
-      "publishedAt": "Fri, 01 May 2026 09:19:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wZTVndnBwT3A0ME9ZdWVoaXBmcnM1aGplMFFoT2ttdng2U1U2dVl6a1dReFMzckVoMVZMMjZkR0sxd1U2djliOGxqVzJyUXV5MTRz?oc=5",
+      "publishedAt": "Fri, 01 May 2026 10:57:00 GMT"
     },
     {
-      "title": "목소리 키우는 UAE \"이란의 호르무즈 일방적 조치 신뢰 불가\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hczc4UmpVdVlRQmZsZDhQYVBsd0RpZUY0Z0Y0YjVHRGZna0duU3JucmZ4NzdOOWxHQ3RmbW9VWnhPVGwyRkdEd25ZV3pDWFFDWG9CZlZUMktnX1M4WFhKOG9n?oc=5",
-      "publishedAt": "Fri, 01 May 2026 09:31:22 GMT"
-    },
-    {
-      "title": "국힘, 대구 달성 이진숙 단수 공천‥'정진석 출마' 충남 공주 보류",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMGpYaUZQbXhfQWJDUHF3OFFHbHNYbGd6VG1EZVQ2SDJERG1aTzhhM2RrdUllQ3pHaERJVzNBTHNBLUFPS1ZidVREUE1KX3lyQm5zNk4wNFZEN3ZyZDNKeUZhR2JZeEZDckRiTEh1U3JpZm1Lc0NURnVlUHVWNXN4bzFZTWlvODhuQlFYQzdXMkdTdlBkbGtGRjloekFRTFlEQ3RhSEtyWnpEdTJiOHdYMElCR0FyT0YxSndZQW5qck_SAXhBVV95cUxQbnZ2dHoybC1JdjJyUEliVVF1ZV9Hc2NyZndBbVhpd2JZR3psZ0VqWFhSbkwyVnd4SzI2RktPYW9pZ3g3c3Q2U3ozckdLNTRmaG5zVEJlMjdWZUp1STVsY3VweTNIbnRMMGxPVmhuRURoYVRXMXBJcWI?oc=5",
-      "publishedAt": "Fri, 01 May 2026 09:13:22 GMT"
-    },
-    {
-      "title": "즐거운 어린이날 행사",
+      "title": "[포토] 우강훈 '철벽투로 꽁꽁'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYnZFM1dLQWVuVnZUcHVkSThxOTZyWGp6ZlRiVXhtQ0V4VXM3cFAwTjU3anRRSXhyRDdKWG42V2ZxY0xTc3FfMlpHMlRwMWtXdWZWYnNxUnFHMXVwc1RmdA?oc=5",
-      "publishedAt": "Fri, 01 May 2026 09:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oWW00VWdDM2VoR0lQM0l1dVpSOHJxYXRGMTRxWW5jcFE1SXljdkhfSWotVXhLMS1FVnA5UGY3bTRvNDcwd3RUWGtqTkI2NWF6aDhnSURR?oc=5",
+      "publishedAt": "Fri, 01 May 2026 10:41:00 GMT"
     },
     {
-      "title": "전진♥류이서, 부부싸움 공개 \"신혼여행 때…생각해보니 귀여워\"[내사랑 류이서]",
+      "title": "이정재♥임세령, 12년째 굳건한 사랑…클라스가 다른 데이트 목격담[스타이슈]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wSVhRd0pVR21qdno4Ynh1OFp4dWFxRERMWXU2SEtON3FxOVJndmZ5NG5Sa2Y3ZlFnT3lCemc5b202Zzd6elAyZ1U4VkhZUExFRnVnMWM5VWU4NGlTcVd0dw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 10:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1SnZpaERvYjNqU09HNFZaNDBQUmxfdXAxWVVRS0dtT2VUSWE2NFp0OUM0akZYUklsb1VleDNZRHlLWTVNYUhyQXFnNlUwZHVpSl9V?oc=5",
+      "publishedAt": "Fri, 01 May 2026 11:11:00 GMT"
     },
     {
-      "title": "\"중동 전쟁에도 슈퍼사이클\"…수출 800억 달러 시대",
+      "title": "황금연휴 첫날 전국 '북새통'···서울∼부산 최대 9시간",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VMDRGZ09fbzJwb3dxREVndEZXeUFQS0hlZzVSRlpKRFZjSEYyT09YREFlOUJxYm56WWIzQ01mZXBuZVNrWVVMb2tWcHdCVDkwcGVZ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 09:41:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41QkZjWDRKVDRfZW1fc21nOXJ0d0NwdTlycGFQTHJNU19YZUtkVnp1a2hYQmRpSVM3c1lSM0hzSHBZZXlDQk1mVi1QREZndWp0Uk82TmowaWQ2Y0RXOUNhUjdSTE5JUld4Z3J6YmRRQjdlRzBoTUdLRg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 10:27:00 GMT"
     }
   ],
   "sources": [
