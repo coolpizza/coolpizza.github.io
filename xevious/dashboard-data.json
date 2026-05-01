@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T00:45:23.806246+09:00",
+  "generatedAt": "2026-05-02T01:38:37.531196+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,736.13",
-      "change": "+83.99",
-      "changePercent": "+0.17%",
-      "direction": "up",
-      "updatedAt": "2026-05-02 00:22"
+      "value": "49,644.09",
+      "change": "-8.05",
+      "changePercent": "-0.02%",
+      "direction": "down",
+      "updatedAt": "2026-05-02 01:19"
     },
     {
       "label": "S&P 500",
-      "value": "7,255.85",
-      "change": "+46.84",
-      "changePercent": "+0.65%",
+      "value": "7,247.94",
+      "change": "+38.93",
+      "changePercent": "+0.54%",
       "direction": "up",
-      "updatedAt": "2026-05-02 00:27"
+      "updatedAt": "2026-05-02 01:24"
     },
     {
       "label": "나스닥",
-      "value": "25,159.40",
-      "change": "+267.09",
-      "changePercent": "+1.07%",
+      "value": "25,161.06",
+      "change": "+268.75",
+      "changePercent": "+1.08%",
       "direction": "up",
-      "updatedAt": "2026-05-02 00:22"
+      "updatedAt": "2026-05-02 01:19"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,468.80",
-      "change": "-19.20",
-      "changePercent": "-1.29%",
+      "value": "1,472.00",
+      "change": "-16.00",
+      "changePercent": "-1.08%",
       "direction": "down",
-      "updatedAt": "2026-04-30 22:22"
+      "updatedAt": "2026-04-30 22:24"
     },
     {
       "label": "100엔/원",
-      "value": "937.12",
-      "change": "+9.09",
-      "changePercent": "+0.98%",
+      "value": "938.50",
+      "change": "+10.47",
+      "changePercent": "+1.13%",
       "direction": "up",
-      "updatedAt": "2026-04-30 22:22"
+      "updatedAt": "2026-04-30 22:24"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "10.8°C",
-        "feelsLike": "10.1°C",
+        "temperature": "10.4°C",
+        "feelsLike": "9.6°C",
         "highLow": "최고 19.3° / 최저 9.2°",
-        "humidity": "90%",
-        "wind": "3.6 m/s",
+        "humidity": "93%",
+        "wind": "4.1 m/s",
         "rainChance": "36%",
-        "pm10": "49.8 μg/m³",
-        "pm25": "47.3 μg/m³",
+        "pm10": "51.7 μg/m³",
+        "pm25": "49.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-05-02 00:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-05-02 01:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "10.1°C",
-        "feelsLike": "8.8°C",
+        "temperature": "9.7°C",
+        "feelsLike": "8.3°C",
         "highLow": "최고 17.1° / 최저 8.2°",
-        "humidity": "96%",
-        "wind": "7.9 m/s",
+        "humidity": "97%",
+        "wind": "8.0 m/s",
         "rainChance": "40%",
-        "pm10": "49.8 μg/m³",
-        "pm25": "47.3 μg/m³",
+        "pm10": "51.7 μg/m³",
+        "pm25": "49.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-05-02 00:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-05-02 01:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "9.6°C",
-        "feelsLike": "8.4°C",
+        "temperature": "8.9°C",
+        "feelsLike": "7.7°C",
         "highLow": "최고 17.4° / 최저 8.7°",
-        "humidity": "98%",
-        "wind": "6.6 m/s",
+        "humidity": "99%",
+        "wind": "6.2 m/s",
         "rainChance": "46%",
-        "pm10": "49.8 μg/m³",
-        "pm25": "47.3 μg/m³",
+        "pm10": "51.7 μg/m³",
+        "pm25": "49.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-05-02 00:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-05-02 01:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "9.0°C",
-        "feelsLike": "7.6°C",
+        "temperature": "8.7°C",
+        "feelsLike": "7.2°C",
         "highLow": "최고 21.2° / 최저 7.7°",
         "humidity": "92%",
-        "wind": "6.2 m/s",
+        "wind": "6.4 m/s",
         "rainChance": "13%",
-        "pm10": "42.6 μg/m³",
-        "pm25": "39.5 μg/m³",
+        "pm10": "46.4 μg/m³",
+        "pm25": "43.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-02 00:30"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-05-02 01:30"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[속보]미국 증시, 상승 출발…다우·S&P500·나스닥 일제히 오름세",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sb0xDcW5mcHJuU3RFUGlzWnVpY1hiWjE1dkpMRHQtX0xweDJRcjBHYWZjdUFNUW85dmJ2YkZUclRnbU1rSzJsNlUxTERGV1VvTnJ4aDBPTXk1ZDBxWEYwcHp3bGMxRnFa?oc=5",
-      "publishedAt": "Fri, 01 May 2026 15:20:00 GMT"
+      "title": "[속보]트럼프 \"EU산 승용차·트럭 관세 내주부터 25%로 인상\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BdU4zU25LRUdRcXBKUXFScjFXTmlhc0VaMVZCUHRZZk1UanN1czBYNFdaQ3kteVlZMzR5akZIdV9jMHR3RjdhejdRUlYwLTRlLXN5SWlMMFJDbWR2NUNUaQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 16:36:00 GMT"
     },
     {
-      "title": "세종시 아파트 화재로 정전…승강기 갇힌 주민 10명 구조",
+      "title": "[녹색] 아까시꿀 창녕·화순부터 채밀…남부지방 '풍작' 예고",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJY2hzbHBWU2Y2RUFGd010WnlpSS1mVDVNaEhqUUZXdk1GODRYNWQtbFdlb0FzRjBUaExydFdhWFdfQzZTSEJ2X2lGZnFBOS1xZEIxanJBU1RCWVR4aURObQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 15:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05bGQxOXRBaWJBOEl2dkVyZmFGeDkybGJMWUs3VnBkU0xTZ1REQjAwZTJ4QTh6ZWlGdnRLbml3NC1aN2VPN3B4R2JaVm15cnZaLVNnVFBaVk9OdGtEcHQ1Qw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 16:34:00 GMT"
     },
     {
-      "title": "美국방부, 앤트로픽 제외한 AI 7개 기업과 기밀 업무 협약",
+      "title": "[속보]트럼프 \"EU산 자동차·트럭 관세 내주부터 25%로 인상\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RYmM2OTZfNVozbzJUa2t3S3daZ0pQVTBJUWFocnAwRlpHWE5sQWxmY09xQmRCelBuV1pSWHlQclp3UTRUN0lGeERPOHVHTHZfLURV?oc=5",
-      "publishedAt": "Fri, 01 May 2026 15:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlbWhCblJkY3FUMU5JWUdhOTlwOElUclUxaDM5cVZ2YjhYSTRsTnVwTEhRU0ZTWDZiZXU2dldicGdMaFYwT2M1UDFxX2R3VFRGMnV1eGhHZDh1NDRvUDJHbA?oc=5",
+      "publishedAt": "Fri, 01 May 2026 16:03:00 GMT"
     },
     {
-      "title": "허니제이, 눈물의 고백 \"재정비 위해 잠시 쉰다\"",
+      "title": "이란 새 협상안 미국 전달…백악관 \"계속 협상 중\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzYkNzOUxQa2gxeTVNNGNZdmZMOE5TQUlsdDR5R2J2cUNpT1NOTjRnbVJuU0RjTjNGc1Q5RnZ6TzFXdmhPRlBkaDVpOWgyZDNoSWlJ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 15:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkbHJnT2V0Y19ueHVOVDA5UTRCMVBDMzZhVjBHQ21CZU05NHM4WElWd3E4dW9NemVzQlZ4QV96Y1MzRFV3RUZQT0c2a1dCWE1fMzNN?oc=5",
+      "publishedAt": "Fri, 01 May 2026 16:21:00 GMT"
     },
     {
-      "title": "유가급등에도 못웃는다…美석유메이저 중동생산 타격에 실적급감",
+      "title": "5월 황금연휴, 中·日 관광객 20만명 한국 찾을 듯",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fU2VuQjN3bFBRVVNwMEtCb0xzMkFDNFRGVTV3ZDdvV2pKY0R3R01VeFIxMDlpQ1VSUHJ3NmFJaU56aFZtUERLalNwSU5VSGRMYkFF?oc=5",
-      "publishedAt": "Fri, 01 May 2026 15:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3SkFFbVV6S3NmUU5mWm9kbnpmamVMaVRwaTh4d3k5aThZT1V4VExHNzB0eU5lMV83TjdaZWVpRUUwLXBtUFN6eXlWZ1VncF90YXVwNkJCVGhSWEY1OUJGRw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 15:48:00 GMT"
     },
     {
-      "title": "안소희 \"이상형? 이상순…♥이효리 사랑 느껴져\"[안소희]",
+      "title": "李 \"친노동은 반기업? 낡은 이분법을 깨자\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PTmxqU3ZJc1pOSHdlcWszMkowcUNrcklISi1ia2NrVEdBVWFLNUdLdXlsSFF0d29pMXM0b3pqdFl2THZpMG9HbkpvM1FkS3h2M2Yw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 15:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SakxGYVI1QmlHWHhxQ2V5VEVnSW1CNVRkMnh2dmVfN1hDWUZPdDROQVF4V0o0elh0ZF9pQUVzYy1aMnQzbFAxNGZYb281T190b2RQWlRxRG05NFBnWTdDVg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 15:58:00 GMT"
     },
     {
-      "title": "배나라, 전현무 \"눈밑지 해야겠다\" 팩폭에 \"이미 한 건데\" 강제 고백[나혼산][★밤TView]",
+      "title": "트럼프 \"EU산 승용차·트럭 관세 내주 25%로 인상\" 전격 발표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40Y0prdUt2cUpnQnJIVVNTOC1LT2wtdmViRmVhQlY3N3NHMHU4WUQ3Tmlydy1SemdubWhzckMxOURja3o2aEZBdkFqM0NoYlFoSlJz?oc=5",
-      "publishedAt": "Fri, 01 May 2026 15:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoblFNbzF6ZDc2S1RySmtQeFdfN0xZN3BtbFRhS2VTa3FyLVJmc1NxUWx2Z3ZSZ2dLOTF2czMtdUZKNmwyZG5Nay0zWjlnckpQbGxn?oc=5",
+      "publishedAt": "Fri, 01 May 2026 16:09:00 GMT"
     },
     {
-      "title": "삼성바이오 노조 첫 전면파업 돌입…\"6,400억 손실\"",
+      "title": "[속보] 트럼프 \"EU산 승용차·트럭 관세 내주부터 25%로 인상\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wb0ZWQzBwUVdHRnlRUmQ3MDl3QXdKdURBRWVYOGM5SjVhQld0dW50OFowa1lPbl9SdWM0UkJNbXR0MDJFVjlxbFdHWEdGQnBfVHFV?oc=5",
-      "publishedAt": "Fri, 01 May 2026 15:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sb3B1aEV6NmFIQnNidEJ6Zmw4R2daTXB1WjlHcms3Z2p1UjMzYzZjbTJIaVB4dXR4Z28tUVlGQXhfbEk5M0RmNVAzclJwNzZLTnhj?oc=5",
+      "publishedAt": "Fri, 01 May 2026 16:01:00 GMT"
     },
     {
-      "title": "'성적 부진' 경질 감독 이례적 인터뷰, 美서 화제 \"리더라면 끝까지 책임져야\"→\"존경받아 마땅\" 폭풍 찬사",
+      "title": "고유가에 고수온까지 갈치값 1년새 23% 껑충",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ra05ySTVadGdmaWpqQ0QxSVhyNHFORENuX2VoNEQ0amF0ZDA0Nk53dFU5eGNjTmozWC14b29BdGIxSzhadHBOV2s1Y2c1Y2Z6bG80V0x5Rzd0Qi1jLTBlTWZPT1dvUmozR1ZBcml1NUMtMUM1cmVzLQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 15:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CYjdlR3Zlb2tZSWxzeUlTT0dVaVRQOVppM2UtOVdxZ0pmY2JiZENxRVk5MTMyLUtJd1YzQUdaZFBqWE0zNHZITlpJTXJ6VEZoZVRN?oc=5",
+      "publishedAt": "Fri, 01 May 2026 15:49:00 GMT"
     },
     {
-      "title": "[뉴욕개장]3대 지수 동반 상승…'실적 낙관' 유가 리스크 압도",
+      "title": "오정세 \"'동백꽃' 촬영장서 쫓겨나…작품 촬영 중인데\" 굴욕담 공개[넷플릭스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3bGxXUjVDNlNJekx1VWotOVlGYW9QRjlkUFExRW05OVdYZ1JvYTNQenJIYjdSSUlnWVNaakd2VTBuUk9SVkdBVndKWldhWDVMdF84?oc=5",
-      "publishedAt": "Fri, 01 May 2026 15:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44VzhtSUp4RHg2WFd2aTRFeVlOZ3BtTlRvOUpFUUw1a2UwV2JtTW85Zkx3TkJna2ZfaktDTHF2M19ZS2Z1Yi1Tck03X1YtUGFBS1Qw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 15:59:00 GMT"
     }
   ],
   "sources": [
