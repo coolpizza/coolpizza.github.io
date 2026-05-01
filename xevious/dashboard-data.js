@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-01T13:19:25.206673+09:00",
+  "generatedAt": "2026-05-01T15:49:55.533202+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,476.20",
-      "change": "-11.80",
-      "changePercent": "-0.79%",
+      "value": "1,477.80",
+      "change": "-10.20",
+      "changePercent": "-0.69%",
       "direction": "down",
       "updatedAt": "2026-04-30 22:11"
     },
     {
       "label": "100엔/원",
-      "value": "939.48",
-      "change": "+11.45",
-      "changePercent": "+1.23%",
+      "value": "940.32",
+      "change": "+12.29",
+      "changePercent": "+1.32%",
       "direction": "up",
       "updatedAt": "2026-04-30 22:11"
     }
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "19.3°C",
-        "feelsLike": "19.8°C",
-        "highLow": "최고 20.3° / 최저 10.5°",
-        "humidity": "52%",
-        "wind": "9.7 m/s",
-        "rainChance": "22%",
-        "pm10": "9.4 μg/m³",
+        "temperature": "20.3°C",
+        "feelsLike": "19.5°C",
+        "highLow": "최고 20.6° / 최저 10.5°",
+        "humidity": "50%",
+        "wind": "9.4 m/s",
+        "rainChance": "10%",
+        "pm10": "9.5 μg/m³",
         "pm25": "8.9 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "59",
-        "updatedAt": "2026-05-01 13:00"
+        "updatedAt": "2026-05-01 15:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "18.0°C",
-        "feelsLike": "17.6°C",
-        "highLow": "최고 18.6° / 최저 9.2°",
-        "humidity": "65%",
-        "wind": "18.2 m/s",
-        "rainChance": "6%",
-        "pm10": "9.4 μg/m³",
+        "temperature": "17.6°C",
+        "feelsLike": "16.1°C",
+        "highLow": "최고 18.9° / 최저 9.2°",
+        "humidity": "68%",
+        "wind": "18.6 m/s",
+        "rainChance": "8%",
+        "pm10": "9.5 μg/m³",
         "pm25": "8.9 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "59",
-        "updatedAt": "2026-05-01 13:00"
+        "updatedAt": "2026-05-01 15:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "21.2°C",
-        "feelsLike": "20.4°C",
-        "highLow": "최고 22.6° / 최저 9.3°",
-        "humidity": "45%",
-        "wind": "16.6 m/s",
+        "temperature": "22.0°C",
+        "feelsLike": "20.6°C",
+        "highLow": "최고 22.7° / 최저 9.3°",
+        "humidity": "48%",
+        "wind": "15.5 m/s",
         "rainChance": "4%",
-        "pm10": "9.4 μg/m³",
+        "pm10": "9.5 μg/m³",
         "pm25": "8.9 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "59",
-        "updatedAt": "2026-05-01 13:00"
+        "updatedAt": "2026-05-01 15:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "18.5°C",
-        "feelsLike": "17.2°C",
-        "highLow": "최고 18.6° / 최저 8.7°",
-        "humidity": "51%",
-        "wind": "19.1 m/s",
-        "rainChance": "37%",
-        "pm10": "12.9 μg/m³",
-        "pm25": "11.1 μg/m³",
+        "temperature": "18.1°C",
+        "feelsLike": "16.1°C",
+        "highLow": "최고 18.7° / 최저 8.7°",
+        "humidity": "57%",
+        "wind": "17.3 m/s",
+        "rainChance": "32%",
+        "pm10": "10.8 μg/m³",
+        "pm25": "9.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "61",
-        "updatedAt": "2026-05-01 13:00"
+        "updatedAt": "2026-05-01 15:30"
       }
     ]
   },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "경운대, 외국인 유학생 지역정착 지원 본격화",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzNWF2RndEQ25NR3Rva3lOdjlFMHdRclhGSTF3c2ZNUXFMRk4zZDFoRTNJbDJsN0NxSF9OYWtTQXVQRG1aRFAwdVFDMnBrdnhSNHNzS2hYRnJsMU85R3dPdg?oc=5",
-      "publishedAt": "Fri, 01 May 2026 04:14:00 GMT"
+      "title": "[오전 주요 국제금융뉴스](01일)",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5USjN2dGc2VDl3Z0hHd0w4YmhRdmJ1RWZybGo1ekp2TXJLbzNMQ2JKM0d6SUJNQXIxSEFmVW9rR09YVGsyQy1lcEVjaGJsbm1LOTMwTWFrV1BVZ2NPZGJXVERoZXhaYkd5T0N4NnJFWnbSAXRBVV95cUxOamNRak5RbkV4cjNFd2c4ZlEtVHhYa2Uxai1SN2VsTm9EUlo4Rll3WlB5dHowTHRkZDdEaVJlMVBjcVFaNFNhT28tckdFNWJBTi1fdGxVbmtmZUZiTUFrYk1ONHdxOVV4MmMzRVBXMTYta2pPWA?oc=5",
+      "publishedAt": "Fri, 01 May 2026 06:14:33 GMT"
     },
     {
-      "title": "[그래픽] 주요 품목 수출 증감률 현황",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GMDN6VXBvaDBfVWFMRXFpaW50d2hvZnZySzNMeTIxSHFlN1YwOFFrSDM1cmpGM1Z4YWFTbFlYZHAwQVdGbFM4WlcwTW9TQVU?oc=5",
-      "publishedAt": "Fri, 01 May 2026 03:20:00 GMT"
+      "title": "하루 10분 호주 뉴스: 5월 1일 금요일",
+      "source": "SBS Australia",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWRQWmtRbXRiQ0FRaVZHQm16X2tYS0ZlQ1BHUV9CMmx4SmR0czVRQ0dnaHlEQmpGa2p6OWIzZkxLR0Q1N3RoQV80RjVjb2xUR0FtNnMteVVvaFJCTnFSWU5nNDAzeEdoQnRQUjBlbVlIV1BfYVVNQ2I3ZHg1a09ZZ0hGSU9Vcjh3UERuQU1hNzgwelhneWc4?oc=5",
+      "publishedAt": "Fri, 01 May 2026 06:24:43 GMT"
     },
     {
-      "title": "삼성바이오로직스 '전면 파업'",
+      "title": "'스페이스 챌린지 2026 in 대구' 축하 에어쇼",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XdXV3UmM3SnlzRVJ2M05XbWE1eGFzZTlnbncxMUlreHpsbXlFNWdqTUZWcGlwbjNWc2Jzejd3MElvdDVTV053OVdVc2RueWxiMjk3ZlVJb3dzekdwdVJSYQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 04:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9na1dsWUF0WGdMR2t6TnkwNGU3Q0Y2bzl4TGcxdjlFODFJSlg5cmppU0YzQ2VfbHliN3dfMnpnOVhKU2x4aUE5TnRMZ0RsR255bWNUZkN3dUs5UDBxbFBmZQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 06:46:00 GMT"
     },
     {
-      "title": "질문에 답하는 음문석",
+      "title": "양대노총 위원장과 인사나누는 정원오 후보",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PWl91UHI0UGF0UklnaHl1SFRUZlpmYkVQS25CVmhLY2tJdTNJeENBUGFUU1Z5VS1TdXdYOXgzTC1EUFdvbTZxaVFjbmZOQWI2bmxnbTlQQWRSaTZsWnExOA?oc=5",
-      "publishedAt": "Fri, 01 May 2026 04:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6aHo5QVZIV2l5VTYxVWRJTE9mc3JrcUtKZlVjVnRGZVctdzB6RzdHeWJ2S0dlTjBnSkw5M3VjOHdFcEhaaDhpeHVpQnVTR1hSZkluN1lDaFZzTElGNm95Sg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 06:46:00 GMT"
     },
     {
-      "title": "포항시, 근로자 야영장 세탁서비스 협약 체결",
+      "title": "구호 외치는 노동자들",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQ09RQmFVajNaXzBSM0R6U2sxTGt1OGVRSWxWd3dONnFJYnlmTDBmS1dlQ2U2RDdRTDVaTUhWTEV0SXltNXFIc0tLQTBxZEM5QzRucjBRS193dk9Uc0gxdA?oc=5",
-      "publishedAt": "Fri, 01 May 2026 04:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16Qzl3bzBKSFlLYWp0dnl5SFF4OUNLTGl5STQ2Si12c0ZpX21rLVpyUVV4dW53c2ZBc3VyVXh0RGNIZElrRnhnYUlqRzJDMy16aGsyckY3bEhwalQ4VFNGUA?oc=5",
+      "publishedAt": "Fri, 01 May 2026 06:43:00 GMT"
     },
     {
-      "title": "화물연대 \"경찰은 조합원 사망사고 사과하라\"",
+      "title": "민주노총 집회에 교통체증 빚는 도로",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsaTNuQUZIWkU5SWFCYnQ5RDB1S3JvSFZIS2RVbU80V0NEMmQ0YzNoQWpjQlJ6R1Z6NXU4SzA3RHNZRmJpTy1QcVhxazd2Wndkd1Fv?oc=5",
-      "publishedAt": "Fri, 01 May 2026 04:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JVFFqZ0R3akktZVotM2xKOTk4aVJENmRiM0JQYnZLZ3FsRkJ1dnd6Z0lzZDNMZHFQSmVJazF3czFLemZDY3o5cW85azZRbDFZUk5sTXNhVEhWWVRrUkphRg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 06:31:00 GMT"
     },
     {
-      "title": "증평군, 단군전에서 '어천대제' 봉행…\"단군 승천 기념\"",
+      "title": "이철우·추경호, 박정희 전 대통령 생가 방문",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tcWJnajVlMl9TTnpWWXh3bjVmSHE3d0lzekFNbEFUUzZWRWttZDFXMHR5eGZDLXpVbFNSbUVOaVczZUEya1R4NDhqLS1jQ004ZlZzalFQSG0xbm0zS05xbg?oc=5",
-      "publishedAt": "Fri, 01 May 2026 04:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMRHJqQ0JYN25oUWp3S0trbEhMaHNUUDZUb0g4bm9DWFJmMy1CcnlVQUI4M3BKc1dxLTRUZ0FlSlFITTJpblFva2U3YW9ENlVkVlc5N3NpS3NyNERHZ0JaNg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 06:18:00 GMT"
     },
     {
-      "title": "충남 홍성 찾은 더불어민주당 정청래 대표",
+      "title": "구호외치는 정원오 후보와 추미애 후보",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6T1RaTHVtQjRsc2RIYUR5VVdZN040bXlSdXBucG5WdTVnN2p4YVNNNURINjFLcFZPMVF4Rlo5RWxCMl92QWV1SzNCR1QyN3BZRUp2SV9wVHlsZGZMU09CTQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 04:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GdmQ4bFNQVmtzOWRNUDgyS091RVAtaTctTDJOV1NMVWgxbFlPZC1uc0Z4WTFpSDdIVzF5TVpGZXVySWFzMnUxVWdZY3lwWVF0Vk10R3ZFalZKaXhzQS1yWg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 06:22:00 GMT"
     },
     {
-      "title": "삼성바이오 '첫 전면 파업'…\"손실 6,400억\"",
+      "title": "곡예 비행하는 후투티",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qaGtBZXJlVjl0eWdGbHpYMUp6WG1qbGV4UHBlaU5YMURkSlA5Z21HMHlUV1JHc0k3NXkwelVJUjVOaHRRQjFXY0FBUVd6RkI3dHQ1YmZOMXlOWTdlcEVaRA?oc=5",
-      "publishedAt": "Fri, 01 May 2026 04:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLb0Q0czcwNTJuRVNkaGpqbVRRMHVZZC0yTGpCbnp5T08xWmI5QTZzM2JsREZzX0thUEFJQ0ZnSTlfRjRNODBPamRVa2J3emJxamRDdExTRFlSYUhlYjl3Ng?oc=5",
+      "publishedAt": "Fri, 01 May 2026 06:19:00 GMT"
     },
     {
-      "title": "글로벌 축구 이벤트를 보다 더 실감나게",
+      "title": "박정희 전 대통령 생가 찾은 이철우·추경호",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Gb1VQdW13bUtzLTRDRkdaemFGUmgtdm9hUi1ZVFBFaFBESzlKX2IydzVubXEyV0lEanN2b1Z4YnVFY0t3RXNyRm5hNFdLWXJVVm1IZUVNUk9nWDEyeDBVUg?oc=5",
-      "publishedAt": "Fri, 01 May 2026 03:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBVnRqSWJpWVU0TENQcXF6SjZJWE9XZ0RaM0VtU281THlVT0lIM0hYZVcyR3hwWnZ1RE9CSDdzeVdKWjZCaFlkT1NpZURUUDZGbHFj?oc=5",
+      "publishedAt": "Fri, 01 May 2026 06:17:00 GMT"
     }
   ],
   "sources": [
