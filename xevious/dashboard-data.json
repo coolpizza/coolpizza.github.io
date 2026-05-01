@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T21:09:59.945681+09:00",
+  "generatedAt": "2026-05-01T22:56:16.694883+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,652.14",
-      "change": "+790.33",
-      "changePercent": "+1.62%",
+      "value": "49,830.89",
+      "change": "+178.75",
+      "changePercent": "+0.36%",
       "direction": "up",
-      "updatedAt": "2026-05-01 05:20"
+      "updatedAt": "2026-05-01 22:35"
     },
     {
       "label": "S&P 500",
-      "value": "7,209.01",
-      "change": "+73.06",
-      "changePercent": "+1.02%",
+      "value": "7,245.51",
+      "change": "+36.50",
+      "changePercent": "+0.51%",
       "direction": "up",
-      "updatedAt": "2026-05-01 05:20"
+      "updatedAt": "2026-05-01 22:40"
     },
     {
       "label": "나스닥",
-      "value": "24,892.31",
-      "change": "+219.07",
-      "changePercent": "+0.89%",
+      "value": "25,068.16",
+      "change": "+175.85",
+      "changePercent": "+0.71%",
       "direction": "up",
-      "updatedAt": "2026-05-01 05:15"
+      "updatedAt": "2026-05-01 22:35"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.30",
-      "change": "-13.70",
-      "changePercent": "-0.92%",
+      "value": "1,472.90",
+      "change": "-15.10",
+      "changePercent": "-1.01%",
       "direction": "down",
-      "updatedAt": "2026-04-30 22:16"
+      "updatedAt": "2026-04-30 22:19"
     },
     {
       "label": "100엔/원",
-      "value": "941.53",
-      "change": "+13.50",
-      "changePercent": "+1.45%",
+      "value": "939.83",
+      "change": "+11.80",
+      "changePercent": "+1.27%",
       "direction": "up",
-      "updatedAt": "2026-04-30 22:16"
+      "updatedAt": "2026-04-30 22:19"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.0°C",
-        "feelsLike": "11.5°C",
+        "temperature": "11.7°C",
+        "feelsLike": "10.8°C",
         "highLow": "최고 21.5° / 최저 10.5°",
-        "humidity": "73%",
-        "wind": "7.8 m/s",
+        "humidity": "85%",
+        "wind": "4.9 m/s",
         "rainChance": "10%",
-        "pm10": "36.1 μg/m³",
-        "pm25": "34.2 μg/m³",
+        "pm10": "40.7 μg/m³",
+        "pm25": "38.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-05-01 21:00"
+        "airQualityIndex": "36",
+        "updatedAt": "2026-05-01 22:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "11.8°C",
-        "feelsLike": "9.8°C",
+        "temperature": "10.7°C",
+        "feelsLike": "9.4°C",
         "highLow": "최고 18.9° / 최저 9.2°",
-        "humidity": "88%",
-        "wind": "14.0 m/s",
+        "humidity": "94%",
+        "wind": "8.7 m/s",
         "rainChance": "8%",
-        "pm10": "36.1 μg/m³",
-        "pm25": "34.2 μg/m³",
+        "pm10": "40.7 μg/m³",
+        "pm25": "38.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-05-01 21:00"
+        "airQualityIndex": "36",
+        "updatedAt": "2026-05-01 22:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.4°C",
-        "feelsLike": "11.0°C",
+        "temperature": "10.7°C",
+        "feelsLike": "9.4°C",
         "highLow": "최고 22.8° / 최저 9.3°",
-        "humidity": "79%",
-        "wind": "7.7 m/s",
+        "humidity": "92%",
+        "wind": "7.6 m/s",
         "rainChance": "4%",
-        "pm10": "36.1 μg/m³",
-        "pm25": "34.2 μg/m³",
+        "pm10": "40.7 μg/m³",
+        "pm25": "38.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-05-01 21:00"
+        "airQualityIndex": "36",
+        "updatedAt": "2026-05-01 22:45"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "11.2°C",
-        "feelsLike": "10.3°C",
+        "temperature": "9.9°C",
+        "feelsLike": "8.5°C",
         "highLow": "최고 18.7° / 최저 8.7°",
         "humidity": "91%",
-        "wind": "6.5 m/s",
+        "wind": "6.8 m/s",
         "rainChance": "32%",
-        "pm10": "30.2 μg/m³",
-        "pm25": "27.1 μg/m³",
+        "pm10": "35.0 μg/m³",
+        "pm25": "31.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "36",
-        "updatedAt": "2026-05-01 21:00"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-05-01 22:45"
       }
     ]
   },
@@ -325,7 +325,7 @@
             "price": "1,979원/L"
           },
           {
-            "district": "중구",
+            "district": "계양구",
             "price": "1,980원/L"
           }
         ]
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[포토] 대통령 도자기",
+      "title": "이란, 새 협상안 중재국 파키스탄에 전달",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CYTBuVm12WGpuUmlZMHRwTHdOdHBkV1hMN2J4UF91ajZBVUEtY2M5ZUtiN2w2OUI2ekZDZV90c1NYN1ItbmF3X0tCLXBkdndJTXpTd3Nrb2FXQ3BVN2VYUw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 12:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VX0Nkd0s3VlNPVk0xV3YzVEZFRW10Ukp2Qkc0LWxFRkxWMEF1eC1PclZqUExkN29yNS1heWJXcmNVcDJiemFlMzlBUUoyMlZXWHdpSTdJY1FrR3JGQ214Yg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 13:34:00 GMT"
     },
     {
-      "title": "中, 17개월 연속 金 샀다…각국 중앙은행 '골드러시', 가격 더 오르나",
-      "source": "아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aa0VhZlp3M2FWR1k0c2c1c0dVNzUzNFZTUi1VbWM3YmNyZFlCUjU1NUN3MkJRcV9oYTM5dFJvSXkwNUNvNWYwNlBJZkx5cnotS2FFdEdDNEhaTEZMcV81SQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 11:27:45 GMT"
-    },
-    {
-      "title": "'황금연휴' 첫날 노동절, 전국 곳곳 '대혼잡'…도로·공항·명소 인파 폭증",
-      "source": "중앙이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zbXo0dk9KT18tVHUxdlZORXJnS3FUOFN0ZVRRWk1FLUNPNkhUclZURmpMZFhZb0VQNkYxaE41VURjWkwtSEU5VExIX1hVYmVLS0R4ZXN0OHRnTGZlLVRvbkNFR3k2ZWZhMFV1bTV3R29zQQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 11:30:34 GMT"
-    },
-    {
-      "title": "[6.3 지방선거] 최대호 안양시장 예비후보, \"노동이 존중받는 도시 위해 쉼 없이 뛰겠다\"",
+      "title": "백악관 \"이란 적대행위 종료\" 주장…전쟁권한법 무력화?",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HeFdzQkhzNUVOanBrcm1pR0w4SWpiM0pGMHdfdTd6eVNHeVhubGxuQ09Pd21ZbHhhN3JzYzRZZDlfaXVUdHFMMDVCXzI5b3d4SXBqTUZlMjRPYVBQUWUtYg?oc=5",
-      "publishedAt": "Fri, 01 May 2026 12:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fZUh1Z0FPVXdaYmd4MmFzR2FHSHpVdGxvOGF0dlo3NVdiQUJjWFJ2WkhUWGZwQXR4TC1OZUNlcGdJc09vRnhUTDgxLTRWWHUwOU5UTDdoNTNYa1VFRjBfOWsxZG9DOG85cWc?oc=5",
+      "publishedAt": "Fri, 01 May 2026 13:22:00 GMT"
     },
     {
-      "title": "트럼프, 이번엔 염원하던 '노벨평화상' 받을까…총 287 후보",
+      "title": "진천 가정집 강도 범행 공모한 2명 구속",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OTGhCaFJyWjl1Y25ZLVBxSHFkRlVhbm1MVlNrRjA0enJOM0VlTGlhd1pRUW5LYUxtT0dtNnBGdGdDeW9jUVZNa003eU1XanNCVXU0Y0oxZmh3QV9EWUxIMw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 12:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zU3h4elFkSUhUaFBaOWJkanFmZnktRmZfLXZMSFY3Mk9hWFh0akNOeTZuSV9WVi1tTkhzR09Vc01uZElyUVNYa0ZVSWFpaTZWVThQb05NMmJxZDFVUmM1bg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 13:38:00 GMT"
     },
     {
-      "title": "'중환자'라던 전광훈, 구치소 수감 중인 윤석열 접견 확인",
+      "title": "이란 국영 통신사 \"중재국 파키스탄에 새 협상안 전달\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eVo5UXVRYURoNWZRUWlPWm1mNWN6ZVA4a1NsWkhHQlN6cmtEM3BUeGt5dXFrU3kxWEpvOUdSS0Q4SEs1TnotcHpxazAxelZQdUstS2ZaUDBScTkzbGF0YQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 12:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ycDJsNzZmV1RmZEJWRXpLWVdFbXU2bmh0UHluc2l2UkxRYkROZUpKNmd6YThuQXFhMkJBMVVPMHQ0b2s2MWlJUmpvWGptek1jQTZTbzVQdzd1SjAxa1Nudg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 13:45:00 GMT"
     },
     {
-      "title": "담양~광주 첨단 시외 직행형 버스 운행 재개",
+      "title": "美국방부, 앤트로픽 뺀 주요 AI 업체들과 기밀업무 협약",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fSV9SRzdSWDdvZzlLZEQ2V0E4aW03VnJKOUpLTFdlTk83Sm5qb1JZa2dhdnZ3NmRGb3I0d3kwNjNKdFZoS1hDeHpHTmh2c0hUTTRwM2Z4VlFUZkkyLTlVVA?oc=5",
-      "publishedAt": "Fri, 01 May 2026 11:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vaEpyUWV6eC1PdmFxZ0FYaHd5eW1vb2NvQWpHNVk5RGRRWUcteksxZV9WRHdFcVhPYnppTC1rS3N2NGdPbndXSWcxaUxtRHBST0E0?oc=5",
+      "publishedAt": "Fri, 01 May 2026 13:33:00 GMT"
     },
     {
-      "title": "뒤쫓아가 밀치고 '퍽'…예루살렘 한복판서 수녀 폭행",
+      "title": "AFRICA-CHINA-ZERO-TARIFF POLICY-PORTS & AIRPORT",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oTlpoZmdpbzB6UmJZSXJtZGhXRnRqakc5Qk5ZUlVkZF9FektYemU4X09MZjFHYkFTYXhmRTFKYUpndkV1TFBrbFN5dFFheHlMVXZpQVdYUlFma0hGTmFITw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 12:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YYnZ4dGV1V3pfRzBkQVpwZHduSjN1YnMwUzZtTURTVTgtTzRqdUNLRy1rVi04OE1yZ0tkQU1sbEdYWnJmRl9NTDJ3bm52YUd6LVdvUHNNUDZJbmFVbTh3cQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 13:12:00 GMT"
     },
     {
-      "title": "중동 위기에 다시 '골드러시'…신흥국도 가세",
+      "title": "이란 국영 매체 \"중재국 파키스탄에 새 협상안 전달\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aN3BOb3JSS1YyQXBfZ2FyVkx4OG5KQmVOczNiUnpZaHpMRHhvMjFTSGVvVXB0UVozRFFQRnBPZkx2dVJYTkc1MHFKNzA2YXU2dGk0?oc=5",
-      "publishedAt": "Fri, 01 May 2026 11:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YZWpEc0RmLVduU3pDQWk5WlZRRlpmRV96SHY2aVd3dG9GV2FxQ3V5MWxJSnlNMmJvZ3NWNGUxZkdGZW5zSWlURzk5LXk5cFJpV3JZ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 12:57:00 GMT"
     },
     {
-      "title": "유튜브 3배속, 디즈니+ 무배속 고집하는 이유",
+      "title": "황재균 \"은퇴, 떠밀리듯 하고 싶지 않아 선택…연봉보다 중요\"[전현무계획3][★밤TView]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0bEJrOHktMWFiemZPVDVDS2ZCNFJhbW9wanNRUFkzaGh1ZWRfN2RZT2JhODdaLTdST0FpejgyQXZscFowaGgxU3FJbFQyYUpzSlhJ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 12:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QTVVnNHUxVmI2SDFoTUtqc2MyeDY3bXpaeVRtblJ3UXZuZVBIUnVXN3BMUENhOGZ2bTJadk5zaVVmQlFWTkpzNWc5QURDV0FJTmVv?oc=5",
+      "publishedAt": "Fri, 01 May 2026 13:38:00 GMT"
+    },
+    {
+      "title": "이란 국영 매체 \"중재국 파키스탄에 새 협상안 전달\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SS2kzcy1EV0E1MERqZzluZU5HeTlFR3pYZlc2dVBQYjQ0dGJvdVJtV2k3RE84MU1lejM3RXM1QW42ajdVaGZMdUhuWDVEdFRqQ0ww?oc=5",
+      "publishedAt": "Fri, 01 May 2026 13:04:00 GMT"
+    },
+    {
+      "title": "울진서 벌목작업 50대 태국인, 낙하물 부딪혀 심정지",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lSk5NQUxmZXdrdTRpX2hCTEhTOXpGbHpkY2FsZ0t5Z0U1NUhUVGx1MUJHZUJ1SnRuemhUT2Y4NmN2ckNqQ25Ra0hMUkNWQjc3ZC0w?oc=5",
+      "publishedAt": "Fri, 01 May 2026 12:57:00 GMT"
     }
   ],
   "sources": [
