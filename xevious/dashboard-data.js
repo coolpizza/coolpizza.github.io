@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-02T05:42:03.070858+09:00",
+  "generatedAt": "2026-05-02T06:31:42.325050+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,473.30",
-      "change": "-14.70",
-      "changePercent": "-0.99%",
+      "value": "1,475.00",
+      "change": "-13.00",
+      "changePercent": "-0.87%",
       "direction": "down",
       "updatedAt": "2026-04-30 22:30"
     },
     {
       "label": "100엔/원",
-      "value": "938.38",
-      "change": "+10.35",
-      "changePercent": "+1.12%",
+      "value": "938.95",
+      "change": "+10.92",
+      "changePercent": "+1.18%",
       "direction": "up",
       "updatedAt": "2026-04-30 22:30"
     }
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "8.4°C",
-        "feelsLike": "7.7°C",
+        "temperature": "8.6°C",
+        "feelsLike": "7.9°C",
         "highLow": "최고 19.0° / 최저 8.4°",
         "humidity": "99%",
-        "wind": "1.8 m/s",
+        "wind": "1.6 m/s",
         "rainChance": "51%",
-        "pm10": "54.2 μg/m³",
-        "pm25": "51.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-05-02 05:30"
+        "pm10": "54.6 μg/m³",
+        "pm25": "51.9 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "61",
+        "updatedAt": "2026-05-02 06:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "8.7°C",
-        "feelsLike": "7.6°C",
+        "temperature": "9.1°C",
+        "feelsLike": "8.0°C",
         "highLow": "최고 17.5° / 최저 8.2°",
         "humidity": "99%",
         "wind": "5.5 m/s",
         "rainChance": "53%",
-        "pm10": "54.2 μg/m³",
-        "pm25": "51.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-05-02 05:30"
+        "pm10": "54.6 μg/m³",
+        "pm25": "51.9 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "61",
+        "updatedAt": "2026-05-02 06:15"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "9.1°C",
-        "feelsLike": "8.0°C",
+        "temperature": "9.3°C",
+        "feelsLike": "8.2°C",
         "highLow": "최고 17.1° / 최저 8.6°",
         "humidity": "99%",
-        "wind": "5.6 m/s",
+        "wind": "5.8 m/s",
         "rainChance": "60%",
-        "pm10": "54.2 μg/m³",
-        "pm25": "51.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "57",
-        "updatedAt": "2026-05-02 05:30"
+        "pm10": "54.6 μg/m³",
+        "pm25": "51.9 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "61",
+        "updatedAt": "2026-05-02 06:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "7.6°C",
-        "feelsLike": "5.7°C",
+        "temperature": "8.0°C",
+        "feelsLike": "6.2°C",
         "highLow": "최고 20.3° / 최저 7.5°",
-        "humidity": "93%",
-        "wind": "6.9 m/s",
+        "humidity": "92%",
+        "wind": "7.1 m/s",
         "rainChance": "33%",
-        "pm10": "54.1 μg/m³",
-        "pm25": "50.5 μg/m³",
+        "pm10": "53.2 μg/m³",
+        "pm25": "49.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-05-02 05:30"
+        "airQualityIndex": "62",
+        "updatedAt": "2026-05-02 06:15"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-05-01 18:00:12",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-05-02 00:58:40",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[월가 레이더] 애플 실적 호조에 S&P500·나스닥 사상 최고 재경신",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Uc2RzWlpKVWRCVFZxRDdrbGxzYzk1SXRNZlJFNXk2eUhub1dRbG92b2wwVV9ra0xsVjlBbmRNMF96NE9nTlg5X2lZU1RVdUk2R0VZbWp4N205SFlYemc?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:10:33 GMT"
-    },
-    {
-      "title": "北, 개인 승용차 관리 공고 하달…\"허용하되 더 촘촘히 본다\"",
+      "title": "[지선 D-30] 남은 주요 변수…부동산·단일화·투표율·공소취소",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGRVNjYTVvRW1RRUlaSTVuOGJLTlJ3REtiOTFIdkJwbmpEeUVXR0FFajF0RWJVRThzTEVURURER09KaEVJYW11LUJDcVVSbFho?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZk9xWUZCS0dlYXJSRTVjZTdqdi1lUXJINnhORG10RTNmcXplNXkzcVdFd2w5ZVJ1Y0FqMnN2R0lEX2xzS3lFcnFzZUh2UGxHM1BGNHdYX1pCQQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:00:00 GMT"
     },
     {
-      "title": "장동혁, 연이틀 박형준·추경호 개소식 참석…패싱 분위기 돌파",
+      "title": "[모닝와이드] 오늘의 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42clZXNl9vX2d3OG51OWtIWk1mczI4Q25RT3JQNnhmRGtpR19CQnQyMHNkSC14ZmpObm5WTGVwZlp2S0VEVlZrd1lrM3ROZXAyd1RIRkp3aFlHaF9ka3psWA?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjM0FLN1c5Uy1RWWdfVWRsNkcxa3hsYmFZdnFmbWt1RktRNUpFQjlyVlc4dDlMMVNiYXhnY1k3M3BkR2NvbDE1cFJ2ZERpRk5UeWtyanloTklabFpWT3NNMFpabFY1MldTMUE1RW9MYkIzVVRTSnJWVg?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:17:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 정치·정부 (2일, 토)",
+      "title": "[속보] 국제유가, 하락…WTI 2.98%↓",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OMEhfOXRVRWNBUFBaOWFBNkVrZTdWaFRrZ3lVUDRwZHR0M1pDX3NiMXQ0RlkxN0ZXVEhqTzk3ZHl4Q2VrV0pKUjRmUGZuTzYteW9KX0FuWGJLdG4xS1l2bld3S0o2QURETVE?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2TThzU3otVlNfVTRvMU5rX2JwNDd2YVcxSlZhQ1BYZ3MxQjdZcjNzX29YYWRFYk9EU2M4SmY1VFU3eVhzOWc5U2pWaTM5b09KN21TMl80MWJmdHVUU2g3MQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:15:00 GMT"
     },
     {
-      "title": "中 \"호르무즈 해협 봉쇄 미중 정상회담 핵심 의제\"…당장은 휴전 유지 중요",
+      "title": "[속보] 뉴욕증시, 혼조 마감…나스닥 0.89%↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0M0lPT0lGeXB1RkNYUVFOVTE5RmM1REo3T2lMS2xRSnFzUGRnY3h4cFdkZjhFM1BKLXVuVXdGOGNaQlBuNlBmZDVhNFlSN2ZmTmdpN0NNcUx2UDVKMjk2ag?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04akxYbFFyM3pnaFg5TFFrYlUzR1Rqa1dBT25pLUpBYnRmaThodDBqbV8zdUVsNTIteUVPTVRCdlI1ekNvUHhUQjNPeDJYeHM0Q3ln?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:04:00 GMT"
     },
     {
-      "title": "전국 흐리고 매우 건조…수도권 미세먼지 '나쁨'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGLTZvRzFSbWhLc2h1MUZNR2d1UDFLSDVmYV9LcXNzSmVfWU1DM0J6ZXJIb0xWSU1wTG1QbTZpQVBmYzFvSTk1c3NzYUlRbHptQkk3SkgwYzlXRmhWWEdKXw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:32:00 GMT"
+      "title": "FDA, 액섬 오벨리티 알츠하이머병 초조 치료제로 승인",
+      "source": "의약뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UmhPSmtPeFgtUGo0bWdGWkw1bFMxenJaVUx0YXJwX0I5RXhvRTBMN0hwaDFRMXBYZFhXelVvRlhHc1hrVVFjMVpCcDlDUGx6S0FqSFJRV2oxWFlzdlZwNk9WNjRFSVU?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:02:04 GMT"
     },
     {
-      "title": "30기 옥순♥영수, 웨딩홀 목격담…\"결혼 염두에 두고 진지한 만남 중\"[스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1dm53eWdjS01qSWRfcWtuclFvOU93ZEdxaDBGc18tZ2VubDg3azFhbTFaVlA0aDBoaTJrbE9EUmxSMHdJRDdqLUJPQ1djWFVOdEZr?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:30:00 GMT"
+      "title": "얼음 해쳐 '북극 항로' 뚫는 쇄빙선…'K-방산'에도 기회 요인?",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GSFh4dnBubXJfTXlUVl9xR2I2S1VXdi1qdU8zOXlDXzA4WHdnOFVwZUlQNTZuVjIxNHR0bl9BT2cyYXdzNkx0OFBGUVlrZEdjb0pRVW1KUVR0YXJuWmZqV1o5aEFGazQ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:00:00 GMT"
     },
     {
-      "title": "[오늘의 날씨] 강원(2일, 토)…영서 중심 일교차 15도 안팎",
+      "title": "[세종 인사이드아웃] 정부 주요 정책, 알고 보니 '이재명 경기도 공정국'이 원조",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UazlyTHdaMjdRVTVWRmd6R3AxTHRrSFRjZ1ZhaGdVWjRqdWFuQTE0SGZCOVVtQWJ1V3NOcWxCb0EyZUhOUklLOUt1dnd2aDFvOTRiTEo5MllTUjhucHRGVA?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KUGFSYms4azJpQ2hNR2hsOFBTTk1OdDltSjVLU0RDcXVYYW03bWZpWE1seDk1Y2dkV1VZRVc2ZXJEWU96bFhybkEyU2pqNkZ3emNn?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:01:00 GMT"
     },
     {
-      "title": "[오늘의 날씨] 제주(2일, 토)…대체로 흐림·큰 일교차 주의",
+      "title": "카카오, AI 도구함 확대⋯AI 에이전트 '오픈클로' 연동 지원",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByaDUxczdrZGVqWE1ZN0JkQVhBWWpnX1gxNkhXNGp6cWxMcFBaMXc3cG9YQ001UWF1MlpDLUJJU1VqMXRjZnI4clRBX3lzemZUUXMwaHVEdUdxZ255WDA5SQ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzdzVxdGF5OHdxSUZYSlBRQldMdkVFTVdiNFJXUUpxNXNvSzl6b3ZlTjRnQmljQmJ0cXh1bjU4VkJKRy1kdDJKVHNaVE5FeWk0OVFn?oc=5",
+      "publishedAt": "Fri, 01 May 2026 20:51:00 GMT"
     },
     {
-      "title": "연휴 반려동물 호텔 사고, 배상받을 수 있을까…\"핵심은 관리 소홀 입증\"",
+      "title": "'만능 트롯테이너' 이찬원, 오늘(2일) '여주 도자기 축제' 출연",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTHI1R0pvWUpvX2dZQWtaWllaZHRzOXV4bTBQNW83ZkhxOTVrRUp2aExQOWY0MmFLSTU1ZzZidkc4d3d0N3RYcldNSU5uQ2czNXpOcU9Fd0lvYU9Bc3VFTGpIR3VzcTF3Tnc?oc=5",
-      "publishedAt": "Fri, 01 May 2026 20:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtZXZ3QzRUT2J3d2hHY2RnYTdQT29acjBtaHVraFVtRzVXOHptNndXOGtLM21HemRvdm5wamRyRTZ1U0M4aFZHWFFySU45b2g2VkdZ?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:06:00 GMT"
+    },
+    {
+      "title": "[오늘 날씨] 낮 최고 26도 '포근'…연휴 둘째 날, 수도권 미세먼지 '나쁨'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Yd1pVWHQ3dWRkMHluSU8ySWF6R1JLNVpKYVVWNVQ2ZklQZkhya09EdzBlLTRrdkc4ZmhJNTl4SHZDZTVNNzNTSEUySTBDVVF5eHdV?oc=5",
+      "publishedAt": "Fri, 01 May 2026 21:01:00 GMT"
     }
   ],
   "sources": [
