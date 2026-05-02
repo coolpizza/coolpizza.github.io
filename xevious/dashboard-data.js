@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-03T07:59:53.626507+09:00",
+  "generatedAt": "2026-05-03T08:34:52.010195+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "11.4°C",
+        "temperature": "11.5°C",
         "feelsLike": "11.4°C",
-        "highLow": "최고 13.1° / 최저 10.0°",
-        "humidity": "98%",
-        "wind": "2.4 m/s",
+        "highLow": "최고 13.0° / 최저 10.1°",
+        "humidity": "97%",
+        "wind": "2.9 m/s",
         "rainChance": "100%",
-        "pm10": "83.6 μg/m³",
-        "pm25": "73.3 μg/m³",
+        "pm10": "71.5 μg/m³",
+        "pm25": "63.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "93",
-        "updatedAt": "2026-05-03 07:45"
+        "airQualityIndex": "94",
+        "updatedAt": "2026-05-03 08:30"
       },
       {
         "location": "김포",
-        "summary": "약한 비",
-        "temperature": "11.3°C",
-        "feelsLike": "10.9°C",
-        "highLow": "최고 12.7° / 최저 9.1°",
-        "humidity": "98%",
-        "wind": "5.1 m/s",
+        "summary": "강한 이슬비",
+        "temperature": "11.6°C",
+        "feelsLike": "11.1°C",
+        "highLow": "최고 12.7° / 최저 9.2°",
+        "humidity": "97%",
+        "wind": "6.0 m/s",
         "rainChance": "100%",
-        "pm10": "83.6 μg/m³",
-        "pm25": "73.3 μg/m³",
+        "pm10": "71.5 μg/m³",
+        "pm25": "63.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "93",
-        "updatedAt": "2026-05-03 07:45"
+        "airQualityIndex": "94",
+        "updatedAt": "2026-05-03 08:30"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "11.1°C",
-        "feelsLike": "10.7°C",
-        "highLow": "최고 12.7° / 최저 9.0°",
-        "humidity": "98%",
-        "wind": "4.6 m/s",
+        "temperature": "11.4°C",
+        "feelsLike": "11.3°C",
+        "highLow": "최고 12.9° / 최저 9.0°",
+        "humidity": "97%",
+        "wind": "2.8 m/s",
         "rainChance": "100%",
-        "pm10": "83.6 μg/m³",
-        "pm25": "73.3 μg/m³",
+        "pm10": "71.5 μg/m³",
+        "pm25": "63.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "93",
-        "updatedAt": "2026-05-03 07:45"
+        "airQualityIndex": "94",
+        "updatedAt": "2026-05-03 08:30"
       },
       {
         "location": "익산",
         "summary": "약한 비",
-        "temperature": "12.0°C",
-        "feelsLike": "11.5°C",
-        "highLow": "최고 13.7° / 최저 11.7°",
-        "humidity": "96%",
-        "wind": "6.6 m/s",
+        "temperature": "12.3°C",
+        "feelsLike": "12.0°C",
+        "highLow": "최고 14.5° / 최저 11.5°",
+        "humidity": "97%",
+        "wind": "6.4 m/s",
         "rainChance": "100%",
-        "pm10": "79.2 μg/m³",
-        "pm25": "77.5 μg/m³",
+        "pm10": "77.1 μg/m³",
+        "pm25": "75.9 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "86",
-        "updatedAt": "2026-05-03 07:45"
+        "airQualityIndex": "87",
+        "updatedAt": "2026-05-03 08:30"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-03 00:58:04",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-02 18:00:17",
         "districtSamples": [
           {
             "district": "강서구",
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-05-03 00:47:29",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-05-02 15:53:23",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[만화로 보는 시니어 뉴스] 부모·손주 모두 챙기는 시니어의 5월",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fYnRwb05NQUU4SXF3by1uUkM4OXBVaGtPU1FxRGVSVDdkVEVuU3lrNW52c09Qa1M3S1BSUlZEVkt4WXR3NjB0VWJiUjhScXJFdzlNMnVncGFFZw?oc=5",
-      "publishedAt": "Sat, 02 May 2026 22:00:00 GMT"
-    },
-    {
-      "title": "美, 중동에 '13조원대' 무기수출…긴급조항 적용해 승인",
+      "title": "[속보] 트럼프 \"이란 '새 제안' 곧 검토…수용 가능성 낮아\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qeVh6LXdWSEhUOWNMTllGLXNkNWhaRmxEQ0ZjcmM4SUtBY2JBZTZjZ2VrTjQySE5pNzVRME5wcUV4ZktyUDNBbS1yb2lmSmVITnI0?oc=5",
-      "publishedAt": "Sat, 02 May 2026 22:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CWXJUaG5oaHB1TVlidzFSUl9hUzd0RUNqZjlfdjRlNGxLeWg5Q2dkTGJPbUMxY1hvSkV0bVFQYUU4aGpLRS1uazdfZmNtLWN5SEVtUXBCbVlzQXZVTmlQRzQ0NlJmSTZCQ1E?oc=5",
+      "publishedAt": "Sat, 02 May 2026 23:04:00 GMT"
     },
     {
-      "title": "GTX-A 하반기 전 구간 연결…B·C 노선도 착공·정상화",
+      "title": "[속보] 트럼프, 對이란 군사작전 재개 가능성 언급",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qODY5Z3BvODN0UG9qc25CRk1adGs4RTRLYmRRZlVhQmM1YjAzWVB4d0R3NmxPN09OMmFORnFqajVzc1pEOTRkRnR6SkFjczZabmxN?oc=5",
+      "publishedAt": "Sat, 02 May 2026 22:57:00 GMT"
+    },
+    {
+      "title": "제주서 렌터카 음주운전, 중앙선 너머 SUV와 충돌…7명 부상",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUUzR0dTJpU1l6M043RXVEQWs4S1RCdlNnWEVKdms5Szl0elB3R3g1RFoyY2d6OS01WWhYNEpGOWNYUDVkZmxnMXJhRk9kNVo1dTdQeDh4bnp3ZkRJRy1OcVlnWFV1TGZwOEE1aTE3OHRkbWlXVjBMNw?oc=5",
+      "publishedAt": "Sat, 02 May 2026 23:12:00 GMT"
+    },
+    {
+      "title": "트럼프 \"EU산 승용차·트럭 관세 다음 주 25%로 인상\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZeDB0SFh2bVlsdFhtdDRLeVoxYmhtUExGal95U2ZFV3lGMUw5OVgzb0EwVzVSNXhBRlJZZzhqeDJjU0oycmJrREw1UC14RDJOOVZr?oc=5",
+      "publishedAt": "Sat, 02 May 2026 23:07:00 GMT"
+    },
+    {
+      "title": "미, 중동에 13조원대 무기수출…긴급조항 적용",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aVEd1NW9ua2docnp0SEJhQzVMUTN5ajZHYjNuTWJtR0puY3BZZVJmb3JXNjVBdkdjN1B4V0QzSnh3Ni1uLTFmb3EwMmp2UTZLQUFR?oc=5",
+      "publishedAt": "Sat, 02 May 2026 23:06:00 GMT"
+    },
+    {
+      "title": "부산시 감사위, 부산사회서비스원 종합감사 착수",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xcWlBcngxd3FxV0E3TTdSRVFjWS1vS28zdngxSE83WkpJc09YUVk2RXN0TzNadWl1Z0tZTWx6VXlmVWk2Q3ZoVGoyMnRyVmVfUDBVZ0ZETUhUUGM?oc=5",
-      "publishedAt": "Sat, 02 May 2026 22:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00MzFhOWFjYjl1eEtCakdWUGV1ZmdHR2FuQmNyN0FzRGt3UWhsb3JOS3pCa0IzSnprWW1pN2JaRUlkOU1vSmtuOVVuN092X29GeTlxWXYzSWx4MERSTTZj?oc=5",
+      "publishedAt": "Sat, 02 May 2026 23:01:53 GMT"
     },
     {
-      "title": "[금융 HOT 뉴스] 금융결제원, '정치후원금 입금인정보 중계 서비스' 시행",
-      "source": "비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pWllWaWJxR2Y3Qldoa0xmQV9jOWNrb1NQLWdUNUNucmNIYTI3azI1UUlYMXNXZ3VNT3l1UFZGS3hwZmVaMmVqSmRKZlpXaHM2c2JabFNkUDgtSUUxdjJIY3ZqYW5OakhLOFE?oc=5",
-      "publishedAt": "Sat, 02 May 2026 22:34:00 GMT"
+      "title": "전북 완주 주택 온돌방 일산화탄소 중독 사고‥5명 부상",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQzBxd0JJa3ktdEZLSjVKSW50SmV3eTE3cEIwcHI3VHZsX1ZvcFR1czNuRmlYOEtsSUtTVExiLUpaaUVWMm5odXh2RGE4dWRrWHJFMWxvLXREcXZzY01lajlJYlJtMDd4UVA3M3pjNHlkZm5zMUdwMVgzZDMtVm82elV6YlJyRnZCNVI5aW5XSUQ4N254TS1rT2dUY2dHWVRvRlRLYjZFSFlheDFGajlyckJ5UGFhLVMxYVROLTRodw?oc=5",
+      "publishedAt": "Sat, 02 May 2026 22:58:23 GMT"
     },
     {
-      "title": "보험업계, 황혼육아·고령화 대응... 신상품·서비스로 경쟁",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80RXIzSlJ2cU9jOUM1bENHeHpCQlVJSnRWUzRnalNXZ29ZdjRITEMtNlNycGtzRGlaSGwtTVczdDB0ajRtanNzUzJhRk9tT2w3NE1LZTJmM2dBZXBDbjBjWGVqRFJTTGc1UjI4?oc=5",
-      "publishedAt": "Sat, 02 May 2026 22:32:26 GMT"
+      "title": "못하는 게 없는 성한빈, '아는 형님' 첫 출연 '예능감 만랩'…빛난 존재감",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wSmdDXzRGV1Zpb3BFamw3T3hrMFNWTVdLd1lWemRjUDRWQnVyQkFZVTd6TU5BOE5naE1zZXBjZmM2bGVwbE5qd2FkekV4a2ZHNzA4?oc=5",
+      "publishedAt": "Sat, 02 May 2026 23:12:00 GMT"
     },
     {
-      "title": "뜨거워지는 스마트글래스 시장…삼성전자·애플 참전 초읽기",
+      "title": "돌아온 팝의 황제 '마이클', 명곡만으로도 강력하다 [시네마 프리뷰]",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZZ2RLQm9zRkw3ZU9NN0lQWm5IN1lYaVUxbjlEODUyY3lqb0JvVDF0TmktRktiQS1QeXFOMTEwRHlrSzZYclBwWExWOU5hZUtXME95dXJ4NXFsbkh4VEN6REhtRUpiZw?oc=5",
-      "publishedAt": "Sat, 02 May 2026 22:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jaDFNSXljM0haRlFJczluRVRBMm5ycUViT2JkemNjWHRtdTJIdXRIWUg1bWE1b0hTNHVSQmNhWURPMF95M0ttcVBkUmdXNnZkZ3VoWmVqUQ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 23:00:00 GMT"
     },
     {
-      "title": "빛고을국민안전체험관, 어린이날 특별행사 마련",
+      "title": "한국마사회, 'KRA컵 아시아 주니어 승마대회' 개최",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLUFBnaVBTY3BudDJyNHJndUtNRXBPSmRkdzRjbk9neXNOVkZtUDVPeWkzWC1kN0xERURvbTU2cEMwNkNTc2pLREJBOUJwd25aZnhB?oc=5",
-      "publishedAt": "Sat, 02 May 2026 22:32:00 GMT"
-    },
-    {
-      "title": "\"벚꽃분양 막바지\"…경기지역 아파트 분양 물량 5128세대",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tYzhWOW9WSi15U3BvUGg4dVlybjFYOWNSZG1mUG9NXzMzOGhXdkYtTUtxOUJ1VHozYnVNRXpqckViOHJ6UERxNGJOYjZPRmxoSW5jcEJB?oc=5",
-      "publishedAt": "Sat, 02 May 2026 22:00:00 GMT"
-    },
-    {
-      "title": "프리랜서 시장 뒤흔든 AI…영상·마케팅 수요 급증",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnVmpXc2VWUUM3dExEUVZUQ0xzSThuLXgxeFhWbk5vRzNRa2xjLVh1YlZtZVVfWTN2b2RXX3pIc0VwQllGSW1MYS1YdWpjMmk0dVRz?oc=5",
-      "publishedAt": "Sat, 02 May 2026 22:33:00 GMT"
-    },
-    {
-      "title": "[지선 D-30] ⑨ 여야 대표·잠룡 명운도 선거 결과에…정치권 '주목'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IbzdCUmxEQzFHdUI4c3EwSUVLUUZDeEpQTW5ZZDhOM1NFeEl4d3V1UENvaDA1SjRaaWpzMHF1TUotdnFaY1RpZmlkTzU4QUVWT2p3SzRraUtzRDJNX2tyLUtORmg3MjNiYUE?oc=5",
-      "publishedAt": "Sat, 02 May 2026 22:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sZU5fdGpzVWxiQldOOUk0YU5YejVUQW5haEV6T293SXA4c3FCZTFOSV9KaGU2TS1fdUNxQ2Y4c2VpSlJXWGN6SVlYdDlYNWl3ampv?oc=5",
+      "publishedAt": "Sat, 02 May 2026 22:56:00 GMT"
     }
   ],
   "sources": [
