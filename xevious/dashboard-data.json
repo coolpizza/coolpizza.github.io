@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T16:15:51.731551+09:00",
+  "generatedAt": "2026-05-02T17:45:24.730566+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약한 이슬비",
-        "temperature": "17.9°C",
-        "feelsLike": "17.7°C",
+        "temperature": "17.2°C",
+        "feelsLike": "17.1°C",
         "highLow": "최고 18.8° / 최저 8.4°",
-        "humidity": "72%",
-        "wind": "7.1 m/s",
+        "humidity": "70%",
+        "wind": "4.8 m/s",
         "rainChance": "53%",
-        "pm10": "42.4 μg/m³",
-        "pm25": "38.9 μg/m³",
+        "pm10": "43.2 μg/m³",
+        "pm25": "39.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "71",
-        "updatedAt": "2026-05-02 16:00"
+        "airQualityIndex": "72",
+        "updatedAt": "2026-05-02 17:30"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "15.9°C",
-        "feelsLike": "15.4°C",
+        "temperature": "15.3°C",
+        "feelsLike": "15.0°C",
         "highLow": "최고 17.4° / 최저 8.2°",
-        "humidity": "83%",
-        "wind": "10.0 m/s",
+        "humidity": "84%",
+        "wind": "7.9 m/s",
         "rainChance": "52%",
-        "pm10": "42.4 μg/m³",
-        "pm25": "38.9 μg/m³",
+        "pm10": "43.2 μg/m³",
+        "pm25": "39.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "71",
-        "updatedAt": "2026-05-02 16:00"
+        "airQualityIndex": "72",
+        "updatedAt": "2026-05-02 17:30"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "16.4°C",
-        "feelsLike": "15.1°C",
+        "temperature": "15.6°C",
+        "feelsLike": "15.2°C",
         "highLow": "최고 17.3° / 최저 8.6°",
-        "humidity": "80%",
-        "wind": "15.3 m/s",
+        "humidity": "81%",
+        "wind": "7.6 m/s",
         "rainChance": "67%",
-        "pm10": "42.4 μg/m³",
-        "pm25": "38.9 μg/m³",
+        "pm10": "43.2 μg/m³",
+        "pm25": "39.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "71",
-        "updatedAt": "2026-05-02 16:00"
+        "airQualityIndex": "72",
+        "updatedAt": "2026-05-02 17:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "19.8°C",
-        "feelsLike": "19.4°C",
+        "temperature": "18.5°C",
+        "feelsLike": "18.1°C",
         "highLow": "최고 20.0° / 최저 7.3°",
-        "humidity": "61%",
-        "wind": "6.9 m/s",
+        "humidity": "64%",
+        "wind": "6.1 m/s",
         "rainChance": "11%",
-        "pm10": "41.8 μg/m³",
-        "pm25": "39.1 μg/m³",
+        "pm10": "43.0 μg/m³",
+        "pm25": "40.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-02 16:00"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-05-02 17:30"
       }
     ]
   },
@@ -303,15 +303,11 @@
       {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
-        "lowestDistrict": "남동구",
-        "stationName": "지에스칼텍스㈜ 논현제일셀프주유소",
-        "address": "인천 남동구 청능대로 460 (고잔동)",
-        "updatedAt": "2026-05-01 17:59:54",
+        "lowestDistrict": "미추홀구",
+        "stationName": "탑self주유소",
+        "address": "인천 미추홀구 송림로 217 (도화동)",
+        "updatedAt": "2026-04-30 09:22:33",
         "districtSamples": [
-          {
-            "district": "남동구",
-            "price": "1,975원/L"
-          },
           {
             "district": "미추홀구",
             "price": "1,975원/L"
@@ -326,6 +322,10 @@
           },
           {
             "district": "계양구",
+            "price": "1,980원/L"
+          },
+          {
+            "district": "중구",
             "price": "1,980원/L"
           }
         ]
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "북중러에 이란전 '대박'…\"미군 실시간 평가·맞춤형 대비 기회\"",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jRVlybEhDcDZPRDBRYXl5U3Nld3EzRHhZeHhzWjBmQnlHRTFKZl9PLUlBNldOMUxRQTlCVjNEd2tfcDZLQW5lMTZyelVvQVU?oc=5",
-      "publishedAt": "Sat, 02 May 2026 06:36:11 GMT"
-    },
-    {
-      "title": "\"월드컵 마케팅 시동\"…주류·스포츠 브랜드 경쟁 '후끈'",
+      "title": "이번주 국내 주요 금융일정(5.4~5.8)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13WTBtZ0Z2aTFxUWwxVEk5V0ZWVHhlb2NLa0dGN1hBRTMwMFRwYXF1UDFiajVIdEppZld5cTJ4N3NvUF9TYi1YcldjRFBwRDUyTEtZ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 07:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zdjE0anRzejh2R1lTT2tQcW16QUNvcGJjWE84Qkd3TGZCZUNPWGZOaVB4OExBOVZ2ck9zUU1vSEYzTnloVlc3aGdVYjd2TG9TT0VF?oc=5",
+      "publishedAt": "Sat, 02 May 2026 08:02:00 GMT"
     },
     {
-      "title": "전남도, 조류인플루엔자 위기경보 주의로 하향",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XUzNOQUVSQVdtRnRobDM3SzVCR0dlNUlnaDF0cjlBbWlEN0o3V3lXZkVVM1FzV2J0MWpqb1JocTdRSjhfMXNXYXI0NVJxNXhDSEE4elAyd0vSAVhBVV95cUxOV1MzTkFFUkFXbUZ0aGwzN0s1QkdHZTVJZ2gxdHI5QW1pRDdKN1d5V2ZFVTNRc1didDFqam9SaHE3UUo4XzFzV2FyNDVScTV4Q0hBOHpQMndL?oc=5",
-      "publishedAt": "Sat, 02 May 2026 06:25:19 GMT"
+      "title": "울산 중구 주요 교량 5곳 분홍빛 꽃걸이로 단장 > 뉴스",
+      "source": "더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBzLTh0dmMyTWMzenZ5WXBIbnpWV3V2T2ppRXpoMHczcDNwNlRyREw2cE5GTFkxak82QnFETUJpeThfZTg?oc=5",
+      "publishedAt": "Sat, 02 May 2026 08:35:00 GMT"
     },
     {
-      "title": "한화에어로스페이스, 항공무장·정밀유도 기술 공개…155㎜ 정밀유도포탄과 탄도수정신관도 소개",
-      "source": "이코노뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93aDl0MW5qUEpuY0RhTXA4UHdMRFp3ZUotbGtmZWVnT1U5M21KU3NEM0NCQkRneEpqQUkxTGpRSUdBQlBNNjhXSk1VUFBnTDJaaGhHZVd4aTh4LW9WZUpia2pLU3AtVWJ3bHpGWHNR?oc=5",
-      "publishedAt": "Sat, 02 May 2026 06:39:30 GMT"
+      "title": "롯데百, 어린이날 맞아 잠실 월드파크 '키즈 아트 스테이션' 무료 운영",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44YzZlMUZJNkNBVllGR2xJeVlFQk5OZzRQNlN6cTdfUDFqRTk5YjZPQ2RrNmphMmt6UGNiUndtN1ZvTlZHbjZHWDJpODd6MXp5MHlTTmppOUQ1N05mNE4tUWZtZUVoS0RVZENWVmNR?oc=5",
+      "publishedAt": "Sat, 02 May 2026 08:01:00 GMT"
     },
     {
-      "title": "포스코홀딩스, 1Q 영업익 24%↑...리튬 사업 적자 축소",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wSnU3RWtTcUw0WGhnVVpIR0pNT3dfdzN2Sk9mMVZ3azN2TmtJU1JnV2NaSzdqSHdCYnNaUHIxLWx4X2dISXVySm85eFF3bS1sMHRIN2h5RFdjS0lKc0tnQnU2MVFJVU02eUtF0gFvQVVfeXFMTXNIUDJ6Rk1LZEpVZFF0M1BpSEZzU0FQc1VTcHpUNmJud0ZqQWtrWW40VzUwVHNyN1l4TXdqejgxVGxMU3hwV3l1a2xicnpDM0Q1U0xxMHVDc3dpU2U0U2I4QmduWkRRREttMlZtaDJZ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 06:25:11 GMT"
+      "title": "[포토]황정미,목표 지점으로 보낸다",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFdGOHJsWTZlTjdjcS1RZjdrZm5YOGtJZ1dBTmlmTldId1pFeWhtWVJoQzZDNVp0Y3htSGJ5b1lDaVdfeTROTHdhMEhsMkFvOGhBejBlR2JwbXF6SVNRR3NmR3J4dWdNZGNLd2Z4MTAtTDFBS0xwdUE0Ynh0WGltZQ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 08:37:37 GMT"
     },
     {
-      "title": "미국 해상봉쇄…유조선 등 이란 원유 수출 마비",
+      "title": "조경태 \"비상계엄 잘못…장동혁 연호하는 분 집 가라\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wNllGekk5TENMMlI1Y3lndDcyekgtM2l1VTg3d2hvMmVKS0N4amNHd3k3bHBQSHFPY05ob25uSEIwRXI2VnZqS29NekxKT2QzZ184?oc=5",
-      "publishedAt": "Sat, 02 May 2026 06:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43M2tYRmd4N2c3b1Bpb3Rwd21GTlJILXNRQ2lLdEUzbmdxcjJ1YTNLWUUzZjFzSVY2MUV1b0xtNVU1LXc5TEZWMGxmSnIzMFJKREN3?oc=5",
+      "publishedAt": "Sat, 02 May 2026 08:35:00 GMT"
     },
     {
-      "title": "인사하는 정원오 후보",
+      "title": "악수하는 정원오 후보와 오세훈 후보",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05SGN2aUpKSlJITllJLWZmNjRWSUZxcUVCbDFycENGYjlRR0dwaWp5SnZwSEtNVE9zSkV1TnpGYW9ldFItdHlDMFlLM3V6Z2ZDNFpR?oc=5",
-      "publishedAt": "Sat, 02 May 2026 06:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rZmFwN3FsRTVhMXhXYnozNk5aZXZTMndtREgzcll1WkpHbVZiM3NYQWNpemVDOWRNcmlkRlp3UnRmVlotZFZIa3NvcjFtYXVIMmlz?oc=5",
+      "publishedAt": "Sat, 02 May 2026 08:06:00 GMT"
     },
     {
-      "title": "GS EPS, 신용등급 'AA 안정적'…발전사업 다각화 '경쟁력'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0WDJrczA1NmlKRGNUejRkU29IU0w0eEtyTGh2RGNoamZNTjVwNWVHY1ZmV1J4R0RnV2NFbmNMb05Ha1hWb0loVzZ5TUg3eUJJTC0w?oc=5",
-      "publishedAt": "Sat, 02 May 2026 07:01:00 GMT"
+      "title": "[포토]정지효,귀여운 브이 인사",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3dDaUZ0YVUyUU5HQjdta1I3dUdid2ZRVDg2dE9aZnJDeHR1ZnRCZlhydW9POWRYSzViVEc0NWdiNnhWVmd2cnJJTWlta1J5d21SNUZWcU9sVGxPTXMxV0RTWWFLVjZGMWU4VGlnMFdsT3BvVEJQci1pM1RoM2doNA?oc=5",
+      "publishedAt": "Sat, 02 May 2026 08:16:00 GMT"
     },
     {
-      "title": "美증시 사상 최고치 경신…증권가도 \"못 먹어도 고\" [인베스팅 인사이트]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yTUY0T3FVMGpidFM5RWhJd2tKNFZiMHhoT0pyTVpxcmdYdXh6VnZMQ1ZkQ0pjWENRRDNjam54VjM5YXluVllKVGs2cDU5b2FtSnVF?oc=5",
-      "publishedAt": "Sat, 02 May 2026 07:01:00 GMT"
+      "title": "'폰세·와이스가 그립네' 한화, 에르난데스 팔꿈치 염증 1군 말소",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPRHdTT044eGxKNmVxYzRyeXR2QTBQX0tIbzJGLVZkUXNnY3JwNWpDRENZUUN2em5GRzY0WU02blhIcGtOa0s5TzlLZFJuYkg5dXhDTk5wTndqUVJX?oc=5",
+      "publishedAt": "Sat, 02 May 2026 08:22:00 GMT"
     },
     {
-      "title": "컬러프린터로 '돈 복사'…유튜브 따라한 30대 실형",
+      "title": "김기하 동해시장 후보 선거사무소 개소…'본선 출정'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qWFNIUUM4amFrc0Vpd3BGb1EyNkVJbnQ2eUlaOGtNYVNQLVFFQmtraFNVYy12ZWJmMzZZZW51S3VWNHFKWTJaMzhUbkt6OE95Z1lyVW4wVTZhLWxNTjdVaA?oc=5",
-      "publishedAt": "Sat, 02 May 2026 06:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94ZGVReFR4eERmR0t6S19tWGltaHpDWjh5MEExLW0yLVpDT2RKUUV5Rng4OS1aNDZfcTNwVDFweVkyX3N6TDRFd2lVM1dOb3RhaGRV?oc=5",
+      "publishedAt": "Sat, 02 May 2026 08:23:00 GMT"
+    },
+    {
+      "title": "\"절호의 기회\" 전쟁 지켜보는 '눈'…조용히 약점 읽는다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxUXltaGpsSWJGSTZXX0w3OHp5OXdFeTk1bFdBSjd6MUtINE4wTUxvWU5nQmU4d094bXVfNVg2OW9vWkN6aUVhQWJnemJ0MzFVTVFr?oc=5",
+      "publishedAt": "Sat, 02 May 2026 08:11:00 GMT"
     }
   ],
   "sources": [
