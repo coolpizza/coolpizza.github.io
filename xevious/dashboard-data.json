@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T23:36:05.104812+09:00",
+  "generatedAt": "2026-05-03T00:14:48.913706+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,68 +67,68 @@
     "areas": [
       {
         "location": "서울",
-        "summary": "이슬비",
-        "temperature": "13.1°C",
-        "feelsLike": "13.4°C",
-        "highLow": "최고 19.4° / 최저 8.4°",
-        "humidity": "93%",
-        "wind": "2.3 m/s",
-        "rainChance": "53%",
-        "pm10": "65.7 μg/m³",
-        "pm25": "62.2 μg/m³",
+        "summary": "비",
+        "temperature": "12.9°C",
+        "feelsLike": "13.1°C",
+        "highLow": "최고 13.1° / 최저 11.2°",
+        "humidity": "94%",
+        "wind": "2.9 m/s",
+        "rainChance": "100%",
+        "pm10": "68.5 μg/m³",
+        "pm25": "65.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "79",
-        "updatedAt": "2026-05-02 23:30"
+        "airQualityIndex": "80",
+        "updatedAt": "2026-05-03 00:00"
       },
       {
         "location": "김포",
-        "summary": "이슬비",
+        "summary": "약한 비",
         "temperature": "12.0°C",
-        "feelsLike": "11.5°C",
-        "highLow": "최고 17.4° / 최저 8.2°",
+        "feelsLike": "11.2°C",
+        "highLow": "최고 12.4° / 최저 9.3°",
         "humidity": "96%",
-        "wind": "6.5 m/s",
-        "rainChance": "52%",
-        "pm10": "65.7 μg/m³",
-        "pm25": "62.2 μg/m³",
+        "wind": "8.6 m/s",
+        "rainChance": "100%",
+        "pm10": "68.5 μg/m³",
+        "pm25": "65.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "79",
-        "updatedAt": "2026-05-02 23:30"
+        "airQualityIndex": "80",
+        "updatedAt": "2026-05-03 00:00"
       },
       {
         "location": "파주",
-        "summary": "약한 이슬비",
-        "temperature": "12.0°C",
-        "feelsLike": "11.6°C",
-        "highLow": "최고 17.5° / 최저 8.6°",
-        "humidity": "96%",
-        "wind": "5.7 m/s",
-        "rainChance": "67%",
-        "pm10": "65.7 μg/m³",
-        "pm25": "62.2 μg/m³",
+        "summary": "약한 비",
+        "temperature": "11.8°C",
+        "feelsLike": "11.5°C",
+        "highLow": "최고 12.4° / 최저 9.5°",
+        "humidity": "97%",
+        "wind": "5.5 m/s",
+        "rainChance": "100%",
+        "pm10": "68.5 μg/m³",
+        "pm25": "65.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "79",
-        "updatedAt": "2026-05-02 23:30"
+        "airQualityIndex": "80",
+        "updatedAt": "2026-05-03 00:00"
       },
       {
         "location": "익산",
-        "summary": "약한 이슬비",
-        "temperature": "13.1°C",
-        "feelsLike": "12.9°C",
-        "highLow": "최고 20.0° / 최저 7.3°",
-        "humidity": "92%",
-        "wind": "5.2 m/s",
-        "rainChance": "11%",
-        "pm10": "50.3 μg/m³",
-        "pm25": "48.5 μg/m³",
+        "summary": "비",
+        "temperature": "12.8°C",
+        "feelsLike": "12.6°C",
+        "highLow": "최고 13.6° / 최저 11.3°",
+        "humidity": "94%",
+        "wind": "6.0 m/s",
+        "rainChance": "100%",
+        "pm10": "52.7 μg/m³",
+        "pm25": "50.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "74",
-        "updatedAt": "2026-05-02 23:30"
+        "updatedAt": "2026-05-03 00:00"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 5월 2일 (토)",
+    "todayLabel": "2026년 5월 3일 (일)",
     "areas": [
       {
         "region": "서울",
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-05-02 15:00:34",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-05-02 17:58:56",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "민주당 광주시당 기초의원 2차 경선 결과 발표",
+      "title": "박소영, '썸 ♥' 양세형과 등산 데이트…\"산 꼭대기에서 선물까지\"[전참시][별별TV]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LNnRfWVZ4V0NETlhsWnRYSlVadkNRbUZhYlpsRTRFS3p5bS1IdnliUVZTYXM2MU5WNFM4d0Jqd1dBZG0xcVZ6VlZIdHdoQW8yR0VabHFQRHN6d19Yc0g0blA1QURHR0gzQTMzTkNraW5hYjRSY3JwNw?oc=5",
-      "publishedAt": "Sat, 02 May 2026 14:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EUFpWMTR6b3MxRVFBQnhFbE9yYU9XaTZ4bnNfVEtCMU1YSHFQWGdKbXM1SG1rSzkzRGlxcW4tR0ZvTG1mWGlNeGp4UVpWMmRpZ1hLQi1JZTRzR0t5SS1Bag?oc=5",
+      "publishedAt": "Sat, 02 May 2026 15:09:00 GMT"
+    },
+    {
+      "title": "전자발찌 착용 거부 60대, 드라이버 들고 시민 위협하다 검거",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTjh1bnpRb2pLdmV1VXZVOHI1Yjl4cFpyd2tZbjE2bGx1SmJSSUNhMWQ0UFFGbGhCZWloUFhtd0pyZVJjWGVha3dTd1lqd0RVcUFPMjdNWnFZTHZjbm50bGlRcGRMLUlhanc?oc=5",
+      "publishedAt": "Sat, 02 May 2026 14:40:00 GMT"
+    },
+    {
+      "title": "민주 추미애 \"윤 이긴 절박함으로…경기도 곳곳 뛰겠다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZRDJFWm1aSU1uOF82QVY4ekFCQnJOY0lKYmp5WVE4UUY1WUdCQ25BR25GeTF1MDBLX2ZzN3owV2NaZjZfX1BaaXl1NGE2R1F5UWJ3UTZRM1Z5dmR5cV9RRlpGaTdwaW5DY3c?oc=5",
+      "publishedAt": "Sat, 02 May 2026 14:15:00 GMT"
+    },
+    {
+      "title": "조현, 이란 외교장관과 통화…\"호르무즈 안전 통항 재개 필요\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4TnNoVHM0S25xREpULTl1MGNxTkJCSE9xb0VwLTlJemJwNl9EazlrakNQQmFqb1pLUEI1RW0yVVotU0t2YzNxc3NadGF3bmtxNV9SNHlXV0hRc2NYTDJXRl9sNWx6ZUVsLWc?oc=5",
+      "publishedAt": "Sat, 02 May 2026 14:17:00 GMT"
+    },
+    {
+      "title": "'57세' 정샘물, 갱년기 거스르는 회춘 비결…\"노화 폭격 극복한 메이크업\"[전참시]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kNDhvZElfVG1vSHJWellDX2puTWI3aHdWRmxBdW1qNUJwVzZSRmI4enpTMDE5YkE3c3hKbWNla3BlTjRYZm9zbWNDekc0YlBTS1lV?oc=5",
+      "publishedAt": "Sat, 02 May 2026 14:39:00 GMT"
+    },
+    {
+      "title": "크로아티아 관광청, '2026 크로아티아 골든 로드 워크숍' 현장 리포트",
+      "source": "이로운뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Bb3VDRUxVNUpXdFg4WjRlUDRzX05felhmQ2djZEJxNjRsTVk3ZWUwQzdhMm1fLVM4ZHpPWXVFTjVjN1ROOV9CMk9RNjZVemszLXJiX0RocHgzM1BWMGx4clFaYjNfRDQ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 15:02:08 GMT"
+    },
+    {
+      "title": "신현준 '선서하듯' [포토]",
+      "source": "bntnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GVHVPLUtJS1RCaGZPQWs2ckFzR0VDdDhuNW1BN1JlSk9WdkkyWGE4eTJSV3RKeERDWFlwSHFDTGhsZVVSSHdGMVBRMEVYc1lYbi1zTjg2VHVWYm0taFQ4ZkN3LWo?oc=5",
+      "publishedAt": "Sat, 02 May 2026 15:04:20 GMT"
+    },
+    {
+      "title": "휴림로봇, 12,620원 마감…장중 변동성 확대 속 약세 흐름 이어져",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QdlBrY2tuRVAwdzY1RnNkVUk5bUFEMDFPQVRyejdOdDVvWHptTGdFQ0FLNWp2WlVWN1V6eFl4Y1VEVmpTNjZYMkNGTXlQUzNBaTRKRUkwVmRnT3J4M2NKR1lPc2xhV2Z6?oc=5",
+      "publishedAt": "Sat, 02 May 2026 15:00:00 GMT"
     },
     {
       "title": "국민의힘 \"공소취소 특검법에 입 닫은 대통령, 사법파괴 배후 시인?\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EaUo4NFllcWwzd09KQ1VneTVzWk5ZalpQYmpfZ3NOM0dXOTR3MFJwZzVBc2FOWnA4dkFTdzlfMGkwR3JpaDdVcVpkUG8zdHRzcHEw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aWDBpdTN1MnE2Wkt0Y3pBa0hNaVNGX1JDRXAwdno3MzdTX1ZpS0dOeG1WVzllVDdOQ0dsYnNWcHZ4SG13ZkhUdFRhY2luVHdoV0hkWTZZaWprWGlGREFzUjMwek13YlRsQVE?oc=5",
       "publishedAt": "Sat, 02 May 2026 14:15:00 GMT"
     },
     {
-      "title": "정원오-오세훈, 또 '부동산' 격돌…\"부동산 지옥\" vs \"적반하장\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qcXhoMlpNSVZWWnZMek1UXzdpTm0zMDJJWW9uczBRYlIwdVhzR29yVXJOVUFtcWFxbmVrOVVneTV4dWJ3b3FyMHRyRUdlQ3dUUnJn?oc=5",
-      "publishedAt": "Sat, 02 May 2026 14:15:00 GMT"
-    },
-    {
-      "title": "국민의힘 장동혁 \"대통령 죄 지우기 특검…범죄자 심판 선거\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mVExOb0xYS2hnLXpjUUk5MmFKQVUyLXZoM3B6WjMzVndObmR3NWxoN1VmSlJEU0Zzc0xJQ3p4NjRXSGlVOEV0dGtXc0lYYTgxUlln?oc=5",
-      "publishedAt": "Sat, 02 May 2026 14:14:00 GMT"
-    },
-    {
-      "title": "소유 \"68kg→49kg 6개월 걸렸다…맨몸 운동+유산소\"[아는 형님]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRYVdmNXZvNFJCVXZucHA5a1ZOQ1F5em9nWndTZ0lBVG9DYW5WU1F2UzZsbW1telJKOWxldER2VjJLRG80RGNpU0kzWnJDZU9lYjlN?oc=5",
-      "publishedAt": "Sat, 02 May 2026 14:15:00 GMT"
-    },
-    {
-      "title": "與 광주시당, 기초의원 5개 선거구 2차 경선 결과 발표",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01NnhiVTJjMUdZQnhpQ3dQY3FyRHBaZ2paM1VpYjFiQVFuRXpRSEhhQUdqZVFEV19PQ1RCQmI4MThnd3RiX0tNcFNaMEwwdGZyQzVB?oc=5",
-      "publishedAt": "Sat, 02 May 2026 13:37:00 GMT"
-    },
-    {
-      "title": "하정우 '손털기 논란' 의식했나…악수 사진 SNS에 무더기 게재",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oZ0pNQVdOY1pBaGFhcThaT0Z3aURWd1F4MHNic0laT3J5NmF1TTZqV1NEMFZSdDhJVHZEazM2ckltUnBfenJzem53OEZjVG1ZMjJr?oc=5",
-      "publishedAt": "Sat, 02 May 2026 14:06:00 GMT"
-    },
-    {
-      "title": "국민의힘 이정현, 민주당 민형배 후보에 공개토론 제안",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4VDJ5SW0zMVBfbTlLV0liQUR3aGwyc1JzUmc4STdNTlVlejE4dDl1RHZUQlotNDYzQkk4SGI4UEszTzllSnN5UWttQkdaNUk5RER3?oc=5",
-      "publishedAt": "Sat, 02 May 2026 13:37:00 GMT"
-    },
-    {
-      "title": "아이유, 동정 여론 위해 퇴원 메이크업 \"왜 오늘까지 예쁜거야\"[대군부인][★밤TView]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mRjktZlRteGRhbHZieVRXbXpZLUxEVFB2d1Jua1NVbjhmYkxkbVl4NDlFT3JfNmlVaXRwY3hJMndvYW5XRkJwbE9LM1FFWno3RDdJ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 13:39:00 GMT"
-    },
-    {
-      "title": "\"이란, '이스라엘 간첩' 유죄 확정 2명 사형 집행\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03SHdMc3lBZjdpdkY5UFRTSjAxbEhsM3h2MTNzckh2TDNuRWVlU1NyTnZjMTdiMEVITmxreHhDWC1uc2Q0UF8tVGxhb2czN0p1ai1ZNm9yN2hCRGhjZWUxU0tHNHB6Q2JPWFE?oc=5",
-      "publishedAt": "Sat, 02 May 2026 13:53:00 GMT"
+      "title": "경북교육청 부패 취약 분야 핀셋 점검 본격 가동 > 뉴스",
+      "source": "더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9pakFDV0ZGLS1IaXdkSlZOaExNaVgtSjg5TmhibjFIZXBVcmtVZWo3M3k4Y0Q4T1ptS3FUMEE4V1dHM2M?oc=5",
+      "publishedAt": "Sat, 02 May 2026 14:54:00 GMT"
     }
   ],
   "sources": [
