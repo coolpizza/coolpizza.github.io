@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T02:34:48.322896+09:00",
+  "generatedAt": "2026-05-03T03:36:26.378307+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,63 +67,63 @@
     "areas": [
       {
         "location": "서울",
-        "summary": "비",
-        "temperature": "12.2°C",
-        "feelsLike": "12.2°C",
-        "highLow": "최고 13.1° / 최저 11.2°",
+        "summary": "약한 비",
+        "temperature": "11.9°C",
+        "feelsLike": "11.8°C",
+        "highLow": "최고 13.7° / 최저 10.8°",
         "humidity": "96%",
-        "wind": "3.4 m/s",
+        "wind": "3.1 m/s",
         "rainChance": "100%",
-        "pm10": "69.2 μg/m³",
-        "pm25": "66.1 μg/m³",
+        "pm10": "71.7 μg/m³",
+        "pm25": "68.7 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "81",
-        "updatedAt": "2026-05-03 02:30"
+        "airQualityIndex": "82",
+        "updatedAt": "2026-05-03 03:15"
       },
       {
         "location": "김포",
-        "summary": "약한 비",
-        "temperature": "11.3°C",
-        "feelsLike": "10.8°C",
-        "highLow": "최고 12.4° / 최저 9.3°",
-        "humidity": "98%",
+        "summary": "비",
+        "temperature": "11.0°C",
+        "feelsLike": "10.5°C",
+        "highLow": "최고 13.4° / 최저 9.1°",
+        "humidity": "99%",
         "wind": "5.4 m/s",
         "rainChance": "100%",
-        "pm10": "69.2 μg/m³",
-        "pm25": "66.1 μg/m³",
+        "pm10": "71.7 μg/m³",
+        "pm25": "68.7 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "81",
-        "updatedAt": "2026-05-03 02:30"
+        "airQualityIndex": "82",
+        "updatedAt": "2026-05-03 03:30"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "11.3°C",
-        "feelsLike": "10.7°C",
-        "highLow": "최고 12.4° / 최저 9.5°",
+        "temperature": "10.9°C",
+        "feelsLike": "10.3°C",
+        "highLow": "최고 13.3° / 최저 9.0°",
         "humidity": "97%",
-        "wind": "5.8 m/s",
+        "wind": "4.7 m/s",
         "rainChance": "100%",
-        "pm10": "69.2 μg/m³",
-        "pm25": "66.1 μg/m³",
+        "pm10": "71.7 μg/m³",
+        "pm25": "68.7 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "81",
-        "updatedAt": "2026-05-03 02:30"
+        "airQualityIndex": "82",
+        "updatedAt": "2026-05-03 03:30"
       },
       {
         "location": "익산",
-        "summary": "비",
-        "temperature": "12.4°C",
-        "feelsLike": "12.1°C",
-        "highLow": "최고 13.6° / 최저 11.3°",
+        "summary": "약한 비",
+        "temperature": "12.1°C",
+        "feelsLike": "11.8°C",
+        "highLow": "최고 13.7° / 최저 11.8°",
         "humidity": "94%",
-        "wind": "5.4 m/s",
+        "wind": "4.7 m/s",
         "rainChance": "100%",
-        "pm10": "52.0 μg/m³",
-        "pm25": "50.5 μg/m³",
+        "pm10": "47.6 μg/m³",
+        "pm25": "46.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "75",
-        "updatedAt": "2026-05-03 02:30"
+        "updatedAt": "2026-05-03 03:30"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-05-02 18:00:17",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-05-03 00:58:04",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "사립대 가려면 등록금 기본 1,000만 원 육박… 선택이 아니라 ‘진입 장벽’ 됐다",
-      "source": "JIBS제주방송",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUk8zRWRYTURfb2JQMjJHdDc4ck1XLWwtZ3hldWNhV2lTaFByNFJGSS1wdWl4UjNCS2RUUV8yU2t5NnZSeEtVaWtFQnJfZkZEWDBwU1p0a2hqNW8yX1hUX3NOaFd4eGlzdzM3VzVVeHI0WGgzeHBZYm1aUEpqUC05Nk8tN3V5dEJtNTBnRTlR?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:33:19 GMT"
+      "title": "트럼프 \"우리 꼭 해적 같다\"…이란 해상 봉쇄 자화자찬",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yZ29vVi11Y0FydF8zNzAxX2pudml1OEp3MjU1aDl4ckNTbnFnZmR4Tnc4bWFJTzhFcWhKWDVsNDN0V1NsX3M4OFRYSkdZMG5mOUF0VHR5X0Y?oc=5",
+      "publishedAt": "Sat, 02 May 2026 18:01:34 GMT"
     },
     {
-      "title": "세계 섬 지역 관광 실무자 제주에 모인다",
+      "title": "중문동 골목상권 활성화를 위한‘현장 소통 ’강화",
       "source": "뉴스N제주",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RaDV2TGVBWG5lYS1QR2ZPdGxuQUhySktzbmtiWEVRMjBvbVlIblJkbzBjdmlYV3hFN2t5SmxxV1FCb3BiNjdRM180cUdIR2F6Um5PNHpLMUxfc0Q1YWdpYjJYWXFHamdQYk1NMQ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:21:39 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBONlpubDZxbG1HcElhaDBjZUUxejRGSEI1STc3dnNodTZKVlBoUUZOSThTUUd4Vkt2VnNpY2NCR0RGa2pBTTJnSlFHcnV2Q2JVR2toWlR1bHFlelBsSzNEakFodkpWQnhtZmRWbQ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 17:59:11 GMT"
     },
     {
-      "title": "정샘물, 갱년기에도 젊어지는 이유? '연 1350억 매출'…총 21개국 진출",
+      "title": "버핏, 시장 과열 경고…\"도박 심리 최고조, 하루짜리 옵션은 도박\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lOVJYeFQ2aW1IVlE3a3lhd3hmZjVJQTFDZ011SmV6M01OMTZQb0R4LVdEeXBsNFV0WmZhSTA5VUVpaGJST1ZWNGdCenhwWGdlLXVHSXc2OUNQa1VMZTE5RA?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1heVNNOU5OM28wSDRUOGdaZ250bG5yRFFMVnV1eF9PdE84c0hETDFUVDRWZW5MMF9PNS1Iekxua2RyU210VGpqaXVLd3ZQU2FfUi1F?oc=5",
+      "publishedAt": "Sat, 02 May 2026 18:13:00 GMT"
     },
     {
-      "title": "게임 대기업 1위 유지한 넥슨, 계열사 대폭 늘린 크래프톤",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WMkw5MklTaWkxTTRnY0JRekJmMkZPb29RNVd0dTJybmtYcV9xenpVU2VHQmh2d1VDRUZUTEY5aENfa3JTcDJqalpBd3AzX29iVjI5ajZlQVBxYVp0UWc?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:02:54 GMT"
-    },
-    {
-      "title": "화성산업진흥원, 산업안전 아이디어·슬로건 공모전 개최...총 12건·520만원 규모 시상",
-      "source": "세이프티퍼스트닷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rMnRXaW5WLUdqQmY2d0lNVFU0eFFzbVpad3pLR2x5amc2WElSZlpselhLSmdQOXN2Y3ZXWFVqZVRMMDhZY3ZJdjJmd0xLSllvdl82eHB1WjRhejB0bjFZQ1pwY21QNXNwMnVPaV84UQ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:16:29 GMT"
-    },
-    {
-      "title": "고래 투자자, 단일 거래로 바이낸스에서 1,051 BTC(약 8,235만 달러 상당) 인출",
-      "source": "Bitcoin News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHhMa0NyTk1obUMxV3hBQjVVREQ3Q0xRMUJaZGNPQ1drTS1za1Q3d0M5YU9BcmFHNDh4SzlVSmpWR1RzRGFIbUpjMU1uYThNajA0dXd6RTBacHBHRS1VeWRMTWpXVmlZc1RtTS15Q1loTC1NbUJpRmF5OHpGWm5qaFRzRE5LVkNLcDRkSG1GckwzOHZFeExyTmpnQXE4Qll0Ym5jOHNzZ3E4eUUza3dsN21ZcTJ5UQ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:13:41 GMT"
-    },
-    {
-      "title": "[이슈]제주 카지노 납부금 620억 원…전년 대비 43.8% 증가",
-      "source": "뉴스N제주",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMb0xEc1gyRTdyR2MtSEx1SmdHdmF1MmRPNG9feTNvZm5UajNQVVR2d3RFc0tHWTJJT1dyTm9QNi1FSzVxZlFKcVlTeUlaWHVlUHlyZGc0eUM5d1B5aWhsVFpGRmZMOEF0Nl9fag?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:20:06 GMT"
-    },
-    {
-      "title": "\"이 라운드걸이 日 전설의 딸이라고?\" 도쿄돔 발칵 뒤집은 22세 미녀의 정체…세이부 명포수 장녀였다 '복싱 명경기서 데뷔'",
+      "title": "이강인 '선발+90분 풀타임' 활약! '최다 기회 창줄' 기록, 소속팀 PSG는 로리앙전 2-2 무[리그1·리뷰]",
       "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GSEZlZm5YN3RVTUlrbTQwUGk1Ry1aZk5HbFpMSHNwWTBsSk4zbUFTOWw2elEtd0FScl9HWlZ6TEFreE8wTHFGUzV5QURDM2RxSWstZ2dUUUt5bUp5?oc=5",
-      "publishedAt": "Sat, 02 May 2026 16:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rV2txMDdNRHBYXzR3TFBPRlFGZUhteW5Pc0MybEp2bm5paWhTMmp2cm5Ndkw3cXBxNXZXelRyT3Zic3dvYkI5R0ZGYzZSLURMSzJUazMwMUV3ME1a?oc=5",
+      "publishedAt": "Sat, 02 May 2026 18:18:00 GMT"
     },
     {
-      "title": "'독점-HERE WE GO' 손흥민 대신 메시 손 잡는다 \"인터 마이애미, 곧 맨유 떠나는 월드클래스 MF 계약 추구 중\"",
+      "title": "\"25억→125억으로\" '복권 MC' 박소영 아나운서, 당첨 비결은…",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2Q2pZSktWN3hPU1I1dGhaRVdxR19FazhuT1ZIX0lTd2gtczdnQlRTV1JxU2tGWGNDUTJPcUdxMGlZWGQ4OVVLcFRlMUY0ZDFxQmlpR2FrSzZzS0hBbHp3Uw?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wSlN6RG15TGhiSXRUSEEweGlHTTZJRXJnc3lkMHhOQWhBOEpOanhYd0JzN1lveE9seTl3d0lhLUowUkM5cnVsRFhZcWY4TTFEZllR?oc=5",
+      "publishedAt": "Sat, 02 May 2026 17:56:00 GMT"
     },
     {
-      "title": "인스타 핫플 된 호주 해안마을…주민들은 '부글부글' 왜?",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Yd2dxLTFPN2E1aHFxQ2I2T3dTaW1XeUctTzE2MzdKMWJGUnBpSmt1c2o5cmx6WkJlNVZqTEZXYm9LS2tNZDZPVElpUWE0Q1pwWmRF?oc=5",
-      "publishedAt": "Sat, 02 May 2026 16:36:00 GMT"
+      "title": "버핏 떠난 버크셔, 현금 보유액 '사상 최대' 590조 원 비축",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GdWRYWVJ4amg1RXlSMmxmbTJXX3o5X0lVOXplRUVmMTJ5OHV3WUV6RGU3RURjOVExOUVZYmtZREJmeFlLRkp0aUpiZ3NYRGdBOWlUYXZqTzhhdDJVT3c?oc=5",
+      "publishedAt": "Sat, 02 May 2026 17:49:00 GMT"
+    },
+    {
+      "title": "AMD 라이젠 7 7800X3D 프로세서의 소매 가격이 181달러로 인하되었습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0dPZTZXS3NuTHduLW1DMW1jQm4zTWk5dkIzZjA1VDhKWXdfQVVwSENwNkl4OW9zcGd0WkVEd21qVmxablZGdE9VazBVNVc4cktuNXo3N29ZWkE0Nk84ZGZQQ1MzSC10M29YV2g5U2ttRzBBVG5Nc05nY1JPeHpSczhEVldZTDJzVjRNMlFnVUVnLVJaZVJudkJfMVBzUFU?oc=5",
+      "publishedAt": "Sat, 02 May 2026 16:54:49 GMT"
+    },
+    {
+      "title": "'비♥' 김태희, 인형 미모로 주부9단 반전 매력 \"애들 빵 같이 먹어..소화력 너무 좋아\"(전참시)[종합]",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRTJCeGU4TWVXVEJ3WFdxZmhSaTZxR0U0eEZWZGdJNGV2ZG13VnR0U0I2VGJTSDNOOGtDWEdmcjJKWmpyRk1uWU5HNm5XM3BNdEVnLVVOUjlZMGpFQUJrdk1lU3dnTjZVRjhmMEt6Sy1rcU5UdHpaLWhoZnBNdGxhQ1JlQkxUckNaWDcxQm5vNA?oc=5",
+      "publishedAt": "Sat, 02 May 2026 15:48:00 GMT"
+    },
+    {
+      "title": "애플 제품과 PC 기술을 활용하여 미적인 작업 공간을 구성하는 방법",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMF9lOEJKWFd5NU9lV0dzVTNKQk1pcUxFZFlzb21BdWUzQ2hJdXUwVl9UZGFJRzB1eTFmdW45N2tDWXpMcDRZbnBJNnBkQ3RGQU1FYXVZTm9uc0JOVFM4dktlWFhKT29vTF9wdTlWVFpublZPQ2FMUndBVTRfVE05VlFDUHRiUHA5RGlXNEM4OGN5MHY2OG43VGNZeFJfQk5hS29GSDd1ZjhxUGRM?oc=5",
+      "publishedAt": "Sat, 02 May 2026 15:27:32 GMT"
+    },
+    {
+      "title": "FSR과 XeSS는 마이크로소프트의 새로운 AutoSR 업스케일러보다 뛰어난 성능을 보여줍니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2FZNEhJanJOZGxSVkl4UDJkSjFOaXpKdTN6YjZFR1g5RDBlc2xkalIzVzZ0N295cUdETi1NN0FDdmZPWEloSER0LU9QYW5oN2dVSWlKSmxUTG82VTg3Tm5NZWJmcFoyTXhLdDBEUU5DS1pLX25VQnJuNFRRblJpODZkUW5LYWowck1tdEJBT3djc3dVLXZLTkFmLUVqT00?oc=5",
+      "publishedAt": "Sat, 02 May 2026 15:14:56 GMT"
     }
   ],
   "sources": [
