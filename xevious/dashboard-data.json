@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T03:36:26.378307+09:00",
+  "generatedAt": "2026-05-03T04:38:56.100815+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "11.9°C",
-        "feelsLike": "11.8°C",
-        "highLow": "최고 13.7° / 최저 10.8°",
-        "humidity": "96%",
-        "wind": "3.1 m/s",
+        "temperature": "11.5°C",
+        "feelsLike": "11.4°C",
+        "highLow": "최고 13.1° / 최저 10.0°",
+        "humidity": "97%",
+        "wind": "2.5 m/s",
         "rainChance": "100%",
-        "pm10": "71.7 μg/m³",
-        "pm25": "68.7 μg/m³",
+        "pm10": "74.5 μg/m³",
+        "pm25": "71.9 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "82",
-        "updatedAt": "2026-05-03 03:15"
+        "airQualityIndex": "83",
+        "updatedAt": "2026-05-03 04:30"
       },
       {
         "location": "김포",
-        "summary": "비",
-        "temperature": "11.0°C",
-        "feelsLike": "10.5°C",
-        "highLow": "최고 13.4° / 최저 9.1°",
+        "summary": "약한 비",
+        "temperature": "10.9°C",
+        "feelsLike": "10.4°C",
+        "highLow": "최고 12.7° / 최저 9.1°",
         "humidity": "99%",
-        "wind": "5.4 m/s",
+        "wind": "4.7 m/s",
         "rainChance": "100%",
-        "pm10": "71.7 μg/m³",
-        "pm25": "68.7 μg/m³",
+        "pm10": "74.5 μg/m³",
+        "pm25": "71.9 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "82",
-        "updatedAt": "2026-05-03 03:30"
+        "airQualityIndex": "83",
+        "updatedAt": "2026-05-03 04:30"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "10.9°C",
+        "temperature": "10.7°C",
         "feelsLike": "10.3°C",
-        "highLow": "최고 13.3° / 최저 9.0°",
-        "humidity": "97%",
-        "wind": "4.7 m/s",
+        "highLow": "최고 12.7° / 최저 9.0°",
+        "humidity": "98%",
+        "wind": "3.6 m/s",
         "rainChance": "100%",
-        "pm10": "71.7 μg/m³",
-        "pm25": "68.7 μg/m³",
+        "pm10": "74.5 μg/m³",
+        "pm25": "71.9 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "82",
-        "updatedAt": "2026-05-03 03:30"
+        "airQualityIndex": "83",
+        "updatedAt": "2026-05-03 04:30"
       },
       {
         "location": "익산",
         "summary": "약한 비",
-        "temperature": "12.1°C",
-        "feelsLike": "11.8°C",
-        "highLow": "최고 13.7° / 최저 11.8°",
-        "humidity": "94%",
+        "temperature": "11.8°C",
+        "feelsLike": "11.5°C",
+        "highLow": "최고 13.7° / 최저 11.7°",
+        "humidity": "96%",
         "wind": "4.7 m/s",
         "rainChance": "100%",
-        "pm10": "47.6 μg/m³",
-        "pm25": "46.1 μg/m³",
+        "pm10": "48.5 μg/m³",
+        "pm25": "46.4 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "75",
-        "updatedAt": "2026-05-03 03:30"
+        "updatedAt": "2026-05-03 04:30"
       }
     ]
   },
@@ -376,34 +376,52 @@
   },
   "news": [
     {
-      "title": "트럼프 \"우리 꼭 해적 같다\"…이란 해상 봉쇄 자화자찬",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yZ29vVi11Y0FydF8zNzAxX2pudml1OEp3MjU1aDl4ckNTbnFnZmR4Tnc4bWFJTzhFcWhKWDVsNDN0V1NsX3M4OFRYSkdZMG5mOUF0VHR5X0Y?oc=5",
-      "publishedAt": "Sat, 02 May 2026 18:01:34 GMT"
-    },
-    {
-      "title": "중문동 골목상권 활성화를 위한‘현장 소통 ’강화",
-      "source": "뉴스N제주",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBONlpubDZxbG1HcElhaDBjZUUxejRGSEI1STc3dnNodTZKVlBoUUZOSThTUUd4Vkt2VnNpY2NCR0RGa2pBTTJnSlFHcnV2Q2JVR2toWlR1bHFlelBsSzNEakFodkpWQnhtZmRWbQ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:59:11 GMT"
-    },
-    {
-      "title": "버핏, 시장 과열 경고…\"도박 심리 최고조, 하루짜리 옵션은 도박\"",
+      "title": "정샘물, 김태희와 특별 인연 공개 \"먼저 같이 일하자고 한 유일한 스타\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1heVNNOU5OM28wSDRUOGdaZ250bG5yRFFMVnV1eF9PdE84c0hETDFUVDRWZW5MMF9PNS1Iekxua2RyU210VGpqaXVLd3ZQU2FfUi1F?oc=5",
-      "publishedAt": "Sat, 02 May 2026 18:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oWnVscmxMaUs1aFRtN016eEVWME9iWXZwY2VRbXJ0WFk3aGR2UUdKM1Bkc1pCUmFKeUZ5bVE3Q242UEhSVUtvdWtjQ2Jqdm1zRWpDU2d6NXAzNjRDR3RlVTBYM0QtbGNpTU9rR3R5ekNCbmVqNmEyNg?oc=5",
+      "publishedAt": "Sat, 02 May 2026 19:17:00 GMT"
     },
     {
-      "title": "이강인 '선발+90분 풀타임' 활약! '최다 기회 창줄' 기록, 소속팀 PSG는 로리앙전 2-2 무[리그1·리뷰]",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rV2txMDdNRHBYXzR3TFBPRlFGZUhteW5Pc0MybEp2bm5paWhTMmp2cm5Ndkw3cXBxNXZXelRyT3Zic3dvYkI5R0ZGYzZSLURMSzJUazMwMUV3ME1a?oc=5",
-      "publishedAt": "Sat, 02 May 2026 18:18:00 GMT"
-    },
-    {
-      "title": "\"25억→125억으로\" '복권 MC' 박소영 아나운서, 당첨 비결은…",
+      "title": "[오늘 날씨] 봄비로 기온 '뚝'…제주 산지 최대 120㎜",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wSlN6RG15TGhiSXRUSEEweGlHTTZJRXJnc3lkMHhOQWhBOEpOanhYd0JzN1lveE9seTl3d0lhLUowUkM5cnVsRFhZcWY4TTFEZllR?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Dd0tUR0NfSHl5U01XVXhqLTZ4X2FJc19KWXNtYlgxUnc4NU1LT01XdklCR2hJcWt1bEVMU3NJaWlyUVRSd3QzS201RE0ySzNXNWZR?oc=5",
+      "publishedAt": "Sat, 02 May 2026 19:25:00 GMT"
+    },
+    {
+      "title": "다낭·나트랑·발리…올 초여름 아시아 '해안 여행지' 인기 급증",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ubGhKOXN1YjJjZGVMR0QyTGlVMnhYdWpmZjNXb0tPY0NhS0tHNVZYSVYyREhGQ3hEZTFuV2kwOWNHay00SkV6YzhYZmliLURnQjNJ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 19:01:00 GMT"
+    },
+    {
+      "title": "NHN '#콤파스', 일본 시장 누적 2천만 다운로드 돌파",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkQk9rQUJBbUIweEpvYmYtVThBRU90LWxaOHNIMUNYd3ptZWNsZWJvYXlGZURhRXZCWmZYS0hfYmtWSGZLSVUwVi04WTFGbGFaMV9jcWpqN0cwZUM4dUE?oc=5",
+      "publishedAt": "Sat, 02 May 2026 18:52:17 GMT"
+    },
+    {
+      "title": "이연, 아이유와 특별한 친분 공개 \"집에 잠옷, 로션도 두는 사이\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80MkM4dzNwZWtZSm1Pc19MdUYyZHNpaXlOdWxMTlBzWnFpcWJONDFDSFJBdmJNaTJMOEtTLXQ5MnFZZkhlZ2tuTUk5XzMwOVFPWlhtTUNEdlc2QW9femhZVA?oc=5",
+      "publishedAt": "Sat, 02 May 2026 19:34:00 GMT"
+    },
+    {
+      "title": "정샘물, 집안 형편에 미술 포기→37살에 미국 유학 \"다들 반대했지만\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82eExWTlFwdUQ2MEFWdDVST3NqWEFzR292TW1neTdyYV9UZUZ6YWxtb0VaRE56NzdCTU9nTGZGbHhjcjVuSG1uNWZhQWtyazF1WjBV?oc=5",
+      "publishedAt": "Sat, 02 May 2026 18:59:00 GMT"
+    },
+    {
+      "title": "'강심장 개미들 벌써부터 흥분'...삼전닉스 2배 베팅 ETF 뭐길래",
+      "source": "supple.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05VVlnM1BkTC1wNUthaWF6c3hXenN0TTVScjNta2NVSGEwWE9GY29jRE1zWDc4MHZlSXhBeXhWLXVIVndJZTFOWXdyQXc2TU9ScHgzdWlUR0tCaHZC?oc=5",
+      "publishedAt": "Sat, 02 May 2026 19:04:27 GMT"
+    },
+    {
+      "title": "\"한국인이 즐겨 먹는데\"…의사들이 꼽은 '암 부르는 한식'은?",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iRW4tSFVuUlA4MWpYc3lvNlh2UVBZQW95VTJkQlVIWFZlOTduU3RWTmdmdWVDM0xKU3RQSk9EMnRIYi1ZNExJNEVzV0xhUHB4N0pz?oc=5",
+      "publishedAt": "Sat, 02 May 2026 18:31:00 GMT"
     },
     {
       "title": "버핏 떠난 버크셔, 현금 보유액 '사상 최대' 590조 원 비축",
@@ -416,24 +434,6 @@
       "source": "GameGPU",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0dPZTZXS3NuTHduLW1DMW1jQm4zTWk5dkIzZjA1VDhKWXdfQVVwSENwNkl4OW9zcGd0WkVEd21qVmxablZGdE9VazBVNVc4cktuNXo3N29ZWkE0Nk84ZGZQQ1MzSC10M29YV2g5U2ttRzBBVG5Nc05nY1JPeHpSczhEVldZTDJzVjRNMlFnVUVnLVJaZVJudkJfMVBzUFU?oc=5",
       "publishedAt": "Sat, 02 May 2026 16:54:49 GMT"
-    },
-    {
-      "title": "'비♥' 김태희, 인형 미모로 주부9단 반전 매력 \"애들 빵 같이 먹어..소화력 너무 좋아\"(전참시)[종합]",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRTJCeGU4TWVXVEJ3WFdxZmhSaTZxR0U0eEZWZGdJNGV2ZG13VnR0U0I2VGJTSDNOOGtDWEdmcjJKWmpyRk1uWU5HNm5XM3BNdEVnLVVOUjlZMGpFQUJrdk1lU3dnTjZVRjhmMEt6Sy1rcU5UdHpaLWhoZnBNdGxhQ1JlQkxUckNaWDcxQm5vNA?oc=5",
-      "publishedAt": "Sat, 02 May 2026 15:48:00 GMT"
-    },
-    {
-      "title": "애플 제품과 PC 기술을 활용하여 미적인 작업 공간을 구성하는 방법",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMF9lOEJKWFd5NU9lV0dzVTNKQk1pcUxFZFlzb21BdWUzQ2hJdXUwVl9UZGFJRzB1eTFmdW45N2tDWXpMcDRZbnBJNnBkQ3RGQU1FYXVZTm9uc0JOVFM4dktlWFhKT29vTF9wdTlWVFpublZPQ2FMUndBVTRfVE05VlFDUHRiUHA5RGlXNEM4OGN5MHY2OG43VGNZeFJfQk5hS29GSDd1ZjhxUGRM?oc=5",
-      "publishedAt": "Sat, 02 May 2026 15:27:32 GMT"
-    },
-    {
-      "title": "FSR과 XeSS는 마이크로소프트의 새로운 AutoSR 업스케일러보다 뛰어난 성능을 보여줍니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2FZNEhJanJOZGxSVkl4UDJkSjFOaXpKdTN6YjZFR1g5RDBlc2xkalIzVzZ0N295cUdETi1NN0FDdmZPWEloSER0LU9QYW5oN2dVSWlKSmxUTG82VTg3Tm5NZWJmcFoyTXhLdDBEUU5DS1pLX25VQnJuNFRRblJpODZkUW5LYWowck1tdEJBT3djc3dVLXZLTkFmLUVqT00?oc=5",
-      "publishedAt": "Sat, 02 May 2026 15:14:56 GMT"
     }
   ],
   "sources": [
