@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T04:38:56.100815+09:00",
+  "generatedAt": "2026-05-03T05:09:16.006425+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,17 +68,17 @@
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "11.5°C",
+        "temperature": "11.4°C",
         "feelsLike": "11.4°C",
         "highLow": "최고 13.1° / 최저 10.0°",
         "humidity": "97%",
-        "wind": "2.5 m/s",
+        "wind": "2.2 m/s",
         "rainChance": "100%",
-        "pm10": "74.5 μg/m³",
-        "pm25": "71.9 μg/m³",
+        "pm10": "76.8 μg/m³",
+        "pm25": "74.3 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "83",
-        "updatedAt": "2026-05-03 04:30"
+        "updatedAt": "2026-05-03 05:00"
       },
       {
         "location": "김포",
@@ -86,14 +86,14 @@
         "temperature": "10.9°C",
         "feelsLike": "10.4°C",
         "highLow": "최고 12.7° / 최저 9.1°",
-        "humidity": "99%",
-        "wind": "4.7 m/s",
+        "humidity": "98%",
+        "wind": "5.1 m/s",
         "rainChance": "100%",
-        "pm10": "74.5 μg/m³",
-        "pm25": "71.9 μg/m³",
+        "pm10": "76.8 μg/m³",
+        "pm25": "74.3 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "83",
-        "updatedAt": "2026-05-03 04:30"
+        "updatedAt": "2026-05-03 05:00"
       },
       {
         "location": "파주",
@@ -102,13 +102,13 @@
         "feelsLike": "10.3°C",
         "highLow": "최고 12.7° / 최저 9.0°",
         "humidity": "98%",
-        "wind": "3.6 m/s",
+        "wind": "3.7 m/s",
         "rainChance": "100%",
-        "pm10": "74.5 μg/m³",
-        "pm25": "71.9 μg/m³",
+        "pm10": "76.8 μg/m³",
+        "pm25": "74.3 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "83",
-        "updatedAt": "2026-05-03 04:30"
+        "updatedAt": "2026-05-03 05:00"
       },
       {
         "location": "익산",
@@ -117,13 +117,13 @@
         "feelsLike": "11.5°C",
         "highLow": "최고 13.7° / 최저 11.7°",
         "humidity": "96%",
-        "wind": "4.7 m/s",
+        "wind": "4.8 m/s",
         "rainChance": "100%",
-        "pm10": "48.5 μg/m³",
-        "pm25": "46.4 μg/m³",
+        "pm10": "49.2 μg/m³",
+        "pm25": "47.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "75",
-        "updatedAt": "2026-05-03 04:30"
+        "updatedAt": "2026-05-03 05:00"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-03 00:58:04",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-02 18:00:17",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,10 +376,28 @@
   },
   "news": [
     {
-      "title": "정샘물, 김태희와 특별 인연 공개 \"먼저 같이 일하자고 한 유일한 스타\"",
+      "title": "[오늘의 주요일정] 정치·정부 (3일, 일)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oWnVscmxMaUs1aFRtN016eEVWME9iWXZwY2VRbXJ0WFk3aGR2UUdKM1Bkc1pCUmFKeUZ5bVE3Q242UEhSVUtvdWtjQ2Jqdm1zRWpDU2d6NXAzNjRDR3RlVTBYM0QtbGNpTU9rR3R5ekNCbmVqNmEyNg?oc=5",
-      "publishedAt": "Sat, 02 May 2026 19:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQbXZVQUJ6YjM3WTd5NjdQQlYwM2UzaFFqZGZ6aktUWnJIYV8zWUxVNE1aWTJWZGk4bDJ4YU5DcnlNTDlwbDJOWlJUOThQOFRtSDhmTVRyQjh1dTBTalJGWg?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:01:00 GMT"
+    },
+    {
+      "title": "중동전쟁에 비료·사료값 들썩…농가 부담·물가 '동시 비상'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EQjlPQ1YwaUhPMmEwWFJ5Y2NfYzBQMkNZQjdXMWx4RjBxQTBUeTZST1p4Y082ZkFHVkxvcVM3QUFERjVHSUppNi1kdlE5dWdzUnZpSkFxX3hwd1NDck1RaA?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "민주당·국민의힘…'황금연휴' 영남권 공략 이어간다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UclhkNXJFTzlnLVFCOFdFbFp6b3lxZFoydTd6TVp3RXNSVTIzQzcyWWxkZDR6Nkx1TEU4T285aXNEOVE4YWNCUktkUnlDcmlrdTlF?oc=5",
+      "publishedAt": "Sat, 02 May 2026 19:37:00 GMT"
+    },
+    {
+      "title": "'비 ♥' 김태희, 주부 9단 반전 매력…아이 위주 식단에 살림 꿀팁까지[전참시][★밤TV]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vRnNJaUkwQWtETUs1Zm9xUHA5dUwweGxOYUZVV3RCOTRvOEZuaXBZZEtWTEpMa3NRUGdxUnZhOHFmeVM4YkNjUWM5dFpDbjhqWmZF?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:00:00 GMT"
     },
     {
       "title": "[오늘 날씨] 봄비로 기온 '뚝'…제주 산지 최대 120㎜",
@@ -388,52 +406,34 @@
       "publishedAt": "Sat, 02 May 2026 19:25:00 GMT"
     },
     {
-      "title": "다낭·나트랑·발리…올 초여름 아시아 '해안 여행지' 인기 급증",
+      "title": "계속되는 기싸움 속…정상회담 채비 나서는 미·중",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ubGhKOXN1YjJjZGVMR0QyTGlVMnhYdWpmZjNXb0tPY0NhS0tHNVZYSVYyREhGQ3hEZTFuV2kwOWNHay00SkV6YzhYZmliLURnQjNJ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 19:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tT0JMcVRNSjhWTkZLekY0NjZqb1F4bWl4Y3oxazZveXBxU2JrLUtsdGVXbmVmbU02NDJEZ00tOS1mc3Z2ZjE3UF9pZHY1eWZWVXBB?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:01:00 GMT"
     },
     {
-      "title": "NHN '#콤파스', 일본 시장 누적 2천만 다운로드 돌파",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkQk9rQUJBbUIweEpvYmYtVThBRU90LWxaOHNIMUNYd3ptZWNsZWJvYXlGZURhRXZCWmZYS0hfYmtWSGZLSVUwVi04WTFGbGFaMV9jcWpqN0cwZUM4dUE?oc=5",
-      "publishedAt": "Sat, 02 May 2026 18:52:17 GMT"
-    },
-    {
-      "title": "이연, 아이유와 특별한 친분 공개 \"집에 잠옷, 로션도 두는 사이\"",
+      "title": "'레버리지 꽃' 파생시장 시들한 이유, 금감원 낙하산 영향? [계좌부활전]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80MkM4dzNwZWtZSm1Pc19MdUYyZHNpaXlOdWxMTlBzWnFpcWJONDFDSFJBdmJNaTJMOEtTLXQ5MnFZZkhlZ2tuTUk5XzMwOVFPWlhtTUNEdlc2QW9femhZVA?oc=5",
-      "publishedAt": "Sat, 02 May 2026 19:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwcWRFRDNURk16a0FGdzlHa2FQMUVrLU52RjVlYVpLY3ZzWS14TFhYUzJ5STB0SW5qaG1jN0VjZHhDM2VXNGJrXzhHcmFzS3pYbXFn?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:02:00 GMT"
     },
     {
-      "title": "정샘물, 집안 형편에 미술 포기→37살에 미국 유학 \"다들 반대했지만\"",
+      "title": "적자, 또 적자…\"더 이상은 못 버텨\" 공항 이어 철도도 '요금 현실화' 압력",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82eExWTlFwdUQ2MEFWdDVST3NqWEFzR292TW1neTdyYV9UZUZ6YWxtb0VaRE56NzdCTU9nTGZGbHhjcjVuSG1uNWZhQWtyazF1WjBV?oc=5",
-      "publishedAt": "Sat, 02 May 2026 18:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRRmQ1dHRPRlpGS3FnVVFoeG1XLWNzZWxhbG1vZlBDV3hmdjRya2VZUmR2NldvbFdaVEE3dlBBTGxPeGpNREZVUG1jZGpidDVWTlBZ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:00:00 GMT"
     },
     {
-      "title": "'강심장 개미들 벌써부터 흥분'...삼전닉스 2배 베팅 ETF 뭐길래",
-      "source": "supple.kr",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05VVlnM1BkTC1wNUthaWF6c3hXenN0TTVScjNta2NVSGEwWE9GY29jRE1zWDc4MHZlSXhBeXhWLXVIVndJZTFOWXdyQXc2TU9ScHgzdWlUR0tCaHZC?oc=5",
-      "publishedAt": "Sat, 02 May 2026 19:04:27 GMT"
-    },
-    {
-      "title": "\"한국인이 즐겨 먹는데\"…의사들이 꼽은 '암 부르는 한식'은?",
+      "title": "[D-30]與 '친명·친청' vs 野 '현역 불패' 대진표 완성, 지방권력 촉각",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iRW4tSFVuUlA4MWpYc3lvNlh2UVBZQW95VTJkQlVIWFZlOTduU3RWTmdmdWVDM0xKU3RQSk9EMnRIYi1ZNExJNEVzV0xhUHB4N0pz?oc=5",
-      "publishedAt": "Sat, 02 May 2026 18:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MTBibThHX1dzT0dYUHd5ZU9GaG55Z0xLSW0zUU9VeFJWcG5kaVhsekl5dVBMUDNQZWpIVWhaR1l0S2t0eFNScTlGUmtXX2s4UjNrMG9KcksyVUVMczlEcmFfaEozQ1FuVjJMVTlxem9jSURhYWpTOA?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:00:00 GMT"
     },
     {
-      "title": "버핏 떠난 버크셔, 현금 보유액 '사상 최대' 590조 원 비축",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GdWRYWVJ4amg1RXlSMmxmbTJXX3o5X0lVOXplRUVmMTJ5OHV3WUV6RGU3RURjOVExOUVZYmtZREJmeFlLRkp0aUpiZ3NYRGdBOWlUYXZqTzhhdDJVT3c?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:49:00 GMT"
-    },
-    {
-      "title": "AMD 라이젠 7 7800X3D 프로세서의 소매 가격이 181달러로 인하되었습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0dPZTZXS3NuTHduLW1DMW1jQm4zTWk5dkIzZjA1VDhKWXdfQVVwSENwNkl4OW9zcGd0WkVEd21qVmxablZGdE9VazBVNVc4cktuNXo3N29ZWkE0Nk84ZGZQQ1MzSC10M29YV2g5U2ttRzBBVG5Nc05nY1JPeHpSczhEVldZTDJzVjRNMlFnVUVnLVJaZVJudkJfMVBzUFU?oc=5",
-      "publishedAt": "Sat, 02 May 2026 16:54:49 GMT"
+      "title": "[단독]항공권 가격 또 오르나…23년 묶인 '공항 이용료' 50% 인상 추진",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04NDN2Q0VZQTFpUnRGdmg5WFFKRl9WNU5jQ0l1YjdLcENDQ0xVM1JwVEJMYXFlQWFnNW9ybGdsU3E3Z0prU1lEMkVlejVlWG1MbjVn?oc=5",
+      "publishedAt": "Sat, 02 May 2026 19:50:00 GMT"
     }
   ],
   "sources": [
