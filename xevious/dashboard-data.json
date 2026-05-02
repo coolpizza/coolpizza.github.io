@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T05:09:16.006425+09:00",
+  "generatedAt": "2026-05-03T05:58:15.066095+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "11.4°C",
-        "feelsLike": "11.4°C",
+        "temperature": "11.3°C",
+        "feelsLike": "11.3°C",
         "highLow": "최고 13.1° / 최저 10.0°",
         "humidity": "97%",
-        "wind": "2.2 m/s",
+        "wind": "1.5 m/s",
         "rainChance": "100%",
         "pm10": "76.8 μg/m³",
         "pm25": "74.3 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "83",
-        "updatedAt": "2026-05-03 05:00"
+        "updatedAt": "2026-05-03 05:45"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "10.9°C",
+        "temperature": "11.0°C",
         "feelsLike": "10.4°C",
         "highLow": "최고 12.7° / 최저 9.1°",
         "humidity": "98%",
-        "wind": "5.1 m/s",
+        "wind": "6.3 m/s",
         "rainChance": "100%",
         "pm10": "76.8 μg/m³",
         "pm25": "74.3 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "83",
-        "updatedAt": "2026-05-03 05:00"
+        "updatedAt": "2026-05-03 05:45"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "10.7°C",
-        "feelsLike": "10.3°C",
+        "temperature": "10.6°C",
+        "feelsLike": "10.2°C",
         "highLow": "최고 12.7° / 최저 9.0°",
         "humidity": "98%",
-        "wind": "3.7 m/s",
+        "wind": "3.2 m/s",
         "rainChance": "100%",
         "pm10": "76.8 μg/m³",
         "pm25": "74.3 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "83",
-        "updatedAt": "2026-05-03 05:00"
+        "updatedAt": "2026-05-03 05:45"
       },
       {
         "location": "익산",
         "summary": "약한 비",
-        "temperature": "11.8°C",
+        "temperature": "11.9°C",
         "feelsLike": "11.5°C",
         "highLow": "최고 13.7° / 최저 11.7°",
         "humidity": "96%",
-        "wind": "4.8 m/s",
+        "wind": "5.6 m/s",
         "rainChance": "100%",
         "pm10": "49.2 μg/m³",
         "pm25": "47.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "75",
-        "updatedAt": "2026-05-03 05:00"
+        "updatedAt": "2026-05-03 05:45"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-05-02 18:00:17",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-05-03 00:58:04",
         "districtSamples": [
           {
             "district": "강서구",
@@ -377,21 +377,33 @@
   "news": [
     {
       "title": "[오늘의 주요일정] 정치·정부 (3일, 일)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQbXZVQUJ6YjM3WTd5NjdQQlYwM2UzaFFqZGZ6aktUWnJIYV8zWUxVNE1aWTJWZGk4bDJ4YU5DcnlNTDlwbDJOWlJUOThQOFRtSDhmTVRyQjh1dTBTalJGWg?oc=5",
-      "publishedAt": "Sat, 02 May 2026 20:01:00 GMT"
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1cFlrR2hUemduTlQtQkd4aGdqT1l5NThlU05EUVJieWpkcmtBZWZtdWlYMm9QQlVHM0h4dUlCUVNrTllzWmgxZUN4eWtxbVRqX3E1bzh6QlFNdw?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:00:00 GMT"
     },
     {
-      "title": "중동전쟁에 비료·사료값 들썩…농가 부담·물가 '동시 비상'",
+      "title": "정청래, 오늘부터 부산·경남 돌며 본격 선거 지원",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EQjlPQ1YwaUhPMmEwWFJ5Y2NfYzBQMkNZQjdXMWx4RjBxQTBUeTZST1p4Y082ZkFHVkxvcVM3QUFERjVHSUppNi1kdlE5dWdzUnZpSkFxX3hwd1NDck1RaA?oc=5",
-      "publishedAt": "Sat, 02 May 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TeXo3TG15X2Z5T1VCVnpVcEd5QjBxQjFNUVJQU3dPMjhUbnVkLWhpQW41ckJuNWdoTkdhMHk5bU1HUmlOTWl6bUg5TXZCUGZxRngwaE5lZHVYU2VYSW91VUhiTnBYUktwSURFQjBFakxLVW16d09fQw?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:16:00 GMT"
     },
     {
-      "title": "민주당·국민의힘…'황금연휴' 영남권 공략 이어간다",
+      "title": "[D-30]한 달 후 첫 '중간고사' 성적표…李대통령 '국정 방향' 가른다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UclhkNXJFTzlnLVFCOFdFbFp6b3lxZFoydTd6TVp3RXNSVTIzQzcyWWxkZDR6Nkx1TEU4T285aXNEOVE4YWNCUktkUnlDcmlrdTlF?oc=5",
-      "publishedAt": "Sat, 02 May 2026 19:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FbzhYaDRid1BqVVVQVFI4ZHRSZFNLRzRwU0tQZXduekh4aUZQTFZHRjdvbXZfMlFPY1Z6QjlJcHFuZFdaeG45N2FCMTl3VE9kLWQ5b241Y0M4MVBPeGZGSGUwcURhVHVmTHc?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:15:00 GMT"
+    },
+    {
+      "title": "'5월 결혼' 최준희, 웨딩 화보 공개 \"왕자님 11번 찍어 데려갑니다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12bUY5OEhKOVdYb2ZOZG9GSEtXT2xGZFJjNm9yVExNdlNPZUk3SE01cmZ5bHVXSmkyMTAxWDFFVnRNZHpGMjhQY3dDNGFLUzNiWm5xaGdYanV1MGtBWFdERUREZUVublBw?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:23:00 GMT"
+    },
+    {
+      "title": "적자, 또 적자…\"더 이상은 못 버텨\" 공항 이어 철도도 '요금 현실화' 압력",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SUjUzcWludzhxX1ZCZ0RIdFVzYmJ2ODVDMlJ0Z2k3cEFpT2JQXy1IWFpVNXYzenBQS3dFNUpjMkgxME5fVWlEbnpJXy1IYmFKNlpsNG5ReVc5LTd6TXVwVg?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:00:00 GMT"
     },
     {
       "title": "'비 ♥' 김태희, 주부 9단 반전 매력…아이 위주 식단에 살림 꿀팁까지[전참시][★밤TV]",
@@ -400,10 +412,16 @@
       "publishedAt": "Sat, 02 May 2026 20:00:00 GMT"
     },
     {
-      "title": "[오늘 날씨] 봄비로 기온 '뚝'…제주 산지 최대 120㎜",
+      "title": "4대금융 회수 포기 대출 3조원 육박…고금리에 역대 최대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Dd0tUR0NfSHl5U01XVXhqLTZ4X2FJc19KWXNtYlgxUnc4NU1LT01XdklCR2hJcWt1bEVMU3NJaWlyUVRSd3QzS201RE0ySzNXNWZR?oc=5",
-      "publishedAt": "Sat, 02 May 2026 19:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTZ2toSFFENURRTFFidGtRM3FMWml5RExESXpSUlNiOGlOR0Nxa3hCc2VpMldTTDBVSnFhSUtoaldwM3dvOXVRd2wxb0R2OTN3MHBJ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:47:00 GMT"
+    },
+    {
+      "title": "중동전쟁에 비료·사료값 들썩…농가 부담·물가 '동시 비상'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ydGtFMXkxd19FeC1tdzJVSEd1R3FhLTcwNGdXRUh2UzA0emFuN0w1OUtiX2pFVzJYYWt2TGZYX3VsWTdnTEJsazVzc2hEMnlRRjdIWjZXWFdSS1lqcHBadlhieTBtdl9jNXdKbnZkaDlEWUl6eUIxcA?oc=5",
+      "publishedAt": "Sat, 02 May 2026 20:02:00 GMT"
     },
     {
       "title": "계속되는 기싸움 속…정상회담 채비 나서는 미·중",
@@ -416,24 +434,6 @@
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwcWRFRDNURk16a0FGdzlHa2FQMUVrLU52RjVlYVpLY3ZzWS14TFhYUzJ5STB0SW5qaG1jN0VjZHhDM2VXNGJrXzhHcmFzS3pYbXFn?oc=5",
       "publishedAt": "Sat, 02 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "적자, 또 적자…\"더 이상은 못 버텨\" 공항 이어 철도도 '요금 현실화' 압력",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRRmQ1dHRPRlpGS3FnVVFoeG1XLWNzZWxhbG1vZlBDV3hmdjRya2VZUmR2NldvbFdaVEE3dlBBTGxPeGpNREZVUG1jZGpidDVWTlBZ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[D-30]與 '친명·친청' vs 野 '현역 불패' 대진표 완성, 지방권력 촉각",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MTBibThHX1dzT0dYUHd5ZU9GaG55Z0xLSW0zUU9VeFJWcG5kaVhsekl5dVBMUDNQZWpIVWhaR1l0S2t0eFNScTlGUmtXX2s4UjNrMG9KcksyVUVMczlEcmFfaEozQ1FuVjJMVTlxem9jSURhYWpTOA?oc=5",
-      "publishedAt": "Sat, 02 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[단독]항공권 가격 또 오르나…23년 묶인 '공항 이용료' 50% 인상 추진",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04NDN2Q0VZQTFpUnRGdmg5WFFKRl9WNU5jQ0l1YjdLcENDQ0xVM1JwVEJMYXFlQWFnNW9ybGdsU3E3Z0prU1lEMkVlejVlWG1MbjVn?oc=5",
-      "publishedAt": "Sat, 02 May 2026 19:50:00 GMT"
     }
   ],
   "sources": [
