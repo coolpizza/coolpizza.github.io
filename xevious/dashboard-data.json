@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T01:06:42.822435+09:00",
+  "generatedAt": "2026-05-03T01:52:43.765018+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "비",
-        "temperature": "12.5°C",
-        "feelsLike": "12.9°C",
+        "temperature": "12.4°C",
+        "feelsLike": "12.5°C",
         "highLow": "최고 13.1° / 최저 11.2°",
-        "humidity": "96%",
-        "wind": "1.3 m/s",
+        "humidity": "95%",
+        "wind": "2.8 m/s",
         "rainChance": "100%",
         "pm10": "69.2 μg/m³",
         "pm25": "65.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "80",
-        "updatedAt": "2026-05-03 01:00"
+        "updatedAt": "2026-05-03 01:45"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "11.8°C",
-        "feelsLike": "11.3°C",
+        "temperature": "11.5°C",
+        "feelsLike": "11.1°C",
         "highLow": "최고 12.4° / 최저 9.3°",
-        "humidity": "96%",
-        "wind": "6.1 m/s",
+        "humidity": "97%",
+        "wind": "5.1 m/s",
         "rainChance": "100%",
         "pm10": "69.2 μg/m³",
         "pm25": "65.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "80",
-        "updatedAt": "2026-05-03 01:00"
+        "updatedAt": "2026-05-03 01:45"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "11.7°C",
-        "feelsLike": "11.4°C",
+        "temperature": "11.5°C",
+        "feelsLike": "11.2°C",
         "highLow": "최고 12.4° / 최저 9.5°",
-        "humidity": "97%",
-        "wind": "5.4 m/s",
+        "humidity": "98%",
+        "wind": "4.8 m/s",
         "rainChance": "100%",
         "pm10": "69.2 μg/m³",
         "pm25": "65.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "80",
-        "updatedAt": "2026-05-03 01:00"
+        "updatedAt": "2026-05-03 01:45"
       },
       {
         "location": "익산",
         "summary": "비",
         "temperature": "12.6°C",
-        "feelsLike": "12.4°C",
+        "feelsLike": "12.3°C",
         "highLow": "최고 13.6° / 최저 11.3°",
-        "humidity": "96%",
-        "wind": "6.0 m/s",
+        "humidity": "94%",
+        "wind": "6.1 m/s",
         "rainChance": "100%",
         "pm10": "54.0 μg/m³",
         "pm25": "52.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "75",
-        "updatedAt": "2026-05-03 01:00"
+        "updatedAt": "2026-05-03 01:45"
       }
     ]
   },
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-05-02 23:48:35",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-05-02 15:53:23",
         "districtSamples": [
           {
             "district": "익산시",
@@ -382,16 +382,28 @@
       "publishedAt": "Sat, 02 May 2026 15:58:12 GMT"
     },
     {
-      "title": "미니소에 수백ｍ 대기줄…'내수침체' 아르헨에 해외브랜드 속속",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zeGNHNS1RSk5MTjFyV2VKb2U4aTRIY2lnTEw5dHRwU0ZNSENWM1lqclQteThpNDlTdVJWNEx4SkQ2TDMwa0Y4dVpmU3E2bG1QNFE?oc=5",
-      "publishedAt": "Sat, 02 May 2026 15:21:39 GMT"
+      "title": "아이유, '절친' 이연 위해 '전참시' 뜬다…\"집에 전용 잠옷 구비\"[스타이슈]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xMGVJRWFFWTdPSUZVekVBUWpQa1l0bGh4UEFaRTk5YmxhRm1KV0RicTBBVldacktqQ2RrTjZqaVFvRmVPS3E1dkNUUzhYTWJ0YWd3?oc=5",
+      "publishedAt": "Sat, 02 May 2026 16:21:00 GMT"
     },
     {
-      "title": "최태림 예비후보 선거사무소 개소 > 뉴스",
-      "source": "대출든든.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSE1WTTduY1g4VjM4SktlR09FbGwzUkJoM3R3bFpETFZOSmRnUnJzVkpFaGZhQ2MzcXo1NVlHS0ZrUXZiY181T0dTMFlLemRuR19uQ1NnaFhoOHR3anJ0VjgtbHBjcVNzZzNTcHB0dzBIZWFwM0JwVUd4d096SXVIY1VKNHVIQQ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 15:37:00 GMT"
+      "title": "민주당 광주시당, 기초의원 2차 경선 결과 발표",
+      "source": "무등일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11LWdYWml5SndyM05pUERUbUp5c19YendDT3VfWjRKSUZjYWtLdEt4ZnRXLWR6Q1Vyc0Vrc2tfdnVFS1BhSWhNa3ZmREc5c25CREREVFNB?oc=5",
+      "publishedAt": "Sat, 02 May 2026 16:10:00 GMT"
+    },
+    {
+      "title": "\"케인 엉망진창이었다\" 포체티노, 토트넘 시절 '최악의 습관' 폭로…\"공격 4옵션 시절, 내가 직접 개조\"",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BQktQRXhyZGEwb2J6WUx1SVFCMmtZTFNhU3hQUWpJOEs1NWFRUDBjNmhESFR4OEJQcnJ0ZEFXM1BoWWowQmtadnNBaW5KRi12NUZjUzQ1bFB0eldI?oc=5",
+      "publishedAt": "Sat, 02 May 2026 16:06:00 GMT"
+    },
+    {
+      "title": "아르헨, 1분기 광물 수출 '사상 최대'…전년 동기 대비 81.6%↑",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZFdDQ0RlWkFaTVdKeFIwSnM5TGdZMjJJYTIySDdkWXlnRHFkYUdDUGFDSUhKX0Q4WU5pOGJyRWlFMjFZVTN0cUItY1pXbnpaV0o0?oc=5",
+      "publishedAt": "Sat, 02 May 2026 16:05:00 GMT"
     },
     {
       "title": "부산 소상공인 범죄예방 지원 확대…조례 개정",
@@ -400,40 +412,28 @@
       "publishedAt": "Sat, 02 May 2026 16:01:00 GMT"
     },
     {
-      "title": "프리스타일 풋볼 2, 서울시 주관 '서울 스프링 페스티벌' 참여",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxVWRnNlRmQlNPZ0JBazJvcmlxdHl6WllsR09YdktiZ1g2VTVablRIcUJnV3dZNDFtbVBaYno5VUlIalB3WW52ZG83N1JGTkN3b3RBSWktR3ZyRUZWdVp6c0dXLV9seVBSUFkwTk5VYw?oc=5",
-      "publishedAt": "Sat, 02 May 2026 15:56:34 GMT"
-    },
-    {
-      "title": "금양, 811억 규모 이차전지 공급계약 정정공시…계약기간 미정",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWYm0taWsycVR0aWMyc3U2eHQtNDlhYkhnUjdERUl0NGJORkFzcl96ZWtQZHByOGdHRTQ1NFN4YVYwaU9ZaXh4UnI0ZzUwQjdjZ0x4WmVheDdZcFZJTnpXNEFtcG9jNWNw?oc=5",
-      "publishedAt": "Sat, 02 May 2026 15:35:00 GMT"
-    },
-    {
-      "title": "'1350억 CEO' 정샘물, 폭풍 성장한 입양 딸 공개…\"둘째는 영재 판정\"[전참시][★밤TView]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CUVVlZUhhTVhXYU9ELUNVeHd1TTdqWFBFVXAwWHpESkdKempfUml0Z0NGYlJlS0JyS0UyYUUxX281MkZpRnBsUTkxdzVuRkQtRVVr?oc=5",
-      "publishedAt": "Sat, 02 May 2026 15:51:00 GMT"
-    },
-    {
       "title": "\"밀 집산지 미식여행 오세요\" 9~10일 부산 밀 페스티벌",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yd2JVeVZJclhERUNoM1kteWZnMV9WQlQ3TGZQQUV5QUJnSjdDR3N5MjFta3ZIeFFqdHFxeWxjcGtfeWRYYk5qTU1mVU1qQVVkVFJJ?oc=5",
       "publishedAt": "Sat, 02 May 2026 16:01:00 GMT"
     },
     {
-      "title": "UAE, 영공 내 민항기 운항 정상화",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ORDRSaWRsRkRMRkFQYUVJeF9KZ21ESk9ySUFFeFBTT2NLRVVCRmg4OEo0ZkNPcUFtbVZzYUV3cG0xc2pmYmd4MlgwcVgyYWNpZ1gw?oc=5",
-      "publishedAt": "Sat, 02 May 2026 15:17:00 GMT"
+      "title": "애플 제품과 PC 기술을 활용하여 미적인 작업 공간을 구성하는 방법",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMF9lOEJKWFd5NU9lV0dzVTNKQk1pcUxFZFlzb21BdWUzQ2hJdXUwVl9UZGFJRzB1eTFmdW45N2tDWXpMcDRZbnBJNnBkQ3RGQU1FYXVZTm9uc0JOVFM4dktlWFhKT29vTF9wdTlWVFpublZPQ2FMUndBVTRfVE05VlFDUHRiUHA5RGlXNEM4OGN5MHY2OG43VGNZeFJfQk5hS29GSDd1ZjhxUGRM?oc=5",
+      "publishedAt": "Sat, 02 May 2026 15:27:32 GMT"
     },
     {
-      "title": "'물귀신' 중동변수…AI 기대감·美 고용지표 주목 [주간 증시 전망]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJNWtZU3FaQk5iZ3ZSSmhxcWx0X3AyeHlQMVBiNmpQanlhdjhybzdYeFUwLXVEMWdGZDJLMGo0eTF3azFOcmZTQWhxcEJnbHlTdEg4?oc=5",
-      "publishedAt": "Sat, 02 May 2026 15:11:00 GMT"
+      "title": "FSR과 XeSS는 마이크로소프트의 새로운 AutoSR 업스케일러보다 뛰어난 성능을 보여줍니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2FZNEhJanJOZGxSVkl4UDJkSjFOaXpKdTN6YjZFR1g5RDBlc2xkalIzVzZ0N295cUdETi1NN0FDdmZPWEloSER0LU9QYW5oN2dVSWlKSmxUTG82VTg3Tm5NZWJmcFoyTXhLdDBEUU5DS1pLX25VQnJuNFRRblJpODZkUW5LYWowck1tdEJBT3djc3dVLXZLTkFmLUVqT00?oc=5",
+      "publishedAt": "Sat, 02 May 2026 15:14:56 GMT"
+    },
+    {
+      "title": "BuildCores 개발자들이 PC 조립 시 공기 흐름 시각화 도구를 공개했습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHRMTEtDTWVPRDhTcDVwLXZVbW9ybElEYjdZOWxzaWdmVlNsNk9tLXdMRmZkdVFfc2loak9rV3pqVlA0VVZfWmhZSDJjbGJRTXhPeDVGaFM2RmN5Nm5tWG1GcWY2UFZqXzNOcFhGVTR5SUNGVkRIRjBTQVY5eG9zWEdpQXlkc2NtZXJITHFFMEQyNG5NUDY0M29YMG9xWUtWU1JXSTlUaGtxX2liRDZuMVVWUWtqSzhPZlE?oc=5",
+      "publishedAt": "Sat, 02 May 2026 15:06:42 GMT"
     }
   ],
   "sources": [
