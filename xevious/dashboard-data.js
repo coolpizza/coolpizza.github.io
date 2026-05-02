@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-02T09:29:11.156906+09:00",
+  "generatedAt": "2026-05-02T11:45:46.724197+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.4°C",
-        "feelsLike": "10.9°C",
-        "highLow": "최고 18.8° / 최저 8.3°",
-        "humidity": "90%",
-        "wind": "3.3 m/s",
+        "temperature": "16.2°C",
+        "feelsLike": "16.5°C",
+        "highLow": "최고 19.0° / 최저 8.4°",
+        "humidity": "73%",
+        "wind": "1.4 m/s",
         "rainChance": "51%",
-        "pm10": "51.9 μg/m³",
-        "pm25": "48.9 μg/m³",
+        "pm10": "48.9 μg/m³",
+        "pm25": "45.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "63",
-        "updatedAt": "2026-05-02 09:00"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-05-02 11:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "11.5°C",
-        "feelsLike": "10.9°C",
-        "highLow": "최고 17.1° / 최저 8.2°",
-        "humidity": "98%",
-        "wind": "6.4 m/s",
+        "temperature": "15.9°C",
+        "feelsLike": "15.5°C",
+        "highLow": "최고 17.3° / 최저 8.2°",
+        "humidity": "83%",
+        "wind": "9.2 m/s",
         "rainChance": "53%",
-        "pm10": "51.9 μg/m³",
-        "pm25": "48.9 μg/m³",
+        "pm10": "48.9 μg/m³",
+        "pm25": "45.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "63",
-        "updatedAt": "2026-05-02 09:00"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-05-02 11:30"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "11.9°C",
-        "feelsLike": "11.2°C",
-        "highLow": "최고 17.3° / 최저 8.6°",
-        "humidity": "94%",
-        "wind": "6.9 m/s",
+        "temperature": "15.4°C",
+        "feelsLike": "14.6°C",
+        "highLow": "최고 17.4° / 최저 8.6°",
+        "humidity": "80%",
+        "wind": "9.7 m/s",
         "rainChance": "60%",
-        "pm10": "51.9 μg/m³",
-        "pm25": "48.9 μg/m³",
+        "pm10": "48.9 μg/m³",
+        "pm25": "45.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "63",
-        "updatedAt": "2026-05-02 09:00"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-05-02 11:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.3°C",
-        "feelsLike": "11.5°C",
-        "highLow": "최고 20.3° / 최저 7.3°",
-        "humidity": "85%",
-        "wind": "5.9 m/s",
+        "temperature": "19.3°C",
+        "feelsLike": "19.7°C",
+        "highLow": "최고 20.6° / 최저 7.3°",
+        "humidity": "70%",
+        "wind": "9.9 m/s",
         "rainChance": "33%",
-        "pm10": "48.7 μg/m³",
-        "pm25": "45.6 μg/m³",
+        "pm10": "45.2 μg/m³",
+        "pm25": "42.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "64",
-        "updatedAt": "2026-05-02 09:00"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-05-02 11:30"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-02 00:58:40",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-02 06:00:05",
         "districtSamples": [
           {
             "district": "강서구",
@@ -296,7 +296,7 @@ window.DASHBOARD_DATA = {
           },
           {
             "district": "금천구",
-            "price": "1,985원/L"
+            "price": "1,987원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "트럼프 “EU산 승용차·트럭 관세 다음주부터 25%로 인상”",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qWllMWmlhQVh2VnVMbTV3amFuckR0OXR4Nkx6aVg2SThzRG9icVpwQ0dZbWhTVGwwT3JMT1JfSEZTbXVQV2FuTEdFcmg3T3p4UTVhNlZ1c1V4U3ZxNHJCd2dma9IBY0FVX3lxTE9qWllMWmlhQVh2VnVMbTV3amFuckR0OXR4Nkx6aVg2SThzRG9icVpwQ0dZbWhTVGwwT3JMT1JfSEZTbXVQV2FuTEdFcmg3T3p4UTVhNlZ1c1V4U3ZxNHJCd2dmaw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 23:33:00 GMT"
+      "title": "정의당 \"조작기소 특검 반대‥국힘이 부활해 공소취소하면 막을 수 있나\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejM5WWx0QUg1UUhsQ1hWMDNOcS1pb2wtcDJRejNOM1Jrazlyeno1Q1NsUk0yWDNXM2FhcGxrcnNyclhjcnFRc1pVYWMyTUxSc01VUjFCSjdUOXFQREdJV2NOSG9zQThad1JlaUpxYUVtZGdGRTdmQXlSNVRYeGpHX3dmbUstd3ExUUJTVC1LU1RxanJCWlhPeXAxbGRYcG0wa1BXMGRIWjZxSy1oZ0lWMVp0UVVPNFg1WmlRQ29KWm_SAXhBVV95cUxQaFJybnNOd0V1ZktIVGJnamVjSjlfQ0M2M0ZjVV9GVmYxWTVNeEIxQllRWWJtZWtxRXp0aHAtY0pxOUtDcFl4OHZOd0tNRXBsa3hsRU9hMjRaT1NMWGlfQzE1Nm0weTA4b19YeF9hbG9fd29lWlBsTTM?oc=5",
+      "publishedAt": "Sat, 02 May 2026 02:16:30 GMT"
     },
     {
-      "title": "[위클리 PICK 3] 쿠팡 김범석 의장 동일인 지정부터 삼성전자 1Q '사상 최대' 영업익까지",
-      "source": "오피니언뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5UXI0Q2tGWTF4QXl5emhTdGJHSmZmMmpoaHZ2WGF0WGhXZ1ppN2JNYjRkZkl0Wm5RWl9HRHQ4elpELTlHZ1h2Nm1wbEZSaDkwUUxEaFA3YzNMeHR2VC1Uc2MzWm5PcEFkMXhjSjNVUWk?oc=5",
-      "publishedAt": "Sat, 02 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "고흥 주택 화재로 60대 거주자 사망",
+      "title": "연휴 둘째 날도 고속도로 정체…서울~부산 7시간",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jQVVsUkc2WWhuUGRrd3ZwaHJ4ZTFsa2ZGdnJiNlJoaEp2UFhUclNpeE1SR1RNbU9RemhBczJ4c29ORC1nN0lSYnROeUhIOWFMZUFZSEo0eVY4NW9MdzJmLQ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 00:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rUlBEQkFlZ0tZNk1TRFVKWTNNaldfWFVRazdBSUYzLXdibklqUG9NS0IyZUJpWFdJT3J4WnN1N0JnY0EtNGxOMXhQX1RWTmNQVEd0RU1sbU53VkpoZWhIRA?oc=5",
+      "publishedAt": "Sat, 02 May 2026 02:24:00 GMT"
     },
     {
-      "title": "美국방부, 앤트로픽 뺀 주요 AI 업체들과 기밀업무 협약(종합)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qOGdsUHVqTFVOdU9sZWJTSUtDUUY5V0phUDVNckdNdjZtSDBxVXpDdVh1NUx6NUxtRzc4eXB3ZWVmTnZ2aERMWlNGandzc3U3Tm9J?oc=5",
-      "publishedAt": "Sat, 02 May 2026 00:20:00 GMT"
+      "title": "최휘영 장관 “한예종 이전, 문체부는 전혀 검토한 바 없어”",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aajhYM2RvV3ZSMEwzY1hLMGNRT2hVcnBib3pFWXk1OGt1WjFrVUdFOG9EMUtRVHFVWmNRRzhSMHhRV240VmhhWHdvSU1nb2luWDV0R1RVc1JlbnV1X1N4SjN5R3dLcHNzMWRnaA?oc=5",
+      "publishedAt": "Sat, 02 May 2026 02:43:00 GMT"
     },
     {
-      "title": "\"美, 해상 봉쇄로 이란 48억 달러 손실 추산\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1US0h4cGZTcWpMZGtfaHdvNmVnaFB2RmNoaTRKR1JCejAtYXp4WHUzamxkZDVKVmtTNzB3bEpvVEpEOGVWM045NDEtZ21vOHRHZmZR?oc=5",
-      "publishedAt": "Sat, 02 May 2026 00:22:00 GMT"
+      "title": "LG유플러스 노조 \"책임 전가\" 비판에‥삼성전자 노조 \"사과드린다\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUZ5X1lPN3VhbmRSLVdBYW43ZHFPT1hiWi0xQ1RWcVF5MTktWnBGSGJyYkNjcFZSbll2d1Q0TGVHNXBZOGhBWmd2TzFjdXhDOWFOSHZEZ1JUYkV6bEFrZnU2NHJ1VFNlUmZCRThpVllwckhTd1ZVSU15c25UTjVhWlFxUWdibFQwODIxc2VfQjR2eVhYYjZ4N2gtbC1PZ3htUUlMTUk1RjcxUC02OWFOZ1VmRVliY045VXpuZ9IBdEFVX3lxTE5aQkR3NFRzc3pUaFFWa3lhOVhCMmlyWHFQeDFHVzNGY0lpclZ6QWc5bHRSMjhVTTVmdmRSamJOTTBEZnI5bVhoemhOa3RfUnlwdHU3NGRyT0ptOUlYdFRsdTBhQTZ2Y3JxMWVIMmtGaVFYSGkt?oc=5",
+      "publishedAt": "Sat, 02 May 2026 01:58:24 GMT"
     },
     {
-      "title": "삼성전자, 지난해 호암재단에 37.9억원 출연",
+      "title": "해상서 표류하던 모터보트…해경, 레저객 2명 구조",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsQVFvUUpSVzU4d215eVA2Z0VSMEtUR1FfbkpTS0d6X3MtRlVibkRNWm1VVlB6Q1F1NmtmVlhHX1kwaU0za3hGUzc4MUVrNkhSSlBV?oc=5",
-      "publishedAt": "Sat, 02 May 2026 00:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WRHRHdmNfZzhSY2sxUTNQc21DNjFNenNWWFVPMmFiNG1IMlB2OTlxcS1aQ0FZNHRMR1BmYXJ1N3ByOWhqaVZxaExEQy1iVTFQM2txZjRXOHVnZnozYTJHVVVSck5xMFV0Z1VMcnpEVjZnbUViVHJnRg?oc=5",
+      "publishedAt": "Sat, 02 May 2026 02:37:00 GMT"
     },
     {
-      "title": "뉴욕증시 S&P500 최고치 경신…나스닥도 0.89％↑",
+      "title": "프랑스 총리, 노동절에 빵집 들러 논란···왜?",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9icGE2LVFhUkQtTGxNdVRDblp5MEtDcDhsUXJERFc4YVBlQWJabGpudU12NDMxT011N01sYW5WVVpnUjBZWGFBQnFnVy1WRXV5OUw0?oc=5",
-      "publishedAt": "Sat, 02 May 2026 00:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mVXhrNkhRclJMUks1cWRpR2RFZWpnd0hUZVNSOU54M3ZfcDhpVXJNUU9ndDd6cnZvMDk1QU9Cd3N4ZVRXb1Q4XzREaDlKTUN1Sl9v?oc=5",
+      "publishedAt": "Sat, 02 May 2026 02:27:00 GMT"
     },
     {
-      "title": "트럼프 \"EU산 자동차·트럭 관세 25%로 인상\"",
+      "title": "AI 출연자·작가, 이제 아카데미서 상 못 받는다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SYWY5RFl0R29PZkE0RjJBLVVWMGRwZk9kbUZNenlOc242OU1fekJSRWJoWGRhRFh6Zy1YU1B6SGFaSVpndjZNZlVUVXVwSFNlVkNOQW9ITlJoUDk1M3g3SEFDVTExT0hYU2ZsN2ljSkdCb2I5T3VaUQ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 00:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfdF9xVmZrR0JzRWIzTU5abzB3SWFfZVBOS01fWHNEZjVsclJpTVV2YlZtRWVEZ1N6YUt1UVd0cDQ0dU5DZmFhNjgwWTF0WG92XzZhcFF4Y0xXV01TTmtDQQ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 02:13:00 GMT"
     },
     {
-      "title": "서울시수의사회-하나금융그룹, 동물의료산업 발전 위해 '맞손'",
+      "title": "국힘 경기지사 후보 양향자 확정…與추미애와 대결",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vMXVfUVJ3U0FRTGRKazZqV2hnb1MySmRfN0J1M3NpbGdHWnBkcG9nNjdFdExtUkRoRFN5alkweVRTR0d1aEEwb3NPUDlmUmpSZWtIS01JR05ibFpHUy1fMg?oc=5",
-      "publishedAt": "Sat, 02 May 2026 00:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QZ3lscHdCckhtWFN2cHRLdjF3WDI1NmNxZTZIYmVDd1kyaHc1OGhJVFNfbmZ0cUpDLUw5bVJJa1JuTTJFQ2hRVmNsdkw1RFdaS2c0?oc=5",
+      "publishedAt": "Sat, 02 May 2026 02:17:00 GMT"
     },
     {
-      "title": "고흥 주택 화재로 60대 남성 숨져",
+      "title": "노동절 시위 참가자 연행하는 콜롬비아 경찰",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nSEMxRTRIa25Kd2Z4dENSRnVOMDE1cWdyS2hWdl9QdWJvUG41T3F6dlVpQUZxd3l3VnJyZ1ZfTzZlbk5LZ2VLazMtRHNGWDlnWmhOYkJydUlzQmJ0V1F2Uw?oc=5",
-      "publishedAt": "Fri, 01 May 2026 23:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ER3hyWFdZeWNUMVNpUk1Fd21NdTQtOWl3cFdLYUVmdGVUQmdUUWxocWRkMW1mNXVYMWl5S3NNTnliaVI0SGY1d1JSMDVFM3M2Y2VDMUZ1akw5dHVGcGhFNQ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 01:46:00 GMT"
+    },
+    {
+      "title": "여야 대표 모두 '영남 공략'…특검법·단일화 쟁점",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92UXpWQ0VRRXk4ZDhfM2VLMXpUVmYtTzEyNHBkR25aczB1M1ZXY29MX1c4UXhiNUlNY3ZsbUtBbUtWbDQ2Q3ZXYjY3MnhybE5zVmtF?oc=5",
+      "publishedAt": "Sat, 02 May 2026 02:15:00 GMT"
     }
   ],
   "sources": [
