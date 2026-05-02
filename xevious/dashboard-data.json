@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T19:40:04.049148+09:00",
+  "generatedAt": "2026-05-02T20:29:41.591500+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약한 이슬비",
-        "temperature": "15.4°C",
-        "feelsLike": "15.4°C",
+        "temperature": "15.0°C",
+        "feelsLike": "14.9°C",
         "highLow": "최고 18.8° / 최저 8.4°",
-        "humidity": "76%",
+        "humidity": "78%",
         "wind": "2.9 m/s",
         "rainChance": "53%",
-        "pm10": "50.4 μg/m³",
-        "pm25": "46.9 μg/m³",
+        "pm10": "60.3 μg/m³",
+        "pm25": "54.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-02 19:30"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-02 20:15"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "13.5°C",
-        "feelsLike": "13.1°C",
+        "temperature": "13.0°C",
+        "feelsLike": "13.4°C",
         "highLow": "최고 17.4° / 최저 8.2°",
-        "humidity": "89%",
-        "wind": "7.1 m/s",
+        "humidity": "92%",
+        "wind": "1.1 m/s",
         "rainChance": "52%",
-        "pm10": "50.4 μg/m³",
-        "pm25": "46.9 μg/m³",
+        "pm10": "60.3 μg/m³",
+        "pm25": "54.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-02 19:30"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-02 20:15"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "13.8°C",
-        "feelsLike": "13.2°C",
+        "temperature": "13.3°C",
+        "feelsLike": "13.1°C",
         "highLow": "최고 17.3° / 최저 8.6°",
-        "humidity": "86%",
-        "wind": "7.9 m/s",
+        "humidity": "88%",
+        "wind": "4.7 m/s",
         "rainChance": "67%",
-        "pm10": "50.4 μg/m³",
-        "pm25": "46.9 μg/m³",
+        "pm10": "60.3 μg/m³",
+        "pm25": "54.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-02 19:30"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-02 20:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "15.7°C",
-        "feelsLike": "15.7°C",
+        "temperature": "15.1°C",
+        "feelsLike": "14.9°C",
         "highLow": "최고 20.0° / 최저 7.3°",
-        "humidity": "77%",
-        "wind": "3.9 m/s",
+        "humidity": "79%",
+        "wind": "5.2 m/s",
         "rainChance": "11%",
-        "pm10": "45.6 μg/m³",
-        "pm25": "43.0 μg/m³",
+        "pm10": "42.8 μg/m³",
+        "pm25": "41.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "71",
-        "updatedAt": "2026-05-02 19:30"
+        "airQualityIndex": "72",
+        "updatedAt": "2026-05-02 20:15"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-02 17:58:56",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-02 15:00:34",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "오세훈 \"부동산 지옥\"…정원오 \"적반하장\"",
+      "title": "5월 2일 MBN 뉴스센터 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5adkw5Q2xRUXJ4WTA1V2hqUWI0LVZfamdzY0JsQzJJZ0FjLUlod3VPTjU0ckFLWG9pQlozVXh6b242aWVYcmdFS1p4bGJ4aEk2Z0xZ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 10:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LelZpdXFFMzZJVnJGY3ZsSXhPeEZWV25lTmhNY0ZPRWwxVTJRN3N0allMdHZwUWdFVkRMNVZlcDkzRVFmZV9iVkJLVWVLXzQ2Zm1v?oc=5",
+      "publishedAt": "Sat, 02 May 2026 10:39:00 GMT"
     },
     {
-      "title": "[헬스 HOT 뉴스] \"조직문화부터 생산력까지\"…시지메드텍, 스마트오피스 등 조직 혁신 가속",
-      "source": "비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01N1hZZ2NvbFdlVmNHZlRKQ1lQVXc2QTVOTzN3OEd6OVlkSnJob0M5TTNkWXZXVGRfdHAwX2FJblcxaFFPQmdhQURYU2JBMlBnOHJnbDhFN1dCeFFqaFFUbDhEMkZ3cElmRUE?oc=5",
-      "publishedAt": "Sat, 02 May 2026 10:15:00 GMT"
+      "title": "일본 나라현서 규모 5.7 지진…“인명·재산 피해 보고 없어”",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNHhuUklCWUdaSXFZQkphM1ZWZ3RXVGN4SnYxWEJHR240QmJ5OWszWFNJb2ZmTWttYVRJRFZaaXpnNUdWLXBPbDdiT1JCNzQ4RDJRWFpsdTNpZzZ6ajk5TnFKdUx6NzlHa0hwT19FYU85VXJ2dHp4QzAtazNtc29TTVN0V0kxOTZfVURr?oc=5",
+      "publishedAt": "Sat, 02 May 2026 10:46:45 GMT"
     },
     {
-      "title": "성남시-세종대학교, ‘미래 인재 양성·동반 성장’ 협약",
-      "source": "하나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tNXJtMHV2NzNlWDd2MDNRc2dxNmhuQUkxWVVBWVdHX3VxZ19qQmx5TnMtaUhYTEtSUUZNZUlTeHZrcTNWS1p0WjVDZnNHR0p5cDR5NTlZWXhsLWRnODBrVWM2VEtUWEhGT3VmMg?oc=5",
-      "publishedAt": "Sat, 02 May 2026 10:12:07 GMT"
-    },
-    {
-      "title": "외교부 중동평화 정부대표, 유엔 정무·평화구축국 사무차장보 화상 면담",
-      "source": "하나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44d0ZJdmw0NzJMaHRlTEtrWU5FVDhNXzFIU1RneFhIU1VBRnJpOTRrLXVXcXA3VXBIdHRqdFpwcE5veFpGSHNGbUYtMnR6TUNPQlA5RFQ4c0gtM3B3S3huUHFlcHpRVHM0YkhSMg?oc=5",
-      "publishedAt": "Sat, 02 May 2026 10:08:34 GMT"
-    },
-    {
-      "title": "\"적반하장\"vs\"죄 지우기\"…조작기소 특검법 공방",
+      "title": "[비하인드 뉴스] \"땡땡땡은 말하지 말라\"…정청래가 입단속한 '세 글자'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KZW5vVzVITFpVYWNrNGtQajlxRGozcUZDUWhBeWJkaWtIbTFnSXgxMms1WFBKVGRYYnZUc1RrZFdVTGZEamVVVUliWWFweHY3NGFR?oc=5",
-      "publishedAt": "Sat, 02 May 2026 10:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vUHR5X3l0UEVhQ0dfWC01Ym9hVldvRTZYeGZGQy1ac1V2d3RvOXVTR3VManlUMlM4dDZlRVh0c25lNEQ5MzZrV3h1TVlCVlNzS0Iw?oc=5",
+      "publishedAt": "Sat, 02 May 2026 10:57:00 GMT"
     },
     {
-      "title": "일본 와카야마 해역서 5.7 지진…기상청 \"한국 영향 無\"",
+      "title": "트럼프 \"우린 해적 같다\"…이란 봉쇄 언급 발언 논란",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sWEJQMkU1b3YxNjZFeUJtbmpFaWdzR1QwdWYzWDhEZjF5RmtZRU9NR2dJLWN0MkZvejBuanVEM0pfcXZreUx1ank5LU0yM205dEMydmlhXzBmOFhuSHc1YQ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 10:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DY2JKVHRxTlFackFJU0ZjVjIycEc2aHlISWRvZVdIcTl6UENIUXI2UjNHam03MEtERTVnTGMtRVpfREJSdXV1TnBKVEI3LURqZTRV?oc=5",
+      "publishedAt": "Sat, 02 May 2026 11:05:00 GMT"
     },
     {
-      "title": "美 관세 인상은 '경고성'?…독일車 손실 '눈덩이'",
+      "title": "국민의힘, 거창군수 공천 후보 확정",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RVUJvZnNSaHhCbWVZdWVvaEFnX2pHXzVIdlpKT2tjWk5IVjZHSVgxclhIelZyWHVwMi1OaTdud3J6aTY2c19oQ3RLcUJEOHh4VTZB?oc=5",
-      "publishedAt": "Sat, 02 May 2026 10:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42bFg4T1JtZDFUWVdEN2V5Q0RIRDVLaWFXWEJXTmVDN1kzdmNGVGg2T2ZZcWwyRzNDYi1QS3hvODlkbFZwVG1wOGxaR2FSNFNiTlVLR19HbGVWSXhZWmp1OQ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 11:12:00 GMT"
     },
     {
-      "title": "'노브라 고백' 장윤주 \"내 가슴 사이즈 D~G컵\" 쿨하게 밝혔다[스타이슈]",
+      "title": "LG전자, 마산로봇랜드 단독 대관 가족 초청 행사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tbC1HRDZnM1BhcnZYMW9RMGxBdy1sUVVRZllVeFN0czdvQU1LRHpydFpPVXNMQmQtU180YlpWOUhsYUZBZlVySE11clVKakJjc3ViX29ERHJoM2V6RVAtUQ?oc=5",
-      "publishedAt": "Sat, 02 May 2026 10:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BVVhtTnZwZ091VzliUmZWYU5GWkpOaEpUN2pzY2sxWUp0RENNeDlpaFdNQXJYdDlKZlozejNUZTlrZFJ5ZkI2cnhHMXlKNU11d1F3?oc=5",
+      "publishedAt": "Sat, 02 May 2026 11:17:00 GMT"
     },
     {
-      "title": "'숏폼 감독' 유재석, 변우석 캐스팅 욕심에 주우재 이용…\"내가 계단이야?\" 발끈[놀뭐]",
+      "title": "정청래 대표 \"허태정은 대전시장 최적의 필승 카드\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOSUxqTDBkQTRfWk92UEZQLTBGQlpIM0ZKTkNFbjhjNjl3c25iMVVSY0dOXzAtOEMydVNKNzhscXFlalIxalVQQl85cE5GR0d4QU5B?oc=5",
-      "publishedAt": "Sat, 02 May 2026 10:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pWm1ZRGV1QlE3bURRWDJCVndxb2NwQ2ZBWjJOX1FyNnlOajRzVExKUkc4YU92eFZ4WWZ6LTNsRTZCRmJEZjhQdlJzaTZkaWJ4MktJ?oc=5",
+      "publishedAt": "Sat, 02 May 2026 10:57:00 GMT"
     },
     {
-      "title": "박왕열에 마약 공급한 '청담사장' 누구?···경찰 구속영장 신청",
+      "title": "황금연휴인데···일요일 전국에 비, 제주엔 '돌풍'까지",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1A4OS1Oc0RFR1p1cDRiQTBxaU5NSFp5Y0FrZ2FmUjNsVk1pcmpHT3dlWWtVbjl5Q2I1azVYcFh1LTNJRVJFWUNVUklfblJUTDRwelg4QU1mblVPdklwemFQMHZVcmJnazdXc2xlOGxZVXJTUEdDbg?oc=5",
-      "publishedAt": "Sat, 02 May 2026 10:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SVkFwTUlXUGY5MXNBUC1tU1pmUGpzWHNXc3UzQjRyZVVrc1c0b3VNM0JsZzcya3QyY3FlVUNNaGpXY0Nqd2R5aFVjRWpVakRyVjl3?oc=5",
+      "publishedAt": "Sat, 02 May 2026 11:17:00 GMT"
+    },
+    {
+      "title": "이란, '모사드 연계 간첩' 2명 교수형 집행",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QbHUtZ2NMa3hSamF3cGJZVTBBenJqZFNNcG5zdXM3djVSSHZjNFI5amJGTWlNdk16Nmp4Wmh0NzhtalV6ZGp2MVkyRV9rYlAxT2FsTF9FdXk5dks2MjZwdA?oc=5",
+      "publishedAt": "Sat, 02 May 2026 11:17:00 GMT"
+    },
+    {
+      "title": "이란서 '모사드 포섭' 간첩 또 교수형 집행",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBibFZBa25IOUE3M1ptTUx2cTdMVzdhR2hJNmpibUxuS0lpRlZsQ1ktSEhQSnUzdHMzOWlLQ0hZUkZsR2pIMHZMeURCMjlUODcwVU1R?oc=5",
+      "publishedAt": "Sat, 02 May 2026 11:00:00 GMT"
     }
   ],
   "sources": [
