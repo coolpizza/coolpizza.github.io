@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-03T15:37:50.535433+09:00",
+  "generatedAt": "2026-05-03T17:26:46.328127+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,63 +67,63 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "location": "서울",
-        "summary": "강한 이슬비",
-        "temperature": "13.5°C",
-        "feelsLike": "13.1°C",
-        "highLow": "최고 14.4° / 최저 10.9°",
-        "humidity": "82%",
-        "wind": "4.3 m/s",
+        "summary": "약한 비",
+        "temperature": "13.2°C",
+        "feelsLike": "12.3°C",
+        "highLow": "최고 14.0° / 최저 10.9°",
+        "humidity": "81%",
+        "wind": "5.9 m/s",
         "rainChance": "100%",
-        "pm10": "21.0 μg/m³",
-        "pm25": "16.0 μg/m³",
+        "pm10": "19.0 μg/m³",
+        "pm25": "15.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "91",
-        "updatedAt": "2026-05-03 15:30"
+        "airQualityIndex": "89",
+        "updatedAt": "2026-05-03 17:15"
       },
       {
         "location": "김포",
-        "summary": "이슬비",
-        "temperature": "12.5°C",
-        "feelsLike": "11.9°C",
-        "highLow": "최고 13.2° / 최저 10.0°",
-        "humidity": "94%",
-        "wind": "7.7 m/s",
+        "summary": "약한 비",
+        "temperature": "12.9°C",
+        "feelsLike": "11.6°C",
+        "highLow": "최고 13.1° / 최저 10.2°",
+        "humidity": "86%",
+        "wind": "10.2 m/s",
         "rainChance": "100%",
-        "pm10": "21.0 μg/m³",
-        "pm25": "16.0 μg/m³",
+        "pm10": "19.0 μg/m³",
+        "pm25": "15.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "91",
-        "updatedAt": "2026-05-03 15:30"
+        "airQualityIndex": "89",
+        "updatedAt": "2026-05-03 17:15"
       },
       {
         "location": "파주",
-        "summary": "이슬비",
-        "temperature": "12.7°C",
-        "feelsLike": "12.3°C",
-        "highLow": "최고 12.9° / 최저 9.8°",
-        "humidity": "91%",
-        "wind": "5.4 m/s",
+        "summary": "약한 비",
+        "temperature": "13.3°C",
+        "feelsLike": "12.0°C",
+        "highLow": "최고 13.4° / 최저 10.0°",
+        "humidity": "82%",
+        "wind": "9.4 m/s",
         "rainChance": "100%",
-        "pm10": "21.0 μg/m³",
-        "pm25": "16.0 μg/m³",
+        "pm10": "19.0 μg/m³",
+        "pm25": "15.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "91",
-        "updatedAt": "2026-05-03 15:30"
+        "airQualityIndex": "89",
+        "updatedAt": "2026-05-03 17:15"
       },
       {
         "location": "익산",
         "summary": "약한 비",
-        "temperature": "15.0°C",
-        "feelsLike": "13.9°C",
-        "highLow": "최고 15.0° / 최저 11.6°",
-        "humidity": "86%",
-        "wind": "13.0 m/s",
+        "temperature": "13.3°C",
+        "feelsLike": "11.7°C",
+        "highLow": "최고 14.5° / 최저 11.4°",
+        "humidity": "89%",
+        "wind": "14.4 m/s",
         "rainChance": "100%",
-        "pm10": "38.9 μg/m³",
-        "pm25": "36.9 μg/m³",
+        "pm10": "35.2 μg/m³",
+        "pm25": "32.2 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "90",
-        "updatedAt": "2026-05-03 15:30"
+        "updatedAt": "2026-05-03 17:15"
       }
     ]
   },
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-05-03 07:58:32",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-05-03 15:53:33",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "HMM 본사 부산 이전 ‘노-사 합의’",
-      "source": "해양한국",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RRWxUV2xBZ3ludXBYZlhDa0U1SVY3VzM3RDNWc3pfd1JVME9pOEFzM3l4OUl4T0o3eGloclRRZHk0TEkwZ3ZXcTRKRHlMYk1pdjhjdFRfcjVXdnVCbWpZUFlZZWdYTm9Gb3FRWWhNenRzbkZad2lTNnh3?oc=5",
-      "publishedAt": "Sun, 03 May 2026 06:20:09 GMT"
+      "title": "‘357명 매머드 특검’ 발의에 검찰 우려... “파견 보낼 인력 없다”",
+      "source": "법률방송뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fTUxENnpZamZ5QW9WTFFrUXhfcXZkeEs1SGJwNmpwUXF5Q3IzdXFkRHNPYzJIRlM0M19mRWZUVWt2UnR0VEc3RUFBdl9nQ3VZQ2ZEbXpNMFZIa0hQV21qQXRR?oc=5",
+      "publishedAt": "Sun, 03 May 2026 08:14:35 GMT"
     },
     {
-      "title": "[포토] 이호준 감독 '한석현 굿잡'",
+      "title": "트럼프 \"쿠바 거의 즉시 점령 가능…항모 보내면 포기할 것\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYamJpWWR3NTJGRjVMV0F6V2hHeU9qNlZ3UzhDNzRtY2FUUkZ2NTgtZU91WXRQekJhMzBfbVloMWk3V2hoMDRtNU1qT19HUUFMRDEwcV9ZeHJmeEVhaEhQYmxGdmgwcllJR0ZZN3hIN0JzS1pOX0dqTw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 06:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HekMwMENLbE1YbTg4V19VRmtuYjFDX0hXT0FzOG5DcjBneG5YRW1rLXozd1RPU3dQY1RhTkgxTW9fRGdjMUZZMWlYNWhEcENaazM5cTNGT0tJY0VmNkllalVKWmo0ZTZpNnpkRncxTWxMVWYwU2F4bQ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 08:14:00 GMT"
     },
     {
-      "title": "[포토]'양의지 타구 직접처리' 키움 박준현",
+      "title": "지지자들과 인사하는 김부겸",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TaWo3R2U5dmZNNHQzcHZyeTZlUno3RDVNbk5kc0ZCZHBXRFhHV3NDaGdadHNvY2xDMlVTQ19CZW1YT24wdjhOek9SNlNvaFg0VTBmVlNR?oc=5",
-      "publishedAt": "Sun, 03 May 2026 05:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XM0hKWWlkeTJwdWJmM0pZZHQ5NTZBemNfRGVHY0JnZ1lFREJqQUN1ejBSdnFLb0RaYl9HSkFiQk5TLTNjOTFranRSdldfUDVBSXI3S1RmLUJ5R1J0Sm9maDJjZUotVUNBbTlYMHVR?oc=5",
+      "publishedAt": "Sun, 03 May 2026 08:05:00 GMT"
     },
     {
-      "title": "6개 행사 이어지는 '2026 판타지아대구페스타' 개최",
+      "title": "\"이스라엘 공세에 레바논 사망자 2600명·피란민 100만 명 넘어\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2ZDBzWWdWUmx3bWhpbHBmMVZXSks1NmZBY1k1RVJ0VEZiaXZKVlNXSEdwa05WMXIxNXdjbnVIMXQyQzhWa2tnZlV0MlphX3FnR2lEVklMcjBmOU4zUTNLYmxmc2g2LVYzNTl2NW1ieVpuWUFyZ3RrUw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 06:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13amxONmQ4amdWRXpVdDNIeVMxNldSekZCSExsOTRxbVZRcVU1bzZBWEdrQ0JYMHd4a2N5Mkh6WlpoN3dMekRhdkxoS2V2bGZ3cjFz?oc=5",
+      "publishedAt": "Sun, 03 May 2026 08:16:07 GMT"
     },
     {
-      "title": "\"숲에서 즐기는 특별한 어린이날\" 안면도수목원으로 떠나는 가족 나들이",
+      "title": "김경수 경남도지사 후보 선거 캠프 개소식",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Y0NTWEtJbTZjVDRZdy0wOS1va2dzYXRKeXhJdXN6TkdRNlpOZUx6ZUhjdjNhbHB5MkNPcjJuNXFSQy1oQUJVa3cwYmJ4VC10ekxXakRubWptZC0zNHRfREZyZHcxdlk4bFFWdFlFT0NBMFczNnFQNA?oc=5",
-      "publishedAt": "Sun, 03 May 2026 06:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fYnBiQTFWMUlydDdyblVXU3c5TnBnWV9IekhORlJEN2hLMkRDY1E1S3R6dDlWdmJ3cEdsMHVOREVhazNpYkQ4Rzd1T3MwMXdmR0luMXlrNGZnNnVLN3A0akZ6Y0oybm4zUTRYUTBR?oc=5",
+      "publishedAt": "Sun, 03 May 2026 07:59:00 GMT"
     },
     {
-      "title": "[포토]'4회초 2사 만루에서 강판' 박준현",
+      "title": "[포토] 배재환 '철저하게 바깥 공략'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pa3dVZ2xkb1pmT2xSMDlHb0c2NGd1WUxpbDJUSVA0cGh6ME9XajhmNTdCWGdLdnpfZXVCT0xnTzFhbC1NTE8yM0NSdmRhUGZnS29HOXlB?oc=5",
-      "publishedAt": "Sun, 03 May 2026 06:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DY3NwdEV5THowN3dGN0l4SFhaemFHaDZ1UExiNnpuTWRxT3lWRTNSV1hRMnhDdzIzazZaanRXNmVtMFhxNWNnRk9DTFk3MnVDdnJEYk5zT2wyUXgwazhDZmdfcXc0WDZVRWlTXzVFYWZkWGpKdUw2LQ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 07:43:00 GMT"
     },
     {
-      "title": "정청래, 부산서 지원 유세…\"하정우 관심·호감 기대 이상\"",
+      "title": "[포토]'더이상은 안되겠다' 박준현",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1WHJUb2tRd01vanN6TV94Sl9TdV9qb1o0X3BnVzJkTllzcDZseTUxU0VSeVJJZFRPU1hma1pHVVZCU0JCMjBGTjlyWV9Yd3NFMlA0?oc=5",
-      "publishedAt": "Sun, 03 May 2026 05:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkdHlwOEktazlhMEhyZjlfX0R3ZkFGVUotblVLZWlYdHpnYmtaQlJXMU96a3I5SlNOZ21EdXBPdkRadl9sd3Y4VUVOMHRBYVVvREdXbGRn?oc=5",
+      "publishedAt": "Sun, 03 May 2026 07:28:00 GMT"
     },
     {
-      "title": "[포토] 아이들 소연 '승요 데뷔 실팬가'",
+      "title": "김희철, '아형' 잠정 하차+건강 이상설 직접 해명…\"지친 모습 안 보이려\"[스타이슈]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wVGdodzR6cG8xY2lob3JuQU4yVDdZV2FIdGRkcmxnSWE3cUtOU1kydHRGT09meTY5ek50RndmMWRJRlJKN211YXRzdnlxZEhySzFB?oc=5",
-      "publishedAt": "Sun, 03 May 2026 05:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tamZGMUdVOGFmMWQ2REoxQTh5LV9wNXhSSVFkd0JfUzZqTmZ6VFVaSEtzbk1McHgtZDQ4cGdaRHVKWkdSM3N6bWNpTldKTDJfUVow?oc=5",
+      "publishedAt": "Sun, 03 May 2026 07:28:00 GMT"
     },
     {
-      "title": "OptiScaler Client에 Linux 지원 및 새로운 스캔 필터가 추가되었습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0F6R2lEVXIwbVhlMUdmWFhJX29CV2NqN0tmTHFEVnU3WVpDZEhTem0tLVoxSlhWY3NjcS1mczJTd2g0MHR0dkhGTkFOSVg4LWRIeERLdHhJcVFCLVh1MEJqd25wbUMyVVYwbUFmblUyX2c5QkU0NEZIQ2Q3MGJ3LUdUMXNESG9wYS13T1U3MTJ6SS1sSzBlcVdWVjg4dzU3d1JoMkpZRkNhUQ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 06:20:16 GMT"
+      "title": "한·중·일 재무장관, 중동전쟁 영향 공유…“긴밀한 소통·연대하자”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2Q1lxRGFHU016Z195UElxendSNHJGdnFoMm04ZDNkV3VhNnNSejA0bldVd3FZdS1vcmdvRGwwNWhuWDU3WHRGLUNydGNaVUg5SWU5TENrbUdKZTlZZFhsU0w5ZGxnbXlwdUg1QjF3Z25XZw?oc=5",
+      "publishedAt": "Sun, 03 May 2026 08:11:00 GMT"
     },
     {
-      "title": "각 플랫폼들이 그랜드 테프트 오토 6 출시 전 판매량 증대를 위해 사전 예약을 시작했습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmdxNjN3eTJ3bE5jU1c3cjdIdTVWSjctZ3ZVanpHQ2VBU19iZTA0aHZwNmEzNURjOVNYUmd4YlBVSWI0bWtYdWlmbkVuS3ZQX2dPTFNGU1VXUjY4VzJiYVhtRDRvQVpVMERxeUEtT1JhVW1aWVdvOXI5TFZBX1F3RTExYWhiczVLRXhRSXdhZGN0VUgxRDBQOE5DYUhnOTFCR2lZQzNCZGl4ZDltUEE?oc=5",
-      "publishedAt": "Sun, 03 May 2026 06:11:29 GMT"
+      "title": "'와 또또또또 이겼다' 롯데, 역대급 외인 레이예스 한 방에 주말 3연전 싹쓸이…4연승 성공하다 [인천 리뷰]",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzM5Q0xZWUZERTFBOWhhNjBGZWd0UWYzWG15dDNfalk3S3hVRVFsMUVTMFFoV2FjSTQteWZxRUMwdUZfdXRvTmcyWjh2YVRYcFBrQnEyaWhfSWZ5UFk5SmFvTV93ZGtFbC03cFpYZ2JNWGtRakRqSVRRbGQtMVR1WVp0cw?oc=5",
+      "publishedAt": "Sun, 03 May 2026 08:02:00 GMT"
     }
   ],
   "sources": [
