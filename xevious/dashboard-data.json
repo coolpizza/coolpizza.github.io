@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T17:26:46.328127+09:00",
+  "generatedAt": "2026-05-03T18:43:16.707746+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "13.2°C",
-        "feelsLike": "12.3°C",
+        "temperature": "12.8°C",
+        "feelsLike": "12.0°C",
         "highLow": "최고 14.0° / 최저 10.9°",
-        "humidity": "81%",
-        "wind": "5.9 m/s",
+        "humidity": "84%",
+        "wind": "6.5 m/s",
         "rainChance": "100%",
-        "pm10": "19.0 μg/m³",
-        "pm25": "15.1 μg/m³",
+        "pm10": "27.5 μg/m³",
+        "pm25": "23.7 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "89",
-        "updatedAt": "2026-05-03 17:15"
+        "airQualityIndex": "88",
+        "updatedAt": "2026-05-03 18:30"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "12.9°C",
-        "feelsLike": "11.6°C",
+        "temperature": "12.2°C",
+        "feelsLike": "10.7°C",
         "highLow": "최고 13.1° / 최저 10.2°",
-        "humidity": "86%",
-        "wind": "10.2 m/s",
+        "humidity": "90%",
+        "wind": "12.1 m/s",
         "rainChance": "100%",
-        "pm10": "19.0 μg/m³",
-        "pm25": "15.1 μg/m³",
+        "pm10": "27.5 μg/m³",
+        "pm25": "23.7 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "89",
-        "updatedAt": "2026-05-03 17:15"
+        "airQualityIndex": "88",
+        "updatedAt": "2026-05-03 18:30"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "13.3°C",
-        "feelsLike": "12.0°C",
+        "temperature": "12.5°C",
+        "feelsLike": "11.0°C",
         "highLow": "최고 13.4° / 최저 10.0°",
-        "humidity": "82%",
-        "wind": "9.4 m/s",
+        "humidity": "87%",
+        "wind": "11.3 m/s",
         "rainChance": "100%",
-        "pm10": "19.0 μg/m³",
-        "pm25": "15.1 μg/m³",
+        "pm10": "27.5 μg/m³",
+        "pm25": "23.7 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "89",
-        "updatedAt": "2026-05-03 17:15"
+        "airQualityIndex": "88",
+        "updatedAt": "2026-05-03 18:30"
       },
       {
         "location": "익산",
         "summary": "약한 비",
-        "temperature": "13.3°C",
-        "feelsLike": "11.7°C",
+        "temperature": "12.5°C",
+        "feelsLike": "11.1°C",
         "highLow": "최고 14.5° / 최저 11.4°",
-        "humidity": "89%",
-        "wind": "14.4 m/s",
+        "humidity": "91%",
+        "wind": "12.3 m/s",
         "rainChance": "100%",
-        "pm10": "35.2 μg/m³",
+        "pm10": "35.5 μg/m³",
         "pm25": "32.2 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "90",
-        "updatedAt": "2026-05-03 17:15"
+        "updatedAt": "2026-05-03 18:30"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-05-03 08:02:03",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-05-03 14:59:44",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "‘357명 매머드 특검’ 발의에 검찰 우려... “파견 보낼 인력 없다”",
-      "source": "법률방송뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fTUxENnpZamZ5QW9WTFFrUXhfcXZkeEs1SGJwNmpwUXF5Q3IzdXFkRHNPYzJIRlM0M19mRWZUVWt2UnR0VEc3RUFBdl9nQ3VZQ2ZEbXpNMFZIa0hQV21qQXRR?oc=5",
-      "publishedAt": "Sun, 03 May 2026 08:14:35 GMT"
+      "title": "가정의 달은 역시 패밀리랜드 놀이 공원이지",
+      "source": "무등일보",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2MDNfV3ZRbGY1ZzZxTnRMcmJZRlk4Qm1jUUR2Ykd1SXJWcHY3TjlNYnVSMFRjdmxqZVFLU2Y4ZUxFaTRyV0tubmZTdGo?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:08:00 GMT"
     },
     {
-      "title": "트럼프 \"쿠바 거의 즉시 점령 가능…항모 보내면 포기할 것\"",
+      "title": "정청래, 부산 북갑 방문…“하정우는 구포시장의 아들”",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FOW1TUWI0T1ljZURMbFp0RlBxYWwzR1BhZEJibzN5RUpBYkI2YjBLc0I3Vy1TakNsRWRaZHJYQlVfZlE4V1AtbE9Fc0wxaUV2QTloRmFfWWxERU92QVHSAWNBVV95cUxOV0txTURBMTZFRmtPbk50TThvWWRHVGx0X3VqNDFqU19yQ0JVNVVwMDBKcVZHSjlldGNXdzFxRDgzWE43a05tTjhHRkZDYWl4RXItdEZId1JTekxEY2tVREY0UGc?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:28:00 GMT"
+    },
+    {
+      "title": "\"인파 몰려도 걱정없게\"…통신사 '황금연휴' 특별 관제 돌입",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NU1NORll2R3VqQnlvLUZLNlFXLUhGTEVSUUtuVDd6OEc5R0RfcFZtYmhXT0xMODVMaFBZaFFtdHNrVnJYN1FyLWNBQ0F3QVpKUmJSOFoxRzJiWjlKeDJ3aw?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:32:51 GMT"
+    },
+    {
+      "title": "'살목지', 260만 돌파·역대 공포 영화 3위…'곤지암'도 넘는다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HekMwMENLbE1YbTg4V19VRmtuYjFDX0hXT0FzOG5DcjBneG5YRW1rLXozd1RPU3dQY1RhTkgxTW9fRGdjMUZZMWlYNWhEcENaazM5cTNGT0tJY0VmNkllalVKWmo0ZTZpNnpkRncxTWxMVWYwU2F4bQ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 08:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XTThNNUVoc2c1TG1VQlMwS3V2Y1Y1bWxfUzBkVmhmMEZQU1M3bXlORG12X04wR2wwRVZOaHFHRjctbVFQMjJUMFRNbWc2bEl4M3RUMFROcHhET0hnZDRwdmtEQ0xPQ0ItdUUwQVk4ekF3Qm9adFhicg?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:39:00 GMT"
     },
     {
-      "title": "지지자들과 인사하는 김부겸",
+      "title": "트럼프 지지율 '바닥없는 추락'?…미국인 62% “트럼프 국정수행 지지 안해” 재임 중 최악",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sdXNFMEE3cXhuMzJjTnk4U09WTjRoRS1TRGtCbndYaDRXOVIxdWc3UVdOS0pqdFZrSmdObmpBbVFkR0VYMmtodGJGaGhyMTNFYkQxNHk5WHdXM3I5V002VzFn?oc=5",
+      "publishedAt": "Sun, 03 May 2026 08:47:38 GMT"
+    },
+    {
+      "title": "김부겸 \"대구 시민, 합리적 판단해 달라…대구 역사 바꿔야\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XM0hKWWlkeTJwdWJmM0pZZHQ5NTZBemNfRGVHY0JnZ1lFREJqQUN1ejBSdnFLb0RaYl9HSkFiQk5TLTNjOTFranRSdldfUDVBSXI3S1RmLUJ5R1J0Sm9maDJjZUotVUNBbTlYMHVR?oc=5",
-      "publishedAt": "Sun, 03 May 2026 08:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NMUdTOUN1elNla3BueThQWEpHSDhlYVo1SElfN1BLZEJqUnpVRTNVMUJTWklTdVdXSmhSc0hQYnA1SExQNkIwT1FieS03MzFwZUFfSnVMcGYyZ0ZiMDdlQg?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:05:00 GMT"
     },
     {
-      "title": "\"이스라엘 공세에 레바논 사망자 2600명·피란민 100만 명 넘어\"",
+      "title": "고물가 바람 타고 급성장…알리익스프레스 필두 C커머스, 韓시장 영향력 세졌다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13amxONmQ4amdWRXpVdDNIeVMxNldSekZCSExsOTRxbVZRcVU1bzZBWEdrQ0JYMHd4a2N5Mkh6WlpoN3dMekRhdkxoS2V2bGZ3cjFz?oc=5",
-      "publishedAt": "Sun, 03 May 2026 08:16:07 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbVFPMjluREtjalVqekpwV0R6Rm1oZ21uMmNrMVl2NGNJX05OU3RReUhTZVY3OS1hSVZFYmZmUTExNktpQ1lseGE0N0l2WUEzQkIxMFNFMnlFVnRVZDY2Ni1JdjVwZ092ZGNKdmpMUEFZX1h5dEg1SQ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:01:00 GMT"
     },
     {
-      "title": "김경수 경남도지사 후보 선거 캠프 개소식",
+      "title": "정청래·하정우 '오빠' 발언에 국힘 \"아동 성희롱\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fYnBiQTFWMUlydDdyblVXU3c5TnBnWV9IekhORlJEN2hLMkRDY1E1S3R6dDlWdmJ3cEdsMHVOREVhazNpYkQ4Rzd1T3MwMXdmR0luMXlrNGZnNnVLN3A0akZ6Y0oybm4zUTRYUTBR?oc=5",
-      "publishedAt": "Sun, 03 May 2026 07:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94ZkRkU0I2LXdYWU03SFQyaHFXN0IxRlUtZDc0Q3lxU1hGOS1Zb2hURC1ndzU4XzlSMTdSUzRsNmlvOGI1ODd0dVc3aXB1WFpPVlVF?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:00:00 GMT"
     },
     {
-      "title": "[포토] 배재환 '철저하게 바깥 공략'",
+      "title": "양산시 개별공시지가 1.66% 상승…최고가 ㎡당 370만원",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DY3NwdEV5THowN3dGN0l4SFhaemFHaDZ1UExiNnpuTWRxT3lWRTNSV1hRMnhDdzIzazZaanRXNmVtMFhxNWNnRk9DTFk3MnVDdnJEYk5zT2wyUXgwazhDZmdfcXc0WDZVRWlTXzVFYWZkWGpKdUw2LQ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 07:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4MWUwSzhOWV9QRmJxeTZxcF84dW13cVBoZFBtVEotLUViUXVKSjZpbFB0ZVpqUzY1c2VKaUs4SDhKTklmendSZ3ZlMGlVLVkzZ25n?oc=5",
+      "publishedAt": "Sun, 03 May 2026 08:57:00 GMT"
     },
     {
-      "title": "[포토]'더이상은 안되겠다' 박준현",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkdHlwOEktazlhMEhyZjlfX0R3ZkFGVUotblVLZWlYdHpnYmtaQlJXMU96a3I5SlNOZ21EdXBPdkRadl9sd3Y4VUVOMHRBYVVvREdXbGRn?oc=5",
-      "publishedAt": "Sun, 03 May 2026 07:28:00 GMT"
-    },
-    {
-      "title": "김희철, '아형' 잠정 하차+건강 이상설 직접 해명…\"지친 모습 안 보이려\"[스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tamZGMUdVOGFmMWQ2REoxQTh5LV9wNXhSSVFkd0JfUzZqTmZ6VFVaSEtzbk1McHgtZDQ4cGdaRHVKWkdSM3N6bWNpTldKTDJfUVow?oc=5",
-      "publishedAt": "Sun, 03 May 2026 07:28:00 GMT"
-    },
-    {
-      "title": "한·중·일 재무장관, 중동전쟁 영향 공유…“긴밀한 소통·연대하자”",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2Q1lxRGFHU016Z195UElxendSNHJGdnFoMm04ZDNkV3VhNnNSejA0bldVd3FZdS1vcmdvRGwwNWhuWDU3WHRGLUNydGNaVUg5SWU5TENrbUdKZTlZZFhsU0w5ZGxnbXlwdUg1QjF3Z25XZw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 08:11:00 GMT"
-    },
-    {
-      "title": "'와 또또또또 이겼다' 롯데, 역대급 외인 레이예스 한 방에 주말 3연전 싹쓸이…4연승 성공하다 [인천 리뷰]",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzM5Q0xZWUZERTFBOWhhNjBGZWd0UWYzWG15dDNfalk3S3hVRVFsMUVTMFFoV2FjSTQteWZxRUMwdUZfdXRvTmcyWjh2YVRYcFBrQnEyaWhfSWZ5UFk5SmFvTV93ZGtFbC03cFpYZ2JNWGtRakRqSVRRbGQtMVR1WVp0cw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 08:02:00 GMT"
+      "title": "‘친윤 넘어 친트럼프..밀리터리 마케팅까지’",
+      "source": "디트NEWS24",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4WWlYd0xGaHg3aVpPSE9UVWpGQWhOOUkxUE52LVdwTnZoLTZvd09lWGduc2RHbUtSNVNrNnh5eGJ5bmJCcmlraGp0R2thNDA5YXBpTmVIckFOSV80M3lQV043dzRwZWNsT3hn?oc=5",
+      "publishedAt": "Sun, 03 May 2026 08:49:01 GMT"
     }
   ],
   "sources": [
