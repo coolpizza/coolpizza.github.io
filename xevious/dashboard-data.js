@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-04T01:46:46.837118+09:00",
+  "generatedAt": "2026-05-04T02:37:19.565950+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -69,61 +69,61 @@ window.DASHBOARD_DATA = {
         "location": "서울",
         "summary": "약한 비",
         "temperature": "9.1°C",
-        "feelsLike": "6.3°C",
-        "highLow": "최고 18.7° / 최저 7.5°",
-        "humidity": "82%",
-        "wind": "12.6 m/s",
+        "feelsLike": "5.9°C",
+        "highLow": "최고 18.8° / 최저 7.8°",
+        "humidity": "75%",
+        "wind": "13.5 m/s",
         "rainChance": "100%",
-        "pm10": "4.9 μg/m³",
-        "pm25": "4.8 μg/m³",
+        "pm10": "5.3 μg/m³",
+        "pm25": "5.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-04 01:30"
+        "airQualityIndex": "74",
+        "updatedAt": "2026-05-04 02:30"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "8.8°C",
-        "feelsLike": "4.7°C",
-        "highLow": "최고 17.7° / 최저 6.5°",
-        "humidity": "82%",
-        "wind": "20.9 m/s",
+        "temperature": "8.7°C",
+        "feelsLike": "4.8°C",
+        "highLow": "최고 18.0° / 최저 6.5°",
+        "humidity": "79%",
+        "wind": "18.8 m/s",
         "rainChance": "100%",
-        "pm10": "4.9 μg/m³",
-        "pm25": "4.8 μg/m³",
+        "pm10": "5.3 μg/m³",
+        "pm25": "5.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-04 01:30"
+        "airQualityIndex": "74",
+        "updatedAt": "2026-05-04 02:30"
       },
       {
         "location": "파주",
-        "summary": "대체로 맑음",
-        "temperature": "8.6°C",
-        "feelsLike": "4.5°C",
-        "highLow": "최고 19.2° / 최저 6.1°",
-        "humidity": "82%",
-        "wind": "20.9 m/s",
+        "summary": "약한 이슬비",
+        "temperature": "8.5°C",
+        "feelsLike": "4.7°C",
+        "highLow": "최고 19.1° / 최저 6.5°",
+        "humidity": "78%",
+        "wind": "18.1 m/s",
         "rainChance": "100%",
-        "pm10": "4.9 μg/m³",
-        "pm25": "4.8 μg/m³",
+        "pm10": "5.3 μg/m³",
+        "pm25": "5.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-04 01:30"
+        "airQualityIndex": "74",
+        "updatedAt": "2026-05-04 02:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "10.3°C",
-        "feelsLike": "6.8°C",
+        "temperature": "10.1°C",
+        "feelsLike": "6.6°C",
         "highLow": "최고 18.2° / 최저 8.0°",
-        "humidity": "86%",
-        "wind": "20.4 m/s",
+        "humidity": "80%",
+        "wind": "18.9 m/s",
         "rainChance": "98%",
-        "pm10": "11.6 μg/m³",
-        "pm25": "10.0 μg/m³",
-        "airQuality": "매우 나쁨",
-        "airQualityIndex": "82",
-        "updatedAt": "2026-05-04 01:30"
+        "pm10": "8.1 μg/m³",
+        "pm25": "6.6 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "80",
+        "updatedAt": "2026-05-04 02:30"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-05-03 18:00:26",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-05-04 00:59:12",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "\"카메라가 거길 왜 비춰?\" F1서 월드컵 여신 등장에 '생방송 사고'…넋 나간 카메라맨 '역대급 시선 강탈'",
+      "title": "[투데이窓]중드와 중티 그리고 OTT와 키치",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xQ3hldDdxOEtZOHZZX0o3c0lZaDU5N082TWh6V1c0amZVVnFhb2ZLZXZVTkpudUgxeWVxempnUThYM1pGR0ZCQzZ6UUx1Y0dUQnhYa09iRXdwcWthVjVqaGZVMmE3Y1RWdkgybnJ0TVFfQWZQTGotLQ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:01:00 GMT"
+    },
+    {
+      "title": "마비노기, 약 20시간 공개 LIVE 통해 이용자와 ‘진심 소통’",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXRWJ2LXc3aGtlalJULTl1cVF3ZVZjaGQ0QU51TnFZRlZXVE1ncjZieDFVSF9ua2hTRzVTWk5peVUwd2pwcmV0bW04M1BmdE1BWlIyOHZFQVZDSVFqa2c?oc=5",
+      "publishedAt": "Sun, 03 May 2026 16:52:33 GMT"
+    },
+    {
+      "title": "정청래 '하정우 오빠' 발언 논란에…\"아이·부모님께 송구\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYS1NlblZWNnZZUnozWGlQckxzT0g2TGdjYk4za04xSXNfdVdnZVN4X2lTWkVkWVpfTVo1QkdyOWxMcEFmaFV6aVZRUzVFU3ZWb29n?oc=5",
+      "publishedAt": "Sun, 03 May 2026 16:45:00 GMT"
+    },
+    {
+      "title": "바닥 친 남편 '1부 승격' 도운 '내조의 여왕'…카리우스 아내 감동 메시지 \"당신의 나의 용기\"",
       "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16QkJRREtyV0JJcUV0SnpmS3VRTjloN1psSzFlUkhfMlFTbkdxRnY5cmREd0RnQ0NmQUxwWWtieF9NQVFES2pXSEVJOEVraFBjUHdEbW84d0NlaHBy?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qNE9yUGZkZXV6U2w2UW56OGJuNFBCNkd5dWtMS3E5bjk3UUVuR1dqLXJLNDdXODlwM0lDTV9hTXUzaktZdzFHZXhpNUNSQVdqY0NGdWRzdmQ0ODNV?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:01:00 GMT"
     },
     {
-      "title": "\"카메라가 거길 왜 비춰?\" F1서 월드컵 여신 등장에 '생방송 사고'…넋 나간 카메라맨 '역대급 시선 강탈'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MVUNJb1cxN0FHZm9rTEt0am9hZDZlcjlrNFBabV8tUlRfVm5ndldqMGhLRS1GTHNHVmp6ODVqOUkwLUV2TWx5MmE5Z2k5MzBSbWpQYVA2bDdTemlxQ2p2OA?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:51:00 GMT"
-    },
-    {
-      "title": "최우식, 속옷 1장으로 5박6일…여행 시작부터 '비상'[꽃보다 청춘] [별별TV]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SY0dHRFlJUlB3Uy1BWVVLN3JTeTJUTldnMkExOVQ2TTctMXJJRWxqdXVkeTRJZzB1akJ2MV9ReXNlb3Bob2tNbmROelZ0MzRKY3gw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 16:07:00 GMT"
-    },
-    {
-      "title": "\"무능·유능 대결…허태정 복귀는 대전의 퇴보\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44RUVtMlpuY1pmQ1ZPVlY3ZkMweXpuLWhscERUeWh0bzZOZUxnUEkzbGpTdlg1dFpGaTNSMV9XdWhFa1Y0bF9Ia1N5RlJiUEdoT3dr?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:48:00 GMT"
-    },
-    {
-      "title": "美와 균열·이란전 장기화 속 유럽정치공동체 정상회의",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6RXJQODNFb1M5eklZekljWV9PTGRiSXllSy1XLXc1QXpfNEdaZVBjY3JqY0t2OGJ3VV9DOU9XV3VUOENCYTVJdUI2eElJdFBMOHlVQkRvaDhIVmPSAWBBVV95cUxQeFdYZHJEbXNtc2x3bS1zakJoM3E4cG1xUTVKZWYzSVhuSFhUaV9VSElWamZqRFprdERkUnYtdnJlUnZ3S182WFdYNS0xaUFtdGpBTml5MmRKeUNMX1RyZDg?oc=5",
-      "publishedAt": "Sun, 03 May 2026 16:31:54 GMT"
-    },
-    {
-      "title": "중동 봉쇄에 美 원유 수출 급증…코퍼스 크리스티항 '최대 분기'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WdlJEVEFKWFVjNmVmMWsxUXU4LTNJZU1ETzVsYUFfVzI5MTdYVDQ4YTVSUGtWRWd5ZjgzTVNseVNVUjRHNlpSLWVMX1RWclBFY253?oc=5",
-      "publishedAt": "Sun, 03 May 2026 16:16:00 GMT"
-    },
-    {
-      "title": "'새역사' 日 파이터가 메이웨더·조루이스 넘어 또 신기록, '무려 28연승' 역대급 페이스 \"중압감 너무 컸는데…\"",
+      "title": "월드컵까지 한 달…황인범의 시간은 올까",
       "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85c0FnVy0xalA4RkkxSEFoZVFERHRSMXJxRTVULWs3N1huazQ2TkpNOTV5dGtfNmU0cW5vdG1uTEk0eENod0hPSHk5blU1OXBxZFVpN3NBM3BLQ1I2?oc=5",
-      "publishedAt": "Sun, 03 May 2026 16:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAydER1M0FPSEV4SWM2NmJ4dEtTU0ZIRHM2eHZWcnVWMWprUHEtcmd0LUdsclNqZVQ0WElvckp0OFVTNjdoU0RJS0pXME5Yb2ZhU28wNjAzd0VDMGlv?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:01:00 GMT"
     },
     {
-      "title": "\"AI 감시카메라로 불법체류자 색출\" \"인공 울릉도·독도 조성\" 공약까지",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43X2haOXprc3F5VjJoLV9aY1RIRkRvckFKMzB6aUJybXlaRHg2S1RvR2pDRk9PemJKWUx6d2R6R3NKbmJOQnRYcEQyZnFXaVRlY3Nj?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:48:00 GMT"
+      "title": "서울시, 이륜차 소음 상시 단속…“평온한 시민 일상 지킨다”",
+      "source": "bvba.org",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80STlDdTR0MXUxaU9uZEVmdXJvLUxIY3Z0T0hqR1dULVFIZGVJU0kzT2h2Z01PUlJDMVlUbXNLU05EOUZnNTBNTUhoSUFNSlBEN24zREdkSTluVXpITGdBbE9zaEUxZkViR2RzS2Z3?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:01:13 GMT"
     },
     {
-      "title": "초등학생에 \"오빠라고 해봐요\"…與 '말폭탄' 리스크",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nbm9mUlpKSGJJSUoyT1h2TTd6c19Jc3RSRURVU2ZQRXVFaWJrNXAwZlZsLXVPSy1mVGEtY0h1N2pTNmN1V0o1bzhkcFBGYV9jUXlsUnptcUxxM1ctQlZpWGhsQ29aZ3FlelE?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:50:00 GMT"
+      "title": "'인간 승리' 두 다리 잃고 金 4개 신화 썼는데…안타까운 사망 \"가장 존경받을 인물\"",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VS09yNVFkV1ByLVVPSFR4aWFGbjFVZnM2N0h1TTMzV1pyQzhDWTgwVmFNZ2l3S0JrQlBVVTN0cmN6emtUeVl4RjlMRDViX1BOcFVpZ0VyQjhLM0k1?oc=5",
+      "publishedAt": "Sun, 03 May 2026 16:58:00 GMT"
     },
     {
-      "title": "'공소 취소' 폭주하는 與 앞에…국힘은 이번에도 내전",
+      "title": "[MT시평]식약처, 규제 병목을 완화해야",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wVF9fV2g2Y1VQYVdVRkZUa3RLa3hDTEt1VkIwNlFuWTVGTG9jVnN4cHFIUkdVZDNRMVdTR2dOV1Y2MWE3Z3NfTHMwUTIwa0JKX25vUWVxS2dqSUc2aTg3ZmVCQURlRkc1Ymc?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mQWhyU0cwSDFLZWRwZjRFRTY4MFp0eTIya1RkMzJWRFNuVjNBLWoxcHdwRjBhSThEcnBtQ3ljNUtiUzNJQUFVRUhWLXdHTlJwMHpN?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:00:00 GMT"
+    },
+    {
+      "title": "[사설]중국전기차 공습, 정책적 방어막은 허술",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJa0wyeVZsWWEwYXJvcUNDeFNtVGg5Y1FaVkdrZWtoXzNMTWJOSThCZnVMSU1Ia09oMHk4RTc1NWpaZ0JVT1k3SVBNc0RtRUdzRlNz?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:00:00 GMT"
+    },
+    {
+      "title": "'다리 절단 위기였는데' 스키 여신, 목발 짚고 하이힐+붉은 밀착 드레스 '3개월 만에 대중 앞에 섰다'",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EbW56STA1UXVtbGtKTTJqY1RyakFsV05GZHVLSTN3VUdUZFQwUkZRUlhHVkp3YmpUUHhpS2Z5SWgzaVZzV2JwOExUZTBPMW83Z0ViY2dMeU44eGdJ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 16:51:00 GMT"
     }
   ],
   "sources": [
