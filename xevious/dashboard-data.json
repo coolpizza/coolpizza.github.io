@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T00:59:54.280697+09:00",
+  "generatedAt": "2026-05-04T01:46:46.837118+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "9.4°C",
-        "feelsLike": "7.3°C",
+        "temperature": "9.1°C",
+        "feelsLike": "6.3°C",
         "highLow": "최고 18.7° / 최저 7.5°",
-        "humidity": "88%",
-        "wind": "10.5 m/s",
+        "humidity": "82%",
+        "wind": "12.6 m/s",
         "rainChance": "100%",
-        "pm10": "8.9 μg/m³",
-        "pm25": "8.5 μg/m³",
+        "pm10": "4.9 μg/m³",
+        "pm25": "4.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "80",
-        "updatedAt": "2026-05-04 00:45"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-04 01:30"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "9.0°C",
-        "feelsLike": "5.4°C",
+        "temperature": "8.8°C",
+        "feelsLike": "4.7°C",
         "highLow": "최고 17.7° / 최저 6.5°",
-        "humidity": "86%",
-        "wind": "19.1 m/s",
+        "humidity": "82%",
+        "wind": "20.9 m/s",
         "rainChance": "100%",
-        "pm10": "8.9 μg/m³",
-        "pm25": "8.5 μg/m³",
+        "pm10": "4.9 μg/m³",
+        "pm25": "4.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "80",
-        "updatedAt": "2026-05-04 00:45"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-04 01:30"
       },
       {
         "location": "파주",
         "summary": "대체로 맑음",
-        "temperature": "8.8°C",
-        "feelsLike": "5.2°C",
+        "temperature": "8.6°C",
+        "feelsLike": "4.5°C",
         "highLow": "최고 19.2° / 최저 6.1°",
-        "humidity": "86%",
-        "wind": "19.0 m/s",
+        "humidity": "82%",
+        "wind": "20.9 m/s",
         "rainChance": "100%",
-        "pm10": "8.9 μg/m³",
-        "pm25": "8.5 μg/m³",
+        "pm10": "4.9 μg/m³",
+        "pm25": "4.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "80",
-        "updatedAt": "2026-05-04 00:45"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-04 01:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "10.7°C",
-        "feelsLike": "7.8°C",
+        "temperature": "10.3°C",
+        "feelsLike": "6.8°C",
         "highLow": "최고 18.2° / 최저 8.0°",
-        "humidity": "90%",
-        "wind": "19.0 m/s",
+        "humidity": "86%",
+        "wind": "20.4 m/s",
         "rainChance": "98%",
-        "pm10": "17.2 μg/m³",
-        "pm25": "15.9 μg/m³",
+        "pm10": "11.6 μg/m³",
+        "pm25": "10.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "85",
-        "updatedAt": "2026-05-04 00:45"
+        "airQualityIndex": "82",
+        "updatedAt": "2026-05-04 01:30"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-03 17:58:42",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-03 18:00:26",
         "districtSamples": [
           {
             "district": "강서구",
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-05-03 17:58:05",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-05-03 15:53:33",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,40 +376,46 @@
   },
   "news": [
     {
-      "title": "윤석열 ‘체포방해’ 항소심 징역 7년 선고",
-      "source": "JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45NjRiT1o1aVY2SlZsdVo3cnNqMGVZZWRCVThZZFZqbHk3eXg4RXR0SHJMcnRnWkdfTHE0OFEzeEJ5Nm5GTlZRSw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:01:15 GMT"
-    },
-    {
       "title": "\"카메라가 거길 왜 비춰?\" F1서 월드컵 여신 등장에 '생방송 사고'…넋 나간 카메라맨 '역대급 시선 강탈'",
       "source": "네이트 스포츠",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16QkJRREtyV0JJcUV0SnpmS3VRTjloN1psSzFlUkhfMlFTbkdxRnY5cmREd0RnQ0NmQUxwWWtieF9NQVFES2pXSEVJOEVraFBjUHdEbW84d0NlaHBy?oc=5",
       "publishedAt": "Sun, 03 May 2026 15:51:00 GMT"
     },
     {
-      "title": "오늘 금시세(금값) 얼마…향후 변수는?",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vNkRCQlJXQ1JCcnpHaUZjSTZmMm1LbUlaTjNtQU9nb2l6WmFTZVpaelJwc1RzQm1FRDRWUUpHaGgxNVZMYWhvanpBMUpZenpLdy0xWWdCZXN0SlZaVFBjSUFqSVpiQTg4?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:03:00 GMT"
+      "title": "\"카메라가 거길 왜 비춰?\" F1서 월드컵 여신 등장에 '생방송 사고'…넋 나간 카메라맨 '역대급 시선 강탈'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MVUNJb1cxN0FHZm9rTEt0am9hZDZlcjlrNFBabV8tUlRfVm5ndldqMGhLRS1GTHNHVmp6ODVqOUkwLUV2TWx5MmE5Z2k5MzBSbWpQYVA2bDdTemlxQ2p2OA?oc=5",
+      "publishedAt": "Sun, 03 May 2026 15:51:00 GMT"
     },
     {
-      "title": "[사진] 하정우, 상인 두손 잡고 폴더인사",
+      "title": "최우식, 속옷 1장으로 5박6일…여행 시작부터 '비상'[꽃보다 청춘] [별별TV]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15VkVWY0RGb21RVEcxUTZOaU9lVFQ1VXJrWnhkRjluQUJEbXR6MFFLMVFRRkMyRl8wN3RZc1d0aGVVdk9MN2oyZWJGNGg1M0VTdUN3?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SY0dHRFlJUlB3Uy1BWVVLN3JTeTJUTldnMkExOVQ2TTctMXJJRWxqdXVkeTRJZzB1akJ2MV9ReXNlb3Bob2tNbmROelZ0MzRKY3gw?oc=5",
+      "publishedAt": "Sun, 03 May 2026 16:07:00 GMT"
     },
     {
-      "title": "[사진] 개소식서 포옹하는 장동혁·추경호",
+      "title": "\"무능·유능 대결…허태정 복귀는 대전의 퇴보\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40Nkg0cG81OE9KUTJIUlE4bUtrTy1GeW1PR1BGTDFoTmFKb2Q0dFdEOHIyM2RSNGN2MjdvQmJ2bU9ySVBBd2o4SHJUZ1lsa2h1eEVJ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44RUVtMlpuY1pmQ1ZPVlY3ZkMweXpuLWhscERUeWh0bzZOZUxnUEkzbGpTdlg1dFpGaTNSMV9XdWhFa1Y0bF9Ia1N5RlJiUEdoT3dr?oc=5",
+      "publishedAt": "Sun, 03 May 2026 15:48:00 GMT"
     },
     {
-      "title": "무서운 외식 물가…'가성비 뷔페'로 몰린다",
+      "title": "美와 균열·이란전 장기화 속 유럽정치공동체 정상회의",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6RXJQODNFb1M5eklZekljWV9PTGRiSXllSy1XLXc1QXpfNEdaZVBjY3JqY0t2OGJ3VV9DOU9XV3VUOENCYTVJdUI2eElJdFBMOHlVQkRvaDhIVmPSAWBBVV95cUxQeFdYZHJEbXNtc2x3bS1zakJoM3E4cG1xUTVKZWYzSVhuSFhUaV9VSElWamZqRFprdERkUnYtdnJlUnZ3S182WFdYNS0xaUFtdGpBTml5MmRKeUNMX1RyZDg?oc=5",
+      "publishedAt": "Sun, 03 May 2026 16:31:54 GMT"
+    },
+    {
+      "title": "중동 봉쇄에 美 원유 수출 급증…코퍼스 크리스티항 '최대 분기'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43VEtFWkZIRDZWUUVUWnp4OHRpRGx3em13cFBxdWg2VXhRRzZiV3ZKQ3doWW9pbmlHclc5akpXdWNyY0E0RjYwYWlPWlgwN3VHSk9v?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WdlJEVEFKWFVjNmVmMWsxUXU4LTNJZU1ETzVsYUFfVzI5MTdYVDQ4YTVSUGtWRWd5ZjgzTVNseVNVUjRHNlpSLWVMX1RWclBFY253?oc=5",
+      "publishedAt": "Sun, 03 May 2026 16:16:00 GMT"
+    },
+    {
+      "title": "'새역사' 日 파이터가 메이웨더·조루이스 넘어 또 신기록, '무려 28연승' 역대급 페이스 \"중압감 너무 컸는데…\"",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85c0FnVy0xalA4RkkxSEFoZVFERHRSMXJxRTVULWs3N1huazQ2TkpNOTV5dGtfNmU0cW5vdG1uTEk0eENod0hPSHk5blU1OXBxZFVpN3NBM3BLQ1I2?oc=5",
+      "publishedAt": "Sun, 03 May 2026 16:01:00 GMT"
     },
     {
       "title": "\"AI 감시카메라로 불법체류자 색출\" \"인공 울릉도·독도 조성\" 공약까지",
@@ -418,22 +424,16 @@
       "publishedAt": "Sun, 03 May 2026 15:48:00 GMT"
     },
     {
-      "title": "美재무 \"이란 원유저장시설 곧 포화…내주 유정폐쇄 가능성\"",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Oakswc0RYeGV2ZXFJaFhJUlgxajBNU3RhVjdIODM5YTlVVTY4b2tmQ2pEN3ZWS1hLajBRcm5JWlFTdzVxXzB0T3VSM0xtUzQwOVY5M0p2Z214OVXSAWBBVV95cUxQTW11YVVteTdsSUlyeXozaW5YVlhUbnhRbTZlbDE2VVJWaW1HSzVkMkZDTmFGNjQ1RDJva3RYZkpJdkozdktjYmJTWUFwd1Q2VmNiZUlWb1I4Q3pYcUhIS18?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:09:00 GMT"
+      "title": "초등학생에 \"오빠라고 해봐요\"…與 '말폭탄' 리스크",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nbm9mUlpKSGJJSUoyT1h2TTd6c19Jc3RSRURVU2ZQRXVFaWJrNXAwZlZsLXVPSy1mVGEtY0h1N2pTNmN1V0o1bzhkcFBGYV9jUXlsUnptcUxxM1ctQlZpWGhsQ29aZ3FlelE?oc=5",
+      "publishedAt": "Sun, 03 May 2026 15:50:00 GMT"
     },
     {
-      "title": "UAE 빠진 OPEC+ 증산 합의… 전문가, 상징적 결정에 그쳐",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ycnB2a3VfakJSR0dreUNJblByOVNKVDJfLWd4UXJnajhmQkhuYVlNZW1JMFUwMmhFVThlbWVEdnIxeDVpdWUtS0I3RncxaTA?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:03:48 GMT"
-    },
-    {
-      "title": "[날씨 이야기] 이산화탄소 ‘432.7ppm’의 경고…",
-      "source": "드림투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dlBmTUdUeDFTaUlzZDRuR0JzcTNaUWN1UEFZNl8xblNkTDhnTzJqMnZ3SmFDUVFjZGh2dngwdmh6ZXZteEVmMVJMS1hGWG5lZHQwR2dKSHVwWXM3cVNMVmE3eVhJZDI0RkE?oc=5",
-      "publishedAt": "Sun, 03 May 2026 15:00:00 GMT"
+      "title": "'공소 취소' 폭주하는 與 앞에…국힘은 이번에도 내전",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wVF9fV2g2Y1VQYVdVRkZUa3RLa3hDTEt1VkIwNlFuWTVGTG9jVnN4cHFIUkdVZDNRMVdTR2dOV1Y2MWE3Z3NfTHMwUTIwa0JKX25vUWVxS2dqSUc2aTg3ZmVCQURlRkc1Ymc?oc=5",
+      "publishedAt": "Sun, 03 May 2026 15:49:00 GMT"
     }
   ],
   "sources": [
