@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T04:34:55.566526+09:00",
+  "generatedAt": "2026-05-04T05:09:13.239912+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "8.7°C",
-        "feelsLike": "6.2°C",
+        "temperature": "8.4°C",
+        "feelsLike": "6.1°C",
         "highLow": "최고 19.0° / 최저 8.0°",
-        "humidity": "76%",
-        "wind": "8.6 m/s",
+        "humidity": "79%",
+        "wind": "7.4 m/s",
         "rainChance": "100%",
-        "pm10": "11.2 μg/m³",
-        "pm25": "10.4 μg/m³",
+        "pm10": "12.9 μg/m³",
+        "pm25": "12.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-05-04 04:30"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-05-04 05:00"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "7.7°C",
-        "feelsLike": "5.3°C",
+        "temperature": "7.3°C",
+        "feelsLike": "5.2°C",
         "highLow": "최고 18.2° / 최저 6.9°",
-        "humidity": "88%",
-        "wind": "9.8 m/s",
+        "humidity": "91%",
+        "wind": "7.9 m/s",
         "rainChance": "100%",
-        "pm10": "11.2 μg/m³",
-        "pm25": "10.4 μg/m³",
+        "pm10": "12.9 μg/m³",
+        "pm25": "12.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-05-04 04:30"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-05-04 05:00"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "7.7°C",
-        "feelsLike": "5.1°C",
+        "temperature": "7.3°C",
+        "feelsLike": "5.0°C",
         "highLow": "최고 19.3° / 최저 6.7°",
-        "humidity": "85%",
-        "wind": "10.2 m/s",
+        "humidity": "88%",
+        "wind": "8.6 m/s",
         "rainChance": "100%",
-        "pm10": "11.2 μg/m³",
-        "pm25": "10.4 μg/m³",
+        "pm10": "12.9 μg/m³",
+        "pm25": "12.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-05-04 04:30"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-05-04 05:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "9.4°C",
+        "temperature": "9.3°C",
         "feelsLike": "7.2°C",
         "highLow": "최고 18.2° / 최저 8.1°",
-        "humidity": "85%",
-        "wind": "10.5 m/s",
+        "humidity": "87%",
+        "wind": "9.8 m/s",
         "rainChance": "98%",
-        "pm10": "10.7 μg/m³",
-        "pm25": "8.6 μg/m³",
+        "pm10": "13.7 μg/m³",
+        "pm25": "11.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-04 04:30"
+        "airQualityIndex": "72",
+        "updatedAt": "2026-05-04 05:00"
       }
     ]
   },
@@ -274,9 +274,9 @@
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-05-03 18:00:26",
+        "stationName": "화곡역주유소",
+        "address": "서울 강서구 강서로 154 (화곡동)",
+        "updatedAt": "2026-05-04 00:59:12",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "'프리미엄 중심' IT업계 재편…삼성D·LGD, 수혜 기대",
+      "title": "[오늘의 주요 일정] 제주(4일, 월)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RN3dPLWdaUWlFSkdxcjVPeTlzVm4xYk56ajY5OXRpZ3o3cFZRVl9Gem9jdWhQU0NOSXM4OHBWQml0ejRMU0lrZlVadXF5aV81?oc=5",
+      "publishedAt": "Sun, 03 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 정치·정부 (4일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zMVI1SVRIaGVBazdkNVNxUFZXU1JnazF5RkxwY0VSNTVQYmVZY3o5QXJrMFUzSkVyYkFrdmhzR3FER0VFVkJSbUkzbXhrLWRhVm53?oc=5",
-      "publishedAt": "Sun, 03 May 2026 19:11:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZU29oY2szTGhNTmNhQzJjcWRSWWJvNmpNSjhiaTVwUWx3TUdEUDhjRjBTYWlYX1lHRWJobHgtOVAzV3lNVjFvWEh2VTh5eHZNZU1j?oc=5",
+      "publishedAt": "Sun, 03 May 2026 20:02:00 GMT"
     },
     {
-      "title": "비트코인 기술적 분석, 8만 달러 부근의 주요 돌파 구간 시사",
-      "source": "Bitcoin News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHBRLU4tYUlienR4ZHRCc0RhZnNSR043MGFuOHh4WHViOXRHaDh3RDVEQjJPMFFGWHBXWDZoUGlXMkt2QkIyZzM4ekpZaERtNnFkR2M4eldZM0p6c2JxWkZwTW9XZGo2LXN3azFwRXpJcEduNVo2am5zektsVW9wUDRWT3oxN1RJRjRNSlBYb2h1Vkx1Qk9DZzdTaVJ0TGhWc2c?oc=5",
-      "publishedAt": "Sun, 03 May 2026 19:23:32 GMT"
+      "title": "\"클럽 대신 미사\"…뉴욕 Z세대 새 '핫플'은 성당",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HSVVJZWVSS2l0QkFnY1d5Wlg2SmVXdHpOYWJtZXVqNnRkQmI0dklVa3VvUnctY0lpWXZ6Z1M1Q3dKUUpoTEVPeVU1cjNTa2FEcXhHbWlBYVE4WTjSAWBBVV95cUxOTFRucUhYRmNMeUJjVEMxUmdETWxiTk5rZ0lsZ1p1NUU2VENSd3pCcno1Q25WOWcxTVZMdHJQZG5GX0JkbXpUbzdrXzBCNTdDWWFBSjltQWpXUGd0QjN3UFM?oc=5",
+      "publishedAt": "Sun, 03 May 2026 19:46:32 GMT"
     },
     {
-      "title": "위기 인정한 Xbox, 4대 핵심 전략 발표",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRlRucmE0WUt1WkJYbGd3Tm50alQwSmRUVUtMck4wOEVoUExyWEFfczJKYVRtcE1UbURzZkxmSl92WFRMWG5fTEozYy01Ny1weVIyMkJzeEFaTWp2d2c?oc=5",
-      "publishedAt": "Sun, 03 May 2026 18:44:24 GMT"
+      "title": "[오늘의 주요일정] 충북·세종(4일, 월)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXeERiVjlYQ1J5alFWaHNpc050cEJmR2lwXzZEcGQyX2xCM2lsTlRHUGhpMmtuUzBzZHV4OUt0VzlodlhtakliN1BMRGtPYnFTSG5pR1JZZXlRSmxuX000?oc=5",
+      "publishedAt": "Sun, 03 May 2026 20:00:00 GMT"
     },
     {
-      "title": "AI사업 혼선에…신세계 전략실 대수술",
+      "title": "[오늘의 주요일정] 전북(4일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Cd0pKclRfOGZfX3pPT1JIdXNSTnhKT0NERTk1QlphVWFjNmZ3Yy1veXBfbGxtVHdoYXMxZFRaX2ZKSkN4REhSbWwxN0tiUlZua3NV?oc=5",
-      "publishedAt": "Sun, 03 May 2026 19:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GMEY4blRrOTRoNmhuek5IOHRBbVRhd1hBWURGQXRjRmdTUjhyTTQweEFXRl9IX1Q5VlVYT1p3SVZxdFYydFVZWGIzeWJ0ZFUwbGpB?oc=5",
+      "publishedAt": "Sun, 03 May 2026 20:01:00 GMT"
     },
     {
-      "title": "베선트 美 재무 \"이란 경제 질식…'분노 작전' 봉쇄 전면전 확대\"",
+      "title": "[오늘의 주요 일정] 경기(4일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kUVNNN2ZqY2VKMWZnaHlqM0RyUzRQdWNLaU5vd3FYSnBFbk1TN2Z5WTF5LUljd0tBTHQ2aVB6VzVuTDJRSGR6U2FkbVQ3amU2ZEVz?oc=5",
-      "publishedAt": "Sun, 03 May 2026 19:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBISFVsclNFLXhVaXhBa2xHVHRiN3NXenFSU043TWxKNjV2MkRMeEh0OURsdG8yX1h6WnFLMUVjV3VwOVJDY0otYTRUU3dUWE5XdjhpTi0tRXNYaktYQk9LYw?oc=5",
+      "publishedAt": "Sun, 03 May 2026 20:01:00 GMT"
     },
     {
-      "title": "국내 부동산 투자 상품까지…상장리츠 거센 충격파",
+      "title": "[오늘의 주요 일정] 울산(4일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xQmUxM1dMTFJsUjU3QTNjYzRBZTBSNVRyek1vVURRWTRaY24wb1lGV2tMVnN4ZWlNNGptM2NTV0ZULVdQcXNpdy1fVUhpU2RpNEtz?oc=5",
-      "publishedAt": "Sun, 03 May 2026 19:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tMUtwQWdBMDN6cS1ZQ0o2X2sxeExLT1B5aFFGdVB5b1JxMFExMkpHYkdmTHpIREwxcnpoLXJxcGhmU3UtU0trZlV2SV9GUGh1NF9B?oc=5",
+      "publishedAt": "Sun, 03 May 2026 20:00:00 GMT"
     },
     {
-      "title": "공항 다음은 철도…'요금 현실화' 압박",
+      "title": "'궁극의 해커' 미토스, 세계 금융시스템 붕괴시키나 [앤스로픽發 AI 디스토피아 ②]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xV2ZwTkFkNmxaOWVwUTVvaFhiUl9rWFI1empvbnVoaHdhNmtHUWU2NkhTSGt4UUw2X0U4czBER0NqOVQwLThnUm1HdXduNDlOQm9Z?oc=5",
-      "publishedAt": "Sun, 03 May 2026 19:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PUWhPZHAtbEo1b0ZZcFc5MHN3dGFJY2xURUlmZGFwVlg1cDZRQ1dORGZTcWVSb0JsOV80SE80Tk9hVTFlRHItUWFTLURpa25Tc29pb2ZKNnVjSHVERVBJM1o2SHdsY0g4TXBTQ0pOLUYtSzhpUjRHMg?oc=5",
+      "publishedAt": "Sun, 03 May 2026 20:01:00 GMT"
     },
     {
-      "title": "에이플러스에셋 지분 작년比 2배…보험업권, 행동주의 반격 나섰나",
+      "title": "[데스크 시각] 시장개편, '빠르게' 보다 '안전하게'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00bXNhRHhkUFpjWTNJc0Z1NkJGMkNRaTdDVFk5anVyRll0a19hMkZxMUlER3VRVE5VNVpxem8tZk1hTDZ5U3o4eFhmNGllMDZxM0R3?oc=5",
-      "publishedAt": "Sun, 03 May 2026 19:04:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wb2w4Q2EyWjlCbG5oeV9zRVJtVWhFUHM0LVpKU3N0ZUlFOERYZDBOM0FNYVlBQ1FqbkExNDFBa0NNMFpqaXhrdmQxdC10aEJESnJz?oc=5",
+      "publishedAt": "Sun, 03 May 2026 20:01:00 GMT"
     },
     {
-      "title": "연준, 방향 상실 위험…\"이란 전쟁으로 금리 가이던스 무력화\"",
+      "title": "산업계 덮친 '경영쇼크'…기업 목소리는 멈췄다 [위기의 기업, 길 잃은 목소리]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDLTB0R1JoOEtfZGk2RXI4dUpBS0xNT0ZTSVdGNDhzWHRLb0JXR1o5cEpEVVgyTWFLT3lRb1l6NHRvcUV6WEtxc3I5aVYzdW1ONElR?oc=5",
-      "publishedAt": "Sun, 03 May 2026 18:39:00 GMT"
-    },
-    {
-      "title": "美, 이란 새 종전안도 사실상 거부",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRGxTSXRIeTR5dkt6MWJZWWZQXzd2dDNWN09VR1RmaTRWb1U3dHB2UTFNWHNXT1J3SWF4Y2Izc2t4NnBTazlWRE9LM2FIbDl6OC04?oc=5",
-      "publishedAt": "Sun, 03 May 2026 19:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GQV9JUFhLR3didmxZczFkUV9aUVU2X0Rqd2JnUHlneTBCVksxU0Z4cUtEZkRJQm9Cdm9oTUQ0dmNIeDh4MUdIX1RBb2psUVMyQk5R?oc=5",
+      "publishedAt": "Sun, 03 May 2026 20:01:00 GMT"
     }
   ],
   "sources": [
