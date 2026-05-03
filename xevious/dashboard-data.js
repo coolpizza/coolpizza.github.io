@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-04T02:37:19.565950+09:00",
+  "generatedAt": "2026-05-04T03:32:06.091532+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "9.1°C",
-        "feelsLike": "5.9°C",
+        "temperature": "8.9°C",
+        "feelsLike": "5.8°C",
         "highLow": "최고 18.8° / 최저 7.8°",
-        "humidity": "75%",
-        "wind": "13.5 m/s",
+        "humidity": "73%",
+        "wind": "11.6 m/s",
         "rainChance": "100%",
-        "pm10": "5.3 μg/m³",
-        "pm25": "5.0 μg/m³",
+        "pm10": "8.4 μg/m³",
+        "pm25": "7.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-04 02:30"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-05-04 03:15"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "8.7°C",
-        "feelsLike": "4.8°C",
+        "temperature": "8.3°C",
+        "feelsLike": "4.9°C",
         "highLow": "최고 18.0° / 최저 6.5°",
-        "humidity": "79%",
-        "wind": "18.8 m/s",
+        "humidity": "81%",
+        "wind": "15.4 m/s",
         "rainChance": "100%",
-        "pm10": "5.3 μg/m³",
-        "pm25": "5.0 μg/m³",
+        "pm10": "8.4 μg/m³",
+        "pm25": "7.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-04 02:30"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-05-04 03:15"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "8.5°C",
+        "temperature": "8.1°C",
         "feelsLike": "4.7°C",
         "highLow": "최고 19.1° / 최저 6.5°",
-        "humidity": "78%",
-        "wind": "18.1 m/s",
+        "humidity": "79%",
+        "wind": "14.9 m/s",
         "rainChance": "100%",
-        "pm10": "5.3 μg/m³",
-        "pm25": "5.0 μg/m³",
+        "pm10": "8.4 μg/m³",
+        "pm25": "7.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-04 02:30"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-05-04 03:15"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "10.1°C",
-        "feelsLike": "6.6°C",
+        "temperature": "9.8°C",
+        "feelsLike": "6.7°C",
         "highLow": "최고 18.2° / 최저 8.0°",
-        "humidity": "80%",
-        "wind": "18.9 m/s",
+        "humidity": "79%",
+        "wind": "15.3 m/s",
         "rainChance": "98%",
-        "pm10": "8.1 μg/m³",
-        "pm25": "6.6 μg/m³",
+        "pm10": "7.9 μg/m³",
+        "pm25": "6.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "80",
-        "updatedAt": "2026-05-04 02:30"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-04 03:15"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-04 00:59:12",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-03 18:00:26",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[투데이窓]중드와 중티 그리고 OTT와 키치",
+      "title": "마이크론, AI 수요 폭증에 매출 급증",
+      "source": "초이스스탁",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10ZktfakgxWmlYdkJuaU5MY0FtenpmM1NWMnVxUlp0WVRpdncwbmlpTUVBN1BoVndLWDZqNXhzTmlSZVVxVEdudVJFSDdTV1lnVm1nV2VuYUdwSFFSZXh1dmR1M2psRmM?oc=5",
+      "publishedAt": "Sun, 03 May 2026 18:00:00 GMT"
+    },
+    {
+      "title": "트럼프 \"이란 제안 수용 불가\"",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBncHRVNHhOQW5PaXd3ZER3LUdRcmRaeUNhNER3aTFGWkpESzdyd29QSEVpYTZWVV92Mmtuc0ZMSF9MY25pVUVqQUpMSVhNQ05h?oc=5",
+      "publishedAt": "Sun, 03 May 2026 18:03:39 GMT"
+    },
+    {
+      "title": "19세 대학생, 경차에 친구들 태우고 음주운전…전복사고로 조수석 1명 사망",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xQ3hldDdxOEtZOHZZX0o3c0lZaDU5N082TWh6V1c0amZVVnFhb2ZLZXZVTkpudUgxeWVxempnUThYM1pGR0ZCQzZ6UUx1Y0dUQnhYa09iRXdwcWthVjVqaGZVMmE3Y1RWdkgybnJ0TVFfQWZQTGotLQ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 17:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNFIzWXd5c0ZlaVl1RHM2ZFFVdFpGbS1mSnZGVndiTndpamxfbms4c0hqaGhZbENBMDdMZXJqWU9zemduYXpCNmM3R0lndzUzSEY0?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:46:00 GMT"
     },
     {
-      "title": "마비노기, 약 20시간 공개 LIVE 통해 이용자와 ‘진심 소통’",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXRWJ2LXc3aGtlalJULTl1cVF3ZVZjaGQ0QU51TnFZRlZXVE1ncjZieDFVSF9ua2hTRzVTWk5peVUwd2pwcmV0bW04M1BmdE1BWlIyOHZFQVZDSVFqa2c?oc=5",
-      "publishedAt": "Sun, 03 May 2026 16:52:33 GMT"
-    },
-    {
-      "title": "정청래 '하정우 오빠' 발언 논란에…\"아이·부모님께 송구\"",
+      "title": "'90㎏→70㎏' 강남 \"4개월 만에 감량…'♥이상화' 태도 돌변하더라\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYS1NlblZWNnZZUnozWGlQckxzT0g2TGdjYk4za04xSXNfdVdnZVN4X2lTWkVkWVpfTVo1QkdyOWxMcEFmaFV6aVZRUzVFU3ZWb29n?oc=5",
-      "publishedAt": "Sun, 03 May 2026 16:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GOVM0WFU4OFhkbEVHQXpYTEZSOFNnNDFsUGRITUFKcnctcHZxRzNhX3VGYWxzaThELXlPWWlON2JEZzR2RzJseDMzREduSDVPV2JV?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:41:00 GMT"
     },
     {
-      "title": "바닥 친 남편 '1부 승격' 도운 '내조의 여왕'…카리우스 아내 감동 메시지 \"당신의 나의 용기\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qNE9yUGZkZXV6U2w2UW56OGJuNFBCNkd5dWtMS3E5bjk3UUVuR1dqLXJLNDdXODlwM0lDTV9hTXUzaktZdzFHZXhpNUNSQVdqY0NGdWRzdmQ0ODNV?oc=5",
-      "publishedAt": "Sun, 03 May 2026 17:01:00 GMT"
+      "title": "킨텍스 “제3전시장 건립 특혜 의혹은 가짜뉴스” 강경 대응",
+      "source": "기호일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zTE1qN3pUdDlGZ2hqMVBJTV83aVJyekdQUmVmOUZoaFY1SEFTeGZzMGxodHBscmpJRWprZ2JZNjI5ajlic2hUWldLUnpFU2hleV8wcUs0TmJRSnAzcW9QV0NuOXBxc09uSGNTS2Rsaw?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:40:34 GMT"
     },
     {
-      "title": "월드컵까지 한 달…황인범의 시간은 올까",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAydER1M0FPSEV4SWM2NmJ4dEtTU0ZIRHM2eHZWcnVWMWprUHEtcmd0LUdsclNqZVQ0WElvckp0OFVTNjdoU0RJS0pXME5Yb2ZhU28wNjAzd0VDMGlv?oc=5",
-      "publishedAt": "Sun, 03 May 2026 17:01:00 GMT"
+      "title": "이란, ‘14개항 종전안’ 미국 답변 검토중… 교착 국면 타개 여부 관심",
+      "source": "dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TzdSdENxZEYxd0JYbVZJc0IwbUdpd3JzNVRkaTNsNG80Si01NzZBMVN0UzNFakF6Y0Y4X05FUF9XQXFkbGhhQ1E3RmY3SlViN1hVNzR2NU1QR00?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:58:11 GMT"
     },
     {
-      "title": "서울시, 이륜차 소음 상시 단속…“평온한 시민 일상 지킨다”",
-      "source": "bvba.org",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80STlDdTR0MXUxaU9uZEVmdXJvLUxIY3Z0T0hqR1dULVFIZGVJU0kzT2h2Z01PUlJDMVlUbXNLU05EOUZnNTBNTUhoSUFNSlBEN24zREdkSTluVXpITGdBbE9zaEUxZkViR2RzS2Z3?oc=5",
-      "publishedAt": "Sun, 03 May 2026 17:01:13 GMT"
+      "title": "AMD Ryzen 9 PRO 9965X3D 유출, 첫 16코어 PRO 3D V-Cache 모델 가능성",
+      "source": "위클리포스트",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nUE5HWHNNWWZFenVqTVg1LWVFXzVmSEtmaFE5Mlg1bTRuem9oMF9NVmFjU0VuRHVCRUJoOGlxQVVnVXZQVUtXQXlrNGpKejdqNV90dUFNbjhqbkhfQTZLLWpFcW5MT1hCR0Q4?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:17:49 GMT"
     },
     {
-      "title": "'인간 승리' 두 다리 잃고 金 4개 신화 썼는데…안타까운 사망 \"가장 존경받을 인물\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VS09yNVFkV1ByLVVPSFR4aWFGbjFVZnM2N0h1TTMzV1pyQzhDWTgwVmFNZ2l3S0JrQlBVVTN0cmN6emtUeVl4RjlMRDViX1BOcFVpZ0VyQjhLM0k1?oc=5",
-      "publishedAt": "Sun, 03 May 2026 16:58:00 GMT"
+      "title": "창조자 The Witcher 3 새로운 RPG 게임들을 장르의 근본으로의 회귀라고 불렀다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUVJwLUE1THN3S3lEZktudjNWaHVoeFhNeVVFY29ZU0J6MmJvZnlRSGlqN1BxUURUMzNzRXFPc3J3dVg1SDdvR09GSFZBeHBPY3MxenlLYktkamhDejh0bTZxYjZRNFl5VHdsNWtiZ2V6T19aWl9ienVZSlVqdDl6WVVPdlpQcXR6d0pFSmN2MmFhN3kwR2ItOExUS1gxa1hKVlIzNzNKalY?oc=5",
+      "publishedAt": "Sun, 03 May 2026 17:09:16 GMT"
     },
     {
-      "title": "[MT시평]식약처, 규제 병목을 완화해야",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mQWhyU0cwSDFLZWRwZjRFRTY4MFp0eTIya1RkMzJWRFNuVjNBLWoxcHdwRjBhSThEcnBtQ3ljNUtiUzNJQUFVRUhWLXdHTlJwMHpN?oc=5",
-      "publishedAt": "Sun, 03 May 2026 17:00:00 GMT"
+      "title": "NTE 네버니스 투 에버니스: PC GPU 및 CPU 벤치마크",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOendhV3RBbmU2cDhDa0tTMFBlRUVZeFJ0ajVEVFkzUVdibTMtcTFnTlYteVFSUWhZMFhMRzF6bEhPcUtveEJMZmN4TUZfWTM3MGdyMnduOXd0UmJnb3VldG5HVldiV2FMc05NSl96cVRrZ2IzMDB3VHJ1eHR5bkx5TGRpRll1ejFieDV2VkR0ZEZ4Z3lhQWlEUFU3Y3dMSnZSR1JQdDdFOV8tdXJmb1Rz?oc=5",
+      "publishedAt": "Sun, 03 May 2026 16:24:37 GMT"
     },
     {
-      "title": "[사설]중국전기차 공습, 정책적 방어막은 허술",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJa0wyeVZsWWEwYXJvcUNDeFNtVGg5Y1FaVkdrZWtoXzNMTWJOSThCZnVMSU1Ia09oMHk4RTc1NWpaZ0JVT1k3SVBNc0RtRUdzRlNz?oc=5",
-      "publishedAt": "Sun, 03 May 2026 17:00:00 GMT"
-    },
-    {
-      "title": "'다리 절단 위기였는데' 스키 여신, 목발 짚고 하이힐+붉은 밀착 드레스 '3개월 만에 대중 앞에 섰다'",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EbW56STA1UXVtbGtKTTJqY1RyakFsV05GZHVLSTN3VUdUZFQwUkZRUlhHVkp3YmpUUHhpS2Z5SWgzaVZzV2JwOExUZTBPMW83Z0ViY2dMeU44eGdJ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 16:51:00 GMT"
+      "title": "“다이어트 성공하려면 ‘이것’부터 끊어라”… 비만 보는 교수의 조언은?",
+      "source": "헬스조선",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmanM4WFpPdk92LTV2cktPOEVSMnhMbm16Z3I4WVpGT0N5MWZCWDBpWWNPS3JSd2xyc3NvNGlfMWFoZ2hIS2NTRHhTX2l6dDdnWjRrRURCckM4V2ktcjE2bDczaVpRNUY2MXJnSjhZSElPWHNwVVE?oc=5",
+      "publishedAt": "Sun, 03 May 2026 16:00:00 GMT"
     }
   ],
   "sources": [
