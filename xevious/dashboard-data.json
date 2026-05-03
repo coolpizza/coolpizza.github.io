@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T13:14:22.304854+09:00",
+  "generatedAt": "2026-05-03T15:37:50.535433+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "강한 이슬비",
-        "temperature": "12.8°C",
-        "feelsLike": "12.7°C",
-        "highLow": "최고 13.0° / 최저 10.9°",
-        "humidity": "90%",
-        "wind": "3.6 m/s",
+        "temperature": "13.5°C",
+        "feelsLike": "13.1°C",
+        "highLow": "최고 14.4° / 최저 10.9°",
+        "humidity": "82%",
+        "wind": "4.3 m/s",
         "rainChance": "100%",
-        "pm10": "31.7 μg/m³",
-        "pm25": "24.7 μg/m³",
+        "pm10": "21.0 μg/m³",
+        "pm25": "16.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "93",
-        "updatedAt": "2026-05-03 13:00"
+        "airQualityIndex": "91",
+        "updatedAt": "2026-05-03 15:30"
       },
       {
         "location": "김포",
         "summary": "이슬비",
-        "temperature": "12.4°C",
+        "temperature": "12.5°C",
         "feelsLike": "11.9°C",
-        "highLow": "최고 12.6° / 최저 9.9°",
+        "highLow": "최고 13.2° / 최저 10.0°",
         "humidity": "94%",
-        "wind": "6.8 m/s",
+        "wind": "7.7 m/s",
         "rainChance": "100%",
-        "pm10": "31.7 μg/m³",
-        "pm25": "24.7 μg/m³",
+        "pm10": "21.0 μg/m³",
+        "pm25": "16.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "93",
-        "updatedAt": "2026-05-03 13:00"
+        "airQualityIndex": "91",
+        "updatedAt": "2026-05-03 15:30"
       },
       {
         "location": "파주",
-        "summary": "강한 이슬비",
-        "temperature": "12.5°C",
-        "feelsLike": "12.0°C",
-        "highLow": "최고 12.7° / 최저 9.8°",
-        "humidity": "93%",
-        "wind": "6.6 m/s",
+        "summary": "이슬비",
+        "temperature": "12.7°C",
+        "feelsLike": "12.3°C",
+        "highLow": "최고 12.9° / 최저 9.8°",
+        "humidity": "91%",
+        "wind": "5.4 m/s",
         "rainChance": "100%",
-        "pm10": "31.7 μg/m³",
-        "pm25": "24.7 μg/m³",
+        "pm10": "21.0 μg/m³",
+        "pm25": "16.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "93",
-        "updatedAt": "2026-05-03 13:00"
+        "airQualityIndex": "91",
+        "updatedAt": "2026-05-03 15:30"
       },
       {
         "location": "익산",
         "summary": "약한 비",
-        "temperature": "13.7°C",
-        "feelsLike": "14.2°C",
-        "highLow": "최고 14.8° / 최저 11.7°",
-        "humidity": "92%",
-        "wind": "2.4 m/s",
+        "temperature": "15.0°C",
+        "feelsLike": "13.9°C",
+        "highLow": "최고 15.0° / 최저 11.6°",
+        "humidity": "86%",
+        "wind": "13.0 m/s",
         "rainChance": "100%",
-        "pm10": "38.0 μg/m³",
-        "pm25": "36.3 μg/m³",
+        "pm10": "38.9 μg/m³",
+        "pm25": "36.9 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "90",
-        "updatedAt": "2026-05-03 13:00"
+        "updatedAt": "2026-05-03 15:30"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "현대차그룹, 美 'US 뉴스앤드월드리포트' 7관왕 석권",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hbTJOaTZFSWJ3bDg1em9uU0E4eWo2TGNtRUIwUS1VWmtPTExTTjZTTDdZTDNtUk9kU3dyZmQ1eURpN3dzRnRwdWY5S0JZZw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 03:35:13 GMT"
+      "title": "HMM 본사 부산 이전 ‘노-사 합의’",
+      "source": "해양한국",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RRWxUV2xBZ3ludXBYZlhDa0U1SVY3VzM3RDNWc3pfd1JVME9pOEFzM3l4OUl4T0o3eGloclRRZHk0TEkwZ3ZXcTRKRHlMYk1pdjhjdFRfcjVXdnVCbWpZUFlZZWdYTm9Gb3FRWWhNenRzbkZad2lTNnh3?oc=5",
+      "publishedAt": "Sun, 03 May 2026 06:20:09 GMT"
     },
     {
-      "title": "한동훈, 부산 구포시장서 시민들과 인사",
+      "title": "[포토] 이호준 감독 '한석현 굿잡'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94WkxJYU5iQXAtQ0JvZld5ZEh6T1FucklSLVE3WktpUGJfVEs1YXVEbHdTcE5XZ3B1S19qZWwwUzRXMVloM3ZYcDdyRkVRczR4aVZv?oc=5",
-      "publishedAt": "Sun, 03 May 2026 03:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYamJpWWR3NTJGRjVMV0F6V2hHeU9qNlZ3UzhDNzRtY2FUUkZ2NTgtZU91WXRQekJhMzBfbVloMWk3V2hoMDRtNU1qT19HUUFMRDEwcV9ZeHJmeEVhaEhQYmxGdmgwcllJR0ZZN3hIN0JzS1pOX0dqTw?oc=5",
+      "publishedAt": "Sun, 03 May 2026 06:29:00 GMT"
     },
     {
-      "title": "구포시장 찾은 한동훈",
+      "title": "[포토]'양의지 타구 직접처리' 키움 박준현",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByd0o2NGlISkJOYjNDTjRXNlFSSmhVWVREWS04SVFXZVFDMWNEN3NPNVAxWHZtZllXTU4zZ0ticGFGZFI3S1BwOTFxZXFOOF8ySzdz?oc=5",
-      "publishedAt": "Sun, 03 May 2026 03:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TaWo3R2U5dmZNNHQzcHZyeTZlUno3RDVNbk5kc0ZCZHBXRFhHV3NDaGdadHNvY2xDMlVTQ19CZW1YT24wdjhOek9SNlNvaFg0VTBmVlNR?oc=5",
+      "publishedAt": "Sun, 03 May 2026 05:58:00 GMT"
     },
     {
-      "title": "국내 증시 '1조 클럽' 첫 400곳 돌파…시총 6000조 시대 열렸다",
+      "title": "6개 행사 이어지는 '2026 판타지아대구페스타' 개최",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0ZEFWS0gyN1ZoanJuZlZRUmFUaWZTbVZ4ZjRvYXV3aVAtMC1wQmtDUDZ2Zm5EQkI3OUxsX1NNckE4T2xKNVVQWVN2ZHhSeU1kaDBXajJBT3FBZmRndEloOA?oc=5",
-      "publishedAt": "Sun, 03 May 2026 04:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2ZDBzWWdWUmx3bWhpbHBmMVZXSks1NmZBY1k1RVJ0VEZiaXZKVlNXSEdwa05WMXIxNXdjbnVIMXQyQzhWa2tnZlV0MlphX3FnR2lEVklMcjBmOU4zUTNLYmxmc2g2LVYzNTl2NW1ieVpuWUFyZ3RrUw?oc=5",
+      "publishedAt": "Sun, 03 May 2026 06:32:00 GMT"
     },
     {
-      "title": "[포토] 구포시장 방문한 하정우 전 수석",
+      "title": "\"숲에서 즐기는 특별한 어린이날\" 안면도수목원으로 떠나는 가족 나들이",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XV3UzNktXUHUyeGNqSnlaby1zZHZLMXg1eFRVeGFsRXd3dERIZW82eWNLNXhxRVpSdkJoMGpUaVlXNHNuUHZNZDhYTGc3TFNXRmNJ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 03:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Y0NTWEtJbTZjVDRZdy0wOS1va2dzYXRKeXhJdXN6TkdRNlpOZUx6ZUhjdjNhbHB5MkNPcjJuNXFSQy1oQUJVa3cwYmJ4VC10ekxXakRubWptZC0zNHRfREZyZHcxdlk4bFFWdFlFT0NBMFczNnFQNA?oc=5",
+      "publishedAt": "Sun, 03 May 2026 06:32:00 GMT"
     },
     {
-      "title": "여야 충북지사 후보들, 연휴 표심 잡기 '총력전'",
+      "title": "[포토]'4회초 2사 만루에서 강판' 박준현",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrY3JXQmNDaDZtRFZYcUpwUTUzTDVLUWZZSWZqbzZHSWYyMm9PQmN2bHU1VWFHY1RoLUtSV1RqVHZJMldCSnBUejRwMVg0SXRIT01j?oc=5",
-      "publishedAt": "Sun, 03 May 2026 04:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pa3dVZ2xkb1pmT2xSMDlHb0c2NGd1WUxpbDJUSVA0cGh6ME9XajhmNTdCWGdLdnpfZXVCT0xnTzFhbC1NTE8yM0NSdmRhUGZnS29HOXlB?oc=5",
+      "publishedAt": "Sun, 03 May 2026 06:28:00 GMT"
     },
     {
-      "title": "[포토]'오늘도 힘차게' 두산 양재훈",
+      "title": "정청래, 부산서 지원 유세…\"하정우 관심·호감 기대 이상\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uSC1EMW8zMnZFcGxPb0txOXI0TkltLWpDQmhwVmJ6WEp0Mnh5M1lPdURBSkQ5UDV6azg0Wjc2eHlZcUt6TURBTFZxaXZrcWJiWVlmQkozYzJGejNMVHp2T0pNUVZKa2xyV3c?oc=5",
-      "publishedAt": "Sun, 03 May 2026 03:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1WHJUb2tRd01vanN6TV94Sl9TdV9qb1o0X3BnVzJkTllzcDZseTUxU0VSeVJJZFRPU1hma1pHVVZCU0JCMjBGTjlyWV9Yd3NFMlA0?oc=5",
+      "publishedAt": "Sun, 03 May 2026 05:44:00 GMT"
     },
     {
-      "title": "KT, 가정의 달 맞아 온가족 혜택 선봬",
+      "title": "[포토] 아이들 소연 '승요 데뷔 실팬가'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96c1VRd09BUTJZZUZHVlg4ZmJnaEt3WTVDRFdEUzZkNHhkT01uTDhMaDhHNGhIdzR6dVpfdVBJdl8zVmsyVUZaX2s4emlYR0JXNzJj?oc=5",
-      "publishedAt": "Sun, 03 May 2026 04:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wVGdodzR6cG8xY2lob3JuQU4yVDdZV2FIdGRkcmxnSWE3cUtOU1kydHRGT09meTY5ek50RndmMWRJRlJKN211YXRzdnlxZEhySzFB?oc=5",
+      "publishedAt": "Sun, 03 May 2026 05:44:00 GMT"
     },
     {
-      "title": "송언석 \"6.3 지방선거는 李 대통령 공소취소 정당성 묻는 선거\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5adEpnTFQwdHR4ZlV3akZZQmlCVlBua2tMZDY2RXh2ek5qTUVJNFNxWFdXX3FkTXpEMHBUTTBuTG45TkVRSGIzYUgwM3g4cnlodEpr?oc=5",
-      "publishedAt": "Sun, 03 May 2026 03:50:00 GMT"
+      "title": "OptiScaler Client에 Linux 지원 및 새로운 스캔 필터가 추가되었습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0F6R2lEVXIwbVhlMUdmWFhJX29CV2NqN0tmTHFEVnU3WVpDZEhTem0tLVoxSlhWY3NjcS1mczJTd2g0MHR0dkhGTkFOSVg4LWRIeERLdHhJcVFCLVh1MEJqd25wbUMyVVYwbUFmblUyX2c5QkU0NEZIQ2Q3MGJ3LUdUMXNESG9wYS13T1U3MTJ6SS1sSzBlcVdWVjg4dzU3d1JoMkpZRkNhUQ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 06:20:16 GMT"
     },
     {
-      "title": "與, \"조작기소 특검법은 '죄 지우개' 아닌 '진실 돋보기'\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JeHBaTmhlVHhRNTRMTGVuRDJJSGxHM2txaHJNdWJGODR1Y0NEODBJVThUcmpXZ1hhRG1adGlqd2h5NFBEd0RJdUhmSDNEQWNPaHhZ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 03:49:00 GMT"
+      "title": "각 플랫폼들이 그랜드 테프트 오토 6 출시 전 판매량 증대를 위해 사전 예약을 시작했습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmdxNjN3eTJ3bE5jU1c3cjdIdTVWSjctZ3ZVanpHQ2VBU19iZTA0aHZwNmEzNURjOVNYUmd4YlBVSWI0bWtYdWlmbkVuS3ZQX2dPTFNGU1VXUjY4VzJiYVhtRDRvQVpVMERxeUEtT1JhVW1aWVdvOXI5TFZBX1F3RTExYWhiczVLRXhRSXdhZGN0VUgxRDBQOE5DYUhnOTFCR2lZQzNCZGl4ZDltUEE?oc=5",
+      "publishedAt": "Sun, 03 May 2026 06:11:29 GMT"
     }
   ],
   "sources": [
