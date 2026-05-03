@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T21:03:10.259810+09:00",
+  "generatedAt": "2026-05-03T22:22:13.698938+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,63 +67,63 @@
     "areas": [
       {
         "location": "서울",
-        "summary": "약한 비",
-        "temperature": "11.6°C",
-        "feelsLike": "10.7°C",
-        "highLow": "최고 14.4° / 최저 11.1°",
-        "humidity": "91%",
-        "wind": "6.8 m/s",
+        "summary": "비",
+        "temperature": "10.9°C",
+        "feelsLike": "10.1°C",
+        "highLow": "최고 14.4° / 최저 10.9°",
+        "humidity": "94%",
+        "wind": "5.2 m/s",
         "rainChance": "100%",
-        "pm10": "21.9 μg/m³",
-        "pm25": "19.6 μg/m³",
+        "pm10": "19.9 μg/m³",
+        "pm25": "18.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "86",
-        "updatedAt": "2026-05-03 21:00"
+        "airQualityIndex": "84",
+        "updatedAt": "2026-05-03 22:15"
       },
       {
         "location": "김포",
-        "summary": "약한 비",
-        "temperature": "11.2°C",
-        "feelsLike": "10.2°C",
-        "highLow": "최고 14.0° / 최저 9.9°",
-        "humidity": "95%",
-        "wind": "8.0 m/s",
+        "summary": "비",
+        "temperature": "10.8°C",
+        "feelsLike": "9.3°C",
+        "highLow": "최고 14.0° / 최저 10.1°",
+        "humidity": "96%",
+        "wind": "11.2 m/s",
         "rainChance": "100%",
-        "pm10": "21.9 μg/m³",
-        "pm25": "19.6 μg/m³",
+        "pm10": "19.9 μg/m³",
+        "pm25": "18.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "86",
-        "updatedAt": "2026-05-03 21:00"
+        "airQualityIndex": "84",
+        "updatedAt": "2026-05-03 22:15"
       },
       {
         "location": "파주",
-        "summary": "약한 비",
-        "temperature": "10.9°C",
-        "feelsLike": "10.0°C",
-        "highLow": "최고 14.3° / 최저 9.7°",
-        "humidity": "96%",
-        "wind": "6.5 m/s",
+        "summary": "강한 이슬비",
+        "temperature": "10.5°C",
+        "feelsLike": "9.3°C",
+        "highLow": "최고 14.3° / 최저 9.9°",
+        "humidity": "95%",
+        "wind": "8.4 m/s",
         "rainChance": "100%",
-        "pm10": "21.9 μg/m³",
-        "pm25": "19.6 μg/m³",
+        "pm10": "19.9 μg/m³",
+        "pm25": "18.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "86",
-        "updatedAt": "2026-05-03 21:00"
+        "airQualityIndex": "84",
+        "updatedAt": "2026-05-03 22:15"
       },
       {
         "location": "익산",
         "summary": "약한 비",
-        "temperature": "11.8°C",
-        "feelsLike": "10.8°C",
-        "highLow": "최고 14.4° / 최저 11.1°",
-        "humidity": "92%",
-        "wind": "8.8 m/s",
+        "temperature": "11.4°C",
+        "feelsLike": "10.3°C",
+        "highLow": "최고 14.4° / 최저 11.4°",
+        "humidity": "94%",
+        "wind": "8.7 m/s",
         "rainChance": "100%",
-        "pm10": "33.3 μg/m³",
-        "pm25": "29.5 μg/m³",
+        "pm10": "30.0 μg/m³",
+        "pm25": "27.2 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "89",
-        "updatedAt": "2026-05-03 21:00"
+        "airQualityIndex": "88",
+        "updatedAt": "2026-05-03 22:15"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "OPEC+ 7개국, 6월부터 하루 18만8000배럴 증산",
+      "title": "미국인 62% \"트럼프 국정수행 지지 안해\"…재임중 최고치",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JcWlUZlBLbUdQajR4bTFaLW9pcnN6dHdVQ3Jwb3hkb3dFU0lHcFVHV0xaN0VaaDA2TXRIWEZHb2RVOUFWR1RKOHdOM2R2WDU1WW5TQ2JFcUNCeW11MWtUeWF6alp1d2dsNVFDRmM2eVNnc1hIUWFaSg?oc=5",
-      "publishedAt": "Sun, 03 May 2026 11:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MOUc4SEk4TmJWYXRsZG9Sd3oyaV81Q1NfNHh0alczQXNway1IRFoxbFFzNVQ2OGk3U1l0eUFOSEt2enJhVVMzdEhtOEVRanVWX1hr?oc=5",
+      "publishedAt": "Sun, 03 May 2026 13:10:00 GMT"
     },
     {
-      "title": "\"반도체만 챙기나\"‥삼성 비반도체 조합원 노조 탈퇴 잇따라",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfUEFlYmgzNFFBZXNqaWh3cjN4QS0zdHVLWjdMX01UdjB3eHk2RUtRXzkyVkY3V3Fzb1ladFBoakFUcWZhcF8xUTc4RzNaRmxtaVlab2NQdWRVaGtra1FkcG5JZ1hKdXZTXy1vVFMxZFppa05xNEQwT9IBeEFVX3lxTE96YWVNQkxhOTU2UEJZTi1HVVJ6MG1GeE50RXFEc1g4bUxhUThNTDZ3VW5rZnhHOFEtM21TUzctYWpIcjhTS252YnhmTUt3V3Y0Z1I5TWprWktzMW16RjFiVnpsaXE1dDNvRU1UcFRJODRjc0hLaWdsZw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 11:14:48 GMT"
-    },
-    {
-      "title": "국내 금융권 'AX동맹' 띄운다",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zVlV2Ykp6b0tjeEVUVHY2c1F4ZjNzUHc0T2lHb0RGbWU3OGVjYVkzODVDUG5BY3FUYWE4MXhtZUU2UkZqTTlTd0N3VjBpeEVnZm1VSXlXNGs2R3lmSGdKaw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 11:08:32 GMT"
-    },
-    {
-      "title": "\"어린이날 또 와요, 신나는 놀이동산에\"[포토뉴스]",
+      "title": "아세안+3 회원국 \"역내 경제 하방 리스크 확대…협력해야\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rM1ltd3ZfeFhWRGRfdVU2dDZGakxQMjFQRmlibEdkU0ZBZjhxUmgyU1RkS1BuTGdncFNFMmU0LXFIcUx3ZmZLODctLWhEOXFSWGJHWUdLamNNNElyR0pUNg?oc=5",
-      "publishedAt": "Sun, 03 May 2026 11:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fdVhmQy1XOTcza1ljNVpQMGpMWFEyWDVxYl90OHQzRXBsQjRLWVR0NEYyMEFkb2NoOFNZekt0aUpIT183RDBGSWVvamQxZWJlV3Y0?oc=5",
+      "publishedAt": "Sun, 03 May 2026 12:45:00 GMT"
     },
     {
-      "title": "악수하는 정원오-오세훈 후보",
+      "title": "보궐선거 출마 '靑 4인방'…원내 입성 가능성은",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80OTdDR0FvTDZMaFoxMHZXY0JJTkdiUDR5bVZEVFVITFRzLVhJb3ZJbnRoajNlRU5yZENkRTVQZlBIVDRjTUxUVXZyYzJCdUxsdGNZ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 11:38:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwZGd6SXlRaElPSW0waDRGYnJvNW1mSHRBZmd1NUgzcEF6MzN0NFZlbmlLLVBNRGw1X0dFUVM4eGNqYjVqaTY0Z3VMN1c2UTlmTEpN?oc=5",
+      "publishedAt": "Sun, 03 May 2026 12:56:00 GMT"
     },
     {
-      "title": "지방선거 한 달 앞[포토뉴스]",
+      "title": "김성주, '뉴욕대 재학' 子 민국 은발 변신 근황…\"몰래 술 먹는 듯\"[냉부해]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wNzJyMWxxLVdmREJOWnZrd21qelJZZF93Y25JNEdnbEhfUE5iQjA2Z3BaT0JuQVpIaFpTSkJLNTF6S3BGeTltMDIweVdUZ2E2aG83LW9RZlpMeG5jdWZKVHZMdVVVT1BYZFE?oc=5",
-      "publishedAt": "Sun, 03 May 2026 11:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjeEhKTHdjaWVxdm1NQjg5LU9uVjJZNkNtemJHZnMwdWlBSVpELUc2d0lrX01CRjVJLW5oYzBvWW1BRVZtUFFMTXVTMDkwMFVvRVZZ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 13:08:00 GMT"
     },
     {
-      "title": "6·3 키워드, 보수 결집·재보선·리스크",
+      "title": "이종혁, 첫째 子 탁수 대학로 데뷔에 뿌듯 \"휴학 후 알바 중\"[냉부해]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3OEIxd2VvVDhPTC0wN1piSUdoVWZKeS1aNFlVeEVEMVBfZjJoZndZZGpsOU5pUnN2MHpudWxnUlV6WnFzeEJVd244QjBuUmFhYjdz?oc=5",
-      "publishedAt": "Sun, 03 May 2026 11:21:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wZUJISkNvcmM3dms5YVY5LWVQb1pwYlN3T1dzdFNRTlJ1M2NJRjZGYjNSWHQ0ck1Xdk84VHV5dnRQRmdTU2hFM3c2LXBhQkFDZGtF?oc=5",
+      "publishedAt": "Sun, 03 May 2026 13:00:00 GMT"
     },
     {
-      "title": "충남도, 안면도수목원서 어린이날 이색 체험",
-      "source": "하나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpNHpzcnVCM2tCZjBPQVVsTzBySzFDUXVScEU2YlRqR3hvWlFMZmxfaXQzUnJqSmdJNFNBTzJyQ0x5Zk4xdlZSMzVya2czd0JpM3kyRnctVjRpd0I4YlNOal9mNXkyc0lnZWtVTg?oc=5",
-      "publishedAt": "Sun, 03 May 2026 11:57:02 GMT"
+      "title": "[Safety4 - 5부] ‘불안전한 행동’으로는 설명되지 않는 사고들, 1세대 안전관리론의 한계",
+      "source": "safety1stnews.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxU0haaTBrZ3pZUHNzb1lHbzgybU0wdGVtNFdhZ0FZeWxPcjQ2Sm4xSGt1aUNwOFRuRWZNWVp4VlE4UzlNOVRMM3BCR2paeTgzR0FELS1OUUVUakItakE0N3BnSzF4Zi0xZGVZ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 13:03:23 GMT"
     },
     {
-      "title": "[미리보는 이데일리 신문]플라잉카 상용화 나선 中, 규제에 갇힌 韓",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVlh4LWZDRVZFM042X21TbEktc3hjTk93c0M0MDFsZ0puZUY4ME9weHRpTGczMXhFb0pnUHBzTWxuM3N0NUM0a1FQUHREVzViLVhJYThrd2RRbFdfUkw0ZnBLaEFuSGczb1EtSUxpZDNMVEhOLWlkNHZDWi1xM1BoYQ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 11:42:42 GMT"
-    },
-    {
-      "title": "순천 청암대학교, 학생 홍보대사 발대식 개최",
+      "title": "세계은행 금융 리스크 담당 국장에 민진아씨",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00MkI3ZDQxczQtZWl2R1M0bHdLXzF5T2xMMzBhODRGNE5IZlhqUWZpZ2FrZExtcGt4a0JQVG1qTkpSbnZJeTFyLTVtbzI4ckZaZFhr?oc=5",
-      "publishedAt": "Sun, 03 May 2026 11:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14ZUZUZ1NuSFRIYlU2cEpzLXVyQ3E4Zzc4UkpYQ253czZFOFhYMkZRQW1hVmtyY1FyVF9zTE4yczhOTi1OcDhyUXJiSEE1bXJGR3VoRVJvTGRpSzdZUXJRcThWYmJLU2xRSTQ0UUhSdkREd0FGVzFyaQ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 12:30:00 GMT"
+    },
+    {
+      "title": "'소라와 진경' 홍진경, 한혜진 직언에 충격…\"썩어빠진 마인드\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRajRTUEVLSjlEZFhCSm1VTDhabkJCUGI1UE5oS2x2eTYxTF9SUDBRZzNtVDNZSFZVazJ6RFBYZ2dnbUZPT1BoYTMyME5VZW8tcllF?oc=5",
+      "publishedAt": "Sun, 03 May 2026 12:46:00 GMT"
+    },
+    {
+      "title": "평택을 김용남 30.8%·조국 23.0%…오차범위 내 경합",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16bEZPeTBraDl1UUUtNkF1cUFrMEhwVmtXUkpMMDFPRk44U2tjNWpaTkxwSmkzOW5RUTdteGp2ZmJJVF81SHpZN015WHh4YU5tX1Rn?oc=5",
+      "publishedAt": "Sun, 03 May 2026 12:24:00 GMT"
+    },
+    {
+      "title": "\"난생 처음 수사기관 들어왔다\" 특검팀 수사관 '처신 논란'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sRFNFUnUzTURjdnJTRlBHTzA4LXc5UE5GVVVmbk5aM05EU3I5R1RKMGdzcW43XzJJZVJVelV3aHowUDF1cm45MXNMMDB0S2NVNF9r?oc=5",
+      "publishedAt": "Sun, 03 May 2026 12:23:00 GMT"
     }
   ],
   "sources": [
