@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-03T18:43:16.707746+09:00",
+  "generatedAt": "2026-05-03T19:40:16.780227+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "12.8°C",
-        "feelsLike": "12.0°C",
+        "temperature": "12.3°C",
+        "feelsLike": "11.3°C",
         "highLow": "최고 14.0° / 최저 10.9°",
-        "humidity": "84%",
-        "wind": "6.5 m/s",
+        "humidity": "87%",
+        "wind": "7.2 m/s",
         "rainChance": "100%",
-        "pm10": "27.5 μg/m³",
-        "pm25": "23.7 μg/m³",
+        "pm10": "34.7 μg/m³",
+        "pm25": "31.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "88",
-        "updatedAt": "2026-05-03 18:30"
+        "airQualityIndex": "87",
+        "updatedAt": "2026-05-03 19:30"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "12.2°C",
-        "feelsLike": "10.7°C",
+        "temperature": "11.5°C",
+        "feelsLike": "10.0°C",
         "highLow": "최고 13.1° / 최저 10.2°",
-        "humidity": "90%",
-        "wind": "12.1 m/s",
+        "humidity": "93%",
+        "wind": "11.7 m/s",
         "rainChance": "100%",
-        "pm10": "27.5 μg/m³",
-        "pm25": "23.7 μg/m³",
+        "pm10": "34.7 μg/m³",
+        "pm25": "31.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "88",
-        "updatedAt": "2026-05-03 18:30"
+        "airQualityIndex": "87",
+        "updatedAt": "2026-05-03 19:30"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "12.5°C",
-        "feelsLike": "11.0°C",
+        "temperature": "11.6°C",
+        "feelsLike": "10.2°C",
         "highLow": "최고 13.4° / 최저 10.0°",
-        "humidity": "87%",
-        "wind": "11.3 m/s",
+        "humidity": "93%",
+        "wind": "11.1 m/s",
         "rainChance": "100%",
-        "pm10": "27.5 μg/m³",
-        "pm25": "23.7 μg/m³",
+        "pm10": "34.7 μg/m³",
+        "pm25": "31.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "88",
-        "updatedAt": "2026-05-03 18:30"
+        "airQualityIndex": "87",
+        "updatedAt": "2026-05-03 19:30"
       },
       {
         "location": "익산",
         "summary": "약한 비",
-        "temperature": "12.5°C",
-        "feelsLike": "11.1°C",
+        "temperature": "12.0°C",
+        "feelsLike": "10.7°C",
         "highLow": "최고 14.5° / 최저 11.4°",
-        "humidity": "91%",
-        "wind": "12.3 m/s",
+        "humidity": "92%",
+        "wind": "10.8 m/s",
         "rainChance": "100%",
-        "pm10": "35.5 μg/m³",
-        "pm25": "32.2 μg/m³",
+        "pm10": "31.2 μg/m³",
+        "pm25": "28.5 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "90",
-        "updatedAt": "2026-05-03 18:30"
+        "airQualityIndex": "89",
+        "updatedAt": "2026-05-03 19:30"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-03 14:59:44",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-03 15:00:06",
         "districtSamples": [
           {
             "district": "강서구",
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-05-03 15:53:33",
+        "stationName": "봄까치셀프주유소",
+        "address": "전북 익산시 평동로 796",
+        "updatedAt": "2026-05-03 17:58:05",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "가정의 달은 역시 패밀리랜드 놀이 공원이지",
-      "source": "무등일보",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2MDNfV3ZRbGY1ZzZxTnRMcmJZRlk4Qm1jUUR2Ykd1SXJWcHY3TjlNYnVSMFRjdmxqZVFLU2Y4ZUxFaTRyV0tubmZTdGo?oc=5",
-      "publishedAt": "Sun, 03 May 2026 09:08:00 GMT"
+      "title": "대구시장 후보 김부겸·추경호…본격적인 세몰이 나서",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KM01ycjNpd05GZjRsRzRIcFJCSlN5RkIwZFVZRGFSVFM0X2ZCeUJYMjRMWWJzZ3FhcFYtZW5EOENfeG1Hc1JxZWFNckFQMy1GbkdB?oc=5",
+      "publishedAt": "Sun, 03 May 2026 10:21:00 GMT"
     },
     {
-      "title": "정청래, 부산 북갑 방문…“하정우는 구포시장의 아들”",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FOW1TUWI0T1ljZURMbFp0RlBxYWwzR1BhZEJibzN5RUpBYkI2YjBLc0I3Vy1TakNsRWRaZHJYQlVfZlE4V1AtbE9Fc0wxaUV2QTloRmFfWWxERU92QVHSAWNBVV95cUxOV0txTURBMTZFRmtPbk50TThvWWRHVGx0X3VqNDFqU19yQ0JVNVVwMDBKcVZHSjlldGNXdzFxRDgzWE43a05tTjhHRkZDYWl4RXItdEZId1JTekxEY2tVREY0UGc?oc=5",
-      "publishedAt": "Sun, 03 May 2026 09:28:00 GMT"
+      "title": "인천시민사회단체, 한국환경공단 이전 반대·수도권매립지 사용 종료 촉구",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52UUJrOVcxQ2NFOEJzVnU2MkJOMEJEMFVvclAwdkhPNDhMM05XS2JxSXQwMm9lVDU5d0hDZEtKeTZ5QjF5cVRPeG1Cb1l1V3pXUEpHakJ1QW1aN2tDeHppbC1COWNHVDZ6eVE?oc=5",
+      "publishedAt": "Sun, 03 May 2026 10:15:00 GMT"
     },
     {
-      "title": "\"인파 몰려도 걱정없게\"…통신사 '황금연휴' 특별 관제 돌입",
+      "title": "환하게 불 밝힌 원주한지문화제",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FVnBjWXlScVNPZ0VQNDFsNVdvVVI2VjY3M0pSU3RRMVVFQ29HX3h0d3JlRWdzYXBzc2V0NWIxX2hFa2E3Q1FDQ21ReVdpeDl1dDRwbEI2UHp4a3pvTlcwSQ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 10:28:00 GMT"
+    },
+    {
+      "title": "삼성가, 상속세 12조원 완납…\"노블레스 오블리주\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzZC1mdE1RRlE3RnRaRGdFRkZmcVBTdVYxaGNmNU5LMzlNcWZKNUV4SFkyQlRDdWpLZDVxSDd0czMySmtfOU9NT3NDRTdsSFJUY3k0?oc=5",
+      "publishedAt": "Sun, 03 May 2026 10:12:00 GMT"
+    },
+    {
+      "title": "추경호, 대구 경제와 보수 가치 동시에 잡는다…국민의힘 TK 총력전",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HRlV0c3dxTGpTRjhvSGE5RmlkeWdKZXd3Rk1GZlVmd1VwZ1psU0pOSWE2NE94MXJoczFLSm9vRnFpdm1PYkpNMVg4SUVtb0NXSldr?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:59:00 GMT"
+    },
+    {
+      "title": "TV·영화 제작자 만나는 위기의 나토…\"선전에 예술 이용\" 비판",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aUXFJbXVXS3ZLaURwSng0LUM1bHJDOF9jYkpvSXpBb0NJSjJrajZoSTNQa2lBaWVmMGFobnBWTXpNaHdKdlBpU0tsX0tBUktRcldhbnFnZ3MwQkRpUFRoVdIBYEFVX3lxTE1aUXFJbXVXS3ZLaURwSng0LUM1bHJDOF9jYkpvSXpBb0NJSjJrajZoSTNQa2lBaWVmMGFobnBWTXpNaHdKdlBpU0tsX0tBUktRcldhbnFnZ3MwQkRpUFRoVQ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:49:11 GMT"
+    },
+    {
+      "title": "강원 내일 아침까지 비 계속…오늘 밤 돌풍·천둥·번개 주의",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NU1NORll2R3VqQnlvLUZLNlFXLUhGTEVSUUtuVDd6OEc5R0RfcFZtYmhXT0xMODVMaFBZaFFtdHNrVnJYN1FyLWNBQ0F3QVpKUmJSOFoxRzJiWjlKeDJ3aw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 09:32:51 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40ODV2VEhxYTVUUVJPdXBOckpSTlZJTWgtWjUyOTRmejliREMxeUo1VUtoVHFQUWZNU1ZULWdyQjZUTGRMS3JwYmJUU2ZaTVdUOUlCZg?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:49:11 GMT"
     },
     {
-      "title": "'살목지', 260만 돌파·역대 공포 영화 3위…'곤지암'도 넘는다",
+      "title": "靑출신 7명 공천 확정…집권 2년차 정책동력 변수 전망",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XTThNNUVoc2c1TG1VQlMwS3V2Y1Y1bWxfUzBkVmhmMEZQU1M3bXlORG12X04wR2wwRVZOaHFHRjctbVFQMjJUMFRNbWc2bEl4M3RUMFROcHhET0hnZDRwdmtEQ0xPQ0ItdUUwQVk4ekF3Qm9adFhicg?oc=5",
-      "publishedAt": "Sun, 03 May 2026 09:39:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51NG45bUd3UU9xZWg5UUZaSDFvZGZCZnprMVFJcGdzaS16XzY0UjlILTNibTRuRWl5amxDUVVoRWJRUi1xTk5Cem5XdlRJS2ZYMDFZ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:48:00 GMT"
     },
     {
-      "title": "트럼프 지지율 '바닥없는 추락'?…미국인 62% “트럼프 국정수행 지지 안해” 재임 중 최악",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sdXNFMEE3cXhuMzJjTnk4U09WTjRoRS1TRGtCbndYaDRXOVIxdWc3UVdOS0pqdFZrSmdObmpBbVFkR0VYMmtodGJGaGhyMTNFYkQxNHk5WHdXM3I5V002VzFn?oc=5",
-      "publishedAt": "Sun, 03 May 2026 08:47:38 GMT"
-    },
-    {
-      "title": "김부겸 \"대구 시민, 합리적 판단해 달라…대구 역사 바꿔야\"",
+      "title": "'런닝맨' 청하, '아이오아이' 재결합의 주역···\"전화 한방에 다 모여\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NMUdTOUN1elNla3BueThQWEpHSDhlYVo1SElfN1BLZEJqUnpVRTNVMUJTWklTdVdXSmhSc0hQYnA1SExQNkIwT1FieS03MzFwZUFfSnVMcGYyZ0ZiMDdlQg?oc=5",
-      "publishedAt": "Sun, 03 May 2026 09:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fTGZtUnZXWjVFeFA4Rmo4M3ZaaVptWXI2QkxicHdXNG90MUpRYWtOSnBTSWE0VDFxMjFpU1p0bEtlU2xBcXVhYkk4Q0MxbXJ4Szl2YVVEajFkQ0NZbkJOd0VsWndjeU5mcEdfbnpFRW9pczF6NFlFMQ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:50:00 GMT"
     },
     {
-      "title": "고물가 바람 타고 급성장…알리익스프레스 필두 C커머스, 韓시장 영향력 세졌다",
+      "title": "천안시티 박진섭 \"시민·서포터스 응원, 라이벌전 승리의 원동력\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbVFPMjluREtjalVqekpwV0R6Rm1oZ21uMmNrMVl2NGNJX05OU3RReUhTZVY3OS1hSVZFYmZmUTExNktpQ1lseGE0N0l2WUEzQkIxMFNFMnlFVnRVZDY2Ni1JdjVwZ092ZGNKdmpMUEFZX1h5dEg1SQ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 09:01:00 GMT"
-    },
-    {
-      "title": "정청래·하정우 '오빠' 발언에 국힘 \"아동 성희롱\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94ZkRkU0I2LXdYWU03SFQyaHFXN0IxRlUtZDc0Q3lxU1hGOS1Zb2hURC1ndzU4XzlSMTdSUzRsNmlvOGI1ODd0dVc3aXB1WFpPVlVF?oc=5",
-      "publishedAt": "Sun, 03 May 2026 09:00:00 GMT"
-    },
-    {
-      "title": "양산시 개별공시지가 1.66% 상승…최고가 ㎡당 370만원",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4MWUwSzhOWV9QRmJxeTZxcF84dW13cVBoZFBtVEotLUViUXVKSjZpbFB0ZVpqUzY1c2VKaUs4SDhKTklmendSZ3ZlMGlVLVkzZ25n?oc=5",
-      "publishedAt": "Sun, 03 May 2026 08:57:00 GMT"
-    },
-    {
-      "title": "‘친윤 넘어 친트럼프..밀리터리 마케팅까지’",
-      "source": "디트NEWS24",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4WWlYd0xGaHg3aVpPSE9UVWpGQWhOOUkxUE52LVdwTnZoLTZvd09lWGduc2RHbUtSNVNrNnh5eGJ5bmJCcmlraGp0R2thNDA5YXBpTmVIckFOSV80M3lQV043dzRwZWNsT3hn?oc=5",
-      "publishedAt": "Sun, 03 May 2026 08:49:01 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HY1F3c1RFWWpXczhKc2I1blZZaHMwby1mZW42WFRISjd3b0UyNWQ0a3NvV3RwTmtjS1JwZ2EtV0RoRDR2SmJzdGxXVktkZVVreDJN?oc=5",
+      "publishedAt": "Sun, 03 May 2026 10:09:00 GMT"
     }
   ],
   "sources": [
