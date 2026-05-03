@@ -1,22 +1,22 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-04T07:25:33.297017+09:00",
+  "generatedAt": "2026-05-04T08:09:04.226549+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
       "value": "6,598.87",
-      "change": "-92.03",
-      "changePercent": "-1.38%",
+      "change": "-0.00",
+      "changePercent": "-0.00%",
       "direction": "down",
-      "updatedAt": "2026-04-30 17:37"
+      "updatedAt": "2026-05-04 08:06"
     },
     {
       "label": "코스닥",
       "value": "1,192.35",
-      "change": "-27.91",
-      "changePercent": "-2.29%",
+      "change": "-0.00",
+      "changePercent": "-0.00%",
       "direction": "down",
-      "updatedAt": "2026-04-30 17:37"
+      "updatedAt": "2026-05-04 08:06"
     }
   ],
   "usMarkets": [
@@ -48,17 +48,17 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,476.00",
-      "change": "-12.00",
-      "changePercent": "-0.81%",
+      "value": "1,475.50",
+      "change": "-12.50",
+      "changePercent": "-0.84%",
       "direction": "down",
       "updatedAt": "2026-04-30 22:30"
     },
     {
       "label": "100엔/원",
-      "value": "941.96",
-      "change": "+13.93",
-      "changePercent": "+1.50%",
+      "value": "940.29",
+      "change": "+12.26",
+      "changePercent": "+1.32%",
       "direction": "up",
       "updatedAt": "2026-04-30 22:30"
     }
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "9.1°C",
-        "feelsLike": "7.3°C",
+        "temperature": "10.3°C",
+        "feelsLike": "8.4°C",
         "highLow": "최고 19.0° / 최저 8.0°",
-        "humidity": "83%",
-        "wind": "6.2 m/s",
+        "humidity": "79%",
+        "wind": "7.1 m/s",
         "rainChance": "100%",
-        "pm10": "15.4 μg/m³",
-        "pm25": "14.6 μg/m³",
+        "pm10": "13.0 μg/m³",
+        "pm25": "12.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-05-04 07:15"
+        "airQualityIndex": "41",
+        "updatedAt": "2026-05-04 08:00"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "9.3°C",
-        "feelsLike": "7.2°C",
+        "temperature": "11.0°C",
+        "feelsLike": "8.8°C",
         "highLow": "최고 18.2° / 최저 6.9°",
-        "humidity": "87%",
-        "wind": "9.7 m/s",
+        "humidity": "82%",
+        "wind": "11.8 m/s",
         "rainChance": "100%",
-        "pm10": "15.4 μg/m³",
-        "pm25": "14.6 μg/m³",
+        "pm10": "13.0 μg/m³",
+        "pm25": "12.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-05-04 07:15"
+        "airQualityIndex": "41",
+        "updatedAt": "2026-05-04 08:00"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "8.9°C",
-        "feelsLike": "7.0°C",
+        "temperature": "10.5°C",
+        "feelsLike": "8.3°C",
         "highLow": "최고 19.3° / 최저 6.7°",
-        "humidity": "87%",
-        "wind": "7.5 m/s",
+        "humidity": "81%",
+        "wind": "11.0 m/s",
         "rainChance": "100%",
-        "pm10": "15.4 μg/m³",
-        "pm25": "14.6 μg/m³",
+        "pm10": "13.0 μg/m³",
+        "pm25": "12.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-05-04 07:15"
+        "airQualityIndex": "41",
+        "updatedAt": "2026-05-04 08:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "12.0°C",
-        "feelsLike": "9.4°C",
+        "temperature": "13.2°C",
+        "feelsLike": "10.2°C",
         "highLow": "최고 18.2° / 최저 8.1°",
-        "humidity": "79%",
-        "wind": "15.3 m/s",
+        "humidity": "75%",
+        "wind": "18.7 m/s",
         "rainChance": "98%",
-        "pm10": "13.1 μg/m³",
-        "pm25": "9.9 μg/m³",
+        "pm10": "14.9 μg/m³",
+        "pm25": "10.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "67",
-        "updatedAt": "2026-05-04 07:15"
+        "airQualityIndex": "63",
+        "updatedAt": "2026-05-04 08:00"
       }
     ]
   },
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "봄까치셀프주유소",
-        "address": "전북 익산시 평동로 796",
-        "updatedAt": "2026-05-03 21:06:08",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-05-03 15:53:33",
         "districtSamples": [
           {
             "district": "익산시",
@@ -382,58 +382,58 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Sun, 03 May 2026 22:18:01 GMT"
     },
     {
-      "title": "5월 4일 굿모닝 MBN 주요뉴스",
+      "title": "5월 4일 굿모닝 MBN 이 시각 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RQXFVUEMtS2d4dHdNOHhrREtnb1FqbjRXU0N4Ykx6bmJtMEwwTjlrYWdOYkNqdFhyZ0hHam5xR3N4ZXJIY2pwWm1zM0JpSEp2cnA0?oc=5",
-      "publishedAt": "Sun, 03 May 2026 22:09:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQRTNLenNsWm1CbXE5MjlUNk5FWmRuTWlWcmZ3cjFjaDdSYjFnV2IybTk1MnZRTXlFWldVSUtWcWtsd3FkSWJ1OENsZ2FNcFFQOFZJ?oc=5",
+      "publishedAt": "Sun, 03 May 2026 22:47:00 GMT"
     },
     {
-      "title": "[26년 5월 4일(월)] 삼성전자 목표가 하향 리포트 왜?…“노조 리스크, 단기 실적에 부담” - 비티의 오늘 주요 뉴스 요약",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1F4T09lNFRYMWJoeG9rbnVnX0xMZjBtV1hNRDRhUUVCcEM0dkUyT0xHUVktMXdYZmlJYjNvc2NCZFhrMUZSMzJXRk11R2hOTzBYd0p3NTZxeXpPdlU4d1o1aDdfWlJDZXdQMHVaaWFsS25YYU1DcWJ3THhuUnF2bg?oc=5",
-      "publishedAt": "Sun, 03 May 2026 21:40:00 GMT"
+      "title": "주간 모빌리티 뉴스: 관세 환급 호재, 포드의 호실적, GM의 제미나이 도입",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUG1OaF9nWmNYWWc3VXMxdHMtd2d1a0x6eHh4OEV3NUw4Wk1TQ1p5SHloRmJFTHVCczA2OWhJQ3l1dDU1cXNEanEtaHFGMmdDa2VPaThvR3kydk5UMm90UHhfekNtTkRBMEFOTmtXSThQQjdUTmJOcmI1VFVvQlNJWEZWdjJOb29MV1JqcF91X0Y5cWxnb2tPczdQMC1BbWJQRGlSeVoxXzFRM0dnNU5FNzdEb1NsZGgydkNOYmhwVG1qb2g0TDBuVk5Ud1l0T2VxNUxyeTJsam1CcEdQTk9BeVY0cWVmbkJIRTZ6WFRLVU9GV3IxdWdXbmYzVU95dERBOE9RTXBzVC12ekQ3NFpnSThwUUQtU0hFUi1VR3VxdGlOTEJHU0piTUlpZl9VUm0yd09UVkwwV3U1QzUzQU96X3U0b2JzQVl6SUdTNms5bUhYU3owd3lMYg?oc=5",
+      "publishedAt": "Sun, 03 May 2026 22:55:41 GMT"
     },
     {
-      "title": "증시 오늘 '핫이슈'…\"고유가에 '양치기 소년' 마침표 찍은 중국 감산\"",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81WDkyN3Z3Ri0zampZWDVHbzB3bXpRVVBDZVpBcjBNTlpFODU5eDZqcEE1d3FueWkxMkd0ZkFDY05raHVaVHBBWnNyd05jc1Nza0F6YlZkZGNBcFNxcmpscg?oc=5",
-      "publishedAt": "Sun, 03 May 2026 21:51:05 GMT"
+      "title": "[아주증시포커스] 반도체 레버리지 ETF 폭등…1년 새 최대 14배 뛰었다 外",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTFB2bXF3enhlelA5NTZobzY3cjNoRHhiSU5YSWtHeFJ0c3h2UWtNY3BDbnQ4NWhNS2NjaW0zWlBmaWluMGVmbWcwVHRzMnRaWGJLRkJXLVhlZ9IBWEFVX3lxTE9mQXhReGxDUlFBZDdUOWZGU2xDV2Z0MHJfTERVS3ZTOTFQVUZoZUN1RUpmbi1iaWE1ZmZTS201dUY3TjBpNkFvMnJGeVhHdDRxMDJJUHhVc18?oc=5",
+      "publishedAt": "Sun, 03 May 2026 22:53:15 GMT"
     },
     {
-      "title": "[오늘의 IR] SKC·현대자동차·셀레믹스 등",
+      "title": "주간 경제 뉴스: 미국 GDP 2% 성장, 휘발유 가격 급등, 트럼프 지지율 하락",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNU3V2Qm9FN0kxdGVLb0RDbE1FSlhfeDFxWUphbl85WDhiNXMxTWtwVjg0cG1ONlpFVENrNGhwMm1wM282RjM1bjBQQV95bTcxMmxTQVNIX21yZVpHdUd2Unl5ZTdFU1Fycm5sbGQwc3BiZm03VklRWnY2ZjJFLUJ6UmVCMWpZN3ZTMWlCUGxLLVVHRElGYTVMVS1xa1g1cU1wYmRjSmh5cEhXcVNOcnBEOVVvNW5FVWp5TlkwQ1A5TGtlbjlydVd2emJRYnkzdW9YanczdUs1aXNEQ3dXc3h4SmQ5UnFSRXhMendWZTNzeGFPVlJCaXFCY3RSODM4UnRxamtUalBRUGpPdEtfWTN2dzV5LU5MdXNSc2ZlYWUxRVljdWFNaXd6ZDFTblVqVDhQeWtUZmR3eXktelRlR29JTmNvejcteTFGRGZsbnFsTzJwbjVaeWpz?oc=5",
+      "publishedAt": "Sun, 03 May 2026 22:40:21 GMT"
+    },
+    {
+      "title": "방과 후에 놀고 싶은데…실제로는 \"학원가요\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnc2JabE5vOUc5eE1aOWVTYjhTejVoOHdXejBIOEtHTTVjRFpXUWNueHRMTmtaM3lPZHpHY081LVg1MElNNGVLdkhWa2NxaGt5bGdV?oc=5",
-      "publishedAt": "Sun, 03 May 2026 22:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBteDNEUGw3b0RabzNDLXY5WDdVMUdDQWRSQUFHSWdXeDJLN3J0WlpUX0JKZFNXVDVyWVpMc21la21wMDdxVzBLSUpRbDdLNGpmcG9N?oc=5",
+      "publishedAt": "Sun, 03 May 2026 22:46:00 GMT"
     },
     {
-      "title": "고속도로서 1톤 트럭 등 차량 5대 연쇄추돌…3명 중경상",
+      "title": "포스코인터, 에너지 부문 수익성 개선 기대…목표가↑-하나",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTWEQ1cWM3QV8zc3B3eGVJeVNzZWZ5VEJoc24zQVN0bzhURmlCbVAzQzVVTk40bFdqRGZsdi1XTThNM3VQWk5UTFdyQkJNWUtSc3lIZkFsR2tlYlRLNUxISjZlSTA2R2JIMDFIZkhqUzlKaUtwRUxBcQ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 22:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kWGc0Zld0djJHV0VzWkx6TFFWU2RvaFc1Y2NHMmVxRlBkY052blZ1RXJxT1NPaFVzTE8tUEdxVDl5eVUyRUtpZzA0MXk5RWU3eGtnVUwzNUotXzVPWmc5bDZkQWg2NUQwT05WSzNaczR1cXlKYkNZVA?oc=5",
+      "publishedAt": "Sun, 03 May 2026 22:55:00 GMT"
     },
     {
-      "title": "요즘 아이들, 직업 보다 '이것' 고민…\"놀 시간 없어요\"",
+      "title": "에어부산, 어린이날 맞아 '항공안전' 체험교실 열어",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpcmtwQzlzUkRuZ09OZEF5bFJ0MUtZM3JuaFpjU05wT3E5SmRUdVBfRjdIcEVpRWM3NmhNX010N0NDRXplRXkzenk1NHFmS3BlWWgw?oc=5",
-      "publishedAt": "Sun, 03 May 2026 22:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tQlo3STAyaVZPejNQekFhU2lVb0w5M1ZkcXVHWFdURFRSSjVDRmZrRVp5UXROQjd0VkQ3NFhESldMblBpdFVBRFJWOXJoWjhoTnJV?oc=5",
+      "publishedAt": "Sun, 03 May 2026 22:52:00 GMT"
     },
     {
-      "title": "월요일 전국 '맑음'…미세먼지도 '좋음'",
+      "title": "WHO \"대서양 크루즈서 한타바이러스 발생···3명 사망\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SYmQ4M2psWlA3c2E0aFhYMnMxLTNNdlFLMlZLbVNpR25JSnBJUkR3TEFwaVZRR1h2T0VmUjlUQW1ZRUl1dTVWb21jdV9WbDdrVUtZT1JwOTY3Sm95UlZDRg?oc=5",
-      "publishedAt": "Sun, 03 May 2026 22:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYZWYtTDh4ekN2aEt6X01GT3Q2dnVRWmUtS1BpRzA1MUk5eVFtanZuRFZIYWRRaHlLeWlaZWZtREtybFo1a0tNcEx2TkpQdGE2SkxF?oc=5",
+      "publishedAt": "Sun, 03 May 2026 22:58:00 GMT"
     },
     {
-      "title": "이혼 한 달, 짐 가지러 왔는데…\"아내 죽였다\" 60대남성 신고 후 투신",
+      "title": "[그래픽] 국제유가 추이",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoVzFXcVVFVWxPLWFoQUxGc2JsUTR1OFBiUGY5dGpQQy1rOHo5UjMzeUhBMk9wUmwtNjNKNlY1WU90V2x4NEFnbUM4ZF9TLUcyemM0a3Q1SVRQc254TzZRazNMQ0xWeTd6V2pVZmUxazFycFIzV1FtUQ?oc=5",
-      "publishedAt": "Sun, 03 May 2026 22:10:00 GMT"
-    },
-    {
-      "title": "\"결혼식 못 가서 미안해 '문원♥' 신지야\" 불참 '공개 사과'한 직장 동료…배기성, 훈훈 카톡 공개",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PVkR4OXlTeDM1NHAwZ0dtdnlOekNwVS0xakdIVGJiWmNyN1ROeG5iR2tJYUNGVjNxNWJ6WEZmbDB0aGNrbDVrWVJ5dXA3OU0yaVo3WHNlNlU2LWgyVUluVGZtS3gtM2VxRmJ4b0NJRzBXNWlrbGhMUA?oc=5",
-      "publishedAt": "Sun, 03 May 2026 22:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhWHdyTGp2N3hXUTlvbkNyRGUwUVg0eGhaSzhVcHZSbGd2czc4WmtJYzQ1X2VGbnM4Mlk2aENMTWU4TWpJbGdGNU5jOHl3eElRT2lv?oc=5",
+      "publishedAt": "Sun, 03 May 2026 22:45:00 GMT"
     }
   ],
   "sources": [
