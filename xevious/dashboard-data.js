@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-05T07:42:34.547583+09:00",
+  "generatedAt": "2026-05-05T08:33:05.590290+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,476.50",
-      "change": "+1.00",
-      "changePercent": "+0.07%",
+      "value": "1,477.00",
+      "change": "+1.50",
+      "changePercent": "+0.10%",
       "direction": "up",
       "updatedAt": "2026-05-04 22:09"
     },
     {
       "label": "100엔/원",
-      "value": "939.19",
-      "change": "-1.10",
-      "changePercent": "-0.12%",
+      "value": "939.33",
+      "change": "-0.96",
+      "changePercent": "-0.10%",
       "direction": "down",
       "updatedAt": "2026-05-04 22:09"
     }
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "7.6°C",
-        "feelsLike": "6.5°C",
-        "highLow": "최고 19.4° / 최저 7.0°",
-        "humidity": "97%",
-        "wind": "2.5 m/s",
+        "temperature": "9.2°C",
+        "feelsLike": "8.2°C",
+        "highLow": "최고 19.4° / 최저 6.9°",
+        "humidity": "88%",
+        "wind": "2.1 m/s",
         "rainChance": "0%",
         "pm10": "25.1 μg/m³",
-        "pm25": "21.5 μg/m³",
+        "pm25": "20.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-05 07:30"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-05-05 08:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "8.3°C",
-        "feelsLike": "6.7°C",
-        "highLow": "최고 17.7° / 최저 6.7°",
-        "humidity": "99%",
-        "wind": "8.2 m/s",
+        "temperature": "9.9°C",
+        "feelsLike": "8.4°C",
+        "highLow": "최고 17.6° / 최저 6.7°",
+        "humidity": "94%",
+        "wind": "8.6 m/s",
         "rainChance": "0%",
         "pm10": "25.1 μg/m³",
-        "pm25": "21.5 μg/m³",
+        "pm25": "20.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-05 07:30"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-05-05 08:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "8.2°C",
-        "feelsLike": "6.5°C",
-        "highLow": "최고 17.7° / 최저 6.9°",
-        "humidity": "99%",
-        "wind": "8.5 m/s",
+        "temperature": "9.9°C",
+        "feelsLike": "8.3°C",
+        "highLow": "최고 17.6° / 최저 6.9°",
+        "humidity": "92%",
+        "wind": "8.3 m/s",
         "rainChance": "0%",
         "pm10": "25.1 μg/m³",
-        "pm25": "21.5 μg/m³",
+        "pm25": "20.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-05 07:30"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-05-05 08:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "6.4°C",
-        "feelsLike": "5.1°C",
-        "highLow": "최고 20.7° / 최저 5.1°",
-        "humidity": "96%",
-        "wind": "2.1 m/s",
+        "temperature": "10.6°C",
+        "feelsLike": "9.6°C",
+        "highLow": "최고 20.8° / 최저 5.5°",
+        "humidity": "80%",
+        "wind": "2.2 m/s",
         "rainChance": "0%",
-        "pm10": "37.5 μg/m³",
-        "pm25": "35.4 μg/m³",
+        "pm10": "29.6 μg/m³",
+        "pm25": "26.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "30",
-        "updatedAt": "2026-05-05 07:30"
+        "airQualityIndex": "33",
+        "updatedAt": "2026-05-05 08:30"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "태리알뜰주유소",
-        "address": "경기 김포시 고촌읍 김포대로451번길 3",
-        "updatedAt": "2026-05-05 00:58:36",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-05-04 20:39:10",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[AI기자의 News Briefing] 5월5일 오늘의 주요 뉴스를 전해 드립니다.",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkWG1Id1puTFVBMWNZMExmc1B4UWo2ZDBrTVdJRVRDU01Ua0txZ2N2MjlGYUtiLVJWTk9PdlBITzNNWm51aVRfWHpRUFJSTUU4NUdLX05ZMzhPX3QteHVoMmNBOGJ0Z2ZPS2c?oc=5",
-      "publishedAt": "Mon, 04 May 2026 22:04:00 GMT"
+      "title": "[뉴스광장 제주 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Y0l6MzkwUmJWSFJkMnJRSUttb3JRRTFFVXN1UXBFLWE2Y1VSWXBrVmYzZmNheVhkN0J4TmxoT3F6ejJYMTlZUGxLSVBQUzk1eGloSWxSZHlqWms?oc=5",
+      "publishedAt": "Mon, 04 May 2026 22:39:00 GMT"
     },
     {
-      "title": "1부 오늘의 주요뉴스",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95MUZkQ0NsNzZPNHhDdmJ6WmdSaWRYMHhRRGRiWmZ1bjEzQU1NQ0pjZkxTZGh2VmRqYm1XdGNfbVZ6NWJSV29DNmhTaUstQjRqQ0gzV0I0MG5MbmhtaWlNV0pMTEtzVnJhTVFmSnhWWHVLVHNnSExzd2FB0gF6QVVfeXFMUDdidEdlQXM4bURJOU9KN3Y5Q1c0VUtmRFBzaGpQSGhnN1IwSmZ4QVZlVzhDa1Zrc2pyb2t1SjJSSS1wMGczQk91VTJPc1ZDRWY1b0JsR0UyWUZIaGFMVXpJU25IX2wtTFcxMndjdXEzWFJOUV8xYkpCNXc?oc=5",
-      "publishedAt": "Mon, 04 May 2026 22:01:34 GMT"
+      "title": "광주 도심서 여고생 흉기에 찔려 숨져···경찰 용의자 추적",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04RGRiNncweHJSNlpIaHh5bW1obENuT3lIcVZ2RWZMOXRiaDBVTmNYZWZQdjNPRWVtZ3JNWnJIUklpRkZzUkRaQ2lZeVRPUWNvSmJ0b3k3VFhqUzRfckJfTXpzMGJQbUZnWE5Gd1dNcXNsb2lYWVl2Qg?oc=5",
+      "publishedAt": "Mon, 04 May 2026 23:21:00 GMT"
     },
     {
-      "title": "원청 책임 어디까지…노동위, 노조법 새 판단기준 만든다",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04S1VSdUpDSVliX0EtdHd5a3YySGJxdWpBN0lQYWpsdGU5d29wbVlmTmJVWXYwZmZDVFozLTFQZHlrVEJZcWRmdVNTRW40X1RVQ3lzbGVuZHRpbzNTSE9xMC0ydw?oc=5",
-      "publishedAt": "Mon, 04 May 2026 22:00:00 GMT"
+      "title": "[뉴스광장 충북 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ajVxSWdPcUxlMFo4VHpLa3JpMlliM3U1UHowLWFnVFdKLTdqVTJDTWRNTS1jbzhQTzZfZXduNFpIbklJc2hmYmhhRXFER0psWGJLNW1sWlVJczQ?oc=5",
+      "publishedAt": "Mon, 04 May 2026 22:39:00 GMT"
     },
     {
-      "title": "호르무즈 봉쇄 두달…비축유 한계론도 대두",
-      "source": "노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TRjUtSWdQWURJaFBCRzhERm5PX0lpYlRwc0lGcVpaRWRNX09IWW9tSEpET0FuaURadkNGUW5zVXVjUm5UVURqSTI3bHprUTAzc2c?oc=5",
-      "publishedAt": "Mon, 04 May 2026 21:55:00 GMT"
+      "title": "곽윤기, 3년째 문신 제거 중 \"마취크림 발라도 아파…살 타는 느낌\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02emEzbnFjWWRWeHctaTdOWXRxeFV4YlZjTTByVEdVcGQ0cFppT1YyOVJMSERONnNjRjdyYzZ0WVBDaU1oVXlZVG50VHpzd3VmVmp4djZYSkNrcHVyS0U2RUt3SjdWUDY4?oc=5",
+      "publishedAt": "Mon, 04 May 2026 23:13:00 GMT"
+    },
+    {
+      "title": "'할마에'까지 총출동…'무도 키즈' 위한 도심 추격전 열린다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OeUVheUplSV9qZEFONWRUd2pndXZBY2lwTTZla3drXzFYU2dJSjdsZWdkTnRKcC04WGFZbmdVUEtUMkx2N0tJeEF2TGg3Z0lQMVh3?oc=5",
+      "publishedAt": "Mon, 04 May 2026 23:01:00 GMT"
+    },
+    {
+      "title": "'강남 40평대' 사는 예비 신랑, 여자친구 낡은 본가 보고 \"흔들려\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00Yzc5bEJkdVNTek9Gc0xJcW42cVJhbmVHRlJBSEZ1ak1kVE5GMWlwUjJfVTFhZFhIUzk3LWlGSV8tUExCMnlJY28zSkRGSDVfeTI1QW1IeVNWeXM0NkY4YjJ0N1VEeG9QZDA2a1c2VjVUbmNVVjN2TA?oc=5",
+      "publishedAt": "Mon, 04 May 2026 23:22:00 GMT"
+    },
+    {
+      "title": "SK쉴더스 ADT캡스, '현장 중심' 안전점검 강화",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nMDUzLUtZRkJpSHdyRHhMazZvNTZkdmhtblJCZURkU0NMcVYyZF9fczBCWWsyejZ2VnQ0bzMzT1p0MTVCQWktYTl4VXhueW9EYm5Pdk9jNzJYWl9IRkR5SQ?oc=5",
+      "publishedAt": "Mon, 04 May 2026 22:41:00 GMT"
+    },
+    {
+      "title": "[주간 뉴스 브리핑] 어린이날, 아이들에게 필요한 건",
+      "source": "뉴스앤조이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RcTgtYWVqakNqTWNaYlZ2SWJsN3NzQm8wTEdZalFYVVpxVFNUOXE5WmtuQnFnRmQ1Um80eXJ6dXFkdWV4Zl9BVUlnaHRRMlItT1BCQlA3WjFEQmtMc1BQZF8zSGRDZWdPTzVyZHB3?oc=5",
+      "publishedAt": "Mon, 04 May 2026 23:30:00 GMT"
+    },
+    {
+      "title": "[금융 HOT 뉴스] KB금융, ‘2026 KB 부동산 보고서’ 발간…올해 부동산시장 전망 담아",
+      "source": "비즈월드",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPS0p3MnBJSnBGQTNEYjJFd1ZHMGZ2M29NUzJ0SFF6bVJONVVHSmliNnpZYmJsbkI3ZkxidVo4b24zY2tGZXZPcGtua3lrWXl0UExZeUNJRDhzR1UzVTh4ZHVvV1ZFOGFTNEE?oc=5",
+      "publishedAt": "Mon, 04 May 2026 23:00:00 GMT"
     },
     {
       "title": "'복귀 논의' 뉴진스 민지, 근황 포착…팬들에 남긴 편지 \"언젠가 얘기할 날 기다리며\" [스타이슈]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwRXY5QTk2a0hQRmJ6bDY1STU3RXlvSzNjOEM2eUZzendvWUtJdzRONVRuTEJLWC1xcU1UZ2ZVX0thUzVoYUF4YlJzNUZxMnlkcXNHREU0andiRkl6QURpRA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjNHZlN2syc2p6MzQtT2VXckJqeFdYWll1WklRUHVSemJNT3hYUFRnQVJqdnlsTmVHU3pDUW01SUhZcU43QUppY0N5T1dXTWxOeVRr?oc=5",
       "publishedAt": "Mon, 04 May 2026 22:36:00 GMT"
-    },
-    {
-      "title": "호르무즈 내 한국 선박 폭발‥\"이란이 공격\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkFYREdjT0cxOFpQMTlVTG02NWVHQ0NsYjFEV1VNRmExdEh3S2haNk5sZ042SDVaY1NqazdmWWNFb2xHV3IwQkxKeFlXZ0dldG9PRlZUNXB4STdYanI2T01VR01Ubk8zXzBaM1JZS0NpMFp0Sno5Vk1ES3hRR01TSzRIT1cyVjYwYzRCWGhBMHpPWnZMUFFSWXRqYjBOTjhjTU9nMmZBZGxoUUlUSzZsSmFJLUp6Mnlkb092T1Q2TlFGQdIBekFVX3lxTE1yWUk3RHE1UFVUNVFJbndqN1M2aE0xcFFfZkUzWVpmQnplaEJlcDFpdmpQaEJqcEJaOEtpeWt4cmZRd3VmU0hvTWNHem45M2ktZEZZZG5rTkZnUHVQRXVDUnY5d0YxQXhaLTJFcUpQempUeTBVWS1MWmhB?oc=5",
-      "publishedAt": "Mon, 04 May 2026 22:03:46 GMT"
-    },
-    {
-      "title": "건설사 골프단 '우승 행진'…KLPGA 절반 휩쓸며 마케팅 효과",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xU0IwQmlGUWgxVS1FMUhyRWlCQkcxaVhiemZMRFBuRUhVS1lQVDhvczMyUDBnYXRUbkU0VktNXzloN1FyRnpQYWhIdDU3QU1RZkdfeU8wQkczY1U?oc=5",
-      "publishedAt": "Mon, 04 May 2026 22:00:00 GMT"
-    },
-    {
-      "title": "광주시, 중국·베트남 세계지질공원과 '국제협력 교육'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EbUtxY1k0VHduMHdFekU1VVZzVU5JdVBldWQ2cG9Md29OVzhVc3Y5b3IxTnJqTHpfeTBha3FCcWJDcDRTLXhNa0xYbjZ4S09NTEhZ?oc=5",
-      "publishedAt": "Mon, 04 May 2026 22:22:00 GMT"
-    },
-    {
-      "title": "이란, UAE 미사일·드론 공습‥'휴전 붕괴' 위기",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yS2xPYk5nVjFENlRvc2hOV1ViekU1aGVfeXd1VUt2dkJoVldQNzZ4WXhZYTY2TXlVbjRSOE0xbTkzT2NNNC1SRUdBYkI4Z2JpRXk3X3FWRlpBQ1JHTlhyMnY4ajRPcS1Yc2JObHJpR3prOWN2VkRLZnlR0gF6QVVfeXFMT2hvcVFIVDZlNG10aE1KZnFwYVF1ZmNaeWlNYkQ4anRiYTAzb0ZJS3U2cERGU2FwMzhDX3R6SmlIaEFDQmRTQXhaVFREdTgtS0pxSlNXczI5dlh4MDhVZE1rVExxb1ZnMVpYeE44Sl9jS01mNkJiRkd2V1E?oc=5",
-      "publishedAt": "Mon, 04 May 2026 22:07:43 GMT"
-    },
-    {
-      "title": "한화에어로, KAI 지분 5% 확보…경영참여 선언",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IeGlHd2dkandxQmZ2V2ZWNnk1VlE2WlFpcllsRnh5U2c3NjVOQ01nN2dDenlzdHk4Rk96NmtsZWU3bVVvd3BqUnlNNE1CRkFvclFj?oc=5",
-      "publishedAt": "Mon, 04 May 2026 22:03:00 GMT"
     }
   ],
   "sources": [
