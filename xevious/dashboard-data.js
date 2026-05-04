@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-04T17:11:24.721152+09:00",
+  "generatedAt": "2026-05-04T19:27:51.899296+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,471.20",
-      "change": "-4.30",
-      "changePercent": "-0.29%",
-      "direction": "down",
-      "updatedAt": "2026-05-04 17:06"
+      "value": "1,475.90",
+      "change": "+0.40",
+      "changePercent": "+0.03%",
+      "direction": "up",
+      "updatedAt": "2026-05-04 19:20"
     },
     {
       "label": "100엔/원",
-      "value": "937.46",
-      "change": "-2.83",
-      "changePercent": "-0.30%",
+      "value": "939.02",
+      "change": "-1.27",
+      "changePercent": "-0.14%",
       "direction": "down",
-      "updatedAt": "2026-05-04 17:06"
+      "updatedAt": "2026-05-04 19:20"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "17.1°C",
-        "feelsLike": "15.1°C",
+        "temperature": "14.2°C",
+        "feelsLike": "12.6°C",
         "highLow": "최고 19.0° / 최저 8.2°",
-        "humidity": "52%",
-        "wind": "9.1 m/s",
+        "humidity": "62%",
+        "wind": "5.8 m/s",
         "rainChance": "100%",
-        "pm10": "15.6 μg/m³",
-        "pm25": "10.0 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-04 17:00"
+        "pm10": "17.5 μg/m³",
+        "pm25": "14.3 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "32",
+        "updatedAt": "2026-05-04 19:15"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "15.6°C",
-        "feelsLike": "12.7°C",
+        "temperature": "12.8°C",
+        "feelsLike": "10.5°C",
         "highLow": "최고 18.2° / 최저 6.8°",
-        "humidity": "67%",
-        "wind": "19.6 m/s",
+        "humidity": "77%",
+        "wind": "13.8 m/s",
         "rainChance": "100%",
-        "pm10": "15.6 μg/m³",
-        "pm25": "10.0 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-04 17:00"
+        "pm10": "17.5 μg/m³",
+        "pm25": "14.3 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "32",
+        "updatedAt": "2026-05-04 19:15"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "18.4°C",
-        "feelsLike": "15.5°C",
+        "temperature": "14.1°C",
+        "feelsLike": "12.0°C",
         "highLow": "최고 19.1° / 최저 6.7°",
-        "humidity": "49%",
-        "wind": "15.1 m/s",
+        "humidity": "67%",
+        "wind": "11.3 m/s",
         "rainChance": "100%",
-        "pm10": "15.6 μg/m³",
-        "pm25": "10.0 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-04 17:00"
+        "pm10": "17.5 μg/m³",
+        "pm25": "14.3 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "32",
+        "updatedAt": "2026-05-04 19:15"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "16.1°C",
-        "feelsLike": "13.5°C",
+        "temperature": "12.7°C",
+        "feelsLike": "11.3°C",
         "highLow": "최고 17.7° / 최저 8.1°",
-        "humidity": "62%",
-        "wind": "16.3 m/s",
+        "humidity": "78%",
+        "wind": "8.3 m/s",
         "rainChance": "98%",
-        "pm10": "15.2 μg/m³",
-        "pm25": "8.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "48",
-        "updatedAt": "2026-05-04 17:00"
+        "pm10": "17.7 μg/m³",
+        "pm25": "11.9 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "34",
+        "updatedAt": "2026-05-04 19:15"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-04 07:58:42",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-04 15:01:47",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "전북도, '함평나비축제'서 전주 하계올림픽 유치 홍보",
+      "title": "[한국뉴스 TV] 26년 5월 4일 (월) 오늘의 주요뉴스",
+      "source": "24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSjhiS1laRHNBMEl0cHhTTm1xOFFhVjdLTGo3VU1YWjh1OVI0TmQ5LWVmaG9vM2hHV2g5T0h1dnY4RWhvMUhlZHlqTHNiOG5BN2cxLVB0TFNEQjlad0RSLWY2SjE4QXM?oc=5",
+      "publishedAt": "Mon, 04 May 2026 10:06:25 GMT"
+    },
+    {
+      "title": "[뉴스7 전북 헤드라인]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05QXRQcjdzYlRWalJuQUxvNXFjV25jYU10aTBuMnlHcnhpZnAzbGtSRzlHa1lNSGpHejYyUnkzcUFJU2ZoejhLS0pqMnZYQmRfelFZbkxzMFkySms?oc=5",
+      "publishedAt": "Mon, 04 May 2026 10:06:00 GMT"
+    },
+    {
+      "title": "수지, 초근접 셀카도 완벽…청순+고혹 매력 발산",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DRmdZNWFjanVJY09EYVRtajJGZ1ZOX252QmRxSXJqZ21Nd0VPOEMwVGRmbDJzLWNpc3Z5OUhCWEJJVG5wV0NxM3l4VVFWOVZCVURNWUlUZkFuTjhOVHR2YVplM3pVUEdyVkx5Z0lFNzctMHhUSndPSw?oc=5",
+      "publishedAt": "Mon, 04 May 2026 10:16:00 GMT"
+    },
+    {
+      "title": "[뉴스7 강원 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNLV9HanFoRE1odjJqZDAwOVdfUVh0V3U5UTFIOGMwOFpIOVFVcy1qV3FNal9vM0k1RjJXWEpIWm5heEM3Sm8xVG5NSklTbWZfTUdSS3VmVElLQ1U?oc=5",
+      "publishedAt": "Mon, 04 May 2026 10:02:00 GMT"
+    },
+    {
+      "title": "22대 후반기 국회의장 김태년·조정식·박지원 '3파전'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pa29YYjZjdjh2Q19pQ2JhaTEwbFNyQW1aaGRxb2FrZjhOTm5IZXJ6aWFnNGdrTnotVmZTYkkwdDhVbzNtS0gwWUhuUmNWTGJmaXlIc2JTSk9iQV9icENOSFVvY1g2bzFUOWs1NTZn?oc=5",
+      "publishedAt": "Mon, 04 May 2026 10:00:00 GMT"
+    },
+    {
+      "title": "하이잡, 덕성여대 직무박람회서 AI 휴먼 컨설팅 진행",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkcGJaelBYSVZxTVFIcVRoSUVoV0pDejJGdjM0TDBHOWc4T0pfYnJoNHFKVlFjXzd3Z2NkUFRiancwdmx1SGtlMmg1WGRGZHJLanNjelJRNGRVemlzOFpBMEdXMDlsNnZSeEhMd3lJVDlmMUt5eEJYcg?oc=5",
+      "publishedAt": "Mon, 04 May 2026 09:45:00 GMT"
+    },
+    {
+      "title": "경북 청도군 '승진 청탁 의혹' 수사 대상자 숨진 채 발견",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VV0hBaVpIeUJjZ3AxeXM4N0lMR2pzNEJVd2JVN2ZwMjdGMEVaNFBNSlFqVkROSXZQQUtvRnpQbGJvdWMwQXgxRHdHSGU5R3VFOWFr?oc=5",
+      "publishedAt": "Mon, 04 May 2026 09:53:00 GMT"
+    },
+    {
+      "title": "'트럼프 없는 서방' 모색하나···캐나다·아르메니아 껴안는 유럽",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lNWJkeXNDTDVnbXFoX3FYV3hpdXc4YmZoUlQ3ZlF2VW9GM3ZmWU4xSGdpOXY4NENsUTloX2VDbGhseVJoMGtXQnpZRVZoQ2xuR2FCLU1JU1BoTXpFcmw3blY5MW5ZVGR0eTM1TmV0RW1vMi1DVTR4bA?oc=5",
+      "publishedAt": "Mon, 04 May 2026 09:29:00 GMT"
+    },
+    {
+      "title": "靑 \"호르무즈 해협 조속한 정상화 기대…트럼프 언급 주시\"",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YS28yaExZUXBiRkZ4Z3hvSmNVcThmcXNUQ3hnRzJpTXdleUdaY3lWdFRTQ1FIbEVsdlN0SXdzekd4c1diQXgwRXhVSXV2WGJjcjMxTQ?oc=5",
-      "publishedAt": "Mon, 04 May 2026 08:01:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zNzV2b2VfUjRGNGNNZ1paSWRjVEI2N201a0JaajU2SmhZaS1ZSTVyUzhPNTVjZ250NWFya2NpbGpUckFHY2REOXlBYzJXRXNHQkpGdE1IQk5lVGM?oc=5",
+      "publishedAt": "Mon, 04 May 2026 09:51:08 GMT"
     },
     {
-      "title": "텔레픽스 등 4개사, 코스닥 상장 예비심사 신청",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyU0IzVkFMckd6cjlXS2c0Q29hWDFoYmxBajNTN3RpMjdQSHdINlROOEhRblRkXzk4M3FQVHg3UEthVl9kaXRIZmkxa2lvVFVKMFIwVVdrY0RSMFHSAWBBVV95cUxNUGVIaWNqa0JyRWFibC1iT2NsbC1ac0dMdmJ6RlA2dTUzeXY3X0FQWENiV2Z3czcwRUU0RjhwMGp0TGs3NWZLaFlQVktFakppc1NQQ0QzODNON1ZCaVZESkw?oc=5",
-      "publishedAt": "Mon, 04 May 2026 07:41:16 GMT"
-    },
-    {
-      "title": "GS건설, 서초진흥아파트 재건축 수주···6800억 규모",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BaHVISllxd0gyLUo4VTgzMmdSUkF3SnBWMlQwTGQwaXZrZlZDRk1ZZzBmb09hYWZlVkdFMUpIVURkZ0pQbVBUX2VuM3ZlTG9EdjVsTmxHaHBxelNzRGltb21EY25GcjE5bHRNc29Mc0V2bERzNWg3VA?oc=5",
-      "publishedAt": "Mon, 04 May 2026 08:05:00 GMT"
-    },
-    {
-      "title": "[속보] 뷰노 주가 장후 낙폭 확대…19%↓",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wWndUMVJ5LTBsNUlUZnIzN0ExbVZhRkUwdVBZSlBCOEFQdUhBRm8zZlEzcWRDaTdkN0V4cFFTZjludkw5X2ZxRHlEaDBWT1laWnpXMWRZaDlPYVU2VDlWVUJBc183eDJV?oc=5",
-      "publishedAt": "Mon, 04 May 2026 08:01:44 GMT"
-    },
-    {
-      "title": "서울시간호사회, '여성마라톤 대회' 참가",
-      "source": "라포르시안",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wSkxJUmFmZDZhQ2JXSVhGTGhMeVNVOVFNQWx6ejlDR2E3enZ4T3ZOVFhSWkx6VnJjd3ZKQ2NsRGptNGl3dFo2d3hXd1FBNkpLNkRBRHpwaWJDaUN1ZXNXNjNTd1VScjZPdXJrLQ?oc=5",
-      "publishedAt": "Mon, 04 May 2026 07:59:04 GMT"
-    },
-    {
-      "title": "[데일리픽] 비트코인 점유율 60% 넘어섰다…전기차 시장 '일파만파'",
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jT2swZEpPNWN0Ulo3YUI5d0xrUkliVms3LWJRdHpiTEVjSXdsTVJwNFFsTmRWRnZCNjZTQmN2UmxTVGRiQ3J5NFVFMDcyTFliUWdpRTNmZERXamdVQ191QzdLbkY4UFhNNGgwZkgzZC1JMDg?oc=5",
-      "publishedAt": "Mon, 04 May 2026 08:05:00 GMT"
-    },
-    {
-      "title": "스페인 총리 탄 비행기, 튀르키예 비상착륙…\"기술적 결함\"",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ybm9EUGFBeWxyNEpDU2pFM0FfX1pveFg2V3N1cjhjcUdJNWZjSWtXT21aNkhjb2F1UEk3NUd6U1FpZDZKeEhNN29KR1h4N3dVVDliYXNwSi10Sk3SAWBBVV95cUxOeEczc0NjOUwycVNNMG9DY3hVS0RhQVFnNHVYQjEtaXVoclRsc0h1Rmk2ekk2aVEzbTY4eWZTVzFEbkR2bC14ZDI0RDdCLVZ0aG8zV2oxSGNJNEc3MTc2UWE?oc=5",
-      "publishedAt": "Mon, 04 May 2026 07:35:10 GMT"
-    },
-    {
-      "title": "돌봄 매칭 플랫폼 '케어네이션', 'AI 의료정보' 서비스 오픈",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xWGxEb2FmQnZmckpOOUZoYzI4MGMwb1VRWWdpamlSXzNQQXg5TzlYR0JBV2x6d2hhTzJtYmZnWU5fa0M1WUxTczc4Z1gwNHQ0NTNnMW9LdXFIdHJCdFo3OUl2QjZlTm90eVhiX3p5S08zU1oxNElvZw?oc=5",
-      "publishedAt": "Mon, 04 May 2026 07:53:00 GMT"
-    },
-    {
-      "title": "현대차 2026년 4월 판매 8%↓…국내 19.9% 감소·부품 수급 차질 영향",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sMU1NdFJ6VGhxMXlpeFRRNlZ0bjY0SW5weHhmT25oX05BMVhfWVhieWs2bTdhOFVYRDVsMkFnbFMyTlJ2UGVSOGZ1R0swYWdQSUY4?oc=5",
-      "publishedAt": "Mon, 04 May 2026 07:51:00 GMT"
-    },
-    {
-      "title": "그래피, 미국 AAO 2026서 글로벌 확장 동력 확보",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CZVJvMkZXWlFlWnk4aGx6NG41aHlma1NmSUJya0RlYVpZcmRJcm4yYzJMR2oxVGhtTU5RVUhHN3pBUE9XZmtycUZ3OG1TTlFydVdN?oc=5",
-      "publishedAt": "Mon, 04 May 2026 07:39:00 GMT"
+      "title": "경북전문대, 2026학년도 호국인증제 프로그램 운영",
+      "source": "대경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GMXo4ZWFNN21hdUMyYzh0NjRXM0otTnJ4ZnF3MlVSRzRwRFQtUDBVZkdxRlVDdXNtM0ZWeFZGeUZvYTVHYWxGNTg2VVdzY2ZCZWVPcjNVYUZsdkJneUJmYnJ5djh4QlpC?oc=5",
+      "publishedAt": "Mon, 04 May 2026 10:13:27 GMT"
     }
   ],
   "sources": [
