@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-04T21:12:24.266220+09:00",
+  "generatedAt": "2026-05-04T23:27:53.886422+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,499.27",
-      "change": "-152.87",
-      "changePercent": "-0.31%",
+      "value": "49,253.03",
+      "change": "-246.24",
+      "changePercent": "-0.50%",
       "direction": "down",
-      "updatedAt": "2026-05-02 05:20"
+      "updatedAt": "2026-05-04 23:11"
     },
     {
       "label": "S&P 500",
-      "value": "7,230.12",
-      "change": "+21.11",
-      "changePercent": "+0.29%",
+      "value": "7,234.21",
+      "change": "+4.09",
+      "changePercent": "+0.06%",
       "direction": "up",
-      "updatedAt": "2026-05-02 05:20"
+      "updatedAt": "2026-05-04 23:16"
     },
     {
       "label": "나스닥",
-      "value": "25,114.44",
-      "change": "+222.13",
-      "changePercent": "+0.89%",
+      "value": "25,125.14",
+      "change": "+10.70",
+      "changePercent": "+0.04%",
       "direction": "up",
-      "updatedAt": "2026-05-02 05:15"
+      "updatedAt": "2026-05-04 23:11"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,473.00",
-      "change": "-2.50",
-      "changePercent": "-0.17%",
+      "value": "1,470.70",
+      "change": "-4.80",
+      "changePercent": "-0.33%",
       "direction": "down",
-      "updatedAt": "2026-05-04 21:04"
+      "updatedAt": "2026-05-04 22:01"
     },
     {
       "label": "100엔/원",
-      "value": "937.29",
-      "change": "-3.00",
-      "changePercent": "-0.32%",
+      "value": "936.24",
+      "change": "-4.05",
+      "changePercent": "-0.43%",
       "direction": "down",
-      "updatedAt": "2026-05-04 21:04"
+      "updatedAt": "2026-05-04 22:01"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약한 비",
-        "temperature": "12.3°C",
-        "feelsLike": "10.8°C",
+        "temperature": "10.3°C",
+        "feelsLike": "9.1°C",
         "highLow": "최고 19.0° / 최저 8.2°",
-        "humidity": "71%",
-        "wind": "5.4 m/s",
+        "humidity": "84%",
+        "wind": "4.3 m/s",
         "rainChance": "100%",
-        "pm10": "21.0 μg/m³",
-        "pm25": "18.8 μg/m³",
+        "pm10": "23.1 μg/m³",
+        "pm25": "20.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "24",
-        "updatedAt": "2026-05-04 21:00"
+        "airQualityIndex": "26",
+        "updatedAt": "2026-05-04 23:15"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "11.1°C",
-        "feelsLike": "9.2°C",
+        "temperature": "9.9°C",
+        "feelsLike": "8.2°C",
         "highLow": "최고 18.2° / 최저 6.8°",
-        "humidity": "84%",
-        "wind": "10.5 m/s",
+        "humidity": "93%",
+        "wind": "9.9 m/s",
         "rainChance": "100%",
-        "pm10": "21.0 μg/m³",
-        "pm25": "18.8 μg/m³",
+        "pm10": "23.1 μg/m³",
+        "pm25": "20.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "24",
-        "updatedAt": "2026-05-04 21:00"
+        "airQualityIndex": "26",
+        "updatedAt": "2026-05-04 23:15"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "11.4°C",
-        "feelsLike": "9.7°C",
+        "temperature": "8.7°C",
+        "feelsLike": "6.8°C",
         "highLow": "최고 19.1° / 최저 6.7°",
-        "humidity": "79%",
+        "humidity": "89%",
         "wind": "7.7 m/s",
         "rainChance": "100%",
-        "pm10": "21.0 μg/m³",
-        "pm25": "18.8 μg/m³",
+        "pm10": "23.1 μg/m³",
+        "pm25": "20.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "24",
-        "updatedAt": "2026-05-04 21:00"
+        "airQualityIndex": "26",
+        "updatedAt": "2026-05-04 23:15"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "9.9°C",
-        "feelsLike": "8.7°C",
-        "highLow": "최고 17.7° / 최저 8.0°",
-        "humidity": "93%",
-        "wind": "6.6 m/s",
+        "temperature": "8.0°C",
+        "feelsLike": "6.5°C",
+        "highLow": "최고 17.7° / 최저 8.2°",
+        "humidity": "97%",
+        "wind": "6.2 m/s",
         "rainChance": "98%",
-        "pm10": "21.1 μg/m³",
-        "pm25": "15.1 μg/m³",
+        "pm10": "27.9 μg/m³",
+        "pm25": "20.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "22",
-        "updatedAt": "2026-05-04 21:00"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-05-04 23:15"
       }
     ]
   },
@@ -283,6 +283,10 @@ window.DASHBOARD_DATA = {
             "price": "1,979원/L"
           },
           {
+            "district": "금천구",
+            "price": "1,979원/L"
+          },
+          {
             "district": "양천구",
             "price": "1,984원/L"
           },
@@ -293,10 +297,6 @@ window.DASHBOARD_DATA = {
           {
             "district": "관악구",
             "price": "1,985원/L"
-          },
-          {
-            "district": "금천구",
-            "price": "1,988원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[뉴스7 대전·세종·충남 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WZ1pBY194VWcyN2d1OXFSbUR5ei1OV05tVHdGU2pyNkZianNrWDlxSTFIQ0F3R0thTmJHYWxGNklSek9FazAzVjBySWR5YVhkTWwwNGFGYWd4cFk?oc=5",
-      "publishedAt": "Mon, 04 May 2026 11:37:00 GMT"
+      "title": "호르무즈 해협 우리 화물선 기관실서 화재 발생…정부 “원인 파악 중”",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54eXI1NXMyYWQwcGNJdG9zUjFPQUR2SEw4NlhvOElkUHlGSjhTSE1tSmFfRXBDM20xMXV5SGJ6R0dlVnZIOWZ6NDl0dzluNUVJa05EOUNzOVVrdTdIOVU3c2lBWdIBY0FVX3lxTE54eXI1NXMyYWQwcGNJdG9zUjFPQUR2SEw4NlhvOElkUHlGSjhTSE1tSmFfRXBDM20xMXV5SGJ6R0dlVnZIOWZ6NDl0dzluNUVJa05EOUNzOVVrdTdIOVU3c2lBWQ?oc=5",
+      "publishedAt": "Mon, 04 May 2026 13:29:00 GMT"
     },
     {
-      "title": "이준영의 WE (33회)",
+      "title": "여주대 앞 도로서 충돌 사고…6명 중경상",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92SHF3SDZWeFVDM3VXRVVLMDRpaWNKYmxFa1NtcEZ2UFZLNFp2UTc4RExBZVBqWkE0czRHUVpMR2F2Z0I5dktpejZyRjB0UmdEMmkw?oc=5",
-      "publishedAt": "Mon, 04 May 2026 12:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBueDIwbmxpNGdwZTU4S21JUTNNZVI5NXY2bGxjUnZ4VEJZUnJ2M2ZGVWNTUEt2QjA4V2s1eXdoZ2FEYmJEeWc5aG94eE03YVVBeDhj?oc=5",
+      "publishedAt": "Mon, 04 May 2026 14:16:00 GMT"
     },
     {
-      "title": "[비하인드 뉴스] 뜬금없는 \"김정은 대변인\"…'워싱턴 듀오' 철 지난 색깔론",
+      "title": "조정식·김태년·박지원 출사표…국회의장 '3파전'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KVXg1bFZqbWdTYjA2TzJ3TERYYmtxcVN1Zmp2dzR0OTNnSzBKLWQyZ1ZtRUNhT2Z0czl4eDVUZEFOelRuNERWNUE0V0ZDclo0Q2Zn?oc=5",
-      "publishedAt": "Mon, 04 May 2026 11:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYQnNPRVp4aWFacW1NLUpZWGo2RWU1VUMxaFNrb0ZTQUZBZXk5dmVBX1RWYVlVbkxGMS0xMmsyWll2STYzaVRRYlprQTgwV3dQSWlj?oc=5",
+      "publishedAt": "Mon, 04 May 2026 14:19:00 GMT"
     },
     {
-      "title": "시민단체, '공직선거법 위반' 혐의 정원오·주낙영 경찰 고발",
+      "title": "[뉴스NIGHT] 민주당 말실수 주의보…국힘 '정진석 공천' 갈등",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9maVlzLW8yMGU3S1UwaDF5WE9UVDRKYTZUUlNMbnp1TGZ3dFpMRExfVTBMODBoYXg4dTdERGRqQ2JMWTNVbm9FOWt3QTVmOXRnMlo0?oc=5",
-      "publishedAt": "Mon, 04 May 2026 11:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkVnVFTnZmS0hPREozNEVMTjdLczBqbjAzbjZmZ1lBNGE0RXlpekVSOW5ib2dMbHhCRkhWMzhtZDJmTUl1RWhydHpqWWxma1BWa1k0?oc=5",
+      "publishedAt": "Mon, 04 May 2026 14:00:00 GMT"
     },
     {
-      "title": "트럼프 \"호르무즈 통항지원\"…청와대 \"긴밀 소통\"",
+      "title": "세종 폐차장 화재 4시간여 만에 완진…1명 부상(종합)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyTGZWUWJDSDJhaVBXUnNUeWhIcFgyNnQ0eURsdFZHX0htQzZ3bHlEYzJGSDh6Si05UTI2WmQ1VTdzdEJHclpCcGwtaHlCaC1lR0o4?oc=5",
-      "publishedAt": "Mon, 04 May 2026 12:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHVnBGR3htMnZjWUtVZGdXNUdQWmtfSkhjanNSSlh3ZERmZUNGWVZ3WS1jWWVBdXZ5TzBMaF9TRWNYOUs2ODBfNGlhZzhOYXljOFQw?oc=5",
+      "publishedAt": "Mon, 04 May 2026 14:17:00 GMT"
     },
     {
-      "title": "민주당 강원도당, 광역의원 비례대표 순번 확정…박영림 1번",
+      "title": "정부 \"한국 국적 선박 호르무즈 피격 추정…인명피해 없어\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ienJhSENPbG1rVmR0aU5FR2hRdUdvdk53QUdHcTJuTjJpS2xkYVdWUEE5ZGloUkE2QVEwYWd3dTl3YTYteFJTMWdCbnZXcDNSVUY4?oc=5",
-      "publishedAt": "Mon, 04 May 2026 11:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRGxtX25WcTNIbUlDRldEWENodnBaNkJ1cW9fZTc2cXcyOUhCbzJZYVVQMS1Xc0JKX2NSbVhyZGxlbVE1eks4RGM1cUtTMTlialpzbndPWWlJaUZtSER1bXZvU3RUQXpwVVF2dVYyZTVJSVdJTjNPQg?oc=5",
+      "publishedAt": "Mon, 04 May 2026 14:00:00 GMT"
     },
     {
-      "title": "\"내란 혐의자도 후보\"…정진석 반격에 국힘 '당혹'",
+      "title": "EU-미국 무역수장, 5일 만난다…'유럽산 車관세 인상' 논의할 듯",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mS1JWeVNpQzZYOUhseDRZdzA3V3FmdE9sLVRpZXk5T2tLb1gtdUdHdUk5SDdpUzB3WC1ENXc4Sk4yTFh2ODhsQzVVZktxQjZDYV9mN3hLUloxTjjSAWBBVV95cUxON2tGb25VNE9XeXJZZ2U3VGJSMzllQ2VnNi1yT3AxT2ZIS0tYaXZYemhPcmJsel9xdWNBWTcwb0NkeHF3WkpsZDJ1TmZ6NmZWWEZzLWJDMkdLWl9uT2ZvaFo?oc=5",
+      "publishedAt": "Mon, 04 May 2026 14:19:42 GMT"
+    },
+    {
+      "title": "'있지만 없는' 응급 이송 체계, 언제까지 환자들이 생명을 걸고 떠돌아야 하는가?",
+      "source": "평화뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40X0otSlZKeDdZM1JxTjgtN0VKdWZ2TVlzVWx6b0ZVN3lNYl83OTFyUkhTak1lLXlfVEtIYU5BeU5yempWRTNSSjhMOHhRV3MwbmEwNEpNb0RtMWwxMGhkbmJLbnE?oc=5",
+      "publishedAt": "Mon, 04 May 2026 14:01:01 GMT"
+    },
+    {
+      "title": "[속보] HMM “벌크선 기관실 좌현서 폭발소리 함께 화재”",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qRkhIT2RhbVdaWFhSdjkxclN4WU5neHVWMS1qc2JGLWQzVjdvOUVXVVFSc3RDbHEzODFYcUhpR0VabjBHU0JBcmotVFJzRXhBRUtQNm94UkI2eVRDZmtV0gFTQVVfeXFMTmtFRmMtSjdxZHV5V0RJSVZGSTQzSjBCSHpRUzBZR3hwMng4djJ4Z1l3eUE4UkpMTURPVFRSV245UDBvSjYwcHhERVJfczQ0djZwdG8?oc=5",
+      "publishedAt": "Mon, 04 May 2026 14:13:30 GMT"
+    },
+    {
+      "title": "경주시, 2027년도 국비 확보 '총력전'…중앙부처 협의 본격화",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jZUFLZWJRbE1VS09wc3hxX0RqN0lIRE5qRmltZ3d2TmZLT3lqdlYyLWlqR2hkRDFpbElEMTVvOUYzc0ZSRVVPY2lTdWE4b0V0ckpV?oc=5",
-      "publishedAt": "Mon, 04 May 2026 11:49:00 GMT"
-    },
-    {
-      "title": "미 ‘해방 프로젝트’에 맞불…이란군, 호르무즈 통제구역 확대",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSNXVMMW1reTFtMm53MUVSU015dzZfY0p4dE1tRzk1SzZQQ1VHLXNkQTVKNnRKWk9OdEFqd3BNa2dBY01aQXgzU29FMU05Zw?oc=5",
-      "publishedAt": "Mon, 04 May 2026 11:12:39 GMT"
-    },
-    {
-      "title": "한동훈 \"李대통령, 자기사건 공소취소 시키면 탄핵\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYmQwUHRrYUhyNUk5UHVBWF8zVEFkOWo5UEZjNVBCY1lITTFZZVNRZ2tsV0tVbGFWTkFJSjVSYlp0cjBHanVwY08yN1Ayd0hhd3JZ?oc=5",
-      "publishedAt": "Mon, 04 May 2026 11:17:00 GMT"
-    },
-    {
-      "title": "세종시 폐차장 화재 확산…소방당국, 대응 2단계 발령",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RMHY3N2FMbmNOR1l0UXNEODhGOWIwUWxlNHNUUklpd3JFcXVWSkVmd2NkM2gyc2JCNUtzQ1g3NTNtbnU4RmlVNF9ydG5SajJSYzZj?oc=5",
-      "publishedAt": "Mon, 04 May 2026 11:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6UHdGWnYxXzJjd2o2cWN2SDdlMDVraGxmeVd4a3ZjT290M0pkZlFiNFVHZHJMRkk3S051S0UzYm1xN2JPLVdybFo3b1ZkT3ZqSXQ0?oc=5",
+      "publishedAt": "Mon, 04 May 2026 14:02:00 GMT"
     }
   ],
   "sources": [
