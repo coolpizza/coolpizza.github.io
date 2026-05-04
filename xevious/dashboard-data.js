@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-04T23:27:53.886422+09:00",
+  "generatedAt": "2026-05-05T01:22:27.490780+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,113 +22,113 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,253.03",
-      "change": "-246.24",
-      "changePercent": "-0.50%",
+      "value": "49,052.87",
+      "change": "-446.40",
+      "changePercent": "-0.90%",
       "direction": "down",
-      "updatedAt": "2026-05-04 23:11"
+      "updatedAt": "2026-05-05 01:01"
     },
     {
       "label": "S&P 500",
-      "value": "7,234.21",
-      "change": "+4.09",
-      "changePercent": "+0.06%",
-      "direction": "up",
-      "updatedAt": "2026-05-04 23:16"
+      "value": "7,193.19",
+      "change": "-36.93",
+      "changePercent": "-0.51%",
+      "direction": "down",
+      "updatedAt": "2026-05-05 01:06"
     },
     {
       "label": "나스닥",
-      "value": "25,125.14",
-      "change": "+10.70",
-      "changePercent": "+0.04%",
-      "direction": "up",
-      "updatedAt": "2026-05-04 23:11"
+      "value": "24,991.25",
+      "change": "-123.19",
+      "changePercent": "-0.49%",
+      "direction": "down",
+      "updatedAt": "2026-05-05 01:01"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,470.70",
-      "change": "-4.80",
-      "changePercent": "-0.33%",
-      "direction": "down",
-      "updatedAt": "2026-05-04 22:01"
+      "value": "1,478.00",
+      "change": "+2.50",
+      "changePercent": "+0.17%",
+      "direction": "up",
+      "updatedAt": "2026-05-04 22:02"
     },
     {
       "label": "100엔/원",
-      "value": "936.24",
-      "change": "-4.05",
-      "changePercent": "-0.43%",
+      "value": "939.76",
+      "change": "-0.53",
+      "changePercent": "-0.06%",
       "direction": "down",
-      "updatedAt": "2026-05-04 22:01"
+      "updatedAt": "2026-05-04 22:02"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "약한 비",
-        "temperature": "10.3°C",
-        "feelsLike": "9.1°C",
-        "highLow": "최고 19.0° / 최저 8.2°",
-        "humidity": "84%",
-        "wind": "4.3 m/s",
-        "rainChance": "100%",
-        "pm10": "23.1 μg/m³",
-        "pm25": "20.5 μg/m³",
+        "summary": "흐림",
+        "temperature": "9.0°C",
+        "feelsLike": "8.0°C",
+        "highLow": "최고 19.6° / 최저 7.8°",
+        "humidity": "95%",
+        "wind": "4.1 m/s",
+        "rainChance": "0%",
+        "pm10": "25.1 μg/m³",
+        "pm25": "22.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "26",
-        "updatedAt": "2026-05-04 23:15"
+        "airQualityIndex": "27",
+        "updatedAt": "2026-05-05 01:15"
       },
       {
         "location": "김포",
-        "summary": "약한 이슬비",
-        "temperature": "9.9°C",
-        "feelsLike": "8.2°C",
-        "highLow": "최고 18.2° / 최저 6.8°",
-        "humidity": "93%",
-        "wind": "9.9 m/s",
-        "rainChance": "100%",
-        "pm10": "23.1 μg/m³",
-        "pm25": "20.5 μg/m³",
+        "summary": "흐림",
+        "temperature": "8.4°C",
+        "feelsLike": "6.6°C",
+        "highLow": "최고 17.9° / 최저 7.2°",
+        "humidity": "94%",
+        "wind": "8.4 m/s",
+        "rainChance": "0%",
+        "pm10": "25.1 μg/m³",
+        "pm25": "22.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "26",
-        "updatedAt": "2026-05-04 23:15"
+        "airQualityIndex": "27",
+        "updatedAt": "2026-05-05 01:15"
       },
       {
         "location": "파주",
-        "summary": "약한 이슬비",
-        "temperature": "8.7°C",
-        "feelsLike": "6.8°C",
-        "highLow": "최고 19.1° / 최저 6.7°",
-        "humidity": "89%",
-        "wind": "7.7 m/s",
-        "rainChance": "100%",
-        "pm10": "23.1 μg/m³",
-        "pm25": "20.5 μg/m³",
+        "summary": "흐림",
+        "temperature": "7.1°C",
+        "feelsLike": "5.3°C",
+        "highLow": "최고 17.9° / 최저 6.9°",
+        "humidity": "99%",
+        "wind": "7.1 m/s",
+        "rainChance": "0%",
+        "pm10": "25.1 μg/m³",
+        "pm25": "22.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "26",
-        "updatedAt": "2026-05-04 23:15"
+        "airQualityIndex": "27",
+        "updatedAt": "2026-05-05 01:15"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
-        "temperature": "8.0°C",
-        "feelsLike": "6.5°C",
-        "highLow": "최고 17.7° / 최저 8.2°",
-        "humidity": "97%",
-        "wind": "6.2 m/s",
-        "rainChance": "98%",
-        "pm10": "27.9 μg/m³",
-        "pm25": "20.3 μg/m³",
+        "summary": "흐림",
+        "temperature": "6.7°C",
+        "feelsLike": "5.2°C",
+        "highLow": "최고 20.6° / 최저 5.3°",
+        "humidity": "99%",
+        "wind": "4.6 m/s",
+        "rainChance": "0%",
+        "pm10": "30.4 μg/m³",
+        "pm25": "22.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "29",
-        "updatedAt": "2026-05-04 23:15"
+        "airQualityIndex": "31",
+        "updatedAt": "2026-05-05 01:15"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 5월 4일 (월)",
+    "todayLabel": "2026년 5월 5일 (화)",
     "areas": [
       {
         "region": "서울",
@@ -346,15 +346,15 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "김포 최저가",
-        "lowestPrice": "1,967원/L",
+        "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "디더블유에너지",
-        "address": "경기 김포시 대곶면 대명항로 346",
-        "updatedAt": "2026-04-29 11:35:05",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-05-04 23:58:50",
         "districtSamples": [
           {
             "district": "김포시",
-            "price": "1,967원/L"
+            "price": "1,979원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "호르무즈 해협 우리 화물선 기관실서 화재 발생…정부 “원인 파악 중”",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54eXI1NXMyYWQwcGNJdG9zUjFPQUR2SEw4NlhvOElkUHlGSjhTSE1tSmFfRXBDM20xMXV5SGJ6R0dlVnZIOWZ6NDl0dzluNUVJa05EOUNzOVVrdTdIOVU3c2lBWdIBY0FVX3lxTE54eXI1NXMyYWQwcGNJdG9zUjFPQUR2SEw4NlhvOElkUHlGSjhTSE1tSmFfRXBDM20xMXV5SGJ6R0dlVnZIOWZ6NDl0dzluNUVJa05EOUNzOVVrdTdIOVU3c2lBWQ?oc=5",
-      "publishedAt": "Mon, 04 May 2026 13:29:00 GMT"
-    },
-    {
-      "title": "여주대 앞 도로서 충돌 사고…6명 중경상",
+      "title": "[주요경제지표] 2026년 5월 4일자",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBueDIwbmxpNGdwZTU4S21JUTNNZVI5NXY2bGxjUnZ4VEJZUnJ2M2ZGVWNTUEt2QjA4V2s1eXdoZ2FEYmJEeWc5aG94eE03YVVBeDhj?oc=5",
-      "publishedAt": "Mon, 04 May 2026 14:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90cklWb1pfdjJ3MGJ6bXp0NUpCN1hLb1pRY3NLekZkTGFmWGRDdGFnSDVaeEtubUhTaEhTM0gyRnNIdC04bVpiRFNyYkdBdWFOcENN?oc=5",
+      "publishedAt": "Mon, 04 May 2026 15:45:00 GMT"
     },
     {
-      "title": "조정식·김태년·박지원 출사표…국회의장 '3파전'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYQnNPRVp4aWFacW1NLUpZWGo2RWU1VUMxaFNrb0ZTQUZBZXk5dmVBX1RWYVlVbkxGMS0xMmsyWll2STYzaVRRYlprQTgwV3dQSWlj?oc=5",
-      "publishedAt": "Mon, 04 May 2026 14:19:00 GMT"
-    },
-    {
-      "title": "[뉴스NIGHT] 민주당 말실수 주의보…국힘 '정진석 공천' 갈등",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkVnVFTnZmS0hPREozNEVMTjdLczBqbjAzbjZmZ1lBNGE0RXlpekVSOW5ib2dMbHhCRkhWMzhtZDJmTUl1RWhydHpqWWxma1BWa1k0?oc=5",
-      "publishedAt": "Mon, 04 May 2026 14:00:00 GMT"
-    },
-    {
-      "title": "세종 폐차장 화재 4시간여 만에 완진…1명 부상(종합)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHVnBGR3htMnZjWUtVZGdXNUdQWmtfSkhjanNSSlh3ZERmZUNGWVZ3WS1jWWVBdXZ5TzBMaF9TRWNYOUs2ODBfNGlhZzhOYXljOFQw?oc=5",
-      "publishedAt": "Mon, 04 May 2026 14:17:00 GMT"
-    },
-    {
-      "title": "정부 \"한국 국적 선박 호르무즈 피격 추정…인명피해 없어\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRGxtX25WcTNIbUlDRldEWENodnBaNkJ1cW9fZTc2cXcyOUhCbzJZYVVQMS1Xc0JKX2NSbVhyZGxlbVE1eks4RGM1cUtTMTlialpzbndPWWlJaUZtSER1bXZvU3RUQXpwVVF2dVYyZTVJSVdJTjNPQg?oc=5",
-      "publishedAt": "Mon, 04 May 2026 14:00:00 GMT"
-    },
-    {
-      "title": "EU-미국 무역수장, 5일 만난다…'유럽산 車관세 인상' 논의할 듯",
+      "title": "전쟁중 레바논서 종파 간 갈등 분출 조짐",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mS1JWeVNpQzZYOUhseDRZdzA3V3FmdE9sLVRpZXk5T2tLb1gtdUdHdUk5SDdpUzB3WC1ENXc4Sk4yTFh2ODhsQzVVZktxQjZDYV9mN3hLUloxTjjSAWBBVV95cUxON2tGb25VNE9XeXJZZ2U3VGJSMzllQ2VnNi1yT3AxT2ZIS0tYaXZYemhPcmJsel9xdWNBWTcwb0NkeHF3WkpsZDJ1TmZ6NmZWWEZzLWJDMkdLWl9uT2ZvaFo?oc=5",
-      "publishedAt": "Mon, 04 May 2026 14:19:42 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLTC1MNkM5T1N5R1pWYUhhWVFyMklCVG5nNm05Z3ZVSW9tVlRpY1BzelQzNXlmSUNhU1U0WWdwRjliZUZvYXhlVmlFdjdkakZ6eXV3amFkUWxmbjTSAWBBVV95cUxNdEV0UFVLVE9GVk9ibWRSQ0RXa3hJekxmRWZIeFlUMm53OVBnRTh0MmROVHlVVlpwUTRVWE5vdVAxb0tRay1UYVc0UWJkdUoyWWwtSHptUVBxRFl5WWkwalM?oc=5",
+      "publishedAt": "Mon, 04 May 2026 15:43:45 GMT"
     },
     {
-      "title": "'있지만 없는' 응급 이송 체계, 언제까지 환자들이 생명을 걸고 떠돌아야 하는가?",
-      "source": "평화뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40X0otSlZKeDdZM1JxTjgtN0VKdWZ2TVlzVWx6b0ZVN3lNYl83OTFyUkhTak1lLXlfVEtIYU5BeU5yempWRTNSSjhMOHhRV3MwbmEwNEpNb0RtMWwxMGhkbmJLbnE?oc=5",
-      "publishedAt": "Mon, 04 May 2026 14:01:01 GMT"
+      "title": "스페인, 북대서양 선박서 코카인 '사상 최대' 40t 압수",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zZmVuMlZsTEVueExjV2QxQ2RnbGgwOUNiQUN3ekNGTTBwQkZ6MVFmblphRXVleTd6M0ZyLThzR2lJUXBaWFdVc2s4UDFBTnZxVzg5Z29YNXM3Sk3SAWBBVV95cUxNdE5pblh5TFZnSGE4QTlQSy11bWhoVnN6djd3UnhtRUx6QmFvNGFUelBxVHFpWTNvTVpBZE42VVdrV0NIanZhSjd2M3dfY2ZHU1JHc3pNRHl5dkIzQXZHeTU?oc=5",
+      "publishedAt": "Mon, 04 May 2026 15:36:11 GMT"
     },
     {
-      "title": "[속보] HMM “벌크선 기관실 좌현서 폭발소리 함께 화재”",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qRkhIT2RhbVdaWFhSdjkxclN4WU5neHVWMS1qc2JGLWQzVjdvOUVXVVFSc3RDbHEzODFYcUhpR0VabjBHU0JBcmotVFJzRXhBRUtQNm94UkI2eVRDZmtV0gFTQVVfeXFMTmtFRmMtSjdxZHV5V0RJSVZGSTQzSjBCSHpRUzBZR3hwMng4djJ4Z1l3eUE4UkpMTURPVFRSV245UDBvSjYwcHhERVJfczQ0djZwdG8?oc=5",
-      "publishedAt": "Mon, 04 May 2026 14:13:30 GMT"
-    },
-    {
-      "title": "경주시, 2027년도 국비 확보 '총력전'…중앙부처 협의 본격화",
+      "title": "[사진] 추경호·이철우, 박 전 대통령 예방",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6UHdGWnYxXzJjd2o2cWN2SDdlMDVraGxmeVd4a3ZjT290M0pkZlFiNFVHZHJMRkk3S051S0UzYm1xN2JPLVdybFo3b1ZkT3ZqSXQ0?oc=5",
-      "publishedAt": "Mon, 04 May 2026 14:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QLUZ1cVF1YUo0QWt6M19pbXZ0YjFIYlgxZUtRamVxci1YVDNkZ0c1LXJ4MjdyVmg2QjZFdnZGdndKV1FnQlNGMkdZb3hDWVdJaEVxZUpxSi14LWFXUy1pX3V4ZEJhaTl3MWp4dTRIS1ZTRU1rbXBKWQ?oc=5",
+      "publishedAt": "Mon, 04 May 2026 15:24:00 GMT"
+    },
+    {
+      "title": "[사진] 여당 부·울·경 단체장 후보 한자리",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtWUNYa21VWVVVUjN1OVdkVzVMaVZXcVliRXZ4ZXEtSzJhcTZmR3QwZzBKVlR1QUVrNktHSHo1c05zajY3bzRhVkM1WXFUTTVvVXJN?oc=5",
+      "publishedAt": "Mon, 04 May 2026 15:23:00 GMT"
+    },
+    {
+      "title": "국회의장 조정식·김태년·박지원 3파전",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rZ3V3MGU2ZmM4VmtMNGpnVFMxQzdFZjVNZ19GUnFHVXJGWUNnUzEyNWNQRTkzUGZ0VkhmNVhKUnlzMWlkVG0zWmp3OXJNdk1DSGhpYzcyT2d1ZUtQcFltX0JTMUs3SkpIcnFzN2E1UmFqU0poa1pITw?oc=5",
+      "publishedAt": "Mon, 04 May 2026 15:49:00 GMT"
+    },
+    {
+      "title": "'상선 통과' vs '미군 퇴각' 입씨름…누구 말이 사실일까",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIQXJvd2VoOVY0TU5SeURuNFF0eVF2NkFBaVRNeXJkR3lONlN6VlNxd0t1bHlYZGcxM3lxUjNzenB4YkRQa1NZNGRDYWE0WGRmLWJGT3hTQzFKZlJyWjFzbG9IWGxoYzNONHZhT2g2YzdDaU5PQXVxYg?oc=5",
+      "publishedAt": "Mon, 04 May 2026 15:47:00 GMT"
+    },
+    {
+      "title": "UAE도 OPEC도 증산한다지만…해협 꽉 막혀 '공염불'에 그쳐",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OVHdtdFNkVnF6M0J3Nzc3c2lwcUktQ3I5QWpSSjFCaGdLbnZXVFRIMEZRUkwzS0FDRGFCRUMtSVRSQmc5MEFVSmdEdzJfQi1vRnVr?oc=5",
+      "publishedAt": "Mon, 04 May 2026 15:52:00 GMT"
+    },
+    {
+      "title": "\"이 대통령, 임기 중 공소취소 절대 없다고 선언하라\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PTGVWMkY5dnRLYWkwZGNBSVFGck1Ub3pZM2tiZG5WZWdQWU9TQURCSVhOTWlhT3J0MGg1OW1nb2dVRWtuaEQ3dlI2dUs4TV9vZ3ln?oc=5",
+      "publishedAt": "Mon, 04 May 2026 15:28:00 GMT"
+    },
+    {
+      "title": "김세정, 아이오아이 '더러운 멤버 1위' \"그냥 더러워\" [아근진][★밤TView]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JWXdvaXNTN09zc0xjc18yTjlHbHU1S0hBRjB3RjlKRUhBWEI3NkNmQ21iRGYwZGNydHJoVmlUWGtjUU04djN5SUo4X2p0MzdGaUtv?oc=5",
+      "publishedAt": "Mon, 04 May 2026 15:33:00 GMT"
     }
   ],
   "sources": [
