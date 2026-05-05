@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-06T04:01:19.683667+09:00",
+  "generatedAt": "2026-05-06T05:10:38.215492+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,43 +22,43 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,258.54",
-      "change": "+316.64",
-      "changePercent": "+0.65%",
+      "value": "49,304.22",
+      "change": "+362.32",
+      "changePercent": "+0.74%",
       "direction": "up",
-      "updatedAt": "2026-05-06 03:44"
+      "updatedAt": "2026-05-06 04:51"
     },
     {
       "label": "S&P 500",
-      "value": "7,267.09",
-      "change": "+66.34",
-      "changePercent": "+0.92%",
+      "value": "7,256.91",
+      "change": "+56.16",
+      "changePercent": "+0.78%",
       "direction": "up",
-      "updatedAt": "2026-05-06 03:49"
+      "updatedAt": "2026-05-06 04:56"
     },
     {
       "label": "나스닥",
-      "value": "25,344.95",
-      "change": "+277.15",
-      "changePercent": "+1.11%",
+      "value": "25,320.26",
+      "change": "+252.46",
+      "changePercent": "+1.01%",
       "direction": "up",
-      "updatedAt": "2026-05-06 03:44"
+      "updatedAt": "2026-05-06 04:51"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,469.00",
-      "change": "-6.50",
-      "changePercent": "-0.44%",
+      "value": "1,469.50",
+      "change": "-6.00",
+      "changePercent": "-0.41%",
       "direction": "down",
-      "updatedAt": "2026-05-04 22:11"
+      "updatedAt": "2026-05-04 22:12"
     },
     {
       "label": "100엔/원",
-      "value": "930.39",
-      "change": "-9.90",
-      "changePercent": "-1.05%",
+      "value": "930.74",
+      "change": "-9.55",
+      "changePercent": "-1.02%",
       "direction": "down",
       "updatedAt": "2026-05-04 22:12"
     }
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "8.3°C",
-        "feelsLike": "6.3°C",
+        "temperature": "8.0°C",
+        "feelsLike": "5.8°C",
         "highLow": "최고 22.0° / 최저 7.8°",
-        "humidity": "71%",
-        "wind": "3.3 m/s",
+        "humidity": "72%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "22.0 μg/m³",
-        "pm25": "19.8 μg/m³",
+        "pm10": "23.9 μg/m³",
+        "pm25": "21.1 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 03:45"
+        "updatedAt": "2026-05-06 05:00"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
         "temperature": "7.2°C",
-        "feelsLike": "4.9°C",
+        "feelsLike": "4.8°C",
         "highLow": "최고 20.2° / 최저 7.2°",
-        "humidity": "87%",
-        "wind": "8.2 m/s",
+        "humidity": "88%",
+        "wind": "9.2 m/s",
         "rainChance": "0%",
-        "pm10": "22.0 μg/m³",
-        "pm25": "19.8 μg/m³",
+        "pm10": "23.9 μg/m³",
+        "pm25": "21.1 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 03:45"
+        "updatedAt": "2026-05-06 05:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "5.7°C",
-        "feelsLike": "3.1°C",
+        "temperature": "6.1°C",
+        "feelsLike": "3.6°C",
         "highLow": "최고 19.7° / 최저 5.7°",
-        "humidity": "87%",
-        "wind": "7.7 m/s",
+        "humidity": "89%",
+        "wind": "7.8 m/s",
         "rainChance": "0%",
-        "pm10": "22.0 μg/m³",
-        "pm25": "19.8 μg/m³",
+        "pm10": "23.9 μg/m³",
+        "pm25": "21.1 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 03:45"
+        "updatedAt": "2026-05-06 05:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "6.8°C",
-        "feelsLike": "4.4°C",
+        "temperature": "7.1°C",
+        "feelsLike": "4.7°C",
         "highLow": "최고 23.7° / 최저 6.7°",
-        "humidity": "85%",
-        "wind": "7.4 m/s",
+        "humidity": "88%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
         "pm10": "17.5 μg/m³",
-        "pm25": "16.7 μg/m³",
+        "pm25": "16.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 03:45"
+        "airQualityIndex": "31",
+        "updatedAt": "2026-05-06 05:00"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜김포제2주유소",
-        "address": "경기 김포시 대곶면 대곶북로 347",
-        "updatedAt": "2026-05-05 20:32:17",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-05-06 00:59:13",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[속보] 미 기준금리 두 차례 연속 동결…1회 인하 전망 유지",
+      "title": "[오늘의 주요 일정] 경기(6일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZTFxUmtpNmZCWTM5cUEyYXMwLTlodGJTZ2JERVFjZHdxMzA0eGpISUZTYXNOQUtLcVNlLUhrSFJ1a3FNV3RTVENVUzZKNUNWYmJLTldn?oc=5",
+      "publishedAt": "Tue, 05 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 정치·정부 (6일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXWExYMFNyUFNsaUNKVHI3M0ZvNVNwQUZSWkZYU29zcU1BTm9VaGMtb1Rybk9sdjZ5bm4wS3JsOXNERnJ3UHVYNFpGQ2NESGpUX0F2WVJfUGUzRXpxSXAtVjZVc2luRWlVYzFNU2c1UGFwOG5qa0hmTA?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIWjBuaFNFRnZRU2s4Yldna3VaVTQyY2JxN1JLSHhwZjdSWmk3SlNlMHZTMG9Sa2NyS0kySnJtLThVeHhlLWxVUkY3bjY4ZXc1UDA4?oc=5",
+      "publishedAt": "Tue, 05 May 2026 20:00:00 GMT"
     },
     {
-      "title": "한국천연염색박물관 프랑스 낭트 상륙, 한국의 봄 축제서 전통미 선사",
-      "source": "이트레블뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9kUmlPV3RHY1pMZ2lwelB1STNmcnpzMGxyUEI3amJXVHJ6aHF2ZkRCZWNQckpZbHpTcVZsLWdmZVRIUEtw?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:11:00 GMT"
+      "title": "[오늘의 주요일정]제주(6일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fYnNBSHJFeXRzc2hLQ2NQUVNZbEpWcGUtQVBsRVhCaTk1ME9LUEF0Y1lxU3FZTzFqT2tHSFM2UDhYaXBqeXhKYWl0VFh5ckxQ?oc=5",
+      "publishedAt": "Tue, 05 May 2026 20:00:00 GMT"
     },
     {
-      "title": "피겨, 美 모기지 시장 진출…\"대출 비용 90% 절감\"",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RREN2Tm9RQURRRzktQmU4VFNYd21qTWx2V3VDV1dfT0tfUXE2YmREQlNDdi1nZG5lVXRwS09XekhZbDQ2eHV3MjdsVnBzN1A0?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:07:24 GMT"
-    },
-    {
-      "title": "트럼프 \"이란·미국 모두 합의 원해…핵포기 등 주요쟁점 합의\"",
+      "title": "[오늘의 주요일정] 충북·세종(6일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LdmNLaUlha1gya19UZFZlMExlcWFfNEdxSUlnZzNEY3JmYjBaTy1VU2hoa1pRTVJFWHl6SjE0LU1QbUJOeE5wcHVyYTh5aWlLUWJGTHk5T21jU21aMzZ2aw?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1R1dBelBqWjFPMFItSERjVkg5bVMtQTNOUDdMN09sREdHenlxU28xVHhMYlM3TjBnaFFNZjl0Q1doYzBwd29lajMydWZ0V0h6LWRV?oc=5",
+      "publishedAt": "Tue, 05 May 2026 20:02:00 GMT"
     },
     {
-      "title": "[美특징주]사이토키네틱스, 심장질환 치료제 임상 3상 성공…주가 17% 급등",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTVqOWctc21oRXFiUnQ4RDdvbnFWR1hlRlk0cXQ0VjNLR2djYVREdGhBMHNUTmtGbFhaUUZYRHJUdnVYTFNXTUxqYVoxLTZPVlBIdDltRjJ3WGZnV3hjUmNJdTBKVW5DWHZiU1p0QnhzS1NBa2libWJPUGQzYzhsOQ?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:27:57 GMT"
+      "title": "[오늘의 주요일정] 충북·세종(6일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Rc21salh0Z1hiOFJMcEFwSGk2T05oN2lNQVdGRFU5UHB1akdTaVZUSDg5RUIzbEg2WGFvYzdwMWRVSU53RUNsOGU4UF9ZdjRGZmhNVTVsUmQwSHR2YnlV?oc=5",
+      "publishedAt": "Tue, 05 May 2026 20:01:00 GMT"
     },
     {
-      "title": "美 SEC, 분기보고 폐지 검토…가상자산 상장사 영향 주목",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyNVJNYVRZc2hhUUlEOEZhRm9WMlBqU3AyUjdtQjltandLT1hTZ2JEdk56eHR1WFNRSUpfSkU3VlZFSzlNYjcyd2ZmT21Zb0JZ?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:05:31 GMT"
-    },
-    {
-      "title": "\"2주 전부터 고민\" 한화 출신 리베라토 흔든 가족사→결국 0홈런 방출로 이어졌다",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jbndUTFFKcVVGX3ZZMmN6b0lPRFRoMno1YWlVZi13TGUyTjhHbGc0ZWE0MHNla3QxMzVYdEhqNUdUcU5CU0dJUUg0UHhHQkMwQkR0MmFUbmJZdElk?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:33:00 GMT"
-    },
-    {
-      "title": "\"술 마시자고 먼저 꼬셨다\" 배성재, '14세 연하' 김다영과 첫 만남 비화",
+      "title": "[오늘의 주요일정] 부산·경남(6일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XYm84cS1SUTZfX0xQa192S21jMV91YVd3RlNxX3RBb3A1ak1rNTk1RmxGSFpjOWd5djk0REtvRFhQMW05TFIyWEs5WEVTbjdrX0Vv?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HbTdWTjFQaHlKYlRXUzFCeW03UnBXVmR6MmFjVFF1NEl4a215b1J2a2drakx5X2FmZHV4ZElZME55bU10LVMtOXlBQS1XTVRxM0N3?oc=5",
+      "publishedAt": "Tue, 05 May 2026 20:01:00 GMT"
     },
     {
-      "title": "'빅쇼트' 마이클 버리, 이베이 인수 게임스탑 '손절'",
-      "source": "마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uLXpDS0dLV2pEUkZMUjBkZ3FBdTNENU9lVmRJb2ZBaTFVVk1zSlBkb1dXREZ2ZVl5TTVMckxUMG9teHBOUjRqRHRHOUZPYS1DNHJvQUxKRWx0ekNncFAyWTMxOWN6WDM1VkR3eWI0TWJ6Q1U?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:34:47 GMT"
+      "title": "[오늘의 주요일정] 전북(6일, 수)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TRjVXdnY1MlZybW9rQ0VwR2tuc2VPMEdrdDdxQ1VKbjBXa2FaVi1DZjZycW9zcDJDYU0xN0dQN1FMTm04eTZRRzBGNXIwdERIbWt3?oc=5",
+      "publishedAt": "Tue, 05 May 2026 20:01:00 GMT"
     },
     {
-      "title": "레고 배트맨 레거시 오브 더 다크 나이트 PS5 게임 미리보기",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2p6bm0xd3ZsWDVpZ2x5UzJTcVBCSzRyMUlObEtuLUszUlZfaEFjVTBjOTRzWm1LejRoS3ZHSGZ3V3dwclpjbkVhZ2NEckc4TDZCR0Z0Y1NHR2R2VEg1RkdFNUQ0MEZmSUpLRkt0RkRicVZLMkpBVWM0VUFlaElkZFZBSVI3QUZDNm1UaTFER2RFbEJKSmc?oc=5",
-      "publishedAt": "Tue, 05 May 2026 17:09:20 GMT"
+      "title": "\"존경스럽고 멋진 직업\"…지구대 찾아 손편지 건넨 초등생들[오따뉴]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlTDh3RkZjSzE5akdtQlJNQVVyYWdTcy1Hckh6aHRqYU1BTDYtYWVsTW43R0NEeHZxbVFjbFhpMW15ZGszVmx2RzQtTFcwSFlpMTdISW9acW5aU2kybVdmSF9lY0pTVnRZeTh6THFOM2hJUjZfX29JaQ?oc=5",
+      "publishedAt": "Tue, 05 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "美텍사스주 한인타운에서 총격 사건…2명 사망·3명 부상",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uV251UWM3am16MmNJMlZadGV2Um9YMXdqRWNxdFhZOGF4RXhucVZxWWpyR3RMM2w4eGpTZWdzVGZ4SlYwUmVZU2FCMWtaWTJ4elU4d3ZXODBidEVLREg1Rg?oc=5",
+      "publishedAt": "Tue, 05 May 2026 19:47:00 GMT"
+    },
+    {
+      "title": "시장 관점서 우주산업 조명한 K-우주포럼…기업·투자자 협업 생태계 구축 목소리",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sOWdySHl3a2gtYlhhZ3dTOGJsdWxWM2lRdVg3RWRmbXZpMVd2WGU0R0JiZXFxYm5YQWlVT3VaeXpHZ0VwWEVQWU1takVpU1BaQmpYeVJkX1hVa1lfYlJSM21nT3o5QkI4M3dza3Uxd1JaQWhMdDJCUA?oc=5",
+      "publishedAt": "Tue, 05 May 2026 19:15:00 GMT"
     }
   ],
   "sources": [
