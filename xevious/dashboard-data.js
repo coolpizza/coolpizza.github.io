@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-05T21:53:30.680612+09:00",
+  "generatedAt": "2026-05-06T01:23:01.165976+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,113 +22,113 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "48,941.90",
-      "change": "-557.37",
-      "changePercent": "-1.13%",
-      "direction": "down",
-      "updatedAt": "2026-05-05 05:20"
+      "value": "49,199.15",
+      "change": "+257.25",
+      "changePercent": "+0.53%",
+      "direction": "up",
+      "updatedAt": "2026-05-06 01:02"
     },
     {
       "label": "S&P 500",
-      "value": "7,200.75",
-      "change": "-29.37",
-      "changePercent": "-0.41%",
-      "direction": "down",
-      "updatedAt": "2026-05-05 05:20"
+      "value": "7,258.45",
+      "change": "+57.70",
+      "changePercent": "+0.80%",
+      "direction": "up",
+      "updatedAt": "2026-05-06 01:07"
     },
     {
       "label": "나스닥",
-      "value": "25,067.80",
-      "change": "-46.64",
-      "changePercent": "-0.19%",
-      "direction": "down",
-      "updatedAt": "2026-05-05 05:15"
+      "value": "25,302.08",
+      "change": "+234.28",
+      "changePercent": "+0.93%",
+      "direction": "up",
+      "updatedAt": "2026-05-06 01:02"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.00",
-      "change": "-1.50",
-      "changePercent": "-0.10%",
+      "value": "1,469.00",
+      "change": "-6.50",
+      "changePercent": "-0.44%",
       "direction": "down",
-      "updatedAt": "2026-05-04 22:10"
+      "updatedAt": "2026-05-04 22:11"
     },
     {
       "label": "100엔/원",
-      "value": "934.21",
-      "change": "-6.08",
-      "changePercent": "-0.65%",
+      "value": "931.49",
+      "change": "-8.80",
+      "changePercent": "-0.94%",
       "direction": "down",
-      "updatedAt": "2026-05-04 22:10"
+      "updatedAt": "2026-05-04 22:11"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "12.2°C",
-        "feelsLike": "10.9°C",
-        "highLow": "최고 19.2° / 최저 6.9°",
-        "humidity": "63%",
-        "wind": "1.3 m/s",
+        "summary": "대체로 맑음",
+        "temperature": "9.6°C",
+        "feelsLike": "7.5°C",
+        "highLow": "최고 21.7° / 최저 8.2°",
+        "humidity": "65%",
+        "wind": "3.8 m/s",
         "rainChance": "0%",
-        "pm10": "17.1 μg/m³",
-        "pm25": "16.8 μg/m³",
+        "pm10": "22.1 μg/m³",
+        "pm25": "20.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-05 21:45"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-05-06 01:15"
       },
       {
         "location": "김포",
-        "summary": "흐림",
-        "temperature": "9.4°C",
-        "feelsLike": "7.0°C",
-        "highLow": "최고 17.3° / 최저 6.7°",
-        "humidity": "77%",
-        "wind": "8.7 m/s",
+        "summary": "대체로 맑음",
+        "temperature": "8.1°C",
+        "feelsLike": "5.4°C",
+        "highLow": "최고 20.0° / 최저 7.5°",
+        "humidity": "79%",
+        "wind": "9.5 m/s",
         "rainChance": "0%",
-        "pm10": "17.1 μg/m³",
-        "pm25": "16.8 μg/m³",
+        "pm10": "22.1 μg/m³",
+        "pm25": "20.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-05 21:45"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-05-06 01:15"
       },
       {
         "location": "파주",
-        "summary": "흐림",
-        "temperature": "9.1°C",
-        "feelsLike": "6.6°C",
-        "highLow": "최고 17.4° / 최저 6.9°",
-        "humidity": "75%",
-        "wind": "8.9 m/s",
+        "summary": "약간 흐림",
+        "temperature": "7.0°C",
+        "feelsLike": "4.5°C",
+        "highLow": "최고 19.4° / 최저 6.3°",
+        "humidity": "79%",
+        "wind": "7.4 m/s",
         "rainChance": "0%",
-        "pm10": "17.1 μg/m³",
-        "pm25": "16.8 μg/m³",
+        "pm10": "22.1 μg/m³",
+        "pm25": "20.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-05 21:45"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-05-06 01:15"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "10.9°C",
-        "feelsLike": "9.2°C",
-        "highLow": "최고 20.6° / 최저 5.7°",
-        "humidity": "80%",
+        "summary": "대체로 맑음",
+        "temperature": "8.1°C",
+        "feelsLike": "5.7°C",
+        "highLow": "최고 24.0° / 최저 7.4°",
+        "humidity": "78%",
         "wind": "7.5 m/s",
         "rainChance": "0%",
-        "pm10": "10.4 μg/m³",
-        "pm25": "10.0 μg/m³",
+        "pm10": "16.5 μg/m³",
+        "pm25": "16.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "31",
-        "updatedAt": "2026-05-05 21:45"
+        "airQualityIndex": "30",
+        "updatedAt": "2026-05-06 01:15"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 5월 5일 (화)",
+    "todayLabel": "2026년 5월 6일 (수)",
     "areas": [
       {
         "region": "서울",
@@ -272,12 +272,16 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,979원/L",
-        "lowestDistrict": "강서구",
-        "stationName": "이케이에너지(주) 강서주유소",
-        "address": "서울 강서구 화곡로 273 (화곡동)",
-        "updatedAt": "2026-05-05 15:02:01",
+        "lowestPrice": "1,973원/L",
+        "lowestDistrict": "송파구",
+        "stationName": "위례드림주유소",
+        "address": "서울시 송파구  위례중앙로 10",
+        "updatedAt": "2026-05-05 23:53:14",
         "districtSamples": [
+          {
+            "district": "송파구",
+            "price": "1,973원/L"
+          },
           {
             "district": "강서구",
             "price": "1,979원/L"
@@ -293,10 +297,6 @@ window.DASHBOARD_DATA = {
           {
             "district": "은평구",
             "price": "1,984원/L"
-          },
-          {
-            "district": "관악구",
-            "price": "1,985원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "오픈 AI, 프롬프트 사용 '정답 공식' 공개",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EOXBpSmFYNXRDSTdDN2JoMmRpRVMzYl9lTFhuZEZuRDh1MGxXc2stVkk5QVBHWW5QVW5LOGxqWjFZdlB2Wnp4MXhpMk01bmRDcUNTTlplX0VQdkl6b291ZHo0V2ttTmhJTjc0?oc=5",
-      "publishedAt": "Tue, 05 May 2026 12:39:42 GMT"
-    },
-    {
-      "title": "김관영 전북지사, 무소속 출마 결정…\"내일 예비후보 등록\"",
+      "title": "'장동혁 디커플링' 효과인가…오세훈, 격차 좁히며 추격",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VY213a2RXN1dIX3NqaWZEVmVzWW11c0U1ZFVaSVFoUGFISk1oSWVvcXVLSE1XNWdhejZXYnBCQ3FNOThyUkt2OHRBanR2RjNzRTdj?oc=5",
-      "publishedAt": "Tue, 05 May 2026 12:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rZXBXRWNSamE0X1VJX0tXSERteXNDUEctVDZMOHB2amJmemdBeTVBSkQ2OGgyMXFQNHRCcEh5ZkVHVTJjcHZjVjlTZGpqT1BNRHhN?oc=5",
+      "publishedAt": "Tue, 05 May 2026 15:51:00 GMT"
     },
     {
-      "title": "정부, 먹거리 물가 부담 완화 행사.. 농축·수산물 최대 50% 할인",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjbWxrejZ6NHZTdEY1cUlTSE1WRnhYeTNYUmhZMERiSmxkS1J3NWU0ZzNoNW1lTUItM3pIYlpoc0tSQ3VQY3N6Uk5nSXFiU29fTGd5Ny16TTFxSkE4MnR6amtWY0IyMnNqT0k4?oc=5",
-      "publishedAt": "Tue, 05 May 2026 12:17:05 GMT"
+      "title": "'이러니 호날두가 반하지' 조지나, 속 다 비치는 전신 시스루 '아찔'…레드카펫 초토화",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mQ3BSR3VnZi1Eb1F6Z0xjVTItSnlDaXJMdC1pLTJjdjBTcVc0R1ZrSkk3bm42amlWUlQ2djc5SGVCcUgzemoxY1F1eGkydFNrUHdOaGFBSGljeG9B?oc=5",
+      "publishedAt": "Tue, 05 May 2026 16:06:00 GMT"
     },
     {
-      "title": "이재명 대통령, 어린이날 청와대 초청행사",
+      "title": "與지지율 밑도는 하정우…박민식·한동훈 단일화 요구 커진다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxVzdwWjExZGVLLUJWTTBtZHAxRElWZHdzWkR4OU96LWpTLUNNdHZGaDBWWU5uZFM3c2RBRzB0N0FVOU9fVkwxVTNZeE5rdkx2T1JBa2dMMmdPUHgyaWI5cg?oc=5",
-      "publishedAt": "Tue, 05 May 2026 12:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kUjlVM0pxbTJtdWxCWFZBYTlyNFk2TzRVTXEwOXZrQXNSRUctXzFNVmtiRjgxdVZSOE1HTXJ1TExIUE9tcXlrQWtqSjBfSUh1Nklz?oc=5",
+      "publishedAt": "Tue, 05 May 2026 15:51:00 GMT"
     },
     {
-      "title": "아이유·최강창민·한지민…어린이날 기부 릴레이",
+      "title": "구글, 자체 AI 칩 판매 확대 나섰지만 美 주요 데이터센터 \"도입 계획 없어\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oa0RVV3AwdTFkTm11OW1PeExkNm8tYlEzT0E0Z0JubDdkbVhwSGU4VXFhN1djQmNUS1lac0dlVDNvU21obkJwY1gtcE5aY3dUWnVZ?oc=5",
-      "publishedAt": "Tue, 05 May 2026 12:41:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kRkl1b2hDWkVrMDJKNkswUmhFRFlQZnpnSXdIZlZBVlFEVDdqV0NwMElfLV9CSnZkWWVkNWV5ejM0cmZFQnVzX3ljX2lva2pLV2xR?oc=5",
+      "publishedAt": "Tue, 05 May 2026 15:35:00 GMT"
     },
     {
-      "title": "신기한 대나무 서커스[포토뉴스]",
+      "title": "'다리 절단할 뻔했는데' 인간 승리 린지 본, 지팡이 짚고 파격 드레스 등장 \"8번 대수술 후 3개월만\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92LU9BSmdacVNReXREbFVBZ01qU0pCSGJoZnBBQW5LNXAwcXlGMWtHa0RrTzI2bGRxei1FVzZDRWJKaEhRMDBNdzBYSzk4WW9oTWx3?oc=5",
-      "publishedAt": "Tue, 05 May 2026 11:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BNm1nRWtaTUlyV28weURaTzllMFUxY3JfcDhvak9ib2NlVDlMNTRqUlpaNXp6RURXbUx6Z0QyeWRlSmRWYjNvRjlfbS1xZWYxLTRvTHlPZnNJVVZWMGIyVEZoQ1gwNnE4NGRVTW5BNFFGTmdnOGZyaQ?oc=5",
+      "publishedAt": "Tue, 05 May 2026 15:51:00 GMT"
     },
     {
-      "title": "시민단체 \"비수도권서만 뺑뺑이 비극.. 정부, 필수의료 책임져야\"",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHeUlueWttbHMwWC1NMWo3b0FRQ2I0WWFRMG5RNXE3WWlWb2xnS1JXcFdOZlhTYkMtNkY0M3U5aUJnNDF6Q2xJVTBFU21DckZic1JmeFhEWDVjYzA2WGUxT0pqektCNjhpYVlN?oc=5",
-      "publishedAt": "Tue, 05 May 2026 12:33:58 GMT"
+      "title": "[오늘의 경제뉴스] 주 4.5일제 추진 속도…\"실노동시간 2030년 1,739시간 전망\"",
+      "source": "뉴스버스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTQmJaNTJCLWpBVDk3TmlpamxKcE5rNmhsRkVjQVcySXpsemZCcFZMU3YyX0Z3UkJ3Ml9aUEMzR29XSVpOV2pmSDhQZWgtQkdCRG5VUzJqd0IzaFhOWnZBdHNpenVmd2dRWUE?oc=5",
+      "publishedAt": "Tue, 05 May 2026 16:14:11 GMT"
     },
     {
-      "title": "\"한국 아동 학업능력 4위·정신건강 34위.. 4세·7세 고시 심각\"",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tY2xCblhCZHJDakMtb3JvdGlwMDZFU3hIVUJHLWt1Q2RrUW10ZWxQeTBtcUFsQjc5ZHA5T05tZmFwVjd0SlhuSG5qN2NVTEJfYW5GRVFjYjFQbjdVQklwRWN6SW1UMVVJeUw4?oc=5",
-      "publishedAt": "Tue, 05 May 2026 12:19:35 GMT"
+      "title": "SOFTSWISS와 루벤스 바리첼로, 파트너십 3년 차 돌입",
+      "source": "코리아이글뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hWmhEM2dpR0tKR08yUkEtZWdQb3NvRGNxUkVfajIyNG9xbE5VRDhzUWJMOW9zbk1ZdWRBcHZyQWo3ODA0UUxXS3lDV0RTcVM3MFBVSFR1aHc0Z0cyaW9ldWRKaEJzdTd4OC1xNE95X1B3dw?oc=5",
+      "publishedAt": "Tue, 05 May 2026 15:42:00 GMT"
     },
     {
-      "title": "반도체 회로 설계 '119시간 → 28.5시간' 단축",
+      "title": "삼전닉스 효과…경기 남부 부동산 들썩",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UTnVMMFk2ejhZeFpSdmhUOTVsLU8xREZoTUpOSFVydE1SeHNLQmFqYi1FcWZtbjJxaGJ4M3RTR0ZyVjFRaHNJMVBlX1dlOXREMGpv?oc=5",
-      "publishedAt": "Tue, 05 May 2026 12:41:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zY3Z2TXc0aWR2MHBZb25EY0VXNmZmeERxaXF3TTgtZDBack9WcWVTNlRWZ2MwSVFqZk9iMzMzd3pfQjNqRUU3V2VGanpoRGxDaXdn?oc=5",
+      "publishedAt": "Tue, 05 May 2026 15:38:00 GMT"
     },
     {
-      "title": "물놀이하던 아이들 \"이게 뭐지?\"…대구 군위서 6·25 당시 폭탄 발견",
+      "title": "LG전자, 세계 주요 ESG평가기관서 잇단 '최고등급'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QM2trTnB4d0lnWExzRHpSQm1TZllXS3g3a3h4WG13ano1eDhLeW5mV3lWLXppSFlrV2dJV2NzVWlCcnpOTy1namN6ZGl6NjhXTU9lQ2twRzB5ckFqRGp1aFo5TGk4cmFuVnUxTnotb0lqLXFBdTJjRA?oc=5",
-      "publishedAt": "Tue, 05 May 2026 12:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MaE9ubDYtTjA0NWRnMU9MMUduQzB3YTNMemtBalVHXzl3bmxvRmg2Y1RfV2UtejhQeTV6MGpsM3JCSy1nREl5dlN6N2ZhM3ZDOW1N?oc=5",
+      "publishedAt": "Tue, 05 May 2026 15:31:00 GMT"
+    },
+    {
+      "title": "\"어린이날이요? 그냥 학원 가는 날이에요\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQek83c1FQUGJQVXhYdVpobWp1bGI4eXdybjlJTEVrSl8zQmNOQU1sUWtaTTltemxwZ2U2eFpRUG9faG1ha2xVdkxaMFJxVTV3bGQ4?oc=5",
+      "publishedAt": "Tue, 05 May 2026 15:47:00 GMT"
     }
   ],
   "sources": [
