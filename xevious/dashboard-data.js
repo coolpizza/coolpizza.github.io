@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-05T17:38:20.756528+09:00",
+  "generatedAt": "2026-05-05T19:25:12.628647+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.00",
-      "change": "-1.50",
-      "changePercent": "-0.10%",
+      "value": "1,474.60",
+      "change": "-0.90",
+      "changePercent": "-0.06%",
       "direction": "down",
       "updatedAt": "2026-05-04 22:10"
     },
     {
       "label": "100엔/원",
-      "value": "937.27",
-      "change": "-3.02",
-      "changePercent": "-0.32%",
+      "value": "937.12",
+      "change": "-3.17",
+      "changePercent": "-0.34%",
       "direction": "down",
       "updatedAt": "2026-05-04 22:10"
     }
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "17.6°C",
-        "feelsLike": "15.5°C",
+        "temperature": "15.2°C",
+        "feelsLike": "13.2°C",
         "highLow": "최고 19.1° / 최저 6.9°",
-        "humidity": "41%",
-        "wind": "5.5 m/s",
+        "humidity": "46%",
+        "wind": "4.1 m/s",
         "rainChance": "0%",
-        "pm10": "8.4 μg/m³",
-        "pm25": "8.0 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-05-05 17:30"
+        "pm10": "15.2 μg/m³",
+        "pm25": "15.0 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "33",
+        "updatedAt": "2026-05-05 19:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "15.6°C",
-        "feelsLike": "13.3°C",
+        "temperature": "12.5°C",
+        "feelsLike": "10.4°C",
         "highLow": "최고 17.2° / 최저 6.7°",
-        "humidity": "55%",
-        "wind": "10.0 m/s",
+        "humidity": "67%",
+        "wind": "8.2 m/s",
         "rainChance": "0%",
-        "pm10": "8.4 μg/m³",
-        "pm25": "8.0 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-05-05 17:30"
+        "pm10": "15.2 μg/m³",
+        "pm25": "15.0 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "33",
+        "updatedAt": "2026-05-05 19:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "15.9°C",
-        "feelsLike": "12.9°C",
+        "temperature": "12.7°C",
+        "feelsLike": "10.7°C",
         "highLow": "최고 17.4° / 최저 6.9°",
-        "humidity": "45%",
-        "wind": "10.4 m/s",
+        "humidity": "63%",
+        "wind": "6.4 m/s",
         "rainChance": "0%",
-        "pm10": "8.4 μg/m³",
-        "pm25": "8.0 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-05-05 17:30"
+        "pm10": "15.2 μg/m³",
+        "pm25": "15.0 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "33",
+        "updatedAt": "2026-05-05 19:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "17.2°C",
-        "feelsLike": "14.4°C",
+        "temperature": "14.0°C",
+        "feelsLike": "12.4°C",
         "highLow": "최고 20.6° / 최저 5.7°",
-        "humidity": "47%",
-        "wind": "12.6 m/s",
+        "humidity": "67%",
+        "wind": "7.6 m/s",
         "rainChance": "0%",
-        "pm10": "7.4 μg/m³",
-        "pm25": "7.1 μg/m³",
+        "pm10": "9.8 μg/m³",
+        "pm25": "9.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "56",
-        "updatedAt": "2026-05-05 17:30"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-05 19:15"
       }
     ]
   },
@@ -274,9 +274,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "서울 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "강서구",
-        "stationName": "화곡역주유소",
-        "address": "서울 강서구 강서로 154 (화곡동)",
-        "updatedAt": "2026-05-05 14:59:36",
+        "stationName": "이케이에너지(주) 강서주유소",
+        "address": "서울 강서구 화곡로 273 (화곡동)",
+        "updatedAt": "2026-05-05 15:02:01",
         "districtSamples": [
           {
             "district": "강서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "대구시, 약령 한방문화축제 관련 차량통제…\"안전관리 총력\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFUkFCbDhGc3JkelhmUHpBU1RmSXpYem80YUoyRlBoczJzak5NZm1UaWJGTUt3OGt6OUVCai1haUlCSnZ1S2JkN1ByQ1IzZkR3ZEZj?oc=5",
-      "publishedAt": "Tue, 05 May 2026 08:32:00 GMT"
+      "title": "이란, UAE 석유 시설 공격…미국은 이란 고속정 격침",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tR091WUUtWV9LeFNCNWIxRkI3TFQyblhWU0ZPVkI5Mzd0R3YyVzd3OXBMWnlhUXd2Z3h1LWEwVzVEUXhvazZGZ0hvMGtBNjBNSExPajlZc2Y4TF9H0gFiQVVfeXFMTUo3RnNaT0Y4cHlrTEdyUmRzcXZCMHVQOW84ME9RTzFWdG5PS3lsUGRVNUxZYUVoczZicnFuN2ltQ0htSjRoNmd3ZEI5aTZWb19NOGdnSlQtSmdUSThFY0dvNEE?oc=5",
+      "publishedAt": "Tue, 05 May 2026 09:40:58 GMT"
     },
     {
-      "title": "구윤철 경제부총리, 우즈벡 국립아동병원 방문",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ENTdLX3dYVFFiNW1uM0lEM0VXRl9WOEotakJxQmI5cDRCV0x4LW9XQUhuMWYweXhFeG1LTzREUFgtb3R4WXNpSWh0QlZwcVgtRWlV?oc=5",
-      "publishedAt": "Tue, 05 May 2026 08:02:00 GMT"
+      "title": "호르무즈 한국 선박에 폭발음…기관실 화재",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMUV9XWnMteVRzVDU3ajdEcmJUd2dMQl9Uank0ZkM3SkdZWmZsSm4wVWpFNEZOWGFmNDV4RnNHel9ZbjBfUlN5R3lxR3BEVEJvZlVDWmxCZWtLSnhnRHfSAWNBVV95cUxNRzRtYjFtS2NiU0JGQXZUV2dWZHNXeVBUakJJdEE1NFQ4a3N0ZDJYa2lPQzFqOEl1WUc1dUREQ2lVMzgzNVhYcUVNT0ZDUHczcURxejRGbVptYW9VdE9kTmNsMVk?oc=5",
+      "publishedAt": "Tue, 05 May 2026 09:58:00 GMT"
     },
     {
-      "title": "법원, 국힘 함안·거창군수 공천효력 정지 가처분 인용",
+      "title": "[뉴스룸 오프닝] 한국 콕 집어 \"작전 참여\" / '3자 구도' 부산 북갑 / 흉기 찔린 고교생 사망",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ONzY1TVdPR1hGaS1wbFp3VWpCSFhsZ2J2TW1Gc05kWnc3WHRLS0x6QXN4NUlxdVh5eWtraWtKSnhjd0owWVBuTVZYSnBKM1NkWWlF?oc=5",
-      "publishedAt": "Tue, 05 May 2026 08:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByUkFwd0QtRV8zbWc0RDA3dzdBQURzVHJfUHY2ZUlOOE5KXzkzRzFNRE14cmZuVHlZVl9jRWZqYkoyeTdjb0VCRS1uMmVXOXFGZnhr?oc=5",
+      "publishedAt": "Tue, 05 May 2026 09:42:00 GMT"
     },
     {
-      "title": "경남도, '공공수요 AI 드론' 실증 사업 첫 추진…구매까지 '원스톱' 지원",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RajNGWDNSV1hwUjlyOGZFbkhXUVJwUHJlRmdBSEZGLW00M0l6R1J3dkhQZkkxRTlTVm9zUzZyR05aTl9YZUZQTWl2Z3QwWjJsWHVN?oc=5",
-      "publishedAt": "Tue, 05 May 2026 08:32:00 GMT"
+      "title": "현근택 용인시장 후보, “아이들 위한 ‘든든한 울타리 용인’ 만들 것”",
+      "source": "하나뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wYThDeUxta0xoS2V0QlNYMzRmOEp5NVM2cXJPbUtFeGpnSFJYSnMxYUJxb3cwZEdkaVVVcGJ2LWV6UmdMTS1nRF8yV1dpVGcxaTFORjVDOGQwSk0xeGZ0V0FfbjNyQXB2bTVGeA?oc=5",
+      "publishedAt": "Tue, 05 May 2026 10:02:39 GMT"
     },
     {
-      "title": "김대중 전남교육감, 광주 흉기 사건 여고생 사망에 애도",
+      "title": "미국, 중동 발 묶인 사이…일본, '지역 수호자' 야심?",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QYzhGN011NFJhOUJEejg0WGNyQ1JQZkNsNnZrc1l2c3dEbGZNU3NtTmRMbFhVRVZxUnFTRE1hUlQwLUhLRHk1QzRESFgtbjFYVE1V?oc=5",
-      "publishedAt": "Tue, 05 May 2026 08:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wSjdraUJqdk5kUTZSUHVTN0RzR1BPeUxHT0dkSndWc1hReXMyck9OTUFoZDJlbGNjZUZIS2gwY1VjOG1HaVZaX2hmTFRkS3N6aU9MTTZHRlI1R21wR21sTw?oc=5",
+      "publishedAt": "Tue, 05 May 2026 10:09:00 GMT"
     },
     {
-      "title": "아이유, 어린이날 맞아 아동복지시설에 1억원 기부",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mbzJWcXFmZFA4SERDandJRXZyNzVTLVNSNlVVY0VCb2h3aUJUU0NiN1ZWejlEMTRjQ0VEWElKak1WeW9PNzd3OEVlQ2dpcmZnaVh3?oc=5",
-      "publishedAt": "Tue, 05 May 2026 08:24:00 GMT"
+      "title": "경기도, 이주배경 도민 인종차별 실태조사 착수. 지속 가능한 사회통합 기반 마련",
+      "source": "하나뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xeUNSZ0gzXzA5T2Q3R2hlU1ltcGZ4WmsxcXFIeTZ0Xzc3UUdaV19vVEtaRjFZQ2xLVjVuS3lNeHZzNzdJNDBhdVdacXAwUzJOZ3cwY0hqSkJ2Tk1zQlUtWUZyUHYyTTNPRTNxeA?oc=5",
+      "publishedAt": "Tue, 05 May 2026 10:05:50 GMT"
     },
     {
-      "title": "두만강·압록강 넘어…만주와 한반도 '공존의 기록'",
+      "title": "\"애플,삼성과 인텔에서도 핵심 프로세서 조달 추진\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jOTd0blRaUjczUi1HUXc0OHdJdjc1VmdSSmw2YXdiRFcyZzVSQVRxbGhkWG1mSzJaRmJMTklXaGd6Zk43OU94eWRVeDNqWlJBazdz?oc=5",
-      "publishedAt": "Tue, 05 May 2026 08:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WY29MSHdRb1dpM2c1MkF1N2NMZkYtMlNlSW5aTlpTSk9rbnNVUlJwb25CZTVqRXRFdGVBVnlwWTFaSWFxQ1NueWtzZjZqV3NxUjBkMkltSlVBeGlJdFd5TQ?oc=5",
+      "publishedAt": "Tue, 05 May 2026 10:09:00 GMT"
     },
     {
-      "title": "[속보]종합특검, 한동훈 출국금지…'尹 수원지검 수사개입' 관련",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ock5ONXhyUVJ4Z29kMHREemlOejd0dFNDaGFLR242S3ZiMU5ScUhEQTQzSVh0bFlpSy1tM1lDaFhqZGZIc1hCY1FCVzMtdWdLTVA4?oc=5",
-      "publishedAt": "Tue, 05 May 2026 08:27:00 GMT"
+      "title": "경기도교육청미래과학교육원, 어린이날 맞이 ‘오늘은 내가 과학왕!’ 개최",
+      "source": "하나뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tYmtNRlFIX0xzWHpoRGljY185S3ktU3dQbktkUm9iZlloMW1nMGdjS2J2dDJzLTRhUGhfRVBvMGlELXJGUU51LW9wQnZGbkNyZTlCNVVpX1pjbV9YOUVRb25sQ0h4Mno4c0FFTw?oc=5",
+      "publishedAt": "Tue, 05 May 2026 10:03:52 GMT"
     },
     {
-      "title": "진안군정소식지 통신원, 단양서 역량강화 워크숍",
+      "title": "日 반도체 소재 '빅3' 잇단 대만행, 이유는",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45V2lMSTdLM3dWVzNMQU4wczluUWtjVDd0RHpiSDNIWjNhVF9EdmVQeEhkWkl6dGJnbDRncDdqRHpsNy15RDRmX3d3Y3JDc29JX3Vj?oc=5",
-      "publishedAt": "Tue, 05 May 2026 08:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ub3VWMFVnaUQyaTZxaUI2YTJlWDZJd3haTWM0RDEyeGNvUUc3WXk4SVh1RGRQRFNyV3RNV1FSOVlRTDlYNXBMQTdmYXE4eUY2VzJN?oc=5",
+      "publishedAt": "Tue, 05 May 2026 09:55:00 GMT"
     },
     {
-      "title": "신세계백화점, 조선시대 아름다움 간직한 '청송 백자' 팝업",
+      "title": "보유세 강화 본격화 촉각…전문가 \"거래세 완화 병행해야\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hUk1DcTNPUDQzUU1zZFVIdVZydW1Xel9iN0ZuQ3plX1BlLVpoQ0tpNlFNODJpMmVGNWhZTG9lLWhJOE81RHZMQ2o0UmItVGY0YUg4?oc=5",
-      "publishedAt": "Tue, 05 May 2026 08:23:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FTzJfUHBHQ25jQlg2ZnBTamxTSGYtRmYtLWpQaVRLZDFmZmlRWW5iSmNGTXR0ZnJuT3R3b3p6dWxqd2ZfUW5saklTUzdyVFpMbEd3?oc=5",
+      "publishedAt": "Tue, 05 May 2026 10:02:00 GMT"
     }
   ],
   "sources": [
