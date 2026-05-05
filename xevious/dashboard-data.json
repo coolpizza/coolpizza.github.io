@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T20:45:12.318202+09:00",
+  "generatedAt": "2026-05-05T21:53:30.680612+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,474.20",
-      "change": "-1.30",
-      "changePercent": "-0.09%",
+      "value": "1,474.00",
+      "change": "-1.50",
+      "changePercent": "-0.10%",
       "direction": "down",
       "updatedAt": "2026-05-04 22:10"
     },
     {
       "label": "100엔/원",
-      "value": "935.08",
-      "change": "-5.21",
-      "changePercent": "-0.55%",
+      "value": "934.21",
+      "change": "-6.08",
+      "changePercent": "-0.65%",
       "direction": "down",
       "updatedAt": "2026-05-04 22:10"
     }
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.4°C",
-        "feelsLike": "11.8°C",
+        "temperature": "12.2°C",
+        "feelsLike": "10.9°C",
         "highLow": "최고 19.2° / 최저 6.9°",
-        "humidity": "56%",
-        "wind": "2.5 m/s",
+        "humidity": "63%",
+        "wind": "1.3 m/s",
         "rainChance": "0%",
-        "pm10": "14.8 μg/m³",
-        "pm25": "14.6 μg/m³",
+        "pm10": "17.1 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "27",
-        "updatedAt": "2026-05-05 20:30"
+        "updatedAt": "2026-05-05 21:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "10.6°C",
-        "feelsLike": "8.6°C",
+        "temperature": "9.4°C",
+        "feelsLike": "7.0°C",
         "highLow": "최고 17.3° / 최저 6.7°",
-        "humidity": "75%",
-        "wind": "8.0 m/s",
+        "humidity": "77%",
+        "wind": "8.7 m/s",
         "rainChance": "0%",
-        "pm10": "14.8 μg/m³",
-        "pm25": "14.6 μg/m³",
+        "pm10": "17.1 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "27",
-        "updatedAt": "2026-05-05 20:30"
+        "updatedAt": "2026-05-05 21:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "10.5°C",
-        "feelsLike": "8.2°C",
+        "temperature": "9.1°C",
+        "feelsLike": "6.6°C",
         "highLow": "최고 17.4° / 최저 6.9°",
-        "humidity": "70%",
-        "wind": "7.4 m/s",
+        "humidity": "75%",
+        "wind": "8.9 m/s",
         "rainChance": "0%",
-        "pm10": "14.8 μg/m³",
-        "pm25": "14.6 μg/m³",
+        "pm10": "17.1 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "27",
-        "updatedAt": "2026-05-05 20:30"
+        "updatedAt": "2026-05-05 21:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.3°C",
-        "feelsLike": "11.3°C",
+        "temperature": "10.9°C",
+        "feelsLike": "9.2°C",
         "highLow": "최고 20.6° / 최저 5.7°",
-        "humidity": "76%",
-        "wind": "3.3 m/s",
+        "humidity": "80%",
+        "wind": "7.5 m/s",
         "rainChance": "0%",
-        "pm10": "8.6 μg/m³",
-        "pm25": "8.4 μg/m³",
+        "pm10": "10.4 μg/m³",
+        "pm25": "10.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-05-05 20:30"
+        "airQualityIndex": "31",
+        "updatedAt": "2026-05-05 21:45"
       }
     ]
   },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "(주)무진에너지 서김포IC주유소",
-        "address": "경기 김포시 양촌면 김포대로 1634",
-        "updatedAt": "2026-05-05 17:55:49",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-05-05 17:59:40",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "李 대통령, 긴축론 직격…\"시도 때도 없이 긴축 노래 부르는 이상한 분들\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vbGFpTnhzRkZrWGJXS21OUURyaDJsMUhRcFZsUHdWWHJzdGZlWEw5Ul9IZ0xUSlphXzlGX1J2MGt5NU5GRkFCSnZrU0s4b3BUMVdJ?oc=5",
-      "publishedAt": "Tue, 05 May 2026 11:33:00 GMT"
+      "title": "오픈 AI, 프롬프트 사용 '정답 공식' 공개",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EOXBpSmFYNXRDSTdDN2JoMmRpRVMzYl9lTFhuZEZuRDh1MGxXc2stVkk5QVBHWW5QVW5LOGxqWjFZdlB2Wnp4MXhpMk01bmRDcUNTTlplX0VQdkl6b291ZHo0V2ttTmhJTjc0?oc=5",
+      "publishedAt": "Tue, 05 May 2026 12:39:42 GMT"
     },
     {
-      "title": "석유 대신 비트코인…암호화폐로 버티는 이란 기업들",
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Vlc0LVdTcVpWNm9vUWFPck9tMGp3QmV2YUhRMkpqdklFbEROVHZLSlJSZUU5dkFRNUloYktacXVwbnE3c3d4WGpwSy1jd182UHJrLVBmSVJSN1BGd1FmbWJNTVFYMWpZYWJjRVVrVTZGODg?oc=5",
-      "publishedAt": "Tue, 05 May 2026 10:54:06 GMT"
+      "title": "김관영 전북지사, 무소속 출마 결정…\"내일 예비후보 등록\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VY213a2RXN1dIX3NqaWZEVmVzWW11c0U1ZFVaSVFoUGFISk1oSWVvcXVLSE1XNWdhejZXYnBCQ3FNOThyUkt2OHRBanR2RjNzRTdj?oc=5",
+      "publishedAt": "Tue, 05 May 2026 12:30:00 GMT"
     },
     {
-      "title": "익산 숙박업소서 40대 숨진 채 발견…경찰 수사 중",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tak1OUUFPdkN6Z19RSk9kNXdDN2VPMTFHQ05la2huY05YRjB5MmlfWk9uczNSVnhsd3dSb3VjRGM3dS16YnBwU3ZkaElkLUVmRGxF?oc=5",
-      "publishedAt": "Tue, 05 May 2026 11:27:00 GMT"
+      "title": "정부, 먹거리 물가 부담 완화 행사.. 농축·수산물 최대 50% 할인",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjbWxrejZ6NHZTdEY1cUlTSE1WRnhYeTNYUmhZMERiSmxkS1J3NWU0ZzNoNW1lTUItM3pIYlpoc0tSQ3VQY3N6Uk5nSXFiU29fTGd5Ny16TTFxSkE4MnR6amtWY0IyMnNqT0k4?oc=5",
+      "publishedAt": "Tue, 05 May 2026 12:17:05 GMT"
     },
     {
-      "title": "이재명 대통령 부부, 어린이대공원 깜짝 방문",
+      "title": "이재명 대통령, 어린이날 청와대 초청행사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqYmZXSElSVGQ2cnVuZDZXZ3pLVGljLU9zLXBpSlJnMzdqR0l5WV83WjVsSm9EVEhlYS13RG9MOGRsWkJpT1V4TkZ3Ui1XTmpJT0tn?oc=5",
-      "publishedAt": "Tue, 05 May 2026 11:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxVzdwWjExZGVLLUJWTTBtZHAxRElWZHdzWkR4OU96LWpTLUNNdHZGaDBWWU5uZFM3c2RBRzB0N0FVOU9fVkwxVTNZeE5rdkx2T1JBa2dMMmdPUHgyaWI5cg?oc=5",
+      "publishedAt": "Tue, 05 May 2026 12:20:00 GMT"
     },
     {
-      "title": "익산 숙박업소서 40대 여성 숨진 채 발견",
+      "title": "아이유·최강창민·한지민…어린이날 기부 릴레이",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95bU5vVGlDSGxjSzR0VEVUa1hpWEpmTHdFbEdkd09vbnJpbmZnR3R4YnJWZ3YwLUFHeDhUWXBYd3hvaDlxSUt5c1BrZVo3Sk1Eb20w?oc=5",
-      "publishedAt": "Tue, 05 May 2026 11:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oa0RVV3AwdTFkTm11OW1PeExkNm8tYlEzT0E0Z0JubDdkbVhwSGU4VXFhN1djQmNUS1lac0dlVDNvU21obkJwY1gtcE5aY3dUWnVZ?oc=5",
+      "publishedAt": "Tue, 05 May 2026 12:41:00 GMT"
     },
     {
-      "title": "호르무즈 대치 속 이란 외무장관, 중국 방문",
+      "title": "신기한 대나무 서커스[포토뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdmxEUW5uVHRxRl9yX2RtUXVoaE9oeFhRRGp5dWdZRGQ1U3ctZ2dUMlJOZVZHT3ZGSFVoTDdIZkVaQlFiUjBBQTVNWmp0WGVrVV9CbW5RNGxVYnRKX3ZtM1B1QXVJS3lhMVE?oc=5",
-      "publishedAt": "Tue, 05 May 2026 11:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92LU9BSmdacVNReXREbFVBZ01qU0pCSGJoZnBBQW5LNXAwcXlGMWtHa0RrTzI2bGRxei1FVzZDRWJKaEhRMDBNdzBYSzk4WW9oTWx3?oc=5",
+      "publishedAt": "Tue, 05 May 2026 11:54:00 GMT"
     },
     {
-      "title": "아이오아이, '10주년 연습실 모임' 공개…주결경·강미나 제외 9人에도 '꺄르르' [스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DcGV4aHZzOEhjZ212aFQ4SE13WlRzVzhWdjNvM2txTy1maEFSZE1yQk5BcTg3bVFVS3JNeWJ5dEgxeVVVMVpIZ1hZQ0huRjdhdEhvOTRtWUZ3enpLSkZXeA?oc=5",
-      "publishedAt": "Tue, 05 May 2026 11:37:00 GMT"
+      "title": "시민단체 \"비수도권서만 뺑뺑이 비극.. 정부, 필수의료 책임져야\"",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHeUlueWttbHMwWC1NMWo3b0FRQ2I0WWFRMG5RNXE3WWlWb2xnS1JXcFdOZlhTYkMtNkY0M3U5aUJnNDF6Q2xJVTBFU21DckZic1JmeFhEWDVjYzA2WGUxT0pqektCNjhpYVlN?oc=5",
+      "publishedAt": "Tue, 05 May 2026 12:33:58 GMT"
     },
     {
-      "title": "창원시 청년일자리 기업홍보단 출범…청년눈높이 콘텐츠 제작",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9faGJUYnNoV0hIZkM1YUVXM3c5WlJXREdhOGE5RFRKcVVkdGJkdXFmaU4xVVA2Qnp6LWRNNWgxd0hIY2hNSm9kazhDWXVSeElNemtj?oc=5",
-      "publishedAt": "Tue, 05 May 2026 11:07:00 GMT"
+      "title": "\"한국 아동 학업능력 4위·정신건강 34위.. 4세·7세 고시 심각\"",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tY2xCblhCZHJDakMtb3JvdGlwMDZFU3hIVUJHLWt1Q2RrUW10ZWxQeTBtcUFsQjc5ZHA5T05tZmFwVjd0SlhuSG5qN2NVTEJfYW5GRVFjYjFQbjdVQklwRWN6SW1UMVVJeUw4?oc=5",
+      "publishedAt": "Tue, 05 May 2026 12:19:35 GMT"
     },
     {
-      "title": "어린이날에도 시민 위협 '폭주족' 기승…대구·천안서 무더기 검거",
+      "title": "반도체 회로 설계 '119시간 → 28.5시간' 단축",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00aVYtX3FJMmxlRjd0Zm41WDk3Yndrd2YyVE9hX0Q0azRoM0JJOGZVWGFfOVRYTmtWWDlTMjFiSnBXNl9Mbk1teThZdGlBRlc4cXF2cm1ubnRCQUNILVdCbjhGaWc3ajN4OUlUYUx3?oc=5",
-      "publishedAt": "Tue, 05 May 2026 11:38:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UTnVMMFk2ejhZeFpSdmhUOTVsLU8xREZoTUpOSFVydE1SeHNLQmFqYi1FcWZtbjJxaGJ4M3RTR0ZyVjFRaHNJMVBlX1dlOXREMGpv?oc=5",
+      "publishedAt": "Tue, 05 May 2026 12:41:00 GMT"
     },
     {
-      "title": "청와대, 트럼프 '파병 압박'에 \"대비 태세 등 감안해 검토\"",
+      "title": "물놀이하던 아이들 \"이게 뭐지?\"…대구 군위서 6·25 당시 폭탄 발견",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TmZZUDdzajItcHBualhnRGE3dWFoNjJjN3BFTTFrQXhEUmJaQmVrMk1lNHkwTkhNVmhaWTFlWHRma2J0WWFGUDFidk95ZnRJSUFn?oc=5",
-      "publishedAt": "Tue, 05 May 2026 11:09:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QM2trTnB4d0lnWExzRHpSQm1TZllXS3g3a3h4WG13ano1eDhLeW5mV3lWLXppSFlrV2dJV2NzVWlCcnpOTy1namN6ZGl6NjhXTU9lQ2twRzB5ckFqRGp1aFo5TGk4cmFuVnUxTnotb0lqLXFBdTJjRA?oc=5",
+      "publishedAt": "Tue, 05 May 2026 12:49:00 GMT"
     }
   ],
   "sources": [
