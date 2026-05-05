@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T06:20:05.940598+09:00",
+  "generatedAt": "2026-05-06T07:16:40.146002+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "8.0°C",
-        "feelsLike": "5.9°C",
+        "temperature": "8.7°C",
+        "feelsLike": "6.8°C",
         "highLow": "최고 22.0° / 최저 7.8°",
-        "humidity": "73%",
-        "wind": "4.0 m/s",
+        "humidity": "72%",
+        "wind": "3.7 m/s",
         "rainChance": "0%",
-        "pm10": "25.7 μg/m³",
-        "pm25": "22.5 μg/m³",
+        "pm10": "21.3 μg/m³",
+        "pm25": "20.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 06:15"
+        "updatedAt": "2026-05-06 07:00"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "7.7°C",
-        "feelsLike": "5.2°C",
+        "temperature": "9.0°C",
+        "feelsLike": "6.8°C",
         "highLow": "최고 20.2° / 최저 7.2°",
-        "humidity": "85%",
+        "humidity": "83%",
         "wind": "9.2 m/s",
         "rainChance": "0%",
-        "pm10": "25.7 μg/m³",
-        "pm25": "22.5 μg/m³",
+        "pm10": "21.3 μg/m³",
+        "pm25": "20.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 06:15"
+        "updatedAt": "2026-05-06 07:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "6.5°C",
-        "feelsLike": "4.4°C",
+        "temperature": "8.2°C",
+        "feelsLike": "6.3°C",
         "highLow": "최고 19.7° / 최저 5.7°",
-        "humidity": "90%",
-        "wind": "6.6 m/s",
+        "humidity": "83%",
+        "wind": "5.6 m/s",
         "rainChance": "0%",
-        "pm10": "25.7 μg/m³",
-        "pm25": "22.5 μg/m³",
+        "pm10": "21.3 μg/m³",
+        "pm25": "20.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 06:15"
+        "updatedAt": "2026-05-06 07:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "7.9°C",
-        "feelsLike": "5.7°C",
+        "temperature": "9.4°C",
+        "feelsLike": "7.7°C",
         "highLow": "최고 23.7° / 최저 6.7°",
-        "humidity": "89%",
-        "wind": "8.3 m/s",
+        "humidity": "86%",
+        "wind": "6.9 m/s",
         "rainChance": "0%",
-        "pm10": "17.6 μg/m³",
-        "pm25": "15.5 μg/m³",
+        "pm10": "14.0 μg/m³",
+        "pm25": "12.9 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "32",
-        "updatedAt": "2026-05-06 06:15"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-05-06 07:00"
       }
     ]
   },
@@ -332,15 +332,15 @@
       },
       {
         "areaLabel": "익산 최저가",
-        "lowestPrice": "1,968원/L",
+        "lowestPrice": "1,974원/L",
         "lowestDistrict": "익산시",
         "stationName": "㈜한영 부송지점",
         "address": "전북 익산시 무왕로 1277",
-        "updatedAt": "2026-05-04 09:02:22",
+        "updatedAt": "2026-05-06 06:44:40",
         "districtSamples": [
           {
             "district": "익산시",
-            "price": "1,968원/L"
+            "price": "1,974원/L"
           }
         ]
       },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "(주)디오티디 김포햇님이주유소",
-        "address": "경기 김포시 대곶면 대명항로 530",
-        "updatedAt": "2026-05-05 21:58:10",
+        "stationName": "(주)무진에너지 서김포IC주유소",
+        "address": "경기 김포시 양촌면 김포대로 1634",
+        "updatedAt": "2026-05-05 21:48:10",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdU45cDBsRnA3WUFPaFV4a2R0NjRCZ09nNTMyU1ZPUHVQRzhQSzZESDI1U0ZiVFRkVlZOVkw0ZmVmV1pzWlBrWnlUWDY3TVh4WkplOTV3M2w2aS1kOUJoMnJCZm5LTENseEZTTWVvYXpWMTlPQTB2VWcyZnZjQ1Z5cjFuaGsxSElXWS1fT3NlNNIBZkFVX3lxTE9ZVWhHS0VwVjFVNTJPeVlqOGlFbmRxX3RrbUxSMGJ0VzZQR1UybDRjUkhyekpKRFp2cloxaHBEM2tsVlZjVjRMdkg4X18xNEYzWEpybVBpNE56ck1sS2ZSRm5hZGtVZw?oc=5",
-      "publishedAt": "Tue, 05 May 2026 21:05:00 GMT"
+      "title": "[AI기자의 News Briefing] 5월6일 오늘의 주요 뉴스를 전해 드립니다.",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rN3ltbnFKQmNYNFVGQlc3cmllSVAtTGdQM1pCc01MZURuYUl3UWx1YUl5M25mbzdkTUZPRWdzUmxWZkJ4MDBRcGdZTmdjbGZOOFMyZFF3UEhHRTh2VjBlcktfT0J6aTA5Z2c?oc=5",
+      "publishedAt": "Tue, 05 May 2026 22:04:47 GMT"
     },
     {
-      "title": "[속보] 뉴욕증시, 상승 마감…S&P500·나스닥 또 최고치",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04TnNHVE50U1VmdmVUX212MFZpbDQtbjg1UnUyWXlKQi1nUEF1NDRWRE1QeWhkOFdsS1l2amdXTTlTS0xlWTZKcGVWdC1XM2YzUkJYMUFYZlJaTm9VX0s5czI0NFB5ZXZsNzEtblZYUEhpUGE5V091eA?oc=5",
-      "publishedAt": "Tue, 05 May 2026 21:12:00 GMT"
+      "title": "[26년 5월 6일(수)] “863% 폭증” …ETF 규모 2배 증가한 ‘꼬마 투자자’ - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR3pmT2VzSG93SXJnNGctYl93RUF3U0gyU3dVdWZvZWZuTENReXRpdmpLdGswM29IcElmSl9LS1BpcXgtYUR6Q3plTExxel90bHMzMU5heGJiVmhJZ3VZN1owdnFPM01qYkl5a0xLVFlURkh4cmtwamZkWUVIMUF5QQ?oc=5",
+      "publishedAt": "Tue, 05 May 2026 21:34:23 GMT"
     },
     {
-      "title": "\"이란, 호르무즈 통과 선박 '사전 허가제' 공식 도입\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NUEEzaHpSV2NyZlRTZ2hNMUFUbFpNQV9CMzdXV1VBU0NyLXdkeWpQSlR5ZUR2ZjlXcENYbGhsZ3hvYl8zQmhreUQxUDZhdGNjSjc4TG5YOV9ta0lfSUdLRG91cDdLUkRMVGc?oc=5",
-      "publishedAt": "Tue, 05 May 2026 21:02:00 GMT"
-    },
-    {
-      "title": "한국 추상회화 거장 오수환, 신세계갤러리 청담서 개인전",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IQUlrd0RVT0ZqbXgwVEYtc0xzV2VaVGNCLTRULXZJbE9GTW1YZ2tKWnJBS2hWT2VxRnRkTU0zd054emN2NldwMTNVVTdVUUVGNDhF?oc=5",
-      "publishedAt": "Tue, 05 May 2026 21:01:00 GMT"
-    },
-    {
-      "title": "[오늘 날씨] 출근길 쌀쌀, 낮엔 포근…전국 맑고 일교차 커",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03RmFIUXVMcWNmbldfQjJXRExEZkY4RG9QRGVDc2phUVF3TndyckFwTDEzREVHak42bVJiY01OejktSkU1Rm15ZzJST3hrNng0bngw?oc=5",
-      "publishedAt": "Tue, 05 May 2026 21:00:00 GMT"
-    },
-    {
-      "title": "\"그린 뒤에 무엇이 남는가\"…신세계갤러리, 오수환 작가 개인전 개최",
+      "title": "'연휴 끝' 맑은 하늘, 큰 일교차…낮 최고 '27도'(종합)",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zZ2tiNFRRcUlBVFJ3emswN251aFEwblVqbVA3Vy1jSHdrYWZLMnUyZGFkUE13SjBxUVNVTUJrQUIwUjRRMEVOWldwR0dmVHBXWjdnbUFzTFFUWVprZW9J?oc=5",
-      "publishedAt": "Tue, 05 May 2026 21:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Yd21hU3BYbFpOcjkwZjJxMnF0Rk44Uko2QUUwVVdlT0RvSlNJTkpXVHA0MTV4YmdFZjRMRU1zRWhQYTIwemRISXVWaEVHQXBNbG5MTEJpbTU3R0JWb0FDX1JrNA?oc=5",
+      "publishedAt": "Tue, 05 May 2026 21:30:00 GMT"
     },
     {
-      "title": "'맨유 전설' 퍼거슨, 경기장서 병원 이송…\"응급 상황 아냐\"",
+      "title": "이재명 대통령 \"부동산 불패? 이제 그런 신화 없다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56NjhXdkNBOXAwaEZ3clNneDZiTEhWb05URWJnM191Y3g2NFdISEt1YUFrVVJPR1JreWx5bVNXZGoyUV9GNVA1R1d0NmhCX21EMlFKM2s3THVTUEhlVmtTSkxEMlUxMUp3YTNmUXBiOXJlMnRWSjduUQ?oc=5",
-      "publishedAt": "Tue, 05 May 2026 20:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85VFFrNWl4YWhRd3h3TGFLM2thQ0tnOGFGM3JOeDkzX3JZWWpZTWZzOVBrZ29YOVpNb0pDUE54NTV3UE05LTNPY3NBeEVJMmkzNEVz?oc=5",
+      "publishedAt": "Tue, 05 May 2026 21:50:00 GMT"
     },
     {
-      "title": "[오늘의 정치일정] 5월 6일(수)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VYzRoeTY1QmVsT2ZvRXVmSTRDNTVLNWFlNnp1TFlIWGgySS04cEdKMllIY052Zl9qUnRfaUlYOWdJWFczRmZPR3ZBQnFaRWIyVGJB?oc=5",
-      "publishedAt": "Tue, 05 May 2026 21:01:00 GMT"
+      "title": "[5월 6일 간추린 뉴스] 젠존제 2.8버전 '뉴: 에리두의 일몰' 업데이트 예정",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWWlhVQXFPTGJ2NHhPcUVmN3VCSi0wR0luNFo1dXZPbzc0aWJuRjR5UXpMQUtWaUJweGhEMUNYTjRhYWdMaFNhaWlmaDVLc1hYWFBFQ3RtUlU5VXY3VUE?oc=5",
+      "publishedAt": "Tue, 05 May 2026 22:00:01 GMT"
     },
     {
-      "title": "롯데·LG 지고, 한화·LS·반도체 뜨고···AI와 지정학 갈등이 만든 '재계 지각변동'[경제밥도둑]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1seUd1UzZRTkFtSW9rU0MtVE0xc0N2d0ZWQmZCQzJHZ0dtZ3VXQl9PRGZwMUF2bVBTV2oxTFFLUHJaLXU0YzdnVnliaWR4RzhrQkw0?oc=5",
-      "publishedAt": "Tue, 05 May 2026 21:07:00 GMT"
+      "title": "美뉴욕 증시 3대 주요 지수 상승...S&P500·나스닥 최고치",
+      "source": "전파신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NN1pKMUdHTWdUSk5FU2VucFdyZlY1aDBsQ21lMGlFVzNoWXdLZnJfckptZU5US1pTQ2t4M0d3ejNPRlJZMkxwRG4tMDhVQjVIaUQ0U3pqTXBmdW9WWnM1NU5KLXYyYXU5S1E?oc=5",
+      "publishedAt": "Tue, 05 May 2026 21:19:00 GMT"
     },
     {
-      "title": "서울시교육청·서울경찰청, '청소년 사이버 도박 예방' 홍보",
+      "title": "마이크론, AI 메모리 수요 폭발에 11%↑…사상 최고가 경신",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94djAwMU0zaVIyVkxsVmIxTmt3TmJIS1I0M0g0THNkNDl4ZENnX1AtYTlucm9fZmFJNHFzUVh6N2R5SS1SRzd2cU1zemJwSzZWT01jQUlZaF9fSVV4TUI0ZUt6THlJc3M?oc=5",
+      "publishedAt": "Tue, 05 May 2026 21:18:48 GMT"
+    },
+    {
+      "title": "[글로벌증시] 실적 낙관론에 S&P500·나스닥 또 최고치 경신",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lQjBUblJaNUpNNW40eWl4UHBzRDBhUmV4dV8wRnB5VGVWSEJjOXBKZFZkZnhuRU5BRTRNOFoySFF6cnFrRjlhSE1xZEprY1B0aFZF?oc=5",
-      "publishedAt": "Tue, 05 May 2026 21:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxTnF2bVpMdnloUU1Gak9QeklodDJzQ0FsdnVWRTNiMG5xOVhodGtfM1doc1d0ZEFuUHBvWV9ZeHlNSzJoYzg1UzRLajd3aGRUQkdz?oc=5",
+      "publishedAt": "Tue, 05 May 2026 22:05:00 GMT"
+    },
+    {
+      "title": "무기 소프트웨어 사업 평가 기준 재정립…사업 특수성·일관성 제고",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtZ1YwM0hfZVdVb2w0eV9QbDNpNVY5aHR3aTN6Y1M5TVpoX0FyTDA4SzFnaV8tMGFqd01seTYzRDVfZHRGQ1pnTnlFTmxEcEFmbmxLb0NtU0xtNUxaaHp6cnZYdHJfajQ?oc=5",
+      "publishedAt": "Tue, 05 May 2026 21:30:00 GMT"
+    },
+    {
+      "title": "[오늘의 청약 일정] 오티에르반포 당첨자 계약 등",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VX1ZNSF9LYWEzOF9FT0ZJRFV6NFVydHVBNHVUM0c4WGZqelNscnNtX1l6blJieHVwckVDSjJHbjhVb2NGS1BMemNiUmtPZC12OXdr?oc=5",
+      "publishedAt": "Tue, 05 May 2026 22:01:00 GMT"
     }
   ],
   "sources": [
