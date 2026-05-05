@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T03:19:01.169878+09:00",
+  "generatedAt": "2026-05-06T04:01:19.683667+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,27 +22,27 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,268.09",
-      "change": "+326.19",
-      "changePercent": "+0.67%",
+      "value": "49,258.54",
+      "change": "+316.64",
+      "changePercent": "+0.65%",
       "direction": "up",
-      "updatedAt": "2026-05-06 02:37"
+      "updatedAt": "2026-05-06 03:44"
     },
     {
       "label": "S&P 500",
-      "value": "7,262.05",
-      "change": "+61.30",
-      "changePercent": "+0.85%",
+      "value": "7,267.09",
+      "change": "+66.34",
+      "changePercent": "+0.92%",
       "direction": "up",
-      "updatedAt": "2026-05-06 02:42"
+      "updatedAt": "2026-05-06 03:49"
     },
     {
       "label": "나스닥",
-      "value": "25,316.81",
-      "change": "+249.01",
-      "changePercent": "+0.99%",
+      "value": "25,344.95",
+      "change": "+277.15",
+      "changePercent": "+1.11%",
       "direction": "up",
-      "updatedAt": "2026-05-06 02:37"
+      "updatedAt": "2026-05-06 03:44"
     }
   ],
   "currencies": [
@@ -56,9 +56,9 @@
     },
     {
       "label": "100엔/원",
-      "value": "930.69",
-      "change": "-9.60",
-      "changePercent": "-1.02%",
+      "value": "930.39",
+      "change": "-9.90",
+      "changePercent": "-1.05%",
       "direction": "down",
       "updatedAt": "2026-05-04 22:12"
     }
@@ -67,63 +67,63 @@
     "areas": [
       {
         "location": "서울",
-        "summary": "대체로 맑음",
-        "temperature": "8.9°C",
-        "feelsLike": "6.8°C",
-        "highLow": "최고 21.9° / 최저 8.0°",
-        "humidity": "69%",
-        "wind": "3.7 m/s",
+        "summary": "약간 흐림",
+        "temperature": "8.3°C",
+        "feelsLike": "6.3°C",
+        "highLow": "최고 22.0° / 최저 7.8°",
+        "humidity": "71%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "21.8 μg/m³",
-        "pm25": "20.0 μg/m³",
+        "pm10": "22.0 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 02:45"
+        "updatedAt": "2026-05-06 03:45"
       },
       {
         "location": "김포",
-        "summary": "대체로 맑음",
-        "temperature": "7.8°C",
-        "feelsLike": "5.3°C",
-        "highLow": "최고 20.1° / 최저 7.4°",
-        "humidity": "84%",
-        "wind": "8.8 m/s",
+        "summary": "약간 흐림",
+        "temperature": "7.2°C",
+        "feelsLike": "4.9°C",
+        "highLow": "최고 20.2° / 최저 7.2°",
+        "humidity": "87%",
+        "wind": "8.2 m/s",
         "rainChance": "0%",
-        "pm10": "21.8 μg/m³",
-        "pm25": "20.0 μg/m³",
+        "pm10": "22.0 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 02:45"
+        "updatedAt": "2026-05-06 03:45"
       },
       {
         "location": "파주",
-        "summary": "약간 흐림",
-        "temperature": "6.4°C",
-        "feelsLike": "3.9°C",
-        "highLow": "최고 19.6° / 최저 6.0°",
-        "humidity": "82%",
-        "wind": "7.1 m/s",
+        "summary": "흐림",
+        "temperature": "5.7°C",
+        "feelsLike": "3.1°C",
+        "highLow": "최고 19.7° / 최저 5.7°",
+        "humidity": "87%",
+        "wind": "7.7 m/s",
         "rainChance": "0%",
-        "pm10": "21.8 μg/m³",
-        "pm25": "20.0 μg/m³",
+        "pm10": "22.0 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 02:45"
+        "updatedAt": "2026-05-06 03:45"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "7.4°C",
-        "feelsLike": "5.0°C",
-        "highLow": "최고 24.0° / 최저 7.2°",
-        "humidity": "81%",
-        "wind": "7.2 m/s",
+        "temperature": "6.8°C",
+        "feelsLike": "4.4°C",
+        "highLow": "최고 23.7° / 최저 6.7°",
+        "humidity": "85%",
+        "wind": "7.4 m/s",
         "rainChance": "0%",
-        "pm10": "17.2 μg/m³",
-        "pm25": "16.6 μg/m³",
+        "pm10": "17.5 μg/m³",
+        "pm25": "16.7 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-05-06 02:45"
+        "updatedAt": "2026-05-06 03:45"
       }
     ]
   },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "경일석유㈜찬빛주유소",
-        "address": "경기 김포시 통진읍 김포대로 1999",
-        "updatedAt": "2026-05-05 07:41:20",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-05-05 20:32:17",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,28 +376,46 @@
   },
   "news": [
     {
+      "title": "[속보] 미 기준금리 두 차례 연속 동결…1회 인하 전망 유지",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXWExYMFNyUFNsaUNKVHI3M0ZvNVNwQUZSWkZYU29zcU1BTm9VaGMtb1Rybk9sdjZ5bm4wS3JsOXNERnJ3UHVYNFpGQ2NESGpUX0F2WVJfUGUzRXpxSXAtVjZVc2luRWlVYzFNU2c1UGFwOG5qa0hmTA?oc=5",
+      "publishedAt": "Tue, 05 May 2026 18:47:00 GMT"
+    },
+    {
       "title": "한국천연염색박물관 프랑스 낭트 상륙, 한국의 봄 축제서 전통미 선사",
       "source": "이트레블뉴스",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9kUmlPV3RHY1pMZ2lwelB1STNmcnpzMGxyUEI3amJXVHJ6aHF2ZkRCZWNQckpZbHpTcVZsLWdmZVRIUEtw?oc=5",
       "publishedAt": "Tue, 05 May 2026 18:11:00 GMT"
     },
     {
-      "title": "\"AI는 결핍 경제\"…블랙록·브룩필드가 찍은 10조달러 기회",
+      "title": "피겨, 美 모기지 시장 진출…\"대출 비용 90% 절감\"",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RREN2Tm9RQURRRzktQmU4VFNYd21qTWx2V3VDV1dfT0tfUXE2YmREQlNDdi1nZG5lVXRwS09XekhZbDQ2eHV3MjdsVnBzN1A0?oc=5",
+      "publishedAt": "Tue, 05 May 2026 18:07:24 GMT"
+    },
+    {
+      "title": "트럼프 \"이란·미국 모두 합의 원해…핵포기 등 주요쟁점 합의\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XeXUzTEczbkk2VDIzUTJXVTZSTHZ1dkw2anAySk5oMV9oOEFHMGxwdGRZMVhkMzAzb1ZRY2xqRGlmWTB0WUtkajhURXkxN3I4Ul8w?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LdmNLaUlha1gya19UZFZlMExlcWFfNEdxSUlnZzNEY3JmYjBaTy1VU2hoa1pRTVJFWHl6SjE0LU1QbUJOeE5wcHVyYTh5aWlLUWJGTHk5T21jU21aMzZ2aw?oc=5",
+      "publishedAt": "Tue, 05 May 2026 18:46:00 GMT"
     },
     {
-      "title": "[속보] 뷰노 주가 장후 낙폭 확대…19%↓",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wWndUMVJ5LTBsNUlUZnIzN0ExbVZhRkUwdVBZSlBCOEFQdUhBRm8zZlEzcWRDaTdkN0V4cFFTZjludkw5X2ZxRHlEaDBWT1laWnpXMWRZaDlPYVU2VDlWVUJBc183eDJV?oc=5",
-      "publishedAt": "Tue, 05 May 2026 17:37:32 GMT"
+      "title": "[美특징주]사이토키네틱스, 심장질환 치료제 임상 3상 성공…주가 17% 급등",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTVqOWctc21oRXFiUnQ4RDdvbnFWR1hlRlk0cXQ0VjNLR2djYVREdGhBMHNUTmtGbFhaUUZYRHJUdnVYTFNXTUxqYVoxLTZPVlBIdDltRjJ3WGZnV3hjUmNJdTBKVW5DWHZiU1p0QnhzS1NBa2libWJPUGQzYzhsOQ?oc=5",
+      "publishedAt": "Tue, 05 May 2026 18:27:57 GMT"
     },
     {
-      "title": "순천의 봄 예술로 물든다, 5월 아고라 순천 본격 운영",
-      "source": "이트레블뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Rb1JUb3RUYVBmeTlCdUZ2bjNCR1ROdmVxMThIS3hUMHhIMXJFMUlyZjE4dGRsSjJzcVYyMFJYX0pMWFI4?oc=5",
-      "publishedAt": "Tue, 05 May 2026 17:52:00 GMT"
+      "title": "美 SEC, 분기보고 폐지 검토…가상자산 상장사 영향 주목",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyNVJNYVRZc2hhUUlEOEZhRm9WMlBqU3AyUjdtQjltandLT1hTZ2JEdk56eHR1WFNRSUpfSkU3VlZFSzlNYjcyd2ZmT21Zb0JZ?oc=5",
+      "publishedAt": "Tue, 05 May 2026 18:05:31 GMT"
+    },
+    {
+      "title": "\"2주 전부터 고민\" 한화 출신 리베라토 흔든 가족사→결국 0홈런 방출로 이어졌다",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jbndUTFFKcVVGX3ZZMmN6b0lPRFRoMno1YWlVZi13TGUyTjhHbGc0ZWE0MHNla3QxMzVYdEhqNUdUcU5CU0dJUUg0UHhHQkMwQkR0MmFUbmJZdElk?oc=5",
+      "publishedAt": "Tue, 05 May 2026 18:33:00 GMT"
     },
     {
       "title": "\"술 마시자고 먼저 꼬셨다\" 배성재, '14세 연하' 김다영과 첫 만남 비화",
@@ -406,34 +424,16 @@
       "publishedAt": "Tue, 05 May 2026 18:03:00 GMT"
     },
     {
-      "title": "'외인 타자 유일 무홈런' 키움 브룩스, 5회 돌연 교체→벤치 인내심 한계 도달했나",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50T1RoQ2oxTkdaREdLcHhYYldZMVNZMWJ2OVJGWU1qX3R0eDdVSWlfQnhjOWpjN0YyMUVsRkV5Z0RDcTR5QUVGVmJLWVZwZlpGOVN0blVCa21JVHJ5UGt1SkVKUV9GX2lDR3c?oc=5",
-      "publishedAt": "Tue, 05 May 2026 17:22:00 GMT"
+      "title": "'빅쇼트' 마이클 버리, 이베이 인수 게임스탑 '손절'",
+      "source": "마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uLXpDS0dLV2pEUkZMUjBkZ3FBdTNENU9lVmRJb2ZBaTFVVk1zSlBkb1dXREZ2ZVl5TTVMckxUMG9teHBOUjRqRHRHOUZPYS1DNHJvQUxKRWx0ekNncFAyWTMxOWN6WDM1VkR3eWI0TWJ6Q1U?oc=5",
+      "publishedAt": "Tue, 05 May 2026 18:34:47 GMT"
     },
     {
-      "title": "유럽증시, 기술주 랠리와 기업들 양호한 실적에 힘입어 상승…영국은 1.4% 하락",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lRlF4R3VtVUtZQUdUbnR3czRZXzMxYVRqd2Q3dXgtUUxtWHdOZS1fbUlsSGVfVGRpS1FuMlNxU1h6dXMyQmVsTzJoclZkV2VySWFZ?oc=5",
-      "publishedAt": "Tue, 05 May 2026 17:20:00 GMT"
-    },
-    {
-      "title": "트럼프 \"이란, 우리와 장난치지 않아…곧 알게 될 것\"",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRZ1FPeUxpdXpHUWFNYjhteFAtVWdLR0tVTlhOLXhzeG13QVQ1ZkJ5MVVuVVVVbUJfUEcwTWlyd21pVmFRVHcwSmlUcUR5MFc2?oc=5",
-      "publishedAt": "Tue, 05 May 2026 17:58:37 GMT"
-    },
-    {
-      "title": "전국함양군향우연합회 제11회 정기총회 성료 > 뉴스",
-      "source": "더코리아",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YSkYyX3d5eUFKa0JZTkhBQlNrdGhmeVR5djVmQTAtSVZJU1E3YzV5dE5lNjkyZXJxT0NZNkZIS2hRbk8tQXNWM0JJcTl6cThILUtXY0w0QXdjd2VySUcyaHd3THpfcldpTW44SDl2RXA?oc=5",
-      "publishedAt": "Tue, 05 May 2026 17:31:00 GMT"
-    },
-    {
-      "title": "美 SEC, 분기보고 폐지 검토…가상자산 상장사 영향 주목",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyNVJNYVRZc2hhUUlEOEZhRm9WMlBqU3AyUjdtQjltandLT1hTZ2JEdk56eHR1WFNRSUpfSkU3VlZFSzlNYjcyd2ZmT21Zb0JZ?oc=5",
-      "publishedAt": "Tue, 05 May 2026 18:05:31 GMT"
+      "title": "레고 배트맨 레거시 오브 더 다크 나이트 PS5 게임 미리보기",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2p6bm0xd3ZsWDVpZ2x5UzJTcVBCSzRyMUlObEtuLUszUlZfaEFjVTBjOTRzWm1LejRoS3ZHSGZ3V3dwclpjbkVhZ2NEckc4TDZCR0Z0Y1NHR2R2VEg1RkdFNUQ0MEZmSUpLRkt0RkRicVZLMkpBVWM0VUFlaElkZFZBSVI3QUZDNm1UaTFER2RFbEJKSmc?oc=5",
+      "publishedAt": "Tue, 05 May 2026 17:09:20 GMT"
     }
   ],
   "sources": [
