@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-07T07:09:45.919518+09:00",
+  "generatedAt": "2026-05-07T07:37:38.082822+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "강한 이슬비",
-        "temperature": "10.8°C",
-        "feelsLike": "9.7°C",
+        "temperature": "11.7°C",
+        "feelsLike": "10.7°C",
         "highLow": "최고 18.0° / 최저 10.2°",
-        "humidity": "79%",
-        "wind": "2.8 m/s",
+        "humidity": "76%",
+        "wind": "2.2 m/s",
         "rainChance": "83%",
-        "pm10": "34.1 μg/m³",
-        "pm25": "23.4 μg/m³",
+        "pm10": "32.2 μg/m³",
+        "pm25": "24.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "38",
-        "updatedAt": "2026-05-07 06:45"
+        "updatedAt": "2026-05-07 07:30"
       },
       {
         "location": "김포",
         "summary": "약한 비",
-        "temperature": "10.7°C",
-        "feelsLike": "9.5°C",
+        "temperature": "12.2°C",
+        "feelsLike": "11.2°C",
         "highLow": "최고 16.1° / 최저 9.6°",
-        "humidity": "87%",
-        "wind": "6.0 m/s",
+        "humidity": "83%",
+        "wind": "5.9 m/s",
         "rainChance": "89%",
-        "pm10": "34.1 μg/m³",
-        "pm25": "23.4 μg/m³",
+        "pm10": "32.2 μg/m³",
+        "pm25": "24.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "38",
-        "updatedAt": "2026-05-07 06:45"
+        "updatedAt": "2026-05-07 07:30"
       },
       {
         "location": "파주",
         "summary": "약한 비",
-        "temperature": "9.9°C",
-        "feelsLike": "8.5°C",
+        "temperature": "11.5°C",
+        "feelsLike": "10.2°C",
         "highLow": "최고 16.3° / 최저 8.6°",
-        "humidity": "88%",
-        "wind": "6.0 m/s",
+        "humidity": "82%",
+        "wind": "6.6 m/s",
         "rainChance": "96%",
-        "pm10": "34.1 μg/m³",
-        "pm25": "23.4 μg/m³",
+        "pm10": "32.2 μg/m³",
+        "pm25": "24.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "38",
-        "updatedAt": "2026-05-07 06:45"
+        "updatedAt": "2026-05-07 07:30"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "10.1°C",
-        "feelsLike": "8.9°C",
+        "temperature": "12.2°C",
+        "feelsLike": "11.0°C",
         "highLow": "최고 22.0° / 최저 9.0°",
-        "humidity": "91%",
-        "wind": "6.0 m/s",
+        "humidity": "83%",
+        "wind": "7.3 m/s",
         "rainChance": "29%",
-        "pm10": "29.4 μg/m³",
-        "pm25": "24.2 μg/m³",
+        "pm10": "23.5 μg/m³",
+        "pm25": "20.9 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "36",
-        "updatedAt": "2026-05-07 06:45"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-05-07 07:30"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "한울에너지(주)마송주유소",
-        "address": "경기 김포시 통진읍 김포대로 2397",
-        "updatedAt": "2026-05-06 22:12:50",
+        "stationName": "경일석유㈜찬빛주유소",
+        "address": "경기 김포시 통진읍 김포대로 1999",
+        "updatedAt": "2026-05-05 07:41:20",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,22 +376,46 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "5월 7일 굿모닝 MBN 주요뉴스",
+      "source": "mbn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWVDB4RWpJVXppYnVBMFFJRnMyeThvNFNlaXQ1N2s2clc4bHlSdUpoV3ZteFo4WmppWThIRFNKYzJfTk9PejQtdWtDT1p3cFhkUnFmTdIBTEFVX3lxTE1lRVdRMlJBM0xCX0tDRS1TU01rMVlTMFFyd2ZkMWRNeHlub3JEdUdnNU9mTjBlYUhpVXBRTUpPbDJPNTRfZWlOQW8zblQ?oc=5",
+      "publishedAt": "Wed, 06 May 2026 22:00:35 GMT"
+    },
+    {
+      "title": "[종목 주요지표&DATA] 26년 3월 PCR및 면역 진단키트 수출액 추이",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSkwza1E3NkpMdzhGeGQxY19QM2cwYlRuVWhXTVlzcURrYnhTaHNZN0NHS0pzZ2xXTzkzazVGblJ6VHBRclNwcXcwNlZWOXlONDVPUTkwMkdOVlhVNWgwclNCbUtmdzZ6VXlRdzZZcDFTRk5odm83bFZkbjJLOFNRMHRLS0hSZw?oc=5",
+      "publishedAt": "Wed, 06 May 2026 22:20:00 GMT"
+    },
+    {
       "title": "패션업계, 재고 줄이기 안간힘…내수 회복에 재고 소진 기대",
       "source": "뉴스1",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GLTFPVjJ2dmgtU2lyVkhlRDVyeEVhcExWM0U0WDRmYWtCT3kxUzlxZGdTMU05cEFya21tRjRicEdxd1BZM29Nbm50amxGNzFON2VMYi1pSUt4MFY4clVj?oc=5",
       "publishedAt": "Wed, 06 May 2026 21:50:00 GMT"
     },
     {
-      "title": "[26년 5월 7일(목)] “삼전닉스 나만 없어” “내가 팔고 30% 올랐다” ‘꿈의 7천피’에 우는 개미들 - 비티의 오늘 주요 뉴스 요약",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnVUdU1EQ3gtcG9GQk55UmtBQ0k1cHVZZ2htU29VQ3ZLbmtlTW9HbWh0UXBWcG5tMXRWMWtNSWRsV05XOGJRUWd4WWN4ekdSS29fV3pBTmNpem1jNVF1QkF4RVVFM2o0aXNnakRUMGdpTDR5T0hlaEpYamlBSjgtVg?oc=5",
-      "publishedAt": "Wed, 06 May 2026 21:34:59 GMT"
+      "title": "하투하, 수능 공부도 덕질처럼 ‘함께학교’",
+      "source": "newsen.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RSmNQVVJSaVpjRmtIME5NTjYxakRieU5mVW1SeGNkWmN1emxRY3N3MkIwSVpoNmhOMFIzalZqNDN2aWFrOVJkSDdFMnFIMG1kSWFDOE1wa3AwZ3RyZlBpY2hudlh3aFpNdm02VFF1dDRpTGJSb2VnUHJXVQ?oc=5",
+      "publishedAt": "Wed, 06 May 2026 22:22:42 GMT"
     },
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "title": "뉴스만으론 안 된다…뉴욕타임스 '게임·요리' 묶더니 구독자 1300만 돌파",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xNXU1MG54eGhOSnJJdThLRmthMkVSQXl0VTlnZVZrMUlnLUlrZ2VzMzZQdGZzeDhfLXV3Z24xNFdwQm5qQnlLTTY0Tk5yVnVXZ3pzbmxMX2owVnpyV0FMWGVn?oc=5",
+      "publishedAt": "Wed, 06 May 2026 22:28:12 GMT"
+    },
+    {
+      "title": "\"부자만 가라?\" 43억짜리 티켓까지…북중미 월드컵 고가 논란",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55cDhvZW16dVpBOWdjU1FpVnRvZ3Z0STNVZWcyRXpfR2p0WFczUVB2NjhseVVxa0VGUnUyNEwtWHQ4Zzh2a2ZhYVhMRmJ0LVJxbE1Z?oc=5",
-      "publishedAt": "Wed, 06 May 2026 21:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBabUZGc0wyelI2b1JaQlpEV1VhV2ZKMWh0N05MYklMOXRTaTJWaUJQNFRwNXpVTnRUTmZxRTZXU3Q5amc3bWZ4dFN1dFZXRWk3elYyNVFFVWpSQUtzb3VhdTBuN1YxbUVqTmdWTVBRNWUweG15TjNoeA?oc=5",
+      "publishedAt": "Wed, 06 May 2026 22:17:00 GMT"
+    },
+    {
+      "title": "\"미군 전투기, 오만만서 이란 유조선에 발포\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvMXBoWVk0ZTdwbHh5Zy04VUc5cmdRSzR1aWM0R0lPVWxGR1dlMWh5aW9BRzY5QnNxc3RmNkZReFVuV2VSajBpenZKbTN3UXEyMXZrTFR1NXZUcDEzZV8zeVV1T1ZLUFBfY2c?oc=5",
+      "publishedAt": "Wed, 06 May 2026 22:11:00 GMT"
     },
     {
       "title": "[AM-PM] 한덕수 '내란 혐의' 항소심 선고…재판 생중계 外",
@@ -400,40 +424,16 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Wed, 06 May 2026 21:58:00 GMT"
     },
     {
-      "title": "[오늘의 IR] SK바이오사이언스·한화·에이피알 등",
+      "title": "전국 흐리고 곳곳에 비…낮 최고 27도",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45YTY4TzQ5aC1za1RGY1I1cEVTSzh4SFNXaV9IYzFHczFjN0JSM3QtTUJ1QlR5cmNKZ01wMmQ4YVFTMk9hRnpycWdXajRFcmFtdm9Ndk5PdkhQOGpRUnJSdQ?oc=5",
-      "publishedAt": "Wed, 06 May 2026 21:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Wb21GZnpEUXpVOTZPMlJUX1lCMFhRVGVoYWQ0WjhqaEZJV1lyOTc0X2tPSnV3dDRIRmgzYlIzS1VLekVhSi1wSzJhTXNLWUZBQmcw?oc=5",
+      "publishedAt": "Wed, 06 May 2026 22:20:00 GMT"
     },
     {
-      "title": "구글 안드로이드, '대대적 디자인 개편' 예고[모닝폰]",
+      "title": "[아주증시포커스] 2500에서 7400으로…뉴노멀 시대 진입한 코스피 外",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZGxYVFI3dk8zWkNyZktQTGdMekNJOVM5Q1JMek93cWNRbnRfM0F6dTRubE55WTR1UWhFXzZkX1g5M09XRDhoTV9sWnJoMm5xTzVUVzhaSnNLSmpNellxOA?oc=5",
-      "publishedAt": "Wed, 06 May 2026 21:57:00 GMT"
-    },
-    {
-      "title": "[속보] 국제유가, 하락…WTI 7%↓",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwWkRscElVSmN0N0RRMl8taFVxZVptcUVJNm9OdHBlRGJ4SmpzSkJnUlVjRmktWkgtYTBhS3V2azFOdDByX3lPU1d4S1E5VXlZNHZwcFFTZHpVNUtMSm9mZQ?oc=5",
-      "publishedAt": "Wed, 06 May 2026 21:19:00 GMT"
-    },
-    {
-      "title": "\"우산 챙기세요\" 오후부터 중부 중심 비…곳곳 강풍 주의(종합)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vMTNTMnByT1lWaHlBNWZiWUlMY29Zc0c5TXRCYXJCenFuVjNxTl96cWsxY3YtZm9Ield1SjFkV0pqRDQ4ZnlEb25ja0QyOW9SS185YUtPUC1jcXdkTVFQQ1VXYw?oc=5",
-      "publishedAt": "Wed, 06 May 2026 21:30:00 GMT"
-    },
-    {
-      "title": "[글로벌증시] \"합의 임박\"에…S&P500·나스닥 또 신고가",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EWWp0eDB6MGRRVDczcExGc1ZwZTVsNU8tUjczck1LVXl5SlROSkZVbVZ3LVFUMWJVQkNrQWZZNEYxWmpjZC1RWjFwNlFaYV9ZNjc0?oc=5",
-      "publishedAt": "Wed, 06 May 2026 21:58:00 GMT"
-    },
-    {
-      "title": "\"지금이라도 살까\"…'깜짝 실적' 내더니 18% '폭등'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40dFZxZS10MVNDWjVUTHgzUnVtRnBNRnN2aFBweUNvNjNTVWdXT1d0TWpPdVBCN3pFMlk4ZUE0ZHpJSEl4a29uVHdvM0ZYYUU5dzM4?oc=5",
-      "publishedAt": "Wed, 06 May 2026 21:55:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zbnFTQ1pyTEhuQzE3QTlzbFBVb0ItLUtRR0R4RGJjbHZCU3hBeWJKMFR2bzNvWFhvSmZ1N1pETHliMHNHTnAzZGtsNlJRbnFpZ0dj?oc=5",
+      "publishedAt": "Wed, 06 May 2026 22:09:00 GMT"
     }
   ],
   "sources": [
