@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T23:41:19.114908+09:00",
+  "generatedAt": "2026-05-07T01:21:32.359573+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,113 +22,113 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,886.66",
-      "change": "+588.41",
-      "changePercent": "+1.19%",
+      "value": "49,832.93",
+      "change": "+534.68",
+      "changePercent": "+1.08%",
       "direction": "up",
-      "updatedAt": "2026-05-06 23:23"
+      "updatedAt": "2026-05-07 01:01"
     },
     {
       "label": "S&P 500",
-      "value": "7,328.62",
-      "change": "+69.40",
-      "changePercent": "+0.96%",
+      "value": "7,342.16",
+      "change": "+82.94",
+      "changePercent": "+1.14%",
       "direction": "up",
-      "updatedAt": "2026-05-06 23:28"
+      "updatedAt": "2026-05-07 01:06"
     },
     {
       "label": "나스닥",
-      "value": "25,593.29",
-      "change": "+267.16",
-      "changePercent": "+1.05%",
+      "value": "25,696.70",
+      "change": "+370.57",
+      "changePercent": "+1.46%",
       "direction": "up",
-      "updatedAt": "2026-05-06 23:23"
+      "updatedAt": "2026-05-07 01:01"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,448.50",
-      "change": "-20.50",
-      "changePercent": "-1.40%",
+      "value": "1,448.10",
+      "change": "-20.90",
+      "changePercent": "-1.42%",
       "direction": "down",
-      "updatedAt": "2026-05-06 22:01"
+      "updatedAt": "2026-05-06 22:02"
     },
     {
       "label": "100엔/원",
-      "value": "927.42",
-      "change": "-4.33",
-      "changePercent": "-0.46%",
+      "value": "925.66",
+      "change": "-6.09",
+      "changePercent": "-0.65%",
       "direction": "down",
-      "updatedAt": "2026-05-06 22:01"
+      "updatedAt": "2026-05-06 22:02"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "약간 흐림",
-        "temperature": "14.0°C",
-        "feelsLike": "13.5°C",
-        "highLow": "최고 22.2° / 최저 7.7°",
-        "humidity": "72%",
-        "wind": "1.4 m/s",
-        "rainChance": "0%",
-        "pm10": "38.8 μg/m³",
-        "pm25": "23.1 μg/m³",
+        "summary": "이슬비",
+        "temperature": "12.3°C",
+        "feelsLike": "11.3°C",
+        "highLow": "최고 18.1° / 최저 10.8°",
+        "humidity": "76%",
+        "wind": "3.7 m/s",
+        "rainChance": "83%",
+        "pm10": "37.6 μg/m³",
+        "pm25": "23.2 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-05-06 23:30"
+        "updatedAt": "2026-05-07 01:15"
       },
       {
         "location": "김포",
-        "summary": "흐림",
-        "temperature": "12.1°C",
-        "feelsLike": "10.9°C",
-        "highLow": "최고 20.2° / 최저 7.1°",
-        "humidity": "85%",
-        "wind": "8.0 m/s",
-        "rainChance": "0%",
-        "pm10": "38.8 μg/m³",
-        "pm25": "23.1 μg/m³",
+        "summary": "강한 이슬비",
+        "temperature": "10.7°C",
+        "feelsLike": "9.2°C",
+        "highLow": "최고 16.2° / 최저 9.8°",
+        "humidity": "86%",
+        "wind": "8.2 m/s",
+        "rainChance": "89%",
+        "pm10": "37.6 μg/m³",
+        "pm25": "23.2 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-05-06 23:30"
+        "updatedAt": "2026-05-07 01:15"
       },
       {
         "location": "파주",
-        "summary": "약간 흐림",
-        "temperature": "11.6°C",
-        "feelsLike": "10.1°C",
-        "highLow": "최고 19.8° / 최저 5.8°",
-        "humidity": "83%",
-        "wind": "7.9 m/s",
-        "rainChance": "0%",
-        "pm10": "38.8 μg/m³",
-        "pm25": "23.1 μg/m³",
+        "summary": "강한 이슬비",
+        "temperature": "10.2°C",
+        "feelsLike": "8.7°C",
+        "highLow": "최고 16.2° / 최저 9.3°",
+        "humidity": "85%",
+        "wind": "6.9 m/s",
+        "rainChance": "96%",
+        "pm10": "37.6 μg/m³",
+        "pm25": "23.2 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-05-06 23:30"
+        "updatedAt": "2026-05-07 01:15"
       },
       {
         "location": "익산",
-        "summary": "대체로 맑음",
-        "temperature": "12.4°C",
-        "feelsLike": "11.2°C",
-        "highLow": "최고 23.3° / 최저 6.5°",
-        "humidity": "86%",
-        "wind": "8.7 m/s",
-        "rainChance": "0%",
-        "pm10": "33.8 μg/m³",
-        "pm25": "19.8 μg/m³",
+        "summary": "강한 이슬비",
+        "temperature": "11.3°C",
+        "feelsLike": "10.2°C",
+        "highLow": "최고 21.8° / 최저 9.3°",
+        "humidity": "90%",
+        "wind": "7.2 m/s",
+        "rainChance": "29%",
+        "pm10": "37.3 μg/m³",
+        "pm25": "24.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-06 23:30"
+        "airQualityIndex": "26",
+        "updatedAt": "2026-05-07 01:15"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 5월 6일 (수)",
+    "todayLabel": "2026년 5월 7일 (목)",
     "areas": [
       {
         "region": "서울",
@@ -284,7 +284,7 @@
           },
           {
             "district": "송파구",
-            "price": "1,973원/L"
+            "price": "1,977원/L"
           },
           {
             "district": "강서구",
@@ -303,15 +303,11 @@
       {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
-        "lowestDistrict": "남동구",
-        "stationName": "지에스칼텍스㈜ 논현제일셀프주유소",
-        "address": "인천 남동구 청능대로 460 (고잔동)",
-        "updatedAt": "2026-05-02 14:59:58",
+        "lowestDistrict": "미추홀구",
+        "stationName": "탑self주유소",
+        "address": "인천 미추홀구 송림로 217 (도화동)",
+        "updatedAt": "2026-04-30 09:22:33",
         "districtSamples": [
-          {
-            "district": "남동구",
-            "price": "1,975원/L"
-          },
           {
             "district": "미추홀구",
             "price": "1,975원/L"
@@ -319,6 +315,10 @@
           {
             "district": "서구",
             "price": "1,975원/L"
+          },
+          {
+            "district": "남동구",
+            "price": "1,979원/L"
           },
           {
             "district": "부평구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜김포제2주유소",
-        "address": "경기 김포시 대곶면 대곶북로 347",
-        "updatedAt": "2026-05-06 17:58:21",
+        "stationName": "걸포주유소",
+        "address": "경기 김포시 금포로 1117-6 (걸포동)",
+        "updatedAt": "2026-05-04 10:16:00",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "논/쟁",
-      "source": "JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xOFBsRFAwQWdUV0JkUE80bklPUmtZWFhwRDZHLXJKSkZONFJnTE40RkZpMXJfMDUzaHZ3czZjSXFpSm5YLWpkMw?oc=5",
-      "publishedAt": "Wed, 06 May 2026 14:09:13 GMT"
-    },
-    {
-      "title": "2026년 5월 6일 세계 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMG1vT2dLN045SDRwTjJBTmZhUm9ISW9USlZOTV9TQlhvZ2lpSzB1T0dob3Y0eXZXRnpkTG1nbzRrdHV6NXZ0TjkxcmNvMWNSZTFIb2tMbW9OTlFMUFRYcEt5TmVaVmlES1NWQm55NEZMSDRhVlE5ZDZVM1E0dw?oc=5",
-      "publishedAt": "Wed, 06 May 2026 13:57:33 GMT"
-    },
-    {
-      "title": "[포토] 포즈 취하는 이홍내 (취사병 전설이 되다 제작발표회)",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuUG4zWjdxUjNpLTlhckJFU2QyQlh4RXdNMHVjUjV3UkwwV2dWZTl2b1FaYjN1ZjZuZWhtcWIwTW1icUxzU19oMzU1Wm04N2hpYmlrZC1ITnHSAVhBVV95cUxQblBuM1o3cVIzaS05YXJCRVNkMkJYeEV3TTB1Y1I1d1JMMFdnVmU5dm9RWmIzdWY2bmVobXFiME1tYnFMc1NfaDM1NVptODdoaWJpa2QtSE5x?oc=5",
-      "publishedAt": "Wed, 06 May 2026 13:55:17 GMT"
-    },
-    {
-      "title": "李대통령 \"돈 버는 게 금융기관 존립목적이라 생각하는 게 문제\"",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mRVBuTjI5UTZ6X1B5UTFxTW9DUGg5elJzeG9hR0VoTGwyX3BEZFBHM3RiLU54Qm4zMzFnVlhtalZ1U0dHVm1rc0E0eVlsUndaRU1xQ3VvZXVzSGhwWkkyX1lMMzJERHNMSGdB?oc=5",
-      "publishedAt": "Wed, 06 May 2026 13:55:48 GMT"
-    },
-    {
-      "title": "[AI의 종목 이야기] 엔비디아, 빅테크 경쟁자들의 거센 도전 속 주가 약세",
+      "title": "[주요경제지표] 2026년 5월 6일자",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CeFY1clRTZk5LQnIyQ09fVzBmOUc5bU9CaG5WTDFjTUpIVFZ6NS1HbU9jeDhVbklWRVp3XzFTSXd2ZG1SeUdvZWdVUWJvNUw4UUtNMVRlbk42QlBVbDg5ZA?oc=5",
-      "publishedAt": "Wed, 06 May 2026 14:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IMEszZDNURG43NEFGMHZNMUtvTkhrd0NUOEJyV3VoREhlaG9JUFk5V1BrQ29zdHBxeWhRaVJjWUxLMXotcTYtYjFUbmwtamU0TkJJ?oc=5",
+      "publishedAt": "Wed, 06 May 2026 15:32:00 GMT"
     },
     {
-      "title": "서울 종로에서 시내버스 3대 추돌…승객 11명 부상",
+      "title": "2026 여주시 세종대왕배 전국동호인3쿠션당구대회",
+      "source": "mkbn.mk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jbjNzLUszTEdxNWlTMXowLUVjclFha3l4Q0NZeHhnaVlJdThnazhvZXI0a2Y0dHozV3ctVkdESVhLRjlKQjE2dC03ckFWc21KZHNGRQ?oc=5",
+      "publishedAt": "Wed, 06 May 2026 15:35:39 GMT"
+    },
+    {
+      "title": "원자력硏, 장기 '정지 원전' 설비 건전성 평가 기술 개발",
+      "source": "인사이트N파워",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92b0ZlYWs1bDVUdnhUQlZETW9BZE10VjFyY2tZY1cyN0lMZ2ljSk5qbTlTZGI3MEg2VE9wR1p0WksyNllITnhEVFcxcFJHQUdWbm1LdVFBZkFyMzJ0aTdHR2U2clJDdw?oc=5",
+      "publishedAt": "Wed, 06 May 2026 15:28:49 GMT"
+    },
+    {
+      "title": "3선 한병도, 민주당 원내대표 연임",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMN1VlT0FzWWZwOGdndkk4MEd0N2lXUTRicmlNRkRDc3F1NGVUZVpnbV9pcFdZVDdST0c2YzhSUi1BMmg1VE1zTldOMVBiRTU5UzNJek01eGVCeHZoaHhRSS1fS1c0OWZmSThrWVJpeXJiTkxGNlRTNg?oc=5",
-      "publishedAt": "Wed, 06 May 2026 14:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vQUNycE5mMldzNms3T2l4elpOUDliNEZOZk93bndUNzFUOFpoVk41aUF0eGZ2QUR4Ry1jdEc3Vm5iS2ozd2dqM2ZsZEg4cVJrUEpz?oc=5",
+      "publishedAt": "Wed, 06 May 2026 15:51:00 GMT"
     },
     {
-      "title": "2026년 5월 6일 베트남 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtZEQzeUsybWpZeHh6RVhpT0t1WVJGdnY4bHhpaERySmUzVGRScWJvWEVnMUZLN2hkUzAzRTZhVHZ3NE1TUWQxR1kxYi14YUU0eEVac3AyOUVWcHZFX0RwR2R4UkNZTVh0UmRSQUEtZlp2dVdwclZBWjNjSExxZw?oc=5",
-      "publishedAt": "Wed, 06 May 2026 13:47:21 GMT"
-    },
-    {
-      "title": "무서운 장바구니 물가…가정의 달 할인 행사 추진",
+      "title": "국힘 \"상임위 독식은 의회 독재\"…원구성 협상 신경전",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kUW85X1NnbGJXQUNJb2gxQ05wd1BsUFh3RTRraTR3UFVTc3pkMU9kdDE2R284ZWJaYkFxZlhIMERoOFBDQ3JmeXN2QXVtcVhCY3VV?oc=5",
-      "publishedAt": "Wed, 06 May 2026 13:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rTEllQlRNZVJfVDN6LXlTNTJMMVFZWVIzdGtOY3llZ19WX3hhSW51WWM0LXBNM0puM09RVTVGbV9YRXpRUjdWa05Xandkc3BpYmhR?oc=5",
+      "publishedAt": "Wed, 06 May 2026 15:26:00 GMT"
     },
     {
-      "title": "괴산 화재 차량서 신원미상 시신 발견…경찰 수사",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zT1pZbTRIRmZRbDJTUmx2OTlkTWNOMHZYS2Uwc095R1NOemI0RkpWWkRad2hVZG1HT0lBb2JPUU5TbGplbkNSUElpWGN6RGcwVmY0?oc=5",
-      "publishedAt": "Wed, 06 May 2026 13:55:00 GMT"
+      "title": "\"터질듯한 호피\" 골프 여신 스피라낵, 파격 골프웨어로 시선 집중…팬들 \"아름다운 게 범죄\"",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RZzVlVWZ0TjBlWWRydjdHcmpKWElQd0U0RmJUY3I0UUM2QWFJWGlsMmlvSVNEVEVKNG1lT0NWXzRQcTRDVXY2dUVXUnJYX0tRMkV5RFpHSGI5eGxy?oc=5",
+      "publishedAt": "Wed, 06 May 2026 15:51:00 GMT"
     },
     {
-      "title": "\"불법계엄 방지 반대는 옹호\"…개헌 동참 촉구",
+      "title": "스페이스X, 테라팹에 550억달러 투자 계획…\"목표 달성 여부 불확실\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRcjhfRGpyQVU5cEp2eFRoeUI5NFVpQ01LQTV4aUk4SzVxbWJHRUk0cTR6djcyRkdYR25zbVBaTWEyOEVZWHUwZXYtSjBlOE1vdkxJ?oc=5",
-      "publishedAt": "Wed, 06 May 2026 13:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RZi1YNlN1NXpic3laOW5iWmhlTTB2V19WS1pzQ2hMV1ZBMi1QZ2txVEFVdGc0QmZ2N083ai1iVVlQcUlSWlJOM0FKdEJuMjluVDVFLWFydTBTd2VsbkFVZw?oc=5",
+      "publishedAt": "Wed, 06 May 2026 16:14:00 GMT"
+    },
+    {
+      "title": "KT, 고객 보호 TF 신설…AI 실시간 탐지 등 운영",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOdUZLdU1NSU9HaDNqYnFNVW5vOXNUUHQxWEU0RXdaU204UlhUR2Z6THV4WXBadTdRS2xXUVpIVVBHVFpBanRnZFNiM2ZmOF9yT09z?oc=5",
+      "publishedAt": "Wed, 06 May 2026 15:37:00 GMT"
+    },
+    {
+      "title": "코스피 고공행진에 증권주 날아오른다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hTTBpd0NYR1Y0WGlMV1ZFdG13Y1J6R2Y2Ti1KZXUzbVphckhrVFJQQXlwQXZ3MEhaQ0t6UjJmTTdmbHo0RlR5Yzh5R21zeHpBVDVn?oc=5",
+      "publishedAt": "Wed, 06 May 2026 15:36:00 GMT"
+    },
+    {
+      "title": "'많이 걷기'보다 '짧게 빨리 걷기'가 압도적으로 좋다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42MWpEc2xGb0JGNHZKWS1yRW14SlNuUy1Cc0hXRVc4S3FMV281aUZmWmtZQVBWNlcxdHczelRBRTJpM2g1bDlLbkctZjBQN0lZTXJr?oc=5",
+      "publishedAt": "Wed, 06 May 2026 15:42:00 GMT"
     }
   ],
   "sources": [
