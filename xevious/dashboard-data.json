@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T18:17:12.992828+09:00",
+  "generatedAt": "2026-05-07T20:21:19.393733+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,451.80",
-      "change": "+2.80",
-      "changePercent": "+0.19%",
+      "value": "1,452.40",
+      "change": "+3.40",
+      "changePercent": "+0.23%",
       "direction": "up",
-      "updatedAt": "2026-05-07 18:14"
+      "updatedAt": "2026-05-07 20:17"
     },
     {
       "label": "100엔/원",
-      "value": "928.47",
-      "change": "+1.88",
-      "changePercent": "+0.20%",
+      "value": "928.70",
+      "change": "+2.11",
+      "changePercent": "+0.23%",
       "direction": "up",
-      "updatedAt": "2026-05-07 18:14"
+      "updatedAt": "2026-05-07 20:17"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "13.2°C",
-        "feelsLike": "13.3°C",
+        "temperature": "12.4°C",
+        "feelsLike": "12.4°C",
         "highLow": "최고 18.3° / 최저 10.2°",
-        "humidity": "96%",
-        "wind": "4.9 m/s",
+        "humidity": "99%",
+        "wind": "5.0 m/s",
         "rainChance": "100%",
-        "pm10": "27.1 μg/m³",
-        "pm25": "21.1 μg/m³",
+        "pm10": "25.3 μg/m³",
+        "pm25": "20.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "51",
-        "updatedAt": "2026-05-07 18:15"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-07 20:15"
       },
       {
         "location": "김포",
         "summary": "강한 이슬비",
-        "temperature": "12.5°C",
-        "feelsLike": "12.1°C",
+        "temperature": "12.3°C",
+        "feelsLike": "11.7°C",
         "highLow": "최고 16.7° / 최저 9.6°",
-        "humidity": "98%",
-        "wind": "7.9 m/s",
+        "humidity": "99%",
+        "wind": "9.2 m/s",
         "rainChance": "100%",
-        "pm10": "27.1 μg/m³",
-        "pm25": "21.1 μg/m³",
+        "pm10": "25.3 μg/m³",
+        "pm25": "20.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "51",
-        "updatedAt": "2026-05-07 18:15"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-07 20:15"
       },
       {
         "location": "파주",
         "summary": "강한 이슬비",
-        "temperature": "12.8°C",
-        "feelsLike": "12.6°C",
+        "temperature": "12.4°C",
+        "feelsLike": "12.0°C",
         "highLow": "최고 16.4° / 최저 8.8°",
-        "humidity": "97%",
-        "wind": "6.4 m/s",
+        "humidity": "98%",
+        "wind": "7.5 m/s",
         "rainChance": "99%",
-        "pm10": "27.1 μg/m³",
-        "pm25": "21.1 μg/m³",
+        "pm10": "25.3 μg/m³",
+        "pm25": "20.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "51",
-        "updatedAt": "2026-05-07 18:15"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-07 20:15"
       },
       {
         "location": "익산",
-        "summary": "이슬비",
-        "temperature": "15.7°C",
-        "feelsLike": "15.1°C",
+        "summary": "약한 이슬비",
+        "temperature": "14.6°C",
+        "feelsLike": "14.4°C",
         "highLow": "최고 22.1° / 최저 8.7°",
-        "humidity": "87%",
-        "wind": "12.2 m/s",
+        "humidity": "91%",
+        "wind": "8.6 m/s",
         "rainChance": "61%",
-        "pm10": "13.7 μg/m³",
-        "pm25": "10.8 μg/m³",
+        "pm10": "22.1 μg/m³",
+        "pm25": "17.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "56",
-        "updatedAt": "2026-05-07 18:15"
+        "airQualityIndex": "51",
+        "updatedAt": "2026-05-07 20:15"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VT2ZCbW5pcUhMa18zVnoweE9qUFRZWUM5NGROaUZUalFRS2FTVzBxRjBFT1FScU5Oc3JwaU4xS0VkWjRpSF9qU3Y4QUNZVVVobDV0Ri1OdjRka0XSAWBBVV95cUxPS3ZFd2QxY1BIM3Y0Z3dvRTdWVXFFNklVZ3hwT09ha2pmLVRMeXRjYm4zczFHbjl3Y1RBclB0M3VLNjY5OGdzZ1NTLXZXSVZuWHBGNWloM0FYeWh3cExPNnY?oc=5",
-      "publishedAt": "Thu, 07 May 2026 09:00:01 GMT"
+      "title": "[뉴스7 울산 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yU0lFQzV0U1BSb1pnWE5QR2lrU3dQSUpUSlVJdS1DMWNXcmdWMk1EaENxSFppOGxXYnBSMWVlZWQxaGM2SkMwVERBdnh5SDB3OF9FWWFCMmpMVjA?oc=5",
+      "publishedAt": "Thu, 07 May 2026 10:33:00 GMT"
     },
     {
-      "title": "통합특별시 출범 50일 앞…전남도, 분야별 준비 상황 점검",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fM2lHUmpXV2VRMURWU2NGcGQ1UmJBN1M3UWpSd0YtVi1RSWFvOW1zNVRCaW9CTkdseEV2a0c0VWREREVxamx1MUtTUHBRX0pqbHhjUkw0VGZZTjZmMk1n?oc=5",
-      "publishedAt": "Thu, 07 May 2026 08:51:54 GMT"
-    },
-    {
-      "title": "진주시, '정원박람회 기획운영' 중간 보고회 개최…주요 구성 논의",
-      "source": "진주뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04YUJwcjI1bmc1MFlja1N0Q3huZnVYM18wdEFleUNKVVh3UkpaeXdFWk8yNDFRRURuMC1rWEJBWjk0X0tJbTVTVmxOYlNHWTlYZ2h6c2pOcmlrRVduZTliM2xBR3JoRENHaVE?oc=5",
-      "publishedAt": "Thu, 07 May 2026 08:55:50 GMT"
-    },
-    {
-      "title": "글로벌 물류 컨퍼런스, 성황리 개최",
-      "source": "카고뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BcW1jS1VpX3VQbHdZd2tFb01XT0JsSU1NNHMtWlNPWUFhUmhjMjVwdkhlZ1JkMVV0V0NDa1o0TDdYQ193cHp1emFCb1FDUXVtY0FPdVRxLWduaXo4aFpTNHN3NUswbUZLWnRxMw?oc=5",
-      "publishedAt": "Thu, 07 May 2026 08:42:44 GMT"
-    },
-    {
-      "title": "삼성 93% 질주, LG·현대차는 주춤…그룹주 ETF 희비",
+      "title": "[포토] 신서윤, 크레이지 터닝",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yU1ktQ1ctazlNWjlNeThrRGlWYi0zMkcyMzFKWkQ1R2RGTjl6dXBzN2dOYWlVY2tXeHNWeVBLUEpfcnlMdzI0b1ZtTUJ4eHpkZFlJYm8ySV80cWtROGlaVw?oc=5",
-      "publishedAt": "Thu, 07 May 2026 09:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hVlo4NXc0SV9vYVZ0dUJGdHJuN25TYS1ibVNGTEd2Znl5Nm15bUF3QVI0eHlkNVBfRVhZSlFBc0VyeUJlblJWX08tV0VMclBxOVg2VzNB?oc=5",
+      "publishedAt": "Thu, 07 May 2026 11:13:00 GMT"
     },
     {
-      "title": "[속보] 생명안전기본법 국회 본회의 통과‥세월호 참사 12년만",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnI2OUhBUlhXN0pERndYQmRONXVfS1V0d2pPZ3BXWV9kaWt6S011eTlhOE9zSWhuWmZVdU15LVVFOWh4bkpUQlY3Sk1BWDliOWNpYnlLT1NDU3lNQWlGR1I5S2FOejhlSkYyNHhGdEtyOWlpY1lYT0tyVUxmOXpJMlJTOXpGT21nY0dTTEJkUkZRcnByY1JVUXIxYUFYcm9Wa2tPakNvS3AzQ05uUWJpQW9Nd0pjZ0hyYXl2cjZESUvSAXhBVV95cUxOdjRoRUk0OU9wSjRLMkhmVFlqT3ZMbnRPU2ZSU1p6eWpRQ0N2U2NCZlJYQlUzSUVhZl8wS0hmdTdST0NMd0J5Q25tQ2FsbjYtc0lEWWVabkFsSHJ3dFIxRkZmTTBlcWt2V2FaNmk4WUJpZVZPcFIySG4?oc=5",
-      "publishedAt": "Thu, 07 May 2026 08:18:39 GMT"
-    },
-    {
-      "title": "넷마블, 1분기 영업이익 531억원... 전년 대비 6.8% 증가",
-      "source": "ipnn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBob2NTbE9BVG1LcjVyR00zN0ZMNjhiMUttTzhvdFlkQld5bzg4QWZQMGlzSC1lN2xnT1VWU2VsdmJYNnpuQTFNR0VRNDUzcXRzUUUzd01PcWIyYmRBazY1YzFRd1JxYmhp?oc=5",
-      "publishedAt": "Thu, 07 May 2026 08:24:50 GMT"
-    },
-    {
-      "title": "[쇼츠] \"승객 자연사, 크루즈 안전해\"…선장 영상에 '분노'",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Xakd3eV9ZcmM4OVFHSVIzV3JKT3FyUmduQnNOdUh5aFlfa1p0dXRQWHhsTlFJelJSMU11Q2ZJWlcxN2JPLU9nWVZJUVUzbVpXck9NYUlPV1Q5WmfSAWBBVV95cUxNZ3dGT1prU0pqeVNUOEhOQnQyRVY3TG9xMVVDMnRCbnJ3VzBrZnFaMUNIMS1RVnkyQmdNTU5sQjFkNVdPNHlLYnhZcDFfQ1Y4TUFldXE5TEtSX19iOTU2bHc?oc=5",
-      "publishedAt": "Thu, 07 May 2026 08:41:01 GMT"
-    },
-    {
-      "title": "강원 올해 첫 SFTS 환자 발생…고열·감기 증상 80대",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5odVNpaG56d245cEFTbElRMG1wdDVQdWpFT2ExbWktUm9wNlRPaXBZTVAxQURvTzR2MnhqcDZCTFdWcFhJdzAxVFdNS3ZMZnBBTzJVZw?oc=5",
-      "publishedAt": "Thu, 07 May 2026 08:20:37 GMT"
-    },
-    {
-      "title": "경찰, 박용선 후보 '공직선거법위반 혐의' 보완수사 진행",
+      "title": "시트앤모어, 병원 내 '리클라이너 소파' 도입 증가",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOeGpzWHdpYV91Z2JxQ3lDcmgxZmZDUnJpR3F5dUZ4WTVmWjVnX25qQ083dDladm8xUWN2c3lfWnJtZ3JheWVHN1JsN3p1dU5PRWQ4?oc=5",
-      "publishedAt": "Thu, 07 May 2026 08:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2S041akdkSHRMelh5VmNfU1pkcXdfZnE4SkRiaVJ2TVlOSUgybjEtcm4tRkZnLWt0anVVeXhIenZmZzFXVHU5bXZ3U2JyelFyQlI0?oc=5",
+      "publishedAt": "Thu, 07 May 2026 11:09:00 GMT"
+    },
+    {
+      "title": "구글이 성장 돕는다…마케팅 자동화 '노티플라이', GFSA 선정",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90cnB4VFRBVnZPdkpMSmVIZTRuZ2dqZlJXMGlsVGdZQUx5OUEtMGY1ZnBnRVNkX1BRaWdqczk3TnQzUnhSSmZDcmFWOWNqajQ4d3NpLUFVRjkwTFdnT0FkQk5nRzRvMzdHMVZKY2tuUl9JUF9sWlF2OQ?oc=5",
+      "publishedAt": "Thu, 07 May 2026 10:30:00 GMT"
+    },
+    {
+      "title": "화성특례시 \"특별법 통과, 시민 행정서비스 달라진다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tWU9uTzB3NVMtbUdCU01IQ0I4dHVnTk8xY2ZKOG80bDZubjh2U3o2OGZJTEhScWx5cW9KSjBMNmdTbVNaWlB5VHJ2TXo2TTQtLVVR?oc=5",
+      "publishedAt": "Thu, 07 May 2026 10:37:00 GMT"
+    },
+    {
+      "title": "산업장관, G7 장관 핵심광물 화상회의 참석",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mUUNWT2RtaDFyXzNPNHFyV2libVBRMjdpTm5tTmpmbXA3SWNUN2hpc3oyMUhFamNzWG9wYzVUY245LWFuczZGaXRuajFLZzZ6ZC0w?oc=5",
+      "publishedAt": "Thu, 07 May 2026 10:28:00 GMT"
+    },
+    {
+      "title": "이현재 하남시장 예비후보 선거사무소 개소",
+      "source": "디스커버리뉴스(DISCOVERYNEWS)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vNnllNVZ4cEFhSVdCV1QwWjBwclEwRnlUZmVKcnMzMHk0ektMeVdCd0ZIQVJIRk9oa0FXVzRzdU9jd3dGYUJNS28tYzNXYi1XRnlhUDlEd1V0WjkyR01jSUJESTllV3FrWVRkUWlhamVaQQ?oc=5",
+      "publishedAt": "Thu, 07 May 2026 11:10:36 GMT"
+    },
+    {
+      "title": "산업장관, G7 장관 핵심광물 화상회의 참석",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eWFfMHJ2YXdiQ0laai16alpBLTZEanpEUkZKZHpzUGNOaklFODRDRVZEOHN4ajl1eFdIa3JKQkg2RU9BLUlGUDloTTJERWJQS0pacVJjaUxfS0nSAWBBVV95cUxPMHBOS1BHdzJIMmZnckRWVmJGUFpSUHU5WHB6VG1rWFNSOTk2ekpDeVBqTjVoanEtZy1oRFY0cEtoWWlQRUVLbGEwRjRJc2RjVUxDWXQta3JudTJjMXBiSDc?oc=5",
+      "publishedAt": "Thu, 07 May 2026 10:27:54 GMT"
+    },
+    {
+      "title": "아트프라이스 뉴스: 2026 리옹 비엔날레, 국제 현대미술의 원동력을 재정의하다",
+      "source": "코리아이글뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtdTExdnhON3dBbjRuX2hQZlZEMjJMWXRHZlV4RmdHMUpBbU9kT1ZjSTlGWk0tcGxLUjdmdzN5aFpOcHNPRk5TbFVjTGkzTWxTZ3NsVXVTV2Z2M0VRVzYxelpvNjVYOXNrZWJWVkgtZ0JoZw?oc=5",
+      "publishedAt": "Thu, 07 May 2026 11:00:00 GMT"
+    },
+    {
+      "title": "최대호 \"더 나은 안양, 시민과 함께 만든다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55dFlLUHUxQVlBbjlJZnlULVVpSXFXZ1pLTFo2Rk5vUHl1bzJldXZkU0hLRElOSzZqcjhnVWtHMkY4S2hPa0kxUTE3ZWNWR0FXUF9v?oc=5",
+      "publishedAt": "Thu, 07 May 2026 10:23:00 GMT"
     }
   ],
   "sources": [
