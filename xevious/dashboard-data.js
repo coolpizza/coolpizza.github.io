@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-07T22:10:04.028748+09:00",
+  "generatedAt": "2026-05-08T00:40:40.805623+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,113 +22,113 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,910.59",
-      "change": "+612.34",
-      "changePercent": "+1.24%",
-      "direction": "up",
-      "updatedAt": "2026-05-07 05:20"
+      "value": "49,886.31",
+      "change": "-24.28",
+      "changePercent": "-0.05%",
+      "direction": "down",
+      "updatedAt": "2026-05-08 00:15"
     },
     {
       "label": "S&P 500",
-      "value": "7,365.12",
-      "change": "+105.90",
-      "changePercent": "+1.46%",
+      "value": "7,377.99",
+      "change": "+12.87",
+      "changePercent": "+0.17%",
       "direction": "up",
-      "updatedAt": "2026-05-07 05:20"
+      "updatedAt": "2026-05-08 00:20"
     },
     {
       "label": "나스닥",
-      "value": "25,838.94",
-      "change": "+512.81",
-      "changePercent": "+2.02%",
+      "value": "25,969.38",
+      "change": "+130.44",
+      "changePercent": "+0.50%",
       "direction": "up",
-      "updatedAt": "2026-05-07 05:15"
+      "updatedAt": "2026-05-08 00:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,452.00",
-      "change": "+3.00",
-      "changePercent": "+0.21%",
+      "value": "1,454.00",
+      "change": "+5.00",
+      "changePercent": "+0.35%",
       "direction": "up",
-      "updatedAt": "2026-05-07 22:00"
+      "updatedAt": "2026-05-07 22:02"
     },
     {
       "label": "100엔/원",
-      "value": "928.86",
-      "change": "+2.27",
-      "changePercent": "+0.24%",
+      "value": "929.37",
+      "change": "+2.78",
+      "changePercent": "+0.30%",
       "direction": "up",
-      "updatedAt": "2026-05-07 22:00"
+      "updatedAt": "2026-05-07 22:02"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "이슬비",
-        "temperature": "12.4°C",
-        "feelsLike": "12.3°C",
-        "highLow": "최고 18.3° / 최저 10.2°",
-        "humidity": "99%",
-        "wind": "6.2 m/s",
-        "rainChance": "98%",
-        "pm10": "25.2 μg/m³",
-        "pm25": "22.2 μg/m³",
+        "summary": "맑음",
+        "temperature": "12.0°C",
+        "feelsLike": "11.1°C",
+        "highLow": "최고 19.4° / 최저 9.6°",
+        "humidity": "90%",
+        "wind": "7.1 m/s",
+        "rainChance": "2%",
+        "pm10": "27.5 μg/m³",
+        "pm25": "24.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-07 22:00"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-08 00:30"
       },
       {
         "location": "김포",
-        "summary": "강한 이슬비",
-        "temperature": "12.5°C",
-        "feelsLike": "11.6°C",
-        "highLow": "최고 16.7° / 최저 9.6°",
-        "humidity": "97%",
-        "wind": "10.7 m/s",
-        "rainChance": "100%",
-        "pm10": "25.2 μg/m³",
-        "pm25": "22.2 μg/m³",
+        "summary": "맑음",
+        "temperature": "10.9°C",
+        "feelsLike": "9.4°C",
+        "highLow": "최고 19.3° / 최저 9.0°",
+        "humidity": "92%",
+        "wind": "10.0 m/s",
+        "rainChance": "0%",
+        "pm10": "27.5 μg/m³",
+        "pm25": "24.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-07 22:00"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-08 00:30"
       },
       {
         "location": "파주",
-        "summary": "강한 이슬비",
-        "temperature": "12.6°C",
-        "feelsLike": "11.9°C",
-        "highLow": "최고 16.4° / 최저 8.8°",
-        "humidity": "97%",
-        "wind": "10.0 m/s",
-        "rainChance": "100%",
-        "pm10": "25.2 μg/m³",
-        "pm25": "22.2 μg/m³",
+        "summary": "맑음",
+        "temperature": "10.8°C",
+        "feelsLike": "9.4°C",
+        "highLow": "최고 19.2° / 최저 8.5°",
+        "humidity": "93%",
+        "wind": "9.7 m/s",
+        "rainChance": "6%",
+        "pm10": "27.5 μg/m³",
+        "pm25": "24.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-07 22:00"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-08 00:30"
       },
       {
         "location": "익산",
-        "summary": "약한 이슬비",
-        "temperature": "13.4°C",
-        "feelsLike": "13.3°C",
-        "highLow": "최고 22.1° / 최저 8.7°",
-        "humidity": "97%",
-        "wind": "7.2 m/s",
-        "rainChance": "36%",
-        "pm10": "19.3 μg/m³",
-        "pm25": "14.8 μg/m³",
+        "summary": "약간 흐림",
+        "temperature": "12.1°C",
+        "feelsLike": "10.9°C",
+        "highLow": "최고 18.6° / 최저 8.5°",
+        "humidity": "96%",
+        "wind": "11.4 m/s",
+        "rainChance": "14%",
+        "pm10": "21.7 μg/m³",
+        "pm25": "18.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "39",
-        "updatedAt": "2026-05-07 22:00"
+        "airQualityIndex": "36",
+        "updatedAt": "2026-05-08 00:30"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 5월 7일 (목)",
+    "todayLabel": "2026년 5월 8일 (금)",
     "areas": [
       {
         "region": "서울",
@@ -276,7 +276,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "동작구",
         "stationName": "주식회사 새서울글로벌",
         "address": "서울 동작구 시흥대로 616 (신대방동)",
-        "updatedAt": "2026-05-07 00:56:20",
+        "updatedAt": "2026-05-07 17:59:51",
         "districtSamples": [
           {
             "district": "동작구",
@@ -287,16 +287,16 @@ window.DASHBOARD_DATA = {
             "price": "1,979원/L"
           },
           {
-            "district": "서초구",
-            "price": "1,979원/L"
-          },
-          {
             "district": "양천구",
             "price": "1,984원/L"
           },
           {
             "district": "은평구",
             "price": "1,984원/L"
+          },
+          {
+            "district": "관악구",
+            "price": "1,985원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "PwC컨설팅 “K배터리, 전고체로 피지컬 AI 분야 주도권 확보를”",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qQ2xXNUs1VkxoMDk1enU2OUVjYlFrVHNDN3FBeVJHNUpYYnUwZFhfeGFqeG9lNGZ3SHNIcHoxbTE4Tms4YmZBMEkwZ0Vqdjl3YkpmdVRTWDZncWtkNzZ4MA?oc=5",
-      "publishedAt": "Thu, 07 May 2026 12:43:10 GMT"
-    },
-    {
-      "title": "건보료 꼼수 회피 이제 안 통해.. 부정한 방법은 6년치까지 추징",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKYl9rMFBUa3B2amJkdmdLVDJiVktkdjhZTTV0dUFPMS1YaDhlQ091ejlxRlZYV25uS19OOUZnX0FmUnRLNFlhUzZrbVEtUFVpcXdUS2tVZ0FJMHhpYWkxVkVRVllNQzZUMC0w?oc=5",
-      "publishedAt": "Thu, 07 May 2026 13:00:04 GMT"
-    },
-    {
-      "title": "[포토] 김원형 감독 '곰 뚝심으로 이겼다'",
+      "title": "[주요경제지표] 2026년 5월 7일자",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxdm1ra0tGVHp0ZUFCNGdaY3lJUWNlUjU0M0ItZ2g3MTlIUWVaQllBNW9qZG5KaFdDbmwtVl9nc1VjS0kzbkZXWUNycGJDbkxjUDE3eVFIVERrc0VkenZCWFFmOVRHc2xJQTVwMUlEZ2VtdG90Z1JvQw?oc=5",
-      "publishedAt": "Thu, 07 May 2026 12:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpMWMzYlVBM1ZBMVRPc1RUcTdkZUp5cG9SUEdyR1JhWXNlbjNuOHVKcVZzOXBMdGM3OHNTb05nVnVnMFhpWjNEM1NGR2xFTVdSVTJkNnZaN1o5Rm5nTmVYVg?oc=5",
+      "publishedAt": "Thu, 07 May 2026 15:35:00 GMT"
     },
     {
-      "title": "저출산고령사회위→인구전략위 개편.. 예산사전협의 등 권한 강화",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tTzkwVGsyMlBPbzZkd3RDOXlBQ3lyUW5ETkFjQWhMOFl0YnBvZlJmUWtJQmpIWlpRcDRfUm9kV29nYVpZbGk0Sm0tR2lxWWVtMGxpbkR3OWVCeVd2TWs0Zkd6czhyemF1LUJB?oc=5",
-      "publishedAt": "Thu, 07 May 2026 12:30:56 GMT"
+      "title": "벨라루스, 올림픽 나올 수 있다… 러시아는 여전히 'NO'",
+      "source": "대경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02TGVjcTFaRHFYUE54cFk4Q3RpWnFndWl3ckgzN1RNOXFDWFNmdV82X1BieURBSkRrSkR5bmctaUR2dUVzcFNSYlY5TFNzQ1hYOHFkRkNkdU45cWlTZ2ZOZDlqU1RubzJy?oc=5",
+      "publishedAt": "Thu, 07 May 2026 15:26:28 GMT"
     },
     {
-      "title": "\"삼성전자 눈부신 성과엔 정부·협력사 협조 있어\"",
+      "title": "경북도 어버이날 기념식…효행자 등 14명 표창",
+      "source": "경북TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DZGJRaHYtNXJyVTVfU1N1MnpTOXRzOVA4bGlucHBCTkdvWDlhUVpwZFhEM25uOTRma3lYUTVvU2wtbDNaYXJjb3BFajZ4LUZ3ZzJsNnBSOHczZU5tRUR2MlBZTmc?oc=5",
+      "publishedAt": "Thu, 07 May 2026 14:53:10 GMT"
+    },
+    {
+      "title": "2026년 5월 7일 세계 경제 뉴스 주요 내용",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NejgwTVFLdGpDSnN2LTlYWGNsOTVYMXNES1FOcnJuRUJIY1pING45YWp4bGFtNl81aXdVdEt1RXloV203Rkw0cy01R3BoLWZzQWJRV1RWOUtrLVRlTGtJOVBPVzdzXzZXZ2tQa0ZON1Mzck9CWnJLSUJEMG1Gdw?oc=5",
+      "publishedAt": "Thu, 07 May 2026 14:41:19 GMT"
+    },
+    {
+      "title": "관악구, ‘1등급 학생부 만들기’ 특강…11일부터 선착순 모집",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2XzZCc21wQXRTZGQ5YjQ2Z2dTb2J3Unpka2tBVHRPb2RqZWt4RUFsTHdTTkxHRDZ5SWRiR0xtQldld1NoWmptMmhBdmd2WlVMQjd5Ul9MZEVEVTVmNlFnT0xtR0RGd9IBU0FVX3lxTE9NT21zbjg5Nlc1VUxpM1c3WGpNbkY2MmhRUDJhT0pWM0RrZUp6Q1pMV3RGcVZFT1lTNG9tWWY5anlENjBTSFNJSnV5TlFidTBhZXZF?oc=5",
+      "publishedAt": "Thu, 07 May 2026 14:44:36 GMT"
+    },
+    {
+      "title": "비트코인, 8만5000달러 돌파 시험대…핵심 지표 나왔다",
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuc05Ba2lhQ3ZxdElDRWw5ajB6RDV2M2d5ek9lM2thYUZLekJ2SXFLZWNrbGxVZjduTE51ZXJ4VjU5STNWYXNBdGJhcWpZdzJNb0E5TGptT09SbHVhckRveHBCYkJSejhXOWxyV0E5cTM4V1U?oc=5",
+      "publishedAt": "Thu, 07 May 2026 14:52:00 GMT"
+    },
+    {
+      "title": "\"유사시 대비…공공 데이터 국경 밖 분산 필요\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NWEl3OF8zUjFUME9iUVY2OS1pc0tLTGxGZTJfdEZYX0luakhEMkN5eWtCcno2THpTVVFXeE4wT0xyR3ZpNTd4VXpwUndlMWZwY1FYZ3J3ZncwT3dGM1k5RUxkeDMzdkxpb0IwdTltQmgtTEFCb2kxNA?oc=5",
-      "publishedAt": "Thu, 07 May 2026 12:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HNnZJOXRNd3M4ZzBXcHpmdHU0a1FxTkdtczY2dmZBcUs0Q2pvOUxnclB5NkZzbjd0bUhtb0VQNTJCMWdSck5EbGZBVWJXXzZpY1NJU0daN2p3eGZ2dHJCWQ?oc=5",
+      "publishedAt": "Thu, 07 May 2026 15:35:00 GMT"
     },
     {
-      "title": "[속보]종합특검, 김관영 전북지사 '내란방조 혐의' 불기소 처분",
+      "title": "스토케, 트립트랩 신규컬러 '캐시미어 그레이' 출시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1cHNTaGFNSENpYXh5N2M0NGEtSG04RlRFWUxPS3BYYXFRb2VDSDd3ZkVyWTFhSXRBcTBYcHFZUEhWUm5pc2s1OUxmQVNxdjU0WWdhZzdSSTJ0dXF0OUJKYVJmdy1iWUUxTXlITTN0SE9vNkp3c1I3Mw?oc=5",
-      "publishedAt": "Thu, 07 May 2026 13:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhelctRXBzYW54eFRkUmN1VWhITzVWeGNYRDhOcVJuZVRnQ3p5dGk2dmZ4eGhGODROeDlMRWkxNjNBWFRhaUZmMVBQSk10aDdPYW1yZWhuZm1IeWMwVUNuTXRrYjEyci1aRnZDeFpaTHJGVkhIS3Rrag?oc=5",
+      "publishedAt": "Thu, 07 May 2026 15:31:00 GMT"
     },
     {
-      "title": "전북연구원 \"전주, 인도·카타르 제쳤다…올림픽 유치 최상위권\"",
+      "title": "임원 평균 9억, 직원 1.8억…하이닉스가 '연봉킹'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6UzVHWmtkX0x0LXZEZlBhc2JlZm5vUGEteVZfaEo5RXJPTDNaTm4tNWxwLTk4X1lUeElCejFVeFo5bG9WaUpuQXliNU4tUWpwSkxB?oc=5",
-      "publishedAt": "Thu, 07 May 2026 12:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TGVhUkxPSTRRTXNnTHJ4TXdwMGswc09pVXRlekI0eXJTRjlCV0YyZFlGbVViTEt4YTdMMmNIdTI3bzIxTTBlS0ExdDRKQUM0Q3JZ?oc=5",
+      "publishedAt": "Thu, 07 May 2026 15:34:00 GMT"
     },
     {
-      "title": "'대북무인기 처벌법' 국회통과…\"모든 초경량비행장치 적용\"",
+      "title": "[조윤제 칼럼] 불안정한 세계, 한국은 전략적 선택 해 나가야",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wd2FrSUlHUER2OHNwampKVXRyWDA1dmRHLVVhZnRobDdVTndZSVplRnVlNjNfZG5OVE9UZU5WanM0bkppUTdzam1FNDdKM2hwWEY4?oc=5",
-      "publishedAt": "Thu, 07 May 2026 12:32:00 GMT"
-    },
-    {
-      "title": "주호영, 대구시장 총괄선대위원장 맡는다…내일 기자회견 예고",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rUGFCYVZoaXlKeUtqOHNkcXBBQUVkMkIzSUN3eFBob3JiMXpSTVVEYXQ1b2l5NGtqcDBFX3lrMURGWFFXdTl4OURzUUxnd282aDF5UVltUzF3RlJlVlU3R2R0bW5fdU02TEE?oc=5",
-      "publishedAt": "Thu, 07 May 2026 12:29:00 GMT"
-    },
-    {
-      "title": "누빈운용, 위브리빙과 손잡고 서울 첫 리빙 섹터 투자 나선다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FdUtETEZUQTNHUzA0NTVKZlIyWDNINEVHVUttYjQ3cHd0SFBFYXpESk5fV3g5czFRaDRBTDVoQ2pyalhMajRnclFtWm9UQjBKSV94X3EyWUE2YkR1eG9aQg?oc=5",
-      "publishedAt": "Thu, 07 May 2026 12:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ta1ltRDh1REFVcFJ5aEVuel94OUtSRVg1MllSU0tCUGdSdEMzZjdyQml1OWNDQjRnT1gxR1NBeTVEZ29TRzItdWxjOE5fck5FTzRF?oc=5",
+      "publishedAt": "Thu, 07 May 2026 15:15:00 GMT"
     }
   ],
   "sources": [
