@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T04:02:55.317506+09:00",
+  "generatedAt": "2026-05-08T05:22:55.458513+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,531.95",
-      "change": "-378.64",
-      "changePercent": "-0.76%",
+      "value": "49,596.97",
+      "change": "-313.62",
+      "changePercent": "-0.63%",
       "direction": "down",
-      "updatedAt": "2026-05-08 03:46"
+      "updatedAt": "2026-05-08 05:02"
     },
     {
       "label": "S&P 500",
-      "value": "7,323.39",
-      "change": "-41.73",
-      "changePercent": "-0.57%",
+      "value": "7,337.11",
+      "change": "-28.01",
+      "changePercent": "-0.38%",
       "direction": "down",
-      "updatedAt": "2026-05-08 03:51"
+      "updatedAt": "2026-05-08 05:07"
     },
     {
       "label": "나스닥",
-      "value": "25,762.62",
-      "change": "-76.32",
-      "changePercent": "-0.30%",
+      "value": "25,806.20",
+      "change": "-32.74",
+      "changePercent": "-0.13%",
       "direction": "down",
-      "updatedAt": "2026-05-08 03:46"
+      "updatedAt": "2026-05-08 05:02"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,456.10",
-      "change": "+7.10",
-      "changePercent": "+0.49%",
+      "value": "1,458.80",
+      "change": "+9.80",
+      "changePercent": "+0.68%",
       "direction": "up",
-      "updatedAt": "2026-05-07 22:07"
+      "updatedAt": "2026-05-07 22:08"
     },
     {
       "label": "100엔/원",
-      "value": "928.46",
-      "change": "+1.87",
-      "changePercent": "+0.20%",
+      "value": "930.03",
+      "change": "+3.44",
+      "changePercent": "+0.37%",
       "direction": "up",
-      "updatedAt": "2026-05-07 22:07"
+      "updatedAt": "2026-05-07 22:08"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "10.2°C",
-        "feelsLike": "8.7°C",
+        "temperature": "9.8°C",
+        "feelsLike": "8.0°C",
         "highLow": "최고 19.4° / 최저 9.7°",
-        "humidity": "86%",
-        "wind": "6.5 m/s",
+        "humidity": "84%",
+        "wind": "7.6 m/s",
         "rainChance": "2%",
-        "pm10": "21.9 μg/m³",
-        "pm25": "19.4 μg/m³",
+        "pm10": "18.8 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-05-08 04:00"
+        "airQualityIndex": "43",
+        "updatedAt": "2026-05-08 05:15"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "9.7°C",
-        "feelsLike": "7.4°C",
+        "temperature": "9.5°C",
+        "feelsLike": "6.8°C",
         "highLow": "최고 19.1° / 최저 9.4°",
-        "humidity": "88%",
-        "wind": "12.1 m/s",
+        "humidity": "79%",
+        "wind": "11.9 m/s",
         "rainChance": "0%",
-        "pm10": "21.9 μg/m³",
-        "pm25": "19.4 μg/m³",
+        "pm10": "18.8 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-05-08 04:00"
+        "airQualityIndex": "43",
+        "updatedAt": "2026-05-08 05:15"
       },
       {
         "location": "파주",
         "summary": "대체로 맑음",
-        "temperature": "9.2°C",
-        "feelsLike": "7.1°C",
+        "temperature": "9.0°C",
+        "feelsLike": "6.3°C",
         "highLow": "최고 19.2° / 최저 8.8°",
-        "humidity": "90%",
-        "wind": "10.6 m/s",
+        "humidity": "82%",
+        "wind": "11.7 m/s",
         "rainChance": "6%",
-        "pm10": "21.9 μg/m³",
-        "pm25": "19.4 μg/m³",
+        "pm10": "18.8 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-05-08 04:00"
+        "airQualityIndex": "43",
+        "updatedAt": "2026-05-08 05:15"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "9.2°C",
-        "feelsLike": "8.2°C",
+        "temperature": "8.8°C",
+        "feelsLike": "7.9°C",
         "highLow": "최고 18.7° / 최저 8.4°",
-        "humidity": "97%",
-        "wind": "4.3 m/s",
+        "humidity": "96%",
+        "wind": "3.3 m/s",
         "rainChance": "14%",
-        "pm10": "23.2 μg/m³",
-        "pm25": "19.8 μg/m³",
+        "pm10": "21.2 μg/m³",
+        "pm25": "18.2 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-05-08 04:00"
+        "updatedAt": "2026-05-08 05:15"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "후방 카메라 ‘깜깜이’ 테슬라, 22만 대 리콜… “HW3 설계 결함 의심”",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paVN1dE8zVjJJVzhpWmJDUXR2YTBFeU5rdUFNYmgyeW90WEZUZm9mdzIwdGctV2hiY09MVGk1NHIxZE5oc2pwaVJ3WERqams?oc=5",
-      "publishedAt": "Thu, 07 May 2026 18:26:17 GMT"
+      "title": "[오늘의 주요일정] 정치·정부 (8일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VeFJ0NWQ0dElyQ0tXSmZQUmZrZWFVazNmZS12T0xkdS1RSWNiUEk5Rl9TZC1ySHNURzJKcUE5NkgtMkgyWUVEdWJpQXc5NnNTN3lFemdxdlBsRVE?oc=5",
+      "publishedAt": "Thu, 07 May 2026 20:00:00 GMT"
     },
     {
-      "title": "'이숙캠' 남편, 상담 후 억울함 폭발 \"내가 그런 사람인가…과장됐다\"",
+      "title": "[오늘의 주요일정] 부산·경남(8일, 금)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtUHlyVS0xOUpqaEZteEtPV1BEUEl1d3J1aWdrbWNESGRZWHk4clZITHllZ0NRT2FNaVBZdDdnNjJLdFpKSzlRbHZZV2ZFZWN4YlBr?oc=5",
-      "publishedAt": "Thu, 07 May 2026 18:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QZlhrVHZFZDAzbG1DU1gxNTdpbTcyQ25lYmpRUTlSV1JUanJweGdOT1FYTHBwMk9QUS02M1JaT29xN252dThSeWZGcEYxWWhEeVVV?oc=5",
+      "publishedAt": "Thu, 07 May 2026 20:01:00 GMT"
     },
     {
-      "title": "국민통합위, 황석영·김홍신 등 원로 8명 고문 위촉",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wVjhZUVVCYndhdi04ZUVwamx6LWtiVEp5aEpFQ040cGxrVTF6SGI2QmMwUWJoRWR4bmNwNDRvSVdhNG9FZ1g1c2lSMUlfc2RSaU9UNDFJS0JJVHFEV0dWZ3BteDRmWmlR?oc=5",
-      "publishedAt": "Thu, 07 May 2026 18:05:00 GMT"
+      "title": "[오늘의 주요일정] 전북(8일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RdkxubEdvN0NjUkRnR2h6T0EydXZYQlVxQ2lEWUVzVVFZWFlEYnNwTVN5V3JUdWRfekFiTkdCX3MwVXhTTmpwNlIxMk1YYjlkYjdxUg?oc=5",
+      "publishedAt": "Thu, 07 May 2026 20:00:00 GMT"
     },
     {
-      "title": "美 상원, 클래리티법 표결 절차 돌입 전망",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2d28xdzhMTTYtRWlMTzNYS296Zl9tbEZBOWlQX29DZ3hGbkFKaENxT0pDMVZQSEtkUkpYOFRDZUNWd3MyYVlwTXBzNDNEVTFH?oc=5",
-      "publishedAt": "Thu, 07 May 2026 18:10:34 GMT"
-    },
-    {
-      "title": "“베이징에서 보자”… 트럼프, 엔비디아·애플 CEO 등 ‘테크 거물’ 이끌고 방중",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lcHpMZ19KNUt2TVVMNzZoMUFoWG0zbm1DZkV0UjNHMHBFeHJDQjhpZURlRnBicmx2WnBfaDA3ZkZNWHdiSkVXUF9Qb2JBaEk?oc=5",
-      "publishedAt": "Thu, 07 May 2026 18:22:17 GMT"
-    },
-    {
-      "title": "일만 하던 아내의 회사 휴가…남편 \"구역 나눠서 집 청소해\" 요구",
+      "title": "[오늘의 주요일정] 충북·세종(8일, 금)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44TXNTN0JJNWlsSmlVcjk5cV9Gd01UU3YwZTRQWEpNeEFtdDREWnB0b2ZqTTBYbUhBWHB0eDhzQkVSTlBxYmNSRlVYYTRhVTl2TC1TXzdCOTVPcTFNN0lncQ?oc=5",
-      "publishedAt": "Thu, 07 May 2026 18:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IdjZvTUtUSlV6VUcxR0NodWU4M1oyNm5zWTNBczNQQWRyVV9JdUs5eHlWV0hoZDVJdHk3NmwzQ3Btdk5nQ3ZBb3R3dE1lcGpKeGlj?oc=5",
+      "publishedAt": "Thu, 07 May 2026 20:02:00 GMT"
     },
     {
-      "title": "은둔 청년 50만명 돌파...취업난·관계 단절 속 고립 심화 : 뉴스 : 미주 종교신문1위",
-      "source": "기독일보",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxObXJPMXpUWGR1MUUwSFVYalZ3dG83VTNGQzJhb2NvdWdlc0wtNnplbW04YkpTemN1Z0NIWTlTak02dDNRcW1jUi1ONFJoMk5vRnFLTnpwWW5IUVNPUThqbzcyR091WWJxdWV1dkdCVGJFMVROMXNGblpvTmFLWEtQRENnMkZaUUNwcFFUMjV1Yk1QbkY4M2FKc294bHI4czJCTDU2aUNCajgzQ3hfaHhwRmFWRWdjRnRtR0dXdldaNGpDZ1pEc0RXX0pSbW5feDBxb0JuT2FrZ0ZiN0VnN2ZhaFlIbnFwRXpzdlRyRkdmQWp5VTdhRG1pSHppS0JrTkpTQWhfS0p1aXVtUVRzZmh6VjNadEZ3TzE1R0doZWtWSG5kSEVfcEVnWU8zUV9CV25RQk9MaklqanpQTXNjbjROT1llbllPb19tekJpMWl2RkJRRXRaYUVvY2RwQ3YzdzBCZjAxU25nQkRteGdMbFpuMVc1Qk8?oc=5",
-      "publishedAt": "Thu, 07 May 2026 18:16:57 GMT"
+      "title": "[오늘의 주요 일정] 울산(8일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYlZZN2JWQkZSOVdfQUphdkM0TGw2YkV4RndaUUVFYmlpTVJ4STdianBZaWFIaDFpdUpDOXVIbGNMODhkTG54MFhfYzBFOWVkREE?oc=5",
+      "publishedAt": "Thu, 07 May 2026 20:00:00 GMT"
     },
     {
-      "title": "드퀘+사힐+피파+앵그리 버드까지 '게임 명예의 전당' 헌액",
-      "source": "인벤",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15aXlHVVpkZmh1NUgyTjlrcm5CM0dWU3JDWGc0Q3lHOEdaamNkVU1mbl9Sa3JDWmNQM2pmQk5sYTJ0WXBWNVg0WGhPZ1ZFTHM1R0VpcDgwR25Ha3hLbmc?oc=5",
-      "publishedAt": "Thu, 07 May 2026 17:46:05 GMT"
+      "title": "[오늘의 주요일정] 경기(8일, 금)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2MlA1T2FjTWxvQ2JLYnRGVHFHajZ5M21FeExKREF0cXFVamdESE9rV0NYZ0pjUDd4ZzNsUnRob040c1FrU3JPRkJqc2V3SDItMXpF?oc=5",
+      "publishedAt": "Thu, 07 May 2026 20:01:00 GMT"
     },
     {
-      "title": "삼성 Exynos 2800 유출, 패스 트레이싱 지원 Xclipse 980 GPU 전망",
-      "source": "위클리포스트",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ja1RMaDBEdTBDX1BUMVVsVWMxbkY0WlhoeXFEWS1KOEs1MmZteXJVQVZ0WTBRWWk5TWJXTFl4cXhOMk5nNU1oOTh0V0w0TFBEVk9xTmp1aDdSYWd6Y0tJSUt3RHdzOW9LTnNR?oc=5",
-      "publishedAt": "Thu, 07 May 2026 17:30:31 GMT"
+      "title": "[오늘의 주요일정] 제주(8일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nVlphU2thWDIzc01odmI3eV9GbXN6N1lFeVdjeUhESHhtaGx3Z1A0N1UyWnV0dFBoYWN0ckJ3M3VuODZRM1UxNVd3bHJhWUx3?oc=5",
+      "publishedAt": "Thu, 07 May 2026 20:00:00 GMT"
     },
     {
-      "title": "뇌 속 '청소부' 아교세포 활성화로 알츠하이머 플라크 제거·기억력 보호 가능성 확인",
-      "source": "유스연합",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ITlBxOS04WkNQS2xtUlROUXBwYXI1RFlCWnplbGpMOWtfRmRMTHVPbEU4WWJlTFpsak1ya29LTHBPZGZnN1YxblphWmNoWXZ0cGc?oc=5",
-      "publishedAt": "Thu, 07 May 2026 16:58:48 GMT"
+      "title": "[오늘의 주요일정] 전북(8일, 금)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14N2VHaW5pS19UQ0hyTEFiM3VFZTdWaEZVZk05c3c2YzdwR1U2MHNweE5YNXBTSGN5Z0czMTljUFdtaWRUd1pVWTkzLTVRVjE5eEww?oc=5",
+      "publishedAt": "Thu, 07 May 2026 20:01:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 부산·경남(8일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PZ3FZNG12OFZmUnltNXRYU0xqa0hiZDVqcG9QWmJocmlOckluQUVyZllWY3dMeXAtMWhWeVV4UFFFTWxvejR2dkZHT3JJNDd3OEVKTXZESzJuWGZzZ19F?oc=5",
+      "publishedAt": "Thu, 07 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요 일정] 울산(8일, 금)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naHZGX0FUa3g0YzRIQ3FJbWNCWjJEY2pxSG0zTXA4UzlpcDNVTVNQODFzSnBsWGtXM21oeDVpN2pKbGdiYVVINWc4Sjk0bWtqRk1n?oc=5",
+      "publishedAt": "Thu, 07 May 2026 20:01:00 GMT"
     }
   ],
   "sources": [
