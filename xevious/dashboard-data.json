@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T02:19:51.245970+09:00",
+  "generatedAt": "2026-05-08T04:02:55.317506+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,108 +22,108 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,607.87",
-      "change": "-302.72",
-      "changePercent": "-0.61%",
+      "value": "49,531.95",
+      "change": "-378.64",
+      "changePercent": "-0.76%",
       "direction": "down",
-      "updatedAt": "2026-05-08 02:02"
+      "updatedAt": "2026-05-08 03:46"
     },
     {
       "label": "S&P 500",
-      "value": "7,346.50",
-      "change": "-18.62",
-      "changePercent": "-0.25%",
+      "value": "7,323.39",
+      "change": "-41.73",
+      "changePercent": "-0.57%",
       "direction": "down",
-      "updatedAt": "2026-05-08 02:07"
+      "updatedAt": "2026-05-08 03:51"
     },
     {
       "label": "나스닥",
-      "value": "25,811.42",
-      "change": "-27.52",
-      "changePercent": "-0.11%",
+      "value": "25,762.62",
+      "change": "-76.32",
+      "changePercent": "-0.30%",
       "direction": "down",
-      "updatedAt": "2026-05-08 02:02"
+      "updatedAt": "2026-05-08 03:46"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,455.60",
-      "change": "+6.60",
-      "changePercent": "+0.46%",
+      "value": "1,456.10",
+      "change": "+7.10",
+      "changePercent": "+0.49%",
       "direction": "up",
-      "updatedAt": "2026-05-07 22:03"
+      "updatedAt": "2026-05-07 22:07"
     },
     {
       "label": "100엔/원",
-      "value": "928.89",
-      "change": "+2.30",
-      "changePercent": "+0.25%",
+      "value": "928.46",
+      "change": "+1.87",
+      "changePercent": "+0.20%",
       "direction": "up",
-      "updatedAt": "2026-05-07 22:03"
+      "updatedAt": "2026-05-07 22:07"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "맑음",
-        "temperature": "11.0°C",
-        "feelsLike": "9.7°C",
-        "highLow": "최고 19.3° / 최저 9.7°",
-        "humidity": "87%",
-        "wind": "6.8 m/s",
+        "summary": "대체로 맑음",
+        "temperature": "10.2°C",
+        "feelsLike": "8.7°C",
+        "highLow": "최고 19.4° / 최저 9.7°",
+        "humidity": "86%",
+        "wind": "6.5 m/s",
         "rainChance": "2%",
-        "pm10": "26.8 μg/m³",
-        "pm25": "23.5 μg/m³",
+        "pm10": "21.9 μg/m³",
+        "pm25": "19.4 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "44",
-        "updatedAt": "2026-05-08 02:15"
+        "updatedAt": "2026-05-08 04:00"
       },
       {
         "location": "김포",
-        "summary": "맑음",
-        "temperature": "10.2°C",
-        "feelsLike": "8.2°C",
-        "highLow": "최고 19.3° / 최저 9.5°",
+        "summary": "대체로 맑음",
+        "temperature": "9.7°C",
+        "feelsLike": "7.4°C",
+        "highLow": "최고 19.1° / 최저 9.4°",
         "humidity": "88%",
-        "wind": "10.6 m/s",
+        "wind": "12.1 m/s",
         "rainChance": "0%",
-        "pm10": "26.8 μg/m³",
-        "pm25": "23.5 μg/m³",
+        "pm10": "21.9 μg/m³",
+        "pm25": "19.4 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "44",
-        "updatedAt": "2026-05-08 02:15"
+        "updatedAt": "2026-05-08 04:00"
       },
       {
         "location": "파주",
-        "summary": "맑음",
-        "temperature": "10.0°C",
-        "feelsLike": "8.0°C",
-        "highLow": "최고 19.2° / 최저 8.9°",
-        "humidity": "89%",
-        "wind": "10.5 m/s",
+        "summary": "대체로 맑음",
+        "temperature": "9.2°C",
+        "feelsLike": "7.1°C",
+        "highLow": "최고 19.2° / 최저 8.8°",
+        "humidity": "90%",
+        "wind": "10.6 m/s",
         "rainChance": "6%",
-        "pm10": "26.8 μg/m³",
-        "pm25": "23.5 μg/m³",
+        "pm10": "21.9 μg/m³",
+        "pm25": "19.4 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "44",
-        "updatedAt": "2026-05-08 02:15"
+        "updatedAt": "2026-05-08 04:00"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "10.2°C",
-        "feelsLike": "9.4°C",
-        "highLow": "최고 18.4° / 최저 8.1°",
-        "humidity": "96%",
-        "wind": "5.2 m/s",
+        "temperature": "9.2°C",
+        "feelsLike": "8.2°C",
+        "highLow": "최고 18.7° / 최저 8.4°",
+        "humidity": "97%",
+        "wind": "4.3 m/s",
         "rainChance": "14%",
-        "pm10": "24.2 μg/m³",
-        "pm25": "20.6 μg/m³",
+        "pm10": "23.2 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-05-08 02:15"
+        "updatedAt": "2026-05-08 04:00"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "'철권 통치' 엘살바도르에서 언론인 망명 50여 명으로 30여 년 만에 최대…언론 공격은 4백여 건",
+      "title": "후방 카메라 ‘깜깜이’ 테슬라, 22만 대 리콜… “HW3 설계 결함 의심”",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paVN1dE8zVjJJVzhpWmJDUXR2YTBFeU5rdUFNYmgyeW90WEZUZm9mdzIwdGctV2hiY09MVGk1NHIxZE5oc2pwaVJ3WERqams?oc=5",
+      "publishedAt": "Thu, 07 May 2026 18:26:17 GMT"
+    },
+    {
+      "title": "'이숙캠' 남편, 상담 후 억울함 폭발 \"내가 그런 사람인가…과장됐다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Hd2toWVZFTnJFS2o1TDdVWVMzRUIxelhjdWhXM3BqNVc4aXh4V21wN1AtRzczdEFmbV8yN2xQX3pLRzBPdm0xMzMtNjJJeVpyV09ZZnFZMFBSWTd3YVpVdA?oc=5",
-      "publishedAt": "Thu, 07 May 2026 17:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtUHlyVS0xOUpqaEZteEtPV1BEUEl1d3J1aWdrbWNESGRZWHk4clZITHllZ0NRT2FNaVBZdDdnNjJLdFpKSzlRbHZZV2ZFZWN4YlBr?oc=5",
+      "publishedAt": "Thu, 07 May 2026 18:52:00 GMT"
     },
     {
-      "title": "[美특징주]쉐이크쉑, 예상밖 영업손실에 28% 급락",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGtMQmpWRTZLTFI1SjBDZnZ1cmJfSXA0eXVuY3o0dkUyTEhhYkF0NTFPOWlycjJlMzFNU2N5dmVfV2RpU01qSEtOZENBNTVNSmVkTWwzcmlCa0VobVcycXZaSnkxS05QMmNJSHRXRWo0dU40eWd0RUtFMTY4OUFyag?oc=5",
-      "publishedAt": "Thu, 07 May 2026 17:14:25 GMT"
+      "title": "국민통합위, 황석영·김홍신 등 원로 8명 고문 위촉",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wVjhZUVVCYndhdi04ZUVwamx6LWtiVEp5aEpFQ040cGxrVTF6SGI2QmMwUWJoRWR4bmNwNDRvSVdhNG9FZ1g1c2lSMUlfc2RSaU9UNDFJS0JJVHFEV0dWZ3BteDRmWmlR?oc=5",
+      "publishedAt": "Thu, 07 May 2026 18:05:00 GMT"
     },
     {
-      "title": "[사설]'대출 사다리' 복원 위한 구조전환 절실",
+      "title": "美 상원, 클래리티법 표결 절차 돌입 전망",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2d28xdzhMTTYtRWlMTzNYS296Zl9tbEZBOWlQX29DZ3hGbkFKaENxT0pDMVZQSEtkUkpYOFRDZUNWd3MyYVlwTXBzNDNEVTFH?oc=5",
+      "publishedAt": "Thu, 07 May 2026 18:10:34 GMT"
+    },
+    {
+      "title": "“베이징에서 보자”… 트럼프, 엔비디아·애플 CEO 등 ‘테크 거물’ 이끌고 방중",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lcHpMZ19KNUt2TVVMNzZoMUFoWG0zbm1DZkV0UjNHMHBFeHJDQjhpZURlRnBicmx2WnBfaDA3ZkZNWHdiSkVXUF9Qb2JBaEk?oc=5",
+      "publishedAt": "Thu, 07 May 2026 18:22:17 GMT"
+    },
+    {
+      "title": "일만 하던 아내의 회사 휴가…남편 \"구역 나눠서 집 청소해\" 요구",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QOGxOLXRYVzVkRmNPMExxVEpVVXFINVdEcU94SU9tUE05SFJ3Wm1zTzJGSC1pS2E3MFo0cGhBN21MaFFEQkdJWUoySVp3RDA1RzNF?oc=5",
-      "publishedAt": "Thu, 07 May 2026 17:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44TXNTN0JJNWlsSmlVcjk5cV9Gd01UU3YwZTRQWEpNeEFtdDREWnB0b2ZqTTBYbUhBWHB0eDhzQkVSTlBxYmNSRlVYYTRhVTl2TC1TXzdCOTVPcTFNN0lncQ?oc=5",
+      "publishedAt": "Thu, 07 May 2026 18:15:00 GMT"
     },
     {
-      "title": "[美특징주]액손엔터프라이즈, 해외 매출 폭증에 실적 호조 겹치며 주가 8%↑",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXR3RTNaNWdWVHhUcG5KN015Yy1ZUVk1MEJ2TWk2dkFvODBlZnJTNFRNaW9OV04xWEtob0txcmpGMDV4WXRiV05TN0oya296SUR1RkNhUk43SjhDNjREV0t0Q3o1Q1h4MENiRWNveEN4eGtkZWxzLVplQ2lNSTEtYg?oc=5",
-      "publishedAt": "Thu, 07 May 2026 17:15:31 GMT"
+      "title": "은둔 청년 50만명 돌파...취업난·관계 단절 속 고립 심화 : 뉴스 : 미주 종교신문1위",
+      "source": "기독일보",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxObXJPMXpUWGR1MUUwSFVYalZ3dG83VTNGQzJhb2NvdWdlc0wtNnplbW04YkpTemN1Z0NIWTlTak02dDNRcW1jUi1ONFJoMk5vRnFLTnpwWW5IUVNPUThqbzcyR091WWJxdWV1dkdCVGJFMVROMXNGblpvTmFLWEtQRENnMkZaUUNwcFFUMjV1Yk1QbkY4M2FKc294bHI4czJCTDU2aUNCajgzQ3hfaHhwRmFWRWdjRnRtR0dXdldaNGpDZ1pEc0RXX0pSbW5feDBxb0JuT2FrZ0ZiN0VnN2ZhaFlIbnFwRXpzdlRyRkdmQWp5VTdhRG1pSHppS0JrTkpTQWhfS0p1aXVtUVRzZmh6VjNadEZ3TzE1R0doZWtWSG5kSEVfcEVnWU8zUV9CV25RQk9MaklqanpQTXNjbjROT1llbllPb19tekJpMWl2RkJRRXRaYUVvY2RwQ3YzdzBCZjAxU25nQkRteGdMbFpuMVc1Qk8?oc=5",
+      "publishedAt": "Thu, 07 May 2026 18:16:57 GMT"
     },
     {
-      "title": "써브웨이, 자사앱 누적 가입자 240만 돌파",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QRWhLNXpiRkEydE4zemN6ZVJtSE1pc0NESVU3QlEwdjJUbWR1SE1wQTF2Ql9RN2ROazBXTmFYQ2ItUTJicHNCYUJtenNIYllRcVd3?oc=5",
-      "publishedAt": "Thu, 07 May 2026 16:35:00 GMT"
+      "title": "드퀘+사힐+피파+앵그리 버드까지 '게임 명예의 전당' 헌액",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15aXlHVVpkZmh1NUgyTjlrcm5CM0dWU3JDWGc0Q3lHOEdaamNkVU1mbl9Sa3JDWmNQM2pmQk5sYTJ0WXBWNVg0WGhPZ1ZFTHM1R0VpcDgwR25Ha3hLbmc?oc=5",
+      "publishedAt": "Thu, 07 May 2026 17:46:05 GMT"
     },
     {
-      "title": "[美특징주]드래프트킹즈, 1Q 실적 기대감에 주가 4%대 '강세'",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3lBZHp6bHN2R2FUUGktckhINDBUaTdoUnVOSV9za0JoRFpWTE9VbDEyVFFBNFJFU3FOSzJKZDJQcTZ5Rm5SbGFHSkxNYWtrTjJfRU83by04NWtzcjJEVFZwTXZENFBDTFNGTWx0SHFaMjhMemh5TEpyLUZteVFyZg?oc=5",
-      "publishedAt": "Thu, 07 May 2026 17:13:18 GMT"
+      "title": "삼성 Exynos 2800 유출, 패스 트레이싱 지원 Xclipse 980 GPU 전망",
+      "source": "위클리포스트",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ja1RMaDBEdTBDX1BUMVVsVWMxbkY0WlhoeXFEWS1KOEs1MmZteXJVQVZ0WTBRWWk5TWJXTFl4cXhOMk5nNU1oOTh0V0w0TFBEVk9xTmp1aDdSYWd6Y0tJSUt3RHdzOW9LTnNR?oc=5",
+      "publishedAt": "Thu, 07 May 2026 17:30:31 GMT"
     },
     {
-      "title": "디아지오코리아, 한국 단독 디자인 적용 '기네스 오리지널 엑스트라 스타우트' 재출시",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHRTVtR0FzTUFwT1RuaXFNMEU2akUwLXlFV204Zi1BRGNYQkxta1FfZHZpRTlTRk9zSnJ5a09TNmkxdlQ0N1YxOVBKMG1fYnZGTW9B?oc=5",
-      "publishedAt": "Thu, 07 May 2026 16:26:00 GMT"
-    },
-    {
-      "title": "[美특징주]웰스파고, 자산관리 부문 대규모 인력 영입에도 주가 약세",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmxreFFVbmk2enlYeWlVdkM4c1I1NHROeXhKWjhZbmNjRzFQTW5kSTM2SVA4WEtDMDFfWkR3Z042U2xlWGVkb0lEM01HeXo5cFMycUNOYnVpM3JYY3VYV09mdUtXb1loeFdZeDFXdjFoSzRUbVVOTjZhUE9iWXhaQQ?oc=5",
-      "publishedAt": "Thu, 07 May 2026 17:04:08 GMT"
-    },
-    {
-      "title": "교황·트럼프 해빙모드?…'평화' 강조한 바티칸(종합)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsYmxkZ1dIT3l0SzEwQXRxd3NDeFBVRldkR0loamlhYnZabWV0QUN1Q1ktMXNZX3doWVduMlJZN3U3dFdKU3dJdElqMEdRTGtyV3JWdnZhRTZRbGfSAWBBVV95cUxPUm1IYmc3dkZYUktiS0hoOTUwWEJNRVNBaWpYM1hWMVJLT1E3bWx4cEVnS0hoZkRKVUtWOWQwSDA3RFZiUEdPMGJsYm11QkVQWEdOV0NmS2RsV0xMOG0xU3o?oc=5",
-      "publishedAt": "Thu, 07 May 2026 16:33:37 GMT"
-    },
-    {
-      "title": "\"이재명 대통령도 반길 일\", \"축구가 남·북한 국경 허물었다\"…北 축구, 8년 만의 한국 방문→외신도 주목+英 BBC \"한국 정부 관계 개선 모색\"",
-      "source": "엑스포츠뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WQXlhakpXUk1RRkNfUlpBRDFBaEk3aWNJR3JpY0FMUlQ0N3d4eDJMOXdVTUo1RWlLbTFGZGg3NFVUQmRZRlJQYnlTdDdpeTVGc3FtZw?oc=5",
-      "publishedAt": "Thu, 07 May 2026 16:29:01 GMT"
+      "title": "뇌 속 '청소부' 아교세포 활성화로 알츠하이머 플라크 제거·기억력 보호 가능성 확인",
+      "source": "유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ITlBxOS04WkNQS2xtUlROUXBwYXI1RFlCWnplbGpMOWtfRmRMTHVPbEU4WWJlTFpsak1ya29LTHBPZGZnN1YxblphWmNoWXZ0cGc?oc=5",
+      "publishedAt": "Thu, 07 May 2026 16:58:48 GMT"
     }
   ],
   "sources": [
