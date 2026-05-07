@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-08T06:18:32.511770+09:00",
+  "generatedAt": "2026-05-08T07:19:01.011653+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "9.8°C",
-        "feelsLike": "7.7°C",
+        "temperature": "10.6°C",
+        "feelsLike": "8.4°C",
         "highLow": "최고 19.4° / 최저 9.7°",
-        "humidity": "77%",
-        "wind": "7.7 m/s",
+        "humidity": "71%",
+        "wind": "8.0 m/s",
         "rainChance": "2%",
-        "pm10": "16.3 μg/m³",
-        "pm25": "14.5 μg/m³",
+        "pm10": "15.6 μg/m³",
+        "pm25": "14.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-08 06:15"
+        "airQualityIndex": "42",
+        "updatedAt": "2026-05-08 07:15"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "9.6°C",
-        "feelsLike": "7.0°C",
+        "temperature": "11.1°C",
+        "feelsLike": "8.4°C",
         "highLow": "최고 19.1° / 최저 9.4°",
-        "humidity": "78%",
-        "wind": "11.4 m/s",
+        "humidity": "73%",
+        "wind": "12.0 m/s",
         "rainChance": "0%",
-        "pm10": "16.3 μg/m³",
-        "pm25": "14.5 μg/m³",
+        "pm10": "15.6 μg/m³",
+        "pm25": "14.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-08 06:15"
+        "airQualityIndex": "42",
+        "updatedAt": "2026-05-08 07:15"
       },
       {
         "location": "파주",
         "summary": "대체로 맑음",
-        "temperature": "9.0°C",
-        "feelsLike": "6.3°C",
+        "temperature": "10.4°C",
+        "feelsLike": "7.6°C",
         "highLow": "최고 19.2° / 최저 8.8°",
-        "humidity": "79%",
-        "wind": "11.0 m/s",
+        "humidity": "73%",
+        "wind": "12.0 m/s",
         "rainChance": "6%",
-        "pm10": "16.3 μg/m³",
-        "pm25": "14.5 μg/m³",
+        "pm10": "15.6 μg/m³",
+        "pm25": "14.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-08 06:15"
+        "airQualityIndex": "42",
+        "updatedAt": "2026-05-08 07:15"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "8.6°C",
-        "feelsLike": "7.3°C",
+        "temperature": "10.7°C",
+        "feelsLike": "9.4°C",
         "highLow": "최고 18.7° / 최저 8.4°",
-        "humidity": "96%",
-        "wind": "5.2 m/s",
+        "humidity": "87%",
+        "wind": "6.6 m/s",
         "rainChance": "14%",
-        "pm10": "18.0 μg/m³",
-        "pm25": "15.5 μg/m³",
+        "pm10": "13.9 μg/m³",
+        "pm25": "12.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-05-08 06:15"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-05-08 07:15"
       }
     ]
   },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "1부 오늘의 주요뉴스",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LSkktSWc2RkRoby1iREowUkpSVDJCTjlkSjl4UHo3ZE5ybXczdWczaXFUNGVhVENaSF8ycFdZNGh1QlJTdGRDRnBXTFpna0dlaFBTVXZBQklMR09YOVhKSUFxSV9KRkY3ZkFmYmloTlY4WVVYVkNkX1Bn0gF6QVVfeXFMT0FqYUE4Z21WcjVCcjE2VGNtdzNhZnlIN2syMmZwdmRZWHNxTFdPcU5ybXpJNlN4TkVrYlE2aWJWcU01LV9JN2JrVHR5X1dWdzd5Wmg1X3pqM3BQRFhUVlNWUzhPUDk3TkdocUZVZUh5c0F5LUJZVnJSOWc?oc=5",
-      "publishedAt": "Thu, 07 May 2026 21:01:56 GMT"
+      "title": "[AI기자의 News Briefing] 5월8일 오늘의 주요 뉴스를 전해 드립니다.",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tR3JLMDJadThnLVlSb25lU0RlRzVtaGtoMlZIU3IxVXhObGJaZF8wS3k4RmlZOWRSTzBOam5EX1plMHJBa0d4X2ZQbHhudkRlbkxvdDR5Qk5vV0VTN2ZzNWRzdGJ4NTRpN1E?oc=5",
+      "publishedAt": "Thu, 07 May 2026 22:07:14 GMT"
     },
     {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
-      "source": "news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NVUVkQXZiN1BVWkZGMFV1TlRpa3VrcU1pVnVNX0owWkczSDU4WHJYNjlZVGhYbDEzWHg4SGptQmY4eF8ySzRxdDB5ZGhiZ2ZoNzdhX2VWRFVsZ29nVU82elc1MjctUFJYYWfSAWZBVV95cUxPZ0I2bkdXOHpkakJjdTU1dV9McUZaakFfX1lrbXBsb2Y0eUJnbVZjc2t3dk1ObmlKcE9iNnJMREhCUTkxQ1BJMGY1QkNSQnQtTkZnY3pRYXlfelVrQVlTYnhJQ2tqR3c?oc=5",
-      "publishedAt": "Thu, 07 May 2026 21:06:00 GMT"
-    },
-    {
-      "title": "\"AI쇼핑 돈 된다\"…네카오 1분기 '방긋'",
+      "title": "두바이 도착한 HMM 나무호…'피격 vs 사고' 원인 규명 본격화",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nWVlqM3h4R2d5Y09qTzh4RFZDUkNGN1pNaFJ4TFlLeHBZM09oNHNidndmVXJmc1BTRzBkdTRjWDhCMkVEbWROdV9sT3dMMHJyM2ZTeXJ3SEd4bkNRek5v?oc=5",
-      "publishedAt": "Thu, 07 May 2026 21:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GRXVIdTNRRDlocmxiaDdnYTZkTm9KTTVyUkQyakVPV0tELW16T1hPaE1aSDVuMnh1bFBFc283M1RaS0RfVjBmTXFWZ1FaclBhNFVuX0ZsUTk1Zw?oc=5",
+      "publishedAt": "Thu, 07 May 2026 22:00:00 GMT"
     },
     {
-      "title": "나무호, 두바이 도착‥이란 \"우리 공격 아냐\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mR0xiS294S3pxSExsd3R6bFNfTlFmUkxEWl9TU2J0dlJFNXZQNU5Gc2paYWRUX2lScnU2VFZfM0JPLS10aEtmVEVieEZCUkNyYXpJMWROc3h4eTJ0dFJVMF9yNFhRMlRoTlBxSDROY2U5dWRzcVJRQzdn0gF6QVVfeXFMT2NLWXVOQ2p0QzJxMF90YjFUMmJNX1Q2TnZGX1BCWWZDOHZRU0o5aGVIalZiWVJVN0FYNkJWTGlRd0d2WHN1MVZ1ZnlBVFFrdEJZZ2VfUk90bkgxRGxfTk52b2xIWFpNXzlGQ1N4WUVsUDlXbHhIZG1WMlE?oc=5",
-      "publishedAt": "Thu, 07 May 2026 21:03:32 GMT"
+      "title": "[26년 5월 8일(금)] 외국인 7조 '최대 순매도'에도...코스피 7,490 '또 최고치' - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeW04M21icnhqNXRwdzl6QU55dWxkN1ZPdFlvX19jeEI0bjFCdndSN3V2NWphUE5rTWNNYVE5ZVhuVHpmV0ozWGtCSmotYzRZSDVmSjRnalB0MF9fTnJ6cEwxUmppMDNVTEtxclg1dlo4RndUYW9qSGdWTlVoQncxSw?oc=5",
+      "publishedAt": "Thu, 07 May 2026 21:35:31 GMT"
     },
     {
-      "title": "[속보] 국제유가, 하락…WTI 0.28% ↓",
+      "title": "KB증권 \"에이피알, 글로벌 확장 지속…목표가 4%↑\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQNTlPRXplRkRMQWFSdWg5Rk1IRGYzUFE1S1Fsb2t0YzlBeVVseThiTF9NNnJIMjg2cThXNndidlk2SzlaOU5NaXhEeVVGYVdRdUl1YmNKVGZ3XzB3T2RDMQ?oc=5",
-      "publishedAt": "Thu, 07 May 2026 21:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEejhYOE04YkptbW9PQy1zcXV4c1dSZFhtbXVOQndkLUg0ejFyeEltWThTUVJSVGl5VzZKVzlWQXU1SGR4Ty0wcFk0WFJFX09vdXFuY0h3eGI0dUQ0cUdsSg?oc=5",
+      "publishedAt": "Thu, 07 May 2026 22:16:00 GMT"
     },
     {
-      "title": "미, 이란 추가 제재 압박‥CIA \"3~4개월 버틴다\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52dU1GaGVUODJuNC1JcXRZRk1LR3ZFQ2pOb2dRUGE3UWN0WExKV3MzQnJfaC10cTBZaGwtNDh3RHVZS1ozSGlMNktGRjdZejlEdk9PY0wxeFJFV0JXSDRIQmdNam1GeE5lUkJGWHpiX05ldDZhdjFoZFlR0gF6QVVfeXFMTk9kWk5uTmlXRXFTRk9rTV82cU9DYkdXUWhRbFd3ejE5ZVhhMFhPVjV2R0NFSzlWYVNUUDd5U3ZFajBTVkkyOTVjdWd3ZE83X3hlTkttc1dkQWltM3hfZ01xa0ZJeVhubHZKTFloUzFRY0FtWllzUnJsakE?oc=5",
-      "publishedAt": "Thu, 07 May 2026 21:08:29 GMT"
+      "title": "[5월 8일 간추린 뉴스] 프리스타일 풋볼2 PC CBT 시작",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wTDlZV3ppODYzcTJGMVFvT25aY3pnbG9qUnprOWhLdzUyLUF5N1pHaDFENHY4WlNFSWxrNWhXNWJ6NldhbmJxVnVCUFRWS2E0cTRFUTZZNGtRLWNIZFE?oc=5",
+      "publishedAt": "Thu, 07 May 2026 22:00:01 GMT"
     },
     {
-      "title": "[속보] 뉴욕증시, 하락…다우 0.63% ↓",
+      "title": "카카오톡에 AI 비서 들어온다…결제까지 자동",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NdVFXREJBa3BSdzdLV2tPVm90ZzhNemtzUktOajVCYjRTWFJ5Q2JmaDNDaUNyb24xUlZFbmZ2bXJTd1lQS3RSXzJVaV9TUGpveV9EYW5rRlJ5NHUxejNwQw?oc=5",
-      "publishedAt": "Thu, 07 May 2026 21:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2TjdIdDA0aklXQUtXT2lkOVpFNm5zTVY5WDljMHA0ZXphV25zSFM5eG1EbzkwSVRIMS1SQ25hU2p4NE9FMjR1WVVHQ2tMTThFQThB?oc=5",
+      "publishedAt": "Thu, 07 May 2026 22:10:00 GMT"
     },
     {
-      "title": "\"미군 드론 2대 격추\"‥이란, 전쟁 배상까지 요구",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rTW9DblNXUlRqR2xqbFdhMFZ0TC1yRGxieWpna3FWNEstTmNULTFwRzF3MC04a3kwSjFJdEV4ekJpdkR3aUtaRG8tbGVzVGlkQ2lhdW9PQ1dWZ3o1REY0bzNiUFNxeXg1aVBmTzZNSGdrS2JybjVHcG1B0gF6QVVfeXFMTUlpVFhYdk5BaUExRmlya3ZSMy1FR1dBSUY1TkkxVW9GUEhRZXBlSEt0SGhZSGpoSE5MZmRSM3NHeWdLMHRyVTV1V2x1TjZVb0ZCYWZNTFZtTnNXbnJab2pLWENxWTFoNzdMYktSbFVRdm9tWmhUdDlQVXc?oc=5",
-      "publishedAt": "Thu, 07 May 2026 21:06:43 GMT"
-    },
-    {
-      "title": "NBS \"이 대통령 국정운영 지지율 67%\"",
+      "title": "미 무역법원, 트럼프 10% 글로벌 관세 무효 판결",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CU083NmhLQWhJdl9MNUd6OFFESHZSajJSMG5Zemw4WHBPYUlaNUhBd2pzUWJaZHhHT2RxV1pUbVR2aHd4TEZJNGczOWNOZ19GdDRN?oc=5",
-      "publishedAt": "Thu, 07 May 2026 21:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04bk1QbmFTTU04MnI1X01mc0dLOFFJdUVOeGQ1VDJCRFFXWjNhRDdRMVJ6emhtQjdyekllNkd0aEU3a2FQLVRUZGdTODBoenRKZWNN?oc=5",
+      "publishedAt": "Thu, 07 May 2026 22:04:00 GMT"
     },
     {
-      "title": "[AI 코인패밀리 만평] 막아도 막을 수 없는",
+      "title": "[글로벌증시] 중동 협상 불확실성에 하락…다우 0.6%↓",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrTkxTWllDU29FaU12M2xuOUtSbnRzVkYwd1lUYmN1M0sxRUNTSVBYNjFXU2RwbkllNWNiRXE1TVAxamExUjhJVDFWbUF2TGhYemhV?oc=5",
-      "publishedAt": "Thu, 07 May 2026 21:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51RllnU2FJSnBmSEZ0LUdhTEZxXzJuSWlkYjN1ZTZEd04yQWdqLTBsZDk4V0NGODdrbmRjd2R3NzBVR0Q0dk43bGlCNXFDY25BYlNB?oc=5",
+      "publishedAt": "Thu, 07 May 2026 21:57:00 GMT"
+    },
+    {
+      "title": "[속보]미국 무역법원, 트럼프 '10% 글로벌 관세' 위법 판결",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GYmtfWFk2T19SYTY0aXd6Mkd3b3dLSVRQdk5lallBeGRkRnJmWU9xTGFxNzlGR3F0cXpuUm9lbGxlbUp4cHkwNFFfTDhQQjdlWVBfWDQtelExcTNjek43ZEdCVVFSWVNfZVJid0w1WlBfYmZYalVtZw?oc=5",
+      "publishedAt": "Thu, 07 May 2026 21:43:00 GMT"
+    },
+    {
+      "title": "미국, 이란 케슘 항구·반다르 아바스 공습…이 \"휴전 위반\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zeUlzbEFyTE9iQVgxdm9NTW1wQ1NuR2lqVHd4bVpGLS03QXdoQUFienk4ZTVlTjhwYUFEMnhfenVxeERDRXhRZHJUS2I3blIyR0Fr?oc=5",
+      "publishedAt": "Thu, 07 May 2026 22:12:00 GMT"
     }
   ],
   "sources": [
