@@ -1,22 +1,22 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-08T09:07:22.057273+09:00",
+  "generatedAt": "2026-05-08T12:51:52.647290+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "7,354.91",
-      "change": "-135.14",
-      "changePercent": "-1.80%",
+      "value": "7,420.60",
+      "change": "-69.45",
+      "changePercent": "-0.93%",
       "direction": "down",
-      "updatedAt": "2026-05-08 09:05"
+      "updatedAt": "2026-05-08 12:47"
     },
     {
       "label": "코스닥",
-      "value": "1,206.70",
-      "change": "+7.52",
-      "changePercent": "+0.63%",
+      "value": "1,203.38",
+      "change": "+4.20",
+      "changePercent": "+0.35%",
       "direction": "up",
-      "updatedAt": "2026-05-08 09:05"
+      "updatedAt": "2026-05-08 12:47"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,459.50",
-      "change": "+1.50",
-      "changePercent": "+0.10%",
+      "value": "1,465.20",
+      "change": "+7.20",
+      "changePercent": "+0.49%",
       "direction": "up",
-      "updatedAt": "2026-05-08 09:04"
+      "updatedAt": "2026-05-08 12:46"
     },
     {
       "label": "100엔/원",
-      "value": "930.30",
-      "change": "+0.93",
-      "changePercent": "+0.10%",
+      "value": "934.50",
+      "change": "+5.13",
+      "changePercent": "+0.55%",
       "direction": "up",
-      "updatedAt": "2026-05-08 09:04"
+      "updatedAt": "2026-05-08 12:46"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "13.6°C",
-        "feelsLike": "11.4°C",
+        "temperature": "18.6°C",
+        "feelsLike": "17.8°C",
         "highLow": "최고 19.2° / 최저 9.6°",
-        "humidity": "60%",
-        "wind": "9.2 m/s",
-        "rainChance": "2%",
-        "pm10": "17.7 μg/m³",
-        "pm25": "12.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-08 09:00"
+        "humidity": "38%",
+        "wind": "11.6 m/s",
+        "rainChance": "6%",
+        "pm10": "15.8 μg/m³",
+        "pm25": "8.3 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-08 12:45"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "14.1°C",
-        "feelsLike": "11.4°C",
+        "temperature": "18.5°C",
+        "feelsLike": "17.4°C",
         "highLow": "최고 19.1° / 최저 9.4°",
-        "humidity": "64%",
-        "wind": "15.2 m/s",
-        "rainChance": "0%",
-        "pm10": "17.7 μg/m³",
-        "pm25": "12.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-08 09:00"
+        "humidity": "54%",
+        "wind": "19.4 m/s",
+        "rainChance": "8%",
+        "pm10": "15.8 μg/m³",
+        "pm25": "8.3 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-08 12:45"
       },
       {
         "location": "파주",
         "summary": "대체로 맑음",
-        "temperature": "13.5°C",
-        "feelsLike": "10.6°C",
-        "highLow": "최고 19.0° / 최저 8.8°",
-        "humidity": "63%",
-        "wind": "15.0 m/s",
-        "rainChance": "6%",
-        "pm10": "17.7 μg/m³",
-        "pm25": "12.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-08 09:00"
+        "temperature": "18.5°C",
+        "feelsLike": "16.3°C",
+        "highLow": "최고 19.0° / 최저 8.7°",
+        "humidity": "41%",
+        "wind": "20.7 m/s",
+        "rainChance": "27%",
+        "pm10": "15.8 μg/m³",
+        "pm25": "8.3 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-08 12:45"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "15.4°C",
-        "feelsLike": "12.8°C",
-        "highLow": "최고 18.6° / 최저 8.1°",
-        "humidity": "63%",
-        "wind": "15.6 m/s",
-        "rainChance": "14%",
-        "pm10": "16.8 μg/m³",
-        "pm25": "10.8 μg/m³",
+        "temperature": "18.6°C",
+        "feelsLike": "16.8°C",
+        "highLow": "최고 18.6° / 최저 8.5°",
+        "humidity": "51%",
+        "wind": "23.0 m/s",
+        "rainChance": "78%",
+        "pm10": "16.1 μg/m³",
+        "pm25": "9.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-05-08 09:00"
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-08 12:45"
       }
     ]
   },
@@ -276,7 +276,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "동작구",
         "stationName": "주식회사 새서울글로벌",
         "address": "서울 동작구 시흥대로 616 (신대방동)",
-        "updatedAt": "2026-05-08 07:58:45",
+        "updatedAt": "2026-05-08 10:58:48",
         "districtSamples": [
           {
             "district": "동작구",
@@ -291,12 +291,12 @@ window.DASHBOARD_DATA = {
             "price": "1,984원/L"
           },
           {
-            "district": "관악구",
-            "price": "1,985원/L"
+            "district": "은평구",
+            "price": "1,984원/L"
           },
           {
-            "district": "금천구",
-            "price": "1,988원/L"
+            "district": "관악구",
+            "price": "1,985원/L"
           }
         ]
       },
@@ -306,7 +306,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "미추홀구",
         "stationName": "탑self주유소",
         "address": "인천 미추홀구 송림로 217 (도화동)",
-        "updatedAt": "2026-04-30 09:22:33",
+        "updatedAt": "2026-05-07 09:38:59",
         "districtSamples": [
           {
             "district": "미추홀구",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
           },
           {
             "district": "남동구",
-            "price": "1,979원/L"
+            "price": "1,978원/L"
           },
           {
             "district": "부평구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "5월 8일 여수시 주요일정",
-      "source": "남해안신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsWXIybmllUWR3ZkxfQU1WRjVaRlRfZEE0eVE5b1NhNGxraWF5Qm1ma285WEY2NEtaTHdfbDZVTUY5eXBHOFdBNThPWTJCN2JydlV1bHFkcllMald5eWQ3T0hicVpTY3JF?oc=5",
-      "publishedAt": "Thu, 07 May 2026 23:46:29 GMT"
+      "title": "[12뉴스] 오늘의 주요뉴스",
+      "source": "news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Vdnp1MGRBS19QWWdCeG1oaURFTFZYSWZ3OEFoZGRtLWl4R29pUm8zVXB1cGc4LThGSV84Tno1djNNSkY0dUtxZmhpa012VVhCRXNpXzVLZFNMNWN2cUNvUnJmS1ZzNi1uQUHSAWZBVV95cUxORjhGRXFVeE5kdzRVUmtJbGFVb3JzakFFYlRTSlZQaldDYnotWFdXUkRZdkdiX294dE5UWXhENGhRMEdNOXVrZW9oOEF1X1lMVm9fT21qVlQ1Y3F2RWRFUHVJNEowelE?oc=5",
+      "publishedAt": "Fri, 08 May 2026 03:06:00 GMT"
     },
     {
-      "title": "비상경제본부회의 주재하는 구윤철 부총리",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TaU12dFJUSThEZERidmNhVzlScXlPb2lrOFpzWXl5OEloa0VTZklQcWN4ZFRET3F3R1VtUEsyaXZnWDA3dkNRVmlwb3RuTGJDNGE0?oc=5",
-      "publishedAt": "Thu, 07 May 2026 23:48:00 GMT"
+      "title": "이란 전쟁 중 ‘미·중 정상회담’의 주요 쟁점",
+      "source": "뉴스타운",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWNU9nSlNZRWg1NU1STXJIWG5obHFId29JREtPbVBXYjNkOEl4ejc5M3pJQVBScXdEdGhfOVY0SFh0Nmx3emlubnVCaklYUVM0Sk16ZVBhNjVmQWJ5dVVDWU9neGpKY252R3pDZTF3?oc=5",
+      "publishedAt": "Fri, 08 May 2026 03:30:00 GMT"
     },
     {
-      "title": "LX인터내셔널, 지역사회 환경개선 활동 전개",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PcC1lbmlwVGEyNkFfLXVSUUlKbElSSmhCUVBfeVhoemlqUlM0V2JUQWkxcWx1bU5iS24zSHV0QjBtTkZyLTFEOEFBVkVxeXVzTmhJ?oc=5",
-      "publishedAt": "Thu, 07 May 2026 23:56:00 GMT"
-    },
-    {
-      "title": "대전 문평동 공장 화재 희생자 추모식…유가족·시민 함께",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMnJJdHpjcXZJVFVfeDNxM19RUnJsMUFVX180ejdXRGRjWXE2N092REFJazhTU1RaTnk4MHdNNXotRWx0U3UzU1Y3X3g4bXlzZUpn?oc=5",
-      "publishedAt": "Thu, 07 May 2026 23:47:00 GMT"
-    },
-    {
-      "title": "\"KT&G, 주주환원·실적 모멘텀 계속…목표가 10% 상향\"-NH",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XLWI5RVViU3pOODBaclhIUlBnYS1SWDUyeklqaFBXZjRxMW92TnRoR3pYODg2U0pCUXhvLWU2cWd1THdhOTVsNlJoVG1wb1FNc2I4?oc=5",
-      "publishedAt": "Thu, 07 May 2026 23:50:00 GMT"
-    },
-    {
-      "title": "호르무즈 교전에 국제유가 상승세 반전",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JU1lsTFl4RHNYWElyUUtGWnpGUl80TTllSFFuTDVPUU1Gdk5pVVpnSUt5SWY0X0E4ZWxiaEdVdWdYLWoyVGVqWTlreXJlQ1huSjBB?oc=5",
-      "publishedAt": "Thu, 07 May 2026 23:58:00 GMT"
-    },
-    {
-      "title": "IAE 수장 \"이란戰으로 매일 수백만배럴 원유 공급 차질\"",
+      "title": "\"마스코트부터 키링까지\"…강릉 세계 마스터즈 탁구대회 굿즈 눈길",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42aUYyNzVYcW9nWlVRVFJjbjA1R1VsMmJwX0trRS1oN01LR044N19ndjBnR0ktTHNBUDhURk52Ty1rdG9xSmt5Ni1DUmpESjhGelBDVkNhMXYycTZxRi1YbVplUXU4cDg?oc=5",
-      "publishedAt": "Thu, 07 May 2026 23:56:23 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JclJoMnNmR0NoaHlHV3prTFNZcTdlbnJudmI2NXdtNDN4ZFg1TkRmOFlKWUxxUnpnR3phNl9tWGkxWnNPYnNza1Z0amdDYW4telhvVg?oc=5",
+      "publishedAt": "Fri, 08 May 2026 03:19:16 GMT"
     },
     {
-      "title": "제목: LG전자 베스트샵 마석점, 오픈 프로모션 실시",
-      "source": "하이뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3a2t3Z2EyTGk3aEdXMFU1SUxTUVcyQTFXN2FfMnFrSUFlWU1xaHgyMVBDNUc1bU01R2tzTmZ5cDAyTDZiZG5FSk1uOGw3dlF6TndHR25PcjV2dzhiaEFSblEwakZPRzBDY0FxSG83LUxxSUlBT1hn?oc=5",
-      "publishedAt": "Fri, 08 May 2026 00:00:00 GMT"
+      "title": "“글로벌 진출 고려”... 용과같이스튜디오, 사명 ‘RGG스튜디오’로 변경",
+      "source": "ipnn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZSTdPajlvQ1c0RHZuQkZHZUp3TE9KYnhWRVU1emp0OTA4bE9oTkU4V2lXcnljakw4blNZeGppelp5UGY2ZXpRTUg5WnNWNURsZ2I5d20tSGFQcG4wNmlTMGtaOWpySnRP?oc=5",
+      "publishedAt": "Fri, 08 May 2026 03:03:06 GMT"
     },
     {
-      "title": "르노코리아, 하이브리드 기술력 앞세운 시승 프로모션 본격화",
+      "title": "비닐·비료 고비 넘겼지만…농번기 공급망, 여름 이후가 변수",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zcDFWWENILWw3M2ZKUkJNc1dKdzNtMnlVb1JPS0dyY3NYQ25Pc0hCcUZyTHFMOVhIU2dReEFYRjkyRU9wUlMyQVZGZ3pPQkV1RzB3?oc=5",
-      "publishedAt": "Thu, 07 May 2026 23:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yX0lCSkdsWWw1bXpuam1GTDJLOVhTbDZBcHg0ZnlPUkpLTElSbTM5dWtZMFlNd0FSQkY0WWNta1o4LXhkRGM2QkxTMC1fdXREdVVj?oc=5",
+      "publishedAt": "Fri, 08 May 2026 03:01:00 GMT"
     },
     {
-      "title": "[오늘 인천] 인천 개항장 공영주차장 운영 시작 등",
+      "title": "중앙은행 총재로 친정 BIS 찾는 신현송",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jZ1c1UjhWSE5vNXE5WXF0N0h2THJTelZvUVdGX0RzVkFZOE1JZ0dhakNEMWRwamlqMDBoY3JxaWs0aGlvLUNoUDlHZUNBX2Z3bG9jRHRHTTg4V1lQSDJyUnYwRmxYbjVqQlAyRFBtaFRndV9pUXFoUw?oc=5",
-      "publishedAt": "Thu, 07 May 2026 23:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PYzRPa0MtdlF6cXh2UGNhRXcyWmlsQjNXamk5VmNIQ2R4dWdMcnNiU3B3Tm1hLUIzS3lZQkE4bGFWai1MNXc1M3pHQS1kOWhkZDVR?oc=5",
+      "publishedAt": "Fri, 08 May 2026 03:01:00 GMT"
+    },
+    {
+      "title": "구윤철 \"집값 상승 기대 낮아져…부동산 시장 구조 변화\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FY1pscmV5bjdVMVdhTmViTENOd2Y0ekpPWlRoY3R6SkJSSzRFWUVMcTlVeFoxeHFUNlg2UmgyVEdMeHg0QjlWOHZRUHpvOTJaQmFR?oc=5",
+      "publishedAt": "Fri, 08 May 2026 02:54:00 GMT"
+    },
+    {
+      "title": "강릉시, 세계탁구선수권 앞두고 '스마일 핑퐁 친절 캠페인' 전개",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RYmdtQ09mdDh3Yk51VGM0UC1xeWF2VVJzVzRiejB0eGRKUXd5bzlVX3RENks2UlVWOTkwbmtOSG9TZ1paRHBjTTFfcF9JV3d1ekdfaw?oc=5",
+      "publishedAt": "Fri, 08 May 2026 03:26:11 GMT"
+    },
+    {
+      "title": "장준용 동래구청장 후보, '다함께 선대위' 출범…본격 선거전 돌입",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZE1IcVBaS19WODIweWFQWUNnejVmdUkxQWZvOWZCS1VrdDdMUlY1V1g2YUNOQVRXWUdBTkctMDJxaEFoQWdWcmQ4VjdicWVXa1lZdjVaYzNLajRzOGkw?oc=5",
+      "publishedAt": "Fri, 08 May 2026 03:36:26 GMT"
+    },
+    {
+      "title": "동부산림청 '숲으로 풍덩! 대굴령 숲나들이' 참가자 모집",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5eWtvZWYxanhfVHF5N0hldnFRWEcyVlE2Yk1qYUp2bTIwcFBfcGRQQ29NNUNIaXlOTmpoYWxNTDhocnZMLVBnUUFmclVpWXRidGpJVw?oc=5",
+      "publishedAt": "Fri, 08 May 2026 03:11:44 GMT"
     }
   ],
   "sources": [
