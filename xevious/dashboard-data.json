@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T20:47:41.132634+09:00",
+  "generatedAt": "2026-05-08T22:00:42.155074+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.70",
-      "change": "+9.70",
-      "changePercent": "+0.67%",
+      "value": "1,463.40",
+      "change": "+5.40",
+      "changePercent": "+0.37%",
       "direction": "up",
-      "updatedAt": "2026-05-08 20:40"
+      "updatedAt": "2026-05-08 21:54"
     },
     {
       "label": "100엔/원",
-      "value": "936.24",
-      "change": "+6.87",
-      "changePercent": "+0.74%",
+      "value": "934.66",
+      "change": "+5.29",
+      "changePercent": "+0.57%",
       "direction": "up",
-      "updatedAt": "2026-05-08 20:40"
+      "updatedAt": "2026-05-08 21:54"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "14.8°C",
-        "feelsLike": "12.9°C",
+        "temperature": "13.6°C",
+        "feelsLike": "11.4°C",
         "highLow": "최고 19.2° / 최저 9.6°",
-        "humidity": "52%",
-        "wind": "4.7 m/s",
+        "humidity": "54%",
+        "wind": "6.0 m/s",
         "rainChance": "6%",
-        "pm10": "12.6 μg/m³",
-        "pm25": "12.1 μg/m³",
+        "pm10": "15.2 μg/m³",
+        "pm25": "14.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "30",
-        "updatedAt": "2026-05-08 20:30"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-05-08 21:45"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "13.3°C",
-        "feelsLike": "11.0°C",
+        "temperature": "12.1°C",
+        "feelsLike": "9.8°C",
         "highLow": "최고 19.5° / 최저 9.4°",
-        "humidity": "65%",
-        "wind": "10.0 m/s",
-        "rainChance": "8%",
-        "pm10": "12.6 μg/m³",
-        "pm25": "12.1 μg/m³",
+        "humidity": "67%",
+        "wind": "9.0 m/s",
+        "rainChance": "22%",
+        "pm10": "15.2 μg/m³",
+        "pm25": "14.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "30",
-        "updatedAt": "2026-05-08 20:30"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-05-08 21:45"
       },
       {
         "location": "파주",
         "summary": "대체로 맑음",
-        "temperature": "13.4°C",
-        "feelsLike": "11.0°C",
+        "temperature": "12.1°C",
+        "feelsLike": "9.5°C",
         "highLow": "최고 19.0° / 최저 8.7°",
-        "humidity": "60%",
-        "wind": "9.7 m/s",
+        "humidity": "62%",
+        "wind": "9.6 m/s",
         "rainChance": "27%",
-        "pm10": "12.6 μg/m³",
-        "pm25": "12.1 μg/m³",
+        "pm10": "15.2 μg/m³",
+        "pm25": "14.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "30",
-        "updatedAt": "2026-05-08 20:30"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-05-08 21:45"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "11.1°C",
-        "feelsLike": "9.6°C",
+        "temperature": "9.7°C",
+        "feelsLike": "8.1°C",
         "highLow": "최고 18.9° / 최저 8.5°",
-        "humidity": "81%",
-        "wind": "6.7 m/s",
+        "humidity": "83%",
+        "wind": "5.6 m/s",
         "rainChance": "78%",
-        "pm10": "13.0 μg/m³",
-        "pm25": "9.4 μg/m³",
+        "pm10": "14.0 μg/m³",
+        "pm25": "10.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "33",
-        "updatedAt": "2026-05-08 20:30"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-05-08 21:45"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)자연에너지 금곡주유소",
-        "address": "인천 서구 봉수대로 1491 (금곡동)",
-        "updatedAt": "2026-05-08 15:01:01",
+        "stationName": "(주)디오티디 인천랍스터주유소",
+        "address": "인천 서구 봉수대로 1543 (금곡동)",
+        "updatedAt": "2026-05-08 17:59:33",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[포토]선제 2타점 적시타 '추가득점까지 성공' 유준규",
+      "title": "[뉴스9 제주 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYWJVYXRaTjlSNWk2SFYtWFFyNjJkVGxaOWJTWTJpZV9qTU14eHF4N3J0dHJXYnRQbkMzdnYtUDZLWjBTNjJWUFg1eDVNd0ZzaWhLU3NUNjVLdDg?oc=5",
+      "publishedAt": "Fri, 08 May 2026 12:38:00 GMT"
+    },
+    {
+      "title": "[26년 5월 7일(목)] “삼전닉스 나만 없어” “내가 팔고 30% 올랐다” ‘꿈의 7천피’에 우는 개미들 - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnVUdU1EQ3gtcG9GQk55UmtBQ0k1cHVZZ2htU29VQ3ZLbmtlTW9HbWh0UXBWcG5tMXRWMWtNSWRsV05XOGJRUWd4WWN4ekdSS29fV3pBTmNpem1jNVF1QkF4RVVFM2o0aXNnakRUMGdpTDR5T0hlaEpYamlBSjgtVg?oc=5",
+      "publishedAt": "Fri, 08 May 2026 12:39:10 GMT"
+    },
+    {
+      "title": "[1보] 미 4월 고용 11만5천명 증가…예상치 상회",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mWlZqU2tNQlhHaFljakVta29QZjJNdTQ0UlpuTi13RFl0TktMbWdUUS1vSGpsV0s5aVJwZXcwa19mTkc3LV8yc3VzZXhsLVBqY2hFUHpRUHlmbjdBcjN5VA?oc=5",
+      "publishedAt": "Fri, 08 May 2026 12:32:07 GMT"
+    },
+    {
+      "title": "TSMC, 4월 매출 17.5% 급증…'AI 특수'에 역대 최대 실적 경신",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1adE45UTJhblpBNEx3VV9aTHJFc3lSbHlaUXNpNFR6UjB3aE1uX0ZGNVIyZlZ0Q0NrczM2WWxBSXJFZkRONGtXSm5WNVAtUERZcmlqcDUzYklpbnpfMmFGSzBVLXlMWmlhRUdLeWkzVHB6YllfaGF5aA?oc=5",
-      "publishedAt": "Fri, 08 May 2026 11:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85MEVZVEw0R1Y1RUw2MlJXRkZ0cWRQeXdqM1hnX2NxZ0ttcU5IUmRjT25nOTJSTU1mODBaaXR1Mzd6Y1BMdm5kb3JpdFJsb3pnSlBwalZvZ1A2dVZNTEIyblFFOXlEVEtZMWNUelg1Q2FnX0hIeXBRRA?oc=5",
+      "publishedAt": "Fri, 08 May 2026 12:39:00 GMT"
     },
     {
-      "title": "[포토] '총알처럼 3루까지' 유준규",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjXzdjZzc2bENUSy15U2MySDc4YTZNaUxLWlVNSmhtVmZnZENUUGpqYzNVVzA0Y2hTT3poSjRzSUh6ZmJwdDlqakhGaWYyQi1YVkhDa2Y5SVRFbU1C?oc=5",
-      "publishedAt": "Fri, 08 May 2026 11:27:00 GMT"
+      "title": "[뉴스9 대구·경북 오프닝]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81YXVfWEZWSUg5LVhrVnZBSGc4UzlQeTl3VVdodlZHOVEyQXNmX3RmZC11UUFWR0szVS1UdFpmUTViSURXNFM5bnIzSWpzREtRQ1BFU0tiTEJyUjA?oc=5",
+      "publishedAt": "Fri, 08 May 2026 12:38:00 GMT"
     },
     {
-      "title": "아리얼, '올 그린 페미닌 와입스' 패키지 리뉴얼 출시",
+      "title": "‘두 시즌만의 1부투어 복귀’ 오성욱의 각오는? PBA 12일 미디어데이 개최",
+      "source": "mkbn.mk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBabUV6LVpWZng5bjdYUnAtX296RmtYQ2FQcWxCT2tHTUlhNFdndUFlek9TWUlybjZSWGVvOUtzZmZDZ3JSVWRMOXRkU3MtSFE4bmhNZA?oc=5",
+      "publishedAt": "Fri, 08 May 2026 12:08:18 GMT"
+    },
+    {
+      "title": "\"이란 해군, 유조선 1척 나포\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VSm02SzJ4R0tDVWFab2xFY0t3NzFnM2Z0QzJnWGhJektzU2xTSUtPTU1XQXhrZHI4TzRkbnI5bnkwZVByXzMwaURCVUpObWVYa2Nv?oc=5",
-      "publishedAt": "Fri, 08 May 2026 10:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Xa2oycEJPTHBfck5raTRUYXBEWnROcTkwa1F3dEhWWXM3X2NfanRmdGpwdHJ0empYLVM4enktanRqdzFWVGpTdWlYM1FycWNPcXZabUJsenBDZHhpaGdyelF0dk5kdGRzTVE?oc=5",
+      "publishedAt": "Fri, 08 May 2026 12:43:00 GMT"
     },
     {
-      "title": "박홍근 기획예산처 장관, 진천선수촌 방문",
-      "source": "열린뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xODVzLWFvMU5YTWVKaURsZERlbGJteUdaVmstcEQzeS1nZGo3cG95MHk4N1RRMUd6T3N3cEY4S05fRzlSQUdCYk9ySnE1SDREOUNyWS1rRzVmOE15ODJ0V3NQUjA?oc=5",
-      "publishedAt": "Fri, 08 May 2026 11:35:18 GMT"
-    },
-    {
-      "title": "[뉴스특보] 트럼프, 연설 예고…종전협상 발언 '주목'",
+      "title": "손보사 '차량 5부제 특약' 도입···보험료 최대 2% 환급",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HS2M0d1BURkx2UWZuTXZlclQ3eUd0V2xrSTZwMFdDWkdocHZrNnNaZ0h5aktTS1VJbkJXaWZaaTlTZVdmLVV2ZXFEa19xZ2FZV0ww?oc=5",
-      "publishedAt": "Fri, 08 May 2026 11:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51aHBkay1JdlVGSkFjamp6MzY5QWV4ajhQc05ncU9nR29YVHAyQllqdkdVbU50Ty1HNGNLMkJCLWRmamdRU3FnQ1ZNRlJxbWpHSVpKcWN2aE1TM2ROcE9vWGQyWTRwYUtxWExvUFVXbS1zd0Vmal9KdA?oc=5",
+      "publishedAt": "Fri, 08 May 2026 12:26:00 GMT"
     },
     {
-      "title": "\"일본축구, 북중미 월드컵 4강 간다\" 브라질 축구 레전드 '확신'",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmd2htd05vUVE3d21GeXN0S280OWJ0aDl1RjZMS3h4NGZ1N3BhM0JTakxnbUI2QTRNeGFFQmN5Y21LWkZRTXFEU3pHWERwem5IeDBQZFVicGNMUUFW?oc=5",
-      "publishedAt": "Fri, 08 May 2026 11:35:00 GMT"
-    },
-    {
-      "title": "장동혁, 여의도 벗어나 전국으로…지원 반경 확대 시동",
+      "title": "호르무즈 해협 재봉쇄 직전 겨우 빠져나온 유조선, 국내 도착",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56SW1RbkRCQ3hvU2I4dDlBelh0cHI4WjFmLXZ6Vndua0VIMHhMTVBWamJJUGp6elN4bU5qQzd1bmY2MWlkTTY1YWh1ZmIwSWhDYlNCaWprVWJfcEJwOXcta01BR2ZNZFRfSnRFWTF3?oc=5",
-      "publishedAt": "Fri, 08 May 2026 11:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MVEFYU2tIS3h2aFNtd3dmWXRXRXF2RnFaLWZLOFlrdjZZOUJVU2MwbW1hRjh2YnRCR2pRQ2F4XzdVX0xyVmtqcWJucnhvVEVNd2NV?oc=5",
+      "publishedAt": "Fri, 08 May 2026 12:32:00 GMT"
     },
     {
-      "title": "박지훈, 턱시도 입은 단종오빠[★포토]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MaGIxeUFWaUJtc3JzcFRJNHhDZFYwanZKWkU1N1FDSzhtNEFZa2RudWJ5ZVhXd0R2enlNTFRhWmlWM3RpbklnTlcwRjFlZ1pUYm1V?oc=5",
-      "publishedAt": "Fri, 08 May 2026 11:26:00 GMT"
-    },
-    {
-      "title": "현빈♥손예진, '분위기 마치 버진로드' [영상]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iUGt2M3RNa2VqRHJnVTNKZl9ZNHlqTWwxNVJhSVoyRDhCLW9maDRZNUR3MUJXaHBndU8tM0tENDNWYmZIOVlId0VjbmhibTUzZkRyU0RPd0lOTHlFQk9FMQ?oc=5",
-      "publishedAt": "Fri, 08 May 2026 10:48:00 GMT"
-    },
-    {
-      "title": "\"많이 통통했는데\"…'왕사남' 박지훈→'폭군의 셰프' 이채민, 신인상 쾌거[제62회 백상예술대상]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XN1VDbzBGaEE4eFFGSGZZa3J5MjlnQnJxWnNDdk5yYUhoTkhHaC1lcTRrQW5kZU1OYjhuUXkwbllQRHJSeEFqUDhoem5SY1g0djBV?oc=5",
-      "publishedAt": "Fri, 08 May 2026 11:27:00 GMT"
+      "title": "성남시니어산업혁신센터, ‘Age-Tech 종합지원센터' 선정",
+      "source": "하나뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ES0tmSktVOHBQaWlIdDFvX2tCSksxT19kVy1QQTlFdFBKZWlRSGM0STlTUkRRS1ZCZnM2c3lVa1gyNkdzZEVrbGZxNkxZMHVnYnF6ZkhMLXFyZS1lNDU1cklWdHhpdFlURWJXQw?oc=5",
+      "publishedAt": "Fri, 08 May 2026 12:30:24 GMT"
     }
   ],
   "sources": [
