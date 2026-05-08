@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-08T19:14:11.109213+09:00",
+  "generatedAt": "2026-05-08T20:47:41.132634+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,467.90",
-      "change": "+9.90",
-      "changePercent": "+0.68%",
+      "value": "1,467.70",
+      "change": "+9.70",
+      "changePercent": "+0.67%",
       "direction": "up",
-      "updatedAt": "2026-05-08 19:05"
+      "updatedAt": "2026-05-08 20:40"
     },
     {
       "label": "100엔/원",
-      "value": "936.85",
-      "change": "+7.48",
-      "changePercent": "+0.80%",
+      "value": "936.24",
+      "change": "+6.87",
+      "changePercent": "+0.74%",
       "direction": "up",
-      "updatedAt": "2026-05-08 19:05"
+      "updatedAt": "2026-05-08 20:40"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "16.6°C",
-        "feelsLike": "14.4°C",
-        "highLow": "최고 19.3° / 최저 9.6°",
-        "humidity": "44%",
-        "wind": "5.3 m/s",
+        "temperature": "14.8°C",
+        "feelsLike": "12.9°C",
+        "highLow": "최고 19.2° / 최저 9.6°",
+        "humidity": "52%",
+        "wind": "4.7 m/s",
         "rainChance": "6%",
-        "pm10": "10.4 μg/m³",
-        "pm25": "9.6 μg/m³",
+        "pm10": "12.6 μg/m³",
+        "pm25": "12.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-08 19:00"
+        "airQualityIndex": "30",
+        "updatedAt": "2026-05-08 20:30"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "15.2°C",
-        "feelsLike": "13.3°C",
-        "highLow": "최고 19.2° / 최저 9.4°",
-        "humidity": "60%",
-        "wind": "8.9 m/s",
+        "temperature": "13.3°C",
+        "feelsLike": "11.0°C",
+        "highLow": "최고 19.5° / 최저 9.4°",
+        "humidity": "65%",
+        "wind": "10.0 m/s",
         "rainChance": "8%",
-        "pm10": "10.4 μg/m³",
-        "pm25": "9.6 μg/m³",
+        "pm10": "12.6 μg/m³",
+        "pm25": "12.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-08 19:00"
+        "airQualityIndex": "30",
+        "updatedAt": "2026-05-08 20:30"
       },
       {
         "location": "파주",
         "summary": "대체로 맑음",
-        "temperature": "15.6°C",
-        "feelsLike": "13.3°C",
+        "temperature": "13.4°C",
+        "feelsLike": "11.0°C",
         "highLow": "최고 19.0° / 최저 8.7°",
-        "humidity": "54%",
-        "wind": "9.2 m/s",
+        "humidity": "60%",
+        "wind": "9.7 m/s",
         "rainChance": "27%",
-        "pm10": "10.4 μg/m³",
-        "pm25": "9.6 μg/m³",
+        "pm10": "12.6 μg/m³",
+        "pm25": "12.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-08 19:00"
+        "airQualityIndex": "30",
+        "updatedAt": "2026-05-08 20:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "13.4°C",
-        "feelsLike": "11.4°C",
-        "highLow": "최고 18.9° / 최저 8.6°",
-        "humidity": "72%",
-        "wind": "11.5 m/s",
+        "temperature": "11.1°C",
+        "feelsLike": "9.6°C",
+        "highLow": "최고 18.9° / 최저 8.5°",
+        "humidity": "81%",
+        "wind": "6.7 m/s",
         "rainChance": "78%",
-        "pm10": "12.4 μg/m³",
-        "pm25": "9.7 μg/m³",
+        "pm10": "13.0 μg/m³",
+        "pm25": "9.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-08 19:00"
+        "airQualityIndex": "33",
+        "updatedAt": "2026-05-08 20:30"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)디오티디 인천랍스터주유소",
-        "address": "인천 서구 봉수대로 1543 (금곡동)",
-        "updatedAt": "2026-05-08 17:59:33",
+        "stationName": "(주)자연에너지 금곡주유소",
+        "address": "인천 서구 봉수대로 1491 (금곡동)",
+        "updatedAt": "2026-05-08 15:01:01",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "대통령·국회의장·여당 대표의 '눈물'",
+      "title": "[포토]선제 2타점 적시타 '추가득점까지 성공' 유준규",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zVUVoSWlHZGZzSVJkMWx5Q0FlNUdvcmp1c0tMNWNkQ2JmdFpxTGRyUzVjY2c2SGRuYUhsUExCMldmTXdHWmpxSk1FbnJYYlVoWWd6MlVqOXZqTjR5STgyMg?oc=5",
-      "publishedAt": "Fri, 08 May 2026 09:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1adE45UTJhblpBNEx3VV9aTHJFc3lSbHlaUXNpNFR6UjB3aE1uX0ZGNVIyZlZ0Q0NrczM2WWxBSXJFZkRONGtXSm5WNVAtUERZcmlqcDUzYklpbnpfMmFGSzBVLXlMWmlhRUdLeWkzVHB6YllfaGF5aA?oc=5",
+      "publishedAt": "Fri, 08 May 2026 11:30:00 GMT"
     },
     {
-      "title": "[포토]'KT전 역투펼치는' 안우진",
+      "title": "[포토] '총알처럼 3루까지' 유준규",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjXzdjZzc2bENUSy15U2MySDc4YTZNaUxLWlVNSmhtVmZnZENUUGpqYzNVVzA0Y2hTT3poSjRzSUh6ZmJwdDlqakhGaWYyQi1YVkhDa2Y5SVRFbU1C?oc=5",
+      "publishedAt": "Fri, 08 May 2026 11:27:00 GMT"
+    },
+    {
+      "title": "아리얼, '올 그린 페미닌 와입스' 패키지 리뉴얼 출시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YVTNtdEwxVnBaeGp3Ykg3bUFNWnhhSjJvaWVZSWdfZzlwc0tnakNFeEhsTmNLdzl0cC1mODNibG9xeU1wWHdBVllGTkl5V3N2VDM2OUhCU05TX2ZCbGV3aDVSbV81NnVxeUZOV1JHeUFSdjE5OFlEVA?oc=5",
-      "publishedAt": "Fri, 08 May 2026 10:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VSm02SzJ4R0tDVWFab2xFY0t3NzFnM2Z0QzJnWGhJektzU2xTSUtPTU1XQXhrZHI4TzRkbnI5bnkwZVByXzMwaURCVUpObWVYa2Nv?oc=5",
+      "publishedAt": "Fri, 08 May 2026 10:51:00 GMT"
     },
     {
-      "title": "단양 영춘면 야산서 불…0.5㏊ 소실",
+      "title": "박홍근 기획예산처 장관, 진천선수촌 방문",
+      "source": "열린뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xODVzLWFvMU5YTWVKaURsZERlbGJteUdaVmstcEQzeS1nZGo3cG95MHk4N1RRMUd6T3N3cEY4S05fRzlSQUdCYk9ySnE1SDREOUNyWS1rRzVmOE15ODJ0V3NQUjA?oc=5",
+      "publishedAt": "Fri, 08 May 2026 11:35:18 GMT"
+    },
+    {
+      "title": "[뉴스특보] 트럼프, 연설 예고…종전협상 발언 '주목'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16RmQ5MzBfTXpVdlNUN05oRE9IejdkbzFWUURtMGhkYno3cmppbHhwNTNtcW5NV3ZzR3ctZDd0RG1EbGwxcF92ODZrMUU3aC1Ga2tZ?oc=5",
-      "publishedAt": "Fri, 08 May 2026 09:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HS2M0d1BURkx2UWZuTXZlclQ3eUd0V2xrSTZwMFdDWkdocHZrNnNaZ0h5aktTS1VJbkJXaWZaaTlTZVdmLVV2ZXFEa19xZ2FZV0ww?oc=5",
+      "publishedAt": "Fri, 08 May 2026 11:26:00 GMT"
     },
     {
-      "title": "삼성전자 이어 삼성바이오도 노사 대화 진전?",
+      "title": "\"일본축구, 북중미 월드컵 4강 간다\" 브라질 축구 레전드 '확신'",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmd2htd05vUVE3d21GeXN0S280OWJ0aDl1RjZMS3h4NGZ1N3BhM0JTakxnbUI2QTRNeGFFQmN5Y21LWkZRTXFEU3pHWERwem5IeDBQZFVicGNMUUFW?oc=5",
+      "publishedAt": "Fri, 08 May 2026 11:35:00 GMT"
+    },
+    {
+      "title": "장동혁, 여의도 벗어나 전국으로…지원 반경 확대 시동",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sTVVPZUdCampKOW9VcjkwNnplM0haQmZXSV9rMVVSYWFCYXZYd05OWkVTeHRjOEwta190SDJtUjBOaUkwb2dMMEw2eFNMakYyQ0F3?oc=5",
-      "publishedAt": "Fri, 08 May 2026 09:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56SW1RbkRCQ3hvU2I4dDlBelh0cHI4WjFmLXZ6Vndua0VIMHhMTVBWamJJUGp6elN4bU5qQzd1bmY2MWlkTTY1YWh1ZmIwSWhDYlNCaWprVWJfcEJwOXcta01BR2ZNZFRfSnRFWTF3?oc=5",
+      "publishedAt": "Fri, 08 May 2026 11:35:00 GMT"
     },
     {
-      "title": "맑고 공기질 좋은 주말…큰 일교차에 강한 바람 지속",
+      "title": "박지훈, 턱시도 입은 단종오빠[★포토]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WbUtZZ1JmU2dJRnVoWTJ2QWFqeFM4dVRjLWZsQ2FXZTJIZXZnbHMycjNUd3Z3WUZTdmRiSTdZekwzeG94cEhmVVZnUHE2UXJJQmFV?oc=5",
-      "publishedAt": "Fri, 08 May 2026 09:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MaGIxeUFWaUJtc3JzcFRJNHhDZFYwanZKWkU1N1FDSzhtNEFZa2RudWJ5ZVhXd0R2enlNTFRhWmlWM3RpbklnTlcwRjFlZ1pUYm1V?oc=5",
+      "publishedAt": "Fri, 08 May 2026 11:26:00 GMT"
     },
     {
-      "title": "결국 4대 세습 위한 밑그림?...'통일' 지우고 '영토' 선 그은 북한 개헌의 의미",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94ZUtaV29WVFJLSmg3VGZGOHFxeEFfRVdIVTdmLVdvbklYZWY4WFFicVY3S2NiMnI0WEpkOFV0ODJLQU4wcG44WDZ4TjZTTXJxbHQ4dDY3MzBiZEw40gFiQVVfeXFMUEU3NlZEc0dhTXJ2R3BpbFozbFpJNVlHdkJHQ2JQMklDY0xIOGlwYjBwTDdLSWYxUDE4T3dLVktCZUtmUUtHQkxHR1RRMndVQWZsbHZOc0RGcEJ5NUh0emE0Z2c?oc=5",
-      "publishedAt": "Fri, 08 May 2026 09:33:45 GMT"
-    },
-    {
-      "title": "[다시보기] 헬로tv뉴스 전북 2026년 5월 8일",
-      "source": "LG헬로비전",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02a2l1UlpleEU1cVFBRGVTV28tbFVtRmVaUi03d0Q0dDhmLUdsN0oyR29oV3ZBbXRxdWI1eTNBOUllZjVFeVAtV1g1ZVF3TUxwX0RtanRLeU5mS2ZaRHNsMi02dTJvdzg2Ni1FR3FfcGhIN3fSAXZBVV95cUxPQThEX3RybXBCdTZaQ3VmYm4yREtoQTE5NHRsV2c5WXYwelZEMm0tWjU1NnZ2UVFRdjVNdElsbUtHTDJSaUFwVGh3Yjk0czFaZm1CVW5VVXB2UkZxaEpkN3I2QmVicEhxdzdBUnB5MjdwQXdfSzNB?oc=5",
-      "publishedAt": "Fri, 08 May 2026 09:50:08 GMT"
-    },
-    {
-      "title": "KBO, 문체부 사무검사 후 제도 개선 나서",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM0VHUm1MdWpsbVpGYW5HWFFYV3pmSVF0NjY3Sm01ZVNzLVptUk53eS1iZ0FqT2NJQjd0RVFRb29JYk52YzZzc1ljR0stV0RtY0pBc1lIa0tfVlp1d3JUWmZTdl94eW41dGFVWNIBb0FVX3lxTE8tM3NObWZmTlVGYl8teW5ZOXJpYUJtU3hNdjRkOWdObU9YT3I0d1J3V3BkTGFCWmEtUWxISzJBTEpiUGNkTDdFMy03ZE5TQWotZmRSZWROMjdMcG5kSXowZ3hJV09PRmNZN094M05LNA?oc=5",
-      "publishedAt": "Fri, 08 May 2026 09:52:17 GMT"
-    },
-    {
-      "title": "인투더던전 리본, 5월 중 서비스 시작한다",
-      "source": "게임톡",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNbFdUYjk4VTZRWXVTRjlPTmZScnZjVGZzZ0Z5ZmtMcjBYS3d3MmtjRC0zbENVSmpQZkpfY2I5MHFMWEFCRVlqOV8zR0RBZUQ5SFJRbHVQb05WM3FJQkYxRWtDRzBHb0s0UEtENA?oc=5",
-      "publishedAt": "Fri, 08 May 2026 10:12:46 GMT"
-    },
-    {
-      "title": "'떨어지고 쓰러지고' 충북 초속 19m 강풍…피해 32건",
+      "title": "현빈♥손예진, '분위기 마치 버진로드' [영상]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yendKdzMxNS1JemhaeDkzUmZ1VVFvNm5JV242T1JqZnlDNl9PZFJtcjZYd2JSbXFVb1lIRXNFZkUxWldjeW9kMmZOWWdIa1JXMTNyUGNmRUR4bXFBLVhnN0RVSHl1Qm5fb05TQU5CY1lZMEpWNENQVQ?oc=5",
-      "publishedAt": "Fri, 08 May 2026 09:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iUGt2M3RNa2VqRHJnVTNKZl9ZNHlqTWwxNVJhSVoyRDhCLW9maDRZNUR3MUJXaHBndU8tM0tENDNWYmZIOVlId0VjbmhibTUzZkRyU0RPd0lOTHlFQk9FMQ?oc=5",
+      "publishedAt": "Fri, 08 May 2026 10:48:00 GMT"
+    },
+    {
+      "title": "\"많이 통통했는데\"…'왕사남' 박지훈→'폭군의 셰프' 이채민, 신인상 쾌거[제62회 백상예술대상]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XN1VDbzBGaEE4eFFGSGZZa3J5MjlnQnJxWnNDdk5yYUhoTkhHaC1lcTRrQW5kZU1OYjhuUXkwbllQRHJSeEFqUDhoem5SY1g0djBV?oc=5",
+      "publishedAt": "Fri, 08 May 2026 11:27:00 GMT"
     }
   ],
   "sources": [
