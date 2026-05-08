@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-09T02:42:47.234701+09:00",
+  "generatedAt": "2026-05-09T03:57:07.211874+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,589.60",
-      "change": "-7.37",
-      "changePercent": "-0.01%",
-      "direction": "down",
-      "updatedAt": "2026-05-09 02:25"
+      "value": "49,600.96",
+      "change": "+3.99",
+      "changePercent": "+0.01%",
+      "direction": "up",
+      "updatedAt": "2026-05-09 03:40"
     },
     {
       "label": "S&P 500",
-      "value": "7,400.20",
-      "change": "+63.09",
-      "changePercent": "+0.86%",
+      "value": "7,393.69",
+      "change": "+56.58",
+      "changePercent": "+0.77%",
       "direction": "up",
-      "updatedAt": "2026-05-09 02:30"
+      "updatedAt": "2026-05-09 03:45"
     },
     {
       "label": "나스닥",
-      "value": "26,212.80",
-      "change": "+406.60",
-      "changePercent": "+1.58%",
+      "value": "26,196.82",
+      "change": "+390.62",
+      "changePercent": "+1.51%",
       "direction": "up",
-      "updatedAt": "2026-05-09 02:25"
+      "updatedAt": "2026-05-09 03:40"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,461.90",
-      "change": "+3.90",
-      "changePercent": "+0.27%",
+      "value": "1,462.90",
+      "change": "+4.90",
+      "changePercent": "+0.34%",
       "direction": "up",
-      "updatedAt": "2026-05-08 22:03"
+      "updatedAt": "2026-05-08 22:04"
     },
     {
       "label": "100엔/원",
-      "value": "933.23",
-      "change": "+3.86",
-      "changePercent": "+0.42%",
+      "value": "933.51",
+      "change": "+4.14",
+      "changePercent": "+0.45%",
       "direction": "up",
-      "updatedAt": "2026-05-08 22:03"
+      "updatedAt": "2026-05-08 22:04"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "9.9°C",
-        "feelsLike": "8.2°C",
+        "temperature": "9.4°C",
+        "feelsLike": "7.6°C",
         "highLow": "최고 20.4° / 최저 9.2°",
-        "humidity": "68%",
-        "wind": "2.5 m/s",
+        "humidity": "71%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "19.3 μg/m³",
-        "pm25": "18.6 μg/m³",
+        "pm10": "20.6 μg/m³",
+        "pm25": "19.9 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "25",
-        "updatedAt": "2026-05-09 02:30"
+        "airQualityIndex": "24",
+        "updatedAt": "2026-05-09 03:45"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "9.0°C",
-        "feelsLike": "7.1°C",
+        "temperature": "8.8°C",
+        "feelsLike": "6.7°C",
         "highLow": "최고 18.6° / 최저 8.7°",
         "humidity": "72%",
-        "wind": "3.6 m/s",
+        "wind": "4.9 m/s",
         "rainChance": "0%",
-        "pm10": "19.3 μg/m³",
-        "pm25": "18.6 μg/m³",
+        "pm10": "20.6 μg/m³",
+        "pm25": "19.9 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "25",
-        "updatedAt": "2026-05-09 02:30"
+        "airQualityIndex": "24",
+        "updatedAt": "2026-05-09 03:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "8.6°C",
-        "feelsLike": "6.8°C",
+        "temperature": "7.3°C",
+        "feelsLike": "4.7°C",
         "highLow": "최고 19.5° / 최저 6.4°",
-        "humidity": "75%",
-        "wind": "3.5 m/s",
+        "humidity": "79%",
+        "wind": "8.0 m/s",
         "rainChance": "0%",
-        "pm10": "19.3 μg/m³",
-        "pm25": "18.6 μg/m³",
+        "pm10": "20.6 μg/m³",
+        "pm25": "19.9 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "25",
-        "updatedAt": "2026-05-09 02:30"
+        "airQualityIndex": "24",
+        "updatedAt": "2026-05-09 03:45"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "6.0°C",
-        "feelsLike": "4.1°C",
+        "temperature": "5.4°C",
+        "feelsLike": "3.4°C",
         "highLow": "최고 21.8° / 최저 4.5°",
         "humidity": "99%",
-        "wind": "6.3 m/s",
+        "wind": "6.1 m/s",
         "rainChance": "0%",
-        "pm10": "19.2 μg/m³",
-        "pm25": "14.1 μg/m³",
+        "pm10": "20.0 μg/m³",
+        "pm25": "14.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "22",
-        "updatedAt": "2026-05-09 02:30"
+        "updatedAt": "2026-05-09 03:45"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "부광셀프주유소",
-        "address": "인천 서구 봉수대로 1623",
-        "updatedAt": "2026-05-05 07:39:03",
+        "stationName": "(주)자연에너지 금곡주유소",
+        "address": "인천 서구 봉수대로 1491 (금곡동)",
+        "updatedAt": "2026-05-08 18:00:04",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,52 +376,52 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "트럼프 대통령, 백악관 연설에서 이란 전쟁 언급 안 해",
+      "title": "트럼프, 백악관과 '정책 마찰' FDA 국장 경질 수순",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDRlVlMko2a05tQ3JRVXpiMFZEMGRMT0JCaXZPVElMamN4Q0xINENuUENlZFNJc2pOVTNRcFNNV25ocXd3VDlOT1VZMjNEc0V1X3Fv?oc=5",
-      "publishedAt": "Fri, 08 May 2026 17:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtLUpHVDRDdEM4R3BwSzU3V19qOE5qUUY5cl9ENUtWaUR1Mkc2MXlJc3EyaV9nRzlWbzRjdGQzWVdzSkhRQ19URklkeXpnQnUyNjQxNXpUWVFGXzVMWXI3bEFfOE9OY0pFSzV5a1VUVVliY01FTkdEaw?oc=5",
+      "publishedAt": "Fri, 08 May 2026 18:39:00 GMT"
     },
     {
-      "title": "크런치롤 최초의 애니메이션 미래 포럼이 뉴욕에서 일본과 할리우드를 하나로 모읍니다",
-      "source": "Animation Magazine",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU5JMm1abF9rd0hRM0F1OVhTSk9tR2dZZU9fMjhWZnJ0N3NpY2xWbWV0VHJaeWhQeFROajlDb0VLUWZEV1ppLUMxRnVOUENKT3IxbEg5X3plMmc0d1RBZURBQkJVSlZ4QTRodWpuSXJFQlpxalRiNU55ZG5Zd3hiWWt0TmpnZWhXWDBXNDhYRWxsSUVkUGdwbEtHYUpObXgyRzJrUklxSFRNbkJSTjJlSEt1cEFTX1hQUmpmUmVB?oc=5",
-      "publishedAt": "Fri, 08 May 2026 16:53:25 GMT"
+      "title": "[뉴스특보] 트럼프 백악관 연설…이란 언급 가능성 주목",
+      "source": "연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTSUZILURUeThuMGR3MmpsUkZfY3dJYV9hMWRuTTUtSnRMZlk4QkRMWHhYdjVDVVl0Qnl6R09EZkxxWW9lQ2MwRmowMEliT0pId0tyZ1NFOFd4eG02ZTNVbGVoekQ1LWU1VWVaT0RhVXdJemc0?oc=5",
+      "publishedAt": "Fri, 08 May 2026 18:28:04 GMT"
     },
     {
-      "title": "부산시설공단, 시민참여 SNS 이벤트…5월의 순간을 담다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LTm5sbktQVmNFVnR5M0k5WVhnQ2gzb1BRX1Z1TXRObWp4enpfVU9NUDVoRi1mRWhJX2lOcFBmQTFyejRvQW9tRzVSTXJNTEFXZ1NYV2hKdklfMjRuX2pTNmpsOGM3X3dCN3c?oc=5",
-      "publishedAt": "Fri, 08 May 2026 17:01:00 GMT"
+      "title": "故 이한동 총리 서거 5주기 추모식…“통합과 협치의 거목 추앙”",
+      "source": "케이트렌디뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80S1I2Xzd0SWJWS2xOb1FRbVVoVEQ4dmFmOUczNGo4YUxtR2NFNlB1b1RqN2dQRlFhZTlWVFVVMDdIcTEtdWpucy1WRmd1M1JMTjJQTXlYUGZycFBvVnZuc2hmN3ktcHlRTTNuenRuTQ?oc=5",
+      "publishedAt": "Fri, 08 May 2026 18:43:51 GMT"
     },
     {
-      "title": "5월 수박, 4월 복숭아…더위 먹어 '철없는 과일'",
+      "title": "13승 외인+국대 좌완 동시 컴백! KBO 유일 6선발 로테이션 개봉 임박, 'ERA 리그 2위' LG 마운드 더 높아진다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zVFVzUUhkY2U0d0YyRVZDZm13aXFObGV5OXpPSTFaUnVkc3NudXZWTHFRLVBCQUZmUXZJUVgwRm5HQVo5UG82dldCNzRYRWFuX01Ta1hWV0c4b05saEVxSQ?oc=5",
-      "publishedAt": "Fri, 08 May 2026 16:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyV1o3NEZlR25qRmlRMGVWazFVVlFWR1A5VUd3Z3NWZVMyZ0NWM2kweXRJRFRIaVZpdWZMem9SQ1E3UFdTQVh5ajNZRjNfZ1h5X1JGTUE0X0NrSE9MNWp1SDgyejJ3b1RwaEE?oc=5",
+      "publishedAt": "Fri, 08 May 2026 18:21:00 GMT"
     },
     {
-      "title": "'15년 만에 재개장' 유니클로 롯데백화점 광복점, 8일 리뉴얼 오픈",
+      "title": "전현무, 펀런 '1㎞ 26분'에 완주 \"지렁이보다 느린 것 같아\" 폭소",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkeHB2eEUxRTVjSU96cWY4RW9pYmVzQ09jd2x5V3kyMjFkWkpzMHB0aTBrVnRFbWpZQnVLVDFRWDZmQnk3MkVZT21yUkZjZ0c0NXJ0RnBfRkc1RXpJNUNGLQ?oc=5",
-      "publishedAt": "Fri, 08 May 2026 16:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVk1wWTRTYUk1QVNPdjZNXzJvWlZMWnVUMmFoQU43QjZSSmM2QUZ0RG9XNUZQa3pjYmpVQTdsckFGMEh3YnMxanJhbmRQX3EycEpMMmtMbHh0UzBjbHRKNA?oc=5",
+      "publishedAt": "Fri, 08 May 2026 18:30:00 GMT"
     },
     {
-      "title": "CrazAngel(크레이즈엔젤), 미니 1집 타이틀곡 'Picasso' 안무 스포일러→팬들 위한 깜짝 선물 예고",
+      "title": "'나혼산' 전현무, 갑자기 욕설에 묵음 처리 \"나 자신에게 한 것\" 해명",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yMU1sNGdCb0kwZkFXS0hQTy1tdWZDZ1Fiam9iaGxmQlpOY1ZpekkyV0ZXdlpyQU11ZmRNNDdVS1FKOFpwRWlIdEtEVG4yY2pPa0lkdlBPX3dZOHBFYVBQdzBWNVFvLVNoNGZjV2t1NklnNDN3MkY3Rg?oc=5",
-      "publishedAt": "Fri, 08 May 2026 17:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuczNXY3M2Nk01S1F1QzEyMDFLYkhnSUJqYUJMVlk2U21FVnJMME5qaHBpb2tYRXVGeVpaZ1BIYkJkTHA2cVBua2hNdjZQTkpYMzc4?oc=5",
+      "publishedAt": "Fri, 08 May 2026 18:07:00 GMT"
     },
     {
-      "title": "보훈부, '2026 국외 보훈사적지 청소년 답사단' 9일 발대식 개최",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYWmdSd2ZGbk9JWFFJaEppUjBkN3IyUDB4elNJNWJMcmtud2ZES2l4bExfVlpUWlFwMjdzaXRIQkQ2bVdYY2c5djkwMUpzSlJjWTFv?oc=5",
-      "publishedAt": "Fri, 08 May 2026 16:49:00 GMT"
+      "title": "간헐적 단식, 고령층 건강에 도움될까?",
+      "source": "한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qdTdDQ1NnQm1vazZ6dmZINGk1RmxWdFdxSENkN0NhMkhOQUNNN3d0WlhuQXRGVVBBQVJjd1RSTFJPM0c1enlBZjhCT0I?oc=5",
+      "publishedAt": "Fri, 08 May 2026 18:35:01 GMT"
     },
     {
-      "title": "'와' 쳤다 하면 홈런-홈런-홈런-홈런! KBO 최초 역사였다! 7300만원 KIA 단기 알바, 15억원 ML 외인 쫓아내나",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zUGpzNkJfUWJvLS1NQmZqU0ZCUTYxT3RiX296MkhsQUFLQV8za3Y5dW1nSDNvcEIyNHBXLU1hQWZuWV92Vzd1ZFkydE5SOFFaTVZod2xPVm1tRG5PZFd3MGIzWllqUlJUOGc?oc=5",
-      "publishedAt": "Fri, 08 May 2026 16:44:00 GMT"
+      "title": "소니는 플레이스테이션 6의 출시일과 가격을 발표했습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW1iVlBPMU5hd1lHNkdzQVZDY1VpaWNlOWZVN3ZRRUlEYlozdUNzbnRqWVRzcVFzYWtnTG5DWUdOZnJMd0NoSU9ST2wwOEtBdWgwQWpmSWZZQVJTTnVoZVktSUJBUEVxbXRsVW53aGhOV0VHZjBhTThJWG8tamE3d1RUSlB6N1ZEeEtvOUVmU19HNl9MUVhqMDVn?oc=5",
+      "publishedAt": "Fri, 08 May 2026 17:47:04 GMT"
     },
     {
       "title": "美 5월 미시간대 소비심리 48.2·전망 하회…기대 인플레는 둔화(상보)",
@@ -430,10 +430,10 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Fri, 08 May 2026 16:24:42 GMT"
     },
     {
-      "title": "호르무즈 교전 뒤 이란 “압력에 굴복 없다”…미국 “8일 답 기대”",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmpON2ZpdFMzaDBWT3RqVVZ3MnlqbzZNZTVQX193d1NqRk81UFRINU1TY1pjR0R4NGlYNHZlUFJPekYxdjhpQmVPbXB6Q1MzRUVjSUdzUE16dkppWTI5QWYtMk5tY2pQdlNnWGlCT0IxY0ZnTldxUGRYd3o5TktQUm5n?oc=5",
-      "publishedAt": "Fri, 08 May 2026 16:09:00 GMT"
+      "title": "국민연금, '주식 대박'에 돈 쓸어담았는데…경고 나온 이유",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41WEdrNkQ2OFJ4MkxmR1F3VVdtYkk1NlZXUnV0QWZBNHVReTRGQThMT09WM054M3FUYU1YYU5LaWNCanhSMFI5UEpNdXJJUUZLc3Qxc0htU2hXQdIBVEFVX3lxTE9od0FQamJPZ2U5SUJnR0lwTGd3Y194MEhFVmpGTWdJVmFmLXJ4M2FqTkNpdFZnbVJESlBsd2swWWdBekFwZDhJQ2VTaExDQmFIajdhYw?oc=5",
+      "publishedAt": "Fri, 08 May 2026 16:22:00 GMT"
     }
   ],
   "sources": [
