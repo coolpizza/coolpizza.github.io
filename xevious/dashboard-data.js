@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-08T23:54:56.661339+09:00",
+  "generatedAt": "2026-05-09T01:06:36.766219+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,113 +22,113 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,672.39",
-      "change": "+75.42",
-      "changePercent": "+0.15%",
+      "value": "49,639.88",
+      "change": "+42.91",
+      "changePercent": "+0.09%",
       "direction": "up",
-      "updatedAt": "2026-05-08 23:34"
+      "updatedAt": "2026-05-09 00:49"
     },
     {
       "label": "S&P 500",
-      "value": "7,390.43",
-      "change": "+53.32",
-      "changePercent": "+0.73%",
+      "value": "7,393.36",
+      "change": "+56.25",
+      "changePercent": "+0.77%",
       "direction": "up",
-      "updatedAt": "2026-05-08 23:39"
+      "updatedAt": "2026-05-09 00:54"
     },
     {
       "label": "나스닥",
-      "value": "26,105.37",
-      "change": "+299.17",
-      "changePercent": "+1.16%",
+      "value": "26,161.50",
+      "change": "+355.30",
+      "changePercent": "+1.38%",
       "direction": "up",
-      "updatedAt": "2026-05-08 23:34"
+      "updatedAt": "2026-05-09 00:49"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,463.30",
-      "change": "+5.30",
-      "changePercent": "+0.36%",
+      "value": "1,461.40",
+      "change": "+3.40",
+      "changePercent": "+0.23%",
       "direction": "up",
-      "updatedAt": "2026-05-08 22:01"
+      "updatedAt": "2026-05-08 22:02"
     },
     {
       "label": "100엔/원",
-      "value": "934.60",
-      "change": "+5.23",
-      "changePercent": "+0.56%",
+      "value": "932.97",
+      "change": "+3.60",
+      "changePercent": "+0.39%",
       "direction": "up",
-      "updatedAt": "2026-05-08 22:01"
+      "updatedAt": "2026-05-08 22:02"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "대체로 맑음",
-        "temperature": "12.1°C",
-        "feelsLike": "9.8°C",
-        "highLow": "최고 19.2° / 최저 9.6°",
-        "humidity": "56%",
-        "wind": "5.0 m/s",
-        "rainChance": "6%",
-        "pm10": "16.6 μg/m³",
-        "pm25": "16.1 μg/m³",
+        "summary": "흐림",
+        "temperature": "11.2°C",
+        "feelsLike": "9.1°C",
+        "highLow": "최고 20.3° / 최저 9.6°",
+        "humidity": "60%",
+        "wind": "4.1 m/s",
+        "rainChance": "0%",
+        "pm10": "17.9 μg/m³",
+        "pm25": "17.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-08 23:45"
+        "airQualityIndex": "25",
+        "updatedAt": "2026-05-09 01:00"
       },
       {
         "location": "김포",
-        "summary": "대체로 맑음",
-        "temperature": "9.6°C",
-        "feelsLike": "7.4°C",
-        "highLow": "최고 19.5° / 최저 9.4°",
-        "humidity": "77%",
-        "wind": "8.2 m/s",
-        "rainChance": "22%",
-        "pm10": "16.6 μg/m³",
-        "pm25": "16.1 μg/m³",
+        "summary": "흐림",
+        "temperature": "8.9°C",
+        "feelsLike": "6.7°C",
+        "highLow": "최고 18.5° / 최저 8.5°",
+        "humidity": "78%",
+        "wind": "7.4 m/s",
+        "rainChance": "0%",
+        "pm10": "17.9 μg/m³",
+        "pm25": "17.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-08 23:45"
+        "airQualityIndex": "25",
+        "updatedAt": "2026-05-09 01:00"
       },
       {
         "location": "파주",
-        "summary": "대체로 맑음",
-        "temperature": "9.6°C",
-        "feelsLike": "7.3°C",
-        "highLow": "최고 19.0° / 최저 8.7°",
-        "humidity": "74%",
-        "wind": "7.5 m/s",
-        "rainChance": "27%",
-        "pm10": "16.6 μg/m³",
-        "pm25": "16.1 μg/m³",
+        "summary": "약간 흐림",
+        "temperature": "9.4°C",
+        "feelsLike": "7.6°C",
+        "highLow": "최고 19.4° / 최저 6.5°",
+        "humidity": "72%",
+        "wind": "3.4 m/s",
+        "rainChance": "0%",
+        "pm10": "17.9 μg/m³",
+        "pm25": "17.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-08 23:45"
+        "airQualityIndex": "25",
+        "updatedAt": "2026-05-09 01:00"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
-        "temperature": "7.9°C",
-        "feelsLike": "6.1°C",
-        "highLow": "최고 18.9° / 최저 8.5°",
-        "humidity": "92%",
-        "wind": "7.2 m/s",
-        "rainChance": "78%",
-        "pm10": "15.5 μg/m³",
-        "pm25": "11.1 μg/m³",
+        "summary": "흐림",
+        "temperature": "7.2°C",
+        "feelsLike": "5.4°C",
+        "highLow": "최고 21.6° / 최저 4.9°",
+        "humidity": "96%",
+        "wind": "6.1 m/s",
+        "rainChance": "0%",
+        "pm10": "18.2 μg/m³",
+        "pm25": "13.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "24",
-        "updatedAt": "2026-05-08 23:45"
+        "airQualityIndex": "23",
+        "updatedAt": "2026-05-09 01:00"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 5월 8일 (금)",
+    "todayLabel": "2026년 5월 9일 (토)",
     "areas": [
       {
         "region": "서울",
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "금광주유소",
-        "address": "인천 서구 중봉대로 1593 (금곡동)",
-        "updatedAt": "2026-05-04 10:16:39",
+        "stationName": "(주)자연에너지 금곡주유소",
+        "address": "인천 서구 봉수대로 1491 (금곡동)",
+        "updatedAt": "2026-05-08 18:00:04",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "'펀런 크루' 전현무, 오르막길 러닝 중 위기…\"힘들면 갈등 생겨\"[나혼산]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54ZkNtSjJNaWNwYUd4WlB5SGxNZDVJckh4V2hzTzBIWFRvQ2wzUkxWVUhyUkl4V3hWVVVDdGI5UFdKQ0ZNbG43NFQ4eXlwWFI3YWRRSFEwZzZoZnVmTGpFbUhCN2oyWnIyd3F5VDBFUWNIMHk3NXo4Wg?oc=5",
-      "publishedAt": "Fri, 08 May 2026 14:42:00 GMT"
-    },
-    {
-      "title": "2026년 5월 8일 베트남 경제 뉴스 주요 내용",
+      "title": "2026년 5월 8일 세계 경제 뉴스 주요 내용",
       "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01T2hKWXJYM3NubG9VeFFrVW8zTXZjOHBDX2wyUGwzdWZIOWo0N2VrdjBlS3NkZUN0M1pLX2JHVy1QVEtLZFhxZXFUWXNZS0QxWnlxeU9UN19UUE9KUkptdnNKakwwQnhnQ1dpdGlSSmcybHk1aVdMOXNscE8wUQ?oc=5",
-      "publishedAt": "Fri, 08 May 2026 14:16:54 GMT"
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WVThnZU1XelFjUUhCandUaENOcFlnZW53UjYxejRtdW1pYmNsSWlDdFpUSENnZk8xeFFLM1QxQzlyYS1VZE82MFFoRjVtNC1vVXBjeUwwcG5vTzZIbEY5NWZiQW5mTjhWX3d0LWpUZkI4Vk50eWJndGN5LTdjUQ?oc=5",
+      "publishedAt": "Fri, 08 May 2026 15:51:52 GMT"
     },
     {
-      "title": "김용남 \"조국과 단일화 없어…범죄 알레르기성 반감\"",
+      "title": "KLM 네덜란드 항공, 항공권 할인 프로모션 실시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55eWRaOUdRLXFSVHh5REkwTTFncmxmcnBzOWczbGpMMExzMDB4MUFUWHdmd3BGdkF1Z1ItbU45bVN1aW85SWpETmRsdHRoZ1J3eWs0?oc=5",
-      "publishedAt": "Fri, 08 May 2026 14:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OU3EtWWFSZlhhcUhsQnZYYWVuQzZlbnRPU2VpRE9NU2MyRFA4LTIzOGNOWWRGUFVUR3BGd3VrRHJZbnJYaEtqOHYxUS1zWVhZaXFhejZ2MXQ5THFERHl2RXhHZ3VHbEM4Y29WRTlscXR1T05qNzktOQ?oc=5",
+      "publishedAt": "Fri, 08 May 2026 16:01:00 GMT"
     },
     {
-      "title": "친한계 전원 '한동훈 개소식' 불참하기로 결정",
+      "title": "日 다카이치, 19일 안동 방문 추진",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZVUdyZkhWTHFfejh5RjNocno1ckxSNnBYZ3JfQVpGZGE4NjhBd2RaRFJXR0hZS0NEMHpjaUVSbjNrR3NmWDVZSkl2TW1kYlhucmxR?oc=5",
-      "publishedAt": "Fri, 08 May 2026 14:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IZTRYUGJzcDA1MGRQM0Y2V3o1b0pwYmRvWkt3cmJURUE4QXNvZC15OElLcUNMUVE0eTJKSTlLQVlhOTFRYnVqdF9vR0JyVGRudzY4?oc=5",
+      "publishedAt": "Fri, 08 May 2026 15:51:00 GMT"
     },
     {
-      "title": "국힘, 경북 안동시장 후보에 권기창 현 시장 확정",
+      "title": "민주 한병도 \"국힘, 개헌 정략적 활용…필버법 개정 검토\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZHBLQ0ZaTTdxV1FFWDVYNm1iSTFiTmtRZG5jZ21hejlSTERfWk5nSGU3RVQwV0JzY0ZrSEpLOHhoUHFPRC01NUVrUU1hRFpyclpqTjF4dXUxMVJsd2o3bg?oc=5",
-      "publishedAt": "Fri, 08 May 2026 14:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WTjVwWWk0bXJhVHVHWTlLRkNQUDlpMUFfNTVKWExHcF9rTXpJZHZwTkowaVl4bXVMdUlDdWZYM1NyS1pZRnpRcTRsQUV4cmNlZzYw?oc=5",
+      "publishedAt": "Fri, 08 May 2026 15:24:00 GMT"
     },
     {
-      "title": "'최우수상' 현빈, 사진 찍는 ♥손예진 향해 \"사랑해\"[제62회 백상예술대상]",
+      "title": "야노시호 \"추성훈, 시父 돌아가신 후 변화…모든 것 받아들여\"[편스토랑][★밤TView]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VQ2RkMmhQREUzT0VxNkEzWjBNMUZWU19BZnRvYl9HRm1rSTNfZWVUTEx2MUgxR3NFY0pUekpsYkIwUkk3UVpHTE1ER2cyXzdodGE0?oc=5",
-      "publishedAt": "Fri, 08 May 2026 14:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xeVFZbVg5Sm44Zy1PS3J3Y0RfRmZvaXVMbWUyN0tBRGVES1dXa3kxN3FBYTVFRkFDeWl4QTd2aFc3Y1c3UlFxdXJfVWQxT1Blbm1nWUJpV2dDbFdvZGgwLQ?oc=5",
+      "publishedAt": "Fri, 08 May 2026 15:47:00 GMT"
     },
     {
-      "title": "해외 IB, 올해 한국경제성장률 2.4% 전망…한달만에 0.3%P 상향",
-      "source": "부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tY0hlbV9MdmFvUkVjYkxQTTdtYUxBNWQwdnE5ZkNsQ0k1WjZ3TDQ0REc2bzRwNHJicWRVcGRzdkRBY1I4VXpMclNremxEYVEzd3c0c3dPNnIzOWNyUWRDa1RpNTk4RzZWeVZqLVBwQUlJNzhP?oc=5",
-      "publishedAt": "Fri, 08 May 2026 14:04:55 GMT"
-    },
-    {
-      "title": "다리 만지고 어린이 추격…원숭이 습격에 일본 주민들 '공포'",
+      "title": "전현무 \"가슴털 빼고 전부 왁싱…내 트레이드마크=섹시함\"[나혼산][★밤TView]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fVzRydjJRQUl2bWp3UWpFQWZEd3p0SG5hRHlpdXZ4d05QU2xvUDZtX0QtV0x1Q3hIN2t0YnpkU085UXk0MUF2dXdrdk9zNkhvbFg0?oc=5",
-      "publishedAt": "Fri, 08 May 2026 14:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYVXltX1czWDNKd3FmSUpuRXU1SE1CY2J5T2FRYlA2RGpmTnpHbHlxSG40SmpGNUljU0l3U2JqQXBBZVRvbURjdkdpSWhhSExxZ19tQ3F6VUhGTXJZTnN3Xw?oc=5",
+      "publishedAt": "Fri, 08 May 2026 16:00:00 GMT"
     },
     {
-      "title": "[S포토] 박지현, '매력'",
-      "source": "스타데일리뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jSlBwN2dhUmJ6bm1GWTE3Qkd6dXlqVkZGc2h1YnFGa0JpZjBNTjVHMGtsbm1wbFFnc2VKZjZqemtUZGFvcEFCeWFhSHotR1lvNENIWUVrc3RDZDFjLUFUdmFPeUJ6ZVNLekhPZ1ZwQTZqRFlQ0gF4QVVfeXFMTzZGQTRKaUwwV2c3aGdpN0tvUEFnSS1idE4yN2ZhNWRtZVlzYXdjVWQtY3JiVXBwaGswMkhSYnFBQTd0WmViZ3FTVDRmd1BzNmhoV2NWZGxXbGRBNnpKWXBTS0VVbG9qRVdNT2s4RFpaU21nNEpCNkZS?oc=5",
-      "publishedAt": "Fri, 08 May 2026 14:18:37 GMT"
+      "title": "[골프청사진] 티샷하는 성해인(A), 2026 NH투자증권 레이디스 챔피언십 대회 출전",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmOUU1akpuUl9kQmpZWWstQV90S3BSQ0V3Q2VSV3hDcGMwQmh6R2p1Qnp5N0tTUVFnMzJmeld6RFpJbm05SHJHRU45Q3h2elFhcHFkLXhhSXJULTVLcFdONmFvbWVxenNTS2c?oc=5",
+      "publishedAt": "Fri, 08 May 2026 15:47:00 GMT"
     },
     {
-      "title": "'작품상' 박찬욱 \"베니스·아카데미 수상 못한 감독이지만…믿어달라\"[제62회 백상예술대상]",
+      "title": "K-팝+K-웹툰=KOMCA, 한국만화영상진흥원 진흥원과 맞손…융합콘텐츠↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13UUZsd0p1M2QtNEY3Wm14V1A4QXpFVVpzWWJSQi1oYmUxR0dINkdOUnVCZzU1Zk1xNnlmazRXOW5KVnZRV0xNZHNva1JCYUlONExF?oc=5",
-      "publishedAt": "Fri, 08 May 2026 13:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GMVp0RGZLblFSdk1QMUhvRVo2dlBybTJ1cVNlTFRKc25UOUQzNGgwMEs1cW5uaXFRYzhaeERRaVpLLVVPVXQ0ZGRyRDRQQmVIOVo2OVAta2VBMWdic0tpYmE2WTYwdlZvRE1WQWhUWDA3djhHNnU5RQ?oc=5",
+      "publishedAt": "Fri, 08 May 2026 15:49:00 GMT"
+    },
+    {
+      "title": "6.3 지방선거 앞 전북 흔드는 행정 불신론",
+      "source": "뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sZE5wNldHdDE2UGIydTdIMzk1QVZlVjRTRU8wSlBQNFRISlpNWUtkS3lzZU5PZ1pleDg3a2ZnbUk0OWZRRWJDZlRwdklBenlfa0p6R3lJbmVqd3FMZDRrbGhTWjB6VWhwY0FRM1ZwYjBlem_SAXdBVV95cUxNMmgwdEExNjVxVjM5amlBX0lzeFpXWDZBeGRMMDQyWG15QWE4bFE5RUZDQlY0NmpSd3k4Ym1ycFNGZGtjR2YyaWRhaE9pZEdFUWNtYTU2XzBoZWlVS19ZSGRFTWNGVVo2X0xJTllTRGp0VHRQTU9IMA?oc=5",
+      "publishedAt": "Fri, 08 May 2026 15:50:57 GMT"
+    },
+    {
+      "title": "국민의힘 \"여야 합의 없던 독재 개헌…반민주의 길\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzYWcwYmFVVW0xeXhzTkU1enJ2XzJmalhJelQwQklscVdJaDdvMkZWZUxCLVdrdHhUM0d0TXBHVEE2bEY4YjlsZi1QQTJ6d05zdlFB?oc=5",
+      "publishedAt": "Fri, 08 May 2026 15:24:00 GMT"
     }
   ],
   "sources": [
