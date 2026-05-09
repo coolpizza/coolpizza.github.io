@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T17:09:45.921717+09:00",
+  "generatedAt": "2026-05-09T18:46:29.427715+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "17.8°C",
-        "feelsLike": "15.5°C",
+        "temperature": "16.7°C",
+        "feelsLike": "14.7°C",
         "highLow": "최고 20.2° / 최저 8.5°",
-        "humidity": "39%",
-        "wind": "5.8 m/s",
+        "humidity": "42%",
+        "wind": "3.6 m/s",
         "rainChance": "0%",
-        "pm10": "9.4 μg/m³",
-        "pm25": "9.2 μg/m³",
+        "pm10": "10.7 μg/m³",
+        "pm25": "10.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-05-09 17:00"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-05-09 18:30"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "15.8°C",
-        "feelsLike": "13.8°C",
+        "temperature": "14.5°C",
+        "feelsLike": "13.2°C",
         "highLow": "최고 18.5° / 최저 7.3°",
-        "humidity": "57%",
-        "wind": "8.9 m/s",
+        "humidity": "64%",
+        "wind": "5.5 m/s",
         "rainChance": "0%",
-        "pm10": "9.4 μg/m³",
-        "pm25": "9.2 μg/m³",
+        "pm10": "10.7 μg/m³",
+        "pm25": "10.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-05-09 17:00"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-05-09 18:30"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "16.5°C",
-        "feelsLike": "14.0°C",
+        "temperature": "15.2°C",
+        "feelsLike": "13.4°C",
         "highLow": "최고 19.1° / 최저 6.2°",
-        "humidity": "45%",
-        "wind": "8.2 m/s",
+        "humidity": "53%",
+        "wind": "5.4 m/s",
         "rainChance": "0%",
-        "pm10": "9.4 μg/m³",
-        "pm25": "9.2 μg/m³",
+        "pm10": "10.7 μg/m³",
+        "pm25": "10.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-05-09 17:00"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-05-09 18:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "18.8°C",
-        "feelsLike": "16.0°C",
+        "temperature": "16.3°C",
+        "feelsLike": "14.0°C",
         "highLow": "최고 21.6° / 최저 4.3°",
-        "humidity": "46%",
-        "wind": "14.1 m/s",
+        "humidity": "50%",
+        "wind": "9.0 m/s",
         "rainChance": "0%",
-        "pm10": "6.5 μg/m³",
-        "pm25": "6.3 μg/m³",
+        "pm10": "6.7 μg/m³",
+        "pm25": "6.5 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-05-09 17:00"
+        "airQualityIndex": "51",
+        "updatedAt": "2026-05-09 18:30"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)디오티디 인천랍스터주유소",
-        "address": "인천 서구 봉수대로 1543 (금곡동)",
-        "updatedAt": "2026-05-09 10:59:46",
+        "stationName": "부광셀프주유소",
+        "address": "인천 서구 봉수대로 1623",
+        "updatedAt": "2026-05-05 07:39:03",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "이번주 국내 주요 금융일정(5.11~5.17)",
+      "title": "이란전 해운 차질에도…中 4월 수출 14.1% 반등",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CTUxPbWV1dEFBaEYxdkNpUlIzV3kxVXlTdmZIbHV4N1daRGhnVFI0R29Cdzh2Y2U0c3Y5VHc5MHJxRlB2VHhad25vUFVXaWtENXg0RTRfN0RCVmZwWkE?oc=5",
+      "publishedAt": "Sat, 09 May 2026 08:46:45 GMT"
+    },
+    {
+      "title": "대구 시민들과 인사하는 추경호 후보",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xdGpQVE12WEg0S2J3UEFQdWExYkZ6UnlMS0RHOTNiaGFXNXEyS2lvZlZiT19iUFJ0VWdlMkh2RHJCUDhNdEtIZzBTSVdTak9RNFZKLV9CUlVpZWRGRUFUTQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 08:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wT2lEZElJUEdkSVFJT2t1T2FNZm92eUFmOWZuR3VTTzJ1MVJBUV9qbXgxSWdMQjhHMmlkczF6dXRqYXB1VW1MRk45UUhoYmd2bTJN?oc=5",
+      "publishedAt": "Sat, 09 May 2026 09:02:00 GMT"
     },
     {
-      "title": "日언론 \"한일 정상회담 19일 안동 개최 조율 중\"",
-      "source": "한스경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VanpWYVNKVFF4YW1vZzczUWdoQldxclk1a21Hc0xsTTd2Tk9mcnJPbW9xT0lDanplVlZiV255VzFkT1p3MDh1eTh2a3pfZmNMQWJhZXJwamxwT3RVUGpVMUp4NC1ydHRoRDZR?oc=5",
-      "publishedAt": "Sat, 09 May 2026 07:10:00 GMT"
-    },
-    {
-      "title": "포항 부처님오신날 시민 소통문화제",
+      "title": "브레이크 고장 과적 화물차로 사망 사고…징역형 유예",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zNDdEVHRMdTloTWlzRmY5XzU0RGVROWU2R0ZJbjg1UkRhV1ItRTl1dFdOQ1BONFpnWEdIV2FUcnZHMmh5TDc2VFdLVExtS0tlTVJmb0Y1QV8wdFdWd0doWEZXdXZrNHRLWUE?oc=5",
-      "publishedAt": "Sat, 09 May 2026 07:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VUzQ1TUx0MGkxOWhVOTE4NFF3VjNwRUhqMHR6eVIxal9tOG9WYVRHOFpwNkdSUXFZckZPVmtld2xfYnhrVldrU1J2OXphTm5qd3dN?oc=5",
+      "publishedAt": "Sat, 09 May 2026 09:03:00 GMT"
     },
     {
-      "title": "미국 고용시장 '정체 상태'…\"청년들만 더 어려워졌다\"",
+      "title": "블랙핑크 리사, 2026 북중미 월드컵 개막식 무대 선다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QenZnMXN1MjU1eThGWnFzOXA5cWk1Mmg5MW5hSEJuVThHTHpwN25Scy1mbmh0b3VORjdjWEZINDhfM1FoLTFGM0FwdnRGS0tETXdZ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 07:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hZW1ZT3V0U3RLa0Y3UG9lMFRwdHF0MXdGaXNOS0RIVzFpTDYyUk5ObUk0ZGI1OWtObWIwQnJLLXhwYUVNdVlfNHQzcU9YcGRWWlZV?oc=5",
+      "publishedAt": "Sat, 09 May 2026 09:11:07 GMT"
     },
     {
-      "title": "\"붓기 싹 빠졌어요\" 최현석 딸 최연수, 득남 이후 모습 보니[스타이슈]",
+      "title": "자유총연맹 대전시지부, 보문산 환경 정화 봉사활동",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBndlR1VXdfTElKc1hmYWFBSkZKSVFvQW1jTU9TZ09aUjJCb3lWU1RIVGVtYTcwSk4wbG1TMEx0cUFSZHJVYWNKd1BvZlo1eVVjYV9WZFhpQ0lfSkFNYW45MDRzRDhETmNqODRpdkVKLU83aGV6SXd2MQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 07:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BQzhGZ3Y4cXl6cUphb3REM0NOSjNJUDZJY2FFRTg2X0dkRVJ5czVraTk1bmJWZE9SMWpYc3VVWkxmOVAya0VYUmtfbkFtN2lxcTU4?oc=5",
+      "publishedAt": "Sat, 09 May 2026 08:52:00 GMT"
     },
     {
-      "title": "흔들리는 선두 서울, 제주에 1-2 패배…3경기 연속 무승",
+      "title": "\"알칼라인 전해조 특허 패권, 日 50%→中 52% 대역전\"... 그린수소 핵심장비, 한국 ‘실증형’에서 글로벌 권리·표준 경쟁 시험대",
+      "source": "특허뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Ib0JKYlhlTk5jaXJXdU1EdFhRS1N6MTJsNmd5TENMWklqR09lSFp5aFFHNWxJcHZCTzdwdklBOTBMaE44eVVzbQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 09:13:00 GMT"
+    },
+    {
+      "title": "[현장]난지공원 채운 치킨과 떼창…bhc '별하나페스티벌'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBleFA1ZmxsTV8yZUxmSF9pUW1US1dpd2oyTmE1UHFlbEFQVXdVZmhfVnByQkZLNmJETmdDMThlZ2J1YVhsWnVhWnI4OWcyTmV0Vy1rRG00YS1UNUR5cFU3RVVtYXF5WDNLUUhzaC00UHZjOXpiMXZ0Sg?oc=5",
-      "publishedAt": "Sat, 09 May 2026 07:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IYUdqYkRHbHhwODF2VDhfdUZWWjBlaGdESE94N3BtZlRXZm1rMDFyVzdpUDU2ZE1TWEs4ZXN4cHBVdEVXV3JyWm1NT2V4UWRxQUhEUmR4RkMyaFpnQ1VJdDU4alpyYnpVS1dEcDREX3E2aWNPaFJ0dQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 09:42:00 GMT"
     },
     {
-      "title": "마이클 버리 “AI 열풍, 2000년 닷컴버블 말기 연상”",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmZ0pMMERUX0xsSHhZeGhGc3gwRFBaaG9jRHNMRkp2WGF5NVNJRm90eE5xcVd1NWhDRG5NN1FRSzRYSnFBUEJLeDNWNzhIR2Q1VVRyQTJBOEM5UFhfUDVFMTdvWklkU3Fy?oc=5",
-      "publishedAt": "Sat, 09 May 2026 07:15:00 GMT"
+      "title": "정원오 “용산 개발 오세훈식 안돼”…오세훈 “개발 지연 민주당 책임”",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVXU4MTRlVDFwRVhCeHFWODJQb1ctM1JjSHMwRll6QWg5WXpGaVk1bHZvcUh2U2lIUlI5M1ZWczlTbFBveHhLT0ZBQmQzcWpDWFozNG05MU5pcEl2Rno5RUZ2MlUzc2pwa2pCX3BNTmh1OXhoQXV4RE5IaUZPVUh0MFFITdIBY0FVX3lxTFBnSm8yclVRXzVkU09yeWdtZ2RaRHhwM1dqQURIRTFIMXB1VnhvbnBDS0FyVjdPVGJ6UUUzQmJYdHdpWTVvaU4yR1JUcGFqY1NaNkNsczZCaVd0Z19MT2lFYUVDVQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 09:17:00 GMT"
     },
     {
-      "title": "트럼프 방중 앞두고 기선 제압?…미국, '이란 지원' 중국기업 등 10곳 제재",
+      "title": "강원서 산악사고 2건 발생, 등산객 헬기 이송…생명 지장없어",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zVk42NmVNMHpCeFVUend5RVJnUXF4WERHanEweldUY1VaRnd2elIzUFkzR0xza21YX2NpdHZPb3ZKdDhjdW85cUZWOEQ0X0JnWU9KU1FTSmlLdkhoWXdtUVhuQTNBNUMweHc?oc=5",
-      "publishedAt": "Sat, 09 May 2026 07:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VYXllU25nUEx2a01Ec1MxbDhGazNHME52VlZoNmN4YkN0QndSR1NqOW52ZkRDNVVSQWpsWkdEdnhESEc0U0h0cG8yY2w3cmlHMTNj?oc=5",
+      "publishedAt": "Sat, 09 May 2026 08:49:00 GMT"
     },
     {
-      "title": "허태정 \"민생 기치로 시민만 바라보는 선거 할 것\"",
+      "title": "정원오·오세훈, 부동산 공방…\"용산 방치 vs 박원순 시절 잊었나\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xeFYyN3FGby0tMWlXYW1xaTJRSGRfaWI5OFJ6YkFaMlZDMzNvTnNIMnotQ05fRnE2WkZFejRrUmItc1k1Qnd2bjJUMEZKLXdNc0Nn?oc=5",
-      "publishedAt": "Sat, 09 May 2026 07:32:00 GMT"
-    },
-    {
-      "title": "배우 문채원 입냄새 측정기까지 불었다…'루머' 정면돌파",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13azFVcjJxQzJabkUzRk9UUjRqQXpNLWJlTWJQbVcyWTZoN1V5N1pTUXdkdzE0STVWS1U2Q2dQSVFMNExIbWN2TTV6QS13YzRXZW53?oc=5",
-      "publishedAt": "Sat, 09 May 2026 07:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UYXRRSkFjTVhTZ0tRYVF6cUE4N2tuLXQ4RjhsbDZBWjZIdlNvNW5BMVJIOFFYNS0zRlFPdTl3WkZNQ0JfUGxjWlVwNGFBMjF3TDhj?oc=5",
+      "publishedAt": "Sat, 09 May 2026 08:49:00 GMT"
     }
   ],
   "sources": [
