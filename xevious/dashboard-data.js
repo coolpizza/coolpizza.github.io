@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-10T04:22:40.626347+09:00",
+  "generatedAt": "2026-05-10T05:10:05.555728+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "9.9°C",
-        "feelsLike": "8.2°C",
+        "temperature": "9.5°C",
+        "feelsLike": "7.7°C",
         "highLow": "최고 22.0° / 최저 9.2°",
-        "humidity": "66%",
-        "wind": "2.1 m/s",
+        "humidity": "67%",
+        "wind": "2.0 m/s",
         "rainChance": "0%",
-        "pm10": "39.9 μg/m³",
-        "pm25": "39.8 μg/m³",
+        "pm10": "38.9 μg/m³",
+        "pm25": "38.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-05-10 04:15"
+        "airQualityIndex": "42",
+        "updatedAt": "2026-05-10 05:00"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "7.5°C",
-        "feelsLike": "4.8°C",
+        "temperature": "7.3°C",
+        "feelsLike": "4.4°C",
         "highLow": "최고 20.3° / 최저 7.3°",
-        "humidity": "77%",
-        "wind": "8.9 m/s",
+        "humidity": "74%",
+        "wind": "9.3 m/s",
         "rainChance": "0%",
-        "pm10": "39.9 μg/m³",
-        "pm25": "39.8 μg/m³",
+        "pm10": "38.9 μg/m³",
+        "pm25": "38.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-05-10 04:15"
+        "airQualityIndex": "42",
+        "updatedAt": "2026-05-10 05:00"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "7.0°C",
-        "feelsLike": "4.0°C",
+        "temperature": "6.9°C",
+        "feelsLike": "3.9°C",
         "highLow": "최고 20.2° / 최저 6.8°",
-        "humidity": "70%",
-        "wind": "8.7 m/s",
+        "humidity": "74%",
+        "wind": "8.9 m/s",
         "rainChance": "0%",
-        "pm10": "39.9 μg/m³",
-        "pm25": "39.8 μg/m³",
+        "pm10": "38.9 μg/m³",
+        "pm25": "38.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "44",
-        "updatedAt": "2026-05-10 04:15"
+        "airQualityIndex": "42",
+        "updatedAt": "2026-05-10 05:00"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "7.5°C",
-        "feelsLike": "5.1°C",
+        "temperature": "7.0°C",
+        "feelsLike": "4.5°C",
         "highLow": "최고 23.7° / 최저 7.0°",
-        "humidity": "82%",
-        "wind": "8.0 m/s",
+        "humidity": "84%",
+        "wind": "7.9 m/s",
         "rainChance": "0%",
-        "pm10": "21.7 μg/m³",
-        "pm25": "21.6 μg/m³",
+        "pm10": "22.4 μg/m³",
+        "pm25": "22.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "39",
-        "updatedAt": "2026-05-10 04:15"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-05-10 05:00"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)디오티디 인천랍스터주유소",
-        "address": "인천 서구 봉수대로 1543 (금곡동)",
-        "updatedAt": "2026-05-09 23:01:04",
+        "stationName": "금광주유소",
+        "address": "인천 서구 중봉대로 1593 (금곡동)",
+        "updatedAt": "2026-05-04 10:16:39",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "김영옥, 몬스타엑스 향한 '찐애정'…\"연습생 7년 고생 떠올라 눈물\"",
+      "title": "[오늘의 주요일정] 정치·정부 (10일, 일)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zejB2eDhXZDI3aHZOb3E0RThrUk5lN3hxSGtRRzJ1eU9zeGk2UkJjSkl6cURkZ1MwdXp2WnFnU3FnRkxlSlBsUlUwU3RhQ1VSN29qVER5RC1EQQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "'미토스 쇼크' 현실화…AI·양자 시대 국가 보안망 뜯어고친다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02T1FXTEZtUXh4bm16SzhxbFBCLTktazJRbWJWWkZJSFNZVmlyZzI0cUpqWl9uYlZ0clFTS2t0WDBnWlhXbE1ZVDBpS19LUVZ3WENhWUEtMjB5MEFxZVFHb3hDbVIzb1NNTzFNa1pGZzFEWl92YTlONw?oc=5",
-      "publishedAt": "Sat, 09 May 2026 19:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VcGVranpOQ2JzZzJTbkZGbWRDY3B0NHlVVVlab3U2NEg1UU1YVC1KZEJCZnFIaTB6TEM4VlIybDlOYTU1UHJNZTB0X19BU3ptMGdB?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:02:00 GMT"
     },
     {
-      "title": "원로배우들의 충격 피해 고백…사미자 10억·김영옥 전셋값 날렸다",
+      "title": "양도세 중과, 4년 만에 부활…다주택자 '절세 셈법' 흔들",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zYkstc0RZNHk3aF9vWC1nMlFQaGNDRDFrMi05RWpFWFdCVWRHekExSWZ5NXN1OWFuYnBEU1RUWE5uN3piZE9Jb2JyazU0enRXRmVheHhwbjVnQ28?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "\"양도세 중과 전에 팔자\" 쏟아진 급매물…30대 이하가 절반 샀다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iWjJPS0VkYUNReTFiUWEyT3Ric0ZrZWljRzRHdEl4T01mVGxPeVNrTXVmWDVOaFhiOGx3WEt6VWRwUnd2NmRXX2FOSk8xYUdFSWM0?oc=5",
-      "publishedAt": "Sat, 09 May 2026 18:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlTUVHdEgxSXBtRGtwbjdxcHZLZVBqQUh6OXdmODBZZ2JOLUxYR2xfTHBncDlJNlJHTFBJcUJna3FPTjdIenRTQmxNZ2VVLUVnMXdIbVVjQ2IxWDJ1RHBEa2hYWmZPZUJtLUJHZEtmOThuZGxVbmkyZg?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:01:00 GMT"
     },
     {
-      "title": "맑은 대구·경북, 한낮 27도 '초여름'…\"일교차 20도\" 주의",
+      "title": "박서진, 61kg→72kg 턱선 실종…\"살찐 거 맞아? 제작진도 경악[살림남][★밤TV]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93bE52dmcyaDdCTUpYWlVoSTctOV8zRGhHZjdlWEJneC1FSWlXcHpfeFhvVEpXUEZ3aWRTMU91MlI3Yk9DZE03bXp0cWcyRkx6Z1BF?oc=5",
-      "publishedAt": "Sat, 09 May 2026 19:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1b3ZFWFNTUUpyVEVLQl9YVWk3Y1oxQURnbFRsei0wUlN1c1ZZOWFoc0toS2UwZ3lvWl91WFNRRVpzVXQ3REpEM2FLSW0wejFmZUsw?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:00:00 GMT"
     },
     {
-      "title": "'이럴수가' 다저스·양키스보다 더 잘하는 팀 있다? 무려 91년 만에 10연승 2번, 컵스 기세 보소! 日투타 핵심 대단하네",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13UU9aS0xZSFRGWUVUZ21iRlRGc3FYZ0FYN3hKaldTWmdBUlF4dFBVZnBWd0U5U3R2VGE3YmMxNnZscjE5ZDQtYjFwMzd2d1JLdXpmUzlOenBMSlZT?oc=5",
-      "publishedAt": "Sat, 09 May 2026 18:33:00 GMT"
-    },
-    {
-      "title": "'고졸' 사미자, '서울대' 이순재와 출연료 비교에 상처 \"아직도 사무쳐\"",
+      "title": "백악관 실세 상 받는 날, 내각 총출동…트럼프도 깜짝 축하 \"최고의 참모",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wMkluZDdRZzg5X2h4TWg0b2JnbmJ5cEtXS1pQUnhJbDR3VWpMMkVER25pOVB0eHVqUGhPWmk0SWJvV01sTkQtS0NkM0IyNGZtUkJj?oc=5",
-      "publishedAt": "Sat, 09 May 2026 18:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9maE1nTmZxR2EzYjdnRkh3RTFGbFlIQmZEVElWN1FTeTFDRXJSYmhNMjVES1VsN1J6Q1lJXzVQeUV5RVlZWi1OTHM3d1lrSEJKZHY4?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:01:00 GMT"
     },
     {
-      "title": "코나미는 사일런트 힐 프랜차이즈를 확장할 계획입니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2hTN1NrUmMxQzNCR0ZiNVY2VHpOYkJqYXBEQl9saEpwUWVSbzJrendxdUxBRXUtY3RWR2ZNNVN0Mk5lNVFORWpISzVEUGJ0SEdZNE9EQThiUVlKVUFValVVZkRtVzBmbXNBVzRKbnY5WDM3eWd2QVQzenpQcUo0NWYtSWdEU2k0Q0NXSkc3bXdPUTFhQTdqN1JvVHY3cDZuZHF3eC1B?oc=5",
-      "publishedAt": "Sat, 09 May 2026 18:24:01 GMT"
+      "title": "[단독]군사경찰 수장, 의문의 방첩사行…짙어지는 '계엄 모의' 의혹",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TSkF1dkVBcGRNamxsTVIxdUljeGlqSUEyRy0yazlPWEpBZ1d4UXNMNjdNZmV1R0EybEh2Um1jbHdMWHRHemxFZWw3UF92cjNGQlR1RHFwVHZiVkVBcmhGbg?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:02:00 GMT"
     },
     {
-      "title": "최화정, 야식 즐기면서도 몸매 유지한 비결… ‘이 음식’ 먹었다",
-      "source": "헬스조선",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lWU5VbjNaU0FFcGwwTDU5U1puMXMyV2ptdDlNSW5qdGt4Y3g5SXdXT25TTFd6TTNLUlJ3QXIxN2RSNEV6LVNsU3BuN1dxX1pzT3ZLMEUwbXp6R2wxUXY3dmdXcVhHUHROTGVucUdseERGRUIxSWc?oc=5",
-      "publishedAt": "Sat, 09 May 2026 18:02:00 GMT"
+      "title": "반도체주 랠리, 아직 끝나지 않았다…\"중장기 상승세 돌입\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GX2NPakxnMHF4WllCSFBZMWdqNXZCdll4YWhJNzVxV0pTSUdaUU81RDkzX1RtQ1pHSGtzcjBURm9QSXpxVnJNMEZ4czF4dEczWkNTTWtmSF9Tc3hmZ2s0Tw?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:01:00 GMT"
     },
     {
-      "title": "유비소프트는 어쌔신 크리드 블랙 플래그 리메이크에 대한 새로운 세부 정보를 공개할 것이라고 약속했습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRm94aWJMUEVReWpvX0QxUDZlY1o1cFNNcmtlRmpHajRfbzhiYkk4VVZUM1VuYUpfTTVhTTRheG16X3FteGpHcTZ2eXc0cmVHandqU2F3V0VST01qWnpDTFd1c0ZRQjRodXFRSjAzd0lucnpCSGl6a2toQ1RQaWF4Ul9MMkFhSTRuZV9RM3Z4cnFMNlhvczhKVXowSWJYSmQ4UUVsYXFhNHZ5MUtZckdjUTZ0Mi1aci1XNmdV?oc=5",
-      "publishedAt": "Sat, 09 May 2026 17:54:46 GMT"
+      "title": "\"2억? 이젠 27억 냅니다\"…다주택자, 매도차익 절반 이상 세금으로",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBb2gwZUY0cjBmSDU2WVFoNi1iX0dRSERUdjJpdUQtdjVscklsWXBEc0JGYnBkYVlmbl9OQm1yMFNCTy1qQ3JWNWhIbkpxSmF3N2kwaXdxU3ZFN19aYzU5NzRyLWliRnZCTXllcVpCWDlUWTNDWG9QQg?oc=5",
+      "publishedAt": "Sat, 09 May 2026 19:30:00 GMT"
     },
     {
-      "title": "스팀 리뷰가 부정적으로 나오는 가운데, 헬다이버스 2 개발사들은 새로운 콘텐츠를 약속했습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkwxazFQemRyUnNBb2JVbkxKX2xYZkpJSkJGUURGOFJJam5aaXU1djNOMWlLNGw2dVhwY2JTdjR4ZlUxbmQxbUM5TVVGckFGRXhMLUp2cTgyNy1uNHVIaHdWOE96M3VnNGdmeHFNTFNlWWZxUnQtcl9MaE54YkdYaUhOaWpILTdPVVZzSjc0ejN5dFc5VWxKeWNXc0xwalkzU3V3TF9YZDhhWEJPU0dqLUh5YldqU2FJZURkQjNB?oc=5",
-      "publishedAt": "Sat, 09 May 2026 17:01:36 GMT"
-    },
-    {
-      "title": "봄철 환절기로 인한 감기와 비염… 학업에 미치는 영향은?",
-      "source": "헬스경향",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UX1RCNmZvYmJHTXZ3OUd0VTFkUHJFa1ItdUZkaHNpdW0xbHdlQU45TmM2LWVkQzBrMGx4VWNST1BYS0MyVW9IeXBuRkV0bzlZc2xUQ01OZmdUMUp6Wk56YW5lbzFlanZYanc?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:26:33 GMT"
+      "title": "'강남 약세' vs '노도강 강세'…서울 집값 상승세 둔화",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TQUpZdWlFUzJ0TzcyZGdLWXRGNXNwSXVTR0E0NFdlYTJIZm5QalJKWHI1clpadHl4QUwwWmVKWEZjWjZEeDBVdENkVGhTaGtaaG5z?oc=5",
+      "publishedAt": "Sat, 09 May 2026 19:30:00 GMT"
     }
   ],
   "sources": [
