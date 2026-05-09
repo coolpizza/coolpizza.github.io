@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T22:49:40.177318+09:00",
+  "generatedAt": "2026-05-09T23:43:09.002394+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "11.6°C",
+        "temperature": "12.4°C",
+        "feelsLike": "11.0°C",
         "highLow": "최고 20.2° / 최저 8.5°",
-        "humidity": "60%",
-        "wind": "0.4 m/s",
+        "humidity": "61%",
+        "wind": "1.6 m/s",
         "rainChance": "0%",
-        "pm10": "31.0 μg/m³",
-        "pm25": "30.6 μg/m³",
+        "pm10": "37.5 μg/m³",
+        "pm25": "37.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "48",
-        "updatedAt": "2026-05-09 22:45"
+        "airQualityIndex": "49",
+        "updatedAt": "2026-05-09 23:30"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "9.6°C",
-        "feelsLike": "7.4°C",
+        "temperature": "9.1°C",
+        "feelsLike": "6.7°C",
         "highLow": "최고 18.5° / 최저 7.3°",
-        "humidity": "80%",
-        "wind": "9.2 m/s",
+        "humidity": "81%",
+        "wind": "9.9 m/s",
         "rainChance": "0%",
-        "pm10": "31.0 μg/m³",
-        "pm25": "30.6 μg/m³",
+        "pm10": "37.5 μg/m³",
+        "pm25": "37.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "48",
-        "updatedAt": "2026-05-09 22:45"
+        "airQualityIndex": "49",
+        "updatedAt": "2026-05-09 23:30"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "9.7°C",
-        "feelsLike": "7.6°C",
+        "temperature": "9.6°C",
+        "feelsLike": "7.2°C",
         "highLow": "최고 19.1° / 최저 6.2°",
-        "humidity": "79%",
-        "wind": "8.5 m/s",
+        "humidity": "77%",
+        "wind": "8.9 m/s",
         "rainChance": "0%",
-        "pm10": "31.0 μg/m³",
-        "pm25": "30.6 μg/m³",
+        "pm10": "37.5 μg/m³",
+        "pm25": "37.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "48",
-        "updatedAt": "2026-05-09 22:45"
+        "airQualityIndex": "49",
+        "updatedAt": "2026-05-09 23:30"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "11.2°C",
-        "feelsLike": "10.1°C",
+        "temperature": "10.5°C",
+        "feelsLike": "8.9°C",
         "highLow": "최고 21.7° / 최저 4.3°",
-        "humidity": "76%",
-        "wind": "2.7 m/s",
+        "humidity": "78%",
+        "wind": "5.6 m/s",
         "rainChance": "0%",
-        "pm10": "11.9 μg/m³",
-        "pm25": "11.6 μg/m³",
+        "pm10": "15.5 μg/m³",
+        "pm25": "15.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "27",
-        "updatedAt": "2026-05-09 22:45"
+        "airQualityIndex": "36",
+        "updatedAt": "2026-05-09 23:30"
       }
     ]
   },
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "5·18 전국휘호대회 5·18민주묘지에서 개최",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xTlg2eDN1RlM3YXZHRnVjQ0laWEdtTm5CZUd0TVZ1dS1TX2Y1aWM1ZmsyeE5ZMjlQWnBnOXlieEFpX0lmVlJIclpDek5QMzNOcGFSOUhwVEdHYkk?oc=5",
-      "publishedAt": "Sat, 09 May 2026 12:50:00 GMT"
-    },
-    {
-      "title": "군산 어청도 쓰레기 야적장서 불…소방 진화 중",
+      "title": "북한인가, 조선인가…정동영이 쏘아 올린 '공론화'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMeEQxVGp4TTZUWktOc0JCUlh2NS1HMlBGckJ6Z3FLaW9EVHo4cGlTUkhjVjNqeHlJUDcxTlRyTUlqZERnR0RJaHhTdnY1ZlBMZmFr?oc=5",
-      "publishedAt": "Sat, 09 May 2026 13:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLYURNcmxoTHVLZUptRVhtMURzSWtPRlEzY3dEV0p6cjlqeVcybWYtTFA0d1BkZXpHdWdFVDNqTkxjdF9RbWFiRjcxRUNoWTlwNXE3eXZoWkI0SDhGbXlPRjBfT3duQV9weFE?oc=5",
+      "publishedAt": "Sat, 09 May 2026 14:25:00 GMT"
     },
     {
-      "title": "강원 연안 어획량 3.9백톤 기록…전주 대비 소폭 감소 속 주요 어종 변동 뚜렷",
-      "source": "강원신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tRFA0b3lCWlJ1eUJyYllQWkFsaDMwVW0xR05OVUdrWlQ2Ukh4VTNYbm1icmppdG9CaEFQZ1JnODVYZ3Z1VEljZVhPa280cHpyY2I4Uk5oUnRWbUE0R2t2bE96dnBFLUJY?oc=5",
-      "publishedAt": "Sat, 09 May 2026 13:21:30 GMT"
-    },
-    {
-      "title": "“어버이날 웃음꽃 활짝”…호세요양원, 어르신 위한 문화행사 마련",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zbHhPeTF3MXJneDJQb3lLRnFNd1A2LWhvVWtsRFRUN1hLMW11aHBKbUFKQ3pkeEt3dDdWaWJLOE45U2ZXREN0TXhjZFdTemRXVzQ3S0VxMFJJMHdvcVJxcGx4VE9adEU?oc=5",
-      "publishedAt": "Sat, 09 May 2026 12:54:51 GMT"
-    },
-    {
-      "title": "[6.3지선]\"옥천을, 다시 옥천답게\" 출정...전상인 옥천군수 후보 선거사무소 개소",
-      "source": "내외뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gb2NYcHFDaTVOb096SXRDZWE4YnBIekowU0xoTV9pcmI5S0ZSb1BJVjllTU0ybTM5Qlg0RXFkRjdXOHktUkdjbmN5dmgxRDQ2bXY1d185QlY0S1ExakNHTWh5SXFjN3V2U2Qzb21n?oc=5",
-      "publishedAt": "Sat, 09 May 2026 13:29:24 GMT"
-    },
-    {
-      "title": "조지훈 민주당 전주시장 후보, 필승·압승 다짐...선거사무소 개소식",
-      "source": "아시아뉴스전북",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTZUdGTDF3dzBtNEh4VFEyYmgwN19pZHJrbmZBS3lGWEFRVzZPaXpacjJnNXFiOUU1aDgzVGRKbVoya3VxX04xSG1iTnNXWTNBOXNqenVWSHhZa21DRm5mclVmcmhONFNCNUHSAW5BVV95cUxOVHFXOWMwZ3JZbkhvMkdNU19ueVg2QXRoaG5IVEtrUG1LSUdTYUVwemhQS3lTUFhyOVdkMXVOVmtXeDl1bnhVclhOT0tUQzhaRmE2ZmNRQVJlcjRXcUs0aHRVUEVXWG5WeTJRN1c4UQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 12:53:29 GMT"
-    },
-    {
-      "title": "강성휘 \"실행으로, 성과로 증명하는 목포시정\" 약속",
+      "title": "[셀럽포토] 신혜선, 세련된 드레스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vX1hGZnVXQWNBUUExUHZsMHcxbTl1eHdnOG5fc0h1emc3VGJDbzFueHhFcE1jc1VmSEhISkJxUXNuWlNJZmxfaGl6VEJaN1hpWl9KUUFybmVVcDFhY296NFZhZlhOajlpRWc?oc=5",
-      "publishedAt": "Sat, 09 May 2026 13:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqbHhYLWlWOUhLSXVPS0JQRzViWmpUeHdVRzliQUUtakRxbU1FWUtUc1prZUxvUmtmNzJyeldRT2JsYmtETUs0MWxUckpXUnFWQXdwQjZLRnViNVJocEk2bQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 14:34:00 GMT"
     },
     {
-      "title": "[탐사보도 뉴스프리즘] 하이닉스가 쏘아 올린 성과급 경쟁",
+      "title": "허태정 선대위 발대식, 기승전결 '내란극복'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VeHlZakxPSnhxU0tiTDRyaERKZHN1eWVCdlgxUDVfbVBHTVJHOXhtcV9MYUtpWFNtZGVlZE5aWkM3TEYxTDlheFl4QWV3bkRJSGhj?oc=5",
-      "publishedAt": "Sat, 09 May 2026 13:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92aEYwT1Z3cTZuTHMxVDhnRzFtQmVBejJXM04ycGVIb1pwdFlwQVhiX255bXpFbUxFMFZVUlgzX1hSeDB2aks3UG9KbVB3MEoyYTBZ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 14:31:00 GMT"
     },
     {
-      "title": "\"맛없는 식당\" VS \"질소 포장\"…서울시장 설전 '후끈'",
+      "title": "한경호 후보 선거사무소 개소…\"경제 살아나는 진주 만들겠다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xYm0xVGZweVVTa0MxeHJSeDlVMF8yblUxeUk4SGRGbHBnVVJ6cTNBVVZvMFBGNDZlTGdfSFpJTDljSmlETEt1a3RJY1U0OHJDUTNB?oc=5",
-      "publishedAt": "Sat, 09 May 2026 13:19:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Xck1Ob2lVQVMyRzQzS3puZTZ6UWgwRWJZQ1FoeVhDSnVqTm4xNTd2emhlRVpuOHBKbm1WUEVfQU92QW40aU8wN0VOSWt5OEUxNGlR?oc=5",
+      "publishedAt": "Sat, 09 May 2026 14:04:00 GMT"
     },
     {
-      "title": "[김남현의 채권썰] 나쵸(NACHO) 트레이드",
+      "title": "이란 외무부 \"미국이 정한 데드라인에 연연하지 않는다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TLXJQaWxGc3V1Z010WUQ1Um1xS1RlLTg1QUt5RVQya25fbVViN0R3SDdwMjZldHJGbTdFd0h4cGVneG9NV0p5dVBuWHJVR1R1Z3NN?oc=5",
-      "publishedAt": "Sat, 09 May 2026 13:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uN3g1T1VmS2drQjNLX0JBV1pMWUNtWVVOQW1nSFA2bFhneUFWUmVvdFcwR1NodTdHaGhtSVlCdl9USU5seXVWTnI3WG9ET3JzbHhB?oc=5",
+      "publishedAt": "Sat, 09 May 2026 14:00:00 GMT"
+    },
+    {
+      "title": "송영길 후보 \"이재명 정부 성공과 연수 도약 위해 '인천 원팀' 승리 다짐\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kdjhrcDd2UjlCdU43T0M0RUMxLXdpSE94Ty1TSVpLdGtjODQtYVlFbmp4bEs4NjJpX3NWT2ZTWVRjZlpFS19ad0tZbnU4YzdKRlV3?oc=5",
+      "publishedAt": "Sat, 09 May 2026 14:02:00 GMT"
+    },
+    {
+      "title": "프랑스 이어 영국도 군함 중동으로…호르무즈 개방 대비",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEclY3M0IyRkpCS2VmbzBZRUFhNExwd01KV2Y2aEVaUXRiOVM5SXhCXzdfWm93d045cVpqSVhpVWdybmdtWURwRHBnWXJ3X3BpVWdnY2l4a21jVWRWWW1jUQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 13:55:00 GMT"
+    },
+    {
+      "title": "아이유♥변우석, 이혼 위기 딛고 로맨틱 키스 \"좋아해요\" [대군부인][★밤TView]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIVjRmdjVQWDFBT2ctak55c1k1M2Y5MmpTZ3JnUlNxdzA5djdKYWo1ekVDSWQxcmFBeE9XTm16UXJzVHBDZk9GWVBMR19ub3ZGSmxV?oc=5",
+      "publishedAt": "Sat, 09 May 2026 14:14:00 GMT"
+    },
+    {
+      "title": "'3세 입양' 김재중, 군대 찾아온 친부 면회 거절…\"용서할 배포 없었다\"[살림남][★밤TView]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13VjlRemFQUEtTMjZWLWtRM01nbFplQjhFRS15dWktaEl5VXZCcllDOWZTWWhmT015NFdiNXVjVzQwcEtySzZEVDh6ZEM2Zm55bS1n?oc=5",
+      "publishedAt": "Sat, 09 May 2026 14:01:00 GMT"
+    },
+    {
+      "title": "아이유, '남편' 변우석 지키기 위해 나섰다..\"애먼 사람 잡지 마\" 경고 [대군부인][별별TV]",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfa1JXWWRYQkNxRWpRdDFlT0FpRi1Wc0c4bkhjMzZHZ082aDBkazlFVHowN1ViY0FFazlUbjFCTm5XbnppWnFaRWpZSlNWQnM?oc=5",
+      "publishedAt": "Sat, 09 May 2026 13:23:53 GMT"
     }
   ],
   "sources": [
