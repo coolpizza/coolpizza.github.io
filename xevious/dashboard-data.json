@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T08:09:29.314293+09:00",
+  "generatedAt": "2026-05-09T09:08:40.510024+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,63 +67,63 @@
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "11.6°C",
-        "feelsLike": "10.2°C",
-        "highLow": "최고 20.2° / 최저 8.7°",
-        "humidity": "64%",
-        "wind": "1.8 m/s",
+        "summary": "약간 흐림",
+        "temperature": "13.9°C",
+        "feelsLike": "13.0°C",
+        "highLow": "최고 19.9° / 최저 8.5°",
+        "humidity": "63%",
+        "wind": "2.4 m/s",
         "rainChance": "0%",
-        "pm10": "17.2 μg/m³",
-        "pm25": "15.9 μg/m³",
+        "pm10": "16.0 μg/m³",
+        "pm25": "15.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "23",
-        "updatedAt": "2026-05-09 08:00"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-05-09 09:00"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "12.6°C",
-        "feelsLike": "11.9°C",
-        "highLow": "최고 18.6° / 최저 8.3°",
-        "humidity": "79%",
-        "wind": "3.2 m/s",
+        "temperature": "14.8°C",
+        "feelsLike": "14.0°C",
+        "highLow": "최고 18.4° / 최저 7.7°",
+        "humidity": "74%",
+        "wind": "7.2 m/s",
         "rainChance": "0%",
-        "pm10": "17.2 μg/m³",
-        "pm25": "15.9 μg/m³",
+        "pm10": "16.0 μg/m³",
+        "pm25": "15.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "23",
-        "updatedAt": "2026-05-09 08:00"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-05-09 09:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "11.2°C",
-        "feelsLike": "9.7°C",
-        "highLow": "최고 19.2° / 최저 6.3°",
-        "humidity": "71%",
-        "wind": "3.8 m/s",
+        "temperature": "14.1°C",
+        "feelsLike": "12.9°C",
+        "highLow": "최고 19.0° / 최저 6.2°",
+        "humidity": "63%",
+        "wind": "5.0 m/s",
         "rainChance": "0%",
-        "pm10": "17.2 μg/m³",
-        "pm25": "15.9 μg/m³",
+        "pm10": "16.0 μg/m³",
+        "pm25": "15.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "23",
-        "updatedAt": "2026-05-09 08:00"
+        "airQualityIndex": "28",
+        "updatedAt": "2026-05-09 09:00"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "9.7°C",
-        "feelsLike": "8.5°C",
-        "highLow": "최고 21.7° / 최저 4.6°",
-        "humidity": "85%",
-        "wind": "3.3 m/s",
+        "temperature": "13.3°C",
+        "feelsLike": "12.8°C",
+        "highLow": "최고 21.6° / 최저 4.6°",
+        "humidity": "71%",
+        "wind": "1.6 m/s",
         "rainChance": "0%",
-        "pm10": "19.0 μg/m³",
-        "pm25": "14.9 μg/m³",
+        "pm10": "14.1 μg/m³",
+        "pm25": "11.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "23",
-        "updatedAt": "2026-05-09 08:00"
+        "airQualityIndex": "30",
+        "updatedAt": "2026-05-09 09:00"
       }
     ]
   },
@@ -276,7 +276,7 @@
         "lowestDistrict": "동작구",
         "stationName": "주식회사 새서울글로벌",
         "address": "서울 동작구 시흥대로 616 (신대방동)",
-        "updatedAt": "2026-05-08 14:59:45",
+        "updatedAt": "2026-05-09 07:57:58",
         "districtSamples": [
           {
             "district": "동작구",
@@ -287,15 +287,15 @@
             "price": "1,979원/L"
           },
           {
+            "district": "금천구",
+            "price": "1,979원/L"
+          },
+          {
             "district": "관악구",
             "price": "1,984원/L"
           },
           {
             "district": "양천구",
-            "price": "1,984원/L"
-          },
-          {
-            "district": "은평구",
             "price": "1,984원/L"
           }
         ]
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "부광셀프주유소",
-        "address": "인천 서구 봉수대로 1623",
-        "updatedAt": "2026-05-05 07:39:03",
+        "stationName": "금광주유소",
+        "address": "인천 서구 중봉대로 1593 (금곡동)",
+        "updatedAt": "2026-05-04 10:16:39",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "지방선거 앞두고 선거 현수막에 뒤덮인 건물들",
+      "title": "[위클리 PICK 3] 코스피 7000시대 개막부터 개헌안 표결 무산까지",
+      "source": "오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KWGhLRU5SdzdGNlp0TWFIMjBFLUVhUmNBQ0oyY3JmSTVrY2ZnWmhXZ3FqR3dnRWlab1JiZTljZmJWWVpMT25xSDJvZjlOTVEzQU5US0xGR0IwWTBqdzlSaHZIaGkycU9lcGV0aTI2cjF6Zw?oc=5",
+      "publishedAt": "Sat, 09 May 2026 00:05:00 GMT"
+    },
+    {
+      "title": "\"크립토는 죽지 않았다\"…Web3.0 환상 걷히고 '금융 인프라'로 재편 [e가상자산]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Gekw5dmpUZ3NLaU5RY25JTjgwRDkxR3JuNWk0Q05CNUVnTDlUbHRNcG9rcXd4dTR6SEZ2bGNDbTZmakNvclR6NVBXTk02MzJDcHBN?oc=5",
-      "publishedAt": "Fri, 08 May 2026 23:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ReXlMWHU5RG1mN1hhUzh5Tm0zUF82NjNKa01icDY2NEpOQ05TS0d5aWg0c3JTeXl2NlJPMndzdzFzQmVPRTlwU3NjNmMtcXpaZEpj?oc=5",
+      "publishedAt": "Sat, 09 May 2026 00:00:00 GMT"
     },
     {
-      "title": "39년 만의 개헌 무산 \"선거용 반대\" \"상정이 위헌\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xVkJvcXF5SFhLSFZyZ0RzZjlXa0dsOWg5M0k1Y3lnZE4yQXJTczVoNHdQUnpvZFZfcldUS18zVjlZUTZVaEhzUkU0M0lVUlRKeWFJTWt2amc5dW41cHd3RzJ5TTRtY3hPVGc5NFlyZ3pmclo5ZGF0TUpn0gF6QVVfeXFMTzFWQm9xcXlIWEtIVnJnRHNmOVdrR2w5aDkzSTVjeWdkTjJBclNzNWg0d1BSem9kVl9yV1RLXzNWOVlRNlVoSHNSRTQzSVVSVEp5YUlNa3ZqZzl1bjVwd3dHMnlNNG1jeE9UZzk0WXJnemZyWjlkYXRNSmc?oc=5",
-      "publishedAt": "Fri, 08 May 2026 22:16:49 GMT"
-    },
-    {
-      "title": "산업장관, 美상무장관과 對美투자 프로젝트 사전협의6월 대미투자특별법 시행후 발표될 투자 내용 의견 교환",
-      "source": "전파신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1td0pKSllwakVWUUt2NWF3TThLN2xYT1pPOVNiVVJ5T1N1Sm9STjJZaDQzTk50aXphTzdCZGY4LVNyeGo2QXNhQy1IV05LU3dtM0FYQ0dGVkRsWDZobGZuNkZQbTlicEc3WXc?oc=5",
-      "publishedAt": "Fri, 08 May 2026 22:42:00 GMT"
-    },
-    {
-      "title": "충북도, 2027년 정부예산 확보 총력...첨단전략산업 등 국비 건의",
-      "source": "내외뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RDVVU0huc3F5aTRsVXZ5cnFOdzloVll6UER5V1htWDVMVTAzcm5zT3ZGaE5DRlhfZkdHSkRxZ3VrOFZFOXFxSVVCbHNzSFAtWXM2MWRRS01ma3Nadl8tc2EzQ3dXQzhfejdnelV30gFwQVVfeXFMTlhpZk05Wi1lUDI4TVIwTkc4SVpJODdzYlhUOVlNMnlWMVh5c1loems1clFEaHBZSXhJYTBaR3hqdVJMYlJ5Z2tYcDlGT0hyendnLUdpV3FESkUyTzVqV3hyVl9LQW5PaExMYUxYcDlzbA?oc=5",
-      "publishedAt": "Fri, 08 May 2026 22:44:39 GMT"
-    },
-    {
-      "title": "\"변호사 대신 AI 쓴다\"…'나홀로 소송' 늘어나는 이유는",
+      "title": "'이안대군' 도비서 이연, 아이유 집 5번↑ 방문한 '찐친'이었다…\"전용 잠옷도 있어\" [전참시]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFcGk1ak9Rd2F2S1VMZWpKZGkyd2pLb0lVRkdMZDJyNEtmeVNhZHpPRkplN2l0Zy1WQldVMjk4SC1UZ0o5WjByYldJNU54c2ppNHFkV2Y4bThmZldQVGdYYQ?oc=5",
-      "publishedAt": "Fri, 08 May 2026 23:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OdVJEUEpBYTRydnVjUUd6eTdYR2RRVTBGMEpsZ0RRYW41SEo5eXptUWVlV19Dc3lPNWxkWWROS2JiTzh6ZFFFMy1ta1E5N2lQWHdha2YyS2k2UEsxTTRKZg?oc=5",
+      "publishedAt": "Fri, 08 May 2026 23:59:00 GMT"
     },
     {
-      "title": "어선 화재 10명 구조‥어린이 탄 셔틀버스 사고",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkSDZkQlB0aVNmYk5XZEtKQ05IM2tOYTRZTU9JUGl3UzNraGZmVWhwb0tWNnpWMGJFUUtuMUtCc1ZtSjFXMTh6N1YzSkplSXRDcVhDUUVSSTkzbmpJV25pLWw0bWlfaVEyMkxucm1fbmdNbm5WalV0OG1R0gF6QVVfeXFMUGRINmRCUHRpU2ZiTldkS0pDTkgza05hNFlNT0lQaXdTM2toZmZVaHBvS1Y2elYwYkVRS24xS0JzVm1KMVcxOHo3VjNKSmVJdENxWENRRVJJOTNuaklXbmktbDRtaV9pUTIyTG5ybV9uZ01ublZqVXQ4bVE?oc=5",
-      "publishedAt": "Fri, 08 May 2026 22:10:10 GMT"
-    },
-    {
-      "title": "[주간증시전망] '실적 우량주' 주목할 때…\"다음주 코스피 6900~7800 전망\"",
+      "title": "부산 아파트값 강보합세 유지…전셋값은 22개월째 상승",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tSjZfaWF4RTBHd2JPc3pvZU1EV3A2ek50TVpSQmYxVWRyTDhzRUhSMlFtdXFvZ1VCUWVGZUlSb3ZoV2ttRk93cmhZX1NmZ0VNc0hJ?oc=5",
-      "publishedAt": "Fri, 08 May 2026 23:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kd0VSZlpTYXdpdTVZWkc1TEE3c2pNaTFZVHdEaDhUOVktWTk4VWNNcFM2ZEt5RVlCUmM2WnBvWWszUnBLdWRHOG8zaERuQmRZd2N3?oc=5",
+      "publishedAt": "Sat, 09 May 2026 00:01:00 GMT"
     },
     {
-      "title": "[TheTax] 다주택자, 집 팔면 세금 2배 '껑충'?…절세 숨통 열어둔 정부",
+      "title": "美대형은행 제친 '월가의 신흥강자'…제인스트리트, 1분기 수익 2배로",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQ0JPYlRHTU9HbjV3TnZPcWtqSnMyaUtXbTg0ZHJxV1RuNGZlVWtINURfUGNIdVBaUVE4MVZYRlV0MExoZVpxUElsOVJzMlc4YW9vd1ZPS3RzdVNJUlF2V3plWlMxX0lyVXZIckU4WndLRnB4ajNsdw?oc=5",
-      "publishedAt": "Fri, 08 May 2026 23:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tdF9YMHYyTXNJN0t0QTBzZXZnOXVGYXdGcUJEWUpyUU5TTmk2aThWb3FJWDJuR19UekxucE83Z3U3c2VnNDlNQ3dXRXBuQjVtbnVJ?oc=5",
+      "publishedAt": "Fri, 08 May 2026 23:57:00 GMT"
     },
     {
-      "title": "뉴욕증시, 고용 호조와 반도체주 랠리에 힘입어 상승 마감…나스닥 1.71%↑[종합]",
+      "title": "정청래는 오늘 세종·부산·울산행…장동혁은 충청에서 육영수 생가 방문",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwNlcyQndWTHNlb09YR1J2VF9rS191U1RxSzhWbG5mWXFrU0FHdEJadlU1Uk9NTUt1MkNHTmxNQWdlQTZvbk9aNWlPMW5zMUhZT1hFSzJ0T1d5MjV1VGlhaU9pZ0NGbk5adUd5Ym9zZGo1aURyWkJaSg?oc=5",
-      "publishedAt": "Fri, 08 May 2026 22:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jZ2tpRnZKSm5MeHg5MjhEdHQ2Sk5BOUozY0xmVTdKN25JRE45Y1paVnplLVBkbGxORjNfd2J2Ri1pNkhiblo0STRybHE5YTNZa2oyWWZEVWpIeXdudkI4U2RFUVpOeDhmZ2c?oc=5",
+      "publishedAt": "Fri, 08 May 2026 23:36:00 GMT"
     },
     {
-      "title": "요즘 대학가 술자리 안주는 '삼전닉스'…투자동아리 경쟁률도 '쑥'",
+      "title": "유니콘 꿈꾸는 청년창업가 새 출발…중진공, 인공지능 혁신 지원",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BbnpVSGk1SG9ZN2UxbFdmQ1lqc3FZLXFCNDBHN3F4ZlhJeDRxQ1dqMU9FNmR4anBRM2tVNHBRWVZBRWl0WktEYnI0cDZiMkhSODJJ?oc=5",
-      "publishedAt": "Fri, 08 May 2026 23:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EMEV4ekIzUnJHRDdOT0d3NGZLRFd5bTlnem9MOWh0Zy00U2ZVczVhLW1YbVVOM0pRSFAxU0NIbHlkRkgwU2kxNU1Sd2VsVVE4Q0RUbFFBaDBJRkV1RHh0ZVVwczF1WGRlckltejlpN3dqa3Q5NUVuMg?oc=5",
+      "publishedAt": "Fri, 08 May 2026 23:51:00 GMT"
+    },
+    {
+      "title": "멕시코 점령한 방탄소년단 정국, 구글 트렌드 1위 '인기 돌풍'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4dDZaUENuYXdqcGRNYk5PbnFEVnMwaE91M3hyMGZvb0NnN1J6V2hlaEhtWEVNaHlTLW5XbXFMS21KVGtJTXF3ME9wR2ZVWENpUEJpYngwdTYxSDE5NTItOUJxMTBGYlQtenk3S2JWR1JUNk90YlE?oc=5",
+      "publishedAt": "Fri, 08 May 2026 23:50:00 GMT"
+    },
+    {
+      "title": "美 CVS, 선호의약품서 '스텔라라' 제외…삼성에피스 경쟁 우위 강화",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PSkRXakNGQUdiUnpYVlRBcnhhVmNkMlQ3SWgzTkh6LXZuRDVFRkVHWDk0N25sMVZndlRGSGgtVEh0S3lfNG9aRndXT25TMDMwb2xz?oc=5",
+      "publishedAt": "Sat, 09 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "내일부터 잠정 중단…\"우리동네 문닫는 홈플러스 어디예요?\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WVHlCdmxScC1GRkN3NUlvZ0tmeWc0SDBiOG5BcFlMVDFFZUFNMUN5M3JsTXpQb3VJUzBsNHBTNmRPcHlkdmFfLUo2Q0NRQjllQWM4?oc=5",
+      "publishedAt": "Sat, 09 May 2026 00:00:00 GMT"
     }
   ],
   "sources": [
