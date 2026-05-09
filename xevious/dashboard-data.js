@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-10T00:37:00.036590+09:00",
+  "generatedAt": "2026-05-10T01:35:09.888785+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "11.5°C",
-        "feelsLike": "10.0°C",
+        "temperature": "10.9°C",
+        "feelsLike": "9.3°C",
         "highLow": "최고 22.7° / 최저 9.5°",
-        "humidity": "66%",
-        "wind": "2.8 m/s",
+        "humidity": "68%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "42.0 μg/m³",
-        "pm25": "41.7 μg/m³",
+        "pm10": "42.6 μg/m³",
+        "pm25": "42.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-05-10 00:30"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-05-10 01:15"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "8.7°C",
+        "temperature": "8.5°C",
         "feelsLike": "6.5°C",
         "highLow": "최고 21.0° / 최저 7.3°",
-        "humidity": "84%",
-        "wind": "8.9 m/s",
+        "humidity": "86%",
+        "wind": "7.6 m/s",
         "rainChance": "0%",
-        "pm10": "42.0 μg/m³",
-        "pm25": "41.7 μg/m³",
+        "pm10": "42.6 μg/m³",
+        "pm25": "42.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-05-10 00:30"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-05-10 01:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "9.0°C",
-        "feelsLike": "6.7°C",
+        "temperature": "8.2°C",
+        "feelsLike": "6.1°C",
         "highLow": "최고 20.6° / 최저 7.2°",
-        "humidity": "79%",
-        "wind": "8.3 m/s",
+        "humidity": "82%",
+        "wind": "6.9 m/s",
         "rainChance": "0%",
-        "pm10": "42.0 μg/m³",
-        "pm25": "41.7 μg/m³",
+        "pm10": "42.6 μg/m³",
+        "pm25": "42.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-05-10 00:30"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-05-10 01:15"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
         "temperature": "9.9°C",
-        "feelsLike": "8.1°C",
+        "feelsLike": "8.0°C",
         "highLow": "최고 24.2° / 최저 7.4°",
-        "humidity": "77%",
-        "wind": "6.2 m/s",
+        "humidity": "74%",
+        "wind": "5.5 m/s",
         "rainChance": "0%",
-        "pm10": "18.2 μg/m³",
-        "pm25": "17.8 μg/m³",
+        "pm10": "19.6 μg/m³",
+        "pm25": "19.3 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-10 00:30"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-10 01:15"
       }
     ]
   },
@@ -332,15 +332,15 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "익산 최저가",
-        "lowestPrice": "1,975원/L",
+        "lowestPrice": "1,978원/L",
         "lowestDistrict": "익산시",
-        "stationName": "금마제일주유소",
-        "address": "전북 익산시 금마면 무왕로 1824",
-        "updatedAt": "2026-05-07 11:00:49",
+        "stationName": "㈜한영 성북지점",
+        "address": "전북 익산시 망성면 익산대로 2802",
+        "updatedAt": "2026-05-08 07:17:23",
         "districtSamples": [
           {
             "district": "익산시",
-            "price": "1,975원/L"
+            "price": "1,978원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "총리? 당권?…상한가 치는 '이재명의 남자' 강훈식 몸값",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGb1lycFdDX1M0ZHBSbXQ5X1RRVmxZYnZYMVo5MlJUSkV3cDZrdG0xd3pFejQ5UHlmXzM2Snd0eDFHTU1ZajBxWEttZ0F0X2xoOGZHbk5GdXEtQUo2LVlRdzVFNGZSUFVCNkE?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:00:00 GMT"
-    },
-    {
-      "title": "두산에너빌리티·우리기술 등 약세 흐름…원전주 전반 ‘먹구름’ 새주장 흐름은?",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fY0gwaGlhbkdpU2prcVpkR05Fajd6N0J5bWxEVGhqRDNFOE5kVTBFM0hjQkZYTmJNN3VqQUVDVjVWTzhnTlNLaXZvS3JPV2sxQW83XzJpMlFwM1J0WXhQTXdxNTNVRkJ0?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:05:00 GMT"
-    },
-    {
-      "title": "전남광주통합특별시 54일 앞…통준위 공식 출범",
+      "title": "\"금융, 중소기술기업 투자 마중물돼야.. 규제 완화 필요\"",
       "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DeUp6NldSTGNiR2ZmdlIxSTIxaVhYeVhfcjVDNEhuU0RwUnBqc2hWd3piQmNHOHNSc2kyVkQzUnBnVHNNRzBMNVp0cDE2dnZSRWJzM25uaDM0VmJiM2REbmxCOEVsUjY4MWc0?oc=5",
-      "publishedAt": "Sat, 09 May 2026 14:58:13 GMT"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Y2hHTlRkOW5yb0dpZGVodWpISlR3YVNGQTBwT0QxVWZOc3BWcGNsUFJab1FGak5RdEtRT0p2VUJDZi1yeTFEV0Q1V0VaeWo0QTU1Q2RTUDJPeE90UFo2d005VFRXMS1leDIw?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:30:29 GMT"
     },
     {
-      "title": "김민하, '뼈말라' 충격 근황 무슨 일…\"상처받지 말길\" 난리 난 팬들 [스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QVjlWdXg0R1h1MlY4MlJsTFIySmFPLWVQVGpIVGNxeHBucjUtSlhqbE4zTlRZb3I1M054OUFJMzNiVXc5SkN2OUJkNFo3c1Q3U1JF?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:00:00 GMT"
+      "title": "美 \"대이란 해상봉쇄 전면 이행…58척 항로 변경·4척 무력화\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52QTZQTzFZMjNlQm0ydXVLWmU1aWpveDFFbGRjdGVVMjBDQ2phbFREOURHRTVGRzN0VVZOV1hUN0pWcjctN21GRFV2RVVDVTJVczFGbHZUWDlGSGt3bjlBWlp3?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:15:02 GMT"
     },
     {
-      "title": "이연, 롤모델 최강희 앞에서 울컥…\"워킹맘 母와 영화보며 꿈 키워\"[전참시]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoMUlEbHVtejZvd2VrNXU4Um5tY1Vwb2gwWUF1RVJOd2JSZktlQ01VbXNWYnpXZ1A2T3VENzBiRnRMdnRXVWZ3REF4OFotV01nOHRsOFNKaW1LalVsUk5LQg?oc=5",
-      "publishedAt": "Sat, 09 May 2026 14:56:00 GMT"
+      "title": "홍명보호 진짜 희소식! \"통증 없다\" 이재성, 시즌아웃 전망 털고 훈련 복귀…예상보다 일찍 돌아온다",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FYzA5Q1d6QjR5NDRoSmtFTTFvOFdvSURLTFQzVWtOdFMybzc3MlNwTS1LVkVrcjdacnZ0aGZJWERrRU1INmxCMHFtbmh5V1pQX1VMTkJ3Ylg3MENq?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:24:00 GMT"
     },
     {
-      "title": "母대표 '1인 기획사' 대박…블핑 제니, 2년만 '238억 정산'받았다 [스타이슈]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoaElSTlR4Z2JGcUZrbGlpeVNtZHhzd1lSQzUyQm5KTngzeEM1ajFaVWxlQkpUNDhMUnExVzEyTkIxLS1HcDljYklrWmZzM1lucm5n?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:00:00 GMT"
+      "title": "“도의원 후보들, ‘풀뿌리원탁회의 활성화 조례’ 공약 채택하라”",
+      "source": "뉴스N제주",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43Q1l1Q21oMHU0SGRGZ0NnUzkwVkZJX3JHYkgxMHNfeHQyaUhBR1FkcHhYQjVFcVN1RVY0NzB4dWhONHAxb0tzWFlVbER2UGpLcS13c3J2d2hSUU56WXgtc2t1UC0xTXJJUDRFNw?oc=5",
+      "publishedAt": "Sat, 09 May 2026 15:45:07 GMT"
     },
     {
-      "title": "\"이건 다 최준용 때문\" 허훈, 애정 넘치는 저격 \"4차전은 하드캐리 해줘야\" [부산 현장]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JS2xpdlFTN2hwSGxibTMzQWZoTEpVS1RxeXNpWm1IMjJwaHNZellBSUl4ajZZRDdxNjNqUUZWZllGVVI1dTJXWE81UVlOX2J5NWY5cHQ5MnlzR0lFWjJ2cQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:31:00 GMT"
+      "title": "헝가리 뒤집은 마자르, 총리 취임…16년만의 친 EU·부패 척결 시동",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9feWpwWm9RTDJraVQ3cEhycU5fNEVEZWNVV3pIOXo3VmdiQUprc2tleUpYa29sdXNlaTVkcUpTdXN1ZjdUcWpLMmxRVmRMbWhZejUw?oc=5",
+      "publishedAt": "Sat, 09 May 2026 15:52:27 GMT"
     },
     {
-      "title": "남진, 부잣집 도련님 인증 \"중3 때부터 오토바이…집에 연못 有\" [동치미][별별TV]",
+      "title": "이우환·심문섭…베네치아 비엔날레서 드러낸 K아트 존재감",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxb0thZjZ4VGdZd0JTV3RGeUt5SlZ0bjFfVDBWejNEZUlYOVNaVFh4WWhNNjlMUm5pb3RVR0J2a25HclU3YnNfU2JFM0RYMTIyYmhr?oc=5",
-      "publishedAt": "Sat, 09 May 2026 14:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kbG1ZcjdUdGJDSWNNOEZKYWVLSmxSNDloTEhQMWk3S1lOM2lOdEZubGJBTnFXMUZRdUY3VktDT1VTNGozSjlkbS05Wkl6c1dNR1pj?oc=5",
+      "publishedAt": "Sat, 09 May 2026 15:45:00 GMT"
     },
     {
-      "title": "[비즈토크] \"싸게 빌려준다\"는 건설사들…정비사업 '마이너스 금리' 괜찮나",
+      "title": "이연, 절친 아이유 통 큰 씀씀이에 감격…\"나 만날 때 돈 쓸 생각 마\"[전참시][★밤TView]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZWWVuVU5OSWtQOE5LTEhaM19NWlh0UWFxYWZhZzhrMjR2OUNFZlFlS2pabkQ4cmZvb2VYZzBKSHV0cEc5bjAxRnUtZS1DeE9Dbndj?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96dVVZOTFVZkxPWng4M3d5U1I5OU1sdEdHdGhMWkV0RkFVdW1BTDhCOVEyVUk2WHhwNE5RQzBQMWlnb2NXdGtQYnZ2M1JWMWF1eERJ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:04:00 GMT"
     },
     {
-      "title": "조영남, '부잣집' 남진 여동생 짝사랑…\"비단 이불에 푸짐하게 소변 봐\" 大망신 고백 [동치미]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnc3h4TFI5MWYyS3ZJZ3daUjkzWlRmOFhpZUxZUmFlWHFySEJocDUyZjBTZmZFb2pRQjI4a0pZU0tkMnhwdkNiNGZIQ0RPTzdDYjdFdW9sYUVtN0lVT1RHSg?oc=5",
-      "publishedAt": "Sat, 09 May 2026 14:42:00 GMT"
+      "title": "“대장암 위험 확 오른다”… 주방에서 하는 ‘이 행동’ 주의",
+      "source": "헬스조선",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reUxWRHNRSGtSOXRIZ3Z4OElsM092ZFpfa2h0UE5wU3ZIWkVFY0NlbXRLUEFlRGs2Uk9nUVpvUThDcmdtaS1BcGhRZVYwZHdTZFNlSV94b0RaVlhQeWJfRmhWbVFCMVZSM1ZTTmFUS3ZTcVpiR1E?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:25:05 GMT"
+    },
+    {
+      "title": "공소취소 대응 TF 띄운다는 국힘 “보수·중도층에 부당함 알릴 것”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YUHEtdVpzdE1fT09ZUWVoZzc1Z1JDMDQyUllJWXdKMjA0V191azEyRmFhbjFCdXh0VHVZajRIdThhUEdGZ284V3BsNG5OMlJIYlZGYnpkZXpfdXZySElIQVVuNU8zQ1RSeWtmdlBLSl9teEpa?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:06:15 GMT"
+    },
+    {
+      "title": "장동혁, 부산·대구 연이어 방문…박민식·이진숙 지원 사격",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HS2VUX1VzNUtpZl9jTnBLMFBOcTR5dG9vVkdpbnRxMHNrclhKeWx6Y3hRR0RBVXoyZThnaW1mYnJfVHRfMllYTmdzQkpEdUR2UndkN0dMeFdoRlk?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:02:00 GMT"
     }
   ],
   "sources": [
