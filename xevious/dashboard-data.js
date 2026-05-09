@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-09T21:09:42.311377+09:00",
+  "generatedAt": "2026-05-09T22:49:40.177318+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "13.8°C",
-        "feelsLike": "12.6°C",
+        "temperature": "12.8°C",
+        "feelsLike": "11.6°C",
         "highLow": "최고 20.2° / 최저 8.5°",
         "humidity": "60%",
-        "wind": "1.8 m/s",
+        "wind": "0.4 m/s",
         "rainChance": "0%",
-        "pm10": "23.7 μg/m³",
-        "pm25": "23.5 μg/m³",
+        "pm10": "31.0 μg/m³",
+        "pm25": "30.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-09 21:00"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-05-09 22:45"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "11.4°C",
-        "feelsLike": "9.9°C",
+        "temperature": "9.6°C",
+        "feelsLike": "7.4°C",
         "highLow": "최고 18.5° / 최저 7.3°",
-        "humidity": "76%",
-        "wind": "5.5 m/s",
+        "humidity": "80%",
+        "wind": "9.2 m/s",
         "rainChance": "0%",
-        "pm10": "23.7 μg/m³",
-        "pm25": "23.5 μg/m³",
+        "pm10": "31.0 μg/m³",
+        "pm25": "30.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-09 21:00"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-05-09 22:45"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "11.8°C",
-        "feelsLike": "10.1°C",
+        "temperature": "9.7°C",
+        "feelsLike": "7.6°C",
         "highLow": "최고 19.1° / 최저 6.2°",
-        "humidity": "70%",
-        "wind": "6.1 m/s",
+        "humidity": "79%",
+        "wind": "8.5 m/s",
         "rainChance": "0%",
-        "pm10": "23.7 μg/m³",
-        "pm25": "23.5 μg/m³",
+        "pm10": "31.0 μg/m³",
+        "pm25": "30.6 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-09 21:00"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-05-09 22:45"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "12.3°C",
-        "feelsLike": "10.9°C",
+        "temperature": "11.2°C",
+        "feelsLike": "10.1°C",
         "highLow": "최고 21.7° / 최저 4.3°",
-        "humidity": "74%",
-        "wind": "5.9 m/s",
+        "humidity": "76%",
+        "wind": "2.7 m/s",
         "rainChance": "0%",
-        "pm10": "8.2 μg/m³",
-        "pm25": "7.9 μg/m³",
+        "pm10": "11.9 μg/m³",
+        "pm25": "11.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "26",
-        "updatedAt": "2026-05-09 21:00"
+        "airQualityIndex": "27",
+        "updatedAt": "2026-05-09 22:45"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)디오티디 인천랍스터주유소",
-        "address": "인천 서구 봉수대로 1543 (금곡동)",
-        "updatedAt": "2026-05-09 17:54:28",
+        "stationName": "부광셀프주유소",
+        "address": "인천 서구 봉수대로 1623",
+        "updatedAt": "2026-05-05 07:39:03",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "미나, 주식 수익률 자랑…\"매일 뉴스 보며 '사팔사팔'\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hNlNib19MZ2EySV9OY01fcjZpRzV6cGpha2c5WkJBMWtEUk53bUdoOGtZQW9vV29ucWxLY2w4S2hwd0FsbGdmMFdYMmZvUHBhWDY0?oc=5",
-      "publishedAt": "Sat, 09 May 2026 11:58:00 GMT"
+      "title": "5·18 전국휘호대회 5·18민주묘지에서 개최",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xTlg2eDN1RlM3YXZHRnVjQ0laWEdtTm5CZUd0TVZ1dS1TX2Y1aWM1ZmsyeE5ZMjlQWnBnOXlieEFpX0lmVlJIclpDek5QMzNOcGFSOUhwVEdHYkk?oc=5",
+      "publishedAt": "Sat, 09 May 2026 12:50:00 GMT"
     },
     {
-      "title": "김병욱 성남시장 민주당 후보, 선거사무소 개소식…\"성공시대 열 것\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fUzFyT2xCdGRUX1NZQ0UzX3BDWGNaaXhDWmI1SDdGYk9wWmM2VGN3QVpkREJtRW1aQWJTZGZWWGtSMDBwRkFNVHBrOTF0NnN0OW9zNzRR?oc=5",
-      "publishedAt": "Sat, 09 May 2026 11:17:53 GMT"
+      "title": "군산 어청도 쓰레기 야적장서 불…소방 진화 중",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMeEQxVGp4TTZUWktOc0JCUlh2NS1HMlBGckJ6Z3FLaW9EVHo4cGlTUkhjVjNqeHlJUDcxTlRyTUlqZERnR0RJaHhTdnY1ZlBMZmFr?oc=5",
+      "publishedAt": "Sat, 09 May 2026 13:37:00 GMT"
     },
     {
-      "title": "서울 송파구 고깃집 화재…25명 대피·인명피해 없어",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11OFVHM05DV1hKdDRKeEFGR0R3VEs0WlViampCRFFGUnhJN0tmMU1SV3oydEZEdWc3UmlwTlR4bjc1cWhDNHdTQktQbXBOd0pEbmVBcVNWcDMyQVRVWmZzTlF4NkZaLUdYemo3Q1BIUldxdHhxRWlWbg?oc=5",
-      "publishedAt": "Sat, 09 May 2026 11:44:00 GMT"
+      "title": "강원 연안 어획량 3.9백톤 기록…전주 대비 소폭 감소 속 주요 어종 변동 뚜렷",
+      "source": "강원신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tRFA0b3lCWlJ1eUJyYllQWkFsaDMwVW0xR05OVUdrWlQ2Ukh4VTNYbm1icmppdG9CaEFQZ1JnODVYZ3Z1VEljZVhPa280cHpyY2I4Uk5oUnRWbUE0R2t2bE96dnBFLUJY?oc=5",
+      "publishedAt": "Sat, 09 May 2026 13:21:30 GMT"
     },
     {
-      "title": "봉축법요식 찾은 유정복 후보",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tczZFU2hsNmdCYWFuOE5WTFBIQnpJNlRfVGh5aURIM1FuWkRuYUFybElsU0dnNWFCeEIybkI5X0l6RU81d1RnRWlYdFBjMkg5WDhN?oc=5",
-      "publishedAt": "Sat, 09 May 2026 11:10:00 GMT"
+      "title": "“어버이날 웃음꽃 활짝”…호세요양원, 어르신 위한 문화행사 마련",
+      "source": "24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zbHhPeTF3MXJneDJQb3lLRnFNd1A2LWhvVWtsRFRUN1hLMW11aHBKbUFKQ3pkeEt3dDdWaWJLOE45U2ZXREN0TXhjZFdTemRXVzQ3S0VxMFJJMHdvcVJxcGx4VE9adEU?oc=5",
+      "publishedAt": "Sat, 09 May 2026 12:54:51 GMT"
     },
     {
-      "title": "홍천 팔봉산서 50대 등산객 30m 추락…강원서 산악사고 잇달아",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EZmRmUTdCZEFiUk94MGdRaWtMZk96Z2xhaUJicjdBX0l5V2xVYWpieDFMUUlkbV9CdzBFQklOY2RwbkJqYW9nazBpWTd0M3c1em5B?oc=5",
-      "publishedAt": "Sat, 09 May 2026 11:49:00 GMT"
+      "title": "[6.3지선]\"옥천을, 다시 옥천답게\" 출정...전상인 옥천군수 후보 선거사무소 개소",
+      "source": "내외뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gb2NYcHFDaTVOb096SXRDZWE4YnBIekowU0xoTV9pcmI5S0ZSb1BJVjllTU0ybTM5Qlg0RXFkRjdXOHktUkdjbmN5dmgxRDQ2bXY1d185QlY0S1ExakNHTWh5SXFjN3V2U2Qzb21n?oc=5",
+      "publishedAt": "Sat, 09 May 2026 13:29:24 GMT"
     },
     {
-      "title": "'칩플레이션'에 플스 이어 닌텐도 가격도 오른다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HN0RCU2NGRVlZUlU3YVRSYVdZTFREbjVWT242R3poUUZHSDFjXzNvbm1QS2U1X1RnRUlfMFU1eW1LbFpHS2VyTmhFTk9rblgtTFVibHM5T2RZb214ckdsY29nbi16S3ZpSldwN2I4cll6WkJBOGQ2aQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 11:16:00 GMT"
+      "title": "조지훈 민주당 전주시장 후보, 필승·압승 다짐...선거사무소 개소식",
+      "source": "아시아뉴스전북",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTZUdGTDF3dzBtNEh4VFEyYmgwN19pZHJrbmZBS3lGWEFRVzZPaXpacjJnNXFiOUU1aDgzVGRKbVoya3VxX04xSG1iTnNXWTNBOXNqenVWSHhZa21DRm5mclVmcmhONFNCNUHSAW5BVV95cUxOVHFXOWMwZ3JZbkhvMkdNU19ueVg2QXRoaG5IVEtrUG1LSUdTYUVwemhQS3lTUFhyOVdkMXVOVmtXeDl1bnhVclhOT0tUQzhaRmE2ZmNRQVJlcjRXcUs0aHRVUEVXWG5WeTJRN1c4UQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 12:53:29 GMT"
     },
     {
-      "title": "지선 D-25…정청래, 중원 세종·격전지 영남서 \"전폭 지원\"(종합)",
+      "title": "강성휘 \"실행으로, 성과로 증명하는 목포시정\" 약속",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyLVJSN0hXbDRLUE55a09QQ2VldV9QWUtVclllaTh2WUtjcnpKLUVHU3JSQnhmdlp1X2xTeWdQcGVnWWpETUI2TER4NW9zR2FrcURn?oc=5",
-      "publishedAt": "Sat, 09 May 2026 11:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vX1hGZnVXQWNBUUExUHZsMHcxbTl1eHdnOG5fc0h1emc3VGJDbzFueHhFcE1jc1VmSEhISkJxUXNuWlNJZmxfaGl6VEJaN1hpWl9KUUFybmVVcDFhY296NFZhZlhOajlpRWc?oc=5",
+      "publishedAt": "Sat, 09 May 2026 13:14:00 GMT"
     },
     {
-      "title": "권순기 경남교육감 예비후보 개소식…\"교육 중심지 경남 만들 것\"",
+      "title": "[탐사보도 뉴스프리즘] 하이닉스가 쏘아 올린 성과급 경쟁",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qTlZ6NHprVW1vT0w5Y0NpRFJCSlFibXdRWHJpTzd6UWVDd0I3UTVIRlpsRy1pZG1BVmRXNGl6Q1BLZTExWG1sUFdWQU5sLTk5YnJiNjhaN2I2NGY2dVRyMDJoLVJuT3FnVFZoRlZBVGF1cnM2alBVZw?oc=5",
-      "publishedAt": "Sat, 09 May 2026 11:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VeHlZakxPSnhxU0tiTDRyaERKZHN1eWVCdlgxUDVfbVBHTVJHOXhtcV9MYUtpWFNtZGVlZE5aWkM3TEYxTDlheFl4QWV3bkRJSGhj?oc=5",
+      "publishedAt": "Sat, 09 May 2026 13:06:00 GMT"
     },
     {
-      "title": "김학래, 라이브 카페 주요 고객 폭로 \"불륜 커플 티 나…꼭 붙어 러브샷\"",
+      "title": "\"맛없는 식당\" VS \"질소 포장\"…서울시장 설전 '후끈'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56bm84SERRVVRGOXAzODF5X0RvYjNUV3pyZ3BOdDItQ1RJVHdoZEc0OFpfZXhFNlNCckJkQVg3TlhtY2dUZlZxTm1tZlRxRDFZZVFiUTZ1cHFqNm95RlVwcQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 12:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xYm0xVGZweVVTa0MxeHJSeDlVMF8yblUxeUk4SGRGbHBnVVJ6cTNBVVZvMFBGNDZlTGdfSFpJTDljSmlETEt1a3RJY1U0OHJDUTNB?oc=5",
+      "publishedAt": "Sat, 09 May 2026 13:19:00 GMT"
     },
     {
-      "title": "바레인 \"이란 혁명수비대 연계 조직 41명 검거\"",
+      "title": "[김남현의 채권썰] 나쵸(NACHO) 트레이드",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YZDZnTnpSdEthbUxjYlZKRHdzUDJIMzdjVTIwMkZwczlzUzlKTjR4YVFmNktTam9WaVhQRThBWnoxbldyblBCRTkzbGx5NFVLWHpn?oc=5",
-      "publishedAt": "Sat, 09 May 2026 11:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TLXJQaWxGc3V1Z010WUQ1Um1xS1RlLTg1QUt5RVQya25fbVViN0R3SDdwMjZldHJGbTdFd0h4cGVneG9NV0p5dVBuWHJVR1R1Z3NN?oc=5",
+      "publishedAt": "Sat, 09 May 2026 13:27:00 GMT"
     }
   ],
   "sources": [
