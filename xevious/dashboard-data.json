@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T02:32:14.380744+09:00",
+  "generatedAt": "2026-05-10T03:13:44.300178+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "10.6°C",
-        "feelsLike": "8.8°C",
+        "temperature": "10.4°C",
+        "feelsLike": "8.5°C",
         "highLow": "최고 22.5° / 최저 9.4°",
-        "humidity": "66%",
-        "wind": "3.4 m/s",
+        "humidity": "64%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "42.0 μg/m³",
-        "pm25": "41.8 μg/m³",
+        "pm10": "41.1 μg/m³",
+        "pm25": "41.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-05-10 02:15"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-10 03:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
         "temperature": "7.8°C",
-        "feelsLike": "5.5°C",
+        "feelsLike": "5.4°C",
         "highLow": "최고 20.9° / 최저 7.4°",
-        "humidity": "84%",
-        "wind": "8.2 m/s",
+        "humidity": "82%",
+        "wind": "8.1 m/s",
         "rainChance": "0%",
-        "pm10": "42.0 μg/m³",
-        "pm25": "41.8 μg/m³",
+        "pm10": "41.1 μg/m³",
+        "pm25": "41.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-05-10 02:15"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-10 03:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
         "temperature": "7.5°C",
-        "feelsLike": "4.8°C",
+        "feelsLike": "4.7°C",
         "highLow": "최고 20.5° / 최저 6.9°",
-        "humidity": "72%",
-        "wind": "6.8 m/s",
+        "humidity": "67%",
+        "wind": "6.5 m/s",
         "rainChance": "0%",
-        "pm10": "42.0 μg/m³",
-        "pm25": "41.8 μg/m³",
+        "pm10": "41.1 μg/m³",
+        "pm25": "41.0 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-05-10 02:15"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-10 03:00"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "9.7°C",
-        "feelsLike": "8.1°C",
+        "temperature": "9.2°C",
+        "feelsLike": "7.4°C",
         "highLow": "최고 24.1° / 최저 7.2°",
-        "humidity": "74%",
-        "wind": "3.4 m/s",
+        "humidity": "75%",
+        "wind": "4.3 m/s",
         "rainChance": "0%",
-        "pm10": "20.4 μg/m³",
-        "pm25": "20.1 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-10 02:15"
+        "pm10": "21.1 μg/m³",
+        "pm25": "20.8 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-10 03:00"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "금광주유소",
-        "address": "인천 서구 중봉대로 1593 (금곡동)",
-        "updatedAt": "2026-05-04 10:16:39",
+        "stationName": "(주)자연에너지 금곡주유소",
+        "address": "인천 서구 봉수대로 1491 (금곡동)",
+        "updatedAt": "2026-05-09 18:07:14",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,28 +376,16 @@
   },
   "news": [
     {
+      "title": "\"카스피해, 이란 '대체 무역로' 급부상…러시아발 물자 지원 통로\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHblRTck9FTUJ4QlJUV1VJY0xuVGpLQm1RYnpaUVd6NjF4SFlPTnVESk9kdGFTLXJBYVlqem95QllSaE1DMGFPOS1qVWhOWEhsRnZPVlBudlVxQzFCQklLOFZR?oc=5",
+      "publishedAt": "Sat, 09 May 2026 18:01:14 GMT"
+    },
+    {
       "title": "KIA 타이거즈, 3~4월 '10홈런 폭발' 김도영 및 '4승 ERA 1.64' 올러 'MVP' 선정",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TbDdSbTR5UTZrN2dsYTdGMmNqTUtmYkFGa3Jmd3o2a3NMRXFrd21SUUNtbVNGUnBhRWFiYkFnYjNsVnN6a0NkYlloa2VMQnNkZTFJcUtFZ0FwQ2JuU2JrYzFMZTg1REY4YTN4eEJWQ3phVk1xSV8wLQ?oc=5",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLZm1BMkg5N0N0TF9rZ0xwdWJPYUloMTdFXzV3QUhvX1N6Ql9HdGdUWlhsNk9reEZYcmZsaFhndHJiU3ZXbUdvbnA1RHluWlV3OF9HODdBM0xteFVJ?oc=5",
       "publishedAt": "Sat, 09 May 2026 17:24:00 GMT"
-    },
-    {
-      "title": "\"국민 10명 중 6명은 현행 수사체계 개선할 필요\"",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96T1pHYUpnd3UzU3ZyckpieVVYd1dRdllqTkFWMm5lVW1ISFEweXE3anY5bUtacS1EOFNuemktOG9JR2RWYWlvUWMwNVM2OUxyMU1KbXpKMElHZ3hwYktSVkU5dm1mdUZIVWp3?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:45:56 GMT"
-    },
-    {
-      "title": "외로움은 사회적 재난이다.. \"차관급 전담 컨트롤타워 설치해야\"",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EQXJYLW42LWtVU1dZVXZQXzRUWkFDdTk3STA3elNFMzZ4d3BrQXdTN3BSRHhzTzgwdnlaX2hlVWEwU0htUzAwdXVwdUJOLVFQR1BYWXFaS1FkNHQ2YnE4WXF1bDZ4aGlMYU5J?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:35:09 GMT"
-    },
-    {
-      "title": "김병욱 성남시장 후보, ‘성남호’ 개소식 성황…“대한민국 경제수도 성남 만들겠다”",
-      "source": "월드장애인사랑뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0SU1RMUI5UkZWZk90dDVUWWNYSkNjckgxekt2eU9LZlJ4aVVGTmJLbkdRVHo5ZVVXVkZPam0tektOdmRqdGllVTVWS2luOEFHOVJseU52RGJDelA1ZE5Yb0taOS1SOElOVC1Nc0Z6NA?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:52:58 GMT"
     },
     {
       "title": "'충격' 11억팔 유망주 몰락, 고작 150만원에 불법 이민 운반→美 퇴출 위기 \"재활 중 돈 필요했다\"",
@@ -406,16 +394,22 @@
       "publishedAt": "Sat, 09 May 2026 17:22:00 GMT"
     },
     {
-      "title": "박관열 더불어민주당 광주시장 후보, 선거캠프 개소식 성황…“직통시장 되겠다”",
-      "source": "월드장애인사랑뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vTEttUTRWUW02WU9pdjRZY3hPdzJlbkwtMk11RDgxZDZrN29saGFIWUZ1Q2FGajI5ZVl1SDdycV9xOFNaNHNrbk90RFZiVDMwMm53d3p5YlVDc1hZd0tfS1pkYzFoTjBadC1LdXZIbw?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:43:20 GMT"
+      "title": "'아형 고정' 김신영, 출연료 협상 만족? \"장학금 타결 잘됐다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xSk1VVUxXbGdrR1RpQk1GTDZsR1hmUlcyRVl3NGRCdklSTUcwYVFEUzUyT05Yc0FhTjkybDZPQnZqVnRJNllUR2tDVkxId1hJeU04?oc=5",
+      "publishedAt": "Sat, 09 May 2026 17:39:00 GMT"
     },
     {
-      "title": "'충격적 패배' 女 최강이 男 U-14 팀에 무너졌다 \"아직 운전대도 못 잡는 청소년들인데…\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUTIxSlZGbVV2VXZCcV82NHhBdDVyMUNYYy0yY09YdlR1Y01KZ0Y3aFV1b0Q5VkpheVI2STFJU09NS2NubGlDSnRVQU9fZExZSWxLWVF0cjNXaVlt?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:55:00 GMT"
+      "title": "최화정, 야식 즐기면서도 몸매 유지한 비결… ‘이 음식’ 먹었다",
+      "source": "헬스조선",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lWU5VbjNaU0FFcGwwTDU5U1puMXMyV2ptdDlNSW5qdGt4Y3g5SXdXT25TTFd6TTNLUlJ3QXIxN2RSNEV6LVNsU3BuN1dxX1pzT3ZLMEUwbXp6R2wxUXY3dmdXcVhHUHROTGVucUdseERGRUIxSWc?oc=5",
+      "publishedAt": "Sat, 09 May 2026 18:02:00 GMT"
+    },
+    {
+      "title": "유비소프트는 어쌔신 크리드 블랙 플래그 리메이크에 대한 새로운 세부 정보를 공개할 것이라고 약속했습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRm94aWJMUEVReWpvX0QxUDZlY1o1cFNNcmtlRmpHajRfbzhiYkk4VVZUM1VuYUpfTTVhTTRheG16X3FteGpHcTZ2eXc0cmVHandqU2F3V0VST01qWnpDTFd1c0ZRQjRodXFRSjAzd0lucnpCSGl6a2toQ1RQaWF4Ul9MMkFhSTRuZV9RM3Z4cnFMNlhvczhKVXowSWJYSmQ4UUVsYXFhNHZ5MUtZckdjUTZ0Mi1aci1XNmdV?oc=5",
+      "publishedAt": "Sat, 09 May 2026 17:54:46 GMT"
     },
     {
       "title": "스팀 리뷰가 부정적으로 나오는 가운데, 헬다이버스 2 개발사들은 새로운 콘텐츠를 약속했습니다.",
@@ -430,10 +424,16 @@
       "publishedAt": "Sat, 09 May 2026 16:26:33 GMT"
     },
     {
-      "title": "“대장암 위험 확 오른다”… 주방에서 하는 ‘이 행동’ 주의",
-      "source": "헬스조선",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reUxWRHNRSGtSOXRIZ3Z4OElsM092ZFpfa2h0UE5wU3ZIWkVFY0NlbXRLUEFlRGs2Uk9nUVpvUThDcmdtaS1BcGhRZVYwZHdTZFNlSV94b0RaVlhQeWJfRmhWbVFCMVZSM1ZTTmFUS3ZTcVpiR1E?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:25:05 GMT"
+      "title": "장동혁, 부산·대구 연이어 방문…박민식·이진숙 지원 사격",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HS2VUX1VzNUtpZl9jTnBLMFBOcTR5dG9vVkdpbnRxMHNrclhKeWx6Y3hRR0RBVXoyZThnaW1mYnJfVHRfMllYTmdzQkpEdUR2UndkN0dMeFdoRlk?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:02:00 GMT"
+    },
+    {
+      "title": "\"다 내 욕처럼 들려\" 이연, 무대 공포증에 연기 치료..그 길로 배우 됐다(전참시)[핫피플]",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTdhOFFpZEVGWUI2TEpXdmkxRzRZSHB4VU9ZTzh2NTA4U0o2eFZyTjMwT0txM0lDUEg3dnVfdDZ3bUotbXdqNXJkTG1GQ3g3ODlGWDJPMkVQSkdCVEJpa2dsUHVOM3h0bVNjS1NwRnd1MzNSWUNsWUZDRmhnSFpCd29uTDVoUmJTeUtvc2F6cw?oc=5",
+      "publishedAt": "Sat, 09 May 2026 15:44:00 GMT"
     }
   ],
   "sources": [
