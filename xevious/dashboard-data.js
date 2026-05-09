@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-09T18:46:29.427715+09:00",
+  "generatedAt": "2026-05-09T19:36:58.290759+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "16.7°C",
-        "feelsLike": "14.7°C",
+        "temperature": "15.5°C",
+        "feelsLike": "13.6°C",
         "highLow": "최고 20.2° / 최저 8.5°",
-        "humidity": "42%",
-        "wind": "3.6 m/s",
+        "humidity": "46%",
+        "wind": "3.7 m/s",
         "rainChance": "0%",
-        "pm10": "10.7 μg/m³",
-        "pm25": "10.5 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-05-09 18:30"
+        "pm10": "13.3 μg/m³",
+        "pm25": "13.1 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "36",
+        "updatedAt": "2026-05-09 19:30"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "14.5°C",
-        "feelsLike": "13.2°C",
+        "temperature": "12.9°C",
+        "feelsLike": "11.4°C",
         "highLow": "최고 18.5° / 최저 7.3°",
-        "humidity": "64%",
-        "wind": "5.5 m/s",
+        "humidity": "72%",
+        "wind": "6.8 m/s",
         "rainChance": "0%",
-        "pm10": "10.7 μg/m³",
-        "pm25": "10.5 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-05-09 18:30"
+        "pm10": "13.3 μg/m³",
+        "pm25": "13.1 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "36",
+        "updatedAt": "2026-05-09 19:30"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "15.2°C",
-        "feelsLike": "13.4°C",
+        "temperature": "13.4°C",
+        "feelsLike": "11.9°C",
         "highLow": "최고 19.1° / 최저 6.2°",
-        "humidity": "53%",
-        "wind": "5.4 m/s",
+        "humidity": "67%",
+        "wind": "5.9 m/s",
         "rainChance": "0%",
-        "pm10": "10.7 μg/m³",
-        "pm25": "10.5 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "47",
-        "updatedAt": "2026-05-09 18:30"
+        "pm10": "13.3 μg/m³",
+        "pm25": "13.1 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "36",
+        "updatedAt": "2026-05-09 19:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "16.3°C",
-        "feelsLike": "14.0°C",
+        "temperature": "14.5°C",
+        "feelsLike": "13.1°C",
         "highLow": "최고 21.6° / 최저 4.3°",
-        "humidity": "50%",
-        "wind": "9.0 m/s",
+        "humidity": "61%",
+        "wind": "4.5 m/s",
         "rainChance": "0%",
-        "pm10": "6.7 μg/m³",
-        "pm25": "6.5 μg/m³",
+        "pm10": "7.4 μg/m³",
+        "pm25": "7.2 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "51",
-        "updatedAt": "2026-05-09 18:30"
+        "airQualityIndex": "42",
+        "updatedAt": "2026-05-09 19:30"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "부광셀프주유소",
-        "address": "인천 서구 봉수대로 1623",
-        "updatedAt": "2026-05-05 07:39:03",
+        "stationName": "(주)자연에너지 금곡주유소",
+        "address": "인천 서구 봉수대로 1491 (금곡동)",
+        "updatedAt": "2026-05-09 15:05:55",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "이란전 해운 차질에도…中 4월 수출 14.1% 반등",
+      "title": "[한국뉴스 TV] 26년 5월 9일 (토) 한국여행",
+      "source": "24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfTjNIcHVnZWhSQ2pmV0RweGJ0cFFGdjFseG9RbWdLR3pKeGlhbmgySWo3R0hiWWs4V2hlUDcyUXFSZ2RFaHl5V0FnNi1uZnRvZVJvR3duWjNSQ2NBY1VkeVZzVlYxbHM?oc=5",
+      "publishedAt": "Sat, 09 May 2026 10:06:06 GMT"
+    },
+    {
+      "title": "\"이란 하르그섬 앞서 대규모 기름띠 확산…석유 인프라 붕괴 우려\"",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CTUxPbWV1dEFBaEYxdkNpUlIzV3kxVXlTdmZIbHV4N1daRGhnVFI0R29Cdzh2Y2U0c3Y5VHc5MHJxRlB2VHhad25vUFVXaWtENXg0RTRfN0RCVmZwWkE?oc=5",
-      "publishedAt": "Sat, 09 May 2026 08:46:45 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MdGZaVXNOaE5OVkdReS0zTUdHeGdIOV9vM2N3aGIyV0xhNjB6WlZoXzZJSC1acFJYUXA5U2ZsaTRfM3pLNXlYYTdjOXdtQS1BMXprNmlTM1U?oc=5",
+      "publishedAt": "Sat, 09 May 2026 10:03:57 GMT"
     },
     {
-      "title": "대구 시민들과 인사하는 추경호 후보",
+      "title": "[내일날씨] 일요일도 화창한 날씨…미세먼지도 '좋음'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wT2lEZElJUEdkSVFJT2t1T2FNZm92eUFmOWZuR3VTTzJ1MVJBUV9qbXgxSWdMQjhHMmlkczF6dXRqYXB1VW1MRk45UUhoYmd2bTJN?oc=5",
-      "publishedAt": "Sat, 09 May 2026 09:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vdWFvY1dOZGE4MVZ6YVo3S0hDb1lkR0gtMUQ5dF9DcWRoRVg2RS1qZUZNUG93dWdUVmJJQ05wakpZRmZKQ0ZyRmNfRnFWRkpfeGJxbTk5bmY0cVFheFhTVnNyYXlHS0dTdy13Tm1uNnJtcGtjcEctWg?oc=5",
+      "publishedAt": "Sat, 09 May 2026 10:18:00 GMT"
     },
     {
-      "title": "브레이크 고장 과적 화물차로 사망 사고…징역형 유예",
+      "title": "진천 중부고속도로 차량 8대 추돌‥6명 경상",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNjFHWnZyV0l1Rkx2QmFqRzBiMWFtWFZ1Q2ZPdF9wT2NKZ1ZfdnBZWFY3VnVJS1M3LU9GVDZrYWk4b3IwZW0yUUwzZWpOLU10VXNydGtiTWgxV0d5RnljUkw5VkpHQlduMzBjYjVDSEtFWmI5akxRVFkxSk5sVWt3djdQaXR6LVQ2U0HSAXdBVV95cUxOZG81OUlSRTNKc0FYTUN1QU1KYmEtaUE3TnRyZ1dEZ3BxWmxaUmt1X2tQX052WlRfS0Jnbk4zYndfaXRzV011bVM5ME1DR1M1LVBQZk5LLUstSGNUMVhUNmNUZjhVUzc3Q3FWemxNM1BCX29kOG5wbw?oc=5",
+      "publishedAt": "Sat, 09 May 2026 09:44:17 GMT"
+    },
+    {
+      "title": "골드만, 금리인하 늦춘다",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rV1hlSWdpMU4zZFhVVmZEM2d4c21kSWJQNzNSdnIxZUpWWW1QVnNERlY4YlNfNThTVTVjRVJDQkkyM2FZc21tU3pyM3JHajR6RU5ZVTB4SXRSVmQxQlpEYS1EQnQ4cHpQT0Fr0gFvQVVfeXFMTm9HLXdiRkhCNXp6SzBOYXd6WkRMazdMaXVsWGIzVnUzdldEb1FYMHUwQmtFSnFJbkVqejQ3enFHRGpWaGotNDMxSVBZR0dBNUU3QXBGdUh1aU9UbzZOSHNVcXZ5QVJiN0s4XzVQQ01v?oc=5",
+      "publishedAt": "Sat, 09 May 2026 09:52:28 GMT"
+    },
+    {
+      "title": "‘빅쇼트’ 마이클 버리 “반도체주 강세, 닷컴버블 붕괴직전 상기”",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBubFoyVlB3c3hEUXJFbFlicmdXTFM5ZW5Fc0NGN2NBLWJyUVlQVFF1OEprT1huWHI3Q09Lb2JXVE00NXFDYnhQb1FpYmhnY3gyTXfSAVNBVV95cUxQZmdjRTRyUEJRQjdBUjBmSENJSzRZOENuczdTbkVERXFVbVZ2Vk9vblQwa2diclRxYVJyN3JkM25LYW1yOEdEbV94UkhQZ2NvdTFmOA?oc=5",
+      "publishedAt": "Sat, 09 May 2026 10:08:29 GMT"
+    },
+    {
+      "title": "동성로 찾은 추경호, 젊은층·가족 단위 시민 만나 지지호소",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VUzQ1TUx0MGkxOWhVOTE4NFF3VjNwRUhqMHR6eVIxal9tOG9WYVRHOFpwNkdSUXFZckZPVmtld2xfYnhrVldrU1J2OXphTm5qd3dN?oc=5",
-      "publishedAt": "Sat, 09 May 2026 09:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nTmlqU29jcmFjbEVUbUdxZnp2ekd2d0dwYlhXWU5QUURPdVhrbENrM2J1cVMyQWE1UFprcnNlYnQxTFBjM1ZRVFpMWGtnaGplanpJ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 10:09:00 GMT"
     },
     {
-      "title": "블랙핑크 리사, 2026 북중미 월드컵 개막식 무대 선다",
+      "title": "감사의 마음이 넘쳤던 희망나무노인복지센터 음악회",
+      "source": "24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14bTNielFQMlljV3BiVXFHZ0oxcFJUUVhoN1BSQmR2MlgxTGlUMFJ2SV93Ui1SUnNUdG9YdmFVN2Y1cEVBeVVRWW5ua28yWmlqLTFZcTAxRUJzZ21tSGNuZEt0b256cVU?oc=5",
+      "publishedAt": "Sat, 09 May 2026 10:05:36 GMT"
+    },
+    {
+      "title": "코인베이스, BTC 1103개 추가",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1ZkxQbjB0N3I0QUY4d2ZMLWx5V1F3N3o2Mi1hbWw3QlRWeWN6bjJ1Y042RGp3azJHZGItZDc1OWVEZ1NkaWxQblk4WkJLNjlWb3BqQzZMZnQ0QXl4SGhqdzdGQ1VPWFpvWmxr0gFvQVVfeXFMT0JsNy1OcjRXeTRCaURnYXNpdUQwVU0ySTJYbmJtRHhTSEJ5X1I5UnB3eV9sdmE1dTFoU0dHc2lCaVdTUDkxdm9IeGd4SFdZUm04N2FtbFllSWNsalhTMGVEb3VaNjhuY3d5WFR0MFdR?oc=5",
+      "publishedAt": "Sat, 09 May 2026 09:46:57 GMT"
+    },
+    {
+      "title": "몰래 '약물 소주' 넣어 두고 남편 살해 시도…아내·태권도장 관장 구속",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hZW1ZT3V0U3RLa0Y3UG9lMFRwdHF0MXdGaXNOS0RIVzFpTDYyUk5ObUk0ZGI1OWtObWIwQnJLLXhwYUVNdVlfNHQzcU9YcGRWWlZV?oc=5",
-      "publishedAt": "Sat, 09 May 2026 09:11:07 GMT"
-    },
-    {
-      "title": "자유총연맹 대전시지부, 보문산 환경 정화 봉사활동",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BQzhGZ3Y4cXl6cUphb3REM0NOSjNJUDZJY2FFRTg2X0dkRVJ5czVraTk1bmJWZE9SMWpYc3VVWkxmOVAya0VYUmtfbkFtN2lxcTU4?oc=5",
-      "publishedAt": "Sat, 09 May 2026 08:52:00 GMT"
-    },
-    {
-      "title": "\"알칼라인 전해조 특허 패권, 日 50%→中 52% 대역전\"... 그린수소 핵심장비, 한국 ‘실증형’에서 글로벌 권리·표준 경쟁 시험대",
-      "source": "특허뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Ib0JKYlhlTk5jaXJXdU1EdFhRS1N6MTJsNmd5TENMWklqR09lSFp5aFFHNWxJcHZCTzdwdklBOTBMaE44eVVzbQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 09:13:00 GMT"
-    },
-    {
-      "title": "[현장]난지공원 채운 치킨과 떼창…bhc '별하나페스티벌'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IYUdqYkRHbHhwODF2VDhfdUZWWjBlaGdESE94N3BtZlRXZm1rMDFyVzdpUDU2ZE1TWEs4ZXN4cHBVdEVXV3JyWm1NT2V4UWRxQUhEUmR4RkMyaFpnQ1VJdDU4alpyYnpVS1dEcDREX3E2aWNPaFJ0dQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 09:42:00 GMT"
-    },
-    {
-      "title": "정원오 “용산 개발 오세훈식 안돼”…오세훈 “개발 지연 민주당 책임”",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVXU4MTRlVDFwRVhCeHFWODJQb1ctM1JjSHMwRll6QWg5WXpGaVk1bHZvcUh2U2lIUlI5M1ZWczlTbFBveHhLT0ZBQmQzcWpDWFozNG05MU5pcEl2Rno5RUZ2MlUzc2pwa2pCX3BNTmh1OXhoQXV4RE5IaUZPVUh0MFFITdIBY0FVX3lxTFBnSm8yclVRXzVkU09yeWdtZ2RaRHhwM1dqQURIRTFIMXB1VnhvbnBDS0FyVjdPVGJ6UUUzQmJYdHdpWTVvaU4yR1JUcGFqY1NaNkNsczZCaVd0Z19MT2lFYUVDVQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 09:17:00 GMT"
-    },
-    {
-      "title": "강원서 산악사고 2건 발생, 등산객 헬기 이송…생명 지장없어",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VYXllU25nUEx2a01Ec1MxbDhGazNHME52VlZoNmN4YkN0QndSR1NqOW52ZkRDNVVSQWpsWkdEdnhESEc0U0h0cG8yY2w3cmlHMTNj?oc=5",
-      "publishedAt": "Sat, 09 May 2026 08:49:00 GMT"
-    },
-    {
-      "title": "정원오·오세훈, 부동산 공방…\"용산 방치 vs 박원순 시절 잊었나\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UYXRRSkFjTVhTZ0tRYVF6cUE4N2tuLXQ4RjhsbDZBWjZIdlNvNW5BMVJIOFFYNS0zRlFPdTl3WkZNQ0JfUGxjWlVwNGFBMjF3TDhj?oc=5",
-      "publishedAt": "Sat, 09 May 2026 08:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVElhbGtEWjBOX0dSSlN5eGdGNVppUHZQbmZuT3JzRnRzblJIeEUzNk85OHZ0dFNiZXhnNXhDTFRjbEVhcEp3Q3Bkdnh0cDdpeXF3RHNORlQ3U19YTEVfbDZBNDhCX2ZMRkpXVS1jWGZjM25MRDZmTA?oc=5",
+      "publishedAt": "Sat, 09 May 2026 10:20:00 GMT"
     }
   ],
   "sources": [
