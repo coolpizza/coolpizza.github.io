@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T05:10:05.555728+09:00",
+  "generatedAt": "2026-05-10T06:00:57.610277+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "9.5°C",
-        "feelsLike": "7.7°C",
+        "temperature": "9.2°C",
+        "feelsLike": "7.3°C",
         "highLow": "최고 22.0° / 최저 9.2°",
         "humidity": "67%",
-        "wind": "2.0 m/s",
+        "wind": "2.4 m/s",
         "rainChance": "0%",
         "pm10": "38.9 μg/m³",
         "pm25": "38.8 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "42",
-        "updatedAt": "2026-05-10 05:00"
+        "updatedAt": "2026-05-10 05:45"
       },
       {
         "location": "김포",
         "summary": "약간 흐림",
-        "temperature": "7.3°C",
-        "feelsLike": "4.4°C",
+        "temperature": "7.1°C",
+        "feelsLike": "4.3°C",
         "highLow": "최고 20.3° / 최저 7.3°",
         "humidity": "74%",
-        "wind": "9.3 m/s",
+        "wind": "8.2 m/s",
         "rainChance": "0%",
         "pm10": "38.9 μg/m³",
         "pm25": "38.8 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "42",
-        "updatedAt": "2026-05-10 05:00"
+        "updatedAt": "2026-05-10 05:45"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "6.9°C",
+        "temperature": "6.7°C",
         "feelsLike": "3.9°C",
         "highLow": "최고 20.2° / 최저 6.8°",
-        "humidity": "74%",
-        "wind": "8.9 m/s",
+        "humidity": "79%",
+        "wind": "8.2 m/s",
         "rainChance": "0%",
         "pm10": "38.9 μg/m³",
         "pm25": "38.8 μg/m³",
         "airQuality": "약간 나쁨",
         "airQualityIndex": "42",
-        "updatedAt": "2026-05-10 05:00"
+        "updatedAt": "2026-05-10 05:45"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "7.0°C",
-        "feelsLike": "4.5°C",
+        "temperature": "6.9°C",
+        "feelsLike": "4.4°C",
         "highLow": "최고 23.7° / 최저 7.0°",
-        "humidity": "84%",
-        "wind": "7.9 m/s",
+        "humidity": "83%",
+        "wind": "8.3 m/s",
         "rainChance": "0%",
         "pm10": "22.4 μg/m³",
         "pm25": "22.3 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "37",
-        "updatedAt": "2026-05-10 05:00"
+        "updatedAt": "2026-05-10 05:45"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "금광주유소",
-        "address": "인천 서구 중봉대로 1593 (금곡동)",
-        "updatedAt": "2026-05-04 10:16:39",
+        "stationName": "(주)디오티디 인천랍스터주유소",
+        "address": "인천 서구 봉수대로 1543 (금곡동)",
+        "updatedAt": "2026-05-09 23:01:04",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,10 +376,52 @@
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (10일, 일)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zejB2eDhXZDI3aHZOb3E0RThrUk5lN3hxSGtRRzJ1eU9zeGk2UkJjSkl6cURkZ1MwdXp2WnFnU3FnRkxlSlBsUlUwU3RhQ1VSN29qVER5RC1EQQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 20:00:00 GMT"
+      "title": "[제보#] 명함·책갈피·초콜릿까지…'개성 가득' 이색 청첩장 인기",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MNVJ1VmhfTkxmVEVZU0x5UFdMb2lYVFA4b25YWDBjaGhRRDgzSTNDc19wQlFwMHp3VFRrNGl4NG5GSUJuTGhBc0RwRk80eHR6R1ZWMkpsVDJiclXSAWBBVV95cUxPSmlrenlTY0plcU1SMVFjb3h4YmxNNlNjTjMyc0VWNFdURUk1SUphOVpOMm9PMDVTRmsxWjQ1dVlZNGU2NzhkdkxOVUcxNUZOakpleFZSSzJ1amd1VkpYc2Y?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:30:01 GMT"
+    },
+    {
+      "title": "OECD 에너지물가 상승률 한달새 8.6%p↑…글로벌 인플레 재점화",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yTmhUNGFSSkduYWZ5S1FxaWVjRENvMEJ5dGVkOHhqeXZjYUFiMUEwTnhNTzdxYjRZdEJ4UExTdlJacTVUQ0Fhbl9sUjlyeWI0S3c?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:45:01 GMT"
+    },
+    {
+      "title": "민주당, 오늘 6·3 지방선거 선대위 출범",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHMEd1dklaVnh0UkoyUGFqZ09ZNXdZT1oyWWRlNW83eDd6Y0dXVG5TSVZqQlBoNGJxeTNzVHpPQVRldlQ0cS1XdWtYV3Ntai1ORFFZcXJ6aXh3ZnFhZEJWNFRRbGJBcExIclE?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:28:00 GMT"
+    },
+    {
+      "title": "석유최고가격 '방파제'로 글로벌 물가 격랑 피할까",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44RVJZaTRhTFJWdndpSlBUSGZuRWkwWmZFazQ1LUpSVEtBYVEtZ0FyZW9tX0pxWGc1NUhuRW5Zdk92c05Ja1cyTDVJdDVCWWQza3c?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:45:03 GMT"
+    },
+    {
+      "title": "'경력직 재대결' 대전…\"마음 정했지만, 비밀!\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SVURSR2pUYm02OVBRbjVqMVIzNGowekVPZ1l3Z3FkamFaYllhZ2xQd1dlNWV3eUQ0N3RsU1c4ekNDVU5OS0gwV2hBSTVkVjV0ekY0?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:24:00 GMT"
+    },
+    {
+      "title": "5대 은행장 \"금융 역할 재정립 공감…건전성 챙겨야 지속 가능\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OcjByMTJKZ1hyMV9xeklEaWcyYzBqYUxpOTZTU1R3MGZfMkE3aXRJUFhVbzloQm8xbXB0TWlFSDVSb05zc0xIMTVreXlXZFFyY3Rr?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:49:00 GMT"
+    },
+    {
+      "title": "불장 놓칠라 마통 쓰는 개미들…5대銀 잔액 3년4개월 만에 최대",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMV2FxRktKYzhkR3JDUjBMVGN4Y1E4WFl4SUhrYkdFWXNBM19kRkpRZWxBbFNUYjk1M0x4LUFRZWM4M2N1ZDc4cEhCZ0ppY0I4TUhz?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:51:00 GMT"
+    },
+    {
+      "title": "여신업계 사잇돌대출 하반기 나올 듯…중금리대출엔 속내 복잡",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WY19ZZE1hSzNvR0l4OTRjZGlZWlBNWXoyQ0wteXM1aHpLbGZyV3I3bGtBVEhUMFhUcDgzdWYzN1VTWE8ybkJlb1psOXZIeUNxUWtr?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:48:00 GMT"
     },
     {
       "title": "'미토스 쇼크' 현실화…AI·양자 시대 국가 보안망 뜯어고친다",
@@ -388,52 +430,10 @@
       "publishedAt": "Sat, 09 May 2026 20:02:00 GMT"
     },
     {
-      "title": "양도세 중과, 4년 만에 부활…다주택자 '절세 셈법' 흔들",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zYkstc0RZNHk3aF9vWC1nMlFQaGNDRDFrMi05RWpFWFdCVWRHekExSWZ5NXN1OWFuYnBEU1RUWE5uN3piZE9Jb2JyazU0enRXRmVheHhwbjVnQ28?oc=5",
-      "publishedAt": "Sat, 09 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "\"양도세 중과 전에 팔자\" 쏟아진 급매물…30대 이하가 절반 샀다",
+      "title": "이란 \"이란혁명수비대 출신 입국도 보장하라\"…미국 \"혁명수비대는 테러단체\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlTUVHdEgxSXBtRGtwbjdxcHZLZVBqQUh6OXdmODBZZ2JOLUxYR2xfTHBncDlJNlJHTFBJcUJna3FPTjdIenRTQmxNZ2VVLUVnMXdIbVVjQ2IxWDJ1RHBEa2hYWmZPZUJtLUJHZEtmOThuZGxVbmkyZg?oc=5",
-      "publishedAt": "Sat, 09 May 2026 20:01:00 GMT"
-    },
-    {
-      "title": "박서진, 61kg→72kg 턱선 실종…\"살찐 거 맞아? 제작진도 경악[살림남][★밤TV]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1b3ZFWFNTUUpyVEVLQl9YVWk3Y1oxQURnbFRsei0wUlN1c1ZZOWFoc0toS2UwZ3lvWl91WFNRRVpzVXQ3REpEM2FLSW0wejFmZUsw?oc=5",
-      "publishedAt": "Sat, 09 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "백악관 실세 상 받는 날, 내각 총출동…트럼프도 깜짝 축하 \"최고의 참모",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9maE1nTmZxR2EzYjdnRkh3RTFGbFlIQmZEVElWN1FTeTFDRXJSYmhNMjVES1VsN1J6Q1lJXzVQeUV5RVlZWi1OTHM3d1lrSEJKZHY4?oc=5",
-      "publishedAt": "Sat, 09 May 2026 20:01:00 GMT"
-    },
-    {
-      "title": "[단독]군사경찰 수장, 의문의 방첩사行…짙어지는 '계엄 모의' 의혹",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TSkF1dkVBcGRNamxsTVIxdUljeGlqSUEyRy0yazlPWEpBZ1d4UXNMNjdNZmV1R0EybEh2Um1jbHdMWHRHemxFZWw3UF92cjNGQlR1RHFwVHZiVkVBcmhGbg?oc=5",
-      "publishedAt": "Sat, 09 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "반도체주 랠리, 아직 끝나지 않았다…\"중장기 상승세 돌입\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GX2NPakxnMHF4WllCSFBZMWdqNXZCdll4YWhJNzVxV0pTSUdaUU81RDkzX1RtQ1pHSGtzcjBURm9QSXpxVnJNMEZ4czF4dEczWkNTTWtmSF9Tc3hmZ2s0Tw?oc=5",
-      "publishedAt": "Sat, 09 May 2026 20:01:00 GMT"
-    },
-    {
-      "title": "\"2억? 이젠 27억 냅니다\"…다주택자, 매도차익 절반 이상 세금으로",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBb2gwZUY0cjBmSDU2WVFoNi1iX0dRSERUdjJpdUQtdjVscklsWXBEc0JGYnBkYVlmbl9OQm1yMFNCTy1qQ3JWNWhIbkpxSmF3N2kwaXdxU3ZFN19aYzU5NzRyLWliRnZCTXllcVpCWDlUWTNDWG9QQg?oc=5",
-      "publishedAt": "Sat, 09 May 2026 19:30:00 GMT"
-    },
-    {
-      "title": "'강남 약세' vs '노도강 강세'…서울 집값 상승세 둔화",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TQUpZdWlFUzJ0TzcyZGdLWXRGNXNwSXVTR0E0NFdlYTJIZm5QalJKWHI1clpadHl4QUwwWmVKWEZjWjZEeDBVdENkVGhTaGtaaG5z?oc=5",
-      "publishedAt": "Sat, 09 May 2026 19:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZSnlqenNfd0hLSXdfV2lPdmxTdHpNUGYxWjB5WER4cWhnUlJZSHU5SlBQbkZDS3VpWXhsVjZabDQtWWFOVWxuLUVaSEcxZE1YMFhmODFMc1NuVTlodHc5bUdfMDVwdnY1dnc?oc=5",
+      "publishedAt": "Sat, 09 May 2026 20:41:00 GMT"
     }
   ],
   "sources": [
