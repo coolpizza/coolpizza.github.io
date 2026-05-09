@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-10T03:13:44.300178+09:00",
+  "generatedAt": "2026-05-10T04:22:40.626347+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,63 +67,63 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "location": "서울",
-        "summary": "대체로 맑음",
-        "temperature": "10.4°C",
-        "feelsLike": "8.5°C",
-        "highLow": "최고 22.5° / 최저 9.4°",
-        "humidity": "64%",
-        "wind": "3.3 m/s",
+        "summary": "약간 흐림",
+        "temperature": "9.9°C",
+        "feelsLike": "8.2°C",
+        "highLow": "최고 22.0° / 최저 9.2°",
+        "humidity": "66%",
+        "wind": "2.1 m/s",
         "rainChance": "0%",
-        "pm10": "41.1 μg/m³",
-        "pm25": "41.0 μg/m³",
+        "pm10": "39.9 μg/m³",
+        "pm25": "39.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-10 03:00"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-10 04:15"
       },
       {
         "location": "김포",
-        "summary": "흐림",
-        "temperature": "7.8°C",
-        "feelsLike": "5.4°C",
-        "highLow": "최고 20.9° / 최저 7.4°",
-        "humidity": "82%",
-        "wind": "8.1 m/s",
+        "summary": "약간 흐림",
+        "temperature": "7.5°C",
+        "feelsLike": "4.8°C",
+        "highLow": "최고 20.3° / 최저 7.3°",
+        "humidity": "77%",
+        "wind": "8.9 m/s",
         "rainChance": "0%",
-        "pm10": "41.1 μg/m³",
-        "pm25": "41.0 μg/m³",
+        "pm10": "39.9 μg/m³",
+        "pm25": "39.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-10 03:00"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-10 04:15"
       },
       {
         "location": "파주",
-        "summary": "흐림",
-        "temperature": "7.5°C",
-        "feelsLike": "4.7°C",
-        "highLow": "최고 20.5° / 최저 6.9°",
-        "humidity": "67%",
-        "wind": "6.5 m/s",
+        "summary": "약간 흐림",
+        "temperature": "7.0°C",
+        "feelsLike": "4.0°C",
+        "highLow": "최고 20.2° / 최저 6.8°",
+        "humidity": "70%",
+        "wind": "8.7 m/s",
         "rainChance": "0%",
-        "pm10": "41.1 μg/m³",
-        "pm25": "41.0 μg/m³",
+        "pm10": "39.9 μg/m³",
+        "pm25": "39.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-10 03:00"
+        "airQualityIndex": "44",
+        "updatedAt": "2026-05-10 04:15"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "9.2°C",
-        "feelsLike": "7.4°C",
-        "highLow": "최고 24.1° / 최저 7.2°",
-        "humidity": "75%",
-        "wind": "4.3 m/s",
+        "temperature": "7.5°C",
+        "feelsLike": "5.1°C",
+        "highLow": "최고 23.7° / 최저 7.0°",
+        "humidity": "82%",
+        "wind": "8.0 m/s",
         "rainChance": "0%",
-        "pm10": "21.1 μg/m³",
-        "pm25": "20.8 μg/m³",
+        "pm10": "21.7 μg/m³",
+        "pm25": "21.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-05-10 03:00"
+        "airQualityIndex": "39",
+        "updatedAt": "2026-05-10 04:15"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)자연에너지 금곡주유소",
-        "address": "인천 서구 봉수대로 1491 (금곡동)",
-        "updatedAt": "2026-05-09 18:07:14",
+        "stationName": "(주)디오티디 인천랍스터주유소",
+        "address": "인천 서구 봉수대로 1543 (금곡동)",
+        "updatedAt": "2026-05-09 23:01:04",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,28 +376,40 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "\"카스피해, 이란 '대체 무역로' 급부상…러시아발 물자 지원 통로\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHblRTck9FTUJ4QlJUV1VJY0xuVGpLQm1RYnpaUVd6NjF4SFlPTnVESk9kdGFTLXJBYVlqem95QllSaE1DMGFPOS1qVWhOWEhsRnZPVlBudlVxQzFCQklLOFZR?oc=5",
-      "publishedAt": "Sat, 09 May 2026 18:01:14 GMT"
+      "title": "김영옥, 몬스타엑스 향한 '찐애정'…\"연습생 7년 고생 떠올라 눈물\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02T1FXTEZtUXh4bm16SzhxbFBCLTktazJRbWJWWkZJSFNZVmlyZzI0cUpqWl9uYlZ0clFTS2t0WDBnWlhXbE1ZVDBpS19LUVZ3WENhWUEtMjB5MEFxZVFHb3hDbVIzb1NNTzFNa1pGZzFEWl92YTlONw?oc=5",
+      "publishedAt": "Sat, 09 May 2026 19:06:00 GMT"
     },
     {
-      "title": "KIA 타이거즈, 3~4월 '10홈런 폭발' 김도영 및 '4승 ERA 1.64' 올러 'MVP' 선정",
+      "title": "원로배우들의 충격 피해 고백…사미자 10억·김영옥 전셋값 날렸다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iWjJPS0VkYUNReTFiUWEyT3Ric0ZrZWljRzRHdEl4T01mVGxPeVNrTXVmWDVOaFhiOGx3WEt6VWRwUnd2NmRXX2FOSk8xYUdFSWM0?oc=5",
+      "publishedAt": "Sat, 09 May 2026 18:47:00 GMT"
+    },
+    {
+      "title": "맑은 대구·경북, 한낮 27도 '초여름'…\"일교차 20도\" 주의",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93bE52dmcyaDdCTUpYWlVoSTctOV8zRGhHZjdlWEJneC1FSWlXcHpfeFhvVEpXUEZ3aWRTMU91MlI3Yk9DZE03bXp0cWcyRkx6Z1BF?oc=5",
+      "publishedAt": "Sat, 09 May 2026 19:02:00 GMT"
+    },
+    {
+      "title": "'이럴수가' 다저스·양키스보다 더 잘하는 팀 있다? 무려 91년 만에 10연승 2번, 컵스 기세 보소! 日투타 핵심 대단하네",
       "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLZm1BMkg5N0N0TF9rZ0xwdWJPYUloMTdFXzV3QUhvX1N6Ql9HdGdUWlhsNk9reEZYcmZsaFhndHJiU3ZXbUdvbnA1RHluWlV3OF9HODdBM0xteFVJ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 17:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13UU9aS0xZSFRGWUVUZ21iRlRGc3FYZ0FYN3hKaldTWmdBUlF4dFBVZnBWd0U5U3R2VGE3YmMxNnZscjE5ZDQtYjFwMzd2d1JLdXpmUzlOenBMSlZT?oc=5",
+      "publishedAt": "Sat, 09 May 2026 18:33:00 GMT"
     },
     {
-      "title": "'충격' 11억팔 유망주 몰락, 고작 150만원에 불법 이민 운반→美 퇴출 위기 \"재활 중 돈 필요했다\"",
+      "title": "'고졸' 사미자, '서울대' 이순재와 출연료 비교에 상처 \"아직도 사무쳐\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02bElMTTBGdXdjWW12Mjk3OVVTRG5aWkFzMkl2cVJoY2xuTFROdVZCUnlkYmt2U0pKZVZqc2w1Ynl5T0JZVnZ4b0RyTmVQUVpTWWtxdWtUM01aV3BpZDN5X2JnRDRfQndTNWJsSl9BYThUeVhjX0YtNQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 17:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wMkluZDdRZzg5X2h4TWg0b2JnbmJ5cEtXS1pQUnhJbDR3VWpMMkVER25pOVB0eHVqUGhPWmk0SWJvV01sTkQtS0NkM0IyNGZtUkJj?oc=5",
+      "publishedAt": "Sat, 09 May 2026 18:27:00 GMT"
     },
     {
-      "title": "'아형 고정' 김신영, 출연료 협상 만족? \"장학금 타결 잘됐다\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xSk1VVUxXbGdrR1RpQk1GTDZsR1hmUlcyRVl3NGRCdklSTUcwYVFEUzUyT05Yc0FhTjkybDZPQnZqVnRJNllUR2tDVkxId1hJeU04?oc=5",
-      "publishedAt": "Sat, 09 May 2026 17:39:00 GMT"
+      "title": "코나미는 사일런트 힐 프랜차이즈를 확장할 계획입니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2hTN1NrUmMxQzNCR0ZiNVY2VHpOYkJqYXBEQl9saEpwUWVSbzJrendxdUxBRXUtY3RWR2ZNNVN0Mk5lNVFORWpISzVEUGJ0SEdZNE9EQThiUVlKVUFValVVZkRtVzBmbXNBVzRKbnY5WDM3eWd2QVQzenpQcUo0NWYtSWdEU2k0Q0NXSkc3bXdPUTFhQTdqN1JvVHY3cDZuZHF3eC1B?oc=5",
+      "publishedAt": "Sat, 09 May 2026 18:24:01 GMT"
     },
     {
       "title": "최화정, 야식 즐기면서도 몸매 유지한 비결… ‘이 음식’ 먹었다",
@@ -422,18 +434,6 @@ window.DASHBOARD_DATA = {
       "source": "헬스경향",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UX1RCNmZvYmJHTXZ3OUd0VTFkUHJFa1ItdUZkaHNpdW0xbHdlQU45TmM2LWVkQzBrMGx4VWNST1BYS0MyVW9IeXBuRkV0bzlZc2xUQ01OZmdUMUp6Wk56YW5lbzFlanZYanc?oc=5",
       "publishedAt": "Sat, 09 May 2026 16:26:33 GMT"
-    },
-    {
-      "title": "장동혁, 부산·대구 연이어 방문…박민식·이진숙 지원 사격",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HS2VUX1VzNUtpZl9jTnBLMFBOcTR5dG9vVkdpbnRxMHNrclhKeWx6Y3hRR0RBVXoyZThnaW1mYnJfVHRfMllYTmdzQkpEdUR2UndkN0dMeFdoRlk?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:02:00 GMT"
-    },
-    {
-      "title": "\"다 내 욕처럼 들려\" 이연, 무대 공포증에 연기 치료..그 길로 배우 됐다(전참시)[핫피플]",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTdhOFFpZEVGWUI2TEpXdmkxRzRZSHB4VU9ZTzh2NTA4U0o2eFZyTjMwT0txM0lDUEg3dnVfdDZ3bUotbXdqNXJkTG1GQ3g3ODlGWDJPMkVQSkdCVEJpa2dsUHVOM3h0bVNjS1NwRnd1MzNSWUNsWUZDRmhnSFpCd29uTDVoUmJTeUtvc2F6cw?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:44:00 GMT"
     }
   ],
   "sources": [
