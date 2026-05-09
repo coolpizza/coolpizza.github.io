@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T01:35:09.888785+09:00",
+  "generatedAt": "2026-05-10T02:32:14.380744+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "10.9°C",
-        "feelsLike": "9.3°C",
-        "highLow": "최고 22.7° / 최저 9.5°",
-        "humidity": "68%",
-        "wind": "3.3 m/s",
+        "temperature": "10.6°C",
+        "feelsLike": "8.8°C",
+        "highLow": "최고 22.5° / 최저 9.4°",
+        "humidity": "66%",
+        "wind": "3.4 m/s",
         "rainChance": "0%",
-        "pm10": "42.6 μg/m³",
-        "pm25": "42.4 μg/m³",
+        "pm10": "42.0 μg/m³",
+        "pm25": "41.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "48",
-        "updatedAt": "2026-05-10 01:15"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-05-10 02:15"
       },
       {
         "location": "김포",
-        "summary": "대체로 맑음",
-        "temperature": "8.5°C",
-        "feelsLike": "6.5°C",
-        "highLow": "최고 21.0° / 최저 7.3°",
-        "humidity": "86%",
-        "wind": "7.6 m/s",
+        "summary": "흐림",
+        "temperature": "7.8°C",
+        "feelsLike": "5.5°C",
+        "highLow": "최고 20.9° / 최저 7.4°",
+        "humidity": "84%",
+        "wind": "8.2 m/s",
         "rainChance": "0%",
-        "pm10": "42.6 μg/m³",
-        "pm25": "42.4 μg/m³",
+        "pm10": "42.0 μg/m³",
+        "pm25": "41.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "48",
-        "updatedAt": "2026-05-10 01:15"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-05-10 02:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "8.2°C",
-        "feelsLike": "6.1°C",
-        "highLow": "최고 20.6° / 최저 7.2°",
-        "humidity": "82%",
-        "wind": "6.9 m/s",
+        "temperature": "7.5°C",
+        "feelsLike": "4.8°C",
+        "highLow": "최고 20.5° / 최저 6.9°",
+        "humidity": "72%",
+        "wind": "6.8 m/s",
         "rainChance": "0%",
-        "pm10": "42.6 μg/m³",
-        "pm25": "42.4 μg/m³",
+        "pm10": "42.0 μg/m³",
+        "pm25": "41.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "48",
-        "updatedAt": "2026-05-10 01:15"
+        "airQualityIndex": "47",
+        "updatedAt": "2026-05-10 02:15"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
-        "temperature": "9.9°C",
-        "feelsLike": "8.0°C",
-        "highLow": "최고 24.2° / 최저 7.4°",
+        "summary": "대체로 맑음",
+        "temperature": "9.7°C",
+        "feelsLike": "8.1°C",
+        "highLow": "최고 24.1° / 최저 7.2°",
         "humidity": "74%",
-        "wind": "5.5 m/s",
+        "wind": "3.4 m/s",
         "rainChance": "0%",
-        "pm10": "19.6 μg/m³",
-        "pm25": "19.3 μg/m³",
+        "pm10": "20.4 μg/m³",
+        "pm25": "20.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-10 01:15"
+        "airQualityIndex": "43",
+        "updatedAt": "2026-05-10 02:15"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "부광셀프주유소",
-        "address": "인천 서구 봉수대로 1623",
-        "updatedAt": "2026-05-05 07:39:03",
+        "stationName": "금광주유소",
+        "address": "인천 서구 중봉대로 1593 (금곡동)",
+        "updatedAt": "2026-05-04 10:16:39",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "\"금융, 중소기술기업 투자 마중물돼야.. 규제 완화 필요\"",
+      "title": "KIA 타이거즈, 3~4월 '10홈런 폭발' 김도영 및 '4승 ERA 1.64' 올러 'MVP' 선정",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TbDdSbTR5UTZrN2dsYTdGMmNqTUtmYkFGa3Jmd3o2a3NMRXFrd21SUUNtbVNGUnBhRWFiYkFnYjNsVnN6a0NkYlloa2VMQnNkZTFJcUtFZ0FwQ2JuU2JrYzFMZTg1REY4YTN4eEJWQ3phVk1xSV8wLQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 17:24:00 GMT"
+    },
+    {
+      "title": "\"국민 10명 중 6명은 현행 수사체계 개선할 필요\"",
       "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Y2hHTlRkOW5yb0dpZGVodWpISlR3YVNGQTBwT0QxVWZOc3BWcGNsUFJab1FGak5RdEtRT0p2VUJDZi1yeTFEV0Q1V0VaeWo0QTU1Q2RTUDJPeE90UFo2d005VFRXMS1leDIw?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:30:29 GMT"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96T1pHYUpnd3UzU3ZyckpieVVYd1dRdllqTkFWMm5lVW1ISFEweXE3anY5bUtacS1EOFNuemktOG9JR2RWYWlvUWMwNVM2OUxyMU1KbXpKMElHZ3hwYktSVkU5dm1mdUZIVWp3?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:45:56 GMT"
     },
     {
-      "title": "美 \"대이란 해상봉쇄 전면 이행…58척 항로 변경·4척 무력화\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52QTZQTzFZMjNlQm0ydXVLWmU1aWpveDFFbGRjdGVVMjBDQ2phbFREOURHRTVGRzN0VVZOV1hUN0pWcjctN21GRFV2RVVDVTJVczFGbHZUWDlGSGt3bjlBWlp3?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:15:02 GMT"
+      "title": "외로움은 사회적 재난이다.. \"차관급 전담 컨트롤타워 설치해야\"",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EQXJYLW42LWtVU1dZVXZQXzRUWkFDdTk3STA3elNFMzZ4d3BrQXdTN3BSRHhzTzgwdnlaX2hlVWEwU0htUzAwdXVwdUJOLVFQR1BYWXFaS1FkNHQ2YnE4WXF1bDZ4aGlMYU5J?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:35:09 GMT"
     },
     {
-      "title": "홍명보호 진짜 희소식! \"통증 없다\" 이재성, 시즌아웃 전망 털고 훈련 복귀…예상보다 일찍 돌아온다",
+      "title": "김병욱 성남시장 후보, ‘성남호’ 개소식 성황…“대한민국 경제수도 성남 만들겠다”",
+      "source": "월드장애인사랑뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0SU1RMUI5UkZWZk90dDVUWWNYSkNjckgxekt2eU9LZlJ4aVVGTmJLbkdRVHo5ZVVXVkZPam0tektOdmRqdGllVTVWS2luOEFHOVJseU52RGJDelA1ZE5Yb0taOS1SOElOVC1Nc0Z6NA?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:52:58 GMT"
+    },
+    {
+      "title": "'충격' 11억팔 유망주 몰락, 고작 150만원에 불법 이민 운반→美 퇴출 위기 \"재활 중 돈 필요했다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02bElMTTBGdXdjWW12Mjk3OVVTRG5aWkFzMkl2cVJoY2xuTFROdVZCUnlkYmt2U0pKZVZqc2w1Ynl5T0JZVnZ4b0RyTmVQUVpTWWtxdWtUM01aV3BpZDN5X2JnRDRfQndTNWJsSl9BYThUeVhjX0YtNQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 17:22:00 GMT"
+    },
+    {
+      "title": "박관열 더불어민주당 광주시장 후보, 선거캠프 개소식 성황…“직통시장 되겠다”",
+      "source": "월드장애인사랑뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vTEttUTRWUW02WU9pdjRZY3hPdzJlbkwtMk11RDgxZDZrN29saGFIWUZ1Q2FGajI5ZVl1SDdycV9xOFNaNHNrbk90RFZiVDMwMm53d3p5YlVDc1hZd0tfS1pkYzFoTjBadC1LdXZIbw?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:43:20 GMT"
+    },
+    {
+      "title": "'충격적 패배' 女 최강이 男 U-14 팀에 무너졌다 \"아직 운전대도 못 잡는 청소년들인데…\"",
       "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FYzA5Q1d6QjR5NDRoSmtFTTFvOFdvSURLTFQzVWtOdFMybzc3MlNwTS1LVkVrcjdacnZ0aGZJWERrRU1INmxCMHFtbmh5V1pQX1VMTkJ3Ylg3MENq?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUTIxSlZGbVV2VXZCcV82NHhBdDVyMUNYYy0yY09YdlR1Y01KZ0Y3aFV1b0Q5VkpheVI2STFJU09NS2NubGlDSnRVQU9fZExZSWxLWVF0cjNXaVlt?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:55:00 GMT"
     },
     {
-      "title": "“도의원 후보들, ‘풀뿌리원탁회의 활성화 조례’ 공약 채택하라”",
-      "source": "뉴스N제주",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43Q1l1Q21oMHU0SGRGZ0NnUzkwVkZJX3JHYkgxMHNfeHQyaUhBR1FkcHhYQjVFcVN1RVY0NzB4dWhONHAxb0tzWFlVbER2UGpLcS13c3J2d2hSUU56WXgtc2t1UC0xTXJJUDRFNw?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:45:07 GMT"
+      "title": "스팀 리뷰가 부정적으로 나오는 가운데, 헬다이버스 2 개발사들은 새로운 콘텐츠를 약속했습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkwxazFQemRyUnNBb2JVbkxKX2xYZkpJSkJGUURGOFJJam5aaXU1djNOMWlLNGw2dVhwY2JTdjR4ZlUxbmQxbUM5TVVGckFGRXhMLUp2cTgyNy1uNHVIaHdWOE96M3VnNGdmeHFNTFNlWWZxUnQtcl9MaE54YkdYaUhOaWpILTdPVVZzSjc0ejN5dFc5VWxKeWNXc0xwalkzU3V3TF9YZDhhWEJPU0dqLUh5YldqU2FJZURkQjNB?oc=5",
+      "publishedAt": "Sat, 09 May 2026 17:01:36 GMT"
     },
     {
-      "title": "헝가리 뒤집은 마자르, 총리 취임…16년만의 친 EU·부패 척결 시동",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9feWpwWm9RTDJraVQ3cEhycU5fNEVEZWNVV3pIOXo3VmdiQUprc2tleUpYa29sdXNlaTVkcUpTdXN1ZjdUcWpLMmxRVmRMbWhZejUw?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:52:27 GMT"
-    },
-    {
-      "title": "이우환·심문섭…베네치아 비엔날레서 드러낸 K아트 존재감",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kbG1ZcjdUdGJDSWNNOEZKYWVLSmxSNDloTEhQMWk3S1lOM2lOdEZubGJBTnFXMUZRdUY3VktDT1VTNGozSjlkbS05Wkl6c1dNR1pj?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:45:00 GMT"
-    },
-    {
-      "title": "이연, 절친 아이유 통 큰 씀씀이에 감격…\"나 만날 때 돈 쓸 생각 마\"[전참시][★밤TView]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96dVVZOTFVZkxPWng4M3d5U1I5OU1sdEdHdGhMWkV0RkFVdW1BTDhCOVEyVUk2WHhwNE5RQzBQMWlnb2NXdGtQYnZ2M1JWMWF1eERJ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:04:00 GMT"
+      "title": "봄철 환절기로 인한 감기와 비염… 학업에 미치는 영향은?",
+      "source": "헬스경향",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UX1RCNmZvYmJHTXZ3OUd0VTFkUHJFa1ItdUZkaHNpdW0xbHdlQU45TmM2LWVkQzBrMGx4VWNST1BYS0MyVW9IeXBuRkV0bzlZc2xUQ01OZmdUMUp6Wk56YW5lbzFlanZYanc?oc=5",
+      "publishedAt": "Sat, 09 May 2026 16:26:33 GMT"
     },
     {
       "title": "“대장암 위험 확 오른다”… 주방에서 하는 ‘이 행동’ 주의",
       "source": "헬스조선",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reUxWRHNRSGtSOXRIZ3Z4OElsM092ZFpfa2h0UE5wU3ZIWkVFY0NlbXRLUEFlRGs2Uk9nUVpvUThDcmdtaS1BcGhRZVYwZHdTZFNlSV94b0RaVlhQeWJfRmhWbVFCMVZSM1ZTTmFUS3ZTcVpiR1E?oc=5",
       "publishedAt": "Sat, 09 May 2026 16:25:05 GMT"
-    },
-    {
-      "title": "공소취소 대응 TF 띄운다는 국힘 “보수·중도층에 부당함 알릴 것”",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YUHEtdVpzdE1fT09ZUWVoZzc1Z1JDMDQyUllJWXdKMjA0V191azEyRmFhbjFCdXh0VHVZajRIdThhUEdGZ284V3BsNG5OMlJIYlZGYnpkZXpfdXZySElIQVVuNU8zQ1RSeWtmdlBLSl9teEpa?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:06:15 GMT"
-    },
-    {
-      "title": "장동혁, 부산·대구 연이어 방문…박민식·이진숙 지원 사격",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HS2VUX1VzNUtpZl9jTnBLMFBOcTR5dG9vVkdpbnRxMHNrclhKeWx6Y3hRR0RBVXoyZThnaW1mYnJfVHRfMllYTmdzQkpEdUR2UndkN0dMeFdoRlk?oc=5",
-      "publishedAt": "Sat, 09 May 2026 16:02:00 GMT"
     }
   ],
   "sources": [
