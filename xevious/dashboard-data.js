@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-11T01:33:49.168035+09:00",
+  "generatedAt": "2026-05-11T02:35:17.480618+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,63 +67,63 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "location": "서울",
-        "summary": "이슬비",
-        "temperature": "11.9°C",
-        "feelsLike": "10.9°C",
-        "highLow": "최고 20.6° / 최저 10.3°",
-        "humidity": "79%",
-        "wind": "4.0 m/s",
+        "summary": "강한 이슬비",
+        "temperature": "11.2°C",
+        "feelsLike": "10.2°C",
+        "highLow": "최고 20.4° / 최저 10.2°",
+        "humidity": "83%",
+        "wind": "4.3 m/s",
         "rainChance": "93%",
-        "pm10": "12.8 μg/m³",
-        "pm25": "11.8 μg/m³",
+        "pm10": "13.7 μg/m³",
+        "pm25": "12.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "63",
-        "updatedAt": "2026-05-11 01:30"
+        "airQualityIndex": "61",
+        "updatedAt": "2026-05-11 02:30"
       },
       {
         "location": "김포",
-        "summary": "이슬비",
-        "temperature": "10.5°C",
-        "feelsLike": "9.2°C",
-        "highLow": "최고 19.0° / 최저 10.1°",
-        "humidity": "95%",
-        "wind": "8.6 m/s",
+        "summary": "강한 이슬비",
+        "temperature": "10.1°C",
+        "feelsLike": "8.6°C",
+        "highLow": "최고 19.1° / 최저 10.0°",
+        "humidity": "96%",
+        "wind": "9.4 m/s",
         "rainChance": "95%",
-        "pm10": "12.8 μg/m³",
-        "pm25": "11.8 μg/m³",
+        "pm10": "13.7 μg/m³",
+        "pm25": "12.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "63",
-        "updatedAt": "2026-05-11 01:30"
+        "airQualityIndex": "61",
+        "updatedAt": "2026-05-11 02:30"
       },
       {
         "location": "파주",
-        "summary": "약한 이슬비",
-        "temperature": "9.2°C",
-        "feelsLike": "7.5°C",
-        "highLow": "최고 18.9° / 최저 9.2°",
-        "humidity": "94%",
-        "wind": "8.2 m/s",
+        "summary": "이슬비",
+        "temperature": "9.1°C",
+        "feelsLike": "7.7°C",
+        "highLow": "최고 18.8° / 최저 9.0°",
+        "humidity": "98%",
+        "wind": "8.1 m/s",
         "rainChance": "88%",
-        "pm10": "12.8 μg/m³",
-        "pm25": "11.8 μg/m³",
+        "pm10": "13.7 μg/m³",
+        "pm25": "12.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "63",
-        "updatedAt": "2026-05-11 01:30"
+        "airQualityIndex": "61",
+        "updatedAt": "2026-05-11 02:30"
       },
       {
         "location": "익산",
-        "summary": "약간 흐림",
-        "temperature": "11.2°C",
-        "feelsLike": "10.0°C",
-        "highLow": "최고 24.3° / 최저 10.7°",
-        "humidity": "90%",
-        "wind": "7.3 m/s",
+        "summary": "흐림",
+        "temperature": "10.7°C",
+        "feelsLike": "9.6°C",
+        "highLow": "최고 24.3° / 최저 10.6°",
+        "humidity": "92%",
+        "wind": "7.2 m/s",
         "rainChance": "45%",
-        "pm10": "11.2 μg/m³",
-        "pm25": "10.6 μg/m³",
+        "pm10": "11.6 μg/m³",
+        "pm25": "10.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "36",
-        "updatedAt": "2026-05-11 01:30"
+        "airQualityIndex": "39",
+        "updatedAt": "2026-05-11 02:30"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "걸포주유소",
-        "address": "경기 김포시 금포로 1117-6 (걸포동)",
-        "updatedAt": "2026-05-04 10:16:00",
+        "stationName": "한울에너지(주)마송주유소",
+        "address": "경기 김포시 통진읍 김포대로 2397",
+        "updatedAt": "2026-05-10 22:08:09",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,52 +376,52 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "중동전쟁 이후 경제 미리보기",
+      "title": "민주 \"국힘, 집값 폭등 바라나…정부 정책 왜곡\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43WUQzY3RYOVk2NnBLem1WM2RadGJsdzB4aGw5d3F0NzBiUnRDUDQ1MmVHSVlvTDZzdm0wbXM2U2dScklZVHF2QXVpRjl3QVRVN3dj?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fYnkxajZlZmZ6OVlUemgwb1JwQnJXUW9vX1JUSEhKbWY2YWRKTHh4LUZoX19XbzdmX2hlUlZhQk1Ea09vU1FvSUlKODA1d1N0S2ZJ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 17:24:00 GMT"
     },
     {
-      "title": "수능만 잘 보면 된다? 이제 학생부도 챙겨야",
+      "title": "[사설]삼전 재협상, 합리적 성과급 체계 계기로",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNSmhPTWt0LVFOYkFYdmxxUE9VaHBiX1N1YTFTTzFESC1pYmRRcUw3NG9hamdXbWgxRlpIT19pZHRJemd2QVBrRjQ3VjRSR01QNkow?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZT2hQdm9tR2d2NW9DQXpyMzlHMXIwOTB2Um5YaTdWUUVaMzMzOUNxOGxjOEI2aEVjRGRhOFVtdTlRMkpjWUhvUnl1VjlVLXpyeTVJ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 17:00:00 GMT"
     },
     {
-      "title": "신중론 펴던 정부, 적극 대응 불가피",
+      "title": "[사설]'속도전' 하겠다던 공급대책의 공회전",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wa0s5cl85QlFjQ0U3UUZTSVBIMmtYSGNkTWllZVlTYk5OQ0hGUXZPODRvV3F5aGpOMVltbGl6ZEkxLVhQYkkwQUs5VUhvRG1ZVDhsZEN3LW5WcWhTQlVQd2FBd2dSWlVFaVk0bEh3?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LTW1DNU94dVE0dEExZVJ4aXRUaUdsOTRGMTNfM3ZIT0pvOFd3M0ZHX1NkSGRRQzRfQ1cyRk1PdFFncEdHZWtabV8wV0ppVHJqTEU4?oc=5",
+      "publishedAt": "Sun, 10 May 2026 17:00:00 GMT"
     },
     {
-      "title": "변우석, 훈훈한 비주얼에 아이유도 '좋아요'",
+      "title": "940만 섹시 리포터, '리버풀 최악 GK' 카리우스와 '득남' 모습 공개…\"승격→둘째 탄생, 미녀 아내까지 최고의 해\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZFd2azEwUGFaTTRUYjZBNW92d2JJVXZhZG1IQ1VBV3hhc0NDMTQ0SEpRd3ZpMFdBVVhpRnpHZkpWQTB1LUl2OTN2M0lBRG9YbWRzdjVESmR0dGI0WlhXNTBtU1A2RVhN?oc=5",
-      "publishedAt": "Sun, 10 May 2026 16:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pUzZHZ1I0WDBsWS1hUk5kS19xVncwUV9lZmJVU21uQW8yMEl5X1Y0R2plUDZVU0V4bU5mVTkzWk1sSEJITXdWR1RCV2twTlJIT3NEcW1GSHRZU1FsOHYtWDFycU5uckha?oc=5",
+      "publishedAt": "Sun, 10 May 2026 16:40:00 GMT"
     },
     {
-      "title": "김관영 출마에…'與 텃밭' 전북 요동",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OOUI1Tm5vZm03RGJPVm05bEQxTDNGUE9UdjJ6dGVhc1Vyb3RWZU45SEZWUmkxeldyRjJkbVU2UV9FUFowV0hKVTBjU3doSlY5THE4?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:49:00 GMT"
+      "title": "“대학 팀플 탈퇴하겠다” 했을 뿐인데 7시간 ‘감금 대치’…“탈퇴비 30만원 내라”",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsYmd6YkZScXJxdDlyN2N6OUVldl92UjBrY2lWRU81bTBOUlpWa1VOQi00NnJROXk4OHdNVUJNSGE1azVzVDY4bXFzemNTQzBsN19hRGpWYmYtU2NE0gFTQVVfeXFMUGcxa0QzbTdGd3JfbmF4bEd6ZEhQYzI0T2ZKTUdkbko2d1VKN2NmcjBtV1FQZ0xNcGp0U0lFaDJURjg4VW9ZRXpqVGhOZ255S3owRDA?oc=5",
+      "publishedAt": "Sun, 10 May 2026 17:05:00 GMT"
     },
     {
-      "title": "안규백 국방장관, 방미 일정 시작…나무호 피격 등 美와 논의할듯",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52RTFhWjQycXg0U21HZl9fQTlUZS1xcTBpZ2lBWEhINVg4ZnZ4RUVKOVljZHhueTRnbU95RWhnRHFpZXN1N3E0UkNmRUVhOUNFOFZJ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 16:24:00 GMT"
+      "title": "신상진 ‘시민희망캠프’ 개소식 대성황(성남은 이미 강하다! 이제 더 빠르게 완성할때)",
+      "source": "newszoom.kr",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XMElER0VVNVF6aGZqc1pNUFRUZHdRRGhjVUtvSnpLNEpBdXpBZXZUTVFwX1hHMVk0SGVRV1ZsQkh1ZUVy?oc=5",
+      "publishedAt": "Sun, 10 May 2026 16:36:00 GMT"
     },
     {
-      "title": "조혜련, 홍석천 과거 언급 \"대학 때 여자 좋아했는데 갑자기 바뀌어\" [조롱잔치]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xaWlLb2VrSENwMHdGem0wM1g4SmdUOVJHZVV1YmF1OVd4UU5iSkZtUEFiZTg1TFIwMktZRGppZnh6ZS11RVpZVXZGLURxY3BXSTY0?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:35:00 GMT"
+      "title": "'불펜 투수 선발행+0B2S 투수교체' 예측 불가 한화 마운드, 마침내 정상화되나 '개점휴업' 외인 1군 동행 [대전 현장]",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yMzc0V3p6aGNUdXo5QTBiMGN5bVpFdDltbVU2T0lQNk1nN1UxdlBoT2lfSWhQazRiYUZmdkc4VGJuR2w5OFVENVVXM1FKNHI1OUNKT2pVQmJ5bjQ3?oc=5",
+      "publishedAt": "Sun, 10 May 2026 17:17:00 GMT"
     },
     {
-      "title": "안규백 국방장관 미국 도착…헤그세스와 전작권 등 논의",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DR1M2dzktLW42MnhTLUVwT0gxSjd4aHE2bThETm5nbVBCWkcyenJDRUV0LWFwNHoxd0dwc0h3SHNGWlE0azZMdk5xblpNcEs3U0VF?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:40:00 GMT"
+      "title": "'안면 피투성이→통한의 대역전패' 日 사상 최초 꿈, 8번째 도전마저 실패 \"정말 끈질긴 선수였는데…\"",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkb2t3MklMTkZGaVNNVTRDdWpXNl9GdWpxdE9lVXFLeUhPNzVTNEpaMEdMLTRiLWFxMkJSV1JDdlF1V29RUGV5VGJRTGhUQ1BTWFdJaEFGNzBiQ1Jq?oc=5",
+      "publishedAt": "Sun, 10 May 2026 17:01:00 GMT"
     },
     {
       "title": "'양김' 이을 좌완 라이벌인데, 김진욱-이의리 그래프 엇갈린다...AG 걸린 운명의 시즌, 어떤 결말 기다릴까",
