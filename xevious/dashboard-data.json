@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T06:12:43.065625+09:00",
+  "generatedAt": "2026-05-11T07:03:16.753319+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,465.50",
-      "change": "+7.50",
-      "changePercent": "+0.51%",
+      "value": "1,464.00",
+      "change": "+6.00",
+      "changePercent": "+0.41%",
       "direction": "up",
       "updatedAt": "2026-05-08 22:06"
     },
     {
       "label": "100엔/원",
-      "value": "935.41",
-      "change": "+6.04",
-      "changePercent": "+0.65%",
+      "value": "934.06",
+      "change": "+4.69",
+      "changePercent": "+0.50%",
       "direction": "up",
       "updatedAt": "2026-05-08 22:06"
     }
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약한 이슬비",
-        "temperature": "9.9°C",
-        "feelsLike": "9.0°C",
+        "temperature": "10.9°C",
+        "feelsLike": "10.0°C",
         "highLow": "최고 20.0° / 최저 9.9°",
-        "humidity": "93%",
+        "humidity": "87%",
         "wind": "4.3 m/s",
         "rainChance": "93%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "18.2 μg/m³",
+        "pm10": "20.0 μg/m³",
+        "pm25": "19.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-05-11 06:00"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-05-11 07:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "10.5°C",
-        "feelsLike": "9.1°C",
+        "temperature": "11.7°C",
+        "feelsLike": "10.4°C",
         "highLow": "최고 18.7° / 최저 9.9°",
-        "humidity": "95%",
+        "humidity": "92%",
         "wind": "9.7 m/s",
         "rainChance": "95%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "18.2 μg/m³",
+        "pm10": "20.0 μg/m³",
+        "pm25": "19.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-05-11 06:00"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-05-11 07:00"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "9.4°C",
-        "feelsLike": "8.1°C",
+        "temperature": "11.2°C",
+        "feelsLike": "10.2°C",
         "highLow": "최고 18.6° / 최저 8.8°",
-        "humidity": "97%",
-        "wind": "6.7 m/s",
+        "humidity": "93%",
+        "wind": "7.1 m/s",
         "rainChance": "88%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "18.2 μg/m³",
+        "pm10": "20.0 μg/m³",
+        "pm25": "19.2 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-05-11 06:00"
+        "airQualityIndex": "37",
+        "updatedAt": "2026-05-11 07:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "10.5°C",
-        "feelsLike": "9.3°C",
+        "temperature": "12.7°C",
+        "feelsLike": "12.1°C",
         "highLow": "최고 24.3° / 최저 10.0°",
-        "humidity": "95%",
-        "wind": "7.6 m/s",
+        "humidity": "91%",
+        "wind": "6.5 m/s",
         "rainChance": "45%",
-        "pm10": "15.9 μg/m³",
-        "pm25": "14.4 μg/m³",
+        "pm10": "15.0 μg/m³",
+        "pm25": "13.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "38",
-        "updatedAt": "2026-05-11 06:00"
+        "airQualityIndex": "39",
+        "updatedAt": "2026-05-11 07:00"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "부광셀프주유소",
-        "address": "인천 서구 봉수대로 1623",
-        "updatedAt": "2026-05-05 07:39:03",
+        "stationName": "(주)자연에너지 금곡주유소",
+        "address": "인천 서구 봉수대로 1491 (금곡동)",
+        "updatedAt": "2026-05-10 18:00:34",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "(주)유카스에너지 김포뉴타운",
-        "address": "경기 김포시 양촌읍 김포대로 1581",
-        "updatedAt": "2026-05-07 10:47:32",
+        "stationName": "동일석유㈜김포대로주유소",
+        "address": "경기도 김포시 통진읍 김포대로 1937",
+        "updatedAt": "2026-05-10 21:15:59",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "‘직무상 재해’, ‘육아 휴직’, ‘3대 말썽꾼?’",
-      "source": "뉴스톱",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lbE16NFFJZ19HNVFMWDFzY1FBN1dmZnp6d0lmTHdTX2NFbG4tdHMzblI5eGxpNDE3aDRjUHF5YTh2ZXlqbll3Y0hSa3VqcnUxTWRJSG8ySnUwZ3p2cmc2bnVUNjNBa0pXSGFTQmNFaw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:35:14 GMT"
+      "title": "5월 11일 여수시 주요일정",
+      "source": "남해안신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12SFFabEJ4eUN1Q1NlRlVlUFdrUTZ0VTRoWk4wTXRhbGoySTJ5RUxYclhLWmpLZ1hSMUFiMGZiWGc1bDhBcnhjY2FaMGZBcmhPbkNlUmN1OEZtVmUzZFBlRml4NFBJLWxv?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:35:18 GMT"
     },
     {
-      "title": "[AI 코인패밀리 만평] 극장보단 침대",
+      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM2NudDZNZF9qODdvS0pFWHlMM3pKbWl1TE1fc2ctcmtHNDk5ZExjU21HdWs1QUg5Zm1QdmJXYXRVSGRmamtNeVNuTkMzRm5mNFN4Z2cwUGtpUW1HN3ZJUFJUMElkaHBqdHhydmlJUWU5dXVkQkFsMXVrZUk0MndfQlZ0MTFyMWU4aE1GUzlGZEIyS2pnLXfSAWZBVV95cUxNOHVmUEE3a19Fc2dDeTU4WHh6b0hDcVllWDZTdUFUdmYxb0RiWURoNG8xLWh6SkFwZVBwMTlySjFlYlkxTVNjWmFCcXptMU5JM25INmZEVzYzNW5WM0FBMzNPelFpS3c?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:06:00 GMT"
+    },
+    {
+      "title": "AI 기업 투자자가 된 엔비디아-올해만 58조원 쏟아부어",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EVUtRVkRWd2M2N0x1WEprdGgta1RMbGlqUnplSDZXRktKLVlsdXQyMmVGcUtpRjhaaTlrMkNiSmI3aHE5a0ViTzY2TnU3X2NQOXZocm10QTF0YVV2N2c?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:42:16 GMT"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(8일) 주요공시]",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52OUplc0lVcE9wTm1Wd1RaSDd4VlFQeFZkY1g3XzBzNXJjLWx5VzBUSFQ1WlVYSjNYbkF1WHpjYXIxX2FRYXBBa3BPTXJsblI0aWlySWxKUGRpNFXSAWBBVV95cUxOT09FeG5iREhTOU1xYzZyR2ZmcWNCVHYtOG0wN2ZHc05iV1lCMlY1WGotOVMzck1ZSW04ZklDZ05WYkFtaUJheV81S2RqYmxGbHl3NkhMNTM4QVRFSjdjVkQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:05:06 GMT"
+    },
+    {
+      "title": "[26년 5월 11일(월)] “‘80만닉스’ 때도 못 샀는데”…‘올라타? vs 조정장 오나?’ 고민만 깊어진 개미들 - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTFIMDJobEtYZVdUeExUTDBESmthSVZvQ0Z0NUFXTUJELUN2MHlmQVotYzJ1ZEtKZC1GdV9WWGYzVzd6N0x6dU14b3FITTB0ZXJMMU1MMVNXRmxYcVRkQUdQUW9wTjR1QUpqeEFfSG9KblNUcFVEWVBOQlNoZkw5TA?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:32:33 GMT"
+    },
+    {
+      "title": "[글로벌 핫이슈] 이란전쟁 종전협상 좌초 위기 봉착 우려⋯미국과 이란 협상안 접점 불발인 듯",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCbmtPQnJleW1yTmVMaXJyUlNYNEtNQUxDZXJRbU9UVUtZSHY2TmxTTl9vMVcxRUZtVWRSdG81REJ3UlZhSE85ZDdiOThlZFdkcWZmX09NeWpkLU04bGc?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:26:43 GMT"
+    },
+    {
+      "title": "전국 주요 경제현장으로 자원 진출하는 함경남도 청년들",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Kdk4xUDhqZzJwUEFjNkFkOEpoWnhmdXhyNkowM194VjFZWjJoc3djdFVlNmFNTUg3R0J4Qm5NamdlR1ZBTjh2LXBfM05FV2FYZ3FF?oc=5",
-      "publishedAt": "Sun, 10 May 2026 21:00:14 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SZ2ZVSlRyU0hrSnRYWFJES2h4ajktdEQzckpMal9yalI1VUUwWGNDeEFOcXVLb0dkRkpNdjRWQ1haZ3NsWmNXTDgwRFp2ckFDSWo4?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:36:00 GMT"
     },
     {
-      "title": "대구 달성군, '파크골프+관광' 결합 상품…국내 첫 출시",
+      "title": "강성휘 목포시장 후보 본선 행보 돌입",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UajBnSFI4YTZnSDE5dWRaRjBPZjl2aDlCcTBDU2lUbmxDN1ozdXliNnFEblVyd3V4bHVYR1VaazVsb1hvUl9WcUZKZnRsUXVoQjJReXAwZUVCQlJnS1o0NGV5STdYS245Rk5scTdhdHFiNW13T1dyYw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:56:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UQUF2QVdpbVRtZmJlMkJVNTktZHh4RkpJbjczRzlzUEpEc2FuSUNtWDF2ZElLNEtUNmtwZGNmVmFKam5ONklFaG5wNDYtZUdsMEs0?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:53:00 GMT"
     },
     {
-      "title": "곤돌라 타고 샷 추가요, 비발디파크 파크골프",
+      "title": "무안군, 무안사랑상품권 부정유통 단속",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wSW9zMWhfYWNJQ2ppaFoxc2U5X0owSU16bmFWcUJxOWhXWWxNMGZlbENIb0JvUDB2akp3dXQ2SFFqVlZzVVJZQXhaNGlXSDJoaWVR?oc=5",
-      "publishedAt": "Sun, 10 May 2026 21:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsd2MyaHRyeUV0ZkFDNG1BWk9kYU16WU9XSjdoOTNjcGpneDFYNkF2NzF1Y3VDMmVHeWI3TkVHSEVPV1BDNVJwNm5lVWdyT0wtbWp3?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:33:00 GMT"
     },
     {
-      "title": "\"그렇지!\" 이찬원과 함께 맛과 멋 넘치는 랜선 여행 [톡파원 25시]",
+      "title": "\"튀겨버린다\" 반려 오골계 조롱에 폭발…동료 찌른 전과자",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCZ0tkWXRaazJaWWY4NlNINHVRN0RaRktVR0RLTHpkY0FZbE1kV0VkNHB0V0xHYTBjZi1FVjFxdFJlUV9fd3F4WkYtRjhmbnhQRXhTemw5cEttVGtOa0p2VA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 21:00:00 GMT"
-    },
-    {
-      "title": "\"월요일 전국 비, 출근길 우산 챙기세요\"…화요일까지 최대 40㎜",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLdFRjMWd4aGhhd1VyZjZ5NHNpTXphaU9uOFpTYkpPQlFab3VibTZaRFJ0bGJ5UDdiVjlqbUNhX1VzVEJDdGo3WGZDQnVrbVpOMVhRMUgzOVhJWDdxZFZrN1dHVQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 21:00:00 GMT"
-    },
-    {
-      "title": "안규백, 방미 출국…\"전작권 전환·핵추진잠수함 논의\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01ak96NmVPb085S2xybjNCbFBMcVBic1h2cTBGQXphUHlvZUlreHF4MjBHQlM3NXd5bTZQajRoc01tNzlZTjZUOFRTZUxwbDc0NFBV?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:35:00 GMT"
-    },
-    {
-      "title": "브래드 피트가 북촌에?…정윤민, 투샷 공개에 'AI 의혹'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13amtVcXh5UHFmX2JtaHhFR0dTdjJnVlRoZkcwTHEtODh0cmZ1cnR6MUtycFh1dXhPRUZUUno4OWhLMng4SmM2cE9KS2lTSUIwSWUw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:24:00 GMT"
-    },
-    {
-      "title": "박서준 \"요즘 연락하는 사람 있나?\"…정유미 향한 열애 의심[꽃보다청춘][★밤TV]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXdzlNdEsza2tsREozZkdxLS0wRE1GRkRKUFBzYzV3RFpSR1JfZUUxV3NKb3NLdHh5RV9IS3hrQy1iN0xSUmFiVU5mdEFBUjV3UGVJ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:40:00 GMT"
-    },
-    {
-      "title": "[속보]트럼프 \"이란 답변 조금전 읽어…완전히 용납 불가\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tcFBuaXpNMU9JWlVoWTZick9QTGtyUGFLRnNJeEplYzNLakZKTTR0aWp2dndXckZPUXhpMzFhRWRUaGpINXZfMkljSXc5SjRMQk4wSjZ3VnZmcjdQdzFpSERZWkxTdUZZb0NZeU9vZXR5LWZLejg0TQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NVTNjZnJqXzcwNlEtVlVVXzNtZmprckNqZE9NMjE3WHhPc1NnTk9Nc2w4Q1V4VWhvVlhhdzdmVU4xWEdKeXBCQnJ2M3ZwUkN4ZWUw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:46:00 GMT"
     }
   ],
   "sources": [
