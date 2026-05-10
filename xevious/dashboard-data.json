@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T18:20:40.881725+09:00",
+  "generatedAt": "2026-05-10T19:41:11.623118+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "18.6°C",
-        "feelsLike": "16.4°C",
+        "temperature": "16.5°C",
+        "feelsLike": "14.5°C",
         "highLow": "최고 22.1° / 최저 9.3°",
-        "humidity": "37%",
-        "wind": "4.8 m/s",
+        "humidity": "44%",
+        "wind": "3.8 m/s",
         "rainChance": "0%",
-        "pm10": "8.4 μg/m³",
-        "pm25": "7.6 μg/m³",
+        "pm10": "9.3 μg/m³",
+        "pm25": "9.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "65",
-        "updatedAt": "2026-05-10 18:15"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-05-10 19:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "16.0°C",
-        "feelsLike": "14.1°C",
+        "temperature": "14.1°C",
+        "feelsLike": "12.1°C",
         "highLow": "최고 20.4° / 최저 7.4°",
-        "humidity": "56%",
-        "wind": "8.7 m/s",
+        "humidity": "64%",
+        "wind": "9.6 m/s",
         "rainChance": "0%",
-        "pm10": "8.4 μg/m³",
-        "pm25": "7.6 μg/m³",
+        "pm10": "9.3 μg/m³",
+        "pm25": "9.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "65",
-        "updatedAt": "2026-05-10 18:15"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-05-10 19:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "16.4°C",
-        "feelsLike": "13.8°C",
+        "temperature": "13.9°C",
+        "feelsLike": "11.8°C",
         "highLow": "최고 20.2° / 최저 6.9°",
-        "humidity": "47%",
-        "wind": "9.2 m/s",
+        "humidity": "58%",
+        "wind": "7.3 m/s",
         "rainChance": "0%",
-        "pm10": "8.4 μg/m³",
-        "pm25": "7.6 μg/m³",
+        "pm10": "9.3 μg/m³",
+        "pm25": "9.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "65",
-        "updatedAt": "2026-05-10 18:15"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-05-10 19:30"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "18.3°C",
-        "feelsLike": "17.4°C",
+        "temperature": "15.9°C",
+        "feelsLike": "15.9°C",
         "highLow": "최고 24.6° / 최저 7.2°",
-        "humidity": "67%",
-        "wind": "11.2 m/s",
+        "humidity": "78%",
+        "wind": "4.9 m/s",
         "rainChance": "0%",
-        "pm10": "6.0 μg/m³",
-        "pm25": "5.6 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-05-10 18:15"
+        "pm10": "4.0 μg/m³",
+        "pm25": "3.9 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "54",
+        "updatedAt": "2026-05-10 19:30"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "금광주유소",
-        "address": "인천 서구 중봉대로 1593 (금곡동)",
-        "updatedAt": "2026-05-04 10:16:39",
+        "stationName": "(주)디오티디 인천랍스터주유소",
+        "address": "인천 서구 봉수대로 1543 (금곡동)",
+        "updatedAt": "2026-05-10 17:59:05",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[속보]부산 화력발전소 건물서 화재…대응 1단계 발령",
+      "title": "5월 10일 MBN 뉴스센터 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxZlFkNnVjSEppTmNvUE5oZExENExMMHNxcXUzTTBrX2Z3c2NKUV9DcTdJY2VHdzV0dElBcUlPZ3F6RTRuRnkwUVhhYzAxMGN1QkpV?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:37:00 GMT"
+    },
+    {
+      "title": "[골프청사진] 정확한 나이스 샷 문정민",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sQXZPU0R6UWZZU3RLSmZWWWVKclY0a1l0MWpIWWhleFAzRkpoZjVURTFaOGtGOHhOTm1kNUJFamk5S3h4TnVOTm9aOHJkaUhlQ2xrWXB1cmxDMEZwajhiUzdIRllXSHhOYkE?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:15:51 GMT"
+    },
+    {
+      "title": "미국 태생인데…‘미스 필리핀’ 자격 논란",
       "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41VTZsQnRoNllxaWdVTS03RmctVVh3UUFnOWE2SEs2aTF3YnpyRG8zS0FnZEhyWmpiUUJCVEp1UWFNWmpSa0tJWnpWR1kwUUwwWlZmU1p4NXZ0bU00eHNpa2VpVdIBY0FVX3lxTE41VTZsQnRoNllxaWdVTS03RmctVVh3UUFnOWE2SEs2aTF3YnpyRG8zS0FnZEhyWmpiUUJCVEp1UWFNWmpSa0tJWnpWR1kwUUwwWlZmU1p4NXZ0bU00eHNpa2VpVQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 08:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WNW96Yjl3S243dkkxMFQ1Mk1aTWxZcmREVW51SEtRWWR2YTc0MUYyaW5fTV9RdV95VFVuUUVKX3FYUm1UeWFjRnkxVkFTYjNyaHZOR21jYWFsSV92NEHSAWNBVV95cUxNcEpoaFlGSWRVcTFJcXlDSS1mV2xONVdHRGVIZVhsdGNMOXJjRkRCMk5IanJtemZTeWpaWHJuWURNLTZZS2NBNDk4bTU1QVE1SUMwWGxpNWNvcDVDeEFLMDcxbU0?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:00:00 GMT"
     },
     {
-      "title": "호르무즈 압박 나선 이란⋯\"제재 동참국 선박 통과 어려울 것\"",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DdXczNVhaOVpGaTNjS3gwdVNNN0pUN0kxVnZXdnpmUVZtN2tIdmZwcTBtN1k2ZjdGYkM4VFFlVlVNbGJtVGUtUUlsM005bUFtczc2VEhxWHNla3JXWVE?oc=5",
-      "publishedAt": "Sun, 10 May 2026 08:40:14 GMT"
-    },
-    {
-      "title": "코스닥 1부리그엔 연기금 유입 기대 … 3부리그는 관리·퇴출",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80RFphNnppbE9JbXBjb1NmT2t3WWlPTG50UkxmODZNbkZyYzRSNk5XTHBDbFVVSERmYVl2MFdPaHJIVzNLYlJxTDJ3Ym5TcEJfajkxUWlZYjZnb3RxUG1aZQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 08:48:11 GMT"
-    },
-    {
-      "title": "대미 전략 투자 협의·주요 현안 논의",
+      "title": "부산 LNG발전소 화재 진압…\"인명피해 無, 전력공급 차질 최소화\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12VUg4RlpxRzI3ZTBEVERhZl9OMm1vUVdsdmtHU25HRTdSOXl4VXNvNERQOXFmU3Nmc2syRUpiUno4X05pNVJjM2JicGlUcFFiWlNn?oc=5",
-      "publishedAt": "Sun, 10 May 2026 08:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKTlBXVFlYUU12UFpPTGdtUEdIdUZWM0h0R2VEeUFpQ3pubHhIVW1SV1NNaklmWEpsMURPcVNsbVMtX0FpQXhFQkJGeUFueHhYaG9udjc0ZW5SNDI1ZGNVZmNPMEJha3RzNFVPbklaUnFZTlNsdExqYw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:36:00 GMT"
     },
     {
-      "title": "대통령 보도화면 허위자막 합성 30대 입건",
-      "source": "남도일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82bzZaWFVBUXRYS3cwSmVicjc5eV9DWndTSFBHeVRQX0V3QlBkSU04dHJUZG93bWtNYVRGTXZ0VGJXVTBKUGdUV0ZURzYtMS1GdXdQbmNPR3l2bmVJdG1ReHhGcC0wb0FQZWJEVdIBcEFVX3lxTE9BOWFaTmtHZV8tWWFqcFBiVFBkNHZqM3JuNXJySGtxU2dBVUdPQXdrbTBHSHVUSjFvb1pCN3JsZFYtcXlsNmcyN1RnZ2YxckR2eTVFR18yWXZ4cklnMW1kN0R4SGhUdTJzRE5rNFhvU1Y?oc=5",
-      "publishedAt": "Sun, 10 May 2026 08:49:00 GMT"
-    },
-    {
-      "title": "'도박판' 오명, 코스닥 바뀔까 … 시총보다 실적 중심 평가 예고",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RLTNEdTZWUndYa3Bjamp2ZVRneUVfNElva28tTnFRMHBISW5rWnRiSjBaY0hNVnN1TzZ4LUhoX3lIektwM0RHTzFSNnNuTzQ2Wk9QRUlSS1RnVmVBQVpydQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 08:48:11 GMT"
-    },
-    {
-      "title": "김남준 후보 선거사무소 개소식",
+      "title": "외교부, \"호르무즈 '나무호' 화재 원인은 외부 공격…미상비행체 타격\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5RWxDUkxPeXZJS2FEX0xEVHR1SW5YeVJXRWt1TExCTV9DWjk5WTRITEllaE9FMU9aRVNfUnNNYnk2TlNka2RnZ1VyMnJ0Umd6djgzS3FlRThKRFNXOEVHbA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 08:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84SEZmLS1rZG1wRmNOeHBjcmxLcHhvYlNyellSRVNvWko2YjFxaFp0QlNrTTZiT0ZnZjdyTG9oRDVsZEMweGppSi1BWTdkejRhb084?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:32:00 GMT"
     },
     {
-      "title": "또 크루즈선 집단감염…한타바이러스 이어 노로바이러스",
+      "title": "[일지] HMM 나무호 호르무즈해협 피격 사건",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kNEdEN2I2ZlJJQ3Rocjh1Xy1QbXNNem1UQW5hWmNYckFOU3JrdG1rQ01iVWtkTGZYNUNYRnkxM2d3YmNrMzBYTnRZbk13TDhRQjBrbTNjTHR5RnNPVlZsUw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 09:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pU0ZyVHFUV2hac2g2MnM5Zjg2anZGYmVOeThsLVlzbF9RTE54XzNaOWt0Vml6Vy1taldPeU9DMTJ5QVdjb3UwN1J1UGZhR283ZUVR?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:34:00 GMT"
     },
     {
-      "title": "김윤덕 \"공급 속도전\" 강조했지만…용산·태릉 곳곳 제동",
+      "title": "외교부 \"미상 비행체가 나무호 선미 타격…잔해 등 추가 분석\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mYUxZWENCZzlkNjlMd3E0OEVRUUtiQmV6Y0FmYi03b3R6SjFwNjhwc1FLczlPWTJuSlVlc1FNdnVwWkQ2dDc2WnlZQWNoRTJCeUdpbS1lVjdYRjh6Q2xYVDloM3R0N0hxMm1QTGtMbXg5VmxRTlh1bw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 09:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12WmYtRzdDV08wb2dDdUwybU1obUdlSlFNeUk5aTdUbktsMGIyLWh6c21OM1VqMmVGZWxxOW5GT09JLTdvZzlRWUxmLUd2NEk0dTFJ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:12:00 GMT"
     },
     {
-      "title": "서울 매물 7만건 붕괴…공급 공백에 전월세 시장 '흔들'",
+      "title": "이진숙 예비후보 선거사무소 개소식",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15ZTNRbUNRdVVHbFBva0NWc1drUy1vSHRNTHFReTFiZU9YcHNpQ21kdUw2ajRBNkZ3TnJoSE5xMkZ1dkJuUzJMQ0RRUEZ3QnVfbEhaYVZLaUNnX1VDRGVoRHNzRVd2eUpKc3ZVZVNGNzE3bUxkRldVdg?oc=5",
-      "publishedAt": "Sun, 10 May 2026 09:09:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KbWdObFhPUXJ1VGs2UjRQME1wNmpkSmZTLTllYnAxOWZhWUx6ZnVueXd3R0RTSWg2Qy11cVlFTm5KemZudDRoWldIbmVHT0J0c1NyT0U0Q3dxbG9GNWxDeQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 09:48:00 GMT"
+    },
+    {
+      "title": "'살목지' 300만 돌파, 韓공포영화 흥행 2위…감독도 \"비현실적 숫자\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51elU1S1VVR0ZscDd3aGt0S2tGSGlYWDNGY3NwLXBmTFVKZVRteTdfdTZkWXdrUlNGVlJXOXRiSi0xMkllUllnazJEbERWMEU4WWZN?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:20:00 GMT"
+    },
+    {
+      "title": "'오래'보다 '어떻게'…파킨슨병 관리가 핵심",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95TUQ2TTFpRWNBRDBnVDZTN0ZfSHZ2VnNhS3NlSFVpRE5BNlByVHhvVU5lUE5RRnRQQl96T1RqaXlUM2k2Slp0M0M1ZmE2a2NOUGdZ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 09:46:00 GMT"
     }
   ],
   "sources": [
