@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T05:30:59.012004+09:00",
+  "generatedAt": "2026-05-11T06:12:43.065625+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,17 +68,17 @@
       {
         "location": "서울",
         "summary": "약한 이슬비",
-        "temperature": "10.1°C",
-        "feelsLike": "9.1°C",
+        "temperature": "9.9°C",
+        "feelsLike": "9.0°C",
         "highLow": "최고 20.0° / 최저 9.9°",
         "humidity": "93%",
-        "wind": "4.7 m/s",
+        "wind": "4.3 m/s",
         "rainChance": "93%",
-        "pm10": "17.6 μg/m³",
-        "pm25": "16.8 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-11 05:15"
+        "pm10": "18.9 μg/m³",
+        "pm25": "18.2 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-11 06:00"
       },
       {
         "location": "김포",
@@ -86,44 +86,44 @@
         "temperature": "10.5°C",
         "feelsLike": "9.1°C",
         "highLow": "최고 18.7° / 최저 9.9°",
-        "humidity": "96%",
-        "wind": "10.0 m/s",
+        "humidity": "95%",
+        "wind": "9.7 m/s",
         "rainChance": "95%",
-        "pm10": "17.6 μg/m³",
-        "pm25": "16.8 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-11 05:15"
+        "pm10": "18.9 μg/m³",
+        "pm25": "18.2 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-11 06:00"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "9.1°C",
-        "feelsLike": "7.8°C",
+        "temperature": "9.4°C",
+        "feelsLike": "8.1°C",
         "highLow": "최고 18.6° / 최저 8.8°",
-        "humidity": "98%",
-        "wind": "7.1 m/s",
+        "humidity": "97%",
+        "wind": "6.7 m/s",
         "rainChance": "88%",
-        "pm10": "17.6 μg/m³",
-        "pm25": "16.8 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "45",
-        "updatedAt": "2026-05-11 05:15"
+        "pm10": "18.9 μg/m³",
+        "pm25": "18.2 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-11 06:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "10.3°C",
-        "feelsLike": "9.2°C",
+        "temperature": "10.5°C",
+        "feelsLike": "9.3°C",
         "highLow": "최고 24.3° / 최저 10.0°",
         "humidity": "95%",
-        "wind": "7.5 m/s",
+        "wind": "7.6 m/s",
         "rainChance": "45%",
-        "pm10": "14.8 μg/m³",
-        "pm25": "13.4 μg/m³",
+        "pm10": "15.9 μg/m³",
+        "pm25": "14.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "38",
-        "updatedAt": "2026-05-11 05:15"
+        "updatedAt": "2026-05-11 06:00"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)자연에너지 금곡주유소",
-        "address": "인천 서구 봉수대로 1491 (금곡동)",
-        "updatedAt": "2026-05-10 18:00:34",
+        "stationName": "부광셀프주유소",
+        "address": "인천 서구 봉수대로 1623",
+        "updatedAt": "2026-05-05 07:39:03",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜김포제2주유소",
-        "address": "경기 김포시 대곶면 대곶북로 347",
-        "updatedAt": "2026-05-10 19:49:16",
+        "stationName": "(주)유카스에너지 김포뉴타운",
+        "address": "경기 김포시 양촌읍 김포대로 1581",
+        "updatedAt": "2026-05-07 10:47:32",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (11일, 월)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05SlczNEp4OEV3MFJudThZNXEyVV90ZnNldmpva3ZRSExlRS1TODFwMFBTeWw5Mm1ROTlNai1hOUREQUFSOTRJTWZaNU5wTEV1NWoya1dHWEpmUQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
+      "title": "‘직무상 재해’, ‘육아 휴직’, ‘3대 말썽꾼?’",
+      "source": "뉴스톱",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lbE16NFFJZ19HNVFMWDFzY1FBN1dmZnp6d0lmTHdTX2NFbG4tdHMzblI5eGxpNDE3aDRjUHF5YTh2ZXlqbll3Y0hSa3VqcnUxTWRJSG8ySnUwZ3p2cmc2bnVUNjNBa0pXSGFTQmNFaw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:35:14 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(11일, 월)",
+      "title": "[AI 코인패밀리 만평] 극장보단 침대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sS2RLbEdDVWQyX2E4ZVd6MExKSVNzZE41S1ZGeWJPTDlRRUFNb3l0dzBGbG9mRmdmNGs1RTZPQ25oNjRVY1JFR1hkQzl5ZmM1YmhN?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Kdk4xUDhqZzJwUEFjNkFkOEpoWnhmdXhyNkowM194VjFZWjJoc3djdFVlNmFNTUg3R0J4Qm5NamdlR1ZBTjh2LXBfM05FV2FYZ3FF?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:00:14 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 울산(11일, 월)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYWEVBRTJZVS05V3RRLURVT21ZSmE2Q2RKZ2gza01vVzE4N09CbXlZRVVnRUJjWlNqb005MjluYURFb1pSMWdTMWt4OEF3TEJ0Znc?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 제주(11일, 월)",
+      "title": "대구 달성군, '파크골프+관광' 결합 상품…국내 첫 출시",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtb2RxMmpMbEV2WFB0S3dTR291b1cwUkRqWUQwaUxRV0lhRGpoR3UwQktOQ2RUd0owcUM1LVdndU5ZaTBiOTRZLUNZVGxfR3MyS0d3R2ptNGxNUmNqVVYtSQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UajBnSFI4YTZnSDE5dWRaRjBPZjl2aDlCcTBDU2lUbmxDN1ozdXliNnFEblVyd3V4bHVYR1VaazVsb1hvUl9WcUZKZnRsUXVoQjJReXAwZUVCQlJnS1o0NGV5STdYS245Rk5scTdhdHFiNW13T1dyYw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:56:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 제주(11일, 월)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RXzhrb0NBWXRvZ3A4bjRNNEl3YndwVjFrb1l1SGFmelB1NEN4ejdsZUR6NzB5SEtXcF8zUVpGcF9UanEweWRJMlFlcy0zWC03?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요 일정] 울산(11일, 월)",
+      "title": "곤돌라 타고 샷 추가요, 비발디파크 파크골프",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XTXFLanVIOGJqdjNWZjc2RzBpYkxwWUZiVDE4Q2poRWNYSHpWRXJuNzZiam16SUJYdHVpdTlZcDV6YWs5S1BvZ0h5NWcxdG0wN3g4?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wSW9zMWhfYWNJQ2ppaFoxc2U5X0owSU16bmFWcUJxOWhXWWxNMGZlbENIb0JvUDB2akp3dXQ2SFFqVlZzVVJZQXhaNGlXSDJoaWVR?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:05:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(11일, 월)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54MllZNnE1VlQ4bWVORHp6UXd4eTRuRmZNVml4dS1BblVSc1hFVkl6RUZnVVBlM1dKU0VXR0dER3NwSVdXRmtPQm1MTUFwSm5vWE40RDF5djE2dzBuek1B?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 충북·세종(11일, 월)",
+      "title": "\"그렇지!\" 이찬원과 함께 맛과 멋 넘치는 랜선 여행 [톡파원 25시]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41LUZ0bU50UG9KbTU3QTlwMllDMnhJQk9BS19JQ2NyS0dWR1MzaXYyQk5HRkxrTUg2R2daenFwSmpsLTA0clg1UG0waUk2T1VkU1FV?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCZ0tkWXRaazJaWWY4NlNINHVRN0RaRktVR0RLTHpkY0FZbE1kV0VkNHB0V0xHYTBjZi1FVjFxdFJlUV9fd3F4WkYtRjhmbnhQRXhTemw5cEttVGtOa0p2VA?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:00:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 광주·전남 (11일, 월)",
+      "title": "\"월요일 전국 비, 출근길 우산 챙기세요\"…화요일까지 최대 40㎜",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTV1NYaHFTdnFLM3JCMTBodXRMS3ZyRFBqNE5aQWJMQnNKaVFVb3hHSGJyWS1qMlNmNGlIc0NSMXJmbW51cE5CN1lRLWlTeXRXeGdiVXlVTjl5aHVkUG0w?oc=5",
-      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLdFRjMWd4aGhhd1VyZjZ5NHNpTXphaU9uOFpTYkpPQlFab3VibTZaRFJ0bGJ5UDdiVjlqbUNhX1VzVEJDdGo3WGZDQnVrbVpOMVhRMUgzOVhJWDdxZFZrN1dHVQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 21:00:00 GMT"
+    },
+    {
+      "title": "안규백, 방미 출국…\"전작권 전환·핵추진잠수함 논의\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01ak96NmVPb085S2xybjNCbFBMcVBic1h2cTBGQXphUHlvZUlreHF4MjBHQlM3NXd5bTZQajRoc01tNzlZTjZUOFRTZUxwbDc0NFBV?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:35:00 GMT"
     },
     {
       "title": "브래드 피트가 북촌에?…정윤민, 투샷 공개에 'AI 의혹'",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13amtVcXh5UHFmX2JtaHhFR0dTdjJnVlRoZkcwTHEtODh0cmZ1cnR6MUtycFh1dXhPRUZUUno4OWhLMng4SmM2cE9KS2lTSUIwSWUw?oc=5",
       "publishedAt": "Sun, 10 May 2026 20:24:00 GMT"
+    },
+    {
+      "title": "박서준 \"요즘 연락하는 사람 있나?\"…정유미 향한 열애 의심[꽃보다청춘][★밤TV]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXdzlNdEsza2tsREozZkdxLS0wRE1GRkRKUFBzYzV3RFpSR1JfZUUxV3NKb3NLdHh5RV9IS3hrQy1iN0xSUmFiVU5mdEFBUjV3UGVJ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:40:00 GMT"
+    },
+    {
+      "title": "[속보]트럼프 \"이란 답변 조금전 읽어…완전히 용납 불가\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tcFBuaXpNMU9JWlVoWTZick9QTGtyUGFLRnNJeEplYzNLakZKTTR0aWp2dndXckZPUXhpMzFhRWRUaGpINXZfMkljSXc5SjRMQk4wSjZ3VnZmcjdQdzFpSERZWkxTdUZZb0NZeU9vZXR5LWZLejg0TQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:28:00 GMT"
     }
   ],
   "sources": [
