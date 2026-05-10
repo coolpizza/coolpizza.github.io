@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-11T03:34:15.364334+09:00",
+  "generatedAt": "2026-05-11T04:43:11.334693+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -67,63 +67,63 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "location": "서울",
-        "summary": "강한 이슬비",
-        "temperature": "10.7°C",
-        "feelsLike": "9.8°C",
-        "highLow": "최고 20.4° / 최저 10.2°",
-        "humidity": "89%",
+        "summary": "약한 이슬비",
+        "temperature": "10.1°C",
+        "feelsLike": "9.1°C",
+        "highLow": "최고 20.0° / 최저 9.9°",
+        "humidity": "92%",
         "wind": "4.8 m/s",
         "rainChance": "93%",
-        "pm10": "15.0 μg/m³",
-        "pm25": "14.1 μg/m³",
+        "pm10": "16.2 μg/m³",
+        "pm25": "15.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "59",
-        "updatedAt": "2026-05-11 03:30"
+        "airQualityIndex": "52",
+        "updatedAt": "2026-05-11 04:30"
       },
       {
         "location": "김포",
-        "summary": "강한 이슬비",
+        "summary": "흐림",
         "temperature": "10.6°C",
         "feelsLike": "9.2°C",
-        "highLow": "최고 19.1° / 최저 10.0°",
-        "humidity": "97%",
-        "wind": "9.8 m/s",
+        "highLow": "최고 18.7° / 최저 9.9°",
+        "humidity": "96%",
+        "wind": "10.1 m/s",
         "rainChance": "95%",
-        "pm10": "15.0 μg/m³",
-        "pm25": "14.1 μg/m³",
+        "pm10": "16.2 μg/m³",
+        "pm25": "15.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "59",
-        "updatedAt": "2026-05-11 03:30"
+        "airQualityIndex": "52",
+        "updatedAt": "2026-05-11 04:30"
       },
       {
         "location": "파주",
-        "summary": "이슬비",
-        "temperature": "9.2°C",
+        "summary": "약한 이슬비",
+        "temperature": "9.1°C",
         "feelsLike": "7.7°C",
-        "highLow": "최고 18.8° / 최저 9.0°",
+        "highLow": "최고 18.6° / 최저 8.8°",
         "humidity": "98%",
-        "wind": "8.0 m/s",
+        "wind": "7.7 m/s",
         "rainChance": "88%",
-        "pm10": "15.0 μg/m³",
-        "pm25": "14.1 μg/m³",
+        "pm10": "16.2 μg/m³",
+        "pm25": "15.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "59",
-        "updatedAt": "2026-05-11 03:30"
+        "airQualityIndex": "52",
+        "updatedAt": "2026-05-11 04:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "10.7°C",
-        "feelsLike": "9.5°C",
-        "highLow": "최고 24.3° / 최저 10.6°",
-        "humidity": "94%",
-        "wind": "8.1 m/s",
+        "temperature": "10.3°C",
+        "feelsLike": "9.0°C",
+        "highLow": "최고 24.3° / 최저 10.0°",
+        "humidity": "95%",
+        "wind": "8.2 m/s",
         "rainChance": "45%",
-        "pm10": "12.4 μg/m³",
-        "pm25": "11.4 μg/m³",
+        "pm10": "13.6 μg/m³",
+        "pm25": "12.3 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "40",
-        "updatedAt": "2026-05-11 03:30"
+        "airQualityIndex": "39",
+        "updatedAt": "2026-05-11 04:30"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)디오티디 인천랍스터주유소",
-        "address": "인천 서구 봉수대로 1543 (금곡동)",
-        "updatedAt": "2026-05-10 21:58:08",
+        "stationName": "부광셀프주유소",
+        "address": "인천 서구 봉수대로 1623",
+        "updatedAt": "2026-05-05 07:39:03",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "한울에너지(주)마송주유소",
-        "address": "경기 김포시 통진읍 김포대로 2397",
-        "updatedAt": "2026-05-10 22:08:09",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-05-11 00:54:44",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[국제 경제 흐름 읽기] 쥐어짜이는 지갑, 무너지는 중산층",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ibnZoV1NxLTA4NEZnZHczOFQxV1JFR2l5VFVjcUw3cFNWZ0FldnRoMFI1UF82ZzYtX1hsdzlKc2l4NEdCMnVaSTlvaEpyVElTdk56Y3dUNkVZMkdzbXc?oc=5",
-      "publishedAt": "Sun, 10 May 2026 18:13:08 GMT"
-    },
-    {
-      "title": "[살집 말집] “고덕 안에서도 급 나뉜다”…수자인풍경채에 쏠린 시선",
-      "source": "스트레이트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wTUxWNElzQkZQeXJnWDFieW5kS0FUckp6ZXFteHVzVVljUGNrb1dGa1pjN1FSY083ZmdBN2lVXzhDSWRrNzJMRlRBRWxyVUkxZkVBTjVpdFowZHRubVdtVkFTRnlGQW9JRFhrYXJWX01ZY03SAXdBVV95cUxQbW9YTUxvMFpiWkNaQnRaMWNHN2paVmlpelNHMFhQc3cxSU9GZlU1Nm9QM1ZQTWh4SDRnZy1WQ0pJb0ljUC02UGFYc2lfMFFwUzZMMHdOTi1LVE53QVlacHlEeWhOd2hhNGg3ZW8wT1BMdnE3ejVJMA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 17:47:23 GMT"
-    },
-    {
-      "title": "“생수 2병으로 버텼다”…무등산서 실종 후 닷새만에 살아 돌아온 30대, 무슨 일",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxUU1zR3ZRcTNhQVZWQ0ZUa0ZucXVhRUNNWTYwOHlZUHBBZDk0VHRMalB0X1FBUmgtbmhXMEVjUGZ2am4tb05NQ1VJMF9XcXBRcDVZT3lmSWRSWE5l0gFTQVVfeXFMUEY0OFh2TFVLZ0lKcDJNbHlUTzA4OFNQb0ZVSVlETHI2cmVoLUM3QUNYdGZoS1V2VTluc19vanYyVmZBTzhIbGFoQkJHZXBZZE52a0U?oc=5",
-      "publishedAt": "Sun, 10 May 2026 18:05:00 GMT"
-    },
-    {
-      "title": "트럼프 \"이란의 시간 끌기 끝났다\"",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yWlotQjRtUjhyM0I3a3FIZDhLVjZqY3ZfRy0ydi1GMHZKVHZLN1BrWTk5NjJ6NDNSeGkyU3RfMDJFLWpjMlotTTM5T0RON2xo?oc=5",
-      "publishedAt": "Sun, 10 May 2026 18:06:45 GMT"
-    },
-    {
-      "title": "\"우~\" 도대체 김재환을 향한 두산 팬들 야유는 언제까지? \"괜찮다고 본인은 그러지만 괜찮겠는가\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwQUhxZkN6Q01LNmZwMk84eUliNW5FaldYejdkdXpSUnp6UVM5RnUwRTlldEdqUlFQN00zaEZkME9kQzlkeFBUdkNIY3VncUhVNjdqRzM3b3BRUlV3?oc=5",
-      "publishedAt": "Sun, 10 May 2026 18:23:00 GMT"
-    },
-    {
-      "title": "[아트트렌드②] 브랜드 후원과 예술적 자율성의 경계, 루이비통의 ‘공간 실험’",
-      "source": "케이트렌디뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xbVBHR2x3Zm45TmhYLW1sTFRoblZnTG1NeVo1eHB0ZmYybk9Kemd2ZzhkOUZUQWlFNVBDdGtZRldvVXBfQzl4TVc3ZVZtV1BmQzlleXhIbUt3dDM1dklLVU9uLUI5WFo2S3NRR1QwZw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 18:26:00 GMT"
-    },
-    {
-      "title": "'대박' 패색 짙던 후반 38분부터 4골 '융단폭격'…한국 U-17, 베트남에 4-1 대역전극 '조 1위 등극'",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzbHpUdGRUSkxHVDhIZFBpX29xU2IxclRyU2E4eDV3NV9zS2ltX1RCaHdYZ1oxRlJWSGx2cE5Ed0hBM21OWW03TmV6VU50MVEwRjBrU0hBVXA1b0N6?oc=5",
-      "publishedAt": "Sun, 10 May 2026 18:03:00 GMT"
-    },
-    {
-      "title": "정부, 석유 제품 매점매석 금지 고시 2개월 연장···“사재기 물품 몰수” 근거 규정 있다",
-      "source": "MSN",
-      "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQNVg5cTM5ZllrUzk2SEM4T1lMbmdlam5NcGt4NGNnbHlIdjdiTWIxeXVnZU1vRmV3UUU2MHpJXzNtRm5nYXZ0bXN6c2xQclNKQzJ0elFlLUZvODFhTWFlanNiNTM3YXBkM3pSUnlFWjhOZ1JKM20wZGdCOTFUazlzNXBYZlYxS0FPM1N3OTBhY2V4TDVRbkl2UHd4V0VKRk1xb0ZuQ041OVlYMFg3MEJZMGJiSmhmclRvWl83TlBlT25jeDVOZUtoX1daTlg1OGs3ZU5oZ21ELTQzTUo2MFFvVzVXUnNQTFZNZHFHYjBKaURud1R3UHBuVkhyTlBUWHpsZ2Q4ODB0VUFzUGxsTzFpU0R5WEpzZEZQeGNaMDMzc2JFOGtjVW1ramFMampnU2FISHRLRVg1aUR0eVMwRFQyOXcweW8yZktQcU1HUl9JYnQybzZBYTRiTkt4SVNEeFR3LWpTcDZXM0ltbnFEY0RsMERpRjNPbkZSS1pMMVQ0R2RONHk3Yl9xU0hIVE80NFZwcEVlbW9IbXFIMFVMbndxa0I3MUJxbVhUOTg5ZXRvRGZ4TTRQVlRPbWtuWmdaOFZEd1BPUVNkY3lkRnk4dUFNZk9TWUpNOFdkRS1uNW52bXItb2pscF8yT0ktNHI?oc=5",
-      "publishedAt": "Sun, 10 May 2026 18:32:12 GMT"
-    },
-    {
-      "title": "이동휘, 700만원 '노숙자룩' 해명…\"방송 이후에 못 입어\" 왜?",
+      "title": "트럼프 SNS 업체, 비트코인 투자 등 6000억 손실",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xQkhEZUgxdFZNekV0V0FwQlpZQmItSDMzVjBFUV83VmtFYzE0Sk0tal83MWhUUUdLSVh5dXBZSGtvdEZTV2pwN3NfNHpxMm9MLUFz?oc=5",
-      "publishedAt": "Sun, 10 May 2026 17:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByekhYTS1zTDEwM2FBWUdxZjM1TDhLR1FIRW1ZbnhhZTRnNmpfZ0V0WG1Ca2E1NzRMbDRseG90REhya1dFSkxXTzZZTTNwWFNhVm1EQUNVc0xvRmNPcUN1NA?oc=5",
+      "publishedAt": "Sun, 10 May 2026 19:32:00 GMT"
     },
     {
-      "title": "'결벽' 이동휘, 손님 화장실 사용법까지 관리? \"마동석·유재석은 예외\"",
+      "title": "[비건뉴스 캘린더] 1월부터 12월까지, 환경·동물복지 기념일 한눈에",
+      "source": "비건뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xc0dHT3FTNGZoREthem96eWhVZ3pCMG9NSUZWWW1fRktmcWxqUE9aWFZRa0FrWUd0WWpJT0tXcDF6YW1wVkhYa3ZtN2lYWVFBMWVHN0pVUk5oS0RPdmxfb09DSzVSUQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 18:56:17 GMT"
+    },
+    {
+      "title": "\"尹 사형 구형 순간에 웃음\"…뉴스 화면 감쪽같이 조작한 30대 덜미",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yeU9JTm15ZXl5dllFN1lxYXpIVDlsTmJ0YS1QVkRDbHpFX0ZTeVBzVWFhdzVUTWFQNjNQaDRSTXZYbVlBTWZaTjhDcGc0ZGxRaWw4?oc=5",
-      "publishedAt": "Sun, 10 May 2026 17:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40Sld0Vnpnc0ZzUzFEaXBLY3dqOHJrMGU1VGdtaUNCdVowaUpaOGVEUHBRZU8xS3RtekRJWndQY3UxYkItLTl0OURwWDlCM3ZKZ2c0?oc=5",
+      "publishedAt": "Sun, 10 May 2026 19:31:00 GMT"
+    },
+    {
+      "title": "트럼프·시진핑 14일 베이징 담판…무역·투자 협정 논의",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGRy1rQ1hRYkJTdWJpbWZCU29TUFBRR0pJamZLVkQ1alB1eHBvM3dKWFh4NlNOa3RzUW9qQkc0VUI1TThaTWRqZUF3NjI1SG5KdkNF?oc=5",
+      "publishedAt": "Sun, 10 May 2026 19:30:00 GMT"
+    },
+    {
+      "title": "탈종교 2030 잡아라…종교계, 연애를 품다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mT1JWdFVIU1R3TURvcmRtOW0yVVM2SnpzdnRzSkZRMFFOVnBReEgtX1pDMEJKR2hMMTdEaE5MT0RTaWtlcGFxVkpUZ0xVenFXWDRN?oc=5",
+      "publishedAt": "Sun, 10 May 2026 19:11:00 GMT"
+    },
+    {
+      "title": "AI 반도체 슈퍼사이클 타고…K소재기업도 증설 '가속도'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ra2VqQ1dzQVExYUM1NTBULUZ4czFoSTYyWWVtU2hFcXA1Vm11bGNOTnZ1S3R0VktMMXFKM2Z6VFp2My03TDd2Q1dzMXIxRkUzQW5F?oc=5",
+      "publishedAt": "Sun, 10 May 2026 19:23:00 GMT"
+    },
+    {
+      "title": "지방선거 D-23…與부터 선대위 띄웠다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmLThlV0JIdnFhUkVIVVY2ZFZPVnFUZ2phdkJFaFhoMGlDbFlUUXd3Ty1JbTdTdVJJWnNPa1FBX1FxX1VOMEpJd05MaFBVTjFIdlc5SU9oMXFxTkZxX1VOZnZvQ2hKVkdQMHoxT2J2R3lLVkhmRGF6Sw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 19:02:00 GMT"
+    },
+    {
+      "title": "54회 어버이날 기념식…대통령 부부 첫 참석",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IWDhfYWhsOU9NZFNTQkY2Yk02aEZLN3RDVTh2a2dFelBOU0pyWHRTeFFOd1FWWmFKU0VEYW5PT2t6OTY0eXdlMjVScHg0MmdZYmt0ajI2aVk5VTloUFZRUm5RS0JldWtVdngwRHA5aWMzWUtic05nRQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 19:00:00 GMT"
+    },
+    {
+      "title": "맛집·쇼핑…네이버 'AI탭' 국내특화 AI, 디테일 잡았다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xb1h6TDNLekQ1dHpUVjNFS2ppek1yWXprVzg0eGt1NUNfTXZOdkI0Y1hRS3BrSGUzdWJUcDZ3aVVZZlVtd2lJS0R5Q2k1X2dCN2t3?oc=5",
+      "publishedAt": "Sun, 10 May 2026 19:03:00 GMT"
+    },
+    {
+      "title": "\"골키퍼 목을 왜 졸라\" 95분 동점골 취소 대참사→토트넘 웃었다…웨스트햄, 선두 아스널에 0-1 분패 \"강등 직전\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yeTEyNGRNY3loMjVjUDRqY1ZTY0VXcUJZY1phWXRIMVBfa1RvZGt1SGFMaUpBMGtmcTdsb3ZNWVpzRjdoNjBaSWpsdzR0aS1BbnVwNFJ5LWNSWDlHbC1wTHE2RENjQkc2?oc=5",
+      "publishedAt": "Sun, 10 May 2026 19:12:00 GMT"
     }
   ],
   "sources": [
