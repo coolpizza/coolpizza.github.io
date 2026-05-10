@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-11T04:43:11.334693+09:00",
+  "generatedAt": "2026-05-11T05:30:59.012004+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -71,59 +71,59 @@ window.DASHBOARD_DATA = {
         "temperature": "10.1°C",
         "feelsLike": "9.1°C",
         "highLow": "최고 20.0° / 최저 9.9°",
-        "humidity": "92%",
-        "wind": "4.8 m/s",
+        "humidity": "93%",
+        "wind": "4.7 m/s",
         "rainChance": "93%",
-        "pm10": "16.2 μg/m³",
-        "pm25": "15.4 μg/m³",
+        "pm10": "17.6 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "52",
-        "updatedAt": "2026-05-11 04:30"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-11 05:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "10.6°C",
-        "feelsLike": "9.2°C",
+        "temperature": "10.5°C",
+        "feelsLike": "9.1°C",
         "highLow": "최고 18.7° / 최저 9.9°",
         "humidity": "96%",
-        "wind": "10.1 m/s",
+        "wind": "10.0 m/s",
         "rainChance": "95%",
-        "pm10": "16.2 μg/m³",
-        "pm25": "15.4 μg/m³",
+        "pm10": "17.6 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "52",
-        "updatedAt": "2026-05-11 04:30"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-11 05:15"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
         "temperature": "9.1°C",
-        "feelsLike": "7.7°C",
+        "feelsLike": "7.8°C",
         "highLow": "최고 18.6° / 최저 8.8°",
         "humidity": "98%",
-        "wind": "7.7 m/s",
+        "wind": "7.1 m/s",
         "rainChance": "88%",
-        "pm10": "16.2 μg/m³",
-        "pm25": "15.4 μg/m³",
+        "pm10": "17.6 μg/m³",
+        "pm25": "16.8 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "52",
-        "updatedAt": "2026-05-11 04:30"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-11 05:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
         "temperature": "10.3°C",
-        "feelsLike": "9.0°C",
+        "feelsLike": "9.2°C",
         "highLow": "최고 24.3° / 최저 10.0°",
         "humidity": "95%",
-        "wind": "8.2 m/s",
+        "wind": "7.5 m/s",
         "rainChance": "45%",
-        "pm10": "13.6 μg/m³",
-        "pm25": "12.3 μg/m³",
+        "pm10": "14.8 μg/m³",
+        "pm25": "13.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "39",
-        "updatedAt": "2026-05-11 04:30"
+        "airQualityIndex": "38",
+        "updatedAt": "2026-05-11 05:15"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "부광셀프주유소",
-        "address": "인천 서구 봉수대로 1623",
-        "updatedAt": "2026-05-05 07:39:03",
+        "stationName": "(주)자연에너지 금곡주유소",
+        "address": "인천 서구 봉수대로 1491 (금곡동)",
+        "updatedAt": "2026-05-10 18:00:34",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "태리알뜰주유소",
-        "address": "경기 김포시 고촌읍 김포대로451번길 3",
-        "updatedAt": "2026-05-11 00:54:44",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-05-10 19:49:16",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "트럼프 SNS 업체, 비트코인 투자 등 6000억 손실",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByekhYTS1zTDEwM2FBWUdxZjM1TDhLR1FIRW1ZbnhhZTRnNmpfZ0V0WG1Ca2E1NzRMbDRseG90REhya1dFSkxXTzZZTTNwWFNhVm1EQUNVc0xvRmNPcUN1NA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 19:32:00 GMT"
+      "title": "[오늘의 주요일정] 정치·정부 (11일, 월)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05SlczNEp4OEV3MFJudThZNXEyVV90ZnNldmpva3ZRSExlRS1TODFwMFBTeWw5Mm1ROTlNai1hOUREQUFSOTRJTWZaNU5wTEV1NWoya1dHWEpmUQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
     },
     {
-      "title": "[비건뉴스 캘린더] 1월부터 12월까지, 환경·동물복지 기념일 한눈에",
-      "source": "비건뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xc0dHT3FTNGZoREthem96eWhVZ3pCMG9NSUZWWW1fRktmcWxqUE9aWFZRa0FrWUd0WWpJT0tXcDF6YW1wVkhYa3ZtN2lYWVFBMWVHN0pVUk5oS0RPdmxfb09DSzVSUQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 18:56:17 GMT"
+      "title": "[오늘의 주요일정] 부산·경남(11일, 월)",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sS2RLbEdDVWQyX2E4ZVd6MExKSVNzZE41S1ZGeWJPTDlRRUFNb3l0dzBGbG9mRmdmNGs1RTZPQ25oNjRVY1JFR1hkQzl5ZmM1YmhN?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:01:00 GMT"
     },
     {
-      "title": "\"尹 사형 구형 순간에 웃음\"…뉴스 화면 감쪽같이 조작한 30대 덜미",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40Sld0Vnpnc0ZzUzFEaXBLY3dqOHJrMGU1VGdtaUNCdVowaUpaOGVEUHBRZU8xS3RtekRJWndQY3UxYkItLTl0OURwWDlCM3ZKZ2c0?oc=5",
-      "publishedAt": "Sun, 10 May 2026 19:31:00 GMT"
+      "title": "[오늘의 주요 일정] 울산(11일, 월)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYWEVBRTJZVS05V3RRLURVT21ZSmE2Q2RKZ2gza01vVzE4N09CbXlZRVVnRUJjWlNqb005MjluYURFb1pSMWdTMWt4OEF3TEJ0Znc?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
     },
     {
-      "title": "트럼프·시진핑 14일 베이징 담판…무역·투자 협정 논의",
+      "title": "[오늘의 주요일정] 제주(11일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGRy1rQ1hRYkJTdWJpbWZCU29TUFBRR0pJamZLVkQ1alB1eHBvM3dKWFh4NlNOa3RzUW9qQkc0VUI1TThaTWRqZUF3NjI1SG5KdkNF?oc=5",
-      "publishedAt": "Sun, 10 May 2026 19:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtb2RxMmpMbEV2WFB0S3dTR291b1cwUkRqWUQwaUxRV0lhRGpoR3UwQktOQ2RUd0owcUM1LVdndU5ZaTBiOTRZLUNZVGxfR3MyS0d3R2ptNGxNUmNqVVYtSQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
     },
     {
-      "title": "탈종교 2030 잡아라…종교계, 연애를 품다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mT1JWdFVIU1R3TURvcmRtOW0yVVM2SnpzdnRzSkZRMFFOVnBReEgtX1pDMEJKR2hMMTdEaE5MT0RTaWtlcGFxVkpUZ0xVenFXWDRN?oc=5",
-      "publishedAt": "Sun, 10 May 2026 19:11:00 GMT"
+      "title": "[오늘의 주요일정] 제주(11일, 월)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RXzhrb0NBWXRvZ3A4bjRNNEl3YndwVjFrb1l1SGFmelB1NEN4ejdsZUR6NzB5SEtXcF8zUVpGcF9UanEweWRJMlFlcy0zWC03?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
     },
     {
-      "title": "AI 반도체 슈퍼사이클 타고…K소재기업도 증설 '가속도'",
+      "title": "[오늘의 주요 일정] 울산(11일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ra2VqQ1dzQVExYUM1NTBULUZ4czFoSTYyWWVtU2hFcXA1Vm11bGNOTnZ1S3R0VktMMXFKM2Z6VFp2My03TDd2Q1dzMXIxRkUzQW5F?oc=5",
-      "publishedAt": "Sun, 10 May 2026 19:23:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XTXFLanVIOGJqdjNWZjc2RzBpYkxwWUZiVDE4Q2poRWNYSHpWRXJuNzZiam16SUJYdHVpdTlZcDV6YWs5S1BvZ0h5NWcxdG0wN3g4?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
     },
     {
-      "title": "지방선거 D-23…與부터 선대위 띄웠다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmLThlV0JIdnFhUkVIVVY2ZFZPVnFUZ2phdkJFaFhoMGlDbFlUUXd3Ty1JbTdTdVJJWnNPa1FBX1FxX1VOMEpJd05MaFBVTjFIdlc5SU9oMXFxTkZxX1VOZnZvQ2hKVkdQMHoxT2J2R3lLVkhmRGF6Sw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 19:02:00 GMT"
+      "title": "[오늘의 주요일정] 부산·경남(11일, 월)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54MllZNnE1VlQ4bWVORHp6UXd4eTRuRmZNVml4dS1BblVSc1hFVkl6RUZnVVBlM1dKU0VXR0dER3NwSVdXRmtPQm1MTUFwSm5vWE40RDF5djE2dzBuek1B?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
     },
     {
-      "title": "54회 어버이날 기념식…대통령 부부 첫 참석",
+      "title": "[오늘의 주요일정] 충북·세종(11일, 월)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IWDhfYWhsOU9NZFNTQkY2Yk02aEZLN3RDVTh2a2dFelBOU0pyWHRTeFFOd1FWWmFKU0VEYW5PT2t6OTY0eXdlMjVScHg0MmdZYmt0ajI2aVk5VTloUFZRUm5RS0JldWtVdngwRHA5aWMzWUtic05nRQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 19:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41LUZ0bU50UG9KbTU3QTlwMllDMnhJQk9BS19JQ2NyS0dWR1MzaXYyQk5HRkxrTUg2R2daenFwSmpsLTA0clg1UG0waUk2T1VkU1FV?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
     },
     {
-      "title": "맛집·쇼핑…네이버 'AI탭' 국내특화 AI, 디테일 잡았다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xb1h6TDNLekQ1dHpUVjNFS2ppek1yWXprVzg0eGt1NUNfTXZOdkI0Y1hRS3BrSGUzdWJUcDZ3aVVZZlVtd2lJS0R5Q2k1X2dCN2t3?oc=5",
-      "publishedAt": "Sun, 10 May 2026 19:03:00 GMT"
+      "title": "[오늘의 주요일정] 광주·전남 (11일, 월)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTV1NYaHFTdnFLM3JCMTBodXRMS3ZyRFBqNE5aQWJMQnNKaVFVb3hHSGJyWS1qMlNmNGlIc0NSMXJmbW51cE5CN1lRLWlTeXRXeGdiVXlVTjl5aHVkUG0w?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:00:00 GMT"
     },
     {
-      "title": "\"골키퍼 목을 왜 졸라\" 95분 동점골 취소 대참사→토트넘 웃었다…웨스트햄, 선두 아스널에 0-1 분패 \"강등 직전\"",
+      "title": "브래드 피트가 북촌에?…정윤민, 투샷 공개에 'AI 의혹'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yeTEyNGRNY3loMjVjUDRqY1ZTY0VXcUJZY1phWXRIMVBfa1RvZGt1SGFMaUpBMGtmcTdsb3ZNWVpzRjdoNjBaSWpsdzR0aS1BbnVwNFJ5LWNSWDlHbC1wTHE2RENjQkc2?oc=5",
-      "publishedAt": "Sun, 10 May 2026 19:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13amtVcXh5UHFmX2JtaHhFR0dTdjJnVlRoZkcwTHEtODh0cmZ1cnR6MUtycFh1dXhPRUZUUno4OWhLMng4SmM2cE9KS2lTSUIwSWUw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:24:00 GMT"
     }
   ],
   "sources": [
