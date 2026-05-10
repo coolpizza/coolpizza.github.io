@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-11T02:35:17.480618+09:00",
+  "generatedAt": "2026-05-11T03:34:15.364334+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "강한 이슬비",
-        "temperature": "11.2°C",
-        "feelsLike": "10.2°C",
+        "temperature": "10.7°C",
+        "feelsLike": "9.8°C",
         "highLow": "최고 20.4° / 최저 10.2°",
-        "humidity": "83%",
-        "wind": "4.3 m/s",
+        "humidity": "89%",
+        "wind": "4.8 m/s",
         "rainChance": "93%",
-        "pm10": "13.7 μg/m³",
-        "pm25": "12.7 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-05-11 02:30"
+        "pm10": "15.0 μg/m³",
+        "pm25": "14.1 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "59",
+        "updatedAt": "2026-05-11 03:30"
       },
       {
         "location": "김포",
         "summary": "강한 이슬비",
-        "temperature": "10.1°C",
-        "feelsLike": "8.6°C",
+        "temperature": "10.6°C",
+        "feelsLike": "9.2°C",
         "highLow": "최고 19.1° / 최저 10.0°",
-        "humidity": "96%",
-        "wind": "9.4 m/s",
+        "humidity": "97%",
+        "wind": "9.8 m/s",
         "rainChance": "95%",
-        "pm10": "13.7 μg/m³",
-        "pm25": "12.7 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-05-11 02:30"
+        "pm10": "15.0 μg/m³",
+        "pm25": "14.1 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "59",
+        "updatedAt": "2026-05-11 03:30"
       },
       {
         "location": "파주",
         "summary": "이슬비",
-        "temperature": "9.1°C",
+        "temperature": "9.2°C",
         "feelsLike": "7.7°C",
         "highLow": "최고 18.8° / 최저 9.0°",
         "humidity": "98%",
-        "wind": "8.1 m/s",
+        "wind": "8.0 m/s",
         "rainChance": "88%",
-        "pm10": "13.7 μg/m³",
-        "pm25": "12.7 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "61",
-        "updatedAt": "2026-05-11 02:30"
+        "pm10": "15.0 μg/m³",
+        "pm25": "14.1 μg/m³",
+        "airQuality": "약간 나쁨",
+        "airQualityIndex": "59",
+        "updatedAt": "2026-05-11 03:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
         "temperature": "10.7°C",
-        "feelsLike": "9.6°C",
+        "feelsLike": "9.5°C",
         "highLow": "최고 24.3° / 최저 10.6°",
-        "humidity": "92%",
-        "wind": "7.2 m/s",
+        "humidity": "94%",
+        "wind": "8.1 m/s",
         "rainChance": "45%",
-        "pm10": "11.6 μg/m³",
-        "pm25": "10.8 μg/m³",
+        "pm10": "12.4 μg/m³",
+        "pm25": "11.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "39",
-        "updatedAt": "2026-05-11 02:30"
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-11 03:30"
       }
     ]
   },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "민주 \"국힘, 집값 폭등 바라나…정부 정책 왜곡\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fYnkxajZlZmZ6OVlUemgwb1JwQnJXUW9vX1JUSEhKbWY2YWRKTHh4LUZoX19XbzdmX2hlUlZhQk1Ea09vU1FvSUlKODA1d1N0S2ZJ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 17:24:00 GMT"
+      "title": "[국제 경제 흐름 읽기] 쥐어짜이는 지갑, 무너지는 중산층",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ibnZoV1NxLTA4NEZnZHczOFQxV1JFR2l5VFVjcUw3cFNWZ0FldnRoMFI1UF82ZzYtX1hsdzlKc2l4NEdCMnVaSTlvaEpyVElTdk56Y3dUNkVZMkdzbXc?oc=5",
+      "publishedAt": "Sun, 10 May 2026 18:13:08 GMT"
     },
     {
-      "title": "[사설]삼전 재협상, 합리적 성과급 체계 계기로",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZT2hQdm9tR2d2NW9DQXpyMzlHMXIwOTB2Um5YaTdWUUVaMzMzOUNxOGxjOEI2aEVjRGRhOFVtdTlRMkpjWUhvUnl1VjlVLXpyeTVJ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 17:00:00 GMT"
+      "title": "[살집 말집] “고덕 안에서도 급 나뉜다”…수자인풍경채에 쏠린 시선",
+      "source": "스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wTUxWNElzQkZQeXJnWDFieW5kS0FUckp6ZXFteHVzVVljUGNrb1dGa1pjN1FSY083ZmdBN2lVXzhDSWRrNzJMRlRBRWxyVUkxZkVBTjVpdFowZHRubVdtVkFTRnlGQW9JRFhrYXJWX01ZY03SAXdBVV95cUxQbW9YTUxvMFpiWkNaQnRaMWNHN2paVmlpelNHMFhQc3cxSU9GZlU1Nm9QM1ZQTWh4SDRnZy1WQ0pJb0ljUC02UGFYc2lfMFFwUzZMMHdOTi1LVE53QVlacHlEeWhOd2hhNGg3ZW8wT1BMdnE3ejVJMA?oc=5",
+      "publishedAt": "Sun, 10 May 2026 17:47:23 GMT"
     },
     {
-      "title": "[사설]'속도전' 하겠다던 공급대책의 공회전",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LTW1DNU94dVE0dEExZVJ4aXRUaUdsOTRGMTNfM3ZIT0pvOFd3M0ZHX1NkSGRRQzRfQ1cyRk1PdFFncEdHZWtabV8wV0ppVHJqTEU4?oc=5",
-      "publishedAt": "Sun, 10 May 2026 17:00:00 GMT"
-    },
-    {
-      "title": "940만 섹시 리포터, '리버풀 최악 GK' 카리우스와 '득남' 모습 공개…\"승격→둘째 탄생, 미녀 아내까지 최고의 해\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pUzZHZ1I0WDBsWS1hUk5kS19xVncwUV9lZmJVU21uQW8yMEl5X1Y0R2plUDZVU0V4bU5mVTkzWk1sSEJITXdWR1RCV2twTlJIT3NEcW1GSHRZU1FsOHYtWDFycU5uckha?oc=5",
-      "publishedAt": "Sun, 10 May 2026 16:40:00 GMT"
-    },
-    {
-      "title": "“대학 팀플 탈퇴하겠다” 했을 뿐인데 7시간 ‘감금 대치’…“탈퇴비 30만원 내라”",
+      "title": "“생수 2병으로 버텼다”…무등산서 실종 후 닷새만에 살아 돌아온 30대, 무슨 일",
       "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsYmd6YkZScXJxdDlyN2N6OUVldl92UjBrY2lWRU81bTBOUlpWa1VOQi00NnJROXk4OHdNVUJNSGE1azVzVDY4bXFzemNTQzBsN19hRGpWYmYtU2NE0gFTQVVfeXFMUGcxa0QzbTdGd3JfbmF4bEd6ZEhQYzI0T2ZKTUdkbko2d1VKN2NmcjBtV1FQZ0xNcGp0U0lFaDJURjg4VW9ZRXpqVGhOZ255S3owRDA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 17:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxUU1zR3ZRcTNhQVZWQ0ZUa0ZucXVhRUNNWTYwOHlZUHBBZDk0VHRMalB0X1FBUmgtbmhXMEVjUGZ2am4tb05NQ1VJMF9XcXBRcDVZT3lmSWRSWE5l0gFTQVVfeXFMUEY0OFh2TFVLZ0lKcDJNbHlUTzA4OFNQb0ZVSVlETHI2cmVoLUM3QUNYdGZoS1V2VTluc19vanYyVmZBTzhIbGFoQkJHZXBZZE52a0U?oc=5",
+      "publishedAt": "Sun, 10 May 2026 18:05:00 GMT"
     },
     {
-      "title": "신상진 ‘시민희망캠프’ 개소식 대성황(성남은 이미 강하다! 이제 더 빠르게 완성할때)",
-      "source": "newszoom.kr",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XMElER0VVNVF6aGZqc1pNUFRUZHdRRGhjVUtvSnpLNEpBdXpBZXZUTVFwX1hHMVk0SGVRV1ZsQkh1ZUVy?oc=5",
-      "publishedAt": "Sun, 10 May 2026 16:36:00 GMT"
+      "title": "트럼프 \"이란의 시간 끌기 끝났다\"",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yWlotQjRtUjhyM0I3a3FIZDhLVjZqY3ZfRy0ydi1GMHZKVHZLN1BrWTk5NjJ6NDNSeGkyU3RfMDJFLWpjMlotTTM5T0RON2xo?oc=5",
+      "publishedAt": "Sun, 10 May 2026 18:06:45 GMT"
     },
     {
-      "title": "'불펜 투수 선발행+0B2S 투수교체' 예측 불가 한화 마운드, 마침내 정상화되나 '개점휴업' 외인 1군 동행 [대전 현장]",
+      "title": "\"우~\" 도대체 김재환을 향한 두산 팬들 야유는 언제까지? \"괜찮다고 본인은 그러지만 괜찮겠는가\"",
       "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yMzc0V3p6aGNUdXo5QTBiMGN5bVpFdDltbVU2T0lQNk1nN1UxdlBoT2lfSWhQazRiYUZmdkc4VGJuR2w5OFVENVVXM1FKNHI1OUNKT2pVQmJ5bjQ3?oc=5",
-      "publishedAt": "Sun, 10 May 2026 17:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwQUhxZkN6Q01LNmZwMk84eUliNW5FaldYejdkdXpSUnp6UVM5RnUwRTlldEdqUlFQN00zaEZkME9kQzlkeFBUdkNIY3VncUhVNjdqRzM3b3BRUlV3?oc=5",
+      "publishedAt": "Sun, 10 May 2026 18:23:00 GMT"
     },
     {
-      "title": "'안면 피투성이→통한의 대역전패' 日 사상 최초 꿈, 8번째 도전마저 실패 \"정말 끈질긴 선수였는데…\"",
+      "title": "[아트트렌드②] 브랜드 후원과 예술적 자율성의 경계, 루이비통의 ‘공간 실험’",
+      "source": "케이트렌디뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xbVBHR2x3Zm45TmhYLW1sTFRoblZnTG1NeVo1eHB0ZmYybk9Kemd2ZzhkOUZUQWlFNVBDdGtZRldvVXBfQzl4TVc3ZVZtV1BmQzlleXhIbUt3dDM1dklLVU9uLUI5WFo2S3NRR1QwZw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 18:26:00 GMT"
+    },
+    {
+      "title": "'대박' 패색 짙던 후반 38분부터 4골 '융단폭격'…한국 U-17, 베트남에 4-1 대역전극 '조 1위 등극'",
       "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkb2t3MklMTkZGaVNNVTRDdWpXNl9GdWpxdE9lVXFLeUhPNzVTNEpaMEdMLTRiLWFxMkJSV1JDdlF1V29RUGV5VGJRTGhUQ1BTWFdJaEFGNzBiQ1Jq?oc=5",
-      "publishedAt": "Sun, 10 May 2026 17:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzbHpUdGRUSkxHVDhIZFBpX29xU2IxclRyU2E4eDV3NV9zS2ltX1RCaHdYZ1oxRlJWSGx2cE5Ed0hBM21OWW03TmV6VU50MVEwRjBrU0hBVXA1b0N6?oc=5",
+      "publishedAt": "Sun, 10 May 2026 18:03:00 GMT"
     },
     {
-      "title": "'양김' 이을 좌완 라이벌인데, 김진욱-이의리 그래프 엇갈린다...AG 걸린 운명의 시즌, 어떤 결말 기다릴까",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeldtSFR6RW5VTVQzSks0VTR0VkhMQ1h1bWtJamYyMUp2QlR0OXVZZE55QXVkVzBfd2RpT1NLNnZ0UUZ6cHpNQ0gwV1pPNkVFRWl4c1VyVm9keVp1ZEI1dUwtQ1NndlJxWWNJTTgxajNfY1JNZ2hhLUJocXEwS1NndG13NA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 16:11:00 GMT"
+      "title": "정부, 석유 제품 매점매석 금지 고시 2개월 연장···“사재기 물품 몰수” 근거 규정 있다",
+      "source": "MSN",
+      "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQNVg5cTM5ZllrUzk2SEM4T1lMbmdlam5NcGt4NGNnbHlIdjdiTWIxeXVnZU1vRmV3UUU2MHpJXzNtRm5nYXZ0bXN6c2xQclNKQzJ0elFlLUZvODFhTWFlanNiNTM3YXBkM3pSUnlFWjhOZ1JKM20wZGdCOTFUazlzNXBYZlYxS0FPM1N3OTBhY2V4TDVRbkl2UHd4V0VKRk1xb0ZuQ041OVlYMFg3MEJZMGJiSmhmclRvWl83TlBlT25jeDVOZUtoX1daTlg1OGs3ZU5oZ21ELTQzTUo2MFFvVzVXUnNQTFZNZHFHYjBKaURud1R3UHBuVkhyTlBUWHpsZ2Q4ODB0VUFzUGxsTzFpU0R5WEpzZEZQeGNaMDMzc2JFOGtjVW1ramFMampnU2FISHRLRVg1aUR0eVMwRFQyOXcweW8yZktQcU1HUl9JYnQybzZBYTRiTkt4SVNEeFR3LWpTcDZXM0ltbnFEY0RsMERpRjNPbkZSS1pMMVQ0R2RONHk3Yl9xU0hIVE80NFZwcEVlbW9IbXFIMFVMbndxa0I3MUJxbVhUOTg5ZXRvRGZ4TTRQVlRPbWtuWmdaOFZEd1BPUVNkY3lkRnk4dUFNZk9TWUpNOFdkRS1uNW52bXItb2pscF8yT0ktNHI?oc=5",
+      "publishedAt": "Sun, 10 May 2026 18:32:12 GMT"
     },
     {
-      "title": "삼성전자 노사, 오늘(11일)부터 이틀간 ‘사후조정’ 돌입",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rWTNoMlQ0YTFxZk96REd1UEpyOW8xaVU2N1BrdENYTDU1UHRLd1EySXk3SDJvYVZqNlQ2WFFKZDN3dWZEcVJDVkRtNnB3ZzJORHFfSXNqNDNVRzQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 16:01:00 GMT"
+      "title": "이동휘, 700만원 '노숙자룩' 해명…\"방송 이후에 못 입어\" 왜?",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xQkhEZUgxdFZNekV0V0FwQlpZQmItSDMzVjBFUV83VmtFYzE0Sk0tal83MWhUUUdLSVh5dXBZSGtvdEZTV2pwN3NfNHpxMm9MLUFz?oc=5",
+      "publishedAt": "Sun, 10 May 2026 17:50:00 GMT"
+    },
+    {
+      "title": "'결벽' 이동휘, 손님 화장실 사용법까지 관리? \"마동석·유재석은 예외\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yeU9JTm15ZXl5dllFN1lxYXpIVDlsTmJ0YS1QVkRDbHpFX0ZTeVBzVWFhdzVUTWFQNjNQaDRSTXZYbVlBTWZaTjhDcGc0ZGxRaWw4?oc=5",
+      "publishedAt": "Sun, 10 May 2026 17:36:00 GMT"
     }
   ],
   "sources": [
