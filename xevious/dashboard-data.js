@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-10T19:41:11.623118+09:00",
+  "generatedAt": "2026-05-10T20:32:11.965907+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "16.5°C",
-        "feelsLike": "14.5°C",
+        "temperature": "15.4°C",
+        "feelsLike": "13.7°C",
         "highLow": "최고 22.1° / 최저 9.3°",
-        "humidity": "44%",
-        "wind": "3.8 m/s",
+        "humidity": "49%",
+        "wind": "2.8 m/s",
         "rainChance": "0%",
-        "pm10": "9.3 μg/m³",
-        "pm25": "9.1 μg/m³",
+        "pm10": "13.2 μg/m³",
+        "pm25": "13.0 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "67",
-        "updatedAt": "2026-05-10 19:30"
+        "updatedAt": "2026-05-10 20:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "14.1°C",
-        "feelsLike": "12.1°C",
+        "temperature": "13.4°C",
+        "feelsLike": "11.5°C",
         "highLow": "최고 20.4° / 최저 7.4°",
-        "humidity": "64%",
-        "wind": "9.6 m/s",
+        "humidity": "66%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
-        "pm10": "9.3 μg/m³",
-        "pm25": "9.1 μg/m³",
+        "pm10": "13.2 μg/m³",
+        "pm25": "13.0 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "67",
-        "updatedAt": "2026-05-10 19:30"
+        "updatedAt": "2026-05-10 20:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "13.9°C",
-        "feelsLike": "11.8°C",
+        "temperature": "12.6°C",
+        "feelsLike": "10.6°C",
         "highLow": "최고 20.2° / 최저 6.9°",
-        "humidity": "58%",
-        "wind": "7.3 m/s",
+        "humidity": "64%",
+        "wind": "6.5 m/s",
         "rainChance": "0%",
-        "pm10": "9.3 μg/m³",
-        "pm25": "9.1 μg/m³",
+        "pm10": "13.2 μg/m³",
+        "pm25": "13.0 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "67",
-        "updatedAt": "2026-05-10 19:30"
+        "updatedAt": "2026-05-10 20:15"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "15.9°C",
-        "feelsLike": "15.9°C",
+        "temperature": "15.2°C",
+        "feelsLike": "15.2°C",
         "highLow": "최고 24.6° / 최저 7.2°",
-        "humidity": "78%",
-        "wind": "4.9 m/s",
+        "humidity": "79%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "4.0 μg/m³",
-        "pm25": "3.9 μg/m³",
+        "pm10": "5.9 μg/m³",
+        "pm25": "5.7 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "54",
-        "updatedAt": "2026-05-10 19:30"
+        "airQualityIndex": "48",
+        "updatedAt": "2026-05-10 20:15"
       }
     ]
   },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "[골프청사진] 두손모아 마무리 최정원 티샷",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXbndWbmtJSmF4ZHNBRmkwUkk5Q0dPM0FMWk1uRDE1cFBpVUh6ZS12cEszaXBiSTdfYy0yelVzcDF1eEdaYUg4RjlmWDJuYlhGd1FJaThPOVQyeVlpcGN5Q0k4djhaWXN4WXc?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:54:34 GMT"
+    },
+    {
       "title": "5월 10일 MBN 뉴스센터 주요뉴스",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxZlFkNnVjSEppTmNvUE5oZExENExMMHNxcXUzTTBrX2Z3c2NKUV9DcTdJY2VHdzV0dElBcUlPZ3F6RTRuRnkwUVhhYzAxMGN1QkpV?oc=5",
       "publishedAt": "Sun, 10 May 2026 10:37:00 GMT"
     },
     {
-      "title": "[골프청사진] 정확한 나이스 샷 문정민",
+      "title": "李대통령, '尹 사형 구형'에 활짝 웃었다?…가짜뉴스 제작 30대 검거",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LUG1tZDhLZl9xUnRNSlMxS2JMMm5xZjFNVS1wREREUEFfVE9IT1dNVUdtMG5EQlJHYms1Zko2ZThVWTFHWF80S0ZFX1ZneWs1THFvZDhvTHRqU1l1blI5ZWVVRmVHekxXeDJGSTYzNW9QaGZhZWNJQw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 11:02:00 GMT"
+    },
+    {
+      "title": "외교부, HMM 나무호 미상의 비행체가 선미 타격 밝혀",
       "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sQXZPU0R6UWZZU3RLSmZWWWVKclY0a1l0MWpIWWhleFAzRkpoZjVURTFaOGtGOHhOTm1kNUJFamk5S3h4TnVOTm9aOHJkaUhlQ2xrWXB1cmxDMEZwajhiUzdIRllXSHhOYkE?oc=5",
-      "publishedAt": "Sun, 10 May 2026 10:15:51 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGb0JWM3o1cHk2NGtENXdkLW9GeEZtS2xJZ0Zrcl9MU25abjFHME95VS11YlhlRko1LUJfc1BGRUxWclpXN2Q3LTEtLVdacXFUcm9BcXl0WklPYnBYYUQtNTlvRzlVeWRRU1E?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:42:26 GMT"
     },
     {
-      "title": "미국 태생인데…‘미스 필리핀’ 자격 논란",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WNW96Yjl3S243dkkxMFQ1Mk1aTWxZcmREVW51SEtRWWR2YTc0MUYyaW5fTV9RdV95VFVuUUVKX3FYUm1UeWFjRnkxVkFTYjNyaHZOR21jYWFsSV92NEHSAWNBVV95cUxNcEpoaFlGSWRVcTFJcXlDSS1mV2xONVdHRGVIZVhsdGNMOXJjRkRCMk5IanJtemZTeWpaWHJuWURNLTZZS2NBNDk4bTU1QVE1SUMwWGxpNWNvcDVDeEFLMDcxbU0?oc=5",
-      "publishedAt": "Sun, 10 May 2026 10:00:00 GMT"
-    },
-    {
-      "title": "부산 LNG발전소 화재 진압…\"인명피해 無, 전력공급 차질 최소화\"",
+      "title": "테슬라, 지난달 국내 승용 전기차 시장 판매량 첫 1위",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKTlBXVFlYUU12UFpPTGdtUEdIdUZWM0h0R2VEeUFpQ3pubHhIVW1SV1NNaklmWEpsMURPcVNsbVMtX0FpQXhFQkJGeUFueHhYaG9udjc0ZW5SNDI1ZGNVZmNPMEJha3RzNFVPbklaUnFZTlNsdExqYw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 10:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqZk15UWIySkFmRExwak0wSC04bHFxQlN6ZDdHZm5lM3lkM2VySU5LQmxnTVgwYm1UR1NXZEFINTZkQVdyVGV0NFBWTWo0eE53NjR3?oc=5",
+      "publishedAt": "Sun, 10 May 2026 11:07:00 GMT"
     },
     {
-      "title": "외교부, \"호르무즈 '나무호' 화재 원인은 외부 공격…미상비행체 타격\"",
+      "title": "살벌한 국힘의 '한동훈 고립'…하정우는 조용한 개소식[노컷브이]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84SEZmLS1rZG1wRmNOeHBjcmxLcHhvYlNyellSRVNvWko2YjFxaFp0QlNrTTZiT0ZnZjdyTG9oRDVsZEMweGppSi1BWTdkejRhb084?oc=5",
-      "publishedAt": "Sun, 10 May 2026 10:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uaFZZa2JGNXVPenl3Y2ZQUVBHZGVCSnBPSUZOdzA5TWtEZkhCZWhaWDJ2S3NDcmZuci16cmt2Z3lDdXkzQ0p1ZmE4V3hRNXh2TVBTMDlHcTJ2XzJZQmY5emszYXhKWUpLYkE?oc=5",
+      "publishedAt": "Sun, 10 May 2026 11:02:00 GMT"
     },
     {
-      "title": "[일지] HMM 나무호 호르무즈해협 피격 사건",
+      "title": "'휴전 중' 이스라엘, 레바논 공격…어린이 4명 등 22명 사망",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pU0ZyVHFUV2hac2g2MnM5Zjg2anZGYmVOeThsLVlzbF9RTE54XzNaOWt0Vml6Vy1taldPeU9DMTJ5QVdjb3UwN1J1UGZhR283ZUVR?oc=5",
-      "publishedAt": "Sun, 10 May 2026 10:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZeEFweHJmRVVBZmU5S2JVOFczSDVYUjNQVHNRUExiNFY3Q2pRR21iSTRKY0lYVHktUHVRNV9WSVlUeldlUzRrXzVjQ2lvSDNFdWpJWmdORGJPcjItY3lTQ19DZ3dqS0dJZFE?oc=5",
+      "publishedAt": "Sun, 10 May 2026 11:07:00 GMT"
     },
     {
-      "title": "외교부 \"미상 비행체가 나무호 선미 타격…잔해 등 추가 분석\"",
+      "title": "천하람 \"정이한 부산시장 후보, TV토론 배제 막아야…유권자 인식 왜곡\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12WmYtRzdDV08wb2dDdUwybU1obUdlSlFNeUk5aTdUbktsMGIyLWh6c21OM1VqMmVGZWxxOW5GT09JLTdvZzlRWUxmLUd2NEk0dTFJ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 10:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DT3c5QUNuWFZZQU5SRUNZM2hQNk10WmxvWEdFOFNpZll0aDE0MEh2ZGZMS1o2RW5vTGYyYk9sNHM0eVdtSVRjOExIenI5MXkwcERXOEw4UmpoVGtVQmdxNA?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:56:00 GMT"
     },
     {
-      "title": "이진숙 예비후보 선거사무소 개소식",
+      "title": "부산 사하구 천연가스 발전소서 불…한때 대응 1단계",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KbWdObFhPUXJ1VGs2UjRQME1wNmpkSmZTLTllYnAxOWZhWUx6ZnVueXd3R0RTSWg2Qy11cVlFTm5KemZudDRoWldIbmVHT0J0c1NyT0U0Q3dxbG9GNWxDeQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 09:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93alZfTHRIb0lGVWhkcHo3OW5sMTRfMDFVVFI5TG10RW9MbU1kRlFKMC1ReXkyN2hXSm5vZDcyREpQV1dReThpa19XQ2pSSTR2WnRXdHpYUnpOcFNfcXgydFVsNDJYNGJkbWtVSDFvTkt3RmUtczY4aw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 11:02:00 GMT"
     },
     {
-      "title": "'살목지' 300만 돌파, 韓공포영화 흥행 2위…감독도 \"비현실적 숫자\"",
+      "title": "동시에 캠프 개소식…부산 북갑 보궐선거 '후끈'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51elU1S1VVR0ZscDd3aGt0S2tGSGlYWDNGY3NwLXBmTFVKZVRteTdfdTZkWXdrUlNGVlJXOXRiSi0xMkllUllnazJEbERWMEU4WWZN?oc=5",
-      "publishedAt": "Sun, 10 May 2026 10:20:00 GMT"
-    },
-    {
-      "title": "'오래'보다 '어떻게'…파킨슨병 관리가 핵심",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95TUQ2TTFpRWNBRDBnVDZTN0ZfSHZ2VnNhS3NlSFVpRE5BNlByVHhvVU5lUE5RRnRQQl96T1RqaXlUM2k2Slp0M0M1ZmE2a2NOUGdZ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 09:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NYy0xQUl3NUVJa09maFY5OVBUTEpJaU9oZUxTdW9Fc29aaEo4aTBhWXdwV2M5MW5OOWtDNkJjWVQ4bGhGd25ZVFVnN2J6aVpwekQ0?oc=5",
+      "publishedAt": "Sun, 10 May 2026 10:57:00 GMT"
     }
   ],
   "sources": [
