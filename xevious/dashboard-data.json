@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T00:39:41.764305+09:00",
+  "generatedAt": "2026-05-11T01:33:49.168035+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "12.6°C",
-        "feelsLike": "11.9°C",
+        "temperature": "11.9°C",
+        "feelsLike": "10.9°C",
         "highLow": "최고 20.6° / 최저 10.3°",
-        "humidity": "75%",
-        "wind": "1.3 m/s",
+        "humidity": "79%",
+        "wind": "4.0 m/s",
         "rainChance": "93%",
-        "pm10": "12.7 μg/m³",
+        "pm10": "12.8 μg/m³",
         "pm25": "11.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "64",
-        "updatedAt": "2026-05-11 00:30"
+        "airQualityIndex": "63",
+        "updatedAt": "2026-05-11 01:30"
       },
       {
         "location": "김포",
         "summary": "이슬비",
-        "temperature": "11.2°C",
-        "feelsLike": "10.1°C",
+        "temperature": "10.5°C",
+        "feelsLike": "9.2°C",
         "highLow": "최고 19.0° / 최저 10.1°",
-        "humidity": "93%",
-        "wind": "8.4 m/s",
+        "humidity": "95%",
+        "wind": "8.6 m/s",
         "rainChance": "95%",
-        "pm10": "12.7 μg/m³",
+        "pm10": "12.8 μg/m³",
         "pm25": "11.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "64",
-        "updatedAt": "2026-05-11 00:30"
+        "airQualityIndex": "63",
+        "updatedAt": "2026-05-11 01:30"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "9.6°C",
-        "feelsLike": "7.7°C",
+        "temperature": "9.2°C",
+        "feelsLike": "7.5°C",
         "highLow": "최고 18.9° / 최저 9.2°",
-        "humidity": "87%",
-        "wind": "8.7 m/s",
+        "humidity": "94%",
+        "wind": "8.2 m/s",
         "rainChance": "88%",
-        "pm10": "12.7 μg/m³",
+        "pm10": "12.8 μg/m³",
         "pm25": "11.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "64",
-        "updatedAt": "2026-05-11 00:30"
+        "airQualityIndex": "63",
+        "updatedAt": "2026-05-11 01:30"
       },
       {
         "location": "익산",
         "summary": "약간 흐림",
-        "temperature": "11.8°C",
-        "feelsLike": "10.7°C",
+        "temperature": "11.2°C",
+        "feelsLike": "10.0°C",
         "highLow": "최고 24.3° / 최저 10.7°",
-        "humidity": "87%",
-        "wind": "6.9 m/s",
+        "humidity": "90%",
+        "wind": "7.3 m/s",
         "rainChance": "45%",
-        "pm10": "10.7 μg/m³",
-        "pm25": "10.3 μg/m³",
+        "pm10": "11.2 μg/m³",
+        "pm25": "10.6 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-05-11 00:30"
+        "updatedAt": "2026-05-11 01:30"
       }
     ]
   },
@@ -276,7 +276,7 @@
         "lowestDistrict": "동작구",
         "stationName": "주식회사 새서울글로벌",
         "address": "서울 동작구 시흥대로 616 (신대방동)",
-        "updatedAt": "2026-05-10 10:59:41",
+        "updatedAt": "2026-05-10 23:57:29",
         "districtSamples": [
           {
             "district": "동작구",
@@ -291,11 +291,11 @@
             "price": "1,979원/L"
           },
           {
-            "district": "양천구",
+            "district": "관악구",
             "price": "1,984원/L"
           },
           {
-            "district": "은평구",
+            "district": "양천구",
             "price": "1,984원/L"
           }
         ]
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "부광셀프주유소",
-        "address": "인천 서구 봉수대로 1623",
-        "updatedAt": "2026-05-05 07:39:03",
+        "stationName": "(주)디오티디 인천랍스터주유소",
+        "address": "인천 서구 봉수대로 1543 (금곡동)",
+        "updatedAt": "2026-05-10 21:58:08",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "(주)디오티디 김포햇님이주유소",
-        "address": "경기 김포시 대곶면 대명항로 530",
-        "updatedAt": "2026-05-10 17:41:41",
+        "stationName": "걸포주유소",
+        "address": "경기 김포시 금포로 1117-6 (걸포동)",
+        "updatedAt": "2026-05-04 10:16:00",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "전·현직 WWE 미녀 레슬러, 아찔한 '캔디 비키니' 파격 노출…\"부상도 못 말린 섹시美\"",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WUm1MdWdxbFBpLWxJV2lvWXNXbGNwSzRoaXllYkJDakIwRFJ4dV9LOWxEVUtKcWdVSVZ0WkR0czNXS3d0clVJY09BS3QtTHV1TTYyYjFsZjFIOVYw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:26:00 GMT"
-    },
-    {
-      "title": "휴림로봇 6%대 강세…월요일 로봇 테마 흐름 주목",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83bk42bmZyTVVDRXAwSDJLdEppdUlNZlVlNkpDRUdQYzFMOW83NGFXTDE5Wm5qWWUzdkp5WXZ4VU1YVGNnNFlhZ0wzb0NFbHFfNG4wRHBHeDJGanBWOWpmcS1qdkM1eHp1?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:00:00 GMT"
-    },
-    {
-      "title": "[사진] 민주당 선대위 출범…혁신당은 평택 의총",
+      "title": "중동전쟁 이후 경제 미리보기",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pdEN5cWRhb0NkSy1Qb1h1RThNYU84alQyUUw0eTFrRnhDdThOLTNmcFB1Z3FzTDNyU3lESjJqU2p6ZUlVcGktT0hxVVUyX0hMdHVF?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43WUQzY3RYOVk2NnBLem1WM2RadGJsdzB4aGw5d3F0NzBiUnRDUDQ1MmVHSVlvTDZzdm0wbXM2U2dScklZVHF2QXVpRjl3QVRVN3dj?oc=5",
+      "publishedAt": "Sun, 10 May 2026 15:54:00 GMT"
     },
     {
-      "title": "한미, ‘조선 파트너십 이니셔티브’ MOU 체결…대미 투자 협력 본격화",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPcG9JWFZ6bUctejNEQ2FQWFF4U2xXeU1ETlZwYlY4SFZwX3l0YnF6LWJVWWRHZThDdVRueG5IR3U2U1EwY1VQYWl0SGhiZS1teHVDRWZhLXBadFhxX2tJRy0zdw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 14:43:35 GMT"
-    },
-    {
-      "title": "안규백, 美 워싱턴 입성…내일 한미 국방장관 회담",
+      "title": "수능만 잘 보면 된다? 이제 학생부도 챙겨야",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBemVOQk5wVzc2aVNMYklESkZNQUVScF9IX0NXSUY3T3FnU0xXQTBDUFBkbTRONHd4NDZTWnRRY3J2MTYyZnhEc3RrZFRLOWk4TFJ3?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNSmhPTWt0LVFOYkFYdmxxUE9VaHBiX1N1YTFTTzFESC1pYmRRcUw3NG9hamdXbWgxRlpIT19pZHRJemd2QVBrRjQ3VjRSR01QNkow?oc=5",
+      "publishedAt": "Sun, 10 May 2026 15:45:00 GMT"
     },
     {
-      "title": "[사진] 당 대표 업은 박민식…한동훈은 아내 등판",
+      "title": "신중론 펴던 정부, 적극 대응 불가피",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fdjZSay1uSnJDMFRqNFhkNnpJa2J1RlUwUzY4UVFlLUwtbEtZczY0dW1lYWNsUmp3THNQWkExanZxYWpYbFRQTzd4SDQyV0gyNHFJ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wa0s5cl85QlFjQ0U3UUZTSVBIMmtYSGNkTWllZVlTYk5OQ0hGUXZPODRvV3F5aGpOMVltbGl6ZEkxLVhQYkkwQUs5VUhvRG1ZVDhsZEN3LW5WcWhTQlVQd2FBd2dSWlVFaVk0bEh3?oc=5",
+      "publishedAt": "Sun, 10 May 2026 15:52:00 GMT"
     },
     {
-      "title": "[HBR]커리어 전환과 확장의 기술",
+      "title": "변우석, 훈훈한 비주얼에 아이유도 '좋아요'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XX1RaLUtaM09pRzI4aDZLNlhMZUZnXzRoNDZ1ZzJVbjR3X3JPMG1wX0R3RWp0QzVuRGNScUZMZWVfWFE1MVdDUG9SRm9SWHhibGt3?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZFd2azEwUGFaTTRUYjZBNW92d2JJVXZhZG1IQ1VBV3hhc0NDMTQ0SEpRd3ZpMFdBVVhpRnpHZkpWQTB1LUl2OTN2M0lBRG9YbWRzdjVESmR0dGI0WlhXNTBtU1A2RVhN?oc=5",
+      "publishedAt": "Sun, 10 May 2026 16:01:00 GMT"
     },
     {
-      "title": "안규백 국방장관 美도착…11일 美국방과 회담서 전작권 등 논의",
+      "title": "김관영 출마에…'與 텃밭' 전북 요동",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DYzZya2t3MEV6aHJSblotX1M1OUtDd01DaVN3ZDZ4VWcwSGM5X05xR0ItX2laRlNTa2RHMTRnZnhKOVgtRENSUzZRQVoyX2tWeFhV?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OOUI1Tm5vZm03RGJPVm05bEQxTDNGUE9UdjJ6dGVhc1Vyb3RWZU45SEZWUmkxeldyRjJkbVU2UV9FUFowV0hKVTBjU3doSlY5THE4?oc=5",
+      "publishedAt": "Sun, 10 May 2026 15:49:00 GMT"
     },
     {
-      "title": "[시론] 코스피 7000…한국거래소는 공공재인가",
+      "title": "안규백 국방장관, 방미 일정 시작…나무호 피격 등 美와 논의할듯",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ERW1QRzY2c0V6Qm9DTjJ1RkNCS1ZrcVJfLTI5NTkwMmtPZHVvTldQZkNMN2ZEajBvRGhzVXZvMDQ4V0hCemtQRnFTNVktZ0FiMHlr?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52RTFhWjQycXg0U21HZl9fQTlUZS1xcTBpZ2lBWEhINVg4ZnZ4RUVKOVljZHhueTRnbU95RWhnRHFpZXN1N3E0UkNmRUVhOUNFOFZJ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 16:24:00 GMT"
     },
     {
-      "title": "현금 달라는 삼성…엔비디아·구글은 주식 보상",
+      "title": "조혜련, 홍석천 과거 언급 \"대학 때 여자 좋아했는데 갑자기 바뀌어\" [조롱잔치]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM2R3R2ZTdzJ5UTg1LVFsS1BKWXpnVVRURVVnQzlCd1dGby1QNUt3bko5ZFlJbTlFd1dNc3U0OWEtVXBKcGdaRFMzUV85WldXTllB?oc=5",
-      "publishedAt": "Sun, 10 May 2026 15:09:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xaWlLb2VrSENwMHdGem0wM1g4SmdUOVJHZVV1YmF1OVd4UU5iSkZtUEFiZTg1TFIwMktZRGppZnh6ZS11RVpZVXZGLURxY3BXSTY0?oc=5",
+      "publishedAt": "Sun, 10 May 2026 15:35:00 GMT"
+    },
+    {
+      "title": "안규백 국방장관 미국 도착…헤그세스와 전작권 등 논의",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DR1M2dzktLW42MnhTLUVwT0gxSjd4aHE2bThETm5nbVBCWkcyenJDRUV0LWFwNHoxd0dwc0h3SHNGWlE0azZMdk5xblpNcEs3U0VF?oc=5",
+      "publishedAt": "Sun, 10 May 2026 15:40:00 GMT"
+    },
+    {
+      "title": "'양김' 이을 좌완 라이벌인데, 김진욱-이의리 그래프 엇갈린다...AG 걸린 운명의 시즌, 어떤 결말 기다릴까",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeldtSFR6RW5VTVQzSks0VTR0VkhMQ1h1bWtJamYyMUp2QlR0OXVZZE55QXVkVzBfd2RpT1NLNnZ0UUZ6cHpNQ0gwV1pPNkVFRWl4c1VyVm9keVp1ZEI1dUwtQ1NndlJxWWNJTTgxajNfY1JNZ2hhLUJocXEwS1NndG13NA?oc=5",
+      "publishedAt": "Sun, 10 May 2026 16:11:00 GMT"
+    },
+    {
+      "title": "삼성전자 노사, 오늘(11일)부터 이틀간 ‘사후조정’ 돌입",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rWTNoMlQ0YTFxZk96REd1UEpyOW8xaVU2N1BrdENYTDU1UHRLd1EySXk3SDJvYVZqNlQ2WFFKZDN3dWZEcVJDVkRtNnB3ZzJORHFfSXNqNDNVRzQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 16:01:00 GMT"
     }
   ],
   "sources": [
