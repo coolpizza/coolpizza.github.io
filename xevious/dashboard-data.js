@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-10T22:57:30.904443+09:00",
+  "generatedAt": "2026-05-10T23:46:29.546616+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.8°C",
-        "feelsLike": "12.7°C",
+        "temperature": "13.1°C",
+        "feelsLike": "12.3°C",
         "highLow": "최고 22.1° / 최저 9.3°",
-        "humidity": "62%",
-        "wind": "1.8 m/s",
+        "humidity": "71%",
+        "wind": "2.1 m/s",
         "rainChance": "0%",
-        "pm10": "13.2 μg/m³",
-        "pm25": "12.7 μg/m³",
+        "pm10": "13.0 μg/m³",
+        "pm25": "12.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-05-10 22:45"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-05-10 23:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "11.4°C",
-        "feelsLike": "10.0°C",
+        "temperature": "11.5°C",
+        "feelsLike": "10.3°C",
         "highLow": "최고 20.4° / 최저 7.4°",
-        "humidity": "85%",
-        "wind": "8.0 m/s",
+        "humidity": "91%",
+        "wind": "8.3 m/s",
         "rainChance": "0%",
-        "pm10": "13.2 μg/m³",
-        "pm25": "12.7 μg/m³",
+        "pm10": "13.0 μg/m³",
+        "pm25": "12.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-05-10 22:45"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-05-10 23:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
         "temperature": "9.9°C",
-        "feelsLike": "7.7°C",
+        "feelsLike": "7.9°C",
         "highLow": "최고 20.2° / 최저 6.9°",
-        "humidity": "77%",
-        "wind": "8.2 m/s",
+        "humidity": "82%",
+        "wind": "8.4 m/s",
         "rainChance": "0%",
-        "pm10": "13.2 μg/m³",
-        "pm25": "12.7 μg/m³",
+        "pm10": "13.0 μg/m³",
+        "pm25": "12.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-05-10 22:45"
+        "airQualityIndex": "65",
+        "updatedAt": "2026-05-10 23:30"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "13.1°C",
-        "feelsLike": "12.2°C",
+        "temperature": "12.4°C",
+        "feelsLike": "11.4°C",
         "highLow": "최고 24.6° / 최저 7.2°",
-        "humidity": "85%",
-        "wind": "8.3 m/s",
+        "humidity": "86%",
+        "wind": "7.6 m/s",
         "rainChance": "0%",
-        "pm10": "8.7 μg/m³",
-        "pm25": "8.4 μg/m³",
+        "pm10": "9.9 μg/m³",
+        "pm25": "9.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "39",
-        "updatedAt": "2026-05-10 22:45"
+        "airQualityIndex": "36",
+        "updatedAt": "2026-05-10 23:30"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "부광셀프주유소",
-        "address": "인천 서구 봉수대로 1623",
-        "updatedAt": "2026-05-05 07:39:03",
+        "stationName": "금광주유소",
+        "address": "인천 서구 중봉대로 1593 (금곡동)",
+        "updatedAt": "2026-05-04 10:16:39",
         "districtSamples": [
           {
             "district": "서구",
@@ -346,15 +346,15 @@ window.DASHBOARD_DATA = {
       },
       {
         "areaLabel": "김포 최저가",
-        "lowestPrice": "1,978원/L",
+        "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "피트인 하이웨이 구도일한강신도시점",
-        "address": "경기 김포시 김포한강1로 312 (운양동)",
-        "updatedAt": "2026-05-07 11:31:10",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-05-10 17:59:49",
         "districtSamples": [
           {
             "district": "김포시",
-            "price": "1,978원/L"
+            "price": "1,979원/L"
           }
         ]
       },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "5월 9일 아침 뉴스: 어린이 보호를 위해 111번으로 전화하세요. 약 1400만 명이 탈라세미아 유전자를 보유하고 있습니다.",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHZIYkRDWndXZFIwaFkwVFc3ODgzSDdYLWJVeHMyQWVGTl8wcU9HRndYUXh1TDdGMEkzdDNSdUtkRTZlcXU0cFJsX0Z4QTNlc2k1UlhmbmVDODZOTC14cEo0MTZGTzM0RlY1ZzFSYjNwV0lZUm1aRFF6VXN0OVZ1czJOWXVUUnRBRnJqYjQwak1WMV9pak9PRExNT01lRjhuUENzMl9DcWJHbmVWaTlVQ0VCbmNWSEM1a0wzOXZR?oc=5",
-      "publishedAt": "Sun, 10 May 2026 13:35:28 GMT"
-    },
-    {
-      "title": "OECD 에너지물가 상승률 한달새 8.6%p↑.. 글로벌 인플레 재점화",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kMFcyR0U5LWRvMWxoQ3ZuSVBPeE90RFlGQjk5NFRzczByeDNOaEZEWGlQd0V5WFlmRDNIMnhrcTJMdWJxT3lSRGZ3N1NfX0tlX01WRFl1X3ZfNlpJcHhUc19XUXZUcjVVMDZV?oc=5",
-      "publishedAt": "Sun, 10 May 2026 13:08:53 GMT"
-    },
-    {
-      "title": "장애인도, 청소년도 무료로 떠나요…4800명에게 '여행 선물' 준다",
+      "title": "감염병 매개체 모기 감시, 더 똑똑하게 촘촘하게",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCZ0VGa184SUtzak1FTzJGS1RvWVdkOWRQQ2dWUHNJUWF6YVJwRnk1MzJrV21oU2R6QVVDQ2gwWEdDVFowQThoN25xRXVPa3ljQ0FhVXN0dHRkTEpoS2NQOG1LZ1NHOTVsaS1iTGhRckxWQnV0SHBXdg?oc=5",
-      "publishedAt": "Sun, 10 May 2026 13:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhN01nZ25qZEttcVJUM2c5RWpEQTdFcTl3djFIY2lDM1V1VmttNlVaOVhuSkZESkVxLXJ1Z0d4V09TcWFzNV8ycW13SVB1VWl5WExjV1hzTDhBOF8tX2hWaw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 14:35:00 GMT"
     },
     {
-      "title": "전주 2036 올림픽 유치 주요 경쟁국 대비 사실상 선두 > 뉴스",
-      "source": "더코리아",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81SFpaN1Jyd015bDh6REpUSjhScjRWYU82eFJvYllVNV9CbHh4MDhEQVdCSDl1Q0c0SmZxd0VmTFNKTmFqa204UkdadWVRWnRjWGlIbjVTdnNJM2laTk5jYU9GcnNEV3pNQVFQYWpQNFA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 13:11:00 GMT"
-    },
-    {
-      "title": "미 재무 \"방중 전 한국·일본 방문해 회의할 것\"",
+      "title": "美 베선트 장관, 13일 韓 방문…트럼프 방중 전 한중일 순방",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TTGRGOExLeEVQdlN6X1A5dzZFZmxuSm42dnk1Nk4zc25HSW5CdjlwVUc2NXRXZy1IVlRNcWM3ZjNnQ3hNcS1sRTJxMG5YdFdjNkxz?oc=5",
-      "publishedAt": "Sun, 10 May 2026 13:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43UDRtVDJBRFdBSUhIOVlfTXRxaU5CbTc0T1RoZ1I3S0t0N1Z3VU1hZE0wTHoxdHNTRDZsNXQ1MnQ5ejA2LVp5NWU2UWFHaFpub0lKS2t5aF9nYjU0VzM2UjRGdXA2bUo0NXMxMTVDY1VSOS1ybXl4dg?oc=5",
+      "publishedAt": "Sun, 10 May 2026 14:17:00 GMT"
     },
     {
-      "title": "[포토] 농협유통, '자두'와 '살구' 첫 출하",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWQ0Ym45WllKdk1hcXRoSnJfX3VtSUJBZ3E4MDR3SmRjd3dtaUNaakRQdTRlZktzZF9wOGQzSzBiM1d2bFlPdXRqY2xueHUwUTlVcElFXzlPenJjRnVRUzBfUGszc2MyRmZaTG1oWVBXdU5mWkg4UkpKX2RFcVplTA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 13:07:07 GMT"
-    },
-    {
-      "title": "국토장관 \"금융·세제·공급 재설계해 부동산 불로소득 대전환\"",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tTDRXSkU0bWpQWVUyemdUaGt4LWdDWGMza3VQQnBLUldoNktZQ1hOV1ZvWHdvMXRRcmpqeDgtSGpnOE54ODk1NEJJaXprdm1WbkNDdm9qYlpieXMtQmpLSG5OTlNxcDZZTUxj?oc=5",
-      "publishedAt": "Sun, 10 May 2026 13:00:19 GMT"
-    },
-    {
-      "title": "美 재무장관 \"내주 韓·日 방문…13일 서울서 中 허리펑과 회담\"",
+      "title": "美연준 회의실 '두개의 태양'…불편한 동거 600일 예고",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wZERRS1FZZUpINDFaTUtVTXB4NThBNEsyQ0pydnNsRVlSNldIdHJ6NzJwWjdudmJCVXJWVTBhWVN0eDBfOXI0cHJGUDd5Nmlsb2lVOHA0ZjY0R09JamluUmdPSHBmSF9walJBYzN4Yk82R2lsMk1FSw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 13:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBENHUxdkJQbV9RYVpyaUxJWmpHRXgyY1FRQ3JacFQ5SWhmbl83VGpfczE5clppSnV3WUZQd2ZJYXRfZS1BVkh2aTJ4dnZ0VDMzbEQzT3VvcVRUa1ZSX3YxejVyZWRLVjJSbVZoNS0wSEJPRkUxTFc5bQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 14:11:00 GMT"
     },
     {
-      "title": "'56세' 이소라, 동안 관리 비결 공개…홍진경 \"피부 진짜 다르다\" [소라와진경]",
+      "title": "'큰손' 개미 대거 유입…'40조 마통'에 빚투 경고등",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xOXdLVm5FYUdWaGFCMnpVajhyVmZ0RDhVQmx0VjhLbDM3YlNLdGxKMDVUcmU1d0h1cHZmSXVqemNuQlBMOHFYM2UyOF9rb25GRURxT3p4Z09FRWJUVW43WGlRX0d0SF9abnBYZWNQMl9xamlHWC1fYg?oc=5",
-      "publishedAt": "Sun, 10 May 2026 13:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uUjlHc0tHMWhDYjJmeGJhWlQ0am5hSlNKdFF5QzlQYVozVDR6MkNmc2hySXBwTUQ3X1A4bjNra1U0WnQwWXMyYWxXYTRuWHRRa3FZ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 14:34:00 GMT"
     },
     {
-      "title": "[포토] 양천구, 소상공인 온라인 마케팅 지원",
+      "title": "이번 주 특검 재판 분수령…'단전·단수' 이상민 2심 선고",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NQmRTdy1ibHdtRm5VN1EwV2NCaGFoNWw4d19WY3poZlhXOGpZNTBNbVBod04xRXV6djg5QmV4UzBaQTROTURlNDRMVDAzc2hzV3h3?oc=5",
-      "publishedAt": "Sun, 10 May 2026 13:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yN0h0WUFqRmFmeGxlYTFUanlCNmVYWTUxTVlLWkRRMGdHSWZGSnlOWnBFVWpGWEdxd2kxLUdqYUhmMVFQeFdlUlZPMzhzbFRLaHQ4Z19wUTNTVGcwVDBPWEt4NlEyQlgwdlE?oc=5",
+      "publishedAt": "Sun, 10 May 2026 14:10:00 GMT"
+    },
+    {
+      "title": "'박용근♥' 채리나, 결혼 10년째 임신 실패 \"난자 채취로 몸·정신 만신창이\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94VnVkR1ktdjBnOW9reWQ1SHlqTjN0LXAwVmI1Y290WGp1OVpRcGZ2clFiU0JxbTFQRGZlWTJlLUp3akprdEdSYzZjeTNHVklBTU5LNzBwM2xJb3FGWHpqU3pBa3Bad3pRbDFxekhFTHg2Q3l3OUZTRw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 14:09:00 GMT"
+    },
+    {
+      "title": "인피니트 남우현, 10년 진심 담은 노래 '소년소녀'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nUWxhTUwyeHhFbGlyc3ptaDhwUmxkUEt3LTNhaXJiVFUyMExlSTlfb1ZUVlRLeFE1dzhKMG14NHU3UjY5Y2RYYzNYSFFiQW5lZEhIVXZrUnBTOS0zeUlQNWl0bU1FZ1NjdnQzY0ppZmxfcWh4TUVDYg?oc=5",
+      "publishedAt": "Sun, 10 May 2026 14:36:00 GMT"
+    },
+    {
+      "title": "부산 사하구 LPG 화력발전소 화재, 6시간여 만에 초진",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45cDROd29KN2ROdTJQQTgxenU3Z3Y1V3ptMGRNSWJmd2UtZ1A3QVF6R0k1LWZVa1FnRkxua1ZRYnRNV0FHWHNxMVpGb0RRRHprRVd6WXBjeThnOVMzQWFodw?oc=5",
+      "publishedAt": "Sun, 10 May 2026 14:12:00 GMT"
+    },
+    {
+      "title": "윤민수·토니안母, 2대2 소개팅 출격…김준호 주선에 '배우·연하남' 등장[미우새][★밤TView]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03OUlMazY1Z1VKRHg4emZPT2VJVUt6R3ZNNGJRcnUzZXdILWdaTzBQREszRm9uMFZ2TW5aOXMzTzlKWmtoM1ExSjlxdnF3X3F0T0pz?oc=5",
+      "publishedAt": "Sun, 10 May 2026 14:18:00 GMT"
+    },
+    {
+      "title": "포항시, 2026 PATA 연차총회 통해 글로벌 마이스 도시 도약 본격화",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01cmljaU1iemtUZ3FmV0lhdnNlSnlwcVBBU21EVkZQOEtQVnB3QWhJUUZZcHdhZ0Q0OVBpN3NCcm5rSER1cGpDcDFnMzkxNTZoeGR1aDByWnQxNkMtRWVkOQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 14:02:00 GMT"
     }
   ],
   "sources": [
