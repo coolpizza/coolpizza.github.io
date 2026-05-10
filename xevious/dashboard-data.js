@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-10T14:28:55.400686+09:00",
+  "generatedAt": "2026-05-10T16:40:46.558833+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "21.9°C",
-        "feelsLike": "20.8°C",
-        "highLow": "최고 22.2° / 최저 9.3°",
-        "humidity": "34%",
-        "wind": "5.2 m/s",
+        "temperature": "20.7°C",
+        "feelsLike": "18.5°C",
+        "highLow": "최고 22.1° / 최저 9.3°",
+        "humidity": "35%",
+        "wind": "6.6 m/s",
         "rainChance": "0%",
-        "pm10": "8.3 μg/m³",
-        "pm25": "6.9 μg/m³",
+        "pm10": "7.7 μg/m³",
+        "pm25": "6.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-05-10 14:15"
+        "updatedAt": "2026-05-10 16:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "20.8°C",
-        "feelsLike": "20.1°C",
-        "highLow": "최고 20.7° / 최저 7.4°",
-        "humidity": "45%",
-        "wind": "9.5 m/s",
+        "temperature": "18.6°C",
+        "feelsLike": "16.7°C",
+        "highLow": "최고 20.4° / 최저 7.4°",
+        "humidity": "49%",
+        "wind": "9.2 m/s",
         "rainChance": "0%",
-        "pm10": "8.3 μg/m³",
-        "pm25": "6.9 μg/m³",
+        "pm10": "7.7 μg/m³",
+        "pm25": "6.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-05-10 14:15"
+        "updatedAt": "2026-05-10 16:30"
       },
       {
         "location": "파주",
-        "summary": "약간 흐림",
-        "temperature": "20.2°C",
-        "feelsLike": "18.3°C",
+        "summary": "흐림",
+        "temperature": "19.2°C",
+        "feelsLike": "16.3°C",
         "highLow": "최고 20.2° / 최저 6.9°",
-        "humidity": "36%",
-        "wind": "12.0 m/s",
+        "humidity": "37%",
+        "wind": "10.2 m/s",
         "rainChance": "0%",
-        "pm10": "8.3 μg/m³",
-        "pm25": "6.9 μg/m³",
+        "pm10": "7.7 μg/m³",
+        "pm25": "6.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "65",
-        "updatedAt": "2026-05-10 14:15"
+        "updatedAt": "2026-05-10 16:30"
       },
       {
         "location": "익산",
-        "summary": "맑음",
-        "temperature": "22.7°C",
-        "feelsLike": "22.5°C",
-        "highLow": "최고 24.4° / 최저 7.2°",
-        "humidity": "51%",
-        "wind": "16.4 m/s",
+        "summary": "대체로 맑음",
+        "temperature": "20.6°C",
+        "feelsLike": "19.3°C",
+        "highLow": "최고 24.6° / 최저 7.2°",
+        "humidity": "60%",
+        "wind": "15.0 m/s",
         "rainChance": "0%",
-        "pm10": "4.9 μg/m³",
-        "pm25": "4.9 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "60",
-        "updatedAt": "2026-05-10 14:15"
+        "pm10": "5.0 μg/m³",
+        "pm25": "4.8 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "61",
+        "updatedAt": "2026-05-10 16:30"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "금광주유소",
-        "address": "인천 서구 중봉대로 1593 (금곡동)",
-        "updatedAt": "2026-05-04 10:16:39",
+        "stationName": "(주)디오티디 인천랍스터주유소",
+        "address": "인천 서구 봉수대로 1543 (금곡동)",
+        "updatedAt": "2026-05-10 14:59:35",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[포토] 두산 12경기 연속 홈 매진 '겨울잠 깨면 이렇다고'",
+      "title": "삼성전자 총파업 분수령·트럼프 방중…이번주(11~17일) 주요 일정",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TRF9lNjMyamJSOWZ6T0ZDWEpGSndjaDFEdlR4ZjZaeHlvSXhId2R6c01IRHhMNzBmSHltLWlLcmVrYUp3eTBZRWo5MGI1RDQ4WkNyaFJET2p5TnBkUUE?oc=5",
+      "publishedAt": "Sun, 10 May 2026 07:28:11 GMT"
+    },
+    {
+      "title": "[그래픽] 6·3 재보궐선거 주요 후보 현황",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RYy16WjVGWVBnMDRPc2VRemtaQWtVM1VQQjJ6TFVpdk5JYkJKNXVGN2N0MVdpa1lCVjQ1RWJkN0tRUlVCTk14N2pCa28zLVgzNVg1bUc2VWxPd1lQeUdwa0loSThFVExZdEJvUmRxTnp2X29SRTlrYw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 05:23:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MSjlVRTNSb3g2YTdQRkxpM3ZGM1JDWVZJVXlsekJhOERrUmcwREJraXRiY25jSmF3WFFBUWpmbmFjeFMtdzZOXzRoRWNwcXlWeUZVMmJmN2pqRnpHeGVvMjNiUFBSLU9Uamc?oc=5",
+      "publishedAt": "Sun, 10 May 2026 06:55:00 GMT"
     },
     {
-      "title": "중동 불안에 정유업계 SOS…정부, 금융지원 점검",
+      "title": "하정우 후보 '북구의 미래'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TbElrYk1FRE1RWmZUMWJLTDhPMFFSd2hSV2VXMWhHSWtWYVVLZ0RVQ0x2aU52TEhWR09ST1Q1Ym50c1hNNHBSWjJMeERFZDVRaWhiNUs4c2IyRUZxNi14Sg?oc=5",
-      "publishedAt": "Sun, 10 May 2026 05:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VZU5yYm80di1kN1I3b3VySlZTM09vcUUwY2RPYk5WNnR1eXJvQTkyVXVJcTd0cm1RdUpwc3RXOU1nTVF4VG1URktlZTJjb29raXZN?oc=5",
+      "publishedAt": "Sun, 10 May 2026 07:10:00 GMT"
     },
     {
-      "title": "'윤아'가 신은 그 신발…르무통, '새 제품 교환' 서비스 전격 중단",
+      "title": "[포토] 박치국 '오늘도 7구평천하'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zMEpCNldXcVNiUmlpTXVycXQ1RUpWTGZfb04wVkN1R3Q0MFF3ZTNORVhubFNOWE1rN2d5YkxWTGh2SU9uZ21TZXcyNnZTVjZCR2JJ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 05:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyRE1mUGcyb01kZzhoNGJ3bVdTVFJTNmdtTXhDeklzZ2RYM050ODk2TVhpak1KX3prM2hINjdXMXBLSmV0NFc4Sm01R0tkN1FWUm1qaU9YVDdsZXBRdnhwb0VPMTFmNmVqZjRrYndLMDhDdU5GOHVMaA?oc=5",
+      "publishedAt": "Sun, 10 May 2026 07:34:00 GMT"
     },
     {
-      "title": "[포토] 엔믹스 지우 '시크릿 승리요정'",
+      "title": "지지자들에게 인사하는 하정우",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93OFM4Y1pNUnhxRFh1aDlPUVFIMTJWN2pCUlR5TnpFekNub3VHNkczZ09MVDNlNUtrcV9pVVU2NEUtbEJpTnplanNISE5wZmRxckd0NGR3?oc=5",
-      "publishedAt": "Sun, 10 May 2026 05:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83WlhVNkVjTTU5bmVCSW1hTFd3TjhoMGhzalJJY2JVbEJ3aGVmaW1KZ0Nob2lwSDh0TmVTZUtiT1BHa0o5UVQtbXFDM1JQQml6UVpZ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 06:59:00 GMT"
     },
     {
-      "title": "'미국인'인데 미스 필리핀 선정…\"진정한 대표 맞냐\" 자격 논란",
+      "title": "'국힘 총출동' 박민식 vs '현역 제로' 한동훈",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrRHI1UFdwWllva0wwc1drS0NTeUhWa191RkhQOG1fbDNEcEVGdmtLbnpwSlk1OGI2Q2llMG9Tc2pDQnhOMWxUd2VBZDVLSC1nRmtiMkhNTVhhaTV4Wm8yZnFNd1ZRRnZNN0lDVzRKOF9oTEZxSmlYMw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 04:51:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFeDM0b0owTWc4eDNxWkJTVlloTXl0VV9QdkctWWpPQjJfbXVaRzk5VXNlTzRES1hleVF5R1lqNUEzdDQwZWJ2X19JUEVQWHNlQXRN?oc=5",
+      "publishedAt": "Sun, 10 May 2026 07:29:00 GMT"
     },
     {
-      "title": "[포토뉴스]한전, ‘태양광 인버터 산업 발전 협의체’ 발족",
-      "source": "BBS불교방송",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oZ0hYOG9lejNIaXlFSUx2NkJrcHljZnlCZU96anRHNlM4WVRqYUZDQy1MSmZCbll1NGkwb1ZlNF9ubmZhcm5PRGhVeXZtaHNiTGhiZnFKSjc2UlphNEQwWk1rSmRubXNIOVlF?oc=5",
-      "publishedAt": "Sun, 10 May 2026 05:22:19 GMT"
+      "title": "[포토]'배제성 이어 등판한' 손동현",
+      "source": "네이트 스포츠",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YdXNOTC1pX0pQSGp0eVN4VVRhMGRyYXdlZm5WU1Y4NkJRQmtPbm8yMENXVEFOTGFna0ZrRVJtR0lUWEpvM0lva1diZklHeHZfR0tMQWIxTXhlYnlp?oc=5",
+      "publishedAt": "Sun, 10 May 2026 07:17:00 GMT"
     },
     {
-      "title": "[그래픽] 6·3 국회의원 재·보궐 선거 주요 후보",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlSl9DdkNlN0ZxSlc0aEdFdnE3cEN5aEFfbnU4bG1ucDZXczRnUlc5T1NmLWpYdlR1QmxpbW1hN3hCd1VLclJZUUlEdWpReHc?oc=5",
-      "publishedAt": "Sun, 10 May 2026 04:49:24 GMT"
-    },
-    {
-      "title": "[포토] 김지우, 엔믹스 대표로 왔어요",
+      "title": "HMM, 본사 '부산행' 확정…이전 시기·규모·인력 재배치 변수",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFLThJOXBKbXdsMG83MU1ZdjFGSjBDTk8xNE5aWl9ZbjNFUEpSZ1lZMzRLM3hCV3JNMm1ETGtZUWU4UGVCYmZwLVl5WW9CazZsSmt3?oc=5",
-      "publishedAt": "Sun, 10 May 2026 05:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UdHZ5NVRWUExkOXFsZGpCT1F1aFJSOE4xVDhEa2Jnc0FzYkRPdG9nZDVsMEl5S2dvOHpEdGJ2X1d2UXRQTTBGUHdRYjZMVFlOQzNvb3ZpQlprSVJXdVpRUVIzeFlnUWNHZ3QtblVBc1N2SUprM3VaSg?oc=5",
+      "publishedAt": "Sun, 10 May 2026 07:01:00 GMT"
     },
     {
-      "title": "\"감사의 정원 건립 중단하라\"",
+      "title": "김원기 선거사무소 개소…\"의정부 교통혁신 시대 열 것\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZbHdYNm1kY1dBOWZBREVxbWVvTXU0SWZzSUhNdTViSDFPcHUtNTllLUlCMU96LWNqbExTZFY1dEJ6cDl4LU1zeThmXzNncEkyZHpR?oc=5",
-      "publishedAt": "Sun, 10 May 2026 04:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMdXJHc052X2xuUnFianZsRk10VExyMzlMcnhGT1ZnQWkwQlhSMWZPWTN2U1BOZXBvRWhndU50RGpxejFaWlpYUU9lay1VSV9CWG9kcEVDSlJWVUNDY1VsRjlWZThjV0dObVE?oc=5",
+      "publishedAt": "Sun, 10 May 2026 07:08:00 GMT"
     },
     {
-      "title": "국내 주식형 ETF 순자산 첫 200조 돌파…코스피 불장 효과",
+      "title": "대구·경북 주택 공급과잉 몸살",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qSjRzRXBxckkybG9nUk9CeDJCLVloRExLQmNIY3NFQWV0MFd1YzduclN1R3NTelg5SVNoOWNLRkNKQlZZMHBocTRONW10dHM2ci1HaDM5U2tBT2d0OW1qR1RZSGI2WFE2QUE?oc=5",
-      "publishedAt": "Sun, 10 May 2026 05:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qbTg1SnlZWFM5ZUxOaEdFX2x5b2ZoeHR2d3BGX1VrZVMyRTBlc2x4Vzk0cXZsQU43V2o1UWpjZThHYk9zMDZLeldWa3FTYkxYVDZB?oc=5",
+      "publishedAt": "Sun, 10 May 2026 07:21:00 GMT"
     }
   ],
   "sources": [
