@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T20:46:46.546481+09:00",
+  "generatedAt": "2026-05-12T01:45:05.398662+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,113 +22,113 @@
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,609.16",
-      "change": "+12.19",
-      "changePercent": "+0.02%",
+      "value": "49,655.37",
+      "change": "+46.21",
+      "changePercent": "+0.09%",
       "direction": "up",
-      "updatedAt": "2026-05-09 05:20"
+      "updatedAt": "2026-05-12 01:26"
     },
     {
       "label": "S&P 500",
-      "value": "7,398.93",
-      "change": "+61.82",
-      "changePercent": "+0.84%",
+      "value": "7,426.09",
+      "change": "+27.16",
+      "changePercent": "+0.37%",
       "direction": "up",
-      "updatedAt": "2026-05-09 05:46"
+      "updatedAt": "2026-05-12 01:31"
     },
     {
       "label": "나스닥",
-      "value": "26,247.08",
-      "change": "+440.88",
-      "changePercent": "+1.71%",
+      "value": "26,348.00",
+      "change": "+100.92",
+      "changePercent": "+0.38%",
       "direction": "up",
-      "updatedAt": "2026-05-09 05:15"
+      "updatedAt": "2026-05-12 01:26"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,472.20",
-      "change": "+8.20",
-      "changePercent": "+0.56%",
+      "value": "1,470.90",
+      "change": "+6.90",
+      "changePercent": "+0.47%",
       "direction": "up",
-      "updatedAt": "2026-05-11 20:42"
+      "updatedAt": "2026-05-11 22:02"
     },
     {
       "label": "100엔/원",
-      "value": "937.08",
-      "change": "+3.02",
-      "changePercent": "+0.32%",
+      "value": "936.22",
+      "change": "+2.16",
+      "changePercent": "+0.23%",
       "direction": "up",
-      "updatedAt": "2026-05-11 20:42"
+      "updatedAt": "2026-05-11 22:02"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "약한 이슬비",
-        "temperature": "15.9°C",
-        "feelsLike": "17.2°C",
-        "highLow": "최고 19.7° / 최저 9.7°",
-        "humidity": "94%",
-        "wind": "2.3 m/s",
-        "rainChance": "92%",
-        "pm10": "24.0 μg/m³",
-        "pm25": "21.2 μg/m³",
+        "summary": "약한 비",
+        "temperature": "14.7°C",
+        "feelsLike": "15.9°C",
+        "highLow": "최고 22.1° / 최저 14.0°",
+        "humidity": "97%",
+        "wind": "1.9 m/s",
+        "rainChance": "83%",
+        "pm10": "23.0 μg/m³",
+        "pm25": "20.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "29",
-        "updatedAt": "2026-05-11 20:30"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-05-12 01:30"
       },
       {
         "location": "김포",
-        "summary": "약한 이슬비",
-        "temperature": "14.5°C",
-        "feelsLike": "15.4°C",
-        "highLow": "최고 19.1° / 최저 9.9°",
+        "summary": "이슬비",
+        "temperature": "14.2°C",
+        "feelsLike": "14.7°C",
+        "highLow": "최고 19.5° / 최저 13.3°",
         "humidity": "98%",
-        "wind": "3.0 m/s",
-        "rainChance": "90%",
-        "pm10": "24.0 μg/m³",
-        "pm25": "21.2 μg/m³",
+        "wind": "5.8 m/s",
+        "rainChance": "87%",
+        "pm10": "23.0 μg/m³",
+        "pm25": "20.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "29",
-        "updatedAt": "2026-05-11 20:30"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-05-12 01:30"
       },
       {
         "location": "파주",
-        "summary": "약한 이슬비",
-        "temperature": "14.8°C",
-        "feelsLike": "15.5°C",
-        "highLow": "최고 18.7° / 최저 8.6°",
-        "humidity": "96%",
-        "wind": "4.7 m/s",
-        "rainChance": "71%",
-        "pm10": "24.0 μg/m³",
-        "pm25": "21.2 μg/m³",
+        "summary": "이슬비",
+        "temperature": "14.4°C",
+        "feelsLike": "14.7°C",
+        "highLow": "최고 20.8° / 최저 13.0°",
+        "humidity": "99%",
+        "wind": "7.2 m/s",
+        "rainChance": "76%",
+        "pm10": "23.0 μg/m³",
+        "pm25": "20.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "29",
-        "updatedAt": "2026-05-11 20:30"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-05-12 01:30"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "17.4°C",
-        "feelsLike": "17.9°C",
-        "highLow": "최고 23.7° / 최저 9.9°",
-        "humidity": "84%",
-        "wind": "7.0 m/s",
-        "rainChance": "53%",
-        "pm10": "11.3 μg/m³",
-        "pm25": "8.7 μg/m³",
+        "summary": "비",
+        "temperature": "15.7°C",
+        "feelsLike": "16.4°C",
+        "highLow": "최고 20.8° / 최저 14.7°",
+        "humidity": "93%",
+        "wind": "5.9 m/s",
+        "rainChance": "80%",
+        "pm10": "18.9 μg/m³",
+        "pm25": "13.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-05-11 20:30"
+        "airQualityIndex": "23",
+        "updatedAt": "2026-05-12 01:30"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 5월 11일 (월)",
+    "todayLabel": "2026년 5월 12일 (화)",
     "areas": [
       {
         "region": "서울",
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "금광주유소",
-        "address": "인천 서구 중봉대로 1593 (금곡동)",
-        "updatedAt": "2026-05-11 11:18:16",
+        "stationName": "(주)디오티디 인천랍스터주유소",
+        "address": "인천 서구 봉수대로 1543 (금곡동)",
+        "updatedAt": "2026-05-11 22:59:44",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "걸포주유소",
-        "address": "경기 김포시 금포로 1117-6 (걸포동)",
-        "updatedAt": "2026-05-11 11:19:50",
+        "stationName": "(주)무진에너지 서김포IC주유소",
+        "address": "경기 김포시 양촌면 김포대로 1634",
+        "updatedAt": "2026-05-11 11:27:14",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[그래픽] 트럼프, 중국 국빈방문 주요 일정",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13QWNxZEJLWXRSRFc5TUViWmVvbTdrRE5xUjNfOXNMemdJek05WXB6LWoweVN5RFlPUEt6eTZKQXlwUUljV2pSUjBScVBPaTg?oc=5",
-      "publishedAt": "Mon, 11 May 2026 11:12:05 GMT"
+      "title": "트럼프 “해방 프로젝트 재개 검토”…규모 확대 시사로 이란 압박",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWhXVVMtUmRqQmRxMzlOVjhfU3NHRWs3dUpMTTF5eGtsQnJGby1WTFVVX3lmVzhUenJrMG5sXzhWSmVHVGJNUldLNEUzeEc3TjNjYW5GRTAzLWwxczNYYlFOTS01Tk9VU2FFR2JaZjd6d2dMYUVoZ1c5WVF6aXo1WlVpb2FoVVdS?oc=5",
+      "publishedAt": "Mon, 11 May 2026 16:10:57 GMT"
     },
     {
-      "title": "홍성근 머니투데이 회장 \"청년기업가대회, 10대까지 기회\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zNk82YnFiUlVLUnlhTG9ST1o5aW5YbkFmZ25mMTcxZ0dYZ1hIQkk0cU53VG5uZ1dVbkktTDkzV1VUZ2k5cmtpSFVYd0pDRGdKMWNIOFJuUG9TVGFKczVwa2FR?oc=5",
-      "publishedAt": "Mon, 11 May 2026 11:14:03 GMT"
-    },
-    {
-      "title": "靑, 나무호에 달린 CCTV 왜 늦게 확인했을까[박지환의 뉴스톡]",
+      "title": "국내 주요 대기업들도 성과급 상한 적용",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yU3cta2FMclVzX212YUk2Q2xBS09zVFUyTFVIMzdjemhOM0ZYN1dOeTRQcWREdE9qQm5DaEJkSmNZbzBURlBnc1Y1ampJb2dCbTBqOUlpdHB2SElScGUzNjFESHZqTFhiMWJycFVMNzZSV2dZLWh4dg?oc=5",
-      "publishedAt": "Mon, 11 May 2026 11:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jS3I3blVZeW51QjBTOHpobVl6MUVKYmIxS3YyRkZwaEZ0MXBsMHMzX1BoYWdYc1NOUndkODBkSnc4SDNtdU10cnhQVklwUjZJRzVDWWRaMDNBRXkwdlAzNQ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 15:53:00 GMT"
     },
     {
-      "title": "[금융 HOT 뉴스] KB금융, ‘KB스타터스 Welcome Day’ 개최…\"스타트업과 함께 성장\"",
-      "source": "비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DbUs2X1ZqZXNEekJPRTV0YVR4OXJVN3dzWmFHZmZhSkpMbDFuYU40MUp6d1pZVFk3OWZQWWNWeGxhbWt3cVp6QmVvYkkzX1J1MnpxVzdsX3BCbjV3UThLbDBNY0pIX1pFRXc?oc=5",
-      "publishedAt": "Mon, 11 May 2026 11:28:00 GMT"
+      "title": "스마게 ‘미래시’는 어떻게 성장하고 있을까?",
+      "source": "게임톡",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSdTR1U3gxV2JrUHJMUG8tTXlOTWtTQTZjc3lMTENpYUE3ajU4TEtMdFlDSGtLN3hDb25JbEhWSGtldlZJaW5FS1ZJeDhQdmowQXo1VnFVNC1xLVpZQzBaMkw3UG9qTmNkWGYxOQ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 16:37:42 GMT"
     },
     {
-      "title": "안민석, 교육공무직·비정규직과 손잡아…“처우개선·급식실 안전”",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pa3IxT090TVFZNHFZbnFOMUp5dkNmUlRIN2lWeXgxRTc1M1hYcVVfX2JBa1FiM29aU3VSVUpFZkphbGR5djR1dk1XbVlsRWRMR2tZbkJR?oc=5",
-      "publishedAt": "Mon, 11 May 2026 10:55:03 GMT"
-    },
-    {
-      "title": "이효리, 요가 12년 만 놀라운 고백 \"뽐내려 시작…남은 건 건강한 중독\"[스타이슈]",
+      "title": "러 \"트럼프 방러 초청 여전히 유효, 푸틴이 환영할 것\"(종합)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yZEhPMDBlS29KekwwSnVnWVFCc0d2T3VlTWg1YkF0eWtoSzlSNFJCS1hWdWJjY0ZMTWlQOGlVaDN0Y3JKQjN0ekk4aUJoOWl5eTJn?oc=5",
-      "publishedAt": "Mon, 11 May 2026 11:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DSUprbUlCdXRBQU92SFlvNVNyMnJvMnVwLXI5bUo4bllvWVBhaFFOQU9IOF9Ka1NMRkpPTnhZLWdqU05XLXAwZThpR0stdDJQRVZZ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 16:37:00 GMT"
     },
     {
-      "title": "방미심위, MBC '2시 뉴스외전' 방송사고 제재 완화 의결",
+      "title": "트럼프·시진핑 최소 6차례 만난다…판 커진 정상회담",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRTVhVb0ZVUkhpUHZSbUpEUnFnOFZwbGpKZmRCem5OemE1MkNUNHpWMFVwTGh3alB1cDVOellka05Dak9yZERRdGk0dDNIcTc5S1ZV?oc=5",
-      "publishedAt": "Mon, 11 May 2026 11:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lT1ZpdjR3VE4wZ2VGV054QWR4aFpGdFMzX3VXdU52MXdLb1h4WUh5R0xiWWV3ODk5b2w2WTAxNUhjTUg5R01UMDNZLU4zcDRncm1N?oc=5",
+      "publishedAt": "Mon, 11 May 2026 16:13:00 GMT"
     },
     {
-      "title": "\"차이나쇼크 2.0 온다\"…美재계, 트럼프 방중 앞 경고",
+      "title": "[오피셜] '부상 불운' ATL 김하성, 드디어 콜업! 김혜성·송성문·이정후와 나란히 빅리그 진입→히어로즈 4인방 뛴다",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zS214akNOTk92SnladjEzYy1uYUx1UXFTTkRYM1pmV3ZZNmkzVnZPTGI4QkxPZE5MUl9KczNWUVhoaDlMeV84NzlGS1QyZEJaN3BJ?oc=5",
-      "publishedAt": "Mon, 11 May 2026 11:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Db3NfemNvMUFkX1hja1l3T3J0cE96ZXdoVmp0dnRCUFZSam5IMmRCV2FDMno1RDh4VWlGNU0tdG5kTGZEazcwYTdwWTcza2Zud1NUNVZ6Sy1vLUQ4bFNLSE8xVE5VZnpHSGdZMGlLS2V0VzYxUlpTOQ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 16:35:00 GMT"
     },
     {
-      "title": "정치권도 '나무호 공방'…이란 소행 가능성에도 '신중론'",
+      "title": "SATUR(세터) X 몬치치, 서울숲 오프라인 이벤트 성료",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ULVM2Mk03d0F1RmxJbmhzem9idWJvUnVLZWpBcDY1U1hGT0RiQ3VUTEdrVW9Ob3VobHFMcVozSXE2WVIxMTJYX0FnTDFrX2dwaHNJ?oc=5",
-      "publishedAt": "Mon, 11 May 2026 11:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91OWZqTi1xbDNNTDJnQ3ZqVExyUl9XejBGSU14MWtWZVhJYnRNbjktUU5RRkswNGVwWl9nNWFiMUJjV3pMVjgzRkczR1dsaG5md2lJ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 16:27:00 GMT"
     },
     {
-      "title": "리아킴 '마이클 포즈는 이런것'[★포토]",
+      "title": "\"공소 취소하면 탄핵감…내가 이겨야 李 아플 것\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05bDVhNDYybm5fQkdjY0hpQ0hDOF9vVEVuTUw1STQzU0VaNkFjWHJFQ2Y2T19va0h6VTFUM0hzWEFxX1dQbXRySHBxVlhZSHl6cFg4?oc=5",
-      "publishedAt": "Mon, 11 May 2026 10:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XYnBGdnVoLXdNT3ZJSkhGOEZZdE8wSUw5d3lsd3d5UWU5VWxhMU9qUU80aGhvM2dtWjdlaTFjSTJ6LVNfd1NBam5rblVUd2I0X2N3?oc=5",
+      "publishedAt": "Mon, 11 May 2026 15:49:00 GMT"
+    },
+    {
+      "title": "\"2번 후보로 보수 결집…하정우 어부지리 없다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IMGQ4SHVZOG5sU3VBS0Rob0FPOW5Qa0JmcU5lVWRZcXZuUWJrdXVVRk13M2lfVzNpMk9GaHRQYU9tcWdxUlVwWFpXcXN3dkp0b1I0?oc=5",
+      "publishedAt": "Mon, 11 May 2026 15:49:00 GMT"
+    },
+    {
+      "title": "안규백, \"한반도 방위 주도 최선의 노력\"…미 국방장관 \"미국에 협력하길\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wdmp5QWhCaV9aUUJrWm8weUI0YUpTd3RNSVNKZXU1ZUk4RnpQUG8zRUJJSUc1RFRIdndGTkpBMV9iSFZpaEhoWU9RNUJWeUJubUJj?oc=5",
+      "publishedAt": "Mon, 11 May 2026 15:53:00 GMT"
     }
   ],
   "sources": [
