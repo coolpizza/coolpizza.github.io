@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-12T01:45:05.398662+09:00",
+  "generatedAt": "2026-05-12T03:24:35.986705+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,108 +22,108 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,655.37",
-      "change": "+46.21",
-      "changePercent": "+0.09%",
+      "value": "49,752.71",
+      "change": "+143.55",
+      "changePercent": "+0.29%",
       "direction": "up",
-      "updatedAt": "2026-05-12 01:26"
+      "updatedAt": "2026-05-12 03:07"
     },
     {
       "label": "S&P 500",
-      "value": "7,426.09",
-      "change": "+27.16",
-      "changePercent": "+0.37%",
+      "value": "7,425.04",
+      "change": "+26.11",
+      "changePercent": "+0.35%",
       "direction": "up",
-      "updatedAt": "2026-05-12 01:31"
+      "updatedAt": "2026-05-12 03:12"
     },
     {
       "label": "나스닥",
-      "value": "26,348.00",
-      "change": "+100.92",
-      "changePercent": "+0.38%",
+      "value": "26,333.75",
+      "change": "+86.67",
+      "changePercent": "+0.33%",
       "direction": "up",
-      "updatedAt": "2026-05-12 01:26"
+      "updatedAt": "2026-05-12 03:07"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,470.90",
-      "change": "+6.90",
-      "changePercent": "+0.47%",
+      "value": "1,473.50",
+      "change": "+9.50",
+      "changePercent": "+0.65%",
       "direction": "up",
-      "updatedAt": "2026-05-11 22:02"
+      "updatedAt": "2026-05-11 22:05"
     },
     {
       "label": "100엔/원",
-      "value": "936.22",
-      "change": "+2.16",
-      "changePercent": "+0.23%",
+      "value": "937.76",
+      "change": "+3.70",
+      "changePercent": "+0.40%",
       "direction": "up",
-      "updatedAt": "2026-05-11 22:02"
+      "updatedAt": "2026-05-11 22:05"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "약한 비",
-        "temperature": "14.7°C",
-        "feelsLike": "15.9°C",
-        "highLow": "최고 22.1° / 최저 14.0°",
-        "humidity": "97%",
-        "wind": "1.9 m/s",
+        "summary": "약한 이슬비",
+        "temperature": "14.4°C",
+        "feelsLike": "15.3°C",
+        "highLow": "최고 21.8° / 최저 14.3°",
+        "humidity": "98%",
+        "wind": "2.5 m/s",
         "rainChance": "83%",
-        "pm10": "23.0 μg/m³",
-        "pm25": "20.7 μg/m³",
+        "pm10": "20.9 μg/m³",
+        "pm25": "19.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-05-12 01:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-05-12 03:15"
       },
       {
         "location": "김포",
-        "summary": "이슬비",
-        "temperature": "14.2°C",
-        "feelsLike": "14.7°C",
-        "highLow": "최고 19.5° / 최저 13.3°",
-        "humidity": "98%",
-        "wind": "5.8 m/s",
+        "summary": "약한 이슬비",
+        "temperature": "14.3°C",
+        "feelsLike": "14.8°C",
+        "highLow": "최고 19.5° / 최저 13.0°",
+        "humidity": "99%",
+        "wind": "5.5 m/s",
         "rainChance": "87%",
-        "pm10": "23.0 μg/m³",
-        "pm25": "20.7 μg/m³",
+        "pm10": "20.9 μg/m³",
+        "pm25": "19.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-05-12 01:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-05-12 03:15"
       },
       {
         "location": "파주",
-        "summary": "이슬비",
-        "temperature": "14.4°C",
-        "feelsLike": "14.7°C",
+        "summary": "약한 이슬비",
+        "temperature": "14.3°C",
+        "feelsLike": "14.8°C",
         "highLow": "최고 20.8° / 최저 13.0°",
         "humidity": "99%",
-        "wind": "7.2 m/s",
+        "wind": "6.1 m/s",
         "rainChance": "76%",
-        "pm10": "23.0 μg/m³",
-        "pm25": "20.7 μg/m³",
+        "pm10": "20.9 μg/m³",
+        "pm25": "19.1 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-05-12 01:30"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-05-12 03:15"
       },
       {
         "location": "익산",
         "summary": "비",
-        "temperature": "15.7°C",
-        "feelsLike": "16.4°C",
-        "highLow": "최고 20.8° / 최저 14.7°",
-        "humidity": "93%",
-        "wind": "5.9 m/s",
+        "temperature": "14.8°C",
+        "feelsLike": "15.3°C",
+        "highLow": "최고 21.4° / 최저 14.4°",
+        "humidity": "96%",
+        "wind": "6.2 m/s",
         "rainChance": "80%",
-        "pm10": "18.9 μg/m³",
-        "pm25": "13.7 μg/m³",
+        "pm10": "19.3 μg/m³",
+        "pm25": "14.9 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "23",
-        "updatedAt": "2026-05-12 01:30"
+        "updatedAt": "2026-05-12 03:15"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)디오티디 인천랍스터주유소",
-        "address": "인천 서구 봉수대로 1543 (금곡동)",
-        "updatedAt": "2026-05-11 22:59:44",
+        "stationName": "부광셀프주유소",
+        "address": "인천 서구 봉수대로 1623",
+        "updatedAt": "2026-05-05 07:39:03",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "트럼프 “해방 프로젝트 재개 검토”…규모 확대 시사로 이란 압박",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWhXVVMtUmRqQmRxMzlOVjhfU3NHRWs3dUpMTTF5eGtsQnJGby1WTFVVX3lmVzhUenJrMG5sXzhWSmVHVGJNUldLNEUzeEc3TjNjYW5GRTAzLWwxczNYYlFOTS01Tk9VU2FFR2JaZjd6d2dMYUVoZ1c5WVF6aXo1WlVpb2FoVVdS?oc=5",
-      "publishedAt": "Mon, 11 May 2026 16:10:57 GMT"
+      "title": "테슬라·애플·보잉 CEO, 트럼프 중국 방문에 동행…엔비디아 젠슨 황 빠져",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xei1CSzFtRENEY2hTRkp2TE9uSmgtODRJblVSWWppZndRbi1JVEctYzhlUWdBRTRrUV9TWlRXM00zNktVNmpNVXlQeE90TV80NHlNMUxTdTg?oc=5",
+      "publishedAt": "Mon, 11 May 2026 17:55:00 GMT"
     },
     {
-      "title": "국내 주요 대기업들도 성과급 상한 적용",
+      "title": "김경호 광진구청장 후보, 12일 선거사무소 개소식 개최... \"광진의 완성\" 선포",
+      "source": "서울로컬뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRXZBNWZaclJoanBQZ25ycjJCOFh1YlBXcUJ2aG1oTXk5UUpyQlRsc0QzVTdMcVFoOFF5VWw0VTlMaEVOcW9NZWE5ZUZRWWQ2eUk2a29WWVo?oc=5",
+      "publishedAt": "Mon, 11 May 2026 18:16:43 GMT"
+    },
+    {
+      "title": "[美특징주]에너지株, 중동 지정학적 긴장 고조에 따른 유가 반등에 일제히 강세",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWnZNNFpaQUxlU09wT19vZVpUTUtmOXlLaWVkWXpfTXBpSGJPQmVQck85WG5VWG9oUjdpai1JUDlMcUlFcXp3cEhDRnk3REdiOExrSHR5cHRURzRZcnBGYXZvaXp6TTFkQ1lXT1cxU2taV3RlREdYWURsa3NfQjN5Rg?oc=5",
+      "publishedAt": "Mon, 11 May 2026 18:16:43 GMT"
+    },
+    {
+      "title": "테니스 미녀스타의 살벌한 애국심 \"러시아 국적 버렸지만, 혈통은 못 버려!\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jS3I3blVZeW51QjBTOHpobVl6MUVKYmIxS3YyRkZwaEZ0MXBsMHMzX1BoYWdYc1NOUndkODBkSnc4SDNtdU10cnhQVklwUjZJRzVDWWRaMDNBRXkwdlAzNQ?oc=5",
-      "publishedAt": "Mon, 11 May 2026 15:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05c21WU3VMVEp4WVJUa21nU3pFaTVtZ2dZU1VBOTIyQmVVcFFBNXVMeWJHMFo0TTd4NlhubXFRYUpxelVSbkp6cmR0WHR2MnFNS2NPRUhfQUcySkNDa2k2ZFNGeFV6UUlZSXJGSUVqaTl3OF9EQ2Y3VQ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 18:01:00 GMT"
     },
     {
-      "title": "스마게 ‘미래시’는 어떻게 성장하고 있을까?",
-      "source": "게임톡",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSdTR1U3gxV2JrUHJMUG8tTXlOTWtTQTZjc3lMTENpYUE3ajU4TEtMdFlDSGtLN3hDb25JbEhWSGtldlZJaW5FS1ZJeDhQdmowQXo1VnFVNC1xLVpZQzBaMkw3UG9qTmNkWGYxOQ?oc=5",
-      "publishedAt": "Mon, 11 May 2026 16:37:42 GMT"
+      "title": "축구토토 승무패 27회차 1등 14건 발생",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80cFZjM1RibG5wWGZDUkpkN3IxZWU1Tk9TN3hqcXBZOE5ESVdTSnAzUGNrYXlhcWlYSVlycXRNX19BQU9POWNncWNjYW5uVWJ6SkdnV0tyV29LcXhxNWhvdlBwb3F4RnhfZm4w0gFvQVVfeXFMUENSQzRMRFlqRDJhNW5LaGZuenJIcjdPbVJxLUdyalI3RlhsZzFWcTRNNWtaSFg4UW1oeGZTS0t4c1lnaS1WZWMxcHFuNmVRTXlDMFRXTV9HblV6TlFOVktfUXBIQTF2eU9vSjZicEJB?oc=5",
+      "publishedAt": "Mon, 11 May 2026 17:28:24 GMT"
     },
     {
-      "title": "러 \"트럼프 방러 초청 여전히 유효, 푸틴이 환영할 것\"(종합)",
+      "title": "트럼프 \"이란 휴전 간신히 연명…호르무즈 해방 작전 재개 검토\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DSUprbUlCdXRBQU92SFlvNVNyMnJvMnVwLXI5bUo4bllvWVBhaFFOQU9IOF9Ka1NMRkpPTnhZLWdqU05XLXAwZThpR0stdDJQRVZZ?oc=5",
-      "publishedAt": "Mon, 11 May 2026 16:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VVBjNk9xYnFXUGk5MllOQmZLcVRMcWlZd1l2ZWx1RmZuZWVJMFZTZTlyaFA0Y1MxOFNnMnFsalQ1NTJIUkl5YTcyZG95UzRlRzk4c3gwbldPNFhCUTRnaVEzdFhTcF9PS0E?oc=5",
+      "publishedAt": "Mon, 11 May 2026 17:42:00 GMT"
     },
     {
-      "title": "트럼프·시진핑 최소 6차례 만난다…판 커진 정상회담",
+      "title": "\"트럼프 정부, 사상 최고 쇠고기 가격에 관세 한시 완화 추진\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lT1ZpdjR3VE4wZ2VGV054QWR4aFpGdFMzX3VXdU52MXdLb1h4WUh5R0xiWWV3ODk5b2w2WTAxNUhjTUg5R01UMDNZLU4zcDRncm1N?oc=5",
-      "publishedAt": "Mon, 11 May 2026 16:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WazBPTUFnTFAtcVl6NVNGWjRxT3c3MEN2bTJGTF93VDBuMnRHZGpOdmxjWDV5cHo3dUhKWXlxZk1zY3h5TFh0czdGSE56eU8xWU9R?oc=5",
+      "publishedAt": "Mon, 11 May 2026 17:39:00 GMT"
     },
     {
-      "title": "[오피셜] '부상 불운' ATL 김하성, 드디어 콜업! 김혜성·송성문·이정후와 나란히 빅리그 진입→히어로즈 4인방 뛴다",
+      "title": "'EPL 러브콜' 이강인 이적 가능성 더 커졌다 \"PSG 재계약 협상 중단\"…이유는 UCL 우승 '올인'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Db3NfemNvMUFkX1hja1l3T3J0cE96ZXdoVmp0dnRCUFZSam5IMmRCV2FDMno1RDh4VWlGNU0tdG5kTGZEazcwYTdwWTcza2Zud1NUNVZ6Sy1vLUQ4bFNLSE8xVE5VZnpHSGdZMGlLS2V0VzYxUlpTOQ?oc=5",
-      "publishedAt": "Mon, 11 May 2026 16:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MzEzd1cydWd0eklrcGlqbGpGdTZlVzlldE5ULXNROTd4MXF0N08yMHNTekx1TVlWYVB3YXQzWGFtNDU0RFhEQkU0VExCMnE0MGJOZ3hKNU9fYm5qYTVZYndBYnRWbHRL?oc=5",
+      "publishedAt": "Mon, 11 May 2026 17:36:00 GMT"
     },
     {
-      "title": "SATUR(세터) X 몬치치, 서울숲 오프라인 이벤트 성료",
+      "title": "韓국방 \"한반도 방위 주도\"…美국방 \"방위분담 의지 평가\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91OWZqTi1xbDNNTDJnQ3ZqVExyUl9XejBGSU14MWtWZVhJYnRNbjktUU5RRkswNGVwWl9nNWFiMUJjV3pMVjgzRkczR1dsaG5md2lJ?oc=5",
-      "publishedAt": "Mon, 11 May 2026 16:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOZ1IxYVdrUzRidHI2cUF3TThwQmtmbGFDRmQ3QmRsU1huamJtQ3U5UzlmZlN1M1g4NnlFSEVGejdHLWp5bEV6UUw0ckUzWFg2bkJRTWlyVmF2RDRBdFVxNjE4XzI5ckJnWEQxaDVQZE4tQThHYXRHWQ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 17:57:00 GMT"
     },
     {
-      "title": "\"공소 취소하면 탄핵감…내가 이겨야 李 아플 것\"",
+      "title": "튀르키예-시리아 육로 국경 12년만에 민간 통행 재개",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XYnBGdnVoLXdNT3ZJSkhGOEZZdE8wSUw5d3lsd3d5UWU5VWxhMU9qUU80aGhvM2dtWjdlaTFjSTJ6LVNfd1NBam5rblVUd2I0X2N3?oc=5",
-      "publishedAt": "Mon, 11 May 2026 15:49:00 GMT"
-    },
-    {
-      "title": "\"2번 후보로 보수 결집…하정우 어부지리 없다\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IMGQ4SHVZOG5sU3VBS0Rob0FPOW5Qa0JmcU5lVWRZcXZuUWJrdXVVRk13M2lfVzNpMk9GaHRQYU9tcWdxUlVwWFpXcXN3dkp0b1I0?oc=5",
-      "publishedAt": "Mon, 11 May 2026 15:49:00 GMT"
-    },
-    {
-      "title": "안규백, \"한반도 방위 주도 최선의 노력\"…미 국방장관 \"미국에 협력하길\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wdmp5QWhCaV9aUUJrWm8weUI0YUpTd3RNSVNKZXU1ZUk4RnpQUG8zRUJJSUc1RFRIdndGTkpBMV9iSFZpaEhoWU9RNUJWeUJubUJj?oc=5",
-      "publishedAt": "Mon, 11 May 2026 15:53:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pSkdmRFBJQ0dvWHFSTElhcXFFeG1mNDE2RGxEX0Rhakxia3dVUXZFOGgyUEhXNlNYMUtzTVNzVEZjbHdMLUs5RjljUExtQmhiVjRV?oc=5",
+      "publishedAt": "Mon, 11 May 2026 17:50:00 GMT"
     }
   ],
   "sources": [
