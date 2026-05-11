@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-05-11T14:15:33.761736+09:00",
+  "generatedAt": "2026-05-11T17:37:40.526076+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "7,882.81",
-      "change": "+384.81",
-      "changePercent": "+5.13%",
+      "value": "7,822.24",
+      "change": "+324.24",
+      "changePercent": "+4.32%",
       "direction": "up",
-      "updatedAt": "2026-05-11 14:12"
+      "updatedAt": "2026-05-11 17:35"
     },
     {
       "label": "코스닥",
-      "value": "1,203.99",
-      "change": "-3.73",
-      "changePercent": "-0.31%",
+      "value": "1,207.34",
+      "change": "-0.38",
+      "changePercent": "-0.03%",
       "direction": "down",
-      "updatedAt": "2026-05-11 14:12"
+      "updatedAt": "2026-05-11 17:35"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,475.80",
-      "change": "+11.80",
-      "changePercent": "+0.81%",
+      "value": "1,470.40",
+      "change": "+6.40",
+      "changePercent": "+0.44%",
       "direction": "up",
-      "updatedAt": "2026-05-11 14:11"
+      "updatedAt": "2026-05-11 17:33"
     },
     {
       "label": "100엔/원",
-      "value": "939.49",
-      "change": "+5.43",
-      "changePercent": "+0.58%",
+      "value": "936.50",
+      "change": "+2.44",
+      "changePercent": "+0.26%",
       "direction": "up",
-      "updatedAt": "2026-05-11 14:11"
+      "updatedAt": "2026-05-11 17:33"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약한 이슬비",
-        "temperature": "19.2°C",
-        "feelsLike": "20.0°C",
-        "highLow": "최고 19.8° / 최저 9.7°",
-        "humidity": "79%",
-        "wind": "7.2 m/s",
+        "temperature": "17.8°C",
+        "feelsLike": "18.6°C",
+        "highLow": "최고 19.7° / 최저 9.7°",
+        "humidity": "83%",
+        "wind": "5.9 m/s",
         "rainChance": "92%",
-        "pm10": "20.1 μg/m³",
-        "pm25": "15.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-05-11 14:00"
+        "pm10": "16.3 μg/m³",
+        "pm25": "13.2 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-11 17:30"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "18.1°C",
-        "feelsLike": "18.3°C",
-        "highLow": "최고 18.6° / 최저 9.9°",
-        "humidity": "86%",
-        "wind": "12.0 m/s",
+        "temperature": "16.5°C",
+        "feelsLike": "16.7°C",
+        "highLow": "최고 19.1° / 최저 9.9°",
+        "humidity": "90%",
+        "wind": "9.9 m/s",
         "rainChance": "90%",
-        "pm10": "20.1 μg/m³",
-        "pm25": "15.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-05-11 14:00"
+        "pm10": "16.3 μg/m³",
+        "pm25": "13.2 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-11 17:30"
       },
       {
         "location": "파주",
-        "summary": "흐림",
-        "temperature": "18.1°C",
-        "feelsLike": "17.8°C",
-        "highLow": "최고 18.4° / 최저 8.6°",
-        "humidity": "84%",
-        "wind": "14.8 m/s",
+        "summary": "약한 이슬비",
+        "temperature": "16.7°C",
+        "feelsLike": "16.6°C",
+        "highLow": "최고 18.7° / 최저 8.6°",
+        "humidity": "88%",
+        "wind": "12.0 m/s",
         "rainChance": "71%",
-        "pm10": "20.1 μg/m³",
-        "pm25": "15.7 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "49",
-        "updatedAt": "2026-05-11 14:00"
+        "pm10": "16.3 μg/m³",
+        "pm25": "13.2 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "40",
+        "updatedAt": "2026-05-11 17:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "24.0°C",
-        "feelsLike": "23.8°C",
-        "highLow": "최고 24.1° / 최저 9.9°",
-        "humidity": "59%",
-        "wind": "14.7 m/s",
+        "temperature": "20.3°C",
+        "feelsLike": "19.9°C",
+        "highLow": "최고 23.7° / 최저 9.9°",
+        "humidity": "71%",
+        "wind": "14.1 m/s",
         "rainChance": "53%",
-        "pm10": "11.4 μg/m³",
-        "pm25": "8.1 μg/m³",
+        "pm10": "24.2 μg/m³",
+        "pm25": "17.1 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "59",
-        "updatedAt": "2026-05-11 14:00"
+        "airQualityIndex": "45",
+        "updatedAt": "2026-05-11 17:30"
       }
     ]
   },
@@ -276,7 +276,7 @@
         "lowestDistrict": "동작구",
         "stationName": "주식회사 새서울글로벌",
         "address": "서울 동작구 시흥대로 616 (신대방동)",
-        "updatedAt": "2026-05-11 10:59:53",
+        "updatedAt": "2026-05-11 14:57:29",
         "districtSamples": [
           {
             "district": "동작구",
@@ -284,7 +284,7 @@
           },
           {
             "district": "금천구",
-            "price": "1,977원/L"
+            "price": "1,976원/L"
           },
           {
             "district": "강서구",
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "금광주유소",
-        "address": "인천 서구 중봉대로 1593 (금곡동)",
-        "updatedAt": "2026-05-11 11:18:16",
+        "stationName": "부광셀프주유소",
+        "address": "인천 서구 봉수대로 1623",
+        "updatedAt": "2026-05-05 07:39:03",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "한울에너지(주)마송주유소",
-        "address": "경기 김포시 통진읍 김포대로 2397",
-        "updatedAt": "2026-05-11 10:55:48",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-05-11 14:59:47",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[전국 주요 신문 사설](11일 석간)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MSjl0SUdyUkdNSnc1bWxTUnhxYmsyVFV4RFZsOXhQNTg0VHVYX2FfeHNYcjVPbHdRcGI0bFBBSkR2LVl4blFfLVljY0gtN01UWktRbTZzQnFfMDTSAWBBVV95cUxNYkQybFVNWlQyMUhPZV9uSzNsNlNoelZ0ajN4VEtxUE5zc0ZqY1VHQnBUZVZLdGZSVXcySnY4UFM0UHFtM1J1dVJIbV9UVFNNdWNmQmlTdjdlc0Rpa1Bucks?oc=5",
-      "publishedAt": "Mon, 11 May 2026 05:00:02 GMT"
-    },
-    {
-      "title": "공수처, '룸살롱 접대 의혹' 지귀연 부장판사 피의자 소환",
+      "title": "삼성 퇴직자 '성과급 반영 퇴직금' 합의... \"연 6% 이자 더해\"",
       "source": "법률방송뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iZ0MwWXhOMTBhdVBQVklWQmJhTnMtdzh0U0laenBKb2oyMnRQTkxBRDBvTjlVNzg0Ym54amZFTWZvYkVaY1hGWHNrWnYyVGQ0X0ZJMmI4aWdEMVpfZW1PRnh3?oc=5",
-      "publishedAt": "Mon, 11 May 2026 04:56:21 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GQmp0NzhUazJ3MnlQZmQ4ZWhaVF9aZjc4R2xUbkV0amEyUkVsZzhpenowdmI4THpqX2RNbDZkNnN0WkliczZkNEo3bU01S2xuOS1hTHJnUHBkSzN5RlRDRmV3?oc=5",
+      "publishedAt": "Mon, 11 May 2026 08:28:49 GMT"
     },
     {
-      "title": "담양가족센터-담양자활센터, ‘맞손’",
-      "source": "교차로저널",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWY3NEVVNNYWQ1U21OVVBPem80RHNpUzdlS3NGVDFQaHU4OXhMb2pySERNTlA1NTMwQnlwZHVONE5ybTlMTWFzSGlwSUhCcVNTQ3RwYlFNRklmMFI3N1dudzdiczBjdklF?oc=5",
-      "publishedAt": "Mon, 11 May 2026 04:53:52 GMT"
+      "title": "5월 12일(화) 안동지역 주요 행사 일정을 알립니다",
+      "source": "안동인터넷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0SWpwb3BRLVNoT3lTVzc0WVFMV25XeW9Ybm5rYkxJb3NRVXdiVVNMazZ4MXE2RWJycVpqUmFGLXdLeWEyWk5fSDJwZ3dscUhHQi01T3cxYW9TQ2hienc5UVYxU3g3WGZ6eUE?oc=5",
+      "publishedAt": "Mon, 11 May 2026 08:17:57 GMT"
     },
     {
-      "title": "\"지방소득세·종합소득세 동시 처리\"…강서구, '합동 창구' 운영",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrVGxYRmd3N2h6a09tTjdlNDNnbzlNR19RcVpXT1lPbEdZWlg3Nm5rUUpDN25RXzdBU1E0elY2MXFTZ3NDbTZVMW9EVmtJMEl6SG5NYWREU3lST3ZM?oc=5",
-      "publishedAt": "Mon, 11 May 2026 05:03:44 GMT"
+      "title": "아이벡스메디칼시스템즈, 코스닥 상장 예비심사 신청",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxeUEtSXB4b2J1UnVjTG83V2k2UmlzT1JxQ3VNbloxWXFXNVg2VzgyS0ZqSUw1NFA4QzRPejFLTTRfel80MTRNZzlKUHZFSW5zeklMb1VTcU1GU2vSAWBBVV95cUxPQmxtNEZHOGZMVlBYczdWZ3FCLW1hbkpRUTR1ZUsxM1NkRXhOZ1lVbDAzejBPVzFxQi0xcWkyek0weWE5MTRuRGk4LS1PRDFhSDdLSG5vZHltcmN1OE0xMzc?oc=5",
+      "publishedAt": "Mon, 11 May 2026 08:02:21 GMT"
     },
     {
-      "title": "넥슨, 게임 지식공유 행사 ‘NDC 2026’ 19일 참관객 접수",
-      "source": "ipnn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83TElYMGFnMm8zaVVPZ2xLZXpULW9CbXpWUUgtMEk3eHlzMWFQYTVsZUN0OXlsMHdVOWNjamEzM18wLUVGWXh4X0ZadXZYY3h3WGNpWnRtVjc0eVNmVlR2NjFlNHhoM3BI?oc=5",
-      "publishedAt": "Mon, 11 May 2026 05:00:49 GMT"
-    },
-    {
-      "title": "기후부, 소속·산하기관과 '홍수대응' 점검 회의",
+      "title": "인사말 하는 정청래 대표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wajlpdjF3c3Y3T0piXzNSNWJTSDZ4TDJTeFlOUllIaWlFV3FMRDEtZlpfcF9YLXJsOEdIc1RYSTZMZm81ZXBtRC1zdzNPZl9MLXVF?oc=5",
-      "publishedAt": "Mon, 11 May 2026 05:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sTU92MVo1UUxUTElWMEVyZkVLZERXWWJWN0E1N0ttaF9lVE9qU2RMbFUzS1EwYS15aTZ5S19iT2JpQVNFUkVDTGNSLS1KWlJnRWpB?oc=5",
+      "publishedAt": "Mon, 11 May 2026 07:47:00 GMT"
     },
     {
-      "title": "기후부 출범 뒤 첫 홍수기…하천·댐·전력시설 점검",
+      "title": "비상계엄 다룬 '서울의 밤', 시드니 영화제 공식 초청",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PS1c5Zy1mcGVtN2ZaNVd3TXgtYjdjWVZwdzVySHFFMWFzWFdVVE5Tb1NCb1BMQWFXaHRYcFZGRjBNMHU1M25IQW9RLVFBeklDa0hFaWtBZFJ5LTFM?oc=5",
-      "publishedAt": "Mon, 11 May 2026 05:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VQTA3TWpFR0p0UHJfSmkwRVNJNG1yS2RfTXN5cDBoOGg5QjN0T1Z3a3lEblQzdWs3ZVlmWGNMZkEtVlMwS29ONVFuU292SHFLUnBaOFQyTQ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 07:57:16 GMT"
     },
     {
-      "title": "'큰손' 한국 찾은 명품대통령…서울 매장 투어",
+      "title": "장동혁, '국힘 탈당' 김상욱 겨냥 \"배신의 대가 보여주자\"",
+      "source": "노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4clNSU3ctU2JLRExGX0JyMHRYcWpHLTZZbDVFMmhOc2lkcTNXOGVqaXJmRTR1cG94d21KU0tCQ0plTFRSSDZTcGNlTGR2TjZNRUE?oc=5",
+      "publishedAt": "Mon, 11 May 2026 08:06:00 GMT"
+    },
+    {
+      "title": "\"미·중 회담 사전 담판 서울에서\"…한미 별도 회담 가질까",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGMmlELWhwNnJzN0p2cDdHT3hqM2E3dG9vS3hic3JaV3BabGFqdk92Z1hiUnpRY1NLb0c0MnY4cFZhTXNhZS1xRTJhcElzSlFOdjJaYm9MY1hjcHZ6RWliMQ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 07:51:53 GMT"
+    },
+    {
+      "title": "[LAW투데이] 국선변호인 수임료 미지급 300억원... 연체 언제까지",
+      "source": "법률방송뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hS1hIS0VYY0VwWTNOS01BOGRFMGhvWWZQbEp5d25MaXU0VURQUTRqQjB4WGRSbmt0SVNZaVdxQXYzbXVadWVab3FWZkRqbEMtcm1kNTN1ZkkxaVExM3BZM29R?oc=5",
+      "publishedAt": "Mon, 11 May 2026 08:19:14 GMT"
+    },
+    {
+      "title": "'파란 운동화 신고 달려보자'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tTVkxOWxSM21VTjBDbVJmWFlILWNkVmp6eUF2OXNObkVCMHYtZ0NaaDZ1anJSeWpQeXNGbVlmXzlqdlVRTVMyZVhsdmRkcEFCZm9R?oc=5",
-      "publishedAt": "Mon, 11 May 2026 05:09:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydmkxTW1UV1l4cWlsWTY5RWJySTJhVXlfSWJzVUVQSEU0SVZ3ZTRMSWlISGdYcEMydTBYYlVZVzFocXBERDdObkdteVZYYUJZakMw?oc=5",
+      "publishedAt": "Mon, 11 May 2026 07:47:00 GMT"
     },
     {
-      "title": "구로구, '폭염·수방·안전·보건' 여름철 종합대책 추진",
+      "title": "신세계 이어 롯데 찾은 아르노 LVMH 회장…디올·불가리 매장도 점검",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FbmdoU0JoN1hUb1ctU05ROHBLZ0tsQ3VjQS13TFBxRjVNZ0hUMzBTbGRfUDdLRUxadzRiemt3RmRCVWNfdUNURURUWGZyRFY3MjU1Szl0OGpwZEw4?oc=5",
-      "publishedAt": "Mon, 11 May 2026 04:58:57 GMT"
-    },
-    {
-      "title": "\"광주시민 누구나 인공지능 활용\" 디지털 배움터 확대",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BMDFJX3VETE1TSHFDYlFUdml1eFV4YURUU0k0NXFqTGE3VHpLY1R3aDBRLXZoaEhKUVRKQ1U1dy00WFp4WVlmV2pkS212SXlqdGtR?oc=5",
-      "publishedAt": "Mon, 11 May 2026 05:09:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10T3p1bU8zXzBIcEtQMEcxVF9CRXBzR29oRVVzMzM3Nm9OUVFCSnprMDc3aUd0UVVwUjA1dnBDdU5tY250OE80N1VkVzZ2TmJxbDdiLWQ1N0s0UU4xWHFn?oc=5",
+      "publishedAt": "Mon, 11 May 2026 07:48:00 GMT"
     }
   ],
   "sources": [
