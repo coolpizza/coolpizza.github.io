@@ -1,22 +1,22 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-11T08:42:38.642971+09:00",
+  "generatedAt": "2026-05-11T10:32:22.483735+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "7,498.00",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-05-11 08:36"
+      "value": "7,839.39",
+      "change": "+341.39",
+      "changePercent": "+4.55%",
+      "direction": "up",
+      "updatedAt": "2026-05-11 10:27"
     },
     {
       "label": "코스닥",
-      "value": "1,207.72",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
+      "value": "1,205.26",
+      "change": "-2.46",
+      "changePercent": "-0.20%",
       "direction": "down",
-      "updatedAt": "2026-05-11 08:36"
+      "updatedAt": "2026-05-11 10:27"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,464.00",
-      "change": "+6.00",
-      "changePercent": "+0.41%",
+      "value": "1,472.20",
+      "change": "+8.20",
+      "changePercent": "+0.56%",
       "direction": "up",
-      "updatedAt": "2026-05-08 22:06"
+      "updatedAt": "2026-05-11 10:25"
     },
     {
       "label": "100엔/원",
-      "value": "934.06",
-      "change": "+4.69",
-      "changePercent": "+0.50%",
+      "value": "938.04",
+      "change": "+3.98",
+      "changePercent": "+0.43%",
       "direction": "up",
-      "updatedAt": "2026-05-08 22:06"
+      "updatedAt": "2026-05-11 10:25"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "약한 이슬비",
-        "temperature": "13.9°C",
-        "feelsLike": "13.4°C",
-        "highLow": "최고 19.8° / 최저 9.8°",
-        "humidity": "78%",
-        "wind": "3.6 m/s",
-        "rainChance": "93%",
-        "pm10": "20.2 μg/m³",
-        "pm25": "19.1 μg/m³",
+        "temperature": "17.1°C",
+        "feelsLike": "17.5°C",
+        "highLow": "최고 19.8° / 최저 9.7°",
+        "humidity": "73%",
+        "wind": "2.0 m/s",
+        "rainChance": "76%",
+        "pm10": "16.8 μg/m³",
+        "pm25": "14.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-05-11 08:30"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-05-11 10:15"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "14.5°C",
-        "feelsLike": "14.0°C",
-        "highLow": "최고 18.7° / 최저 9.9°",
-        "humidity": "84%",
-        "wind": "7.6 m/s",
-        "rainChance": "95%",
-        "pm10": "20.2 μg/m³",
-        "pm25": "19.1 μg/m³",
+        "temperature": "17.3°C",
+        "feelsLike": "17.4°C",
+        "highLow": "최고 18.6° / 최저 9.9°",
+        "humidity": "80%",
+        "wind": "8.4 m/s",
+        "rainChance": "73%",
+        "pm10": "16.8 μg/m³",
+        "pm25": "14.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-05-11 08:30"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-05-11 10:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "14.1°C",
-        "feelsLike": "13.2°C",
-        "highLow": "최고 18.5° / 최저 8.6°",
-        "humidity": "83%",
-        "wind": "8.7 m/s",
-        "rainChance": "88%",
-        "pm10": "20.2 μg/m³",
-        "pm25": "19.1 μg/m³",
+        "temperature": "16.5°C",
+        "feelsLike": "15.7°C",
+        "highLow": "최고 18.4° / 최저 8.6°",
+        "humidity": "78%",
+        "wind": "11.4 m/s",
+        "rainChance": "65%",
+        "pm10": "16.8 μg/m³",
+        "pm25": "14.6 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "34",
-        "updatedAt": "2026-05-11 08:30"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-05-11 10:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "17.7°C",
-        "feelsLike": "17.6°C",
-        "highLow": "최고 24.2° / 최저 9.9°",
-        "humidity": "80%",
-        "wind": "10.5 m/s",
-        "rainChance": "45%",
-        "pm10": "16.2 μg/m³",
-        "pm25": "14.5 μg/m³",
+        "temperature": "22.0°C",
+        "feelsLike": "22.3°C",
+        "highLow": "최고 24.1° / 최저 9.9°",
+        "humidity": "68%",
+        "wind": "15.5 m/s",
+        "rainChance": "73%",
+        "pm10": "13.6 μg/m³",
+        "pm25": "11.7 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "42",
-        "updatedAt": "2026-05-11 08:30"
+        "airQualityIndex": "50",
+        "updatedAt": "2026-05-11 10:15"
       }
     ]
   },
@@ -276,7 +276,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "동작구",
         "stationName": "주식회사 새서울글로벌",
         "address": "서울 동작구 시흥대로 616 (신대방동)",
-        "updatedAt": "2026-05-10 23:57:29",
+        "updatedAt": "2026-05-11 07:59:52",
         "districtSamples": [
           {
             "district": "동작구",
@@ -288,7 +288,7 @@ window.DASHBOARD_DATA = {
           },
           {
             "district": "금천구",
-            "price": "1,979원/L"
+            "price": "1,983원/L"
           },
           {
             "district": "관악구",
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)자연에너지 금곡주유소",
-        "address": "인천 서구 봉수대로 1491 (금곡동)",
-        "updatedAt": "2026-05-10 18:00:34",
+        "stationName": "부광셀프주유소",
+        "address": "인천 서구 봉수대로 1623",
+        "updatedAt": "2026-05-05 07:39:03",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "한울에너지(주)마송주유소",
-        "address": "경기 김포시 통진읍 김포대로 2397",
-        "updatedAt": "2026-05-10 22:08:09",
+        "stationName": "(주)유카스에너지 김포뉴타운",
+        "address": "경기 김포시 양촌읍 김포대로 1581",
+        "updatedAt": "2026-05-07 10:47:32",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[전국 주요 신문 톱뉴스](11일 조간)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53TEFGWUlfX3dmOUVtVUx3VUhONGhZZ0JFeWlKR3NmQnBXMXVzc3FleUs0d1huT1RvS2ZtdFpnYTc2UW9TX1luV2VKNElVYUplZjdJTDVwSmR0QzjSAWBBVV95cUxNQTJHRHhTWmVpc0VnUWRUbi02c01BbHZZZFczeGV6cFVIZVJXMkEzUFFRR0ppQ3FORVRNX21laUkxQlk2aVNUenRUaTFITjhuRFBuRlgzdE5GT0cyamMza2Q?oc=5",
-      "publishedAt": "Sun, 10 May 2026 23:00:02 GMT"
+      "title": "장마철 대비 상습 침수구역 ‘일제정비’",
+      "source": "교차로저널",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qc1A0Qk1RYkUyQ2w5RVY2UW55bi15NmNoMjh3TG8tRzFCVmdOb3FrVEFoSDlJblJGdjBhZUxwMEhuVWRLNHJzRm9NdkFNRlRUeU01dFlnUmtzR3lHOG5UUTFaRm95WU9u?oc=5",
+      "publishedAt": "Mon, 11 May 2026 01:07:07 GMT"
     },
     {
-      "title": "[골프청사진] 왕 즈쉬엔(중국), 나이스 샷",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBua3VpVlg4QnZkcmNPVzBoZ2xrZTA4M1VQQ1U2OENTMzlYYlByS3E0LWU5QkhZUXR6UXpiQkt4aWsxcElka2tYb0NpNEN3UDgwOENfcGo4M2R3WFlUWDFtbG9NbTg0T1ZLU0E?oc=5",
-      "publishedAt": "Sun, 10 May 2026 23:08:10 GMT"
+      "title": "전세가 더 뛴다⋯서울 '전세 품귀'에 세입자 비명",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1paDVGQ2Z0bDBKZXhfYmk3VWRGMldLY181Rkw2VWZzQXJpb3BtbC1TdE5WcTNKQlNuSzU0RTdHSnlZY1hZR0ptYmRDSUk0Rm1WX0NPdExEY1UwQmdtMnc?oc=5",
+      "publishedAt": "Mon, 11 May 2026 01:04:06 GMT"
     },
     {
-      "title": "대한민국 국가 정상화 민주당 선대위 출범식",
+      "title": "트럼프 \"이란 답변 용납불가\"···李 \"'갭투자 허용' 주장은 억까\" 外 [오늘의 주요뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkSlBycUdlQ05uNDJWaGtsRlBlejlaWFprLVF5ZXRkNy1wb3d1N3V6TWFSWk1hZnRNUEY0Mml3Z2M0Smp4ZUI3NjNqOUlzZjdIMkhfcGxId3poMkpSMHAtZmpwcHhiVTBCRjZoQzIxVUdDY1VsNHIweA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 23:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Dc0Z0aDhscGRVLVZJTnVkVi1SSmpscE1kcVNBc2E5Q1djajRMVG1pVUt1ZWtVbk5KdGlDM3NiMGYxQnJHTHN4ZDh6eGNMd2pRVkg4?oc=5",
+      "publishedAt": "Mon, 11 May 2026 01:17:00 GMT"
     },
     {
-      "title": "주간 정치 뉴스: 개빈 뉴섬의 백악관 연회장 비용 의문, 스카라무치의 장기 개혁 촉구 등",
+      "title": "경북교육청, 핵심 교육시설 설계 적정성 점검",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxQVpCYkd3OW5MZnEzUTJlNEdXLUlCdEtyYllXWHRMN3czUHYwb19BQXU3TW1sYjMxTVloandJWTRnVlRrd3hCb2E2Y19xSmJfUmpPYVdZOE5ONzlJU2t3?oc=5",
+      "publishedAt": "Mon, 11 May 2026 01:00:55 GMT"
+    },
+    {
+      "title": "주간 암호화폐 뉴스: 비트코인의 ‘백만 달러’ 미래, 트럼프 가족의 10억 달러 투자 등",
       "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZ0U2MmN3c0NMQ3RXZjFveDRXZHVtVGxRS3BSMlBhUjVtM1pEanA3eUF0bEsydEF2NlpFaFdnX210WlZ3NlV5UWc0TktSUjhud0l4emZQV0dFN2NYdzROSmk3ZFpROWV6dnRtOW4xQjZ1c2VZX0N0ZUhoUGMtSGFMOFo4MGpscWs4ODZCNndGMi1zTVNCT0dVT1lNQTZId0pSQ3lJY2U4SWllQlBBNGE0akhKaURZNXh5WllkX3hQOWlJM3lUV1ByenlmdDFodE8zOXhRX2R4UDgtUVFPZjY4UTlhNVJIRXpTTl9CM0RKdkVqMnZqd0ZhTWZNaEw1NG9mMy0tWEdqNXNCa014QmVQMy1oRkdkem56UWZ5c2w4WHRlSThKWE93M0xiYXNwM1Z2NW9GRE9ZLWtrNUlUZjMtQm0tS29lODBqTzVGRTJxNGV6X1hEUXQ5SzRjYW5lVVhpcEE?oc=5",
-      "publishedAt": "Sun, 10 May 2026 23:03:45 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPZmFNQU04WTg1ZHA3d0x2X2xqYWFCVF9mc3dONEpZV2tVeXEtWktiY0JPSk5xOXYyOGRtOHZNeHE1MkR0by1oTDJDTVBMV19NTjR0dVBSTURrWWZxRHpBMkVKM2RfdEhnTFVHeWYwbmtrVG84alp1REEzWGxXODdnYmwwM2FRM3BuZEZEYmlON3JWOU9OdDNBZWt1a0J4Q1o3ZmVqbmJ2V2UwNXFfME5mSmxzckMtSW0zN3dlMmtWZkZuSFVOTkZjc2Y1NVpDZlJReDloRkN5akxHRWR3Y2NuLThtODE2S1JQS3VlUllwRzdyZEk4YnJHQUxqQmpSOE5WLWtha3dkbDBYMi1NMWxDT2dUWHNsV1Btc3lseEF1bmdvSXBjWGlfbWRDSXBLYkFqcDl1bE1mSmhTTWxDLVZQaGZnNTNFTmtVV1hQcjB6WGJmOS14Y3c0djZnblNMYy1Fcy0zbWlfcjV1dmk5ckh4R2RiUF85aEhLR2hBdk9TZjR2dWxlakY3a2dVMA?oc=5",
+      "publishedAt": "Mon, 11 May 2026 00:45:54 GMT"
     },
     {
-      "title": "美·이란 협상 교착에도 고용지표 호조…뉴욕증시 상승 마감[뉴스새벽배송]",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUhTaGhxYV80ckdqMmZGM2JyRllYZzhpOE5Zek4zdHlaS1FiOTZuV29jVHlSY2REWlRhSGFFeXNZekFfeFBtSDdHT3c0amdtX1lqdXdUemRFd2dnZ2lNVncxMUZaVUduY3plejczUy1ZRFBGWFFMY05YWXBGTFVxbA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 23:00:16 GMT"
-    },
-    {
-      "title": "5월 11일 굿모닝 MBN 이 시각 주요뉴스",
+      "title": "휴젤, 전국 학술 프로그램 개최…국내 시장 리더십 강화\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KYjZOemVYSVh3MTEtT2czczh6MXpXdEJxcUV2OFBlbDRGT3RBd09UaWpNa1hib0dTeThPZXA5cXFCcmxiaVBUdnV6eE9RQ084WW1F?oc=5",
-      "publishedAt": "Sun, 10 May 2026 22:49:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OSjFOV3ZtVHVYalVCWlJ1VW5xVXllQ3c5RXQxN3A3LWs2bjRxS2V4NXpfbm9XNzJwTzFwRUNFVzZnV2I0d3A3QXhlbUVZZW4yNDRkYnQ5bXFHTUNlOTRTRDItVDlwa24xTTg1Wjk4N29mNjR4UjBNZQ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 01:21:00 GMT"
     },
     {
-      "title": "전남광주 통합특별시 7월 출범 준비 박차",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11aUVQR3Vsb2xmMS1LVGdSanJLUGxMSzV1cUJZQ0Y2aDlyakU5R25scDN1UUNUS0o1SmdDRFV4UWlXZTk2VlJKUmtBem5ZTDlMMmotY1psN0pveHdvUXdxWG82ME5mS1ZuSFpYbWdTdC1jeV9fam5fZA?oc=5",
-      "publishedAt": "Sun, 10 May 2026 23:12:00 GMT"
+      "title": "주간 애플 뉴스: 폴더블폰 계획, ‘황금 경로’ 전망, 미국 내 칩 생산 검토 등",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPbzdRbnZLWUxpX1NMUXQyX1QxTjYzMFZWQ1ZaaTZOTGstalc2RkFPb1MwVW5ZSml3eDg2OVlDU0F5eE9qeWx4WjQzNmUyaXdYT184SElROGRXdXlCWTMwREdqODFCVGpiX2lxUVJOZ0xxZ0FJT1VNQzlPcDV4cnRRWEZGOWkxNXlIYUt1YnMxVGJwc3N1bXZyOUJzanpFUE15LUNYMThtZ09GbzUzcllaM1B3dElZVU9rOGY2VF9SSHpTY21mbXQ4eU5EODd6RnVzLUdRVks2S3FCbnk0ZDhZdVhmUzFmb2VVMnNzcmRfOXo5MVNDYXI5VDA1TTJOZFY5UVZka1dCU010ZTRhY21TQTk1WTI0LUNxaVJ4eE56bXVkLWlPTFl0TWkwa3MyTUVYZ3lya2k5Y2lpdkpLUVhweEtDQnJ1NmVVVWVMRDV3?oc=5",
+      "publishedAt": "Mon, 11 May 2026 00:55:56 GMT"
     },
     {
-      "title": "\"먹거리 안전 지킨다\" 부산시, 식품안전의 날 기념식 개최",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ga2hYZHpDSWFieXNhYnNOZl82Y0c4by0zc3J2RjI4SU9TcTJwVWRtQ182RWYtMWVIMGZvYTdVMFJrbkhTOThRYXRUSHNZYTVsM18w?oc=5",
-      "publishedAt": "Sun, 10 May 2026 23:32:00 GMT"
+      "title": "[단독] 루이비통, 아르노 회장 방한 맞춰 12일 가격 인상",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WM2NqZEZTS0RzSWE2YXZrX21lZndzZzh4SjdpYmVVWkEzQkg2VnNvZ3NKeGxSVzJWYTBsdHh2anFMUkpMN2tPWi1ROGp2NHZLeWRBUEgzc1c4QVg3bGY0?oc=5",
+      "publishedAt": "Mon, 11 May 2026 00:33:57 GMT"
     },
     {
-      "title": "뉴욕증시, 미국 물가지표와 미·중 정상회담 주목 [뉴욕인사이트]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrdEtYZFlOWnU0VHZXR01tTUtOSE50UGJ3cVI3MXBRX2JNT1VhdzFLSEpPaWJMcmpjLTFhNFVtcFU1dDJCMnQ0LTZuTUJicDIzWGJB?oc=5",
-      "publishedAt": "Sun, 10 May 2026 23:28:00 GMT"
+      "title": "주간 기술 뉴스: 팔란티어·디즈니 호실적 발표, 삼성전자의 시총 1조 달러 클럽 합류 등",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcUtNdzlabmt3aUpIeGp0Nk1wcFQ4R0F1dGF0S09tWHhXUWNqVkdnSVlDTnJnN2RXVV9WRjROOVozZHJ0NE50N1pBWFV5UkJ6bWVuTk9mOERRblJ4dkFMY0k0OThLNzRkZEJDek85c1NueEE5ckNMM0tqZlpGYnNyVmNEcDU5Z0V2M3p3R3U5d1R0STVtREhMWjZTeHRBLVJsUU9LMXYxX2lKV3Jnd0F2SW1JSWx5cGJMTGMtRE53MTRKLXdjZERVS1VSWGNwRTlhWmtnUnhuSXhlUUtUcmw5X0w1QWViN3MxeEl6VXZBOXNhSUkzSzJsVG9MTVVLeUFVYWZXNFlNNmpKNWUxYzh4QXc2ODdVQ0sxcTBTdkl0X3ZfQkRrV0VvMGdTcEFxZHJVYWtLT19lRFVCamZyVXlhUXAzMXl5aDU5VXpyeVZBMTY4Tk0?oc=5",
+      "publishedAt": "Mon, 11 May 2026 00:45:54 GMT"
     },
     {
-      "title": "'코스트코 입점'…순천시 골목상권 보호되나",
+      "title": "[속보]국내증시 시가총액 사상 처음으로 7000조 돌파",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90YTRVWEJYTzJnRWdKOXNpRjNZclBzR1cyekxHd3pscXdqTkJLdFVicVI5RWVERzQyTUpaR0hlZGdabkJFTHg0MVJqbWFweVp5LTNueEJSM2FkQTNPdjRrOVdZemhHM3BMZG9MejZFc2JySWxBR2VYUw?oc=5",
-      "publishedAt": "Sun, 10 May 2026 23:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlME5YVGl6YThiMk1Vd0trdlBSLVhHVEdJNEs4T0JIY1c1d0tqQ1FuWDZoSnVYbkhuVU91bDQtVy1zWWk2VG5ObmttZVJ3Ylc2dHIw?oc=5",
+      "publishedAt": "Mon, 11 May 2026 01:16:00 GMT"
     }
   ],
   "sources": [
