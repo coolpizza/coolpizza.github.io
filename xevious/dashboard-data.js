@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-12T06:44:19.023531+09:00",
+  "generatedAt": "2026-05-12T07:41:11.775288+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "이슬비",
-        "temperature": "14.2°C",
-        "feelsLike": "15.1°C",
+        "temperature": "14.6°C",
+        "feelsLike": "15.6°C",
         "highLow": "최고 20.9° / 최저 14.0°",
         "humidity": "97%",
-        "wind": "1.9 m/s",
+        "wind": "2.1 m/s",
         "rainChance": "83%",
-        "pm10": "17.9 μg/m³",
-        "pm25": "16.8 μg/m³",
+        "pm10": "18.8 μg/m³",
+        "pm25": "17.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-05-12 06:30"
+        "updatedAt": "2026-05-12 07:30"
       },
       {
         "location": "김포",
         "summary": "약한 이슬비",
-        "temperature": "14.2°C",
-        "feelsLike": "14.6°C",
+        "temperature": "14.7°C",
+        "feelsLike": "15.2°C",
         "highLow": "최고 18.8° / 최저 14.0°",
         "humidity": "98%",
-        "wind": "5.5 m/s",
+        "wind": "6.2 m/s",
         "rainChance": "87%",
-        "pm10": "17.9 μg/m³",
-        "pm25": "16.8 μg/m³",
+        "pm10": "18.8 μg/m³",
+        "pm25": "17.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-05-12 06:30"
+        "updatedAt": "2026-05-12 07:30"
       },
       {
         "location": "파주",
         "summary": "약한 이슬비",
-        "temperature": "14.3°C",
-        "feelsLike": "14.8°C",
+        "temperature": "14.7°C",
+        "feelsLike": "15.0°C",
         "highLow": "최고 19.7° / 최저 14.1°",
         "humidity": "98%",
-        "wind": "6.0 m/s",
+        "wind": "7.6 m/s",
         "rainChance": "76%",
-        "pm10": "17.9 μg/m³",
-        "pm25": "16.8 μg/m³",
+        "pm10": "18.8 μg/m³",
+        "pm25": "17.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "36",
-        "updatedAt": "2026-05-12 06:30"
+        "updatedAt": "2026-05-12 07:30"
       },
       {
         "location": "익산",
         "summary": "강한 비",
-        "temperature": "14.6°C",
-        "feelsLike": "15.6°C",
+        "temperature": "14.7°C",
+        "feelsLike": "15.8°C",
         "highLow": "최고 21.4° / 최저 14.5°",
         "humidity": "97%",
-        "wind": "2.8 m/s",
+        "wind": "2.5 m/s",
         "rainChance": "80%",
-        "pm10": "11.6 μg/m³",
-        "pm25": "10.2 μg/m³",
+        "pm10": "12.4 μg/m³",
+        "pm25": "10.7 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "31",
-        "updatedAt": "2026-05-12 06:30"
+        "airQualityIndex": "32",
+        "updatedAt": "2026-05-12 07:30"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "부광셀프주유소",
-        "address": "인천 서구 봉수대로 1623",
-        "updatedAt": "2026-05-05 07:39:03",
+        "stationName": "금광주유소",
+        "address": "인천 서구 중봉대로 1593 (금곡동)",
+        "updatedAt": "2026-05-11 11:18:16",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜디오티디 김포달님이주유소",
-        "address": "경기 김포시 김포대로 1467",
-        "updatedAt": "2026-05-11 22:57:17",
+        "stationName": "(주)무진에너지 서김포IC주유소",
+        "address": "경기 김포시 양촌면 김포대로 1634",
+        "updatedAt": "2026-05-11 11:27:14",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "5월 12일 여수시 주요일정",
-      "source": "남해안신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43ajh6aUxCTjQ0V1lTWHRrWkwzUmNLSjBoUWhaM2RXSzJ5czZ4WURXMzJsWTc3bGw2RkxGazNSMmZCbzhJcDU0SHFmWldtY3M2RFBYeUhVQkJqNHpJOU9jWkJWdnA3REZH?oc=5",
-      "publishedAt": "Mon, 11 May 2026 21:15:24 GMT"
+      "title": "[AI기자의 News Briefing] 5월12일 오늘의 주요 뉴스를 전해 드립니다.",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVY0ZYYTRMQ0EzbWZQTWhZVGJyQV9tWExnOHAzc0wxa1h4Y01sQnlsZ0w2TF9ybjNrVmZ1VWlad1FTZnBETkNFVXhXRjk3a1c3SzhTZjFxSTlaaU4wVTA5ZHYzMlcxQ2pieHc?oc=5",
+      "publishedAt": "Mon, 11 May 2026 22:27:24 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(11일) 주요공시]",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KY1pRYjA1YVQwME5ZT1ZWRDktVms2bWtyM0dkWmoxcE5ValAxbjVGY0FsbmZnUTVJYWhXQ05UbkRndWlnSWhmZlZfcGxqeWhSMzRQdHl2OTRUNVHSAWBBVV95cUxNU1hzU25rWi05ZEJ1d1RUWGxTWmlLZnZQUTF4Ny1QM3FEVlZyS2JBVFh6dFVvUVZBT29NS1M4TTBTZDFNaTJsNEpXVEZQSW5UblU5YWRHMmtXYW5pbldjVlg?oc=5",
-      "publishedAt": "Mon, 11 May 2026 21:05:00 GMT"
+      "title": "5월 12일 굿모닝 MBN 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LQTdsNVBIRS1ZT3pPNGNULWg1Sl9OamlnTDdQa3BkVWRBbGZ3SnF1UUdrbFBwbkU5djRGMnZ4eHhfUEg2MWEwYWRDQzdVRnlPVnRF?oc=5",
+      "publishedAt": "Mon, 11 May 2026 22:09:00 GMT"
     },
     {
-      "title": "[26년 5월 12일(화)] “코스피, 연내 1만1600 간다…반도체 정점은 8월 전망” - 비티의 오늘 주요 뉴스 요약",
+      "title": "KB증권 \"더블유씨피, 실적 턴어라운드 전망…목표가 20%↑\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4NlVPZkZ1VXB5Nzh2cXFrU25DMVlHbEUxVGZmNFRyb1dXVjVOX21HWDkwU25rZDd5Y2lVUzkzMGhERk9NMFhvTndZZlVNTEZSc1NaejdwbUNIMmV2N1BGOHd5TDhGX29KOFVCbk8yNTNKSV9aaS04Zg?oc=5",
+      "publishedAt": "Mon, 11 May 2026 22:35:00 GMT"
+    },
+    {
+      "title": "소강상태지만 오후까지 비…일부 지역 최대 70mm",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41eHBPaEhCWlExZWVsLUhmZlZ2WTZEOF81NUF4MkVGdTAzeGdwZnhzcUdDOGRZTzF5YWk0MzR5ZEVuNGpzVTdPb0lqR2t4Q3RlRVhV?oc=5",
+      "publishedAt": "Mon, 11 May 2026 22:27:00 GMT"
+    },
+    {
+      "title": "한·미 국방장관, 전작권 전환·동맹 현대화 논의",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBYl9Gb3VOLWFRR3FfZjYtVU5CVmxVN1NuTkJvdFdwWGFqUE90QVpjaHFjbEhXenlhQm92b3A4eXAyZ1B5TDJNVzlPd3owczBoWUpZ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 22:31:00 GMT"
+    },
+    {
+      "title": "\"중동뉴스와 괴리\" 美 S&P500 사상 첫 7400대 마감",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jaHo0WGFTVE0zMEZwSjRaeEFsVjNGSWxKT0k1MVVQcE1iTjBrUEo1VThocUdMMUwwRVl6YWwxejNYcnBianBFa21nWFllZ0ZBQzI3VjVoUGJHQnpEeWxPRXZXckNkVTJSU3VzYnpoZW9xb1lyOEZnNw?oc=5",
+      "publishedAt": "Mon, 11 May 2026 22:04:00 GMT"
+    },
+    {
+      "title": "소프트뱅크 프랑스에 최대 1천억 달러 투자 검토-AI인프라에 수십억달러 프로젝트도",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13X091aHZ2TTc4YTlUb0FkcV9uZ3RZS18zWDlhQkZwZFVLaHFLRHZiLW9GeFA1SmRzalhDZTVTYmotQ3JxLXFfbXNobk5JRzI1bndmOG5PSU40Q3pGZGc?oc=5",
+      "publishedAt": "Mon, 11 May 2026 22:12:55 GMT"
+    },
+    {
+      "title": "[종목 주요지표&DATA] 26년 3월 초고압(중대형)변압기 수출액 추이",
       "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeUwzNFRvcjBRWWhXR3Qyc3pTM1FvUExKTUk2YjVYd2RNTGlKYzZZVkxDVjZ6SVM3dTRzVXd2bjdWcXEta3hWQ0RrdDQ2QTB3S1BzcjU2MWZjUUhjYjUyZUdvWkl3XzlwZ1pUTTF1WW5UY21DNTVqaGV3NXdQMnBTUQ?oc=5",
-      "publishedAt": "Mon, 11 May 2026 21:33:29 GMT"
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2Q5c0REdGdlS21WbEhQM2RJb0pWS09Sb3htUTZPZ3FVQ2NwTGhsQzFfOGk2aFoydWFLVHdUWmRvd0FIU283NTByVTFWc0tvYmVxOElGM19hSy01WmZucFk4LTM2c0lIbENsYzY4R3A4SHBfY2NaM3dSdUhZUmpXWDk5ZVhpQQ?oc=5",
+      "publishedAt": "Mon, 11 May 2026 22:20:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 경기(12일, 화)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUHpGWWMydVB1U0lubWl3RldyWEc1XzF4SXY3U1NWbFVrV21xNDJPMWJkWWx5emxkZ2FPNXpKc0RpaFREMU5FODd1RUlZRHQzZTc1TWJB?oc=5",
-      "publishedAt": "Mon, 11 May 2026 21:00:00 GMT"
-    },
-    {
-      "title": "[모닝와이드] 오늘의 주요뉴스",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2ZjdvT2FBa0lWTDY2TEpXNmR3d0JOYUZMbGlUd29RSkg5Z21PdURFYmxCRlhmdHNQY1Y3QVY3UF9WVDkxdGh3RFVWbm5ObVBHQ1AwNWdyOVpkMWNtc2hrRVJpVW5SMWZ3c1HSAWZBVV95cUxPTmg1bmc3R1RmOTJzYVIxcWRzWUFrTkJlbmpwZ3RUdkFpTU11TkFIcF9pOEtpcy1VcjdoVFN1MDlQMWZPaVB6Z3dDYndrVFFURHRoWFJ6VE0zbEd2Z1RJQllQc2s0ZWc?oc=5",
-      "publishedAt": "Mon, 11 May 2026 21:08:00 GMT"
-    },
-    {
-      "title": "트럼프 \"휴전 간신히 유지‥'해방 프로젝트' 재개 검토\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnlIZ3FpeU1OcXIxVDJ3U2l4c2VzREdTNG9BYXBhN0FUSzUwbWo4dlZPZVpfYlVEcmZmenh1d0ZpaVljNGpmTlpvOFRWUGFKTVJfM2Q4Y3IwYW1EMlhnMG5rZGN2NjZKVHRvTDVUQkR6d205N2lnYl9tNFVTRHZETl9SckxGQjd2RkVyLXF4WEJ6Qkx2U0lFekN6SGN2a2Z4endUcTBUbWZWWWZabHJFdlFZWmhlMWxIc1RHTGFQYlNlQdIBekFVX3lxTE9kSzFuMHpkcl9QaHg0Wk1kcFZ1WkNSUWhROUFtZnphbTIxenVsX0JhRzdpTWVNZ1dJdWZLUEZfYXBHTFhtMXNKTUs0SkhDQnJwTTZlOUNxdzdHajlWYk9ETnh1V0VlUDNwVFZQaVQ3YzhuaVU0bjI1TjJR?oc=5",
-      "publishedAt": "Mon, 11 May 2026 21:04:28 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정]충북(5월12일 화요일)",
-      "source": "파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3YXR2T1JiempULTZjdkUyTGRITFBwR0NvdEFKYjllRDBqX2t0OTYyUzJNU3lveV9NOUFXYzdac0U2T0lnMlVxRUxYbUdTX1cxVk1heGRxVjlvUdIBXkFVX3lxTE80LUdfRHBsRjZwSk1ia3Zhc3NGSlNyQjM1WXBwZmRMZ3ZxcElhcGlTbjVhc2xwbTBvSFlqaFBnYUhwS1JDYWJWUE5JZVQtX2hMRC0tay1tbXVuVVBfcFE?oc=5",
-      "publishedAt": "Mon, 11 May 2026 21:01:35 GMT"
-    },
-    {
-      "title": "\"코웨이, 국내외 고른 성장…실적 대비 저평가\" [줌인e종목]",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TUHc2dWRNaWlEZ0NaVWtTa1dBR3lrSjlpM0l5bzlaX1BhVHBFNmxyZUFkS0JqczJ0X3FYS0k4eFpSMlVYSk82VnZ1aGFlM1hndnV4NzBXSnpaNUNuQUw1bXJYQVM?oc=5",
-      "publishedAt": "Mon, 11 May 2026 21:30:00 GMT"
-    },
-    {
-      "title": "흔들리는 트럼프 관세 전략…500조 대미 투자 이대로 GO?",
+      "title": "[오늘의 IR] 현대자동차·한화솔루션·HEM파마 등",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWMC1feHkwYUdCZVZoRExtQjVvQjQ5UUVrS2NqTTUxcFBlSkJUQURqcThvSlNxbmppbFhQWTR5NFQ1Y0xPV2hQT0Y2R0RmN2NhUjU1VHgtU1ozQkJzTHJOTlF4UHVjN0pIcnZJbE5kVTVILV9RNmR4ZA?oc=5",
-      "publishedAt": "Mon, 11 May 2026 21:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SSWtHTTNkYWlPRmxtRlVEZjM1SnFGVnpEOVZHZVdtMEdLUV80V1ExNmJNeFJIZVB0aTN4TFNZMHlIeFlZeldoUVVfUnJyMTR2N1k0?oc=5",
+      "publishedAt": "Mon, 11 May 2026 22:01:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 경기(12일, 화)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByZjJnWG1qdnV6VHAyWDhhNDJqY01GcUc5aVFTSlVaOGpzNXBIZkhNVThzWVhvemEtaEFQdFV1RDVmdEpNWFJFdmRyWkVBVzA4b1pF?oc=5",
-      "publishedAt": "Mon, 11 May 2026 21:01:00 GMT"
+      "title": "국제유가, 미국과 이란간 종전협상 좌초 위기감 등 영향 상승세 지속-WTI 장중 100달러 돌파",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2MlRQQ0hvVjJSREpMcnlfLXRPZm02aVpFalRfTWhmZjN3aDEtS1I4MlhYOE5iQkN5VWQtc3NvTTRtdV9oVEUxU2gwY0k5Nm9nVWFaWHFwNWI4aWU5N0E?oc=5",
+      "publishedAt": "Mon, 11 May 2026 22:09:32 GMT"
     }
   ],
   "sources": [
