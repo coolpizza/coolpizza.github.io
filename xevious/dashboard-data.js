@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-13T01:59:28.078855+09:00",
+  "generatedAt": "2026-05-13T03:52:55.753633+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,575.30",
-      "change": "-129.17",
-      "changePercent": "-0.26%",
-      "direction": "down",
-      "updatedAt": "2026-05-13 01:41"
+      "value": "49,756.12",
+      "change": "+51.65",
+      "changePercent": "+0.10%",
+      "direction": "up",
+      "updatedAt": "2026-05-13 03:36"
     },
     {
       "label": "S&P 500",
-      "value": "7,341.12",
-      "change": "-71.72",
-      "changePercent": "-0.97%",
+      "value": "7,382.77",
+      "change": "-30.07",
+      "changePercent": "-0.41%",
       "direction": "down",
-      "updatedAt": "2026-05-13 01:46"
+      "updatedAt": "2026-05-13 03:41"
     },
     {
       "label": "나스닥",
-      "value": "25,785.99",
-      "change": "-488.14",
-      "changePercent": "-1.86%",
+      "value": "25,958.52",
+      "change": "-315.61",
+      "changePercent": "-1.20%",
       "direction": "down",
-      "updatedAt": "2026-05-13 01:41"
+      "updatedAt": "2026-05-13 03:36"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,493.60",
-      "change": "+18.60",
-      "changePercent": "+1.26%",
+      "value": "1,493.10",
+      "change": "+18.10",
+      "changePercent": "+1.23%",
       "direction": "up",
-      "updatedAt": "2026-05-12 22:03"
+      "updatedAt": "2026-05-12 22:06"
     },
     {
       "label": "100엔/원",
-      "value": "946.81",
-      "change": "+8.60",
-      "changePercent": "+0.92%",
+      "value": "947.19",
+      "change": "+8.98",
+      "changePercent": "+0.96%",
       "direction": "up",
-      "updatedAt": "2026-05-12 22:03"
+      "updatedAt": "2026-05-12 22:06"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.4°C",
-        "feelsLike": "14.0°C",
-        "highLow": "최고 20.9° / 최저 12.5°",
+        "temperature": "13.1°C",
+        "feelsLike": "13.5°C",
+        "highLow": "최고 21.8° / 최저 12.5°",
         "humidity": "99%",
-        "wind": "2.9 m/s",
+        "wind": "3.6 m/s",
         "rainChance": "2%",
-        "pm10": "61.7 μg/m³",
-        "pm25": "58.1 μg/m³",
+        "pm10": "64.3 μg/m³",
+        "pm25": "60.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-05-13 01:45"
+        "airQualityIndex": "69",
+        "updatedAt": "2026-05-13 03:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "13.2°C",
-        "highLow": "최고 17.5° / 최저 12.2°",
+        "temperature": "12.5°C",
+        "feelsLike": "12.4°C",
+        "highLow": "최고 17.7° / 최저 12.2°",
         "humidity": "99%",
-        "wind": "3.5 m/s",
+        "wind": "5.8 m/s",
         "rainChance": "4%",
-        "pm10": "61.7 μg/m³",
-        "pm25": "58.1 μg/m³",
+        "pm10": "64.3 μg/m³",
+        "pm25": "60.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-05-13 01:45"
+        "airQualityIndex": "69",
+        "updatedAt": "2026-05-13 03:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "13.3°C",
-        "feelsLike": "14.1°C",
-        "highLow": "최고 19.2° / 최저 12.6°",
+        "temperature": "12.9°C",
+        "feelsLike": "13.2°C",
+        "highLow": "최고 19.1° / 최저 12.4°",
         "humidity": "99%",
-        "wind": "1.6 m/s",
+        "wind": "4.5 m/s",
         "rainChance": "2%",
-        "pm10": "61.7 μg/m³",
-        "pm25": "58.1 μg/m³",
+        "pm10": "64.3 μg/m³",
+        "pm25": "60.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-05-13 01:45"
+        "airQualityIndex": "69",
+        "updatedAt": "2026-05-13 03:45"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "13.1°C",
-        "feelsLike": "13.2°C",
-        "highLow": "최고 24.0° / 최저 12.9°",
+        "temperature": "12.9°C",
+        "feelsLike": "13.1°C",
+        "highLow": "최고 24.2° / 최저 12.7°",
         "humidity": "99%",
-        "wind": "6.1 m/s",
+        "wind": "4.8 m/s",
         "rainChance": "0%",
-        "pm10": "54.1 μg/m³",
-        "pm25": "52.7 μg/m³",
+        "pm10": "58.8 μg/m³",
+        "pm25": "57.4 μg/m³",
         "airQuality": "약간 나쁨",
-        "airQualityIndex": "43",
-        "updatedAt": "2026-05-13 01:45"
+        "airQualityIndex": "55",
+        "updatedAt": "2026-05-13 03:45"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)디오티디 인천랍스터주유소",
-        "address": "인천 서구 봉수대로 1543 (금곡동)",
-        "updatedAt": "2026-05-12 22:54:25",
+        "stationName": "㈜해탑에너지",
+        "address": "인천 서구 봉수대로 1630 (금곡동)",
+        "updatedAt": "2026-05-12 06:38:24",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "(주)유카스에너지 김포뉴타운",
-        "address": "경기 김포시 양촌읍 김포대로 1581",
-        "updatedAt": "2026-05-07 10:47:32",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-05-12 23:54:52",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "부산 백양터널서 차량 추돌사고…1명 다쳐",
+      "title": "[일지] 삼성전자 2026년 임금협상 사후조정 결렬",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uQW52azJ6Wms4WldRY1ZyLWxrVGJtREdHUFkwWW9TMFhMMjlseHo2WnEwV1V4TU9wLTBhcnNkUkVnckJ0NlV4eFBRSWVNYWRfdWVSWTNIMVh6VjTSAWBBVV95cUxNeWVseTJZRVNhcWk4TmYtTEtRUDRLTTROYS05Q2xNZW95dkg2SjJYdFUyTmRtUUNjTDVaWVRURlpKdHFON1V4RkRvYkpQcnQ0T0VPQXdyZ0ZXZUNxTlppdXA?oc=5",
+      "publishedAt": "Tue, 12 May 2026 18:12:36 GMT"
+    },
+    {
+      "title": "[속보] 중노위 \"삼성전자 사후조정 종료…노사합의해 요청시 추가 지원\"",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Kci1jbUdnTEJuX0NUbTlOaFh2Uk5vdFpPLWE4d3ZVdEZvbXczWUJ2U1ktYlhnTWJ4UTJ6UG1CRzc1UjgtY2psVWNqOS1tb1ZON09iblVSbWZNMV9fdUVrLQ?oc=5",
+      "publishedAt": "Tue, 12 May 2026 18:33:33 GMT"
+    },
+    {
+      "title": "트럼프 \"시진핑과 이란 관련해 긴 대화할 것…도움은 불필요\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PZnAxTExxZ1dHODNydFBCWDU4T2JVYlh4Q1czcFRfQWR1TFJ5V2N3NTRHSzZRWEduUEVrbU1TWnl2SDdla0lRajVQTE5odWo1cHYw?oc=5",
-      "publishedAt": "Tue, 12 May 2026 16:06:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wNFlzQWd2N1p4bjJiZ2RkVDkxeThaYm92SDJpZW1BMDYzdjhwM19YY01CUlJ5QUJQQk5RMkdYeXE5WHhvMW1Jc2hvcW9fc21yeUZkaGhZakQwNUotczY1bQ?oc=5",
+      "publishedAt": "Tue, 12 May 2026 18:31:00 GMT"
     },
     {
-      "title": "법원, 駐韓외국문화원 부가세 과세 정당",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTmJybW5jVGczR21vNmItalAtM3o4Z0pXajBZSUNKTV82R0NRZ0J4VVpLVjVqU2hOd2tNOWcyNDNrTDBPVE5tS3JVczRsSmZoTDBXaktLZ21hek1PX1dRYlp1amxxNEtLai0xNnlrRm5yMlZkRVBCdl9XS3BRT3Q5Yg?oc=5",
-      "publishedAt": "Tue, 12 May 2026 16:05:24 GMT"
-    },
-    {
-      "title": "디캠프-한국무라타전자, 일본 대기업과 협업할 딥테크 스타트업 모집",
+      "title": "[속보]삼성전자 노조, 중노위 조정안 거부…\"사후조정 결렬\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xMU5vZmhQcEVWdDdXN1ZKNXY5QU5PdW9QZFVDeWFTaU4ydTBBMnRlVmFCY1BZNW9mWW4xaWFHUjRQTE5lMVBmMTNyb2hfVzZGTDRzN2g1b1FWOG1pQWVNd2s5MVNRZmFsU2FHVW91N0xMaXlWbFVJOA?oc=5",
-      "publishedAt": "Tue, 12 May 2026 16:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LWEZzUnVFUjFYRjhQN2Vaem1WaGpZdjJNM3NZUTRBWEJ6SnRZVlBuaWhKYUtVQ0ppQjRidTdjcm5qTjgyZnBWQnJSRTZBOElCZExJaGo2TlJ6Y2xMYUlxdA?oc=5",
+      "publishedAt": "Tue, 12 May 2026 18:12:00 GMT"
     },
     {
-      "title": "후지필름 코리아, 하우스 오브 포토그래피 서울서 최랄라 작가 전시 선보여",
+      "title": "경륜·경정, \"과몰입 예방 캠페인 교육 시작\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QVnNfWmZfYWVqb3IyenFvdHVXQTltZUU3VlZILUJWMzRHMDlsdndBVzR2WVpzbXZTNjlfUm01SEg3UXBuT2hkVDExeEpRT0pPclNz?oc=5",
-      "publishedAt": "Tue, 12 May 2026 16:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5VUQ1T1gzMW5acmg1RExtRjUzNVhjVXVTMlgwMjZQTGp3cGt5d1FOSkNJZ051dEVZRHRYeDlTdHZlckNjVERCYmxVY0JqQ3EwRVRIRTlKRmlmLWU4S3p5Rw?oc=5",
+      "publishedAt": "Tue, 12 May 2026 18:32:00 GMT"
     },
     {
-      "title": "바비톡, 누적 앱 다운로드 1,000만 건 돌파",
+      "title": "정부 조정에도 삼성 노사 '최종 결렬'…연 40조 시스템 리스크 현실로",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wWnFDbVhYOWpJWW1Rdm4wUXMxR05DNW94YUpuX1huMVJPRWNqcVVtajMtX3RpNXRaeVZ3eDZWT2JJQ0VhM2x4cTFtai1uUHNvVU1CcG84WUZ1dWtEWEhyNDNVSUNuajM0Vl9NWGE4aC1JZjBaanltQg?oc=5",
-      "publishedAt": "Tue, 12 May 2026 16:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YREQ5UVUyRmxsNmpDdV9NMjFNVEMzYklybFNHRUdzWVBsWXVEaDZJaHlpUDd6SnQ5cThBQXhDclBFcE9LUURQbWdLcEZhSVc0OVZNaVBubm9lWmxHOHM5akhiZGo5ejlfMXRKX0I3ZXVLaGJhSGdlQQ?oc=5",
+      "publishedAt": "Tue, 12 May 2026 18:36:00 GMT"
     },
     {
-      "title": "[美특징주]벤처글로벌, 1Q 실적호조·연간 전망치 대폭 상향…주가 11% 급등",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWpwRjc4bGxPX1lmeUZyalZQWmVQY3dfaXpfSWFJc0xoWVhjdTQ0SWU3cWpveUExOURrZE9EY1ljbHRFNmVzZVI2RXllbDcyazI4dHVjbnVWamFVdktxY0dQTFB6NGt6SmJCdzIybHNqRXRXSUZhbnVtX2JKdF9Jbw?oc=5",
-      "publishedAt": "Tue, 12 May 2026 16:18:09 GMT"
-    },
-    {
-      "title": "이상일 용인시장 후보 \"반도체 40% 공정은 무지의 소치\" [6·3의 선택]",
+      "title": "삼성전자 노조, 사후조정 결렬 선언…\"조정안 오히려 퇴보\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14VlZ6VlU4aFpNaWFTeEZ5ZkprNFJtUHVxdEhEUW55RlRleUNYTEZoUkNxVlF5ZFhGN3J2c3p3X08ySnVOQ3lMeWtZOU8tdGhBc3NR?oc=5",
-      "publishedAt": "Tue, 12 May 2026 16:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsUy0wSW1vdWd6N256cl95ZUI0MWtYSy1uX203VGVKcjlWVDNLY2FKU0tkdzNfU1hmUGhCSkl2c2lzR0ctMzFqdWM3VUJ5ek11cmFz?oc=5",
+      "publishedAt": "Tue, 12 May 2026 18:13:00 GMT"
     },
     {
-      "title": "홍심(洪心)은 어디에, 월드컵 대표팀 누가 뽑히고 누가 떨어질까[월드컵 D-30]",
+      "title": "민주 \"국민의힘, '나무호' 관련 괴담…매국적 시도 맞설 것\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwemx3NU9YYjNOU2ZUVmNVTWVqSUNlTE45QUJGYjdEUmtGYWNIa0xsZnJTYWJXV1lfNVlvbVdITHRtQW9JODJLYXhCcWhrclZpWUdURTY5VXpZSjQ4dFBSWmpxc2JqRHdwcXc?oc=5",
-      "publishedAt": "Tue, 12 May 2026 16:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IZVpzTnpaY0JNNVYtTnlqY3pDX2VXSVBRSXFvNVB3dUwxSGlrYmpSV3UzX3VyRVV0dlJrUlZxRW11d3h2RXpsNndwcmRCQkZxR3VF?oc=5",
+      "publishedAt": "Tue, 12 May 2026 18:24:00 GMT"
     },
     {
-      "title": "베츠 귀환에도…살아남은 혜성",
+      "title": "파월 퇴임 D-3…워시 연준 이사 인준 통과, 의장 표결은 13일",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcElWVmZNbEU4NjQ0TDVmSV9kLWU2QmZYM2ZGUUFwN3EtcHRrZWN6N05oQXBCLVRELWREblZkSGJhU1l3cmdCU2hRVFFCTDN4V21KVjVLb2tMNjZHT1lqX3R3bDI5UnZmSmc3Z2YwQldhZXh5a2ZQLQ?oc=5",
-      "publishedAt": "Tue, 12 May 2026 16:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnUDVkZzVsSFlhNmdxbHpLcFQwVUJ1Q0pDRjlfN2d5UEhXRXB4ek5nOGl2d0VWLVhpQktCYVY5eTZ0Y3ZwanBIeHFiZUhUd0xzcmpZ?oc=5",
+      "publishedAt": "Tue, 12 May 2026 18:41:00 GMT"
     },
     {
-      "title": "Scuf Gaming은 PS5와 PC용 신형 Scuf Omega 컨트롤러를 219.99달러에 출시했습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVZXaDVDX0g4X01jN3lBWmcwNG9QdU9lWHdETm10ZXhKcEJaQi1xZzRMYWZhUEYweHBIYWFqVENpa2F4OVp4LVRZRHpKdF9aT1FQV0ZTa0JLMTRFb2lMYzhpZUN0aFhPdVZuaThRMjY0bk5OVVdZRWRTUXIwOTREdmpSSnZjVlN1OE01QThRbWZHNHRhbUtKZHg4b3dHcVFFLURPN3dkeTF1NmFVc20yV2pR?oc=5",
-      "publishedAt": "Tue, 12 May 2026 16:44:57 GMT"
+      "title": "\"10% 글로벌관세 일단 계속 부과\"…美항소법원, 1심 판결 효력 정지",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sM1BqenhEQnpUb09ramRWRXpTSjkwbE9uY3RTMmxrMWRwWm05MUVJVlBDeGJxTC1HQ3VTWVNURWRsMzhZQl9xaUR6cU1Oc1htOVhV?oc=5",
+      "publishedAt": "Tue, 12 May 2026 18:31:00 GMT"
     }
   ],
   "sources": [
