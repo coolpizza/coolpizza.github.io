@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-13T03:52:55.753633+09:00",
+  "generatedAt": "2026-05-13T05:26:17.956210+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,27 +22,27 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,756.12",
-      "change": "+51.65",
-      "changePercent": "+0.10%",
+      "value": "49,760.56",
+      "change": "+56.09",
+      "changePercent": "+0.11%",
       "direction": "up",
-      "updatedAt": "2026-05-13 03:36"
+      "updatedAt": "2026-05-13 05:05"
     },
     {
       "label": "S&P 500",
-      "value": "7,382.77",
-      "change": "-30.07",
-      "changePercent": "-0.41%",
+      "value": "7,400.96",
+      "change": "-11.88",
+      "changePercent": "-0.16%",
       "direction": "down",
-      "updatedAt": "2026-05-13 03:41"
+      "updatedAt": "2026-05-13 05:10"
     },
     {
       "label": "나스닥",
-      "value": "25,958.52",
-      "change": "-315.61",
-      "changePercent": "-1.20%",
+      "value": "26,088.20",
+      "change": "-185.93",
+      "changePercent": "-0.71%",
       "direction": "down",
-      "updatedAt": "2026-05-13 03:36"
+      "updatedAt": "2026-05-13 05:05"
     }
   ],
   "currencies": [
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.1°C",
-        "feelsLike": "13.5°C",
+        "temperature": "12.6°C",
+        "feelsLike": "12.9°C",
         "highLow": "최고 21.8° / 최저 12.5°",
         "humidity": "99%",
-        "wind": "3.6 m/s",
+        "wind": "3.2 m/s",
         "rainChance": "2%",
-        "pm10": "64.3 μg/m³",
-        "pm25": "60.5 μg/m³",
+        "pm10": "76.6 μg/m³",
+        "pm25": "71.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-13 03:45"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-05-13 05:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.5°C",
-        "feelsLike": "12.4°C",
+        "temperature": "12.3°C",
+        "feelsLike": "12.5°C",
         "highLow": "최고 17.7° / 최저 12.2°",
         "humidity": "99%",
-        "wind": "5.8 m/s",
+        "wind": "3.3 m/s",
         "rainChance": "4%",
-        "pm10": "64.3 μg/m³",
-        "pm25": "60.5 μg/m³",
+        "pm10": "76.6 μg/m³",
+        "pm25": "71.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-13 03:45"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-05-13 05:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.9°C",
-        "feelsLike": "13.2°C",
+        "temperature": "12.6°C",
+        "feelsLike": "12.8°C",
         "highLow": "최고 19.1° / 최저 12.4°",
         "humidity": "99%",
-        "wind": "4.5 m/s",
+        "wind": "3.7 m/s",
         "rainChance": "2%",
-        "pm10": "64.3 μg/m³",
-        "pm25": "60.5 μg/m³",
+        "pm10": "76.6 μg/m³",
+        "pm25": "71.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-13 03:45"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-05-13 05:15"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "12.9°C",
+        "temperature": "12.8°C",
         "feelsLike": "13.1°C",
         "highLow": "최고 24.2° / 최저 12.7°",
         "humidity": "99%",
-        "wind": "4.8 m/s",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "58.8 μg/m³",
-        "pm25": "57.4 μg/m³",
-        "airQuality": "약간 나쁨",
-        "airQualityIndex": "55",
-        "updatedAt": "2026-05-13 03:45"
+        "pm10": "64.5 μg/m³",
+        "pm25": "62.9 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "62",
+        "updatedAt": "2026-05-13 05:15"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "㈜해탑에너지",
-        "address": "인천 서구 봉수대로 1630 (금곡동)",
-        "updatedAt": "2026-05-12 06:38:24",
+        "stationName": "(주)디오티디 인천랍스터주유소",
+        "address": "인천 서구 봉수대로 1543 (금곡동)",
+        "updatedAt": "2026-05-12 22:54:25",
         "districtSamples": [
           {
             "district": "서구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "김포감정주유소",
-        "address": "경기 김포시 김포대로 1135",
-        "updatedAt": "2026-05-12 23:54:52",
+        "stationName": "미소2주유소",
+        "address": "경기도 김포시 양촌읍 양곡4로 64",
+        "updatedAt": "2026-05-12 10:43:03",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[일지] 삼성전자 2026년 임금협상 사후조정 결렬",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uQW52azJ6Wms4WldRY1ZyLWxrVGJtREdHUFkwWW9TMFhMMjlseHo2WnEwV1V4TU9wLTBhcnNkUkVnckJ0NlV4eFBRSWVNYWRfdWVSWTNIMVh6VjTSAWBBVV95cUxNeWVseTJZRVNhcWk4TmYtTEtRUDRLTTROYS05Q2xNZW95dkg2SjJYdFUyTmRtUUNjTDVaWVRURlpKdHFON1V4RkRvYkpQcnQ0T0VPQXdyZ0ZXZUNxTlppdXA?oc=5",
-      "publishedAt": "Tue, 12 May 2026 18:12:36 GMT"
+      "title": "[오늘의 주요일정] 정치·정부 (13일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84TGFkWklROVIxMnZjWkFJaEc0cnVXOGdaUFlLd2daTUlqWFN5UXV0Wjk4OTljQUVFM1pnVDNGUVBqZzBxakJZcnZDcm5XNGExQjIyMVc2LXUxdw?oc=5",
+      "publishedAt": "Tue, 12 May 2026 20:00:00 GMT"
     },
     {
-      "title": "[속보] 중노위 \"삼성전자 사후조정 종료…노사합의해 요청시 추가 지원\"",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Kci1jbUdnTEJuX0NUbTlOaFh2Uk5vdFpPLWE4d3ZVdEZvbXczWUJ2U1ktYlhnTWJ4UTJ6UG1CRzc1UjgtY2psVWNqOS1tb1ZON09iblVSbWZNMV9fdUVrLQ?oc=5",
-      "publishedAt": "Tue, 12 May 2026 18:33:33 GMT"
-    },
-    {
-      "title": "트럼프 \"시진핑과 이란 관련해 긴 대화할 것…도움은 불필요\"",
+      "title": "[오늘의 주요일정] 경기(13일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wNFlzQWd2N1p4bjJiZ2RkVDkxeThaYm92SDJpZW1BMDYzdjhwM19YY01CUlJ5QUJQQk5RMkdYeXE5WHhvMW1Jc2hvcW9fc21yeUZkaGhZakQwNUotczY1bQ?oc=5",
-      "publishedAt": "Tue, 12 May 2026 18:31:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54OWpkYkljelZxdEhpYzlzTW92WXF4S3VKRW1kcWtEZzYtQ3BsRHdUZG0zM25NVFpHTmY3b3JESVRzaTJMYXg1Z2JaQ25BbG92eFYw?oc=5",
+      "publishedAt": "Tue, 12 May 2026 20:01:00 GMT"
     },
     {
-      "title": "[속보]삼성전자 노조, 중노위 조정안 거부…\"사후조정 결렬\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LWEZzUnVFUjFYRjhQN2Vaem1WaGpZdjJNM3NZUTRBWEJ6SnRZVlBuaWhKYUtVQ0ppQjRidTdjcm5qTjgyZnBWQnJSRTZBOElCZExJaGo2TlJ6Y2xMYUlxdA?oc=5",
-      "publishedAt": "Tue, 12 May 2026 18:12:00 GMT"
+      "title": "[오늘의 주요 일정] 울산(13일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBORURuekFPWDdVczZldzNfbGNiY1R4dnphNnZIX2hPVHN5VXh4OWpuYl9CTTdzdjU0WUJRYjdRdFpIVEdDTDZKMTFpY0Q0bEtKZUE?oc=5",
+      "publishedAt": "Tue, 12 May 2026 20:00:00 GMT"
     },
     {
-      "title": "경륜·경정, \"과몰입 예방 캠페인 교육 시작\"",
+      "title": "미국서도 반도체주 매도…S&P·나스닥 숨고르기[뉴욕마감]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5VUQ1T1gzMW5acmg1RExtRjUzNVhjVXVTMlgwMjZQTGp3cGt5d1FOSkNJZ051dEVZRHRYeDlTdHZlckNjVERCYmxVY0JqQ3EwRVRIRTlKRmlmLWU4S3p5Rw?oc=5",
-      "publishedAt": "Tue, 12 May 2026 18:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQN1V6LTdIMFFTaHgweEFNRVpfdzQ5Q185b0hEckZvS2t0aXpVajFXSXVGZnk1NHdEQnBrc25qa1pIcWJ6bjNhS3FwWUw1dThYa295NUNKY2xyNEswNWF6ckZLZzduOXVIbUcyVXlmR0RxN2lYaFdDbA?oc=5",
+      "publishedAt": "Tue, 12 May 2026 20:19:00 GMT"
     },
     {
-      "title": "정부 조정에도 삼성 노사 '최종 결렬'…연 40조 시스템 리스크 현실로",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YREQ5UVUyRmxsNmpDdV9NMjFNVEMzYklybFNHRUdzWVBsWXVEaDZJaHlpUDd6SnQ5cThBQXhDclBFcE9LUURQbWdLcEZhSVc0OVZNaVBubm9lWmxHOHM5akhiZGo5ejlfMXRKX0I3ZXVLaGJhSGdlQQ?oc=5",
-      "publishedAt": "Tue, 12 May 2026 18:36:00 GMT"
+      "title": "[오늘의 주요일정] 전북(13일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oSHYtcVhBcXEtV1V6aUg3ampLYkNoamVaWTV3UlBnckdsNXg3QzNXWDhiVmFQTzd2Ym1ybWZSMUcxRmFKRHV0STJCTmptRkFOMWloeQ?oc=5",
+      "publishedAt": "Tue, 12 May 2026 20:00:00 GMT"
     },
     {
-      "title": "삼성전자 노조, 사후조정 결렬 선언…\"조정안 오히려 퇴보\"",
+      "title": "[오늘의 주요일정] 광주·전남 (13일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsUy0wSW1vdWd6N256cl95ZUI0MWtYSy1uX203VGVKcjlWVDNLY2FKU0tkdzNfU1hmUGhCSkl2c2lzR0ctMzFqdWM3VUJ5ek11cmFz?oc=5",
-      "publishedAt": "Tue, 12 May 2026 18:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vUG51Q0NLUGxQOXVfdzJLQ1JRdkh6RGtVbUlJX1FKbEhSNXlOclYtZFd3TFFhLW5VNEF6aW9hWnRLOU1BZWNkVXNiTENYdlBMMGdN?oc=5",
+      "publishedAt": "Tue, 12 May 2026 20:00:00 GMT"
     },
     {
-      "title": "민주 \"국민의힘, '나무호' 관련 괴담…매국적 시도 맞설 것\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IZVpzTnpaY0JNNVYtTnlqY3pDX2VXSVBRSXFvNVB3dUwxSGlrYmpSV3UzX3VyRVV0dlJrUlZxRW11d3h2RXpsNndwcmRCQkZxR3VF?oc=5",
-      "publishedAt": "Tue, 12 May 2026 18:24:00 GMT"
+      "title": "[오늘의 주요일정] 광주·전남 (13일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByZDhaVG1vbHJqTWctYUVwZi1vaHdsS0F4NndlcmVFLThmc2h0LXhzaGtaZjVGc0g4QXp2cW5oSC1POEFZTlVZMGlhSHRUR0pTRmc1MThYQmpQM0ltekZF?oc=5",
+      "publishedAt": "Tue, 12 May 2026 20:00:00 GMT"
     },
     {
-      "title": "파월 퇴임 D-3…워시 연준 이사 인준 통과, 의장 표결은 13일",
+      "title": "[오늘의 주요일정] 부산·경남(13일, 수)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnUDVkZzVsSFlhNmdxbHpLcFQwVUJ1Q0pDRjlfN2d5UEhXRXB4ek5nOGl2d0VWLVhpQktCYVY5eTZ0Y3ZwanBIeHFiZUhUd0xzcmpZ?oc=5",
-      "publishedAt": "Tue, 12 May 2026 18:41:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56X2lsaFgzTE02akNpdjRIWTA3VjdsQjlwc09leHEwa3BqVXdfSWF3ZTg2WmMzdExHdU10el9CcVRDTTJRV0RUMTQwc1Q4NWRESGpv?oc=5",
+      "publishedAt": "Tue, 12 May 2026 20:01:00 GMT"
     },
     {
-      "title": "\"10% 글로벌관세 일단 계속 부과\"…美항소법원, 1심 판결 효력 정지",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sM1BqenhEQnpUb09ramRWRXpTSjkwbE9uY3RTMmxrMWRwWm05MUVJVlBDeGJxTC1HQ3VTWVNURWRsMzhZQl9xaUR6cU1Oc1htOVhV?oc=5",
-      "publishedAt": "Tue, 12 May 2026 18:31:00 GMT"
+      "title": "[오늘의 주요일정] 부산·경남(13일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vaXFMN2hBZXRsWnhnSTB2ZmpiLUNXd0JNei1ITExMQll2aVdyS2hoOGxHU1VyT1VoaDktTWRBWFgzM1MxQU9VUnBrWUFpRVhWNV96UUdYS0tEanNuU1Jv?oc=5",
+      "publishedAt": "Tue, 12 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[오늘의 주요일정] 충북·세종(13일, 수)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OT3pTVTJuaTJiWHliRjVCLTRMdVBuMWpVbjhtX1l5T0o5VWdkVnNFZXh3QjU5NnFZQ2xPdFlaLTJ2QnpyMEhWNjV5bm9GNHhRMmNxLWVseVhOSmZORmY4?oc=5",
+      "publishedAt": "Tue, 12 May 2026 20:00:00 GMT"
     }
   ],
   "sources": [
