@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T05:56:44.969216+09:00",
+  "generatedAt": "2026-05-14T07:06:08.598130+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "약간 흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "13.1°C",
+        "temperature": "13.6°C",
+        "feelsLike": "14.3°C",
         "highLow": "최고 29.2° / 최저 12.8°",
-        "humidity": "98%",
-        "wind": "3.1 m/s",
+        "humidity": "97%",
+        "wind": "1.8 m/s",
         "rainChance": "0%",
-        "pm10": "76.8 μg/m³",
-        "pm25": "68.0 μg/m³",
+        "pm10": "75.9 μg/m³",
+        "pm25": "66.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "83",
-        "updatedAt": "2026-05-14 05:45"
+        "airQualityIndex": "82",
+        "updatedAt": "2026-05-14 07:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.1°C",
-        "feelsLike": "12.3°C",
+        "temperature": "12.5°C",
+        "feelsLike": "12.8°C",
         "highLow": "최고 27.8° / 최저 12.1°",
         "humidity": "99%",
-        "wind": "2.5 m/s",
+        "wind": "2.7 m/s",
         "rainChance": "8%",
-        "pm10": "76.8 μg/m³",
-        "pm25": "68.0 μg/m³",
+        "pm10": "75.9 μg/m³",
+        "pm25": "66.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "83",
-        "updatedAt": "2026-05-14 05:45"
+        "airQualityIndex": "82",
+        "updatedAt": "2026-05-14 07:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.4°C",
-        "feelsLike": "12.7°C",
+        "temperature": "13.0°C",
+        "feelsLike": "13.6°C",
         "highLow": "최고 28.7° / 최저 12.3°",
         "humidity": "99%",
-        "wind": "2.9 m/s",
+        "wind": "1.8 m/s",
         "rainChance": "2%",
-        "pm10": "76.8 μg/m³",
-        "pm25": "68.0 μg/m³",
+        "pm10": "75.9 μg/m³",
+        "pm25": "66.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "83",
-        "updatedAt": "2026-05-14 05:45"
+        "airQualityIndex": "82",
+        "updatedAt": "2026-05-14 07:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.3°C",
-        "feelsLike": "12.3°C",
+        "temperature": "13.1°C",
+        "feelsLike": "13.5°C",
         "highLow": "최고 29.0° / 최저 12.2°",
         "humidity": "99%",
-        "wind": "4.7 m/s",
+        "wind": "3.8 m/s",
         "rainChance": "48%",
-        "pm10": "103.4 μg/m³",
+        "pm10": "103.6 μg/m³",
         "pm25": "97.6 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "82",
-        "updatedAt": "2026-05-14 05:45"
+        "airQualityIndex": "85",
+        "updatedAt": "2026-05-14 07:00"
       }
     ]
   },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜유카스플러스 서울로주유소",
-        "address": "경기 김포시 양촌읍 김포대로 1749",
-        "updatedAt": "2026-05-14 00:53:04",
+        "stationName": "태리알뜰주유소",
+        "address": "경기 김포시 고촌읍 김포대로451번길 3",
+        "updatedAt": "2026-05-14 00:38:25",
         "districtSamples": [
           {
             "district": "김포시",
@@ -362,9 +362,9 @@
         "areaLabel": "파주 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "파주시",
-        "stationName": "헤이리주유소",
-        "address": "경기 파주시 탄현면 평화로 809",
-        "updatedAt": "2026-05-13 17:57:27",
+        "stationName": "파주경인주유소 ㈜티에이치에너지",
+        "address": "경기 파주시 조리읍 통일로 124",
+        "updatedAt": "2026-05-14 04:44:18",
         "districtSamples": [
           {
             "district": "파주시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (14일, 목)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSeVVZbFh2aVZaWm1aQlJESFpvSEJUUm1NMEFYYjJLUjdwQ3ducFNNal9FSVk5QzhXVmFuVlF5QUdxSDFYWDE5THdyTEd5aDRSbl9ieG9pYVpxdw?oc=5",
-      "publishedAt": "Wed, 13 May 2026 20:00:00 GMT"
+      "title": "2부 오늘의 주요뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zb05DUTA1eU9BdUoydVFSV0hlazhaY1JMMlViR3VlTXNJUFdyN3RJeXVwbUdvMDhqV1lYbGNoNVhteGNoLXU5bnZUd1NRRmMzUTIweVFCbjZaeUwwVEplLXRaS0d6UUZ1cnhTQVptalFfemxvaWs5Vmln0gF6QVVfeXFMTVNMMmhYTEU4LUNrNl9sMUNtZDVYN2pEX0FBOW1RaVlIVjJyNWhnVGFhUFBGSVlSTTBiZEJrSy1MVVBXTWpjRGNkSzAxQ2wwUHpHaUtHcjVMdUJPQ0NqSVRzbjdLUVE4SVp2UGpyMXJXS1hWU2NYU2NSd3c?oc=5",
+      "publishedAt": "Wed, 13 May 2026 21:26:56 GMT"
     },
     {
-      "title": "[월가 레이더] PPI 1.4% 폭등에도 S&P500 사상 최고⋯워시 연준 의장 인준",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fd1dPQ3NzVHB6ZWxSbkZKTXdvaXRNOFpHNE55czZXeXNqQkV1emdEWEc5UDZOSVFIMndvaEdDVHlWTERCTGItc0VjREs3U0xYb1BoNUFtOW5rUkZyeVE?oc=5",
-      "publishedAt": "Wed, 13 May 2026 20:16:01 GMT"
+      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoT2RMS3hETkRnWDlaQmtNZzBUWExiMUp3cVFMeEVVM0NycmVtSWpIX05pcU9KcE9BRENDNm1GVC1NOUJvV0l2ZTFvaGlkUXc?oc=5",
+      "publishedAt": "Wed, 13 May 2026 21:09:06 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 전북(14일, 목)",
+      "title": "[26년 5월 14일(목)] \"반도체 다음 타자\" '혁신' 내세웠더니 '따따블'…외국인 투심 쏠렸다 - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMVk5MVJDRkxGeDZSM0tFZ0ppRmdGTkF0RXk1Q0hmeEdVczFfdTFsOWI1aElvbXJwNXpCR29FLWItaXZ4NnNPUVZNN2VmNG1LS2dZd3laU1ZlNGw3ZURGTVppeFpqemFERlBGWGEzakR1akFTRVVmekZqUlVUQUl2ag?oc=5",
+      "publishedAt": "Wed, 13 May 2026 21:31:55 GMT"
+    },
+    {
+      "title": "[골프청사진] 나이스 샷 현세린, 두산 매치플레이",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53dC1nM1F1c2dseVBnQkk2M1ZhVXJlcFhuXzAtSW4xZ0h6QTIyTkltZTdHREpQaEVLeHcwVnk5WkhGX29OSDcyVEEtNlc0dk5TS3daZzJqWkw3NlVmN0xtTzdJb0gyYlMwbGc?oc=5",
+      "publishedAt": "Wed, 13 May 2026 21:56:28 GMT"
+    },
+    {
+      "title": "[오늘의 청약 일정] '더샵관저아르테' 당첨자 발표 등",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sTGpPY3JSQ2FHZXpzMGxtZVdsbmpPWkVyN190QnAtRU52c2JEWW9ZY3NNR1RiMXdFZWpBX3NaamdkdDFmMWNzZ3RBNVhhaWRWY00w?oc=5",
-      "publishedAt": "Wed, 13 May 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13SEJTbmZjY1J4anBVYUF0cUJqdVpJanNTMWg1Vk9NcC1KaUlMeXJhQTU0UUE3X3psd0dXNGlGcWZBREUzUk5yWVdmb3J3dUNEZC1QbG1WclJtd3plSi05ZQ?oc=5",
+      "publishedAt": "Wed, 13 May 2026 22:01:00 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 울산(14일, 목)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OMWZZU0c2M1dYNEJSQUlqdkhSd1FrSVAzZzRBMnp6RTFKOXFGYi1lRmlTNHg5ZXhieGgyN2VqVk03RmtueUlObWZNWVdOejNfR0E?oc=5",
-      "publishedAt": "Wed, 13 May 2026 20:00:00 GMT"
+      "title": "'원팀' 외친 선대위 시작부터 \"상의 없이 임명\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aR1Jod0R6UDZMNkY1V25MUk5WdW9RZUs0RnFwQktNYjJ4X0syLW1GcjZDcUp0ZVVncGV5X08tRnhObGNDMkJHTHU5My1pTFlsajRTNkxzbHdZajZpcWdBbGdQRFpheXNmZlBVcGQwVUp5bVI4cVo4ckZn0gF6QVVfeXFMT3pCY3pYeUdHZ3RRbWpYMWx2TXIyS1BDZFpNcjRqUlB2ZGhKeGpJOExNa0Y1NExub3piRHFoSmlVbUpiR1BiaGRYdGdmbU9ZenJmeXlKYUM0WG9sZUtTQjRjOXNCWFlPV1E2Tm9BTS1HdmVKRUo5VTZMMnc?oc=5",
+      "publishedAt": "Wed, 13 May 2026 21:36:45 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 부산·경남(14일, 목)",
+      "title": "[속보] 국제유가, 하락…WTI 1.14% ↓",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UM1kwS3N5TWV6RlFqeVJGSWZtZm5QdGZkRXl5Z1d4NU92R0FhMHZXRkxVREVIUDZjcG8wZjJ0M3NmVmVLbDVfeEd1NFhLcWhGZWxF?oc=5",
-      "publishedAt": "Wed, 13 May 2026 20:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Fd0pZOG4yVWJUZ0t1TVpTMjliLU90RjJpVlZ4YUV1Y0VNM1VzWU9Kd1VwQzQwZGFEZFhhVjJ5YVFhMkJaRi1Mem1RNWljcmVjY2sw?oc=5",
+      "publishedAt": "Wed, 13 May 2026 21:17:06 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 광주·전남 (14일, 목)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWZmJKRTd1NHFIMGZIVnc4OHk4Y3N6OWxYOEZScWV5U0pBbjVWYUJlMGNEMnJrejJodUxZUUlGTS0wZTZYQldRTGJaazlSNE9TZXpB?oc=5",
-      "publishedAt": "Wed, 13 May 2026 20:00:00 GMT"
+      "title": "\"더 걷힌 세금 국민에 쓴다는데 왜?\"‥직접 등판",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85UlhiblBPcHV0MXQ2cWNleWpKREJ1YVNGYzFVYXN6ZEl5SFBta2VlNEhnYlBsVGxmaFQzSjRxTmNuMHZxZzZlQ0VmQnoxd0JRdlRzcW1MLUdoNWNRMW5KbFhQNE90UVhtZGJNMktmX1FFb0pPU3k5MDB30gF6QVVfeXFMTllpaHpFYk5MaVZGa2t6UWpjX3B5TGVQRldQaVdmQkF3eHlGLXJqRkRhV2UtZEtOMjNQSlFuMGF2LXJkUVNkaW1OVms5dmNrUXBaMEJFYlpVLVpwcWNsbjdnOHpZT1dBMklUQ1pEVzRUNENoUVVEcUtRaGc?oc=5",
+      "publishedAt": "Wed, 13 May 2026 21:18:04 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 충북·세종(14일, 목)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fT1lFODhZaXYxSW1JQzMzWUVSVUJrZlN5SnFuWnphLWJkWHlPRWZoR2xVRXFfaXFqVnJ0T0xmeWwwT3FoWmh2eWRzMEpPOW1taGNTOTlrQTlrcnhHWmNv?oc=5",
-      "publishedAt": "Wed, 13 May 2026 20:00:00 GMT"
+      "title": "[전국 톡톡] \"해 지면 불 끄고 문 닫아라\"‥저녁 전기요금 오른다",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51WTkyMjVBcW9rMDMyLU9BWmE5WWZEWU9yNjhBMWEtTW5MOEZVVXRHeFh6WlBkdVk0UHpyVzhPMzZVdWpOcW45emNkOWxBbU92Y2NPWGxTdnptajh5U056VDR0dGxFRndlREhTcXFMLTNlYjZZd3g4MGN30gF6QVVfeXFMUExqbVVTanJxd1pFbkdXUVlXbGpyX01lbjFkTHg3Yi0xVm1JOE5UTWlXZTdPRURMQ1YtY1BNOWtRZkpHNjJpUVdMMFhUN25Kd1QyaXI5YUM2d2JUTlYyTTJSSU5UUWVlRE9Hdno2TUtpNklCRGdZV1lNeHc?oc=5",
+      "publishedAt": "Wed, 13 May 2026 21:35:08 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 제주(14일, 목)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwYUstWEx4TUV2QjFmemF6QVVMQnAyT2YySThkSk5XMlEyZ1FOQW5PXzRLaHZhQ29fd0lzdmNBY2wzTmpMbXp0Zmo0d05yc1JHLTdR?oc=5",
-      "publishedAt": "Wed, 13 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요 일정] 울산(14일, 목)",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zVW9GQUVILW8wc0hzTm1yVEFUQWdtdThkMGNQS215bWxzbnZmeDRzZmYtQVJqYkIzX2RUbktwMnByOWlYNHp5TmlxNl9OVzNfRlpZ?oc=5",
-      "publishedAt": "Wed, 13 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요 일정] 제주(14일, 목)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtb2RrMGx4blljSFNtbGZUWlRjU0VfQnEzbGtOV0Roa2JCYVJ0S2VmekFfS3lRNWE2S2ZVNWdTMC1VWUw5ZGV1cHJNNnYyT0Jj?oc=5",
-      "publishedAt": "Wed, 13 May 2026 20:00:00 GMT"
+      "title": "\"이란전쟁 중재 요청할 것\"‥스몰딜 집중 전망",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQYmhOOGZpeFRyaHVHYmdXZFhEU21EX2ZJLWdkMTVIQnZMRGQ5Q1kxelhjZFRucHFpeFBPN281SjVfQ1djWmhmNWNaLUExeURZbEI4RlJfZUlmMmw1T1hSeWF4SlZZNURLR2VRNnVqTVFKYXVmOHp3cWtB0gF6QVVfeXFMTnVKS3J6ZVZFdXhUWEljT3hrMU1SSGU0dXhKcXNVQVhXRS1mUXdJNGlCUmQ1WkhWQ09ub0ZxaGk4aDNzOXVJWTlXTE1RdFE5MmVQSXcyRng5dnBNZFRTT0wtMnJWYlFEM3lrNGRZRmJhTFVqZm1ySVRnQUE?oc=5",
+      "publishedAt": "Wed, 13 May 2026 21:07:05 GMT"
     }
   ],
   "sources": [
