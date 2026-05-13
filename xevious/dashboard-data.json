@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-05-13T08:43:07.026866+09:00",
+  "generatedAt": "2026-05-13T10:31:54.349205+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "7,643.15",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-05-13 08:41"
+      "value": "7,653.11",
+      "change": "+9.96",
+      "changePercent": "+0.13%",
+      "direction": "up",
+      "updatedAt": "2026-05-13 10:26"
     },
     {
       "label": "코스닥",
-      "value": "1,179.29",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
+      "value": "1,173.28",
+      "change": "-6.01",
+      "changePercent": "-0.51%",
       "direction": "down",
-      "updatedAt": "2026-05-13 08:41"
+      "updatedAt": "2026-05-13 10:26"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,490.00",
-      "change": "-2.00",
-      "changePercent": "-0.13%",
-      "direction": "down",
-      "updatedAt": "2026-05-13 08:39"
+      "value": "1,498.70",
+      "change": "+6.70",
+      "changePercent": "+0.45%",
+      "direction": "up",
+      "updatedAt": "2026-05-13 10:25"
     },
     {
       "label": "100엔/원",
-      "value": "945.46",
-      "change": "-1.03",
-      "changePercent": "-0.11%",
-      "direction": "down",
-      "updatedAt": "2026-05-13 08:39"
+      "value": "950.80",
+      "change": "+4.31",
+      "changePercent": "+0.46%",
+      "direction": "up",
+      "updatedAt": "2026-05-13 10:25"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "12.6°C",
-        "feelsLike": "13.2°C",
-        "highLow": "최고 21.1° / 최저 12.4°",
-        "humidity": "99%",
-        "wind": "0.8 m/s",
+        "temperature": "14.6°C",
+        "feelsLike": "15.3°C",
+        "highLow": "최고 20.8° / 최저 12.3°",
+        "humidity": "91%",
+        "wind": "2.0 m/s",
         "rainChance": "2%",
-        "pm10": "79.9 μg/m³",
-        "pm25": "72.2 μg/m³",
+        "pm10": "78.0 μg/m³",
+        "pm25": "66.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-05-13 08:30"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-13 10:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.7°C",
-        "feelsLike": "13.1°C",
-        "highLow": "최고 17.7° / 최저 12.3°",
-        "humidity": "99%",
-        "wind": "3.1 m/s",
+        "temperature": "13.6°C",
+        "feelsLike": "14.0°C",
+        "highLow": "최고 17.9° / 최저 12.3°",
+        "humidity": "98%",
+        "wind": "5.1 m/s",
         "rainChance": "4%",
-        "pm10": "79.9 μg/m³",
-        "pm25": "72.2 μg/m³",
+        "pm10": "78.0 μg/m³",
+        "pm25": "66.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-05-13 08:30"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-13 10:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "13.1°C",
-        "highLow": "최고 19.3° / 최저 12.4°",
-        "humidity": "99%",
-        "wind": "3.8 m/s",
-        "rainChance": "2%",
-        "pm10": "79.9 μg/m³",
-        "pm25": "72.2 μg/m³",
+        "temperature": "14.0°C",
+        "feelsLike": "14.3°C",
+        "highLow": "최고 19.2° / 최저 12.3°",
+        "humidity": "97%",
+        "wind": "5.4 m/s",
+        "rainChance": "6%",
+        "pm10": "78.0 μg/m³",
+        "pm25": "66.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-05-13 08:30"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-13 10:15"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "13.4°C",
-        "feelsLike": "14.2°C",
-        "highLow": "최고 23.5° / 최저 12.8°",
-        "humidity": "99%",
-        "wind": "1.9 m/s",
+        "temperature": "16.1°C",
+        "feelsLike": "17.3°C",
+        "highLow": "최고 23.2° / 최저 12.6°",
+        "humidity": "92%",
+        "wind": "3.1 m/s",
         "rainChance": "0%",
-        "pm10": "73.8 μg/m³",
-        "pm25": "71.2 μg/m³",
+        "pm10": "59.6 μg/m³",
+        "pm25": "55.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-05-13 08:30"
+        "airQualityIndex": "69",
+        "updatedAt": "2026-05-13 10:15"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "부광셀프주유소",
-        "address": "인천 서구 봉수대로 1623",
-        "updatedAt": "2026-05-13 07:43:33",
+        "stationName": "(주)디오티디 인천랍스터주유소",
+        "address": "인천 서구 봉수대로 1543 (금곡동)",
+        "updatedAt": "2026-05-13 07:53:08",
         "districtSamples": [
           {
             "district": "서구",
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "오일스타㈜익산지점 착한8주유소",
-        "address": "전북 익산시 용동면 익산대로 2538",
-        "updatedAt": "2026-05-12 06:00:08",
+        "stationName": "㈜한영 부송지점",
+        "address": "전북 익산시 무왕로 1277",
+        "updatedAt": "2026-05-13 05:30:07",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "그린씨티 셀프주유소",
-        "address": "경기 김포시 양촌읍 양곡우회로 40",
-        "updatedAt": "2026-05-12 09:46:17",
+        "stationName": "걸포주유소",
+        "address": "경기 김포시 금포로 1117-6 (걸포동)",
+        "updatedAt": "2026-05-11 11:19:50",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[전국 주요 신문 톱뉴스](13일 조간)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EZU5Pd3FQZDRvSzhhSDZfb09pQnU4TjIzSlFadEhjSEdlTmpqSjdoR05zZUlPNEgzZGRJSWtFTXNPMzNhNjYzeDVDV25iSlliY0Nwd1BqUmN4czjSAWBBVV95cUxNOXRjeF9jYm1sX1JqaVpHZjZ0ZnZNYWpkS1JVTERuZ1gycm1EdWdaNXdkekEwd2lSdjhQdmJaQkxHQ1ZWTmxtR1VGT2hIdmdwdzNZRVZOcVhBRHVmdEtKVkI?oc=5",
-      "publishedAt": "Tue, 12 May 2026 23:00:05 GMT"
+      "title": "삼성전자 사후조정 끝내 불발⋯\"호르무즈 단계적 기여 검토\" 外 [오늘의 주요뉴스]",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYemx4MXNiNzNYV2ZDeklIdVFrZXVMOEdfNUNaUFBrV1lUV3NrcmZJT3NncHZIWjZUQi11ZmZTSUJ6UjFJbE50TndxS3ZMQ0xOSHYyR1dGMEd5X3VsZ0lXbVJCaG14a1htUGgzUzVVUXZmRHYt?oc=5",
+      "publishedAt": "Wed, 13 May 2026 01:18:00 GMT"
     },
     {
-      "title": "5월 13일 굿모닝 MBN 주요뉴스",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SLW1XaEdnaUZ1Q0NBVEh0bFFmcDhyR3kxMlBNR25LVXJaZ25WRlMtaklhanhQcU5faHdvV0Z3b19Dclk0U1I2UEZTdkJfMC1SSUI0?oc=5",
-      "publishedAt": "Tue, 12 May 2026 23:29:00 GMT"
-    },
-    {
-      "title": "홈플러스, 'AI 물가안정 프로젝트'로 이른 더위 수요 공략",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMZVNjc0pEZEFTTjZRcW90VkN4Q241X2pSRjl6SlFtU3kzTmZPNXNPQkF0WDRQX0liLVEyNGR3NGtQSW1NU0xpenJsUG9fZGJvSkplS2FTVmhJRWJBdkJR?oc=5",
-      "publishedAt": "Tue, 12 May 2026 23:35:15 GMT"
-    },
-    {
-      "title": "한국, 사상 첫 세계 5위 수출국 올라 ... 일본 제쳤다",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QUk1KSHVNUHRHZUNoRTMySVV3MUJuRk9qVEJEYzVtWl90Y1lxY1YxeDdQODB6Q1BIeFR2cnc2Z0h5MXJaV1NBQzUyT2xMNXdQTkE2UW9FcUg1eEJCOXJkem9zY0pTeUk?oc=5",
-      "publishedAt": "Tue, 12 May 2026 22:58:36 GMT"
+      "title": "트럼프, 베이징 향하며 \"시진핑과 무역 논의\"⋯이란 변수도 시험대",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51SFpHV3c2N0NlRG5OUkcxczZDNk82NHdqUjhTZGZuYjEyWTk2bk1OdDZxWVkyc2dhdHRYZDFZUDk3RDZjZTM2aW82VnY2MUs4QU5KTVBMZUZvcmNIbEE?oc=5",
+      "publishedAt": "Wed, 13 May 2026 01:14:37 GMT"
     },
     {
       "title": "[그래픽] 뉴스1 여론조사 결과-지역별 주요 후보 지지도",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ubkpZdVpFb0w2Ym1IVkh0Z0dqYVRKdEFTdG9Kb0RKdjBRUHNkcWpxZzE1MjU2QzdINWhwaC1zUjBUdkdDdDJHX3M2UEZpUlVXWkJuOGg5WnNpM19vOTBYNVBLRkU2LVRLZjZVamoyenBHVHZvemotXw?oc=5",
-      "publishedAt": "Tue, 12 May 2026 23:33:00 GMT"
-    },
-    {
-      "title": "'어른이'가 큰 손…CU, 캐릭터 상품 매출 75% 점프",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xS0U3cjlzLXJqYkZuMGVJQ1JPTXExZENwYlVIMkU3LTZFMF83T21PNWNtVUJDbF8xMGNaQzB3Zy1DRHY4alRpR3NLRDkxQk05cTlYdUY2Vm5OWWlUT0lr?oc=5",
-      "publishedAt": "Tue, 12 May 2026 23:20:33 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jX2p6T3BzTzY5a2h6TGxoUEFPRVpBZDhZekpaOXBsZldaRDAtVzMtcjlnY2g1SS1vdDVYV0JzM3h1TzEtVWFrYXUwWQ?oc=5",
+      "publishedAt": "Wed, 13 May 2026 00:35:08 GMT"
     },
     {
-      "title": "이번 주말 종로 일대서 '연등회' 행렬…주요 도로 통제",
+      "title": "민주당 정청래 대표, 국회에서 기자회견",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyeU9kVGY3WXE5Y2xDaS14ZGYwenA2anRHeHVGTGtkZVVTLS0zdDRhWVUySlBGMzdRWERmX0ZGSmlVYjc2Sy01c1NBV095U1RuQ0ZKZjFQOTQ0MjBlQXRWNA?oc=5",
-      "publishedAt": "Tue, 12 May 2026 23:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QQkROU0lhVG5ST3hOVmJSLV9hV2FtWDhJclplR0ZpUkpxRmJPRExMbjV5dll3TlA3SVpWZzdoSHBsQkdWaHd6TnRNSFhEY0lhOTl6dXBOeTdvenQ0OHh2cXpoc2F0X1Vnal9QZFdQNVE4d3lnQXRYMw?oc=5",
+      "publishedAt": "Wed, 13 May 2026 01:12:00 GMT"
     },
     {
-      "title": "소나무 \"솔껍질 깍지벌레' 확산…제주도 긴급 방제 나서",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EUFB6QWw3VUVpZkVqWjN3NmxfdXh6YTA0eUZ0LXM0b3JHaXVhWEptR1pXYWd1SUZFQkhiclpqX3RzaDV2RjRuY2lyMzh4SWFrYU9J?oc=5",
-      "publishedAt": "Tue, 12 May 2026 23:23:00 GMT"
+      "title": "멈췄던 '정선아리랑 열차' 22일부터 운행 재개",
+      "source": "노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kS2lvaXNuYVVOTTFxZXc3dnplY0xfRy1aNzhKekt0eE5xbnN3Z0lzVUMxNGVwREZWclBuNDA0M0Q2SU15UlFheEFWaFo4aE9WU2c?oc=5",
+      "publishedAt": "Wed, 13 May 2026 01:21:00 GMT"
     },
     {
-      "title": "정원관광 1000만시대…전남도가 연다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PeGVtaFF1bi14TnRpUEI2RnBUYjFIWVJ0RmpRcTF0cXZfQ0Z3WXpkUzB5SzdpNVV6TmZfX3BqWmFBUXJhOGhBM0l4cGdSRnJ3bFI4?oc=5",
-      "publishedAt": "Tue, 12 May 2026 23:28:00 GMT"
+      "title": "특징주, 유니온-요소수 테마 상승세에 5.63% ↑",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oZ3Brdzh0VG04MFNpTlZNYmdraW9ha0Y0dmhPRDBOUHV6VlNMVUtGUHVwdnJlbWxfN0JYOGJTME1VeHdMMFhGb3VsYnRvTk5GeE5wc3ZfZmdpTlBCVzJDcg?oc=5",
+      "publishedAt": "Wed, 13 May 2026 00:33:16 GMT"
     },
     {
-      "title": "영국, 호르무즈 호위에 전투기·드론·군함 파견 발표",
+      "title": "\"안전한 여름 바다 만든다\"…양양군, 수상안전요원 모집",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mcUI3Z0EzSzhBamRaeTNWX3Q0VG10Uks3cEt2dEdsQTBySkhXSTdQQUFiLThxeVNscmdaRDZFa1k5OUdoajlHdmxpRWVZeE1mUWFhUg?oc=5",
+      "publishedAt": "Wed, 13 May 2026 01:18:39 GMT"
+    },
+    {
+      "title": "[글로벌 밀리터리] 인도네시아 해군 역사상 첫 잠수함 구조함 'KRI 카노푸스-936' 공식 인수",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnWERqU012blhsaWtCckFUYnMydjJvRjJBNi14eXZCSDVNWmFieGxmdU1SS3hUTHJCR0ZpNl9Jbmc4WmRvZXhfUzJIZEM5QUtYbEFjSGI3UWNkNTJ3MGc?oc=5",
+      "publishedAt": "Wed, 13 May 2026 00:45:22 GMT"
+    },
+    {
+      "title": "\"지질여행 더 깊고 풍성하게\" 삼척시, 주요 명소에 지질공원 해설사 배치",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5feXQ0bnRYMFN5UVItX3RoM1RUcDZjSERvaG9oUEI1ZGhoMVBTSkdXUVZQVXdtUXdDRXlaYVVsNWNzSmJ4V2c0bkZ3S0g1OEFLM2tn?oc=5",
-      "publishedAt": "Tue, 12 May 2026 23:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41MFdmdXp5S21Hd2poOHI0MU5IcG5DQmZ0RjZ3NG1iUDRFemtxUXd2ZURERmJIV3QzcTdRTFRuYUZiTFFtV2tVem5heFlBOXZwWUFZYVBkeFp3dWxDa2hqcjVoX0o3VkVIV0JnVWNuVWlZM0hCSjQ0Xw?oc=5",
+      "publishedAt": "Wed, 13 May 2026 01:12:00 GMT"
+    },
+    {
+      "title": "[속보]정청래 \"오늘 밤 울릉도行…한 곳이라도 더 이기기 위해\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ld09yaHRQTVlzNzVCd0otbVMzenQ0TnZpRlRLZ2dDYWZscVVld1dnb1FDTlpkbmxnVzlrek1HNHpvb25ScXBZMzh1LXBVMlIwUFFV?oc=5",
+      "publishedAt": "Wed, 13 May 2026 01:05:00 GMT"
     }
   ],
   "sources": [
