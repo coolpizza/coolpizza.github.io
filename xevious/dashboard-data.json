@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-05-13T14:05:08.183741+09:00",
+  "generatedAt": "2026-05-13T17:02:06.878313+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "7,780.40",
-      "change": "+137.25",
-      "changePercent": "+1.80%",
+      "value": "7,844.01",
+      "change": "+200.86",
+      "changePercent": "+2.63%",
       "direction": "up",
-      "updatedAt": "2026-05-13 14:02"
+      "updatedAt": "2026-05-13 16:56"
     },
     {
       "label": "코스닥",
-      "value": "1,171.22",
-      "change": "-8.07",
-      "changePercent": "-0.68%",
+      "value": "1,176.93",
+      "change": "-2.36",
+      "changePercent": "-0.20%",
       "direction": "down",
-      "updatedAt": "2026-05-13 14:02"
+      "updatedAt": "2026-05-13 16:56"
     }
   ],
   "usMarkets": [
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,495.30",
-      "change": "+3.30",
-      "changePercent": "+0.22%",
-      "direction": "up",
-      "updatedAt": "2026-05-13 14:00"
+      "value": "1,490.40",
+      "change": "-1.60",
+      "changePercent": "-0.11%",
+      "direction": "down",
+      "updatedAt": "2026-05-13 16:54"
     },
     {
       "label": "100엔/원",
-      "value": "948.01",
-      "change": "+1.52",
-      "changePercent": "+0.16%",
-      "direction": "up",
-      "updatedAt": "2026-05-13 14:00"
+      "value": "944.14",
+      "change": "-2.35",
+      "changePercent": "-0.25%",
+      "direction": "down",
+      "updatedAt": "2026-05-13 16:55"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "20.3°C",
-        "feelsLike": "22.8°C",
-        "highLow": "최고 20.8° / 최저 12.3°",
-        "humidity": "73%",
-        "wind": "7.6 m/s",
+        "temperature": "20.9°C",
+        "feelsLike": "21.7°C",
+        "highLow": "최고 23.5° / 최저 12.3°",
+        "humidity": "68%",
+        "wind": "5.9 m/s",
         "rainChance": "3%",
-        "pm10": "45.4 μg/m³",
-        "pm25": "36.3 μg/m³",
+        "pm10": "33.4 μg/m³",
+        "pm25": "27.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "81",
-        "updatedAt": "2026-05-13 14:00"
+        "airQualityIndex": "82",
+        "updatedAt": "2026-05-13 16:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "17.7°C",
-        "feelsLike": "19.1°C",
-        "highLow": "최고 17.9° / 최저 12.3°",
+        "temperature": "17.6°C",
+        "feelsLike": "18.0°C",
+        "highLow": "최고 20.2° / 최저 12.3°",
         "humidity": "84%",
-        "wind": "10.8 m/s",
+        "wind": "8.6 m/s",
         "rainChance": "1%",
-        "pm10": "45.4 μg/m³",
-        "pm25": "36.3 μg/m³",
+        "pm10": "33.4 μg/m³",
+        "pm25": "27.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "81",
-        "updatedAt": "2026-05-13 14:00"
+        "airQualityIndex": "82",
+        "updatedAt": "2026-05-13 16:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "18.8°C",
-        "feelsLike": "20.6°C",
-        "highLow": "최고 19.2° / 최저 12.3°",
-        "humidity": "77%",
-        "wind": "8.9 m/s",
+        "temperature": "19.9°C",
+        "feelsLike": "20.5°C",
+        "highLow": "최고 21.3° / 최저 12.3°",
+        "humidity": "73%",
+        "wind": "7.6 m/s",
         "rainChance": "3%",
-        "pm10": "45.4 μg/m³",
-        "pm25": "36.3 μg/m³",
+        "pm10": "33.4 μg/m³",
+        "pm25": "27.1 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "81",
-        "updatedAt": "2026-05-13 14:00"
+        "airQualityIndex": "82",
+        "updatedAt": "2026-05-13 16:45"
       },
       {
         "location": "익산",
         "summary": "약한 이슬비",
-        "temperature": "23.2°C",
-        "feelsLike": "26.0°C",
-        "highLow": "최고 23.2° / 최저 12.6°",
-        "humidity": "72%",
-        "wind": "12.6 m/s",
+        "temperature": "20.8°C",
+        "feelsLike": "21.4°C",
+        "highLow": "최고 24.2° / 최저 12.7°",
+        "humidity": "75%",
+        "wind": "11.4 m/s",
         "rainChance": "0%",
-        "pm10": "24.6 μg/m³",
-        "pm25": "21.5 μg/m³",
+        "pm10": "16.5 μg/m³",
+        "pm25": "14.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-05-13 14:00"
+        "airQualityIndex": "74",
+        "updatedAt": "2026-05-13 16:45"
       }
     ]
   },
@@ -276,7 +276,7 @@
         "lowestDistrict": "동작구",
         "stationName": "주식회사 새서울글로벌",
         "address": "서울 동작구 시흥대로 616 (신대방동)",
-        "updatedAt": "2026-05-13 10:59:59",
+        "updatedAt": "2026-05-13 14:59:54",
         "districtSamples": [
           {
             "district": "동작구",
@@ -295,8 +295,8 @@
             "price": "1,979원/L"
           },
           {
-            "district": "마포구",
-            "price": "1,980원/L"
+            "district": "관악구",
+            "price": "1,984원/L"
           }
         ]
       },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,975원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)디오티디 인천랍스터주유소",
-        "address": "인천 서구 봉수대로 1543 (금곡동)",
-        "updatedAt": "2026-05-13 07:53:08",
+        "stationName": "(주)자연에너지 금곡주유소",
+        "address": "인천 서구 봉수대로 1491 (금곡동)",
+        "updatedAt": "2026-05-13 11:00:03",
         "districtSamples": [
           {
             "district": "서구",
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 부송지점",
-        "address": "전북 익산시 무왕로 1277",
-        "updatedAt": "2026-05-13 05:30:07",
+        "stationName": "오일스타㈜익산지점 착한8주유소",
+        "address": "전북 익산시 용동면 익산대로 2538",
+        "updatedAt": "2026-05-13 14:58:18",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜유카스플러스 서울로주유소",
-        "address": "경기 김포시 양촌읍 김포대로 1749",
-        "updatedAt": "2026-05-13 10:53:44",
+        "stationName": "걸포주유소",
+        "address": "경기 김포시 금포로 1117-6 (걸포동)",
+        "updatedAt": "2026-05-11 11:19:50",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "돈 몰린 MMF⋯시중 통화량 5개월째 증가",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QR2xpUGxjeGxKS0kyZFFVUVZheHVwakFTTEV3VDVzNkFJSmlxT0pTZloyMnN2ajM3TzQ4dDZvRnlhazNzVml6dVZHc3RraWxyaWFmZHhyaXpySUZZU2c?oc=5",
-      "publishedAt": "Wed, 13 May 2026 04:54:27 GMT"
+      "title": "美中 회담 앞두고 갑작스런 탈출? 中 초대형 유조선, 호르무즈 해협 통과 시도",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50ZVdEeHNnenVQM0pJNVUxQlJhTE55REdqZEtTd2ZmYUtLSUhIaGNaQzJ3WVZXcENtcFRZay15SVpIZW1QUEhILXBUTEtNenZwektDTUdaMkZIdGFaSUlWTUtFVdIBY0FVX3lxTE50ZVdEeHNnenVQM0pJNVUxQlJhTE55REdqZEtTd2ZmYUtLSUhIaGNaQzJ3WVZXcENtcFRZay15SVpIZW1QUEhILXBUTEtNenZwektDTUdaMkZIdGFaSUlWTUtFVQ?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:12:00 GMT"
     },
     {
-      "title": "한국가스공사 1분기 영업이익 9천100억원…작년 대비 9.1%↑",
+      "title": "'피의 게임' 팀전으로 돌아온다…새 시즌 7월 공개",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qQVQ2RDJ2azlSNlpzTU5mRmtQa0s3ZmtlWi1JNVRPcFpIRUpVVTg2Nkx5dzg0WWNxY1N6TmxBNTRyT3NJZmszSEw1T2w4bGVZYUtPU2ZvazI1Q3fSAWBBVV95cUxPODNneHB3cWJkRlBTN0VkYmlZSjVNWi1jRVVXYjljbVFGak41LWl1Q2FRODc3blE3OXg1SWJLXzRvV2RwS1FwNXFkREJjVFA1a285eFBzN3ZsVUg1TXZpb0k?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:35:05 GMT"
+    },
+    {
+      "title": "민주당, 국회의장 후보 조정식·국회부의장 후보 남인순 선출",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CaGtGQVoxMHpuc1VMaEFzR0xDRkFsY0NWZFBYQXcyTElLVElrUmw1TEpxcHROZWVtM2hRd0hoRmlsVTVIUURUT1JtNG1DUGtqZ0lQSHlDRG1GcFdHUzl6ejlUZFFlb0poVVkwTnVkRjQ3WU9kWkV2eg?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:52:00 GMT"
+    },
+    {
+      "title": "중동전쟁 中企 피해·애로 799건…\"수출 지연·현지박람회 무산\"",
       "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zOXJfTDB1N094SUNMMVBzS3h0N0RqX1hyenJTTmdRMURKNUVpaXh2SFh1X1VMZzdSRGJiRjBMX2hpN3QwSEMzRVNqbFhldlMyR2VmYTVfZklHcjNVb2s0aA?oc=5",
-      "publishedAt": "Wed, 13 May 2026 04:41:36 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90VEpyR1lGM1NmUXExUGk2aHJsdTZSeWUwMjRaMHpFVEQ1bHM1dkE3LVFwbFdmNl9lNlBCb1dCMFJPeXVOVGFDREZaQlM0Z0ZKQlE?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:26:53 GMT"
     },
     {
-      "title": "[자막뉴스] 이틀 동안 '전면 휴장'…세계 경제 운명이 달렸다",
+      "title": "[속보]민주, 국회의장 후보에 조정식·부의장 후보에 남인순 선출",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IZG1ZbG5wYk9rV0NLSE5fOVlYT2pmem9lLWNjZEc0RVR3TUV3ZUNJUnNjS0FoekFJOE5xWmFsM1NuSWNwM2tRYnJ4a3FhRjd0dlpUcU5TcXJZb1Y2V2lEQWZiZ9IBY0FVX3lxTE1IZG1ZbG5wYk9rV0NLSE5fOVlYT2pmem9lLWNjZEc0RVR3TUV3ZUNJUnNjS0FoekFJOE5xWmFsM1NuSWNwM2tRYnJ4a3FhRjd0dlpUcU5TcXJZb1Y2V2lEQWZiZw?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:10:00 GMT"
+    },
+    {
+      "title": "서울발레콩쿠르 대상에 서울예고 김민상",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JYlBUOUVFWndPRldmSU5IM05PZFdjVTczOF9ISHR6aTlKUTlaTUt6Q0hQUGdFWklYVm55UHdhcS1ocjhPVWVkZGFhTDFyY1dVeWZfeWJCSEgyR0HSAWBBVV95cUxQaDlkdGFuVHNENDh6NjFjV3VSQjVjWGdTWko3Y1dfMlpHVE1zLXlvVWtqQkxVU1FtWVN0UGpTbGluMXdKNlpQcmVWUVlOMFZIWlpaMmszTHd6bVlzZ2E0YTU?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:06:37 GMT"
+    },
+    {
+      "title": "中 베이징, 트럼프 맞이 분주…\"中시장 개방 요구\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41aXA1OVRfSFdCMVpCa2JNSGgtbTZqUlVBZFBGNGVJd19OU0JRTFBYNG1WV0hHOVVvV2xkSlBLM1NySk5zUHE3aWFoMzYyb3lEUzJN?oc=5",
-      "publishedAt": "Wed, 13 May 2026 04:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zanZrQm5YbVhlQXNRdDI5dGwxRF9sUXFRTmNQTTIxS3l0Vi1YNnp5UXgwLWtqd25EeDRvbHBNY0RtLWkxZkxoQXZEXzNVRDNFQ0JZ?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:47:00 GMT"
     },
     {
-      "title": "울주야구장 조성사업 본격화…내년 준공 목표",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53bTNmMUhaMTFoWFdTRlRZSHRoWEdBaWZmUzE0SmxLcFZZTlk1OVlTSC1reHhxalBhSDZ0NG9lVUNWWUpJSnowTXRyejdjVHR0Nnc?oc=5",
-      "publishedAt": "Wed, 13 May 2026 04:19:55 GMT"
-    },
-    {
-      "title": "김제시, 주요도로 제초작업 추진",
-      "source": "아시아뉴스전북",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZjR3TWxPbzl2aXEyYTUtRG4xVGJQSW9EbTVvZGFicG9NcDA4VDY1TUJEM3Y5bnZlYXk3TndRYjViaWhrRXFRYW9ITlN1eWJ6alkxZEhHUzc4UEh3WjZWRnRsN1A1dzhnOEHSAW5BVV95cUxNS0JHNnBCbVY1TDEzeWFjWld4U2Nvc0h6bXFjN0tWTXFCX2QzWVNVZzBtUUQtbUYtZXhESER1YU5kRGw4d1U3Wm9Iak91OW5qZ1VlNDFWTjg3Nzc5ZV9WNlppV0p2NHFXU2JLTXlCUQ?oc=5",
-      "publishedAt": "Wed, 13 May 2026 04:23:55 GMT"
-    },
-    {
-      "title": "삼성전자 총파업 초읽기⋯정부 '긴급조정권' 카드 꺼낼까",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qcm9XYklpR28wd05SQ1FwZDVjS21LQWJrSUVCb1FQbTg5LUJTcURGMWJuMkFVV3psUHhDWU5WRVNfM18zek9wVHBEdFlkclF3TWpCYUhDTm4td1VWclE?oc=5",
-      "publishedAt": "Wed, 13 May 2026 04:27:32 GMT"
-    },
-    {
-      "title": "전북교육청, 전북형 민주시민 역량지표 개발",
+      "title": "미중 정상회담 의제는 '시장 개방'…트럼프 개방 압박",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tbWxHUmljWjdZa29ka3I0NVNWLW5FUjVRcnJ6bnN6NjYtMWRjclRvVkJ0R2hKdWd3LUdQRFFiQmtiMHQ3SDh3MXNza0xrX2NRV1Iw?oc=5",
-      "publishedAt": "Wed, 13 May 2026 04:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aMklDbWUzdFZwLTUzQnpoTW1uNFFuU1lEVWFYY204WGliUDh1c29ZT0lKU3NscTF0Y1pOenVjNlRkcXA3UVJMVlFqd3NkUGRoNFBF?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:42:00 GMT"
     },
     {
-      "title": "SK하이닉스 신고가 찍자 SK스퀘어도 달린다",
+      "title": "[프로필]남인순 국회 부의장 당선, 역대 세 번째 여성 부의장",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12M2V4U09GTmRPcFZqOGs0b3BrNnRpYXNjcEhXRHB2b0dOX05zU3QtbmRwdXNnRERNTTlrY3pfV3RfdjJXOEhKQl9PeE5nSFFIZ09SeHV5VXBqa21oVF84SFdZNDlSSzdZQ2ZFNmtENkU5NjJXM0U0LQ?oc=5",
-      "publishedAt": "Wed, 13 May 2026 04:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSWVRTVN6V1pLSTNiLWZhOUpBNFlaX3NiWmU2OUVDUk9kMjZ4NERsWE45QldXZkY0ZHBiYWdhUGdPcUt3V3JCTHV1ZDNRNkZ6TWVZ?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:56:00 GMT"
     },
     {
-      "title": "KDI, 올해 경제성장률 전망치 1.9%→2.5% 상향",
+      "title": "사서고생, '잇다' 솔루션 도입…스마트 공유서점 서비스 오픈",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82QUVnVHlId2Q4dF9LNE9aaXhZLUYySGV1YUxrWkhaVnpUMUZ0dF80VnI5ZnVqdGdpME5vQXdBekhpcEI4VVpiZ0JmODFUS0FORWZV?oc=5",
-      "publishedAt": "Wed, 13 May 2026 04:54:00 GMT"
-    },
-    {
-      "title": "해킹 표적 된 대부업권…금감원 \"부실 보안 엄정 제재\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyb3I3cTdaLTdSeUVwQTU3LUVlendudWlOY2ZaTGdhOGowaTF2bDZKc0I5VGRST1ZTUEVTaHBHNkNrSElKSXVMd0VUVE45QkN3ZE81cVM5RWs2UjNhM3lsbA?oc=5",
-      "publishedAt": "Wed, 13 May 2026 05:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwa0N2SEJlWEp0VmpyUFRMZFNrTHFHVmFVWVRWc1VVLUVMYlM5VWN2WGhkMlpsLUctQm1aeHlLQ3FEZVFuTjVoMV9WNldVRVNETGlR?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:56:00 GMT"
     }
   ],
   "sources": [
