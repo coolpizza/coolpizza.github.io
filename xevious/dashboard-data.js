@@ -1,22 +1,22 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-14T08:10:34.652654+09:00",
+  "generatedAt": "2026-05-14T09:20:49.524792+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "7,844.01",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-05-14 08:08"
+      "value": "7,866.76",
+      "change": "+22.75",
+      "changePercent": "+0.29%",
+      "direction": "up",
+      "updatedAt": "2026-05-14 09:12"
     },
     {
       "label": "코스닥",
-      "value": "1,176.93",
-      "change": "-0.00",
-      "changePercent": "-0.00%",
-      "direction": "down",
-      "updatedAt": "2026-05-14 08:08"
+      "value": "1,191.21",
+      "change": "+14.28",
+      "changePercent": "+1.21%",
+      "direction": "up",
+      "updatedAt": "2026-05-14 09:12"
     }
   ],
   "usMarkets": [
@@ -48,82 +48,82 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,489.50",
-      "change": "-2.50",
-      "changePercent": "-0.17%",
-      "direction": "down",
-      "updatedAt": "2026-05-13 22:07"
+      "value": "1,491.50",
+      "change": "+2.00",
+      "changePercent": "+0.13%",
+      "direction": "up",
+      "updatedAt": "2026-05-14 09:11"
     },
     {
       "label": "100엔/원",
-      "value": "943.47",
-      "change": "-3.02",
-      "changePercent": "-0.32%",
-      "direction": "down",
-      "updatedAt": "2026-05-13 22:07"
+      "value": "944.82",
+      "change": "+1.35",
+      "changePercent": "+0.14%",
+      "direction": "up",
+      "updatedAt": "2026-05-14 09:11"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "약간 흐림",
-        "temperature": "14.9°C",
-        "feelsLike": "16.0°C",
-        "highLow": "최고 29.2° / 최저 12.8°",
-        "humidity": "92%",
-        "wind": "0.4 m/s",
+        "summary": "대체로 맑음",
+        "temperature": "19.0°C",
+        "feelsLike": "19.6°C",
+        "highLow": "최고 29.0° / 최저 13.1°",
+        "humidity": "70%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "52.0 μg/m³",
-        "pm25": "48.5 μg/m³",
+        "pm10": "44.0 μg/m³",
+        "pm25": "40.4 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "79",
-        "updatedAt": "2026-05-14 08:00"
+        "airQualityIndex": "78",
+        "updatedAt": "2026-05-14 09:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "13.4°C",
-        "feelsLike": "14.0°C",
-        "highLow": "최고 27.8° / 최저 12.1°",
-        "humidity": "99%",
-        "wind": "3.6 m/s",
+        "temperature": "17.7°C",
+        "feelsLike": "18.6°C",
+        "highLow": "최고 28.6° / 최저 12.2°",
+        "humidity": "83%",
+        "wind": "5.1 m/s",
         "rainChance": "8%",
-        "pm10": "52.0 μg/m³",
-        "pm25": "48.5 μg/m³",
+        "pm10": "44.0 μg/m³",
+        "pm25": "40.4 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "79",
-        "updatedAt": "2026-05-14 08:00"
+        "airQualityIndex": "78",
+        "updatedAt": "2026-05-14 09:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "13.9°C",
-        "feelsLike": "14.7°C",
-        "highLow": "최고 28.7° / 최저 12.3°",
-        "humidity": "99%",
-        "wind": "2.9 m/s",
+        "temperature": "17.9°C",
+        "feelsLike": "18.9°C",
+        "highLow": "최고 28.6° / 최저 12.3°",
+        "humidity": "81%",
+        "wind": "3.3 m/s",
         "rainChance": "2%",
-        "pm10": "52.0 μg/m³",
-        "pm25": "48.5 μg/m³",
+        "pm10": "44.0 μg/m³",
+        "pm25": "40.4 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "79",
-        "updatedAt": "2026-05-14 08:00"
+        "airQualityIndex": "78",
+        "updatedAt": "2026-05-14 09:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "15.3°C",
-        "feelsLike": "16.3°C",
-        "highLow": "최고 29.0° / 최저 12.2°",
-        "humidity": "90%",
-        "wind": "1.5 m/s",
+        "temperature": "18.6°C",
+        "feelsLike": "20.0°C",
+        "highLow": "최고 28.7° / 최저 12.2°",
+        "humidity": "78%",
+        "wind": "1.8 m/s",
         "rainChance": "48%",
-        "pm10": "85.2 μg/m³",
-        "pm25": "81.5 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "80",
-        "updatedAt": "2026-05-14 08:00"
+        "pm10": "75.9 μg/m³",
+        "pm25": "70.8 μg/m³",
+        "airQuality": "매우 나쁨",
+        "airQualityIndex": "81",
+        "updatedAt": "2026-05-14 09:00"
       }
     ]
   },
@@ -276,7 +276,7 @@ window.DASHBOARD_DATA = {
         "lowestDistrict": "동작구",
         "stationName": "주식회사 새서울글로벌",
         "address": "서울 동작구 시흥대로 616 (신대방동)",
-        "updatedAt": "2026-05-14 00:53:30",
+        "updatedAt": "2026-05-14 07:58:00",
         "districtSamples": [
           {
             "district": "동작구",
@@ -295,8 +295,8 @@ window.DASHBOARD_DATA = {
             "price": "1,979원/L"
           },
           {
-            "district": "관악구",
-            "price": "1,984원/L"
+            "district": "송파구",
+            "price": "1,981원/L"
           }
         ]
       },
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "오일스타㈜익산지점 착한8주유소",
-        "address": "전북 익산시 용동면 익산대로 2538",
-        "updatedAt": "2026-05-13 22:59:17",
+        "stationName": "㈜한영 부송지점",
+        "address": "전북 익산시 무왕로 1277",
+        "updatedAt": "2026-05-13 05:30:07",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "김포감정주유소",
-        "address": "경기 김포시 김포대로 1135",
-        "updatedAt": "2026-05-13 23:55:36",
+        "stationName": "동일석유㈜김포대로주유소",
+        "address": "경기도 김포시 통진읍 김포대로 1937",
+        "updatedAt": "2026-05-14 07:58:50",
         "districtSamples": [
           {
             "district": "김포시",
@@ -362,9 +362,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "파주 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "파주시",
-        "stationName": "헤이리주유소",
-        "address": "경기 파주시 탄현면 평화로 809",
-        "updatedAt": "2026-05-14 00:54:42",
+        "stationName": "파주경인주유소 ㈜티에이치에너지",
+        "address": "경기 파주시 조리읍 통일로 124",
+        "updatedAt": "2026-05-14 04:44:18",
         "districtSamples": [
           {
             "district": "파주시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[전국 주요 신문 톱뉴스](14일 조간)",
+      "title": "웨이브서 지역 뉴스도 본다…강원 G1·대구 TBC 추가",
+      "source": "newsis.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HMERySmtQTWJtbm5kOVRMdE0tUEtCdmlTd21YOW5lQ0dDaHdRamJ6SllWaUFWbUphZVhpZk5QZzVyR252MUlLamhYNVRDYWdxMTNHYUhGZ3JSVFB4a1UyV9IBeEFVX3lxTFBFc0xUamhIbEdId1YtZkFrelY4R3JQamFwb2FMX2FxU09icTloeGQwUnY4Smx6TElacjBkR3l5Q3NOVklYV2tKdHlhdjlhb3V6Q3dsck83UjdYVnltMXNkSmFlUHVwMTV6VWE5S1IyUnRHZDF3cEpwWA?oc=5",
+      "publishedAt": "Thu, 14 May 2026 00:05:24 GMT"
+    },
+    {
+      "title": "셀트리온, 유럽 처방 성장세 확대…'램시마' 제품군 70% 점유",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxMy1lb0lYRUFSZ181UWRYX2V5QTRwTXFReXVVLVRsbmlEaWhwNW01U1NtcGZCTFEzN1pReFZLZEdvcVg0RUI1eGpsckdxVy1Idk1mQlgzUmNPWk93a2NhbQ?oc=5",
+      "publishedAt": "Wed, 13 May 2026 23:49:56 GMT"
+    },
+    {
+      "title": "[골프청사진] 정확한 타구 최은우, 두산 매치플레이",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01ZG5uWEwyV2Jjal9pUi01TU9vblNPLTN6WGJiVTNXWEVmTENSQXJHdUdBR1B5OF9lYS1YTzR4NVd6cHNEYU5QcmxZdk94dEpQbXNFZzByUmRLWkUyWFdXOXZDMWtyOEtzYXc?oc=5",
+      "publishedAt": "Wed, 13 May 2026 23:27:47 GMT"
+    },
+    {
+      "title": "웨이브, 지역 뉴스 채널 대폭 확대…전국 뉴스 네트워크 구축",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CQUhVSFlSM2ptdF9uQ0hjQUU1TjlDLWpzZFQyelhKaFB3RHYwcUZCMDFLWURpY3VTcnk1bGVMRWh1eVpkdXhJSk1KaElJQQ?oc=5",
+      "publishedAt": "Thu, 14 May 2026 00:15:51 GMT"
+    },
+    {
+      "title": "[PRNewswire] 홈즈 잉글랜드 산하 국가주택은행, 주요 투자자로 참여",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Za2JZa244Tm8wSXVwR25aOG5wbFBLMng2S1dSMjRKd09JcGhlRlJoM2NacklDY3pMVktpXy1JYnZ5M3VFVWRuTUlnU2hqOHNhTnVZ?oc=5",
+      "publishedAt": "Thu, 14 May 2026 00:10:00 GMT"
+    },
+    {
+      "title": "중동 사태 장기화…HD현대 협력사 자금 부담 경감 나선다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJOEFfTGIwVVdMNDhVZEZnZnd5c1hlek1xUnFkT1dZdVZMOHpIdm43WV9OcUljVzh6b0RKOFoyTFVCVUNVZERuc3lfVkExVmhPSmZR?oc=5",
+      "publishedAt": "Thu, 14 May 2026 00:09:00 GMT"
+    },
+    {
+      "title": "\"주요 사업 경쟁력 강화\"…SK네트웍스, 1Q 영업익 102.4%↑",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WdXFaTlNYMFFHNVpCWnFuTUNZUTMwcXR3b0g5NzJ6MmJOQWxiT1hpejEtMFNLLTBEamFjbFF6a3k3d3hfR1FESGtJT1hGRkg4akFB?oc=5",
+      "publishedAt": "Wed, 13 May 2026 23:33:00 GMT"
+    },
+    {
+      "title": "한국전력, 한미 원전 협력 기대감 부각-유진투자증권",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Gc2xQc05rRGkwbFlCNnctYmdJMklpWlZEZzVuQkpoUE1MbWcydklMdHJEd0VOdGl0R2RaVm1aMGlaanBuRWxXQlVBNkNMYXpTTEVV?oc=5",
+      "publishedAt": "Wed, 13 May 2026 23:48:00 GMT"
+    },
+    {
+      "title": "진도군 '작은 영화관'…1000원으로 영화 본다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00Y1lfTnpvaHZHbW9KXzBhdDV0MThKYXdNT0dtaGx0S0xqRlRzOHBBME1neTJCMjNYUHhKOEhMOUc3TkRNTC1YQ0VXT3E5aUxkTnZqd3pKZHE3cG5iRm9VN3NFQ2N2TGFsN3VSVk1rSUd6ZlUwWXkwVQ?oc=5",
+      "publishedAt": "Wed, 13 May 2026 23:23:00 GMT"
+    },
+    {
+      "title": "천안시, 공공기관 순회 '장애인생산품 팝업스토어' 운영",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wTDZlSUIweFhGRlJEY1FXU19qV3hLNVphd1RJOWZBQXN6WGFTeXBMTXotRTllNWxMUEFMRVc4cEpHUjBrWUZ4R2dZSTVKSnlMNkRSTUllWHJ5RmfSAWBBVV95cUxPN19OSHJYdXM4dnhxem9iOFlqOGZlZnFCVTNvZUh4b0hZNXhqNjl6OWFwRVEtYTBfeGt5Zm4yeGhSV1NYNHN6T0JjRV9PQ0tfQWNaNHlzNzYxSjBoNDJNanQ?oc=5",
-      "publishedAt": "Wed, 13 May 2026 23:00:02 GMT"
-    },
-    {
-      "title": "[AI기자의 News Briefing] 5월14일 오늘의 주요 뉴스를 전해 드립니다.",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pT2xCVUkwbF9MVEI3LUZkeEtZVXZiSk45TGkwT2JpUjV5S0h1RGNwU21MczZsRlJLVmdUbElyQnpsZFhtMl9ZQ3hSMmk0bktEQmZSTlpzSnJUc1NTZXU5ZGFRNkRkOXFtUEE?oc=5",
-      "publishedAt": "Wed, 13 May 2026 22:22:51 GMT"
-    },
-    {
-      "title": "5월 14일 굿모닝 MBN 이 시각 주요뉴스",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yN3h0Z2Uya1dHZERka2wtS0xRWENfRWhfUWJ0TW9QbUtfdVdoOU1OU2dTOTlQWjZDSHZTdk9LS1czS2lJWnc2REQ1U0lIS1FxZC1n?oc=5",
-      "publishedAt": "Wed, 13 May 2026 22:39:00 GMT"
-    },
-    {
-      "title": "월마트, AI 조직 재편-1천명 규모 감축·재배치",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QSC1fTFdTMXR5U05TRnVCczVXWWVfV1E3YnZSenMxNmlHYzB6RUM4b0RSNDFoQ0hFMkN4eGZTNlNnczB5cWRQUTdVLWVnaFdhR21wWnlTcTVlMFhfZnc?oc=5",
-      "publishedAt": "Wed, 13 May 2026 22:28:15 GMT"
-    },
-    {
-      "title": "인플레 우려에도 S&P500·나스닥 최고치…미·중 회담은 변수[뉴스새벽배송]",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUxLai1LS0FOLTB4b3RpOThFY2hIUllEakRlUkNEUU43S2N2em9aTmlKaGRqbWJNZGY4LTdPRXhTV0F3RU13VjIyQXFydGJnaTVCVFBlbEFKMlYyMENlY0J3aGFHWXR2U0xaM0xWajN1TEswcmZWeUVJYUF5eVk3dA?oc=5",
-      "publishedAt": "Wed, 13 May 2026 22:59:30 GMT"
-    },
-    {
-      "title": "“이마트, 본업 점유율 확대·온라인 사업부 실적 개선”",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETDJhNVNYYnVORkdxb2tGXzF6dGRpYjR2SnJIc20wNDlFZDg2QndZUi1Rb0JNOUhVUzhta1pIU1F5RGx3dmQ0Qi16d0I4TGlLNXhMSG9XcmhGWndGSEE5cA?oc=5",
-      "publishedAt": "Wed, 13 May 2026 22:17:48 GMT"
-    },
-    {
-      "title": "손정의 소프트뱅크, 지난해 순익 일본기업 사상 최대 5조엔-오픈AI 투자 평가이익 급증",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HVm9aMVdVMUloZVZpc1lGczNDVlVhQ0ltQzIxMFUxbVRyOEx3SW5JeU85aWs4b0lHYWtFRmpXZ19sNFRtTkgxYldXcVIwamZMX2NJUnZGdWhIT0t2R3c?oc=5",
-      "publishedAt": "Wed, 13 May 2026 22:25:14 GMT"
-    },
-    {
-      "title": "국제유가, 미중정상회담 앞두고 차익실현 매물 등에 4거래일만 하락반전",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUS2s0NXYtcS0yU2Z3Mzl6emZoNmN2Z1ZXMVZKd090Vko5U1lsRm9GeGR4RnQ1UFZhQ0ZycmlqRlgyTnNQd0RXU3dOWGctYkpwSGpKRnJjMl9UQTJNTnc?oc=5",
-      "publishedAt": "Wed, 13 May 2026 22:21:57 GMT"
-    },
-    {
-      "title": "전북도, AI·IoT 전기안전 원격점검 기술개발 추진",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JQmFPTGRWUVpLUGx5czlYci0xWWdBWTFRN0VnbGNlMWd3WUhoOWNDNDkxNnZ6N2hzMjBBNFY0eGVkbktUcjFKX1FnYmx3X28zYmJz?oc=5",
-      "publishedAt": "Wed, 13 May 2026 22:54:00 GMT"
-    },
-    {
-      "title": "뉴욕증시, 인플레이션 공포에도 S&P500지수 최고치 [종합]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmajJFRXA0YzJxX2lmQlRGMVViSkRldEY1aTVZUnJXVUIzRkFtOGM0UUx0a1FTNS1QTkp0Q1g5eHZTOU5tcEVwaHdJczNYZ0dWNkFj?oc=5",
-      "publishedAt": "Wed, 13 May 2026 22:41:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EeExYRlFFWWFjQ0YxWnNJT3hYTHNCbkVkQXpDSW1WLWVVX1RRNXdUSG5OMy1felJKUTNZZFB2VW9raEpvMGl2LWZyMGRqQ09HZzV6Sldtb1RzYmvSAWBBVV95cUxNdGNZa1E4aGhEQTZEa1k3ZHZ4XzZMUDRMUkhrUV90Rl9weHU3UGdVZjdNRHpaZV96ck5KZnVZQ2lSVzRZVW5QaHJqOFUzMkUxMTJKRlctRUhnaGtCT3l0MEM?oc=5",
+      "publishedAt": "Thu, 14 May 2026 00:07:06 GMT"
     }
   ],
   "sources": [
