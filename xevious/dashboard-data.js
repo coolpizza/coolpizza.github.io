@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-15T05:48:34.677458+09:00",
+  "generatedAt": "2026-05-15T06:50:28.914060+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,493.00",
-      "change": "+3.50",
-      "changePercent": "+0.23%",
+      "value": "1,493.50",
+      "change": "+4.00",
+      "changePercent": "+0.27%",
       "direction": "up",
       "updatedAt": "2026-05-14 22:07"
     },
     {
       "label": "100엔/원",
-      "value": "942.58",
-      "change": "-0.89",
-      "changePercent": "-0.09%",
+      "value": "942.84",
+      "change": "-0.63",
+      "changePercent": "-0.07%",
       "direction": "down",
       "updatedAt": "2026-05-14 22:07"
     }
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "14.5°C",
-        "feelsLike": "14.8°C",
+        "temperature": "15.0°C",
+        "feelsLike": "15.3°C",
         "highLow": "최고 27.4° / 최저 14.4°",
-        "humidity": "88%",
-        "wind": "3.9 m/s",
+        "humidity": "85%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "pm10": "66.8 μg/m³",
-        "pm25": "60.5 μg/m³",
+        "pm10": "71.9 μg/m³",
+        "pm25": "65.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "67",
-        "updatedAt": "2026-05-15 05:30"
+        "updatedAt": "2026-05-15 06:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "13.4°C",
-        "feelsLike": "13.8°C",
+        "temperature": "13.5°C",
+        "feelsLike": "14.0°C",
         "highLow": "최고 24.0° / 최저 13.4°",
         "humidity": "99%",
-        "wind": "4.4 m/s",
+        "wind": "4.6 m/s",
         "rainChance": "0%",
-        "pm10": "66.8 μg/m³",
-        "pm25": "60.5 μg/m³",
+        "pm10": "71.9 μg/m³",
+        "pm25": "65.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "67",
-        "updatedAt": "2026-05-15 05:30"
+        "updatedAt": "2026-05-15 06:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
         "temperature": "13.5°C",
-        "feelsLike": "14.0°C",
+        "feelsLike": "14.2°C",
         "highLow": "최고 25.7° / 최저 13.4°",
-        "humidity": "99%",
-        "wind": "3.6 m/s",
+        "humidity": "100%",
+        "wind": "3.1 m/s",
         "rainChance": "0%",
-        "pm10": "66.8 μg/m³",
-        "pm25": "60.5 μg/m³",
+        "pm10": "71.9 μg/m³",
+        "pm25": "65.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "67",
-        "updatedAt": "2026-05-15 05:30"
+        "updatedAt": "2026-05-15 06:45"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "12.6°C",
-        "feelsLike": "12.4°C",
+        "temperature": "13.9°C",
+        "feelsLike": "14.5°C",
         "highLow": "최고 29.6° / 최저 12.6°",
-        "humidity": "98%",
-        "wind": "6.4 m/s",
+        "humidity": "95%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "95.2 μg/m³",
-        "pm25": "89.4 μg/m³",
+        "pm10": "89.9 μg/m³",
+        "pm25": "84.8 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "84",
-        "updatedAt": "2026-05-15 05:30"
+        "updatedAt": "2026-05-15 06:45"
       }
     ]
   },
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 부송지점",
-        "address": "전북 익산시 무왕로 1277",
-        "updatedAt": "2026-05-13 05:30:07",
+        "stationName": "오일스타㈜익산지점 착한8주유소",
+        "address": "전북 익산시 용동면 익산대로 2538",
+        "updatedAt": "2026-05-15 00:04:45",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "한울에너지(주)마송주유소",
-        "address": "경기 김포시 통진읍 김포대로 2397",
-        "updatedAt": "2026-05-14 22:29:58",
+        "stationName": "㈜김포제2주유소",
+        "address": "경기 김포시 대곶면 대곶북로 347",
+        "updatedAt": "2026-05-14 20:35:16",
         "districtSamples": [
           {
             "district": "김포시",
@@ -362,9 +362,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "파주 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "파주시",
-        "stationName": "㈜진우에너지 자유로주유소",
-        "address": "경기 파주시 재두루미길 622",
-        "updatedAt": "2026-05-14 23:04:28",
+        "stationName": "헤이리주유소",
+        "address": "경기 파주시 탄현면 평화로 809",
+        "updatedAt": "2026-05-15 00:13:20",
         "districtSamples": [
           {
             "district": "파주시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (15일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oUG9ueWdPOWpReF94NDR3VVdzUk5MZURvYlQxYndDbUllU1Y2cUpYeU1Ydm1wNF9aNVBuTVVLMWtwX0lSbG9lVk15anBfdC1xdlFHdjJVb2RUQQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 20:00:00 GMT"
+      "title": "[카드뉴스] 가족 나들이 실패 없는 '전국 장미 스팟' 6",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iR04zME9CMl9pSjlRblMyUHZ1a3NuOURHNHJaTmZnU1ZFY0YwMll6V2lHcnBvM2ZCOXd0UkhacUtNTFZMM0dIbzZZak12RDktc2xLb1ptUGkwdw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 21:00:00 GMT"
     },
     {
-      "title": "기술주가 이끄는 뉴욕 증시, 주요 3대 지수 모두 상승",
+      "title": "[코스피·코스닥 전 거래일(14일) 주요공시]",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QQzJWVFNsMEE5a1lsT1VGV3VGQXJRazdUUXR0MjFkUTgtRHpPcTR6QldJb0NpVm82VURvLTh6OWxzUEtPLTI2RmtnQVdhRzdBN25PdXNVR255b0XSAWBBVV95cUxPdEdNbUpjYnh3a0VSWDd0dTBxalhBRV9ROFRHZFo3U255NFRQTUdpZloxajJXa1I4WWVQc0pHRkE1N21Sd2NGTHFEa096UjVCOG5wUWJWcnhsWTRuMHpIVHU?oc=5",
+      "publishedAt": "Thu, 14 May 2026 21:05:00 GMT"
+    },
+    {
+      "title": "[모닝와이드] 오늘의 주요뉴스",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUENRSm9fbUVxRlc0V1dJWDFRUFZ1UHVKRkhMZ2xSd051TUdDV3JIT0V1aGswNm5qbHdYcmlvbjlLV0tzSWdtT25aa2ItX1ZaaWVwSVdQY2JIZERzZkxkeg?oc=5",
-      "publishedAt": "Thu, 14 May 2026 20:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNmZvS2ZzVHJfMHBHNXc4d2lkcE1UeWFNSU15NGNIYnYtbFdNR2prekJ4MFhpb1FqMV9mNHVCOUx2T2RIUHpYdWpKUjNvdGd3MzN3?oc=5",
+      "publishedAt": "Thu, 14 May 2026 21:12:00 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 제주(15일, 금)",
+      "title": "\"서울보다 좋아요\"…외국인 관광객에 아울렛 매출도 '쑥'",
       "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GMHBSMVlJLV80cFFJSGJfTWN3ZTBrTW44Z3dDNzhURGhrU3p2X1ZUajE1Q1E2N05hdm1mYno5ejlBblJfTHhTcFNIWHp1VWN6?oc=5",
-      "publishedAt": "Thu, 14 May 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sTnQ5aFVFZktlcEE5dVpCNDViazVZTGRnT2R1STdTQXRQMVZodGsyaEVvU0oyeThCSHF6TEpaZG9ZODd5YVJQYmJadERXcS1fdUZHZUE3NnFQUVpzRldJ?oc=5",
+      "publishedAt": "Thu, 14 May 2026 21:30:00 GMT"
     },
     {
-      "title": "CHILE PROTEST",
+      "title": "[26년 5월 15일(금)] ‘8000은 시간 문제, 10000도 꿈 아니다’···코스피, 외인이 던져도 개미가 끌어올려 - 비티의 오늘 주요 뉴스 요약",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObzNtaXRYeWNzR1NudlFPR3ZEVUVtSGpueGdTUWx2R0VWYVExNE5tNEl2TTAyblp0eEx0QlJmSFhBaS1UYms2bHVKVzdBb3JOYjRySThXYTg3NFlaV05TdlAyMW9uNzF2Y3JsRkJ0T09WNDhZbl9sNFFXTEVhdDlyNA?oc=5",
+      "publishedAt": "Thu, 14 May 2026 21:34:23 GMT"
+    },
+    {
+      "title": "美언론, 시진핑의 대만 경고 주목…이란 뇌관 여전",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVcG1GLU9GaDZHdi1VYTRqdmZicENNeEdGc1JSMUNuMFpJRXFqYmZTeGZYTF9HT1NVNlVEeWFfY3BVaTlqWldfZTBXOG1kamdXbEE0eDNOR0Z3RnNIWVJuSA?oc=5",
-      "publishedAt": "Thu, 14 May 2026 20:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHUDN3RjlIT2xSM1UzX3VhU0piZWZOUzEtaXpwVGxpNDJwUHdURTMwRldWcmFRVWNaOTcyaS1Wa2MxeUR6VWpkS0xnUkhoN1B3SjlwTlpQUHFaU003aUc4cTlVRUl0dmFvaWc?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:57:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 충북·세종(15일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWHowbmtYdnpXeGxuM3R2QnQ1SzVVZ2htM2x3a1JLRkJVRDg0TWtCX3k2ZkJycDZ1ZGJfZHlWMmd0UUtQTGR4QTZHN0U1VDY1aklUOTMzTk9Va05wcWJR?oc=5",
-      "publishedAt": "Thu, 14 May 2026 20:00:01 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 부산·경남(15일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XT0d4U1lMbmVsWjUxS2I1SHBHYVVCRUVPa3RwUGJGUi11Wm5BNl9qc3VUTk42bVRBTDJWS0VfTy0yRUJYUmFpcGVsa2ZqRzhJMUFySzcwaDcyNUxxT2Y4?oc=5",
-      "publishedAt": "Thu, 14 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 전북(15일, 금)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pckY2VWk4Z2FkZlVaZ0xPakxJY1V4dmNQai1iZEUyVmJZMVBud3gtTm9MSWFDdDFRRUlQeVdxUUJURmJkUWV4NlI3SVNvMmNQOERtUg?oc=5",
-      "publishedAt": "Thu, 14 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 주요일정] 부산·경남(15일, 금)",
+      "title": "美 CIA 국장, 쿠바 수도 도착…쿠바 \"봉쇄 풀어달라\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNWkdzaW9MLVJoQUxURkZNRDZ5NVU2TnZRM2UxN1Q3LWpDNXEtdGEwOWljWGtwX1RyTWFtakpvMTh2Z2kzaWstNHVvMlU3alNPclcw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 20:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2Rkw2R09XSkdUNmM0WGxJRUx1NktFNHZ0ZnNNck5adjh3S1dtZmhWVHdRNE05RTZEUXIwS3JvQ045ZFNVVEV0NlFFT3FLWFpSTWEtZ3FFUEhKQXJhMGRCZA?oc=5",
+      "publishedAt": "Thu, 14 May 2026 21:41:00 GMT"
     },
     {
-      "title": "[오늘의 주요 일정] 제주(15일, 금)",
+      "title": "[속보] 국제유가 상승…WTI 0.1%↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ta0hZdGRLUUFvWTJGWFkwNzhDaEJBQm5TTC1vX2w0QUQxYmVuYmJjZ2FxSDRnekhBdjhpTndCRzZpdWZKdFItckdPMEJ1WE1wODln?oc=5",
-      "publishedAt": "Thu, 14 May 2026 20:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4QzN3Vkx6cUF0ZGhIS092cGZnb25ERHNjeEg1QzJvWEtjZzUtM1owNkJmVHI4SzJXdmFBQXo3Q2sxblljZDNKTXhEaXJYdkZWYUt1VkxVWVl4Zmo4SGNkbw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 21:19:00 GMT"
     },
     {
-      "title": "[오늘의 주요일정] 전북(15일, 금)",
+      "title": "[속보] 뉴욕증시 상승…다우 0.75%↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ocmRVdlRHVDZYckk3S3VKV0kzbTVQSHc2amxMVHBWNzZGYWEzLVVwX3ktMzNQNUM3TU84VFAzWWhla1ZlYmFObjdzTUtVNWFBU3dv?oc=5",
-      "publishedAt": "Thu, 14 May 2026 20:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YNlNMQVFJT1g2aG9qZXIzaHBHdE1kWm4zSDZJbTFPT1gwYy1EYV9BZV9fX0xQbnFnZndqM0F4UzU2SHZvYWFhamhWZXZabFZfbFVNUmRFR0c0RGFtcGh3NTAyNXE0dE1QOGxmeGJHcks0ckZHWnk4bA?oc=5",
+      "publishedAt": "Thu, 14 May 2026 21:13:00 GMT"
+    },
+    {
+      "title": "[포토뉴스]'오월의 여왕'작약, 천년 고도 청도읍성 수놓다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NM1BrWVpsN0psLVZYaGk1ek43VjJVOEVvVnhNSnNxU1BjaXZzRzZFOWU1dFR2Y2VPeF9VRHdsX0NUX21MaW1yUmFicEwwdUNwYjF5Yzd2ZUNlMmRrMTMwTg?oc=5",
+      "publishedAt": "Thu, 14 May 2026 21:18:00 GMT"
     }
   ],
   "sources": [
