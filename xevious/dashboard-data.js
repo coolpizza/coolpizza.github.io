@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-15T04:16:44.566034+09:00",
+  "generatedAt": "2026-05-15T05:48:34.677458+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "50,051.95",
-      "change": "+358.75",
-      "changePercent": "+0.72%",
+      "value": "50,063.46",
+      "change": "+370.26",
+      "changePercent": "+0.75%",
       "direction": "up",
-      "updatedAt": "2026-05-15 03:56"
+      "updatedAt": "2026-05-15 05:20"
     },
     {
       "label": "S&P 500",
-      "value": "7,507.62",
-      "change": "+63.37",
-      "changePercent": "+0.85%",
+      "value": "7,501.24",
+      "change": "+56.99",
+      "changePercent": "+0.77%",
       "direction": "up",
-      "updatedAt": "2026-05-15 04:01"
+      "updatedAt": "2026-05-15 05:20"
     },
     {
       "label": "나스닥",
-      "value": "26,657.34",
-      "change": "+255.00",
-      "changePercent": "+0.97%",
+      "value": "26,635.22",
+      "change": "+232.88",
+      "changePercent": "+0.88%",
       "direction": "up",
-      "updatedAt": "2026-05-15 03:56"
+      "updatedAt": "2026-05-15 05:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,492.20",
-      "change": "+2.70",
-      "changePercent": "+0.18%",
+      "value": "1,493.00",
+      "change": "+3.50",
+      "changePercent": "+0.23%",
       "direction": "up",
-      "updatedAt": "2026-05-14 22:02"
+      "updatedAt": "2026-05-14 22:07"
     },
     {
       "label": "100엔/원",
-      "value": "943.52",
-      "change": "+0.05",
-      "changePercent": "+0.01%",
-      "direction": "up",
-      "updatedAt": "2026-05-14 22:05"
+      "value": "942.58",
+      "change": "-0.89",
+      "changePercent": "-0.09%",
+      "direction": "down",
+      "updatedAt": "2026-05-14 22:07"
     }
   ],
   "weather": {
@@ -68,32 +68,32 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "15.3°C",
-        "feelsLike": "15.7°C",
+        "temperature": "14.5°C",
+        "feelsLike": "14.8°C",
         "highLow": "최고 27.4° / 최저 14.4°",
-        "humidity": "86%",
-        "wind": "3.8 m/s",
+        "humidity": "88%",
+        "wind": "3.9 m/s",
         "rainChance": "0%",
-        "pm10": "61.7 μg/m³",
-        "pm25": "55.4 μg/m³",
+        "pm10": "66.8 μg/m³",
+        "pm25": "60.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-05-15 04:00"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-05-15 05:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
         "temperature": "13.4°C",
-        "feelsLike": "13.9°C",
+        "feelsLike": "13.8°C",
         "highLow": "최고 24.0° / 최저 13.4°",
         "humidity": "99%",
-        "wind": "4.3 m/s",
+        "wind": "4.4 m/s",
         "rainChance": "0%",
-        "pm10": "61.7 μg/m³",
-        "pm25": "55.4 μg/m³",
+        "pm10": "66.8 μg/m³",
+        "pm25": "60.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-05-15 04:00"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-05-15 05:30"
       },
       {
         "location": "파주",
@@ -102,28 +102,28 @@ window.DASHBOARD_DATA = {
         "feelsLike": "14.0°C",
         "highLow": "최고 25.7° / 최저 13.4°",
         "humidity": "99%",
-        "wind": "4.1 m/s",
+        "wind": "3.6 m/s",
         "rainChance": "0%",
-        "pm10": "61.7 μg/m³",
-        "pm25": "55.4 μg/m³",
+        "pm10": "66.8 μg/m³",
+        "pm25": "60.5 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "68",
-        "updatedAt": "2026-05-15 04:00"
+        "airQualityIndex": "67",
+        "updatedAt": "2026-05-15 05:30"
       },
       {
         "location": "익산",
         "summary": "대체로 맑음",
-        "temperature": "13.0°C",
-        "feelsLike": "13.1°C",
+        "temperature": "12.6°C",
+        "feelsLike": "12.4°C",
         "highLow": "최고 29.6° / 최저 12.6°",
         "humidity": "98%",
-        "wind": "5.4 m/s",
+        "wind": "6.4 m/s",
         "rainChance": "0%",
-        "pm10": "92.2 μg/m³",
-        "pm25": "85.9 μg/m³",
+        "pm10": "95.2 μg/m³",
+        "pm25": "89.4 μg/m³",
         "airQuality": "매우 나쁨",
         "airQualityIndex": "84",
-        "updatedAt": "2026-05-15 04:00"
+        "updatedAt": "2026-05-15 05:30"
       }
     ]
   },
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "오일스타㈜익산지점 착한8주유소",
-        "address": "전북 익산시 용동면 익산대로 2538",
-        "updatedAt": "2026-05-15 00:04:45",
+        "stationName": "㈜한영 부송지점",
+        "address": "전북 익산시 무왕로 1277",
+        "updatedAt": "2026-05-13 05:30:07",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "(주)무진에너지 서김포IC주유소",
-        "address": "경기 김포시 양촌면 김포대로 1634",
-        "updatedAt": "2026-05-14 22:03:17",
+        "stationName": "한울에너지(주)마송주유소",
+        "address": "경기 김포시 통진읍 김포대로 2397",
+        "updatedAt": "2026-05-14 22:29:58",
         "districtSamples": [
           {
             "district": "김포시",
@@ -362,9 +362,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "파주 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "파주시",
-        "stationName": "헤이리주유소",
-        "address": "경기 파주시 탄현면 평화로 809",
-        "updatedAt": "2026-05-15 00:13:20",
+        "stationName": "㈜진우에너지 자유로주유소",
+        "address": "경기 파주시 재두루미길 622",
+        "updatedAt": "2026-05-14 23:04:28",
         "districtSamples": [
           {
             "district": "파주시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "에이닷 모델로…SKT '국방 AI' 만든다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vUzdmUU5YZjl5SmhlU2hJSXBGXzBXVFkzWnZIcWIxVjg1dDdramJnMk5MS1F2NHdNN0Z1cjM1WHJHTUdTOEp5MXFiZVl5c0RIaC1LdVYza2RXTGZSc2tTUw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 19:04:00 GMT"
+      "title": "[오늘의 주요일정] 정치·정부 (15일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oUG9ueWdPOWpReF94NDR3VVdzUk5MZURvYlQxYndDbUllU1Y2cUpYeU1Ydm1wNF9aNVBuTVVLMWtwX0lSbG9lVk15anBfdC1xdlFHdjJVb2RUQQ?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:00:00 GMT"
     },
     {
-      "title": "\"품질 우려\" 고객사 인수거부 조짐…반도체 글로벌 공급망 흔들",
+      "title": "기술주가 이끄는 뉴욕 증시, 주요 3대 지수 모두 상승",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TTHNQaEx5dVd3RHJoc28zT2cxSU8yOFVWZ0xZQVFQbC05ZnZUbXFneHlXckZDVWgwLUFkZGlHeDJMOVJqOXJveVFHSnpITFprZmFB?oc=5",
-      "publishedAt": "Thu, 14 May 2026 19:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUENRSm9fbUVxRlc0V1dJWDFRUFZ1UHVKRkhMZ2xSd051TUdDV3JIT0V1aGswNm5qbHdYcmlvbjlLV0tzSWdtT25aa2ItX1ZaaWVwSVdQY2JIZERzZkxkeg?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:29:00 GMT"
     },
     {
-      "title": "'플레이보이 출신' 링걸, 스코틀랜드 발칵 뒤집은 글래머 자태…축구선수 남친도 반한 '초밀착 비키니'",
-      "source": "네이트 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoNThBdjFFb0FTUGtmLWZSUzR2eUFfODFud2lWQjR5aWhKYXhST1JvUDRIRmp0XzRwQ3VPNFV5MkMxWjNuQ2dKa0QyeGdqMVZ0dUcyVnlFdjVhUWFQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 19:05:00 GMT"
+      "title": "[오늘의 주요 일정] 제주(15일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GMHBSMVlJLV80cFFJSGJfTWN3ZTBrTW44Z3dDNzhURGhrU3p2X1ZUajE1Q1E2N05hdm1mYno5ejlBblJfTHhTcFNIWHp1VWN6?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:00:00 GMT"
     },
     {
-      "title": "美국무 \"대만정책 변함 없어…강제적 현상 변경 양국에 나빠\"",
+      "title": "CHILE PROTEST",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRTW1ERGwzQWtOQTNpT0hYM3R5SXNxdjd6NkJ4dHV5WWxVeUMwOEVycUhnTWFyZ0VlMW96eWx2YU05ZFJjY0RfbDg0V1ZJc3A4cE5V?oc=5",
-      "publishedAt": "Thu, 14 May 2026 18:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVcG1GLU9GaDZHdi1VYTRqdmZicENNeEdGc1JSMUNuMFpJRXFqYmZTeGZYTF9HT1NVNlVEeWFfY3BVaTlqWldfZTBXOG1kamdXbEE0eDNOR0Z3RnNIWVJuSA?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:33:00 GMT"
     },
     {
-      "title": "화성 서해안고속도로서 화물차가 중앙분리대 들이받아…60대 사망",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tMW82V0dmVFFMS29za3pkZTZjaDUxblpmeERTakVGZ2YxNEF3ZDIwWXNRZGRDWm5leUtoZFpCLURfaVRJOUR4TTY2QWxpUHhXenMyeEhCTTN3QUNYSWZHdg?oc=5",
-      "publishedAt": "Thu, 14 May 2026 18:46:00 GMT"
+      "title": "[오늘의 주요일정] 충북·세종(15일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWHowbmtYdnpXeGxuM3R2QnQ1SzVVZ2htM2x3a1JLRkJVRDg0TWtCX3k2ZkJycDZ1ZGJfZHlWMmd0UUtQTGR4QTZHN0U1VDY1aklUOTMzTk9Va05wcWJR?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:00:01 GMT"
     },
     {
-      "title": "\"韓 향한 美 관심, 실질적 협력으로 이끌어가야\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nVHVkdTBFVGhuQmxNUVhTUmd1TmtXS2RUcnVsN29BbVQ4dENlQWpsX2J2OUFVc1g1QktRVU5XVE1PaHVkekpqRmtLRU15RXpQaWpueV8zQnQ4X3RjdWtqcklUdkRkTGZJQVZJZHZZSEI0NVNEcldLNw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 19:04:00 GMT"
+      "title": "[오늘의 주요일정] 부산·경남(15일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XT0d4U1lMbmVsWjUxS2I1SHBHYVVCRUVPa3RwUGJGUi11Wm5BNl9qc3VUTk42bVRBTDJWS0VfTy0yRUJYUmFpcGVsa2ZqRzhJMUFySzcwaDcyNUxxT2Y4?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:00:00 GMT"
     },
     {
-      "title": "이라크 의회, 신임 알자이디 정부 출범 승인",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VejI5MzhaUDU4Tk44U0FNdnZHZVlVZHhfM3FsNjRWUWFSTm9kMmg2dExjWkl6dU80UHRMTk9xaFNPZWx0aTFuR3RRUkVvMFdRN09ENnpyMTNoeUpXTjBLbQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 19:06:00 GMT"
+      "title": "[오늘의 주요일정] 전북(15일, 금)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pckY2VWk4Z2FkZlVaZ0xPakxJY1V4dmNQai1iZEUyVmJZMVBud3gtTm9MSWFDdDFRRUlQeVdxUUJURmJkUWV4NlI3SVNvMmNQOERtUg?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:00:00 GMT"
     },
     {
-      "title": "외교 고위당국자 \"나무호, 이란 외 다른 주체 공격 가능성 적다\"",
+      "title": "[오늘의 주요일정] 부산·경남(15일, 금)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tTUxiUU5xV1FoRTdpSmJra1g2eVh4di1yaHZfSG5ZZ2VadkJZZjlnanZQN0RLT0wtQk1EZU9HZndSazdiX0dBSnU3NHlTU0ZSXzFV?oc=5",
-      "publishedAt": "Thu, 14 May 2026 19:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNWkdzaW9MLVJoQUxURkZNRDZ5NVU2TnZRM2UxN1Q3LWpDNXEtdGEwOWljWGtwX1RyTWFtakpvMTh2Z2kzaWstNHVvMlU3alNPclcw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:01:00 GMT"
     },
     {
-      "title": "'금리지표' 금융채 최고치 찍자, 4대은행 주담대 7% 위협",
+      "title": "[오늘의 주요 일정] 제주(15일, 금)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iTERya3M3QkJGbkpSX3ZBUXdTVU9lVzBfdHJTOFdsdmR2WjdVRTVaM2JDUktkXzlONkZWenB0bEJuUWQ5OUhGby05VFdUZktva2pZ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 19:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ta0hZdGRLUUFvWTJGWFkwNzhDaEJBQm5TTC1vX2w0QUQxYmVuYmJjZ2FxSDRnekhBdjhpTndCRzZpdWZKdFItckdPMEJ1WE1wODln?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:00:00 GMT"
     },
     {
-      "title": "K원전 진정한 원팀 되려면…\"둘로 나뉜 정부 조직 정비해야\"",
+      "title": "[오늘의 주요일정] 전북(15일, 금)",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xd3FEMUdVUy1xY1B6NEdHYjFJWjdiRVQ3RDZMemlBa0hZTFRyTXU3X0MwVHRGNW5CR2ZrellqN2dIa0x2RXlqZTEzVHUwblg0M0w1NExmdVFjYVVfSnhGcg?oc=5",
-      "publishedAt": "Thu, 14 May 2026 19:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ocmRVdlRHVDZYckk3S3VKV0kzbTVQSHc2amxMVHBWNzZGYWEzLVVwX3ktMzNQNUM3TU84VFAzWWhla1ZlYmFObjdzTUtVNWFBU3dv?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:01:00 GMT"
     }
   ],
   "sources": [
