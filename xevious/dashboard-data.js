@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-15T00:32:17.371477+09:00",
+  "generatedAt": "2026-05-15T02:24:22.560046+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "50,077.89",
-      "change": "+384.69",
-      "changePercent": "+0.77%",
+      "value": "50,050.74",
+      "change": "+357.54",
+      "changePercent": "+0.72%",
       "direction": "up",
-      "updatedAt": "2026-05-15 00:14"
+      "updatedAt": "2026-05-15 02:03"
     },
     {
       "label": "S&P 500",
-      "value": "7,506.07",
-      "change": "+61.82",
-      "changePercent": "+0.83%",
+      "value": "7,497.70",
+      "change": "+53.45",
+      "changePercent": "+0.72%",
       "direction": "up",
-      "updatedAt": "2026-05-15 00:19"
+      "updatedAt": "2026-05-15 02:08"
     },
     {
       "label": "나스닥",
-      "value": "26,642.83",
-      "change": "+240.49",
-      "changePercent": "+0.91%",
+      "value": "26,665.53",
+      "change": "+263.19",
+      "changePercent": "+1.00%",
       "direction": "up",
-      "updatedAt": "2026-05-15 00:14"
+      "updatedAt": "2026-05-15 02:04"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,492.60",
-      "change": "+3.10",
-      "changePercent": "+0.21%",
+      "value": "1,492.20",
+      "change": "+2.70",
+      "changePercent": "+0.18%",
       "direction": "up",
-      "updatedAt": "2026-05-14 22:01"
+      "updatedAt": "2026-05-14 22:02"
     },
     {
       "label": "100엔/원",
-      "value": "943.88",
-      "change": "+0.41",
-      "changePercent": "+0.04%",
-      "direction": "up",
-      "updatedAt": "2026-05-14 22:01"
+      "value": "943.33",
+      "change": "-0.14",
+      "changePercent": "-0.01%",
+      "direction": "down",
+      "updatedAt": "2026-05-14 22:02"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "18.3°C",
-        "feelsLike": "19.3°C",
+        "temperature": "16.7°C",
+        "feelsLike": "17.4°C",
         "highLow": "최고 28.2° / 최저 14.6°",
-        "humidity": "78%",
-        "wind": "3.6 m/s",
+        "humidity": "82%",
+        "wind": "3.2 m/s",
         "rainChance": "0%",
-        "pm10": "45.9 μg/m³",
-        "pm25": "41.6 μg/m³",
+        "pm10": "55.2 μg/m³",
+        "pm25": "50.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-15 00:15"
+        "airQualityIndex": "68",
+        "updatedAt": "2026-05-15 02:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "15.1°C",
-        "feelsLike": "15.5°C",
+        "temperature": "13.9°C",
+        "feelsLike": "14.5°C",
         "highLow": "최고 24.8° / 최저 13.4°",
-        "humidity": "96%",
-        "wind": "7.6 m/s",
+        "humidity": "99%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "45.9 μg/m³",
-        "pm25": "41.6 μg/m³",
+        "pm10": "55.2 μg/m³",
+        "pm25": "50.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-15 00:15"
+        "airQualityIndex": "68",
+        "updatedAt": "2026-05-15 02:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "17.0°C",
-        "feelsLike": "17.7°C",
+        "temperature": "14.6°C",
+        "feelsLike": "15.5°C",
         "highLow": "최고 26.6° / 최저 12.9°",
-        "humidity": "88%",
-        "wind": "6.6 m/s",
+        "humidity": "96%",
+        "wind": "2.6 m/s",
         "rainChance": "0%",
-        "pm10": "45.9 μg/m³",
-        "pm25": "41.6 μg/m³",
+        "pm10": "55.2 μg/m³",
+        "pm25": "50.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-15 00:15"
+        "airQualityIndex": "68",
+        "updatedAt": "2026-05-15 02:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "14.4°C",
-        "feelsLike": "15.1°C",
+        "temperature": "13.6°C",
+        "feelsLike": "13.9°C",
         "highLow": "최고 29.3° / 최저 12.5°",
-        "humidity": "96%",
-        "wind": "3.6 m/s",
+        "humidity": "97%",
+        "wind": "5.1 m/s",
         "rainChance": "0%",
-        "pm10": "75.0 μg/m³",
-        "pm25": "68.5 μg/m³",
+        "pm10": "80.6 μg/m³",
+        "pm25": "74.0 μg/m³",
         "airQuality": "매우 나쁨",
-        "airQualityIndex": "83",
-        "updatedAt": "2026-05-15 00:30"
+        "airQualityIndex": "84",
+        "updatedAt": "2026-05-15 02:15"
       }
     ]
   },
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "오일스타㈜익산지점 착한8주유소",
-        "address": "전북 익산시 용동면 익산대로 2538",
-        "updatedAt": "2026-05-14 17:56:30",
+        "stationName": "㈜한영 부송지점",
+        "address": "전북 익산시 무왕로 1277",
+        "updatedAt": "2026-05-13 05:30:07",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "경일석유㈜찬빛주유소",
-        "address": "경기 김포시 통진읍 김포대로 1999",
-        "updatedAt": "2026-05-08 09:08:36",
+        "stationName": "미소2주유소",
+        "address": "경기도 김포시 양촌읍 양곡4로 64",
+        "updatedAt": "2026-05-14 06:56:53",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,40 +376,34 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "2026년 5월 14일 세계 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FWG5SdlBCa1RNc1ZCSmhmYy1pX0x6LS1Rb0xQVXFxWUpQSXlSanl5Mk5uNk14b2toSUZXeVhkXy1TWm9xemVrdmFld05iWnRjbVJZWkE1MjAwVThuNWhUbm0wLUtGOU41c2M4Q3hhZmZzVXdQanZpOVNlWHZCek0?oc=5",
-      "publishedAt": "Thu, 14 May 2026 14:39:50 GMT"
+      "title": "Vance",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sY29BSXFKMWNlVUNsOUJYaWhfdGtBRWJrVGZmTGxBcTY2bzhoSkpEN092RzBOdjZ6T0xIMHRfTF9qZV9HWld4NFlKQkJDUUN6Yjh0aXMyZVJKcHVMWFdJUQ?oc=5",
+      "publishedAt": "Thu, 14 May 2026 17:01:00 GMT"
     },
     {
-      "title": "US Ecuardor",
+      "title": "France Cannes 2026 Fatherland Red Carpet",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vbFY1THRCVG1naFZpMVFCVktMNUlzeWQ2ZjFOOF9rVEhuamI2Q3huNDVCWEtKTkVMQWs3dENvT1ZZNThWUlR6ZTlSbURpdkliSXVvQ3ZaZGVyekhrNVdBaQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 15:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51YzNGTk9tanpDdU15WXMtc3p6ZjMtWWEtRzZsUmR0QmZsR2NSdjVhWnpSSjFHYjA2YVBQdDBObG0yRVpkUFpLcXR3YnNEREJ2V3ZvWGhRNmRJb24xbV9Zaw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 17:01:00 GMT"
     },
     {
-      "title": "AUSTRIA EUROVISION 2026",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OakJsNUpnU05pUkU1VUlKaUVqSXBBb3Z5NENLbUljVHNRMlRYTnotcEJhNVhzYUFHN0FrUUJDLS1KdEhLUmJmX3hBa2lGTjY1OVp0QUpnSFd0NHhvd3JLcw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 14:57:00 GMT"
+      "title": "AMD는 AMD FSR 4를 준비하고 있습니다. Multi Frame Generation 6배 Radeon RX 9000",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUUFqR3hWWFFEWGJFTWdvUzdaSHJQbTdoa2dGTnE0WlhKMks1eGJScWJfaDc2bjVaYnkyelN5cy1BcFFZRk5iRXBLZ1NNREltdXYzd1gwZDlCRjd2OG1qUjR0UGc4SHhqRk9ZT3NGNXVteDVmQnlDcXV4alE2ZC1GOGJhdmo5OVdQcjF5elBGSGVfTC02YkZYc0d1UnVGQnVHcHdJcUVn?oc=5",
+      "publishedAt": "Thu, 14 May 2026 16:16:19 GMT"
     },
     {
-      "title": "GERMANY SOCCER",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1MFFGcXdUZWlHRzhnWnRzZXhyUVozcWhNd2dKWVVXWS11LXBybDc3NGlVMWxGY0I5WkpJQ0owOElMRDMwN1libnlXVVVtdmtQaU51eW9RWnhKRm5tNkJkZA?oc=5",
-      "publishedAt": "Thu, 14 May 2026 14:55:00 GMT"
+      "title": "파이널 판타지 VII 리버스 디렉터, \"다음 세대 팬층 확보가 스퀘어 에닉스의 가장 큰 과제\"",
+      "source": "IGN Korea",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTWt2OWdpanZxWHZ4NjZGRFF5cXk5bGhIWFZyWVJTd0tQcURja3pzUFpVU1hvdE5Wb3RMZzh3UElOd3hYZ2FpeVJhSGZRUXc4S0tPM3hDZ3BHMTFqNkxpSTMzbUtETm5aRnhibkQ2dW1iOGtKeHROOXBSUTVlelNfVnExa2NCT1hrdElwdjNxc0ZWa1dMblVvMVRXSEpYMHdSVEJseVMzLWtqSEVuN3ZLLWJWSzhoWkRnTVF3R1o3MVpxcXNoTzFJcDFoUG5oSnNyTXV5WkV4R0RqdS1JV3dZZzJ3Mko?oc=5",
+      "publishedAt": "Thu, 14 May 2026 16:07:00 GMT"
     },
     {
-      "title": "PARAGUAY INDEPENDENCE",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtZ0FCb3VqU0JtTzktN3hKMC1zUklIM3ZSX09EamZaSVpqMlNOMkJMQ1FjQThxXzFhZXlpcjJyaGdmYk1uWHdEMWMwTW1RZUFPUW1SS1F0NkNzZHM2R1ZxSQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 14:46:00 GMT"
-    },
-    {
-      "title": "여경협 전북지회, 청소년 나눔문화 확산",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSQXo0b0lENEpBVGY4d0dNaWN3TS1CZWh2TVFPMUlfTG5VbjZCWE9mdEdaVVJvckRpaGEwZW45NVRRWW9HNzlUdW5XWllzNlNLMWg5Z2JNYlZqQXMyQ1VMTw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 14:39:00 GMT"
+      "title": "안우진 앞에서 넘치는 배짱투…정우주, '직구만 60구' 던져 당당히 판정승",
+      "source": "nocutnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTzlvZXE2cnpsMVV4TjFnU0lTX2ljbnhVNkY1NW1wQVlJX2RXQmpTM1ZzcC13d3ZJbG5ORTRweWFmMWxtSFJTbW5odjFWaFlBdlE?oc=5",
+      "publishedAt": "Thu, 14 May 2026 15:30:00 GMT"
     },
     {
       "title": "눈으로 우울증 치료… ‘뇌 자극 콘택트렌즈’ 생쥐 실험서 효과 - 조선비즈",
@@ -424,16 +418,22 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Thu, 14 May 2026 15:00:00 GMT"
     },
     {
-      "title": "'시속 155km' 정우주, '158km' 안우진에 판정승",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00d1VCQVF4cUNmWVNHNTUxSlY3RlJEU3pkVmZmXzhUWnJ0T0RvTDlpVTgxbTl2UWdnQkNZQ1hSNzZBanRZVDQ3UlUyR3hSOFE4Skw2OGtobHRwdDBFbGc?oc=5",
-      "publishedAt": "Thu, 14 May 2026 13:40:00 GMT"
+      "title": "시진핑 \"中 부흥·MAGA 함께\"... 트럼프 \"친구, 9월 미국 오라\"",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQU1FQUpQMUpRcURsbHBxQmNneXZIbElMTEFwZm5HbUNzRkdBeVRFMDlyc2k1b2ZEaTZkY1NvYmpVbzlqSXlvb05JdGFNMWh5LXZONFdrdzNqUUhKTkd6Z2NOemQ1T280M3gzRTYwR0Q1MkFoenFtM0ZnSFMzUlR2WFNub2tvdXVrSmJwSHQ1V3RFeGtuS1NuR1dGVTNYdw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 14:10:00 GMT"
     },
     {
       "title": "[게임찍먹] 드림카로 떠나는 일본 여행…입문자도 달리는 ‘포르자 호라이즌6’",
       "source": "디지털데일리",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHQ202d040d1pUNVNLTWZVeld5dmw4c00tVzhyMklia21zZ3hYLTNGSFVGcC1aS0hQMlhmRFMxY29yWGl0aGVoU0lfRXc1dTM2WTk0TDhQbk1HNm5lT1pPOE1BdGo?oc=5",
       "publishedAt": "Thu, 14 May 2026 13:35:10 GMT"
+    },
+    {
+      "title": "[단독] 울산 김상욱·김종훈, 여론조사 통한 단일화 사실상 합의",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZbDNQbGlMQVk4TFpicVYxS2ZLbWdQTGF6OV9mYUtSeTRfVGQ1X0lIQ0w3Yi1jWWFQSEk3X2dSRmRrRHNWS1hPZGJxOGZHc05JTDdHTGhwTVltZmh2bkpIaXN0eWo4dlRBcWc?oc=5",
+      "publishedAt": "Thu, 14 May 2026 13:19:00 GMT"
     }
   ],
   "sources": [
