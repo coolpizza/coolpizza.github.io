@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T15:58:38.199228+09:00",
+  "generatedAt": "2026-05-14T18:26:53.411908+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,489.70",
-      "change": "+0.20",
-      "changePercent": "+0.01%",
+      "value": "1,491.30",
+      "change": "+1.80",
+      "changePercent": "+0.12%",
       "direction": "up",
-      "updatedAt": "2026-05-14 15:51"
+      "updatedAt": "2026-05-14 18:21"
     },
     {
       "label": "100엔/원",
-      "value": "943.68",
-      "change": "+0.21",
-      "changePercent": "+0.02%",
+      "value": "944.34",
+      "change": "+0.87",
+      "changePercent": "+0.09%",
       "direction": "up",
-      "updatedAt": "2026-05-14 15:51"
+      "updatedAt": "2026-05-14 18:21"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "29.1°C",
-        "feelsLike": "30.0°C",
+        "temperature": "27.6°C",
+        "feelsLike": "28.3°C",
         "highLow": "최고 29.1° / 최저 13.1°",
-        "humidity": "37%",
-        "wind": "4.3 m/s",
+        "humidity": "41%",
+        "wind": "2.3 m/s",
         "rainChance": "0%",
-        "pm10": "20.9 μg/m³",
-        "pm25": "15.9 μg/m³",
+        "pm10": "26.5 μg/m³",
+        "pm25": "22.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-05-14 15:45"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-05-14 18:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "28.4°C",
-        "feelsLike": "30.8°C",
-        "highLow": "최고 28.7° / 최저 12.2°",
-        "humidity": "49%",
-        "wind": "3.7 m/s",
+        "temperature": "23.8°C",
+        "feelsLike": "25.9°C",
+        "highLow": "최고 28.6° / 최저 12.2°",
+        "humidity": "69%",
+        "wind": "4.8 m/s",
         "rainChance": "0%",
-        "pm10": "20.9 μg/m³",
-        "pm25": "15.9 μg/m³",
+        "pm10": "26.5 μg/m³",
+        "pm25": "22.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-05-14 15:45"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-05-14 18:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "28.7°C",
-        "feelsLike": "29.4°C",
-        "highLow": "최고 28.7° / 최저 12.3°",
-        "humidity": "41%",
-        "wind": "7.8 m/s",
+        "temperature": "26.4°C",
+        "feelsLike": "27.6°C",
+        "highLow": "최고 28.6° / 최저 12.3°",
+        "humidity": "51%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "20.9 μg/m³",
-        "pm25": "15.9 μg/m³",
+        "pm10": "26.5 μg/m³",
+        "pm25": "22.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-05-14 15:45"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-05-14 18:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "22.5°C",
-        "feelsLike": "23.0°C",
+        "temperature": "19.2°C",
+        "feelsLike": "20.1°C",
         "highLow": "최고 29.3° / 최저 12.3°",
-        "humidity": "73%",
-        "wind": "15.2 m/s",
+        "humidity": "78%",
+        "wind": "5.8 m/s",
         "rainChance": "41%",
-        "pm10": "27.7 μg/m³",
-        "pm25": "20.0 μg/m³",
-        "airQuality": "매우 나쁨",
-        "airQualityIndex": "81",
-        "updatedAt": "2026-05-14 15:45"
+        "pm10": "31.3 μg/m³",
+        "pm25": "25.6 μg/m³",
+        "airQuality": "나쁨",
+        "airQualityIndex": "80",
+        "updatedAt": "2026-05-14 18:15"
       }
     ]
   },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜디오티디 김포달님이주유소",
-        "address": "경기 김포시 김포대로 1467",
-        "updatedAt": "2026-05-14 11:11:29",
+        "stationName": "그린씨티 셀프주유소",
+        "address": "경기 김포시 양촌읍 양곡우회로 40",
+        "updatedAt": "2026-05-14 14:59:24",
         "districtSamples": [
           {
             "district": "김포시",
@@ -362,9 +362,9 @@
         "areaLabel": "파주 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "파주시",
-        "stationName": "헤이리주유소",
-        "address": "경기 파주시 탄현면 평화로 809",
-        "updatedAt": "2026-05-14 14:56:42",
+        "stationName": "㈜진우에너지 자유로주유소",
+        "address": "경기 파주시 재두루미길 622",
+        "updatedAt": "2026-05-14 14:59:44",
         "districtSamples": [
           {
             "district": "파주시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "시진핑 중국 개방 약속과 한은·기재부 정책협력까지 이시각 주요뉴스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sWkhudkxXN0dEdmdlRGhjM29qOFJhNklBc252TElNNlJOS05nMy03dmVTNEFLbmdLTnlOaWhRWmJYVzBHYWlLQUxyblJEV1lmb0N3WUR5SjhUczc0bXk0ejJjLXo1RmJUci1pb2tvRDDSAXRBVV95cUxQeXg3c0syb19TUk5ET2h4cFdNUGExdGVFZThZVTJadHV1b2pGdGEyZmtZaHhCajFFdDNPYnNyTF81bE5DbTVja3Y0b3ZRblU2bV9qeVozSU9FYUllcHRDMm5FQXJVSUtBRkVTMEFRQk4zQ2ZpVw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:37:57 GMT"
+      "title": "베이징에서 펼쳐진 성대한 환영 행사 ... 트럼프, 미-중 정상회담 '훌륭했다' 평가",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40OTBYVUhsaWgyM1JoM3ppX29WaDF6a1E2OUdYRks5LWRVUHVvMjd5M0VBX2k3UUFsUWlJLWxKUm5QQy1sLVFHOG9UbVRtV3B5NEV0ZVlaa1pEZUpE0gFiQVVfeXFMTUtYNDlEdlNoLUJxVGpmWG9CSUUxeThLZFFkbGd4S3hJZmYyNEhNR2I4V3o3bnFjMkhsdnpfM25fYW1oOE1obENKWEhIWW1neGF0amp3V1Jjb096Q1JwVlZYblE?oc=5",
+      "publishedAt": "Thu, 14 May 2026 09:11:15 GMT"
     },
     {
-      "title": "목포해대, 정부 해양인재 양성 협력 본격화",
-      "source": "해양한국",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XRjdtbFhmZ05RRGNOUkVhV04xdFVpRl84OGVYUzdHTUpxOTFrdlJhajJ5alFGQThIRFItaWdwOFA5amkzbjgyYWpXZGJZNDZIOVVpb00zWWtadDZxMk5BRHdTTURSQi04bUYyVDBySWMxeUphcTZOWmVB?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:11:36 GMT"
+      "title": "전남 ‧ 광주교육청-교육부, 통합교육청 출범 주요 과제 논의",
+      "source": "여수넷통뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzMFJCbnhDSUF6cmFNaGMxNjJkdTEzbkxlbHU1QkJORmtBY01PMmU4bE5UazFqR09LV0w2SGFCYXNYZnFhRkpEZmJrbGNvanlyQ0dPNzNhLXFsRGR2cVpmR184UXZrTlRpSFE?oc=5",
+      "publishedAt": "Thu, 14 May 2026 09:01:54 GMT"
     },
     {
-      "title": "[수도권 주요 뉴스]경기도, C4IR Korea 멤버십 프로그램 추진",
-      "source": "노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XRDl6S3hBMHpHNm1EVV9yOFB1NnhxRjZ2eXBPbzZjN2Nhdms1bm90Vm9laVVfVjlhTlpaRDc3Z3NxMVlrZEExUnhJV3QxUDBCNEE?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:00:00 GMT"
-    },
-    {
-      "title": "하루 10분 호주 뉴스: 5월 14일 목요일",
-      "source": "SBS Australia",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXNGeUJBMHljQ2U2U2JiUW51R0ZIejRjNzhFV0RIRmg4OERXbktDTGxwLUtuNG1fa0NvdGMxMUp5cHdaOXNqTkZtSEsxUlhuSjlfZ2J4MkhmWFVoUFhmMks0SzA0UjBobm1zMU9QeFhNb1ZtOWdoR0dOcjhpOFZLSUs3TGZzbHpiemhyaXE4Uy1zLXlxLWpz?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:41:44 GMT"
-    },
-    {
-      "title": "[인천 주요 뉴스]인천시, 중동사태 장기화에 중소기업 대출 이자 지원",
+      "title": "백악관 \"미중 정상, '호르무즈 해협 열어둬야' 한목소리\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSGdfN2dvZGpqUENzbWJweVFBdXRud1dQbWdoT0lQUGthUlJJY09KYjgyZjRqc1I0NU5fb3E1M1FuOG5PSmo1VS1UT1ZDVlpTQjRz?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81UjFrY093Q0lrd0hlV0w4aUNBMnVSRWJrRzRDMGZHNzFLNU1kRUlKZmZrNmJNbFp2MkJtRHJqdGR5bnRBOWRjYlM3UUhsYzdrUjdNcDh2Zk96dXBtZlg3cA?oc=5",
+      "publishedAt": "Thu, 14 May 2026 09:18:00 GMT"
     },
     {
-      "title": "주진우, ‘정원오 폭행’ 피해자 녹취 공개...“5·18 논쟁 없었다” 진실 공방 격화 外 [오늘의 주요뉴스]",
-      "source": "시선뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52a28tQW9LMDJlWXlnZHlrVjl4ZjU5RXdMclNFcmVXdlA3UnZWdklaYmEyUkxuVHZVUVV4eDNFZ1k1Y1VqVXcxTmNORXFQSDdyU0dKM1hJclRPMWlIb293Q1hMU2NJZHo0NVNPMmd30gFyQVVfeXFMT1BiMTBKU251V0NBeHMwYWlWWVJtM0F2YTVKdS0wSURFUU5kYy1VWUsybldzUlRWQS0xY0IyamM0aXhMaXg4NWxJZlN3VXhFZVBHby16UVAwUS1yVVdoQXFDaXlpaEJ5WjhLSkxuMmxrUWR3?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:17:44 GMT"
+      "title": "수자원공사 신임 상임감사위원에 홍정민 전 의원",
+      "source": "굿모닝충청",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vX3RiM0VWMFdlVm5Kc19KTzQzYXNiV2R0R1VwQW9XQUswVlplc2Zla3Q2SzFXN3djaXpsbHI1UjlSdnlUTld5Y2NjTHlJcFk3WXhaZkd6Uko3Y3k1ZHZQbmRTSFJCWmg5eElvTnBXSll0Zw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 09:15:49 GMT"
     },
     {
-      "title": "민주·혁신당, 울산시장 후보 김상욱으로 단일화",
+      "title": "한국 증시, 외국인 매도 급증…외국인 올해 71조원 순매도",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84SlR5TWgtWm81V3hFaGhvSnp1ZXRVbi15RjJyQ25mMHlJTW9pTHJxVVk0YmtDaENDSXdWOUhWdEJWSlJtZGdpU3ZNY2RKbkdBdWE0bXozN3pNT2N1QzRzbEdabEtQMThvZlVCbTRR?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOaVRpanRnY0pkVGNmUjBVNEVHZ0RzU1pXUWxEaC1sS09ZN3BHRFNCd3JaR2s3VlF6QjVwMWZYTEpVWjd5V0Q2TG1UbWxIdWRGLTY4?oc=5",
+      "publishedAt": "Thu, 14 May 2026 09:12:00 GMT"
     },
     {
-      "title": "광주·전남교육청-교육부, 통합교육청 출범 주요 과제 논의",
+      "title": "밀양시, 이정곤 부시장 권한대행 체제 전환…\"행정공백 최소화\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnYVU2d3VocGlaMW5rYWhmbmJ1dE90dW1UMHBPNFpUVnlHUjFLN2h1M1h4X0NNdkxKNTVXZC1fbVc1QUdUa0hPTWs1Ujd6NEZpTFcw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5icERTWDN6ek5qWUF1V1dOcTdySmNCaV95Zmh6ZWh4T0x1cnU0N1BDOTc0UTQxWTRJYVl3YUN1dUpmcTB5bklqMWZtbUluUVpOSzEw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 09:07:00 GMT"
     },
     {
-      "title": "[속보]코스피 7981.41 사상 최고치 마감…8천피 임박",
+      "title": "이란 도심에 '종전 5대 핵심 조건' 간판 등장…대국민 선전전",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DZUJIaklsNWVuVV9oRzhOY0tOLXItVmNORTMtdFZPNTJCRWd1WlZxYVhXT2EzOFRJbUdsYlNrRm5SazdCRjNkdzlNWk1WT0V0VmxHQ3ZSQjFvdTkxS1VaaA?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ncEZseG1fbjAwYUtZQi13SWYxdVc3UEpBUWJfazFFTUZuZ0VTQVBsYUdRS3dOODJkay1KLVZxUTRXb2xyTXNfQ256MWV6blV5aTM0?oc=5",
+      "publishedAt": "Thu, 14 May 2026 09:17:00 GMT"
     },
     {
-      "title": "주택건설업계 \"공급여건 개선해달라\"",
+      "title": "초여름 더위 당분간 지속…큰 일교차도 주의",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GdTloSTh5Nl9rdE51X09zLTA5YXU1bi1LOUc1bmt2cDZXRWJXOUY5ZWtCenAxSHFZMjkwOVJEVE91QXFSb2VTZWFJMWRLR2dfdkRF?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xa1R1ZGZFbGlFcWh2S0E3R2IzeDBLMmUydUJIMkNFUHdIcGZMWXJIdE9pMGlnOGg0YmFidVB2TmNJTHBpR3MtaHdETzNZUWtGY0Vj?oc=5",
+      "publishedAt": "Thu, 14 May 2026 09:17:00 GMT"
+    },
+    {
+      "title": "[포토] '창업사관학교 입교생 인증지원' 업무협약",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pc2s2akVIWENkbndoMk5ieFkzRC1XcS0zdWRlMUVSQVR2Y1FaUW1CVEVQckJVdmxpWG45S2FuQmM1ckJMN0JFMmxVTDFBRzFIT3V2V3l4NGdEaTc4MHFzUg?oc=5",
+      "publishedAt": "Thu, 14 May 2026 08:54:00 GMT"
+    },
+    {
+      "title": "교육부 주최 '스승의날 기념식'에 교총·전교조 불참",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hNU5PQm5nWnp2WXpuRWxpUmJvQm4xUWE1YVlraF9FZ3dyWkwwMTJuRW9ldUlzNkZtVzd5TTYtbm9Nb3FITGFSaWFNb05WT0JGUmkzVi1zLWw0eWpnT2t3aWFYZnJWaHNiQ3hSV2JPRGtUYUJFWF84Zg?oc=5",
+      "publishedAt": "Thu, 14 May 2026 09:12:00 GMT"
     }
   ],
   "sources": [
