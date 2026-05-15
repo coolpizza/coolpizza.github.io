@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-16T01:26:23.475626+09:00",
+  "generatedAt": "2026-05-16T03:01:39.117770+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,537.25",
-      "change": "-526.21",
-      "changePercent": "-1.05%",
+      "value": "49,639.80",
+      "change": "-423.66",
+      "changePercent": "-0.85%",
       "direction": "down",
-      "updatedAt": "2026-05-16 01:05"
+      "updatedAt": "2026-05-16 02:40"
     },
     {
       "label": "S&P 500",
-      "value": "7,421.33",
-      "change": "-79.91",
-      "changePercent": "-1.07%",
+      "value": "7,446.59",
+      "change": "-54.65",
+      "changePercent": "-0.73%",
       "direction": "down",
-      "updatedAt": "2026-05-16 01:10"
+      "updatedAt": "2026-05-16 02:45"
     },
     {
       "label": "나스닥",
-      "value": "26,278.15",
-      "change": "-357.07",
-      "changePercent": "-1.34%",
+      "value": "26,423.52",
+      "change": "-211.70",
+      "changePercent": "-0.79%",
       "direction": "down",
-      "updatedAt": "2026-05-16 01:05"
+      "updatedAt": "2026-05-16 02:40"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,499.50",
-      "change": "+6.00",
-      "changePercent": "+0.40%",
+      "value": "1,498.40",
+      "change": "+4.90",
+      "changePercent": "+0.33%",
       "direction": "up",
-      "updatedAt": "2026-05-15 22:02"
+      "updatedAt": "2026-05-15 22:04"
     },
     {
       "label": "100엔/원",
-      "value": "944.86",
-      "change": "+2.02",
-      "changePercent": "+0.21%",
+      "value": "943.42",
+      "change": "+0.58",
+      "changePercent": "+0.06%",
       "direction": "up",
-      "updatedAt": "2026-05-15 22:02"
+      "updatedAt": "2026-05-15 22:04"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "15.8°C",
-        "feelsLike": "16.7°C",
-        "highLow": "최고 26.6° / 최저 13.3°",
-        "humidity": "91%",
-        "wind": "3.3 m/s",
+        "temperature": "14.4°C",
+        "feelsLike": "15.0°C",
+        "highLow": "최고 26.0° / 최저 13.3°",
+        "humidity": "94%",
+        "wind": "3.8 m/s",
         "rainChance": "0%",
-        "pm10": "44.2 μg/m³",
-        "pm25": "41.6 μg/m³",
+        "pm10": "45.6 μg/m³",
+        "pm25": "43.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "80",
-        "updatedAt": "2026-05-16 01:15"
+        "updatedAt": "2026-05-16 02:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "13.5°C",
-        "feelsLike": "13.2°C",
-        "highLow": "최고 20.6° / 최저 12.2°",
-        "humidity": "94%",
-        "wind": "7.2 m/s",
+        "temperature": "12.6°C",
+        "feelsLike": "12.4°C",
+        "highLow": "최고 20.4° / 최저 12.2°",
+        "humidity": "100%",
+        "wind": "7.6 m/s",
         "rainChance": "0%",
-        "pm10": "44.2 μg/m³",
-        "pm25": "41.6 μg/m³",
+        "pm10": "45.6 μg/m³",
+        "pm25": "43.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "80",
-        "updatedAt": "2026-05-16 01:15"
+        "updatedAt": "2026-05-16 02:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "14.0°C",
-        "feelsLike": "13.9°C",
-        "highLow": "최고 25.3° / 최저 12.3°",
-        "humidity": "94%",
-        "wind": "7.2 m/s",
+        "temperature": "12.4°C",
+        "feelsLike": "12.2°C",
+        "highLow": "최고 24.8° / 최저 12.3°",
+        "humidity": "100%",
+        "wind": "6.8 m/s",
         "rainChance": "0%",
-        "pm10": "44.2 μg/m³",
-        "pm25": "41.6 μg/m³",
+        "pm10": "45.6 μg/m³",
+        "pm25": "43.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "80",
-        "updatedAt": "2026-05-16 01:15"
+        "updatedAt": "2026-05-16 02:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "13.3°C",
-        "feelsLike": "14.1°C",
-        "highLow": "최고 25.0° / 최저 12.9°",
+        "temperature": "13.0°C",
+        "feelsLike": "13.6°C",
+        "highLow": "최고 26.4° / 최저 12.6°",
         "humidity": "99%",
-        "wind": "1.9 m/s",
+        "wind": "2.2 m/s",
         "rainChance": "0%",
-        "pm10": "75.9 μg/m³",
-        "pm25": "73.6 μg/m³",
+        "pm10": "79.4 μg/m³",
+        "pm25": "77.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "75",
-        "updatedAt": "2026-05-16 01:15"
+        "updatedAt": "2026-05-16 02:45"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "태리알뜰주유소",
-        "address": "경기 김포시 고촌읍 김포대로451번길 3",
-        "updatedAt": "2026-05-15 23:59:18",
+        "stationName": "김포통진IC주유소",
+        "address": "경기 김포시 통진읍 김포대로 2002",
+        "updatedAt": "2026-05-16 00:22:15",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,22 +376,34 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "U.S. Congress",
+      "title": "USA SECURITY AMERICA 250",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMR3hlTjlOZkVxWDRVakhyNzFmT2pHcTNKSUR2ZFJuazI2MEcySmdvMF9Bbmx1ajVuWWxpTGRuV2k5aURCYkdEMTJUREVRUUNxb1dDd2dneTZEMVlnZE1sVg?oc=5",
-      "publishedAt": "Fri, 15 May 2026 16:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ESW9PTU1rZ2RWZFJHMFVNc1ZGSWFzdTV6WmF1WWVIMVZpMy01U1dkUnYybmZoeG5Ua0dHdmY4SEh0U3NQRTJWOENDMFZMSmszMG1PbDZqVExoMVdjQnVfOA?oc=5",
+      "publishedAt": "Fri, 15 May 2026 17:29:00 GMT"
     },
     {
-      "title": "epaselect ITALY TENNIS",
+      "title": "ROMANIA DEFENSE EXHIBITION",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oeUNYLXotdkd0U0NZLTBsbFB2X3RxTENPTlVYNTlaNkJjNy00dUdGR1JVX01TV183bXd2aHVsUV90Q1NFWWVzbWZLTFROSjNncWIzRGFNYmZaQkl1RmNLcQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 16:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3dDktS2pTTVVld0ZtNXZ4U3hFa3lOdXZUbVp2N0h5ZWh2TnItS2JXS2JzUmZQdDNNdThOczBJYVNFUHl6LWNIcFAtYzVBWkt2aHpXVlpoRnVVU2g1TWVrNA?oc=5",
+      "publishedAt": "Fri, 15 May 2026 17:21:00 GMT"
     },
     {
-      "title": "DLSSEverything 1.1 버전 출시와 함께 DLSS 파일에 대대적인 업데이트가 이루어졌습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREF0RkhCUjJYZWpVanF2QTJfSDNEOWZPeHlXYkZLbUhUZzVkLUZITW1pemFuSURzdVpRN2pueUpwdnpoLWx4STdHdmpMd25KcWc3dUVBU09MTHlaanVFaUpaVkFEM1RHeTFzOENTSFpCY2prQko3eldGNDZQa2FKRnA1RW1QTUJqdThlWnVVOHBNaEJZbWZRQ1hMNzRLQWEt?oc=5",
-      "publishedAt": "Fri, 15 May 2026 16:07:10 GMT"
+      "title": "Israeli Embassy Staffers Killed",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OLVhURlFMUXdMMG9UVzBzUUQxcFRMSXpIMHhPcWw2NmN1eTBmOU1xYTJ1dVNyR1Fucm03emdUakppQXpWa1RqZHdZTlZBMzJpY3Bhc2ZVUkxrX1k4TjRHaQ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 17:03:00 GMT"
+    },
+    {
+      "title": "‘14초93의 질주’ 이정후 첫 그라운드 홈런",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aRjgtYlY3U2VReTVPZVJ5LWgzb1pZNzBnS05YbE55UlFMX1ZqaEVxTGpLdzZaWm96M3IwUVNFSmFHa0FwaHRseTBxMWlOaEdpUTZtR1lrZUxOSk1WY0JHZ255S0FSdW9aT3YyeXhmNmFUNzR60gFmQVVfeXFMTUFRNUtBbGc4enYteklaUlV2ZlN1RDFHdW50MWdodDNlbmNQcTVrb0F1UjBRSlp6amFoM0JRSWJHRFR4cVFsek83djFhWHlLVFFSN09IbC13bFFkMkxXc2lBQjhDT1BB?oc=5",
+      "publishedAt": "Fri, 15 May 2026 16:40:00 GMT"
+    },
+    {
+      "title": "콩·소고기·비행기 판 美, 'G2 위상' 과시한 中",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pVEtNVHpIT1VVSXd3WUVoVTJlOVpWQXJEeG1BeUN6NDdkMUVNV1dIbDFIVHgzZ21sZGxmTGlTS2dJRE83Z19NMi0wNEx6RDZUNU1DdGhjb2t4UdIBVEFVX3lxTE1XQUZQNkxYQTl5RkJUSF9oZF9uYndYNnZHSWFHT3VyME1BX2dGVkxqQjlRVUo5SVZ1SGVqc1VSdkxYcWFnUFFKYVRXTWc4ZHdobXliWQ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 16:10:00 GMT"
     },
     {
       "title": "지구환경과학부 국종성 교수팀, 비가역적 해수면 상승, 구름 변화가 결정 - 보도자료 - 뉴스 - 서울대 소식",
@@ -400,13 +412,7 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Fri, 15 May 2026 15:45:00 GMT"
     },
     {
-      "title": "'트럼프 경제사절단' 보잉·퀄컴·카길 CEO들, 中고위급과 면담",
-      "source": "연합뉴스 한민족센터",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JSmNuYmdWVkt2cnNhNktBTmhINTdqSVExUlRoUERzMUJiMkR6TDdPcjNQUXI1WGE2bEZ2Nlg0R3lTN1FCX3JpRlg1U09XZ3NTc2s2d0JOQ21aa0RNV0Nlbkg0OHFxVkRSM3EtNmNTdkJYZEsw?oc=5",
-      "publishedAt": "Fri, 15 May 2026 13:51:01 GMT"
-    },
-    {
-      "title": "\"대만 공격때 美가 막을 거냐\"... 시진핑, 대놓고 트럼프에 물었다",
+      "title": "트럼프 \"시진핑과 北문제 논의, 대만 문제 어떤 약속도 하지 않았다\"",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVdsd2ZmcmRTN0RPdlNRZ2tMZG5QUjFEYWNEQ3VsMkFhdmF3SnpWbGlhQ2NmNmJNVHFuMHNxckJ5VXdwTGRITFkzRVZHU2RfZVZCWnV1VUo0ZUF0Zkxzam1LQ25uSDEtNno4RG9UblFkQzFoLU9fS1YyWU9pMW85X0w0SW8?oc=5",
       "publishedAt": "Fri, 15 May 2026 13:28:00 GMT"
@@ -428,12 +434,6 @@ window.DASHBOARD_DATA = {
       "source": "KBS 뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ybTV5S0IzNkJheTVYMTktOHlZdFY4SVFpOTNseGlORjFhUnQxN3NmYS1BM0otSkIxcy1PcnpzRFRQWXVTZ0NsaEFmZ3RnajhOaDZfLUN6YldpSVE?oc=5",
       "publishedAt": "Fri, 15 May 2026 12:25:00 GMT"
-    },
-    {
-      "title": "[AI그래픽] LG 치리노스, 5월 15일 인천 SSG전 투구 분석",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZ19rVnFFb2ItbWhPSkVCdm9LcHBnTlI0dnFnVUw4bEpKemtzUlF3OXpwaTNENk51Ni1Xb0ZtSVJwTV9na3VUV1dKV2NlSEs1ZDJWbl9Rc0NnRkVq?oc=5",
-      "publishedAt": "Fri, 15 May 2026 12:16:00 GMT"
     }
   ],
   "sources": [
