@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T19:38:10.192160+09:00",
+  "generatedAt": "2026-05-15T21:20:11.557342+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,497.80",
-      "change": "+4.30",
-      "changePercent": "+0.29%",
+      "value": "1,500.50",
+      "change": "+7.00",
+      "changePercent": "+0.47%",
       "direction": "up",
-      "updatedAt": "2026-05-15 19:33"
+      "updatedAt": "2026-05-15 21:17"
     },
     {
       "label": "100엔/원",
-      "value": "944.91",
-      "change": "+2.07",
-      "changePercent": "+0.22%",
+      "value": "946.45",
+      "change": "+3.61",
+      "changePercent": "+0.38%",
       "direction": "up",
-      "updatedAt": "2026-05-15 19:34"
+      "updatedAt": "2026-05-15 21:17"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "20.8°C",
-        "feelsLike": "21.8°C",
-        "highLow": "최고 28.4° / 최저 14.5°",
-        "humidity": "69%",
-        "wind": "4.3 m/s",
+        "temperature": "19.3°C",
+        "feelsLike": "20.5°C",
+        "highLow": "최고 28.8° / 최저 14.5°",
+        "humidity": "77%",
+        "wind": "3.3 m/s",
         "rainChance": "0%",
-        "pm10": "33.9 μg/m³",
-        "pm25": "31.0 μg/m³",
+        "pm10": "44.2 μg/m³",
+        "pm25": "41.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "75",
-        "updatedAt": "2026-05-15 19:30"
+        "airQualityIndex": "80",
+        "updatedAt": "2026-05-15 21:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "16.4°C",
-        "feelsLike": "17.2°C",
+        "temperature": "16.1°C",
+        "feelsLike": "17.1°C",
         "highLow": "최고 24.9° / 최저 13.5°",
-        "humidity": "89%",
-        "wind": "5.5 m/s",
+        "humidity": "88%",
+        "wind": "2.7 m/s",
         "rainChance": "0%",
-        "pm10": "33.9 μg/m³",
-        "pm25": "31.0 μg/m³",
+        "pm10": "44.2 μg/m³",
+        "pm25": "41.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "75",
-        "updatedAt": "2026-05-15 19:30"
+        "airQualityIndex": "80",
+        "updatedAt": "2026-05-15 21:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "19.2°C",
-        "feelsLike": "20.6°C",
-        "highLow": "최고 27.1° / 최저 13.4°",
+        "temperature": "17.9°C",
+        "feelsLike": "18.8°C",
+        "highLow": "최고 27.7° / 최저 13.4°",
         "humidity": "82%",
-        "wind": "5.2 m/s",
+        "wind": "4.6 m/s",
         "rainChance": "0%",
-        "pm10": "33.9 μg/m³",
-        "pm25": "31.0 μg/m³",
+        "pm10": "44.2 μg/m³",
+        "pm25": "41.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "75",
-        "updatedAt": "2026-05-15 19:30"
+        "airQualityIndex": "80",
+        "updatedAt": "2026-05-15 21:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "17.5°C",
-        "feelsLike": "17.6°C",
-        "highLow": "최고 29.7° / 최저 12.2°",
-        "humidity": "86%",
-        "wind": "11.3 m/s",
+        "temperature": "14.3°C",
+        "feelsLike": "14.5°C",
+        "highLow": "최고 29.9° / 최저 12.2°",
+        "humidity": "98%",
+        "wind": "7.9 m/s",
         "rainChance": "0%",
-        "pm10": "36.0 μg/m³",
-        "pm25": "32.9 μg/m³",
+        "pm10": "40.5 μg/m³",
+        "pm25": "38.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "77",
-        "updatedAt": "2026-05-15 19:30"
+        "updatedAt": "2026-05-15 21:15"
       }
     ]
   },
@@ -272,19 +272,19 @@
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,969원/L",
-        "lowestDistrict": "동작구",
-        "stationName": "주식회사 새서울글로벌",
-        "address": "서울 동작구 시흥대로 616 (신대방동)",
-        "updatedAt": "2026-05-14 17:59:59",
+        "lowestPrice": "1,968원/L",
+        "lowestDistrict": "금천구",
+        "stationName": "㈜씨더블유 이엔지 금천지점",
+        "address": "서울 금천구 독산로 147",
+        "updatedAt": "2026-05-15 21:22:29",
         "districtSamples": [
+          {
+            "district": "금천구",
+            "price": "1,968원/L"
+          },
           {
             "district": "동작구",
             "price": "1,969원/L"
-          },
-          {
-            "district": "금천구",
-            "price": "1,973원/L"
           },
           {
             "district": "강서구",
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "오일스타㈜익산지점 착한8주유소",
-        "address": "전북 익산시 용동면 익산대로 2538",
-        "updatedAt": "2026-05-15 17:59:37",
+        "stationName": "㈜한영 부송지점",
+        "address": "전북 익산시 무왕로 1277",
+        "updatedAt": "2026-05-13 05:30:07",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "김포감정주유소",
-        "address": "경기 김포시 김포대로 1135",
-        "updatedAt": "2026-05-15 17:59:20",
+        "stationName": "부강하나주유소",
+        "address": "경기 김포시 양촌면 양곡로 382",
+        "updatedAt": "2026-05-15 17:59:51",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "[한국뉴스 TV] 26년 5월 15일 (금) 오늘의 주요뉴스",
-      "source": "24news.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fZ3N3Rk9QSF9ETWFnNEloSDFLaTVPTEQ0NS1OX0R6ckpUQWk1V3hkUk41ek5KTThqdUtKdkU5OExhSF9XOWxYV3FnTm9oYTF2cS1pNldYUEo4am9IYjdfcFdRVkVRbzQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 10:07:34 GMT"
-    },
-    {
-      "title": "충돌 피하고 ‘실리’…미중 정상, 9월 또 만난다",
-      "source": "채널A",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGbzZJeWtKWlFucWUwS0dYTWRYNU5KOGhya2d0UFBERjhlOEdpelMxWkFfQWJCeGpEY2NtWVNBVXlkWkE3Qmg5ak9qUmJ6dmx1UDRBS0dGVXBsb2ppSUHSAWNBVV95cUxNUzNjVDhaSlpnYlVfV1dGa2NaN3BXdG9WN0JyU0sxWGdTVVRXcnVwRjRBclFxT0lLOGJQaGNJU05faEZ5b1NGeW9xWWNGaXZRbG9BbEl2cjdoaEdrS2NpUklYeGM?oc=5",
-      "publishedAt": "Fri, 15 May 2026 10:01:00 GMT"
-    },
-    {
-      "title": "삼성전자, 1분기 D램 점유율 38.4%로 증가…주요 품목 시장 장악력 확대",
+      "title": "PGA Championship Golf",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aeUR2azRwV3VBUEpHcXEwa0dpYzRnSXdBeWx4NDlIUHZzWkc2R0FaNnd1elFjWlV0aG45ckJnQTNQUmRyVnVESWRrTVdxTVpKZkdMOWRoTUttNF9WSWp0Tg?oc=5",
-      "publishedAt": "Fri, 15 May 2026 10:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOaXNXZ3RkWHJzYUVReTF1UzQ5LXhLYkh4bmFlb2p4RWNhVDJ4YXNiLW12RnZVbU9tRkpBNWpCdTRyREU4T1UwTEhUZDVsaDJOUTVKY3BIZldOWTEzVlc3Nw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 12:07:00 GMT"
     },
     {
-      "title": "트럼프, 성과 급했지만…반도체·관세 '안갯속'",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90ZjVpanYzbFpEOWdqWXVVZjRDTlJsWERPeHA1WF93WldYY1M3TFZ1ZlQ3STlwOU1JTzRlQWo4UmJWb0pFbWY5cG1jRHJUNU5JTG9sMW5UMC15ODRSWEtubw?oc=5",
-      "publishedAt": "Fri, 15 May 2026 10:11:00 GMT"
+      "title": "트럼프 시진핑과 북한 논의…이란, 핵 20년 중단이면 괜찮다",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50MnY5N0JqOENMVFBNd0lEaG5KTTA5eXZ0UGZXXzNaY1AtTXQ2b21DQXBGNDlVNmtHMk5oR09ySWxLcWZrVUM0QTlYdVJmSnpMbmk2WmVKQmPSAVhBVV95cUxOdDJ2OTdCajhDTFRQTXdJRGhuSk0wOXl2dFBmV18zWmNQLU10Nm9tQ0FwRjQ5VTZrRzJOaEdPcklsS3Fma1VDNEE5WHVSZkp6TG5pNlplSkJj?oc=5",
+      "publishedAt": "Fri, 15 May 2026 11:27:34 GMT"
     },
     {
-      "title": "국민의힘 \"李 대통령 관권선거\" 반발",
+      "title": "트럼프 \"시진핑과 북한에 대해 논의\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDb2FYWW4wRE1aNmJfTG1CaTh0R1BLYmI3Rkloc2U1N25mc2NrX3lUYW9UamU1YmRyWUpRdnpRQUxpdVVMMERmMUVFUWVRUm5ianhBVzN2X280SlNMZG9uNg?oc=5",
-      "publishedAt": "Fri, 15 May 2026 10:14:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IQzV6SDVJaUNWYU81WmNrNmw5Q1J6OEsyTGF0R0hRR1V3cUc4c1VvN0RIM19rNHJWWDk0YXJYNHFHdzFaOElZSUk4emRrbnJ6UHR2RlRMcHV0dnpEb0I2Xw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 11:25:00 GMT"
     },
     {
-      "title": "칸 '군체' 포토콜서 인사하는 출연진들",
+      "title": "[속보] 이란 외무 \"미국에서 대화 계속하자는 메시지 받아\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BVWpxZjhaakdHV0dHc2stQmp1bEptWXVqZHFpYzRqRFViQ2UzWDNmZGlZSTJNYTdRMXNpaEl6LTE4M3hueDBjel9wWC1IS1RCdF9lZzhMZHpQN1Y5SlJCRg?oc=5",
-      "publishedAt": "Fri, 15 May 2026 10:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTenJUWHNMS0xZUVhEMmlSdFR0X0xxRjhSSFhwNjNnZ3VZanMwNVZCeXRUY1BzNmZlUGx2MnZOTUtjTFdkUmtuc3FoUXc5ZGRNMHFmTksweEdaZnNZTnA0VQ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 11:33:00 GMT"
     },
     {
-      "title": "세종대왕 책 보는 시민들",
+      "title": "트럼프 \"시진핑과 북한 논의\"…대만엔 \"갈등 없다고 본다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNVEN0cEJoa2FGSllZbUllOXh3cTRhcVdvRWhnNDkyWWRjbDhQV3pBdGRvampHV2dNWlRSWE9qMGdxN0ZOdmRCUGpZNnZwWkt3VDlZ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 10:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rMzhaZF9oWG1fZlpmeGdIQ2FFRldfUkVsZGJMYlNJUGZaTXRXR0Z3VjRVMWhPSEd2MDU4MnotYS1iUktYOFIxMGhCaUlFX3h0Nzlz?oc=5",
+      "publishedAt": "Fri, 15 May 2026 11:32:00 GMT"
     },
     {
-      "title": "송언석 원내대표 \"李 대통령 관권선거\" 반발",
+      "title": "'타이완 문제' 촉각…다카이치, 트럼프와 통화 추진",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsNDJ5NzlESnlZWEF3VGlqdm53WVJ6bWtrcXRtLWlvTFNOcDRBWlB3YzR2cXBycGJ1SHpHMzhoemR6NU40Wl9nTHlyb1pCUFF4RFA4R2FOcjZydjVDeUR4Uw?oc=5",
-      "publishedAt": "Fri, 15 May 2026 10:13:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hV184cTBGVmQ5VjJhdTlZUzBrSU1HNXdxdmRtN1F1Q1ZlZlAteHdMNEJxcGRNdHNHejhCOEVBX0hpZ0VRN3dVdldDNnRBT1g4SVpF?oc=5",
+      "publishedAt": "Fri, 15 May 2026 11:59:00 GMT"
     },
     {
-      "title": "제주 찾은 정청래",
+      "title": "일본, 필리핀에 호위함 이어 미사일 수출도 검토",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPMjU3TEY0WjVabkt2MFA3Z3dVTnYtMVVrbkl4bzRjaHJCWWpaR0NCLW1lVzlSTlMxVmhkYTBLTEtrVWR6V2dvQXltRmJDRWhXdEtId1hPQUV4eUxuRVc2cw?oc=5",
-      "publishedAt": "Fri, 15 May 2026 10:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PdkRneHpDUVdnN1FacE0wSnJ5c0t3ZzhpU1hkR2VnZEQwanY0WnVEeDZrZVdzRTk5aUNtM0QyZnctenNxQ1ZmbWFxNFVvTHpYQXhGRTNLTmpqWFBTUFBIUA?oc=5",
+      "publishedAt": "Fri, 15 May 2026 12:01:00 GMT"
     },
     {
-      "title": "靑, 블룸버그에 김용범 관련 '정정보도' 요구…아직 묵묵부답",
+      "title": "트럼프 \"시진핑과 북한 관련 논의…이란 핵 20년 중단이면 괜찮아\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fa3dCTktaZlRfaURvTnVLRkhVTXo0c3BxeWIyWHduRHdNWVdzcWZISDVYcDlPNkM0bVV0WGduRkFtdTNXeTA0Uld6M01kZV9NUG5N?oc=5",
-      "publishedAt": "Fri, 15 May 2026 10:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VOExmV2pqS21GZWJNZEtLQmMzTGNpa3ZVSUxzckJwcFVBNi1IWG5iejZzOGgtTWwtLTVxUEp2MXA3VzA1U014eEZja2FHWkZ0amVqLUZXUTdjZ20wUlpBdHplQmYxT1J2Vnc?oc=5",
+      "publishedAt": "Fri, 15 May 2026 11:47:00 GMT"
+    },
+    {
+      "title": "금융지주들, 이례적으로 \"포용 금융에 공감\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1adXNwaldweUotbURqUmtYWE9pcnNsMlh3cWpfSktqSVhTSWUxSkk3bmwtZmp3bVFSQk1qSVpvWW91UmVibndpazJGQ0dtcnlGYi1z?oc=5",
+      "publishedAt": "Fri, 15 May 2026 11:37:00 GMT"
+    },
+    {
+      "title": "트럼프 \"시진핑과 북한 문제 논의…대만 독립엔 의견 안 내\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXbThYQk51dENhamU5RzVjS1hfNjJHb2M1ajRVYjBVTmx1am81UlZvZmE3UHBlTmRoWFJ1YldBS21MMER6d0V1cVB0MHVSNW1EQzU4b1JRWkJNU2pta0xRag?oc=5",
+      "publishedAt": "Fri, 15 May 2026 11:32:00 GMT"
     }
   ],
   "sources": [
