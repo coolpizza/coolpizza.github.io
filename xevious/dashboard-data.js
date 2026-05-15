@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-16T03:01:39.117770+09:00",
+  "generatedAt": "2026-05-16T04:23:22.946663+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,639.80",
-      "change": "-423.66",
-      "changePercent": "-0.85%",
+      "value": "49,608.24",
+      "change": "-455.22",
+      "changePercent": "-0.91%",
       "direction": "down",
-      "updatedAt": "2026-05-16 02:40"
+      "updatedAt": "2026-05-16 03:56"
     },
     {
       "label": "S&P 500",
-      "value": "7,446.59",
-      "change": "-54.65",
-      "changePercent": "-0.73%",
+      "value": "7,433.66",
+      "change": "-67.58",
+      "changePercent": "-0.90%",
       "direction": "down",
-      "updatedAt": "2026-05-16 02:45"
+      "updatedAt": "2026-05-16 04:01"
     },
     {
       "label": "나스닥",
-      "value": "26,423.52",
-      "change": "-211.70",
-      "changePercent": "-0.79%",
+      "value": "26,375.31",
+      "change": "-259.91",
+      "changePercent": "-0.98%",
       "direction": "down",
-      "updatedAt": "2026-05-16 02:40"
+      "updatedAt": "2026-05-16 03:56"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,498.40",
-      "change": "+4.90",
-      "changePercent": "+0.33%",
+      "value": "1,498.20",
+      "change": "+4.70",
+      "changePercent": "+0.31%",
       "direction": "up",
-      "updatedAt": "2026-05-15 22:04"
+      "updatedAt": "2026-05-15 22:06"
     },
     {
       "label": "100엔/원",
-      "value": "943.42",
-      "change": "+0.58",
-      "changePercent": "+0.06%",
+      "value": "944.08",
+      "change": "+1.24",
+      "changePercent": "+0.13%",
       "direction": "up",
-      "updatedAt": "2026-05-15 22:04"
+      "updatedAt": "2026-05-15 22:06"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "14.4°C",
-        "feelsLike": "15.0°C",
-        "highLow": "최고 26.0° / 최저 13.3°",
-        "humidity": "94%",
-        "wind": "3.8 m/s",
+        "temperature": "13.1°C",
+        "feelsLike": "13.6°C",
+        "highLow": "최고 25.4° / 최저 13.1°",
+        "humidity": "99%",
+        "wind": "3.1 m/s",
         "rainChance": "0%",
-        "pm10": "45.6 μg/m³",
-        "pm25": "43.1 μg/m³",
+        "pm10": "48.4 μg/m³",
+        "pm25": "46.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "80",
-        "updatedAt": "2026-05-16 02:45"
+        "airQualityIndex": "79",
+        "updatedAt": "2026-05-16 04:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.6°C",
-        "feelsLike": "12.4°C",
-        "highLow": "최고 20.4° / 최저 12.2°",
-        "humidity": "100%",
-        "wind": "7.6 m/s",
+        "temperature": "13.3°C",
+        "feelsLike": "13.3°C",
+        "highLow": "최고 20.1° / 최저 12.4°",
+        "humidity": "99%",
+        "wind": "7.1 m/s",
         "rainChance": "0%",
-        "pm10": "45.6 μg/m³",
-        "pm25": "43.1 μg/m³",
+        "pm10": "48.4 μg/m³",
+        "pm25": "46.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "80",
-        "updatedAt": "2026-05-16 02:45"
+        "airQualityIndex": "79",
+        "updatedAt": "2026-05-16 04:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
         "temperature": "12.4°C",
-        "feelsLike": "12.2°C",
-        "highLow": "최고 24.8° / 최저 12.3°",
-        "humidity": "100%",
-        "wind": "6.8 m/s",
+        "feelsLike": "12.5°C",
+        "highLow": "최고 24.2° / 최저 12.3°",
+        "humidity": "99%",
+        "wind": "4.1 m/s",
         "rainChance": "0%",
-        "pm10": "45.6 μg/m³",
-        "pm25": "43.1 μg/m³",
+        "pm10": "48.4 μg/m³",
+        "pm25": "46.1 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "80",
-        "updatedAt": "2026-05-16 02:45"
+        "airQualityIndex": "79",
+        "updatedAt": "2026-05-16 04:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "13.0°C",
-        "feelsLike": "13.6°C",
-        "highLow": "최고 26.4° / 최저 12.6°",
+        "temperature": "12.9°C",
+        "feelsLike": "13.5°C",
+        "highLow": "최고 26.4° / 최저 12.7°",
         "humidity": "99%",
-        "wind": "2.2 m/s",
+        "wind": "2.0 m/s",
         "rainChance": "0%",
-        "pm10": "79.4 μg/m³",
-        "pm25": "77.1 μg/m³",
+        "pm10": "82.4 μg/m³",
+        "pm25": "79.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "75",
-        "updatedAt": "2026-05-16 02:45"
+        "updatedAt": "2026-05-16 04:00"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "김포통진IC주유소",
-        "address": "경기 김포시 통진읍 김포대로 2002",
-        "updatedAt": "2026-05-16 00:22:15",
+        "stationName": "(주)유카스에너지 김포뉴타운",
+        "address": "경기 김포시 양촌읍 김포대로 1581",
+        "updatedAt": "2026-05-14 10:48:39",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,22 +376,10 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "USA SECURITY AMERICA 250",
+      "title": "USC Commencement Vonn",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ESW9PTU1rZ2RWZFJHMFVNc1ZGSWFzdTV6WmF1WWVIMVZpMy01U1dkUnYybmZoeG5Ua0dHdmY4SEh0U3NQRTJWOENDMFZMSmszMG1PbDZqVExoMVdjQnVfOA?oc=5",
-      "publishedAt": "Fri, 15 May 2026 17:29:00 GMT"
-    },
-    {
-      "title": "ROMANIA DEFENSE EXHIBITION",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3dDktS2pTTVVld0ZtNXZ4U3hFa3lOdXZUbVp2N0h5ZWh2TnItS2JXS2JzUmZQdDNNdThOczBJYVNFUHl6LWNIcFAtYzVBWkt2aHpXVlpoRnVVU2g1TWVrNA?oc=5",
-      "publishedAt": "Fri, 15 May 2026 17:21:00 GMT"
-    },
-    {
-      "title": "Israeli Embassy Staffers Killed",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OLVhURlFMUXdMMG9UVzBzUUQxcFRMSXpIMHhPcWw2NmN1eTBmOU1xYTJ1dVNyR1Fucm03emdUakppQXpWa1RqZHdZTlZBMzJpY3Bhc2ZVUkxrX1k4TjRHaQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 17:03:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RMHNGemdDRUFWYnA4ZE53ZVFxald6MlVzbnZmNms4UEp1VnRzend0UWRBN3BleXJILVc4THFIRjlOQWhfWVNTU1FwTnlQNlk1dU50MlNtZEptLVdaRjA4dQ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 19:00:00 GMT"
     },
     {
       "title": "‘14초93의 질주’ 이정후 첫 그라운드 홈런",
@@ -400,22 +388,22 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Fri, 15 May 2026 16:40:00 GMT"
     },
     {
-      "title": "콩·소고기·비행기 판 美, 'G2 위상' 과시한 中",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pVEtNVHpIT1VVSXd3WUVoVTJlOVpWQXJEeG1BeUN6NDdkMUVNV1dIbDFIVHgzZ21sZGxmTGlTS2dJRE83Z19NMi0wNEx6RDZUNU1DdGhjb2t4UdIBVEFVX3lxTE1XQUZQNkxYQTl5RkJUSF9oZF9uYndYNnZHSWFHT3VyME1BX2dGVkxqQjlRVUo5SVZ1SGVqc1VSdkxYcWFnUFFKYVRXTWc4ZHdobXliWQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 16:10:00 GMT"
-    },
-    {
       "title": "지구환경과학부 국종성 교수팀, 비가역적 해수면 상승, 구름 변화가 결정 - 보도자료 - 뉴스 - 서울대 소식",
       "source": "서울대학교",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRFZxUGVTUFpwZ1BpbDhZRU41MGVpb0k1TldORGw1WU5iNnpfNHlOTVRzQTVBcGkyQ0h4NEVkemxBTlQ0NVRzWTNoT1IxeUwyNjhHbHBoN2FFN0RZam96SG5zVQ?oc=5",
       "publishedAt": "Fri, 15 May 2026 15:45:00 GMT"
     },
     {
-      "title": "트럼프 \"시진핑과 北문제 논의, 대만 문제 어떤 약속도 하지 않았다\"",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVdsd2ZmcmRTN0RPdlNRZ2tMZG5QUjFEYWNEQ3VsMkFhdmF3SnpWbGlhQ2NmNmJNVHFuMHNxckJ5VXdwTGRITFkzRVZHU2RfZVZCWnV1VUo0ZUF0Zkxzam1LQ25uSDEtNno4RG9UblFkQzFoLU9fS1YyWU9pMW85X0w0SW8?oc=5",
-      "publishedAt": "Fri, 15 May 2026 13:28:00 GMT"
+      "title": "트럼프, “시진핑과 북한 문제 논의…대만 관련 어떤 약속도 안 해”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aaFI5c3F4UGhncnRlNWJqN0V6NFJjdEpISmh2dU5Vc1lTS2VRQ3JzQkNIaXF5VWlKSDZDTHVndS00UG5HWUFVNmtKRml0c3Q5a0NxNXBNamY5ekFRUXJxLWxfVF95VVBEem5tS1gyaw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 13:58:00 GMT"
+    },
+    {
+      "title": "[르포] “한동훈·하정우 오면 고맙지예”…구포시장 흔든 ‘팬덤’ 경제",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sUmlLLXY3cTd6QzR2NXhXcW5HRFdITVo2REVydVhrVThWVmNyQVpST3RlYjVVLUpLa1d5U1h5OFlvSjV2Tm1kM3JTX2JzZlhZMjk0TXJhX21sSDA?oc=5",
+      "publishedAt": "Fri, 15 May 2026 13:23:45 GMT"
     },
     {
       "title": "‘미코’ 출신 장윤정, 명문대 딸 졸업 영상 공개",
@@ -424,16 +412,28 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Fri, 15 May 2026 13:19:25 GMT"
     },
     {
-      "title": "6·3 지선 후보 ‘재산 1위’ 국힘 오세훈 73억…재보선 민주당 김용남 127억",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GcU9WTkVQanZPV2l5QWNvamd4RTlFcklTQnJlbHo3TWlmR1NfYXhENHZ6MDI3OXhxd1Rjb2RSMzRjLTlQSXRxTncyVmp3S2ZZdnFMc1hLTWg1QdIBX0FVX3lxTE0zelBvWDJPVzh3Z2RfYUNlRjNhZGZaV0dQQ0NWOVhvdGlvQUEyTDRHM0paNm5MRjRMRFdVelJ6LUNVVk1vR3c5ZGdxemdHTFNjLXhRLTFjMDJ6R29YNHhr?oc=5",
-      "publishedAt": "Fri, 15 May 2026 12:36:00 GMT"
-    },
-    {
       "title": "때이른 무더위에 때아닌 피서 행렬…이 시각 청계천",
       "source": "KBS 뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ybTV5S0IzNkJheTVYMTktOHlZdFY4SVFpOTNseGlORjFhUnQxN3NmYS1BM0otSkIxcy1PcnpzRFRQWXVTZ0NsaEFmZ3RnajhOaDZfLUN6YldpSVE?oc=5",
       "publishedAt": "Fri, 15 May 2026 12:25:00 GMT"
+    },
+    {
+      "title": "배현진 “장동혁, 회피형 남친 보는 듯…서울 선거 숟가락 금지”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kYmU1TFpuQWZpNVZsOHhmQlNJYndvd0tFczBxTVNyb0hEVWJwTlV6d0ptZ2ZzcURfbkFBNTg5WWtvb3kyWWQ4QXVkeWo4YVZhSG55Ry03VTFGYzJfN1JqaU9FZjVMekJxUDRXZDNNak1ubFQ2?oc=5",
+      "publishedAt": "Fri, 15 May 2026 12:12:00 GMT"
+    },
+    {
+      "title": "[단독]국민연금 ‘향후 5년간 국내주식 비중 확대’ 사실상 확정",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mS3FfRUxMQXN5S21aTlFQRUpwQThLWGFldVdkbE1WUjVmLUZtdGJ1LXFNUkxIMWVKUDYtODNRUjBwU2ZoOEdXNXVseWcxMUJ5OFJCYzJVTGVPc0VIS2dxWVEwdmpnMk9iaGRUc2hELWNfblJqdmfSAWZBVV95cUxQMkpudTdpY2tRYW5WZmxzWXlHNjhWNmZOd2tsQks1Wlprbk5IRUExV0tueGpMRFhrcTVRaE5UbDhmNWtLWVVqVXotNU1Tbk1GNUZNQWVYNmtwTzMtTFRWWE1xQnEyY0E?oc=5",
+      "publishedAt": "Fri, 15 May 2026 11:57:00 GMT"
+    },
+    {
+      "title": "성시경, 2년 만에 임지연 만나 \"먹는 양 어마어마..日 배우와 대결해보길\"",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdV93dElnVWhSQ1M1cnQtMWdoWG1EUHBzUkVMdHpBNGFqazJoaXdMWEU1clZaRnJFdE44TlM5LVg4OVdwWEYwTTlfQXZUV21pTGpfcVZaS21Hbmc2SmVKb1VtNXdnT3VfTHl0RzYya2FKQ2RSS0ZkNE9PTHlEN0Z3SGc4MlBmMm1KWDF3aGhlcw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 11:55:00 GMT"
     }
   ],
   "sources": [
