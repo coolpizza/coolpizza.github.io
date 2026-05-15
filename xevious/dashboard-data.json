@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T17:12:00.422015+09:00",
+  "generatedAt": "2026-05-15T19:38:10.192160+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,499.30",
-      "change": "+5.80",
-      "changePercent": "+0.39%",
+      "value": "1,497.80",
+      "change": "+4.30",
+      "changePercent": "+0.29%",
       "direction": "up",
-      "updatedAt": "2026-05-15 17:07"
+      "updatedAt": "2026-05-15 19:33"
     },
     {
       "label": "100엔/원",
-      "value": "946.23",
-      "change": "+3.39",
-      "changePercent": "+0.36%",
+      "value": "944.91",
+      "change": "+2.07",
+      "changePercent": "+0.22%",
       "direction": "up",
-      "updatedAt": "2026-05-15 17:07"
+      "updatedAt": "2026-05-15 19:34"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "맑음",
-        "temperature": "25.7°C",
-        "feelsLike": "26.7°C",
+        "temperature": "20.8°C",
+        "feelsLike": "21.8°C",
         "highLow": "최고 28.4° / 최저 14.5°",
-        "humidity": "54%",
-        "wind": "6.5 m/s",
+        "humidity": "69%",
+        "wind": "4.3 m/s",
         "rainChance": "0%",
-        "pm10": "38.2 μg/m³",
-        "pm25": "33.4 μg/m³",
+        "pm10": "33.9 μg/m³",
+        "pm25": "31.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-15 17:00"
+        "airQualityIndex": "75",
+        "updatedAt": "2026-05-15 19:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "20.1°C",
-        "feelsLike": "20.6°C",
+        "temperature": "16.4°C",
+        "feelsLike": "17.2°C",
         "highLow": "최고 24.9° / 최저 13.5°",
-        "humidity": "78%",
-        "wind": "11.3 m/s",
+        "humidity": "89%",
+        "wind": "5.5 m/s",
         "rainChance": "0%",
-        "pm10": "38.2 μg/m³",
-        "pm25": "33.4 μg/m³",
+        "pm10": "33.9 μg/m³",
+        "pm25": "31.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-15 17:00"
+        "airQualityIndex": "75",
+        "updatedAt": "2026-05-15 19:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "24.9°C",
-        "feelsLike": "25.8°C",
+        "temperature": "19.2°C",
+        "feelsLike": "20.6°C",
         "highLow": "최고 27.1° / 최저 13.4°",
-        "humidity": "60%",
-        "wind": "9.7 m/s",
+        "humidity": "82%",
+        "wind": "5.2 m/s",
         "rainChance": "0%",
-        "pm10": "38.2 μg/m³",
-        "pm25": "33.4 μg/m³",
+        "pm10": "33.9 μg/m³",
+        "pm25": "31.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-15 17:00"
+        "airQualityIndex": "75",
+        "updatedAt": "2026-05-15 19:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "26.8°C",
-        "feelsLike": "28.1°C",
+        "temperature": "17.5°C",
+        "feelsLike": "17.6°C",
         "highLow": "최고 29.7° / 최저 12.2°",
-        "humidity": "58%",
-        "wind": "10.8 m/s",
+        "humidity": "86%",
+        "wind": "11.3 m/s",
         "rainChance": "0%",
-        "pm10": "29.7 μg/m³",
-        "pm25": "24.7 μg/m³",
+        "pm10": "36.0 μg/m³",
+        "pm25": "32.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "78",
-        "updatedAt": "2026-05-15 17:00"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-15 19:30"
       }
     ]
   },
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 부송지점",
-        "address": "전북 익산시 무왕로 1277",
-        "updatedAt": "2026-05-13 05:30:07",
+        "stationName": "오일스타㈜익산지점 착한8주유소",
+        "address": "전북 익산시 용동면 익산대로 2538",
+        "updatedAt": "2026-05-15 17:59:37",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜디오티디 김포달님이주유소",
-        "address": "경기 김포시 김포대로 1467",
-        "updatedAt": "2026-05-15 14:59:15",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-05-15 17:59:20",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "아시아증시, 급등 출발 후 급락 전환…닛케이 1.99%↓",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHaTNrLW1Ubkw5Tm4tS1huZ0NuVUlEMlJFTWE2NGkxTXpiM0RjejBzdk5vQS11VjdqRVphRklVVjdXYVd1RXdEdG8wVzNxcXdNTERteHp1TkxvdmhLZU0zag?oc=5",
-      "publishedAt": "Fri, 15 May 2026 08:07:00 GMT"
+      "title": "[한국뉴스 TV] 26년 5월 15일 (금) 오늘의 주요뉴스",
+      "source": "24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fZ3N3Rk9QSF9ETWFnNEloSDFLaTVPTEQ0NS1OX0R6ckpUQWk1V3hkUk41ek5KTThqdUtKdkU5OExhSF9XOWxYV3FnTm9oYTF2cS1pNldYUEo4am9IYjdfcFdRVkVRbzQ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 10:07:34 GMT"
     },
     {
-      "title": "스승의날, 은사 박병기 선생님 만난 이재명 대통령",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQTkN5SHNMVGYzcXRyS0gxOEhpWF9xNVlVWW5QZUs2NUxKS1JLOGFSVG1WYXJHY04tSnhSMHVsUjVfSUgzVzFLZVYwZFV5NkRiX0JUM19LbEt1V3BWNnFPeA?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:57:00 GMT"
+      "title": "충돌 피하고 ‘실리’…미중 정상, 9월 또 만난다",
+      "source": "채널A",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGbzZJeWtKWlFucWUwS0dYTWRYNU5KOGhya2d0UFBERjhlOEdpelMxWkFfQWJCeGpEY2NtWVNBVXlkWkE3Qmg5ak9qUmJ6dmx1UDRBS0dGVXBsb2ppSUHSAWNBVV95cUxNUzNjVDhaSlpnYlVfV1dGa2NaN3BXdG9WN0JyU0sxWGdTVVRXcnVwRjRBclFxT0lLOGJQaGNJU05faEZ5b1NGeW9xWWNGaXZRbG9BbEl2cjdoaEdrS2NpUklYeGM?oc=5",
+      "publishedAt": "Fri, 15 May 2026 10:01:00 GMT"
     },
     {
-      "title": "모내기 전 주민들과 인사하는 이재명 대통령",
+      "title": "삼성전자, 1분기 D램 점유율 38.4%로 증가…주요 품목 시장 장악력 확대",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FdkZrU3I2aUxUUmZ0NGdpWnR0aDNjY1lObjJLMzJLWFZLZE9RRE8tWU9uZC1pSklCVTY3aDRiRGlHbXlzMXJNZUNMMHlfUUkzQ0JLR0pLR1lRLTBHWWIweg?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:42:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aeUR2azRwV3VBUEpHcXEwa0dpYzRnSXdBeWx4NDlIUHZzWkc2R0FaNnd1elFjWlV0aG45ckJnQTNQUmRyVnVESWRrTVdxTVpKZkdMOWRoTUttNF9WSWp0Tg?oc=5",
+      "publishedAt": "Fri, 15 May 2026 10:15:00 GMT"
     },
     {
-      "title": "지선 후보등록 마감…남은 주요일정은 이렇네",
+      "title": "트럼프, 성과 급했지만…반도체·관세 '안갯속'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JaGUxUzMtUGxlUk5mR1EzOVlfOEFHR092Qy1mR2NLS2dVN2s4Q3dLLXctOGg2OWt0d19nTVhEa2hxeFRUNllLS1JDQ3Q1ZFFoMlQ4?oc=5",
-      "publishedAt": "Fri, 15 May 2026 08:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90ZjVpanYzbFpEOWdqWXVVZjRDTlJsWERPeHA1WF93WldYY1M3TFZ1ZlQ3STlwOU1JTzRlQWo4UmJWb0pFbWY5cG1jRHJUNU5JTG9sMW5UMC15ODRSWEtubw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 10:11:00 GMT"
     },
     {
-      "title": "INDIA KASHMIR PROTEST",
+      "title": "국민의힘 \"李 대통령 관권선거\" 반발",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WHBmeXkwdnZORTRGUlc1aW5jMG0yU3EySnVmWDZsYmtKc1JCMFVCVmI0U1B2UzRBdXhnQUZKVmJkalM3eC04RFdDUUpLWXpVTnBNTm5YeURnNHE1Y05seQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDb2FYWW4wRE1aNmJfTG1CaTh0R1BLYmI3Rkloc2U1N25mc2NrX3lUYW9UamU1YmRyWUpRdnpRQUxpdVVMMERmMUVFUWVRUm5ianhBVzN2X280SlNMZG9uNg?oc=5",
+      "publishedAt": "Fri, 15 May 2026 10:14:00 GMT"
     },
     {
-      "title": "정원오 \"서울의 하루, 노동자 헌신으로 유지…존중받아야\"",
+      "title": "칸 '군체' 포토콜서 인사하는 출연진들",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tSEFCTHJUQmlOdV9MdDZVNnE3M2J1dzZ6V3FjMTMwVEZ6QzZGNHdnQjg4eVE5emVRbkZuaTNvZUFUQmxFUURuX29Ia1F4YzRyV0NV?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BVWpxZjhaakdHV0dHc2stQmp1bEptWXVqZHFpYzRqRFViQ2UzWDNmZGlZSTJNYTdRMXNpaEl6LTE4M3hueDBjel9wWC1IS1RCdF9lZzhMZHpQN1Y5SlJCRg?oc=5",
+      "publishedAt": "Fri, 15 May 2026 10:26:00 GMT"
     },
     {
-      "title": "CHINA USA DIPLOMACY",
+      "title": "세종대왕 책 보는 시민들",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52cGFLUHRNQ0tGM3MyeTBLN2MyVHhLNm51ajdrMDM2NU5FVllGX2V3UjlvTGtoT185azlYX3phdXJfWXpVRUhBZGtVVURiRHhWZUYta3p5XzlQNjZrQ2F0RQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNVEN0cEJoa2FGSllZbUllOXh3cTRhcVdvRWhnNDkyWWRjbDhQV3pBdGRvampHV2dNWlRSWE9qMGdxN0ZOdmRCUGpZNnZwWkt3VDlZ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 10:26:00 GMT"
     },
     {
-      "title": "러시아 법인·美·中 공장…'세계지도' 다시 그리는 K-라면 [핑거푸드]",
+      "title": "송언석 원내대표 \"李 대통령 관권선거\" 반발",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1feGozb1VCMkF5UGM1bS0wN0REWmZraHROUmtpWW9qcTFIYU5oaDhES2tTc0ZXWGltcEFiSHNYWmtmV0RBNmEtLWtLcG9hMXJMcXY4?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsNDJ5NzlESnlZWEF3VGlqdm53WVJ6bWtrcXRtLWlvTFNOcDRBWlB3YzR2cXBycGJ1SHpHMzhoemR6NU40Wl9nTHlyb1pCUFF4RFA4R2FOcjZydjVDeUR4Uw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 10:13:00 GMT"
     },
     {
-      "title": "딸과 인사하는 청해부대원",
+      "title": "제주 찾은 정청래",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fSzFlY1l4M3dzMUNoNGxRRW5Kc3pSQ2hVdXZXdkFxMzBPZFAzdmhheEpWRFBUQUFJQjBWVlNjdE9xTDFvMUs2cmFyTHczYUFJbzZoUmxkUlBRWlU2SmFybA?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPMjU3TEY0WjVabkt2MFA3Z3dVTnYtMVVrbkl4bzRjaHJCWWpaR0NCLW1lVzlSTlMxVmhkYTBLTEtrVWR6V2dvQXltRmJDRWhXdEtId1hPQUV4eUxuRVc2cw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 10:08:00 GMT"
     },
     {
-      "title": "전북대, 방사청 국방사업관리사 교육 2년 연속 선정",
+      "title": "靑, 블룸버그에 김용범 관련 '정정보도' 요구…아직 묵묵부답",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFaTZZYm83UWlYT0w4Q3YxVm5OSk1Sa1NkX1ZVM1ZGWVYxVE9SN3U4bDVvRjNiWE5Pd1FyWEMycDFwcjcyelYzVlJ4ZWVSWllyV3VIQmJScW5MNGJud3h2V1VpbDhldEFhcTZxRVFpWE5Nc0h1VWxKZw?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:19:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fa3dCTktaZlRfaURvTnVLRkhVTXo0c3BxeWIyWHduRHdNWVdzcWZISDVYcDlPNkM0bVV0WGduRkFtdTNXeTA0Uld6M01kZV9NUG5N?oc=5",
+      "publishedAt": "Fri, 15 May 2026 10:07:00 GMT"
     }
   ],
   "sources": [
