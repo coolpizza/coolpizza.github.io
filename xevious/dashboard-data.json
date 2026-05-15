@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T05:24:50.324156+09:00",
+  "generatedAt": "2026-05-16T06:33:27.906104+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,17 +48,17 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,499.50",
-      "change": "+6.00",
-      "changePercent": "+0.40%",
+      "value": "1,497.50",
+      "change": "+4.00",
+      "changePercent": "+0.27%",
       "direction": "up",
       "updatedAt": "2026-05-15 22:08"
     },
     {
       "label": "100엔/원",
-      "value": "943.97",
-      "change": "+1.13",
-      "changePercent": "+0.12%",
+      "value": "943.13",
+      "change": "+0.29",
+      "changePercent": "+0.03%",
       "direction": "up",
       "updatedAt": "2026-05-15 22:08"
     }
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.1°C",
-        "feelsLike": "13.7°C",
+        "temperature": "13.2°C",
+        "feelsLike": "13.9°C",
         "highLow": "최고 25.4° / 최저 13.1°",
         "humidity": "99%",
-        "wind": "2.4 m/s",
+        "wind": "1.5 m/s",
         "rainChance": "0%",
-        "pm10": "49.9 μg/m³",
-        "pm25": "47.6 μg/m³",
+        "pm10": "53.7 μg/m³",
+        "pm25": "51.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "78",
-        "updatedAt": "2026-05-16 05:15"
+        "updatedAt": "2026-05-16 06:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "13.2°C",
+        "temperature": "12.9°C",
         "feelsLike": "13.2°C",
         "highLow": "최고 20.1° / 최저 12.4°",
         "humidity": "99%",
-        "wind": "6.5 m/s",
+        "wind": "4.5 m/s",
         "rainChance": "0%",
-        "pm10": "49.9 μg/m³",
-        "pm25": "47.6 μg/m³",
+        "pm10": "53.7 μg/m³",
+        "pm25": "51.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "78",
-        "updatedAt": "2026-05-16 05:15"
+        "updatedAt": "2026-05-16 06:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.7°C",
-        "feelsLike": "12.7°C",
+        "temperature": "13.0°C",
+        "feelsLike": "13.2°C",
         "highLow": "최고 24.2° / 최저 12.3°",
         "humidity": "99%",
-        "wind": "5.8 m/s",
+        "wind": "5.1 m/s",
         "rainChance": "0%",
-        "pm10": "49.9 μg/m³",
-        "pm25": "47.6 μg/m³",
+        "pm10": "53.7 μg/m³",
+        "pm25": "51.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "78",
-        "updatedAt": "2026-05-16 05:15"
+        "updatedAt": "2026-05-16 06:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
         "temperature": "12.7°C",
-        "feelsLike": "13.3°C",
+        "feelsLike": "13.4°C",
         "highLow": "최고 26.4° / 최저 12.7°",
         "humidity": "99%",
-        "wind": "1.6 m/s",
+        "wind": "1.3 m/s",
         "rainChance": "0%",
-        "pm10": "83.1 μg/m³",
-        "pm25": "80.1 μg/m³",
+        "pm10": "84.8 μg/m³",
+        "pm25": "81.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "75",
-        "updatedAt": "2026-05-16 05:15"
+        "updatedAt": "2026-05-16 06:30"
       }
     ]
   },
@@ -376,16 +376,34 @@
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (16일, 토)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JbnpqR016T3R6cnhhTzg1VTBRcnRKdG9EZ3VKelZ6Z29uUmV2R1RuZ3JSRmpPaU5IRjdxcnY3OUlxQmZzdjNCTWphX0dJTVFENEJHdk04dHo0dw?oc=5",
-      "publishedAt": "Fri, 15 May 2026 20:00:00 GMT"
+      "title": "[모닝와이드] 오늘의 주요뉴스",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0FaWk80OEptaGpzZUVlZ1d2TV9DNTFHUFpQMGRUdFNYdDJ5OGtVZHhfTWVjUjhqOTlWd3BFbWpjYTYyWkd2Z1Nua3RpV2RJU2FkMER1VnU3Q3FLaE13YmR3VDZiMVV3ME82eGZqQnZuT2dVN3N4cUtXRUJTU2d2U1Z0Tms5QdIBZkFVX3lxTFBkaXNJLW1VSTcybkc5ZlpEa0gteG1jbkpVYTd0NjZOajVJMGVQUVkwU0hKQXplcVBSajhyb3pXT1pKX3E0SWZkc0RTOEVvVUNDVk9mNjh1ZXF3V0szdGw0UkZkSnpHUQ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 21:22:00 GMT"
     },
     {
-      "title": "Iran Daily Life",
+      "title": "[속보] 국제유가, 급등…WTI 4.2% ↑",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OT0RhSXVxWHNCT0Q4Z2V4SEsyc2NLTkZiU1J6US0zaGtJLXQwZWdrQUJpRVo4eHowMGs2anZBLXpjUjZtWWl5QzlpM21NWE8yOURsb2Y5Y1VjMGZYcVhNTQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 19:59:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hY2Y4THZxdW5USC1yZU5tcmNzVm5kMWFETktyYVk1dFJMenZ2SXZWOF9Vclpncm9GeVBCVEgxb0E1OEhlcmxDRmdsdV9acWU2OHdUd2ZOVmp3SHRtMjFDbg?oc=5",
+      "publishedAt": "Fri, 15 May 2026 21:16:00 GMT"
+    },
+    {
+      "title": "AUSTRIA EUROVISION 2026",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90UUNwV3dxeUgwYVFmZkstZDhLZktORE5pMDVBQXVuMGNuaUU3SmJIcktMV2ZEQzJyS0ZPVHllMlB4Z2JJSnZxZ2V5dGdPaC1vQjQwUlJ4TWkzYWFPN0Vodw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 21:01:00 GMT"
+    },
+    {
+      "title": "'돌연 은퇴' 장동주, 운영하던 카페도 처분한다..\"빠른 권리 양도 고려\" [스타이슈]",
+      "source": "ASIA ARTIST AWARDS 2025",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jcmd4MUY2ZXN5Qm5HZ1Yyc3h2NmU0aGgtZXZzSkdfSUJFczYyUVpfb0RNVTBpMk50ZjRGUXFuWlRpaGRvREg0VS1QOC0xai1VVW1OZEQxVGtmbngwM1RMTw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 21:09:46 GMT"
+    },
+    {
+      "title": "태블릿 칩도 DX·DS 엇박자… 갤럭시탭에 대만산 AP 탑재",
+      "source": "IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZ3FVajhGTnVvd1dsLXVkMU1CSWoyb3hGODcyX0YtTEZLRmpYd0IzbjRLdjV1Q29DVTd3MVZVbW1LZHYwcVZEUmp1LU9QLXJESU14TWgzWXlHRDBfSkJpVkxCWXhPU1E0SExVeTVSa07SAXRBVV95cUxOT2NlRVhrbzhYUkVNYkkzajdUaTR5UG1uUHlqbTRzd1BnVVp4QkFtbjlYczZ2d3BfNXNZczZYbG1ta3haY1JzMUYxSmpJaTFFUVg2dVJMMlJKMFdKWjZiWnlkd3F3RWFMLXRpdi1fZENaQVpmZQ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 21:00:00 GMT"
     },
     {
       "title": "[심층: 미중 정상회담 3] 한반도 과제 여전히 산적…비핵화·중국 역할·동맹 조율 난제",
@@ -416,24 +434,6 @@
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sUmlLLXY3cTd6QzR2NXhXcW5HRFdITVo2REVydVhrVThWVmNyQVpST3RlYjVVLUpLa1d5U1h5OFlvSjV2Tm1kM3JTX2JzZlhZMjk0TXJhX21sSDA?oc=5",
       "publishedAt": "Fri, 15 May 2026 13:23:45 GMT"
-    },
-    {
-      "title": "‘미코’ 출신 장윤정, 명문대 딸 졸업 영상 공개",
-      "source": "동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jbzhRLVI4Z2hVeDVNUHZqcEFUbGJ6RFdfc1RuTk1pWEpLbkdqb185bEdhcEhEVEMyMXIwaGJ0VHlFM0R0eHEzRXVyLW1MSmdxa0dya0JZUnBzRnRCQWxRdk9INzlVU2xlNnRHYk5DYWJKU2t3eXfSAWZBVV95cUxPS3Z0OGdIU2JMSU8xSFkzb0NfWm14MlBicDFmN1ZOeWp5dHNoT25IZ0pEVWdweE95Q0x4X1FqODRQeTlXRGl5ZzJha0RWX1FuVS1hN3NCWmVKYVZVS1ROeWpaZ1ozNVE?oc=5",
-      "publishedAt": "Fri, 15 May 2026 13:19:25 GMT"
-    },
-    {
-      "title": "6·3 지선 후보 ‘재산 1위’ 국힘 오세훈 73억…재보선 민주당 김용남 127억",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GcU9WTkVQanZPV2l5QWNvamd4RTlFcklTQnJlbHo3TWlmR1NfYXhENHZ6MDI3OXhxd1Rjb2RSMzRjLTlQSXRxTncyVmp3S2ZZdnFMc1hLTWg1QdIBX0FVX3lxTE0zelBvWDJPVzh3Z2RfYUNlRjNhZGZaV0dQQ0NWOVhvdGlvQUEyTDRHM0paNm5MRjRMRFdVelJ6LUNVVk1vR3c5ZGdxemdHTFNjLXhRLTFjMDJ6R29YNHhr?oc=5",
-      "publishedAt": "Fri, 15 May 2026 12:36:00 GMT"
-    },
-    {
-      "title": "때이른 무더위에 때아닌 피서 행렬…이 시각 청계천",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ybTV5S0IzNkJheTVYMTktOHlZdFY4SVFpOTNseGlORjFhUnQxN3NmYS1BM0otSkIxcy1PcnpzRFRQWXVTZ0NsaEFmZ3RnajhOaDZfLUN6YldpSVE?oc=5",
-      "publishedAt": "Fri, 15 May 2026 12:25:00 GMT"
     }
   ],
   "sources": [
