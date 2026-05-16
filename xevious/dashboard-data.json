@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T06:09:52.773308+09:00",
+  "generatedAt": "2026-05-17T07:06:22.225255+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.5°C",
-        "feelsLike": "11.5°C",
+        "temperature": "11.7°C",
+        "feelsLike": "11.7°C",
         "highLow": "최고 24.7° / 최저 11.4°",
         "humidity": "99%",
-        "wind": "2.7 m/s",
+        "wind": "3.0 m/s",
         "rainChance": "0%",
         "pm10": "81.3 μg/m³",
-        "pm25": "77.3 μg/m³",
+        "pm25": "77.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-17 06:00"
+        "airQualityIndex": "78",
+        "updatedAt": "2026-05-17 07:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.0°C",
-        "feelsLike": "11.9°C",
+        "temperature": "12.2°C",
+        "feelsLike": "12.0°C",
         "highLow": "최고 21.0° / 최저 11.9°",
         "humidity": "99%",
-        "wind": "4.8 m/s",
+        "wind": "5.4 m/s",
         "rainChance": "0%",
         "pm10": "81.3 μg/m³",
-        "pm25": "77.3 μg/m³",
+        "pm25": "77.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-17 06:00"
+        "airQualityIndex": "78",
+        "updatedAt": "2026-05-17 07:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "11.4°C",
-        "feelsLike": "11.2°C",
+        "temperature": "11.7°C",
+        "feelsLike": "11.5°C",
         "highLow": "최고 22.9° / 최저 11.3°",
         "humidity": "99%",
-        "wind": "4.0 m/s",
+        "wind": "4.6 m/s",
         "rainChance": "0%",
         "pm10": "81.3 μg/m³",
-        "pm25": "77.3 μg/m³",
+        "pm25": "77.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-17 06:00"
+        "airQualityIndex": "78",
+        "updatedAt": "2026-05-17 07:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.1°C",
-        "feelsLike": "12.5°C",
+        "temperature": "12.2°C",
+        "feelsLike": "12.7°C",
         "highLow": "최고 27.2° / 최저 12.1°",
         "humidity": "99%",
-        "wind": "1.6 m/s",
+        "wind": "1.4 m/s",
         "rainChance": "0%",
-        "pm10": "68.0 μg/m³",
-        "pm25": "64.3 μg/m³",
+        "pm10": "65.2 μg/m³",
+        "pm25": "61.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "76",
-        "updatedAt": "2026-05-17 06:00"
+        "updatedAt": "2026-05-17 07:00"
       }
     ]
   },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜태리네트웍스 서울주유소지점",
-        "address": "경기도 김포시 양촌읍 양곡로 355",
-        "updatedAt": "2026-05-16 13:09:52",
+        "stationName": "그린씨티 셀프주유소",
+        "address": "경기 김포시 양촌읍 양곡우회로 40",
+        "updatedAt": "2026-05-16 22:55:04",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "이마트, 고유가 피해지원금 사용처 안내 강화한다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vVGp0WTluY2s4cmR5Q0hSUXdGbzlpLXFIVjJnMldJckFOTWZFTzYyNWYtVTN4d2t6UmVXd1VJUEZBbElMU256dEdYd3l0c05fRTVWaXlOemxmMXlwUWQ3cQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:00:00 GMT"
+      "title": "[골프청사진] 이동하는 유지나, 두산 매치플레이",
+      "source": "청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjTHZyZldxZFZZcjNYZGotYTZVZTR3T1I5LWxOWVNuLTRzOW9UY0lvQ2dvdEl4ZU1tQ25Xci1kOWVMNDVNS00wRjRvajFOMldNTzE1TXgyQ1o4YXFoRXI0cy1RczhQX1E4bUE?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:38:57 GMT"
     },
     {
-      "title": "\"고유가 지원금, 이마트서도 쓸 수 있어요\"",
+      "title": "PORTUGAL SOCCER",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qNTJHYnNkTHJVcmM2ZkNEM3FManh4Zi1RTVU2VEFPSzZiZWt2UWdGVGFqdXhxZUtZWEd5dWE2Sm1qT3FhOGJ1SVZXREd4elNlVWNHdE93Z0ZMV1lDQTB3UQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EdlhIa2ZZWHQ5akFIa2p2bDEybl9YM0R1UUNVUFdmc3BRQlNKVGo1d1E1TWF0cWRScGtoR25uX1lJcWhuZDFhX3MzSjNWVHViTzgzZG5KMTJwYlBmWHg4Yw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:39:00 GMT"
     },
     {
-      "title": "이마트 임대매장에서 '고유가 피해지원금' 사용하세요",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LLVZkaDVyOVhGVWdiQXVrVWVjWE83NGlIRkFPdUZaU3lvdjR4ZEszWWFFQ1kzSXlsTXNCb1VTOS05VjZlOVcwMTVUbkFmTEdUREww?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:00:00 GMT"
+      "title": "유튜브, AI 딥페이크 방어 기능 확대…얼굴 인식으로 창작자 보호 강화",
+      "source": "브랜드경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IRmpNekNKNUp6OUc3eFVMY0Rpc0l1UlpJM2pPeWM0WnVRcG9PVThKQi1Sd2Fvcmx1WkpVMlNDbFBTZ0hXYlVHUG1RN2E?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:39:56 GMT"
     },
     {
-      "title": "AUSTRIA EUROVISION 2026",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56dEc5QU54b21qbUIxSUpWRVo0dmNFdkY5WHFFTXJOSS1HSC1hUmpHWmJXT09KdEJFVWNaaWU5UUxDTWhkeWExSGVzbTlCOXc3SWd1LUdjOUVNUEYzaGRNSw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 20:33:00 GMT"
+      "title": "\"진실로 선언합니다\"..최준희 결혼식 대본 쓴 MC가 밝힌 비하인드",
+      "source": "ASIA ARTIST AWARDS 2025",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fd2V6d3dmUnllajFlSFZqX0I0LUNKNHVPQUEzeVFKRGJQX21fR21XM3hrSU1WOGdNSV9aNlk5WXJXaVFHVGt6WkNQVDhKaUNXWkZzTUlxYlJsWTNTY1ZXcg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:38:05 GMT"
     },
     {
-      "title": "물꼬 트인 삼성 노사협상…이재용 '한가족' 호소에 마지막 절충",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NOFdvbG1VYlByRG5NNHZsdVV1MVNyNk4ybWVON29BRk14V0ZoZC1xUVdPSVBKLWVKam94MktjRy04a0JTU3B4SktnUVJSa1N6azhrRzVtMVI1TGvSAWBBVV95cUxOX2dzMTE2Y0Z4Yk9GYUxSSktpM0JYcWNQYkkzMGFTLVl3RkcwMmJwZzBRUmpESjM3UHZUUWQyXzUzVWZJb0lncEFpbXM2TW1iend1ZTZjTEVYMGxLdy1LenI?oc=5",
-      "publishedAt": "Sat, 16 May 2026 20:55:11 GMT"
+      "title": "여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다",
+      "source": "하이닥",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kR25Wd2NRUGFyZzZ0RFJNNER6eHJ5M3VQem04SFYyTVlENWxsbGZ3Q0hpNV9DblJVME1Kd0h4SENRQ0NfLXFnczI0b3U5YjRxNVZld0s1WDlMLXNsak1UVWNxSG1nNmtLSmc?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:30:00 GMT"
+    },
+    {
+      "title": "‘장난감계 유재석’ 이상훈, 박물관도 모자라..개인창고 공개 “제품 보관용” (‘전참시’)[순간포착]",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX08ydzhqbDdQcmxFcGl3QTRfd0JETGpEbDRpU29Jay1ZcUxnVmZ1eEYyS2N0Vm4wMG1BMmtHQldiZWcyaU82Zjh3eExIWEdvVE8zZHctRVl4T1hTcWNKV3l4Z2ZmQmp4RGZST01QRkd4bmhaNUVSNndSWnBnMl91X2ROYWZsME9KNmJld09vWQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:22:00 GMT"
+    },
+    {
+      "title": "문상훈, 실제 일타강사 될 뻔..“인강업체 회장님, ‘재능있다’ 연락와” (‘전참시’)[핫피플]",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWowWnN4NlNXc1NHbF9ZQ1E3U2g5c1N2VjJoM01XcTlxZzZCejI3TUZEVGdtdk5sZUh3OEQyMDA2UDVpdXRKdm5jV2Z3RWpPN0d1ZXQ1b01YS1BwUDZNSGVPemdQR2JnWDEwS1dtY0RoazJZNnR1THVqWjMwaURiWGhLdGVjZXdPWXplQ2JmRQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:20:00 GMT"
+    },
+    {
+      "title": "'윤여정과 이혼' 조영남 \"13년 살며 다툰적 없어..다 이해해줬다\"[동치미][★밤TV]",
+      "source": "starnewskorea.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOalcwaUdHQlpPLTBVbXJXSS1zbUdXLU1qdU1WMjNWVWdhVGxrZTBPYmc4YllPNUUydlJuQmpqUkR5SWptMGo2UXR2dERmajc5bldPb0plZ09RR1lVX3o3bkpQckRqU1RDY2ZZNElfYXp6c2FESVlVOFdjN2NHR0ZOaA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:13:00 GMT"
+    },
+    {
+      "title": "크루즈선 탔던 캐나다인, 한타바이러스 잠정 양성 판정",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HTlJuX2dRYnRMNmpPajU2NTIyeFJnS0R5QW1XVnVmekJBclRJQ09tdlhSa0FxSU1tZkgyR2RhWlY2UmlRZ1lKYUNHS1pla3hqTGpfR19FbWxVOUU?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:13:00 GMT"
     },
     {
       "title": "내일부터 2차 고유가 지원금 신청…소득 하위 70% 지급",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1malBvRi15VE1yLV9COVRaSXl6dElzdmdnOWdsaWFkaGJ1Y0RWcGtWb1NNWUlFZ1RFanZ3eHYyenZmWkFBV1djNDFoSnJ5YkRnVm50SlgtaXB0ZDTSAWBBVV95cUxQMHZkLUhlRWJyd0dLblJDcHJmcjFoa0RUd0w0dFg4SVU2Rkt1TXM0bkRtRzlRS182djhKTUQyQ2Nqb1VySHRiY2pUZl9YX1BWR2xjc3UxWHQtcl9RME9ELWY?oc=5",
       "publishedAt": "Sat, 16 May 2026 20:31:02 GMT"
-    },
-    {
-      "title": "크루즈선 탔던 캐나다인, 한타바이러스 잠정 양성 판정",
-      "source": "연합뉴스 한민족센터",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WcWNNZGhXX05EckhxenRYUm9vY1ZOMGk5T3pSZkhKbnp4dXZkWmpCVFpuSkl2THF0bmw3VWtrN2lLWlpaN0hoNXd5dk9ETFRXajBCdmkzX3d1ejRpNllRYTUzOGpZRmI1YWRLVW9zaTRVWHdY?oc=5",
-      "publishedAt": "Sat, 16 May 2026 19:10:30 GMT"
-    },
-    {
-      "title": "Resistance 3 RPCS3 및 무손실 스케일링을 사용하여 120 FPS로 테스트했습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUJXQ0xYQ0pZY1BPRGNaM1lHTXJRajRNbjZvODZQU1pRMXctNmM0RlVIYWpVUGtBNXZhem1rMS1iLXhFMFdQeUpERXFZaHpnc2pybTNJMy1Zb2ZXNU9VQWE0ZE1Ed2FSUXpfNnpwMlBFS1RMbHdPLWNlUWlTWDRMMUxmbjlUV3BXdHlEWWlYbGVoNi1fMFNPbEl5b3FaWGIxQzk2MExR?oc=5",
-      "publishedAt": "Sat, 16 May 2026 17:54:30 GMT"
-    },
-    {
-      "title": "마음챙김 요가, PTSD 치료의 새 길",
-      "source": "한국AI부동산신문",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKR2FpYU1WNGpaWFBTZUxhYWwxcnlmOWZMM1Mzc3pHcVRyeDhhM2Jpb1JrWVRuZ1lFYWdxNEZocEx3T0dESzZiUmkxYlc?oc=5",
-      "publishedAt": "Sat, 16 May 2026 17:07:07 GMT"
-    },
-    {
-      "title": "'강남 8학군·카투사 출신' 문상훈, 父 반대 딛고 유튜브 대박..4층 사옥 통임대[전참시][★밤TView]",
-      "source": "starnewskorea.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVU3Wmt6c05jR1ZVYTZxNk9RNkNTWU5UVkhNSEROc1gxaU80VFRleUZsdzBHdVo4VWZXX3hMellMdTNsQnNsNTAtMl9jc0JrUnRBRm4yU3dMejNZcWdtdm43cnp3bkJlN2RvVjFLcUxfSXNwNGdwVU9GMTVpU1R6Xw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 15:57:21 GMT"
     }
   ],
   "sources": [
