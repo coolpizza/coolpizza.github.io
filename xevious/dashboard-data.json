@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T03:37:04.367996+09:00",
+  "generatedAt": "2026-05-17T04:44:55.490628+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "12.0°C",
-        "feelsLike": "11.9°C",
-        "highLow": "최고 24.3° / 최저 11.6°",
-        "humidity": "98%",
-        "wind": "4.3 m/s",
+        "temperature": "11.5°C",
+        "feelsLike": "11.5°C",
+        "highLow": "최고 24.7° / 최저 11.4°",
+        "humidity": "99%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "pm10": "72.9 μg/m³",
-        "pm25": "69.4 μg/m³",
+        "pm10": "76.6 μg/m³",
+        "pm25": "73.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-17 03:30"
+        "airQualityIndex": "75",
+        "updatedAt": "2026-05-17 04:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
         "temperature": "12.0°C",
-        "feelsLike": "12.1°C",
-        "highLow": "최고 20.0° / 최저 12.0°",
+        "feelsLike": "12.0°C",
+        "highLow": "최고 21.0° / 최저 11.9°",
         "humidity": "99%",
-        "wind": "3.6 m/s",
+        "wind": "3.5 m/s",
         "rainChance": "0%",
-        "pm10": "72.9 μg/m³",
-        "pm25": "69.4 μg/m³",
+        "pm10": "76.6 μg/m³",
+        "pm25": "73.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-17 03:30"
+        "airQualityIndex": "75",
+        "updatedAt": "2026-05-17 04:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "11.8°C",
-        "feelsLike": "11.8°C",
-        "highLow": "최고 22.7° / 최저 11.5°",
+        "temperature": "11.4°C",
+        "feelsLike": "11.2°C",
+        "highLow": "최고 22.9° / 최저 11.3°",
         "humidity": "99%",
-        "wind": "3.6 m/s",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "72.9 μg/m³",
-        "pm25": "69.4 μg/m³",
+        "pm10": "76.6 μg/m³",
+        "pm25": "73.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-17 03:30"
+        "airQualityIndex": "75",
+        "updatedAt": "2026-05-17 04:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.7°C",
-        "feelsLike": "13.0°C",
-        "highLow": "최고 27.1° / 최저 12.2°",
+        "temperature": "12.5°C",
+        "feelsLike": "12.5°C",
+        "highLow": "최고 27.2° / 최저 12.1°",
         "humidity": "99%",
-        "wind": "3.7 m/s",
+        "wind": "4.7 m/s",
         "rainChance": "0%",
-        "pm10": "67.1 μg/m³",
-        "pm25": "63.8 μg/m³",
+        "pm10": "67.8 μg/m³",
+        "pm25": "64.0 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "77",
-        "updatedAt": "2026-05-17 03:30"
+        "updatedAt": "2026-05-17 04:30"
       }
     ]
   },
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 부송지점",
-        "address": "전북 익산시 무왕로 1277",
-        "updatedAt": "2026-05-13 05:30:07",
+        "stationName": "오일스타㈜익산지점 착한8주유소",
+        "address": "전북 익산시 용동면 익산대로 2538",
+        "updatedAt": "2026-05-17 00:26:34",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "김포감정주유소",
-        "address": "경기 김포시 김포대로 1135",
-        "updatedAt": "2026-05-16 23:58:39",
+        "stationName": "한울에너지(주)마송주유소",
+        "address": "경기 김포시 통진읍 김포대로 2397",
+        "updatedAt": "2026-05-16 22:28:06",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,46 +376,16 @@
   },
   "news": [
     {
-      "title": "청주서 음주운전 차량과 오토바이 충돌…20대 오토바이 운전자 사망",
+      "title": "Netherlands India",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtUWFSZVNGV2twMGEwdWtwREpXbmtud0xuclpiSHVldC1DSWU5MGRvT1k5bG5WN2ZFeFVqcnhxYUU3YmtaUmpVM0NJYWlELW83eUNNX3p4bk5MVWVCWlBWNw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 18:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pNjhmcWxSVjMtT2VvSGhYQmFHdXhsTU15NndRU01oZC00eEpPQ2NvcTR5d3BxN09oelUyYWVCYmFMTUd5UDhiQzFLd2NjLUJVSmZzWlFWeFdnS0pvOERoZw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 19:36:00 GMT"
     },
     {
-      "title": "점 하나에 우주를! 한국 추상미술 선구자 김환기",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fQ0hiNjZNWFdFUjJoQzdTbWVfbEhxR0VJeW5UaGI0Zl94N0EtcFlxRjNSUmNCZnlCM093N3ZTcXJsNzVnc09GZVYxamJCZkl5NzAtUVRfMVhBOFhNR3VscQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 18:30:00 GMT"
-    },
-    {
-      "title": "런던서 또 대규모 반이민 극우 집회…'스타머 퇴진' 구호도",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zVzhYYWJMVzI1UU9MR1JiLXdsYVNDeU54VjNMVk5aOFZiT1h5Y0dZZUlPTW52bFFUUE9VSkc0WkNNeW1neHZ2aTZLZzRQSXpZU2Z1eV9pRnBxT0lRR2Vhbg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 18:03:00 GMT"
-    },
-    {
-      "title": "10만 연등 물결에 로봇 스님까지…전통과 AI가 함께 걸은 종로",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtazFUNWVKM01kR2NoRTB5OGZ4aEVLQ01YSFNMb0g4cmF0M09hbm9UQVdtN3EwWlVBWFdqRkYtYjRLS1dZUWFNTFBMeW1JbktEVHlZ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 18:02:00 GMT"
-    },
-    {
-      "title": "버핏 떠난 버크셔, 셰브런 지분 대거 축소",
-      "source": "초이스스탁",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SGFXbkQ4YnN6UGYyYkZhcVl6Q0I5eV80MXNLd2E5eUpvR1VMZ1VzWWttc3E3Y1JzVHZGWW84bHM3TWFlLUl1MlZDMjVzLTlqMEdBc29ETGVfVEdGQVVfMzhvQkdReUE?oc=5",
-      "publishedAt": "Sat, 16 May 2026 18:00:00 GMT"
-    },
-    {
-      "title": "원 유니버스 페스티벌 2026 상상, 그 이상의 역대급.. 1차 라인업 공개!",
-      "source": "뉴스인",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtZ1ZUaTBrOHF6SC1tSTdfTjhJTWhtVXUxdGk4V0hmOFd6MnVFMXhzN3NjMEhvRy1ZRHpFVl9sTGJnb1ZPS1Y1WGwzaWk5YzZXT05iX2NuQTBES0Q4OHJxV1FOVzFvSnNkbXhj?oc=5",
-      "publishedAt": "Sat, 16 May 2026 17:43:10 GMT"
-    },
-    {
-      "title": "트럼프 \"이란 합의 안하면 매우 힘든 시간\"…방중후 강경 경고",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YTUpNcG1GTGd2RUVoVWZ2aHVEamZBcGY1YjJZdW5FWFVsVk1zSjZrR2FGZG5kYVZlMzN2SzBneUF5UWJnaGNZRllrN245bmNvMmNITkdoekM0ZkFmMHczaA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 17:44:00 GMT"
+      "title": "크루즈선 탔던 캐나다인, 한타바이러스 잠정 양성 판정",
+      "source": "연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WcWNNZGhXX05EckhxenRYUm9vY1ZOMGk5T3pSZkhKbnp4dXZkWmpCVFpuSkl2THF0bmw3VWtrN2lLWlpaN0hoNXd5dk9ETFRXajBCdmkzX3d1ejRpNllRYTUzOGpZRmI1YWRLVW9zaTRVWHdY?oc=5",
+      "publishedAt": "Sat, 16 May 2026 19:10:30 GMT"
     },
     {
       "title": "Resistance 3 RPCS3 및 무손실 스케일링을 사용하여 120 FPS로 테스트했습니다.",
@@ -430,10 +400,40 @@
       "publishedAt": "Sat, 16 May 2026 17:04:45 GMT"
     },
     {
-      "title": "‘대세’ 허경환, 통 큰 기부..“박성광보다 많이 냈다” (‘전참시’)[핫피플]",
+      "title": "‘태도 논란’ 양상국, 수척해진 근황…유재석 “스타 되어갈 때 조심” (놀뭐)",
+      "source": "iMBC 연예",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aTFgwTmxZdWNmSGtTWGVfYzRRQ3A5NGl0ZVd1YWN5ekl0aGFPVVNvZmhaWG85VEoyMEhyX25UTEJPUl9pamRqVEx5MFJXcFNqMUhRN1UwWm1yR0tvaFUtWQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 16:47:00 GMT"
+    },
+    {
+      "title": "'강남 8학군·카투사 출신' 문상훈, 父 반대 딛고 유튜브 대박..4층 사옥 통임대[전참시][★밤TView]",
+      "source": "starnewskorea.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVU3Wmt6c05jR1ZVYTZxNk9RNkNTWU5UVkhNSEROc1gxaU80VFRleUZsdzBHdVo4VWZXX3hMellMdTNsQnNsNTAtMl9jc0JrUnRBRm4yU3dMejNZcWdtdm43cnp3bkJlN2RvVjFLcUxfSXNwNGdwVU9GMTVpU1R6Xw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 15:57:21 GMT"
+    },
+    {
+      "title": "'양현준 62분' 셀틱, 스코틀랜드 리그 5연패…역대 최다 56회 우승",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBudWFhWkgtWFZzdWsxS1ZGanVqMWg3aUh6WDZhS2RoUzFRcTNhbHNhZVRUYmNBNjhuQmo0NmN1aXc2aVJHajBYM19weTNzS2U4VFMzLXdmNjMyUlplS3hRYVhqQVRUV2JsWFE?oc=5",
+      "publishedAt": "Sat, 16 May 2026 15:38:00 GMT"
+    },
+    {
+      "title": "크라이텍의 채용 공고는 크라이시스 리메이크를 처음부터 완전히 새로 개발할 가능성을 시사합니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUlxRmU3NnhsVVF0NDJwMDNqeTRwTHp0VXFlOU5Ma0xtR0tSdU9SQm5UNUdFQzlQcGh4elRiRzJSbkNNZ3BQTEN1QVRNLVZGZHlTSnZITWpnbVlNZWhoeFdYM2E4UDQwWEduREZQMVlhVGJHT1pjYWg1ZUQxODVOcnR4dkY1c3RrZno0amJlNjQzQ255N0hOZUtVazg3ZE5yWEdKR1VaMmlIb1NPZW92Mg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 15:34:28 GMT"
+    },
+    {
+      "title": "홍명보호 북중미월드컵 '26人의 좁은문' 뚫어낸 6人의 '현역 K리거' 누구?",
       "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQamh3WVBDNFNWLUU3azZrb1ZfWTBfX1lFR2l2U2o2V0hUWi1LQ3VSWXd5UUt1V3RhUGJ0OHlrUEVPOG1mc19tWFg0ZzB6cDFsM3N4RHNIeWljUWZ5NmRST0JUUGlNZG1vcWNFZEJnUEh3Mm1vcDllQ3lMOGlkY2dlSXJfZlViWFV3dDc4dmlacw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 16:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSVg0SXg2ZEgwT3FrWlRmOW9hUW5nZmdVdGRGSUd1bTdZNVkwWkd0ZW11Nk5BNGN0dkVhLXFuZTE2NkZOOXIycFZMd3BMb21udkVrRFlLSURRSm94aFdMTzVieEIybkFqajZxdTBzT1dkbkVTNjZaYy1pU3Z1anRzRmw0MA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:13:00 GMT"
+    },
+    {
+      "title": "새벽에 깨서 답답한 가슴, 알고 보니 심장마비… 다른 증상은?",
+      "source": "헬스조선",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iX1dsQVdQanlSa1dFcUdGeWVIaGFfeTNwYmM3REV0c0RCX29fbkM0RUJtdm9LNnF6RkxpZm5hY2dMMU83TVJsMV93ZGlEM1VMRXFhUEJDMDRHQ0tzMXl1VW56WENoUThWZi1SdlJlWERVWjR3a1E?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:01:00 GMT"
     }
   ],
   "sources": [
