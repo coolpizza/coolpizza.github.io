@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-16T20:15:23.138346+09:00",
+  "generatedAt": "2026-05-16T21:07:47.180307+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "18.2°C",
-        "feelsLike": "19.2°C",
-        "highLow": "최고 26.7° / 최저 12.8°",
-        "humidity": "81%",
+        "temperature": "17.3°C",
+        "feelsLike": "18.3°C",
+        "highLow": "최고 26.9° / 최저 12.8°",
+        "humidity": "85%",
         "wind": "4.3 m/s",
         "rainChance": "0%",
-        "pm10": "33.3 μg/m³",
-        "pm25": "30.2 μg/m³",
+        "pm10": "48.8 μg/m³",
+        "pm25": "44.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-05-16 20:00"
+        "airQualityIndex": "69",
+        "updatedAt": "2026-05-16 21:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "13.3°C",
-        "feelsLike": "13.2°C",
+        "temperature": "13.0°C",
+        "feelsLike": "12.9°C",
         "highLow": "최고 21.1° / 최저 12.4°",
         "humidity": "99%",
-        "wind": "7.5 m/s",
+        "wind": "7.3 m/s",
         "rainChance": "0%",
-        "pm10": "33.3 μg/m³",
-        "pm25": "30.2 μg/m³",
+        "pm10": "48.8 μg/m³",
+        "pm25": "44.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-05-16 20:00"
+        "airQualityIndex": "69",
+        "updatedAt": "2026-05-16 21:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "16.2°C",
-        "feelsLike": "16.8°C",
-        "highLow": "최고 25.2° / 최저 12.3°",
-        "humidity": "90%",
-        "wind": "6.4 m/s",
+        "temperature": "14.9°C",
+        "feelsLike": "15.3°C",
+        "highLow": "최고 25.5° / 최저 12.3°",
+        "humidity": "94%",
+        "wind": "5.7 m/s",
         "rainChance": "0%",
-        "pm10": "33.3 μg/m³",
-        "pm25": "30.2 μg/m³",
+        "pm10": "48.8 μg/m³",
+        "pm25": "44.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "66",
-        "updatedAt": "2026-05-16 20:00"
+        "airQualityIndex": "69",
+        "updatedAt": "2026-05-16 21:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "15.8°C",
-        "feelsLike": "16.0°C",
+        "temperature": "15.0°C",
+        "feelsLike": "15.4°C",
         "highLow": "최고 25.9° / 최저 12.8°",
-        "humidity": "90%",
-        "wind": "7.9 m/s",
+        "humidity": "94%",
+        "wind": "6.4 m/s",
         "rainChance": "0%",
-        "pm10": "24.3 μg/m³",
-        "pm25": "21.6 μg/m³",
+        "pm10": "40.7 μg/m³",
+        "pm25": "36.8 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "76",
-        "updatedAt": "2026-05-16 20:00"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-16 21:00"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜디오티디 김포달님이주유소",
-        "address": "경기 김포시 김포대로 1467",
-        "updatedAt": "2026-05-16 17:58:04",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-05-16 17:59:28",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "5월 16일 MBN 뉴스센터 주요뉴스",
+      "title": "오색빛깔 연등",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Tb1ZOZ0NzNmlLcUFTUGFGS2psakNzU2R1Y2ZNWllwUDNmRUdqV0RtbWVGMkc5YjdLMFRvVXFGWkQ3Xy12NlRsMnRHd0lISjBuSjdn?oc=5",
-      "publishedAt": "Sat, 16 May 2026 10:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MWExtMDE2U1ZCV05lUmNVOUg2blc3SWx6dURZQkxvOHdDUS1JZFVJSjhaLVktLUp0NFptLWNhLVQzdG9pSTlaVXdoeFBDQ01LYTVteExrQ3ZWeVVCdnNIQw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:46:00 GMT"
+    },
+    {
+      "title": "시선 사로잡는 연등행렬",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HWldtd0wyQW9nTnY5OHpCQnVHNDVJR0laQmJhNm1iZ3FqY3JLUjhobEZaeHhSYmhwUTltb1dEWnF5UVdXdnVveUxBSk9QWlRxejVwdnBMZlhsUEJGcjFMbA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:45:00 GMT"
+    },
+    {
+      "title": "모두가 함께하는 연등회",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tdGFPd0NrcW5aNHFWeExpcWVvRnlzRTBtWUZaOEp0Vzd5TmRyNThUZzZfYjlGaW51RDBCS0tiOXBSVElZMktOMGtDdHNFYWJXbTJpNDlmX1hyeUpHWU4yOA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:35:00 GMT"
+    },
+    {
+      "title": "불기 2570년 맞아 열린 '연등회'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHdFd3V2Z1SFdULTVLYWlfSFRWdDFyZTR6V0FGWEVPWGZrcG40b1ZJeVZhSXlpdVQxNjZiYlc4dXUxd3JVSzlyb2tQQ3RNRjFpSnV5RXdEbnhoOUpGbTZHXw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:34:00 GMT"
+    },
+    {
+      "title": "Britain London Protests",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54RmxWdE5wX2FMUkJxQjZxQVBfV0V6SlBPdng4Q1NYdU9XN2hYOXFXeEJnX25KSHNHaTdkVmdYb2xoYXplaGNoaTUtdzRUVkpDOVhPUG15cnhjS2h6SHpxMQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:26:00 GMT"
     },
     {
       "title": "FRANCE CANNES FILM FESTIVAL 2026",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51LWpiY2RsUVdjVkdlMVBBR0hneVpTQTM0MUQ0MmVzRmdUNmZCSzNCRGJLb1Jhc0QwRFNtekNtZmJkS2Jpd0NVcy0wemFhOUt6bEVPNGZvV05lV0ItSUtIQw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 11:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96WnQzYU5wbkxta0d2SUtudGlmenB2ZGdkYjVlQWhmd2ZBdGRiZXRHREljR3h6Tlh5TEYwQ0ZNS3JYMW5FdS1sQUZWV0lsTVhjdUpka21WS3NQR2E5YkdtWQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:55:00 GMT"
     },
     {
-      "title": "흔들리는 중고 수출차 시장 [한강로 사진관]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IODZVME9ySkdqLUZneWhPNUZGbVFzOEpBaC1fQU1hekk2MkRCSjE0M3NfUGM1MElhSjVia2Z4VDVOSXI3bkJnNnhLSXVYZlNzaHBMTXlBNmI2anA5UV9zUg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 11:02:00 GMT"
+      "title": "운전 중 Suno로 AI 생성 음악 재생…Apple CarPlay·Android Auto 지원",
+      "source": "월간 믹싱",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBIaUN6ZTRua3hYeENmdGkyd0xRT3p6a2ZyZFZRa2trNURYc2V5OXhOVW5XZ0Vmd3RzS1Z0TldPMA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:49:31 GMT"
     },
     {
-      "title": "온열질환 사망 발생…역대 가장 이른 시점",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WcHN5d05JNGVSdG5qcjh6SW80WF9xNFQtbjViVFlxRzBRY3pSOXRfMFB0MDhqeDRRYWhaMDlIM3lTZTh0V29PZjN4dzc1bzlSWWxQYkJOUlA5UXZiNUhtdw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 10:57:00 GMT"
+      "title": "‘자숙 중’ 조세호, 후덕해진 얼굴로 ‘최진실 딸’ 최준희 결혼식 사회 봤다",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjlxcVpYWklhdzlnNWZIc3h1SGhLRWlXdDNTREtGTnhTU3hsWEdTdElpeEJPbm5WalJWRjU3TUx3VnhseEdLaF9nLVJnaWdidXBCMXJFNXd5OWV2N0ZUUlYwTm1lV2UwdEJpUWpvbmJRVmFIMGY5UFhwZnlIV19PQnJXQWdwVjQycVU3a2pTUTVIUnNH?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:15:00 GMT"
     },
     {
-      "title": "선거사무소 개소식 연 김용남-조국-김재연",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ncFhoaDdSMXFnNmliRDE4RTR2Q0FMeGRkM3VzekV3VnlJcnYxNEU5LXY5WXNlMU1MUTk4OVEydHQtemZ5ekFGUExNLVZGSzJIQkh4MWhhdGh5QTdZMmZKMg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 11:07:00 GMT"
-    },
-    {
-      "title": "FRANCE CANNES FILM FESTIVAL 2026",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUjVmVy1fcWR6ZjRhX1Fvc09ibjY3dFVCeE1WdXR5SWxuUnZ0TTI2U3dnMDdRVC1VaUpBVVQtZ2RhaVdXWFJwaFBMZzhwTW5uQU1yS1F2Ym5ZWUpUSE4xZw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 10:48:00 GMT"
-    },
-    {
-      "title": "북한산서 실종된 50대 여성, 28일 만에 숨진 채 발견",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Kbi12bjFHc1lGTWlmeGNOdXBHNkhOY3h5UENOZ2l1LURrdE5wSnBCMkJOYU1UUmlBN1lXRld3aXdsbjE2UXhMN0c4Qmd6eGtQa25fWmhySkNGTV9pVXNfdw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 10:27:00 GMT"
-    },
-    {
-      "title": "[날씨] '서울 낮 최고 31도' 일요일도 더위 기승…큰 일교차 주의",
-      "source": "연합뉴스 한민족센터",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zWUFmQTd3MER1bXZNUkluUnY5RzRWVFBZSW90YmNBRHRJRklhZlUtNjlYZzBmTkNMcFhucHVsekZ2YW90QjkwS19MY3FhUldLOGNqNDZMVng0c29pXzRnWlJNZUNuTms5V0Jsb2VRazZreDBw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 11:00:00 GMT"
+      "title": "일요일도 때이른 더위 계속···서울 한낮 최고 31도",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Z0ZTU2hlaEY2Y2tYajVmdHhzRmlvQWdicjFFbUZ3MEJHZVpDOHBBRDJWeVZRVmxCZVZORHdNV2RuOFcxRDlOYnJRQnZTbG5XWTBlQ3BaUGtQd9IBX0FVX3lxTE5rbUVTZkpBRUtiOFdrTWdmUjA4VEJ6Ujk1NTlwR25JUExfUUUxQ3NIdlhLQ1EzUlVjaFdqcHlSQnRNVWZuWEFmbUhvcVVjSUpqajIyQ1JQSmZGUjMtWnhV?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:11:00 GMT"
     },
     {
       "title": "[우주의 속삭임(187)] 우주의 뼈대를 보다⋯제임스웹, 137억년 '코스믹 웹' 지도를 열다",
       "source": "포커스온경제",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51YlctVHJHbEJHVXVvbU1fNWtYR3NmZlFvQ190Sk1jejd6ajZKMTQxU3Z4TThYVU1qVUpSQ0RPSmk4U3FJTGRXNnRPdlBkakRIQ2k3dVdRb3ZlWl81eWc?oc=5",
       "publishedAt": "Sat, 16 May 2026 10:48:57 GMT"
-    },
-    {
-      "title": "질병청 “이른 더위에 온열질환 첫 사망자 발생”",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wSlVyOFFyUWJYNVR5REx5MERoQWpGT3lsRjZCR1BhcWxsNlFET1dPSl9mVUstWW5EcHhITW9iaEpQVE02VkkwVjJjSEo3T2FFcDBDOTl0b2UxYzg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 09:54:00 GMT"
     }
   ],
   "sources": [
