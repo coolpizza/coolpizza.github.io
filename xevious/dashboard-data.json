@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T07:52:30.586496+09:00",
+  "generatedAt": "2026-05-17T08:39:13.372277+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.8°C",
-        "feelsLike": "12.1°C",
+        "temperature": "13.0°C",
+        "feelsLike": "13.5°C",
         "highLow": "최고 25.1° / 최저 11.2°",
-        "humidity": "100%",
-        "wind": "1.8 m/s",
+        "humidity": "95%",
+        "wind": "1.9 m/s",
         "rainChance": "0%",
-        "pm10": "81.3 μg/m³",
-        "pm25": "77.8 μg/m³",
+        "pm10": "54.6 μg/m³",
+        "pm25": "53.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "78",
-        "updatedAt": "2026-05-17 07:45"
+        "airQualityIndex": "73",
+        "updatedAt": "2026-05-17 08:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.4°C",
-        "feelsLike": "12.2°C",
+        "temperature": "12.7°C",
+        "feelsLike": "12.6°C",
         "highLow": "최고 21.2° / 최저 11.8°",
         "humidity": "99%",
-        "wind": "5.8 m/s",
+        "wind": "6.1 m/s",
         "rainChance": "0%",
-        "pm10": "81.3 μg/m³",
-        "pm25": "77.8 μg/m³",
+        "pm10": "54.6 μg/m³",
+        "pm25": "53.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "78",
-        "updatedAt": "2026-05-17 07:45"
+        "airQualityIndex": "73",
+        "updatedAt": "2026-05-17 08:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "11.9°C",
-        "feelsLike": "11.7°C",
+        "temperature": "12.3°C",
+        "feelsLike": "12.2°C",
         "highLow": "최고 23.6° / 최저 11.2°",
         "humidity": "99%",
-        "wind": "5.0 m/s",
+        "wind": "5.3 m/s",
         "rainChance": "0%",
-        "pm10": "81.3 μg/m³",
-        "pm25": "77.8 μg/m³",
+        "pm10": "54.6 μg/m³",
+        "pm25": "53.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "78",
-        "updatedAt": "2026-05-17 07:45"
+        "airQualityIndex": "73",
+        "updatedAt": "2026-05-17 08:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.5°C",
-        "feelsLike": "13.0°C",
+        "temperature": "12.8°C",
+        "feelsLike": "13.5°C",
         "highLow": "최고 27.7° / 최저 12.2°",
-        "humidity": "99%",
-        "wind": "1.6 m/s",
+        "humidity": "100%",
+        "wind": "1.4 m/s",
         "rainChance": "0%",
-        "pm10": "65.2 μg/m³",
-        "pm25": "61.5 μg/m³",
+        "pm10": "55.4 μg/m³",
+        "pm25": "53.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "76",
-        "updatedAt": "2026-05-17 07:45"
+        "airQualityIndex": "74",
+        "updatedAt": "2026-05-17 08:30"
       }
     ]
   },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "경일석유㈜찬빛주유소",
-        "address": "경기 김포시 통진읍 김포대로 1999",
-        "updatedAt": "2026-05-15 04:46:28",
+        "stationName": "그린씨티 셀프주유소",
+        "address": "경기 김포시 양촌읍 양곡우회로 40",
+        "updatedAt": "2026-05-16 22:55:04",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,9 +376,27 @@
   },
   "news": [
     {
-      "title": "Big 10 Athletics",
+      "title": "Phillies Pirates Baseball",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51eVpYQ0ZNVmhkSVg1VTNxTFJkXzF5dDlVdnJkSzhLekJMUVZDWVl2dEpGS1oyajlPSUNtQjl4aUhNXzZucy1EWHcyRk5Ed0t2TVhQU0dyOHBVTmpkNnFVNg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93YTcydkJKSkRGZVk1U25XWXNqd3dhTERCX3ZiZjhIM1ZkSlJMMEhhaExaX1hEbVhOeXlGaEJjMEtfWTgyN0hfdXlkT19uSTNMZTRPVkd3UnZhUnJkMmdmVA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 23:29:00 GMT"
+    },
+    {
+      "title": "Election 2026 Voting Rally",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJQXVHelpZb2lxcnpENEM4NGtvOTE4SXR6MER6N2NoMlkySnkxVFZzMVd5ejh3RWU0MGROb1J5bXRYTVE3LTN0bjJCcWVYR0tSWTYza1Fzc3M4TWRlWWlxYQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 22:44:00 GMT"
+    },
+    {
+      "title": "크루아제트 해변 밝히는 '군체' 신현빈",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91R08xWWp0dDl3R0J5SVNnMzMySTRydmJwZTdFMWI1UGVkNDA5dGtrV2F6VkhHd1pmUlRwSmpNMU9oYzViMHZRRk1uOS15VGQyQmVheEdYU2NQVzFScWdCQw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 22:46:00 GMT"
+    },
+    {
+      "title": "칸의 푸른 바다 앞에 선 '군체' 지창욱",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tTlNZcmlRd0JwckQ5UjNaZ2NkdEhxRFNKVzdsdEIwQy1qTUg1SVpWMzNXUzlPQ2FCaGZROEtIOTBubWdRU2FRWlUzVG1UX2hIRHBiMVRTNHpwSlJCYmF0eA?oc=5",
       "publishedAt": "Sat, 16 May 2026 22:46:00 GMT"
     },
     {
@@ -388,52 +406,34 @@
       "publishedAt": "Sat, 16 May 2026 22:40:00 GMT"
     },
     {
-      "title": "PORTUGAL SOCCER",
+      "title": "얼굴에 쓰는 240Hz 모니터…에이수스·엑스리얼, AR 글래스 'ROG 엑스리얼 R1' 공개",
+      "source": "CNET Korea",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lcDMxQ3N0aC13ajZOWmRMS2tMd3NDZlByZ0QxdEdYYTh0b3lMWjNJVU9adFdZek1NN19MWXI0N3dmUEFHNnJpdVZ1R19JWDJWMFV2MHBZZw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 23:05:00 GMT"
+    },
+    {
+      "title": "화성 근접 비행한 NASA 탐사선 '프시케'…속도 높이고 연료 아꼈다",
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90cnJXX0JwWWRVYnRZWHFhRmlYekhtcUVyX3ZaM0JobjBwUWtmVUlGWEpQZzdhTl85bFZjZVRaRnh1ZkFUeGJfU2owdWRKdmU0aWJvUHdwWEpfNjNaYzQwZzVjNmlRX3ZmRUo5eVM3UDY1eTA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 23:02:21 GMT"
+    },
+    {
+      "title": "\"공룡은 죽어도 꽃은 살았다\"…비결은 유전자 '복사기'[사이언스 PICK]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NRG9SZUZpSmF5bFlMWWhjT0lkN016QkxSUHFUbDRqbk1sVFdnaGJTU2xNUFNkTUZvUFMyOUZpWHZ5dHB3clBZVGRNeU9mT1J6V29xOUF1b2huaEJpaHV6Sw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 22:39:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtSWs2eDhkLVl4Um9YX21GaUNFUDJHTHVBbmZUbDliRTg5cWlPQkNmNWI2dm1UTWIxSkw0dUlfR0dDaXl4ZDRydDlacnVmNDlQaFZN?oc=5",
+      "publishedAt": "Sat, 16 May 2026 23:02:00 GMT"
     },
     {
-      "title": "'군체' 구교환, 칸 해변 화보 촬영",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RZzg3LXhIbTJmb1dYclJZMXgtUm9ZZzFNY1hKOW1lSk9aT3liWEtHTzVoVzZHM3BsU2JPT19mNGRjeW9HRHZTdjlJeUFpNUNPb2RjUGdpZVZ6YTlwSmIxYg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 22:45:00 GMT"
+      "title": "넘어지고 부딪히는 아이들, '소아 상지 골절' 주의보",
+      "source": "매경헬스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRVE5LW1vam1vQ0dDSko3SEk2Q3AxYTY0OXhJTTZLZlBEZWNnQlFQU3JidWZWZXNoUHR5dmowSUlXLUthNFZtb2FIUE5IcVEyRzUwRGxXckdTeVgtRTZXaUlZaDJ3TjZvam5nQw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 23:00:00 GMT"
     },
     {
-      "title": "\"비료 일평균 수십 톤 증산\"…北, 생산 확대 강조",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGc0htbW9DQ0lsOFdsMW1ZUmJPMFZna0dXTXNaNFJtS1lqaWdOMlBTMnBFekFTUGNQWDRhT1hERHhyUDVadVo3U2kxb3NzT0hZMmdEaEt3LVlkUDhjYUR1QQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 22:12:00 GMT"
-    },
-    {
-      "title": "트럼프 방중 때 앞뒤 배치... 高지붕 SUV, 드론떼 방어?",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1lMTkJSeWZnVldOa3NXdGZUT3I4Q3lNaEdQTV9jN2RKa3lDenhNdl9HZVNwa2ptakZ6Vmw3eE5SREVDVHVmV0tWQlV1MHliR21yQzlSNm96Snl4aGU0VEFYSXNEY3ZWQnBjNTd2OUdLMUhCaG5lY19jZDBpTDc2RTg1QUQzaEVCdjJQUXJQVndES1U4bnoxbzRpQnc0dw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 10:49:17 GMT"
-    },
-    {
-      "title": "홍준표, 이번엔 정원오 엄호…\"될 사람은 된다\"",
-      "source": "nocutnews.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TN0lmSHI5LVhlS0RpN0RUZXdRUzZBU2FYZGV5YktnNGJVSC1yS3hJZnFPVE83eXVtQk05cGVLdTNla25CWGpHYkFyNlY2U0RKYVE?oc=5",
-      "publishedAt": "Sat, 16 May 2026 07:12:00 GMT"
-    },
-    {
-      "title": "與 ‘1회 토론’만 고집 논란... 野 “침대축구, 깜깜이 투표”",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkpxRnVsM2NDWDJyNkRnLUVwNXJBdW1VR0JMVGloUlNuUzMyVnFVQ3JCWUNlQm8zVjY4NTBNOE9CU1lTczZvSXZKck92c05fUDRrOHlVR1N6TkFuQWlvSFlEeWtDcC1ZcV9RTjNKbjJhQkwyVkNFbk40WC1iWVg2WG9GZzRDdw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 04:07:00 GMT"
-    },
-    {
-      "title": "“美 반도체 산업을 훔쳐갔다” 중국 다녀온 트럼프, 대만에 화살",
-      "source": "동아일보",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kSHFmSTlTVEw2TTFhTTlkMzFZUnVUMFlFakdlRTQ2bGd2c0F4WDBiU2NSRHNvWXhkRDJqeTI2NUtucTNkN3AwVGw5b1Y5dTgyeUdjUXB3TkUyQXZsSTJSN3RjYmRaNnk5TVctMEZXN0ZDVWvSAWZBVV95cUxPenBBNzhFY0dSRHlUUGV4V2M1WHVfNW1WX2FGd1JyYlhpTzRBZ01BZ3NidmdiSlp3VDhodjdNbXVZbkw2djhjbHc1SFJqOFFRZkUwclNWdDBYZEdhcXN5WHRvTVpmTGc?oc=5",
-      "publishedAt": "Sat, 16 May 2026 03:22:00 GMT"
-    },
-    {
-      "title": "‘담배연기, 살인충동’...서울 대형병원 출구 앞 글귀에 환자들 술렁",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakRMQndZelAzemlxa0N3YW5HdWt0Y1ZvRHJqRDJmS1VnSjdZRnQxQmZQNHVXUU10cGpfcXRtakZibXlram9rSTRMWU9XUEo4TEozekl6SW9MYmd6ZFdTeU9UQkhHRVdlUEFVdVBmb3ZXS0JzbWl3Z0VqckZsYUw2NHh3QkNVZw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 02:41:51 GMT"
+      "title": "애플워치 시리즈12, 디자인 유지 속 칩 성능 개선 가능성…터치ID 도입은 “글쎄”",
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzYmVzVjdkT3ljV1BSQ2N4YV9RcnhDa3doYlM5clNacUF0WHJ5eXRvN01TRmsxZTdfX1NKRWxsSkJzeHFJRk82ZXd4Q2VKaGduYWVkOE10S3E5Z1V3dkUxSVpKamtQUmFSVU0zQ3VweUx6LXM?oc=5",
+      "publishedAt": "Sat, 16 May 2026 22:54:35 GMT"
     }
   ],
   "sources": [
