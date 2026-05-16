@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-17T05:27:02.507320+09:00",
+  "generatedAt": "2026-05-17T06:09:52.773308+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.4°C",
+        "temperature": "11.5°C",
         "feelsLike": "11.5°C",
         "highLow": "최고 24.7° / 최저 11.4°",
         "humidity": "99%",
-        "wind": "2.6 m/s",
+        "wind": "2.7 m/s",
         "rainChance": "0%",
-        "pm10": "78.5 μg/m³",
-        "pm25": "75.2 μg/m³",
+        "pm10": "81.3 μg/m³",
+        "pm25": "77.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "76",
-        "updatedAt": "2026-05-17 05:15"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-17 06:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
         "temperature": "12.0°C",
-        "feelsLike": "12.0°C",
+        "feelsLike": "11.9°C",
         "highLow": "최고 21.0° / 최저 11.9°",
         "humidity": "99%",
-        "wind": "4.2 m/s",
+        "wind": "4.8 m/s",
         "rainChance": "0%",
-        "pm10": "78.5 μg/m³",
-        "pm25": "75.2 μg/m³",
+        "pm10": "81.3 μg/m³",
+        "pm25": "77.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "76",
-        "updatedAt": "2026-05-17 05:15"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-17 06:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "11.3°C",
-        "feelsLike": "11.1°C",
+        "temperature": "11.4°C",
+        "feelsLike": "11.2°C",
         "highLow": "최고 22.9° / 최저 11.3°",
         "humidity": "99%",
-        "wind": "4.4 m/s",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "78.5 μg/m³",
-        "pm25": "75.2 μg/m³",
+        "pm10": "81.3 μg/m³",
+        "pm25": "77.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "76",
-        "updatedAt": "2026-05-17 05:15"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-17 06:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.3°C",
-        "feelsLike": "12.3°C",
+        "temperature": "12.1°C",
+        "feelsLike": "12.5°C",
         "highLow": "최고 27.2° / 최저 12.1°",
         "humidity": "99%",
-        "wind": "4.6 m/s",
+        "wind": "1.6 m/s",
         "rainChance": "0%",
-        "pm10": "67.5 μg/m³",
-        "pm25": "64.0 μg/m³",
+        "pm10": "68.0 μg/m³",
+        "pm25": "64.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-17 05:15"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-17 06:00"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "대명탑주유소",
-        "address": "경기 김포시 대곶면 대곶로 14",
-        "updatedAt": "2026-05-16 21:59:49",
+        "stationName": "㈜태리네트웍스 서울주유소지점",
+        "address": "경기도 김포시 양촌읍 양곡로 355",
+        "updatedAt": "2026-05-16 13:09:52",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,16 +376,40 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[오늘의 주요일정] 정치·정부 (17일, 일)",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HM202N3VaYl84c21BUjVSX2p1V1V1MGdMRlNCdTJYaktzX0xRRFlvSEw2LXBYUHpzTk9YSXB0NEhXTHltYXpTRlgxTms1MnhsNFh5ekQ0S3lzUQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 20:00:00 GMT"
+      "title": "이마트, 고유가 피해지원금 사용처 안내 강화한다",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vVGp0WTluY2s4cmR5Q0hSUXdGbzlpLXFIVjJnMldJckFOTWZFTzYyNWYtVTN4d2t6UmVXd1VJUEZBbElMU256dEdYd3l0c05fRTVWaXlOemxmMXlwUWQ3cQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:00:00 GMT"
     },
     {
-      "title": "GERMANY SOCCER",
+      "title": "\"고유가 지원금, 이마트서도 쓸 수 있어요\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNXFubzRCVTVDd0ltZDFzZW00WVMxX2xuQWlWX3JXWVZ0LWw3TDl2cHhFZ2FGRWNtcHByQnBnanBseGZWYksxLVVpSzlzNXFwU1FseC0zR3F0VllHOHlmMg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 19:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qNTJHYnNkTHJVcmM2ZkNEM3FManh4Zi1RTVU2VEFPSzZiZWt2UWdGVGFqdXhxZUtZWEd5dWE2Sm1qT3FhOGJ1SVZXREd4elNlVWNHdE93Z0ZMV1lDQTB3UQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:02:00 GMT"
+    },
+    {
+      "title": "이마트 임대매장에서 '고유가 피해지원금' 사용하세요",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LLVZkaDVyOVhGVWdiQXVrVWVjWE83NGlIRkFPdUZaU3lvdjR4ZEszWWFFQ1kzSXlsTXNCb1VTOS05VjZlOVcwMTVUbkFmTEdUREww?oc=5",
+      "publishedAt": "Sat, 16 May 2026 21:00:00 GMT"
+    },
+    {
+      "title": "AUSTRIA EUROVISION 2026",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56dEc5QU54b21qbUIxSUpWRVo0dmNFdkY5WHFFTXJOSS1HSC1hUmpHWmJXT09KdEJFVWNaaWU5UUxDTWhkeWExSGVzbTlCOXc3SWd1LUdjOUVNUEYzaGRNSw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 20:33:00 GMT"
+    },
+    {
+      "title": "물꼬 트인 삼성 노사협상…이재용 '한가족' 호소에 마지막 절충",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NOFdvbG1VYlByRG5NNHZsdVV1MVNyNk4ybWVON29BRk14V0ZoZC1xUVdPSVBKLWVKam94MktjRy04a0JTU3B4SktnUVJSa1N6azhrRzVtMVI1TGvSAWBBVV95cUxOX2dzMTE2Y0Z4Yk9GYUxSSktpM0JYcWNQYkkzMGFTLVl3RkcwMmJwZzBRUmpESjM3UHZUUWQyXzUzVWZJb0lncEFpbXM2TW1iend1ZTZjTEVYMGxLdy1LenI?oc=5",
+      "publishedAt": "Sat, 16 May 2026 20:55:11 GMT"
+    },
+    {
+      "title": "내일부터 2차 고유가 지원금 신청…소득 하위 70% 지급",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1malBvRi15VE1yLV9COVRaSXl6dElzdmdnOWdsaWFkaGJ1Y0RWcGtWb1NNWUlFZ1RFanZ3eHYyenZmWkFBV1djNDFoSnJ5YkRnVm50SlgtaXB0ZDTSAWBBVV95cUxQMHZkLUhlRWJyd0dLblJDcHJmcjFoa0RUd0w0dFg4SVU2Rkt1TXM0bkRtRzlRS182djhKTUQyQ2Nqb1VySHRiY2pUZl9YX1BWR2xjc3UxWHQtcl9RME9ELWY?oc=5",
+      "publishedAt": "Sat, 16 May 2026 20:31:02 GMT"
     },
     {
       "title": "크루즈선 탔던 캐나다인, 한타바이러스 잠정 양성 판정",
@@ -401,39 +425,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "title": "마음챙김 요가, PTSD 치료의 새 길",
-      "source": "유스연합",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vQmdBSDlEbDRQOWdxcGdZbVFTTW40MnlaZ1FHYURHejN6SlE1V2NNQVhweXl1a1UxTDhNVGt1ZlpqeEZFX3RpZE5OaUQtWk1hMGc?oc=5",
-      "publishedAt": "Sat, 16 May 2026 17:04:45 GMT"
-    },
-    {
-      "title": "‘태도 논란’ 양상국, 수척해진 근황…유재석 “스타 되어갈 때 조심” (놀뭐)",
-      "source": "iMBC 연예",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aTFgwTmxZdWNmSGtTWGVfYzRRQ3A5NGl0ZVd1YWN5ekl0aGFPVVNvZmhaWG85VEoyMEhyX25UTEJPUl9pamRqVEx5MFJXcFNqMUhRN1UwWm1yR0tvaFUtWQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 16:47:00 GMT"
+      "source": "한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKR2FpYU1WNGpaWFBTZUxhYWwxcnlmOWZMM1Mzc3pHcVRyeDhhM2Jpb1JrWVRuZ1lFYWdxNEZocEx3T0dESzZiUmkxYlc?oc=5",
+      "publishedAt": "Sat, 16 May 2026 17:07:07 GMT"
     },
     {
       "title": "'강남 8학군·카투사 출신' 문상훈, 父 반대 딛고 유튜브 대박..4층 사옥 통임대[전참시][★밤TView]",
       "source": "starnewskorea.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVU3Wmt6c05jR1ZVYTZxNk9RNkNTWU5UVkhNSEROc1gxaU80VFRleUZsdzBHdVo4VWZXX3hMellMdTNsQnNsNTAtMl9jc0JrUnRBRm4yU3dMejNZcWdtdm43cnp3bkJlN2RvVjFLcUxfSXNwNGdwVU9GMTVpU1R6Xw?oc=5",
       "publishedAt": "Sat, 16 May 2026 15:57:21 GMT"
-    },
-    {
-      "title": "'양현준 62분' 셀틱, 스코틀랜드 리그 5연패…역대 최다 56회 우승",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBudWFhWkgtWFZzdWsxS1ZGanVqMWg3aUh6WDZhS2RoUzFRcTNhbHNhZVRUYmNBNjhuQmo0NmN1aXc2aVJHajBYM19weTNzS2U4VFMzLXdmNjMyUlplS3hRYVhqQVRUV2JsWFE?oc=5",
-      "publishedAt": "Sat, 16 May 2026 15:38:00 GMT"
-    },
-    {
-      "title": "크라이텍의 채용 공고는 크라이시스 리메이크를 처음부터 완전히 새로 개발할 가능성을 시사합니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUlxRmU3NnhsVVF0NDJwMDNqeTRwTHp0VXFlOU5Ma0xtR0tSdU9SQm5UNUdFQzlQcGh4elRiRzJSbkNNZ3BQTEN1QVRNLVZGZHlTSnZITWpnbVlNZWhoeFdYM2E4UDQwWEduREZQMVlhVGJHT1pjYWg1ZUQxODVOcnR4dkY1c3RrZno0amJlNjQzQ255N0hOZUtVazg3ZE5yWEdKR1VaMmlIb1NPZW92Mg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 15:34:28 GMT"
-    },
-    {
-      "title": "홍명보호 북중미월드컵 '26人의 좁은문' 뚫어낸 6人의 '현역 K리거' 누구?",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSVg0SXg2ZEgwT3FrWlRmOW9hUW5nZmdVdGRGSUd1bTdZNVkwWkd0ZW11Nk5BNGN0dkVhLXFuZTE2NkZOOXIycFZMd3BMb21udkVrRFlLSURRSm94aFdMTzVieEIybkFqajZxdTBzT1dkbkVTNjZaYy1pU3Z1anRzRmw0MA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 14:13:00 GMT"
     }
   ],
   "sources": [
