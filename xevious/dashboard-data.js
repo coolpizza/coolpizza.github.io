@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-16T23:49:45.699626+09:00",
+  "generatedAt": "2026-05-17T00:41:31.689168+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,67 +68,67 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "14.4°C",
-        "feelsLike": "14.7°C",
-        "highLow": "최고 26.9° / 최저 12.8°",
-        "humidity": "91%",
-        "wind": "4.7 m/s",
+        "temperature": "13.6°C",
+        "feelsLike": "13.8°C",
+        "highLow": "최고 23.9° / 최저 11.8°",
+        "humidity": "93%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "60.5 μg/m³",
-        "pm25": "56.7 μg/m³",
+        "pm10": "63.3 μg/m³",
+        "pm25": "59.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "70",
-        "updatedAt": "2026-05-16 23:30"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-05-17 00:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.3°C",
+        "temperature": "12.2°C",
         "feelsLike": "12.1°C",
-        "highLow": "최고 21.1° / 최저 12.4°",
+        "highLow": "최고 19.7° / 최저 11.9°",
         "humidity": "99%",
-        "wind": "6.3 m/s",
+        "wind": "5.7 m/s",
         "rainChance": "0%",
-        "pm10": "60.5 μg/m³",
-        "pm25": "56.7 μg/m³",
+        "pm10": "63.3 μg/m³",
+        "pm25": "59.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "70",
-        "updatedAt": "2026-05-16 23:30"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-05-17 00:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "12.9°C",
-        "highLow": "최고 25.5° / 최저 12.3°",
+        "temperature": "12.4°C",
+        "feelsLike": "12.5°C",
+        "highLow": "최고 22.8° / 최저 11.8°",
         "humidity": "99%",
-        "wind": "4.9 m/s",
+        "wind": "4.4 m/s",
         "rainChance": "0%",
-        "pm10": "60.5 μg/m³",
-        "pm25": "56.7 μg/m³",
+        "pm10": "63.3 μg/m³",
+        "pm25": "59.6 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "70",
-        "updatedAt": "2026-05-16 23:30"
+        "airQualityIndex": "71",
+        "updatedAt": "2026-05-17 00:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "13.5°C",
+        "temperature": "13.3°C",
         "feelsLike": "13.7°C",
-        "highLow": "최고 25.9° / 최저 12.8°",
+        "highLow": "최고 26.7° / 최저 12.2°",
         "humidity": "99%",
-        "wind": "5.9 m/s",
+        "wind": "4.2 m/s",
         "rainChance": "0%",
-        "pm10": "59.1 μg/m³",
-        "pm25": "55.1 μg/m³",
+        "pm10": "66.6 μg/m³",
+        "pm25": "62.9 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "77",
-        "updatedAt": "2026-05-16 23:30"
+        "updatedAt": "2026-05-17 00:30"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 5월 16일 (토)",
+    "todayLabel": "2026년 5월 17일 (일)",
     "areas": [
       {
         "region": "서울",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "㈜태리네트웍스 서울주유소지점",
-        "address": "경기도 김포시 양촌읍 양곡로 355",
-        "updatedAt": "2026-05-16 13:09:52",
+        "stationName": "(주)디오티디 김포햇님이주유소",
+        "address": "경기 김포시 대곶면 대명항로 530",
+        "updatedAt": "2026-05-16 17:59:15",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "이란·파키스탄 내무장관, 대미 종전 협상 재개 가능성 논의",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WZkIzUHJpd0xKUzY4YjlfZU1kZzhfRmV6cGIxdWlEVHo2SlpwcUlocVJFR09WTHdobW90ZzBqZHVtWTF2b0Eyb2VJUlBXQXZXQTZubk1MQ3NtMzlxRjJLcA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 15:19:00 GMT"
+    },
+    {
+      "title": "광주·전남교육청-교육부 통합교육청 출범 주요 과제 논의 > 뉴스",
+      "source": "thekorea.kr",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5wOWRWSnRqT2hsODNDeVE4UWV6OXYwZExFd214SUE2X0t6T3dJbG9VakRDejFTVjh4bkZhSlMwNHh1UXM?oc=5",
+      "publishedAt": "Sat, 16 May 2026 15:16:00 GMT"
+    },
+    {
+      "title": "김포 아라대교서 60대 낚시객 실종…수색 중",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Q181RzhXMGtEX1RQeXV4OHhYQjNGQVlHUWFKRzFCR0YtV2FTU3B6X3d2SzRQbVBVV0FLNnZxWWdWTjdmbGIxc05XRzlwdTVGS3RxbkFxc19jeHZWS1U3Rw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 15:14:00 GMT"
+    },
+    {
       "title": "GERMANY SOCCER",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZNHZXbnpkbXV1MzE2aVVIX3NDSkdsR3dZOUcwdVJSMGcyNzdsbEQxc0s4N2owWEVydm4zaWV1TXM1ZlUwd0luV2NWelFCYnN4UlJ1eDUta0ZlNU5VRG9tOQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 14:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zZHVHVUJkMlkwZlRRMFRBaGVhQUtEV0d1RFdWUndOYUFHX2xoWVZBdEJYSVllLUJlRDlKRWp6Zk10bmJySENrS2tJRHlmekdIZkNtdWh1dy1QeWlyU1ZnOA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:57:00 GMT"
     },
     {
-      "title": "편승엽, 15년 만에 4혼 고백 \"평범하게 살고 싶었다\"[데이앤나잇][★밤TView]",
-      "source": "starnewskorea.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczU0Uk9SS3V3S2NmRmk4TWx3Q2JrcmtVZVpTTGY0Um42MTNOOGJqajdtdGI4ZWN3UzhLR2ozcUdQQVFUaTYwT2tWZFFUem1tWHZkWElMTEcwd1BmdFZ0UmtieFMyYXN3OExFZE5ZMGMtQzBkRFB2Ml9VcGZsZU5QSw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 14:27:43 GMT"
+      "title": "MALDIVES ACCIDENT",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iMW1VZkhEazZjby1wVk05d2k0dkRobWU0QjBJMFpMT3pKeGEzLVBiSGZGMGVmU2l2RGkydVNaTXBVdGdfemJEUVdmUi01eU1PV0FydGNWMjJyNFNRSzBBVw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:53:00 GMT"
     },
     {
-      "title": "홍명보호 북중미월드컵 '26人의 좁은문' 뚫어낸 6人의 '현역 K리거' 누구?",
+      "title": "BRITAIN PROTEST UNITE",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HdFI5ZU9JcGMzSEJ0bVB2RTM3dHVDclhNMlk1MVdCalpDczJGQ2xHSGlKYmFoOUhUaEd0Z0poTGpRWXZSOWJNTHoyUlVRdjRpRUlqdkM0VjRzZ3F3T1FGRg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:44:00 GMT"
+    },
+    {
+      "title": "BRITAIN SOCCER",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LNUx0LVJRQTNRMWgtWWtZY0VDblZYQzZfd3VYTG1oZHJqZmxzekh2RFAyakw1VWd0OXpVMHlTa3FNT09JZnpoVk5LdmpnTTVXalcxYmdObDBuZlRsTUlRRg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:44:00 GMT"
+    },
+    {
+      "title": "카리브해 앤티가바부다 동북동쪽 바다서 규모 6.0 지진",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52RmRVREoxU21RcjR6MmVWUWs1TXo2UWdzNTd0M2plMkJUcGtfVm1KYjFRRU5EZ1lnT1hoNTJVR1F1Sy1CeTRfWHdaN0YyQnhzU2Y4bmVyTVNITklPc3ZFRg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 15:25:00 GMT"
+    },
+    {
+      "title": "이란-파키스탄 내무장관 회담…\"미국과의 협상 재개 논의\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvUjVSYlM1a1ZJOGFpRUVud2NhWDZfSmpPYVFwWlhrTWFEeE9Id0RwVmtYUDRmMWE3ZG1EeHhZUzRsUUxNaUtUUEVQbDAtM1VCOXktY2w3VHltOU9yTXZGcw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 15:06:00 GMT"
+    },
+    {
+      "title": "‘문쌤’ 문상훈, 인강 업체서 스카웃 받았다..“회장님이 재능있다고” (‘전참시’)[순간포착]",
       "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSVg0SXg2ZEgwT3FrWlRmOW9hUW5nZmdVdGRGSUd1bTdZNVkwWkd0ZW11Nk5BNGN0dkVhLXFuZTE2NkZOOXIycFZMd3BMb21udkVrRFlLSURRSm94aFdMTzVieEIybkFqajZxdTBzT1dkbkVTNjZaYy1pU3Z1anRzRmw0MA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 14:13:00 GMT"
-    },
-    {
-      "title": "새벽에 깨서 답답한 가슴, 알고 보니 심장마비… 다른 증상은?",
-      "source": "헬스조선",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iX1dsQVdQanlSa1dFcUdGeWVIaGFfeTNwYmM3REV0c0RCX29fbkM0RUJtdm9LNnF6RkxpZm5hY2dMMU83TVJsMV93ZGlEM1VMRXFhUEJDMDRHQ0tzMXl1VW56WENoUThWZi1SdlJlWERVWjR3a1E?oc=5",
-      "publishedAt": "Sat, 16 May 2026 14:01:00 GMT"
-    },
-    {
-      "title": "中 상무부 \"美와 각자 중시하는 제품 관세 인하 잠정 합의\"",
-      "source": "노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MWjQ4aGxqeHRWY3pKQ3czVmhjTDhHaEtVNFV1SzlzbFp2cXFGb3ZpQ1JyMmZ0WDV1MFYxLWR0YUg1UU5IMVhmcS0wcUQ3UVVYLUE?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:46:00 GMT"
-    },
-    {
-      "title": "인텔 Core i9-14900KF, 9.2GHz 돌파로 CPU 클럭 세계 기록 경신",
-      "source": "위클리포스트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ya1NmSk5DblliMjFudUpGX2FfOXNVZkhjZk1kVkxqd015a1hoeU1fVEFDTlRBbEIzWDAwd2MzTVZ0UnA5RkJSR2xUYjVETGRPdjdSMXU1c1JabDZaQ2RkNFJGZHFGWHdwTmc?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:31:21 GMT"
-    },
-    {
-      "title": "Subnautica 2: PC GPU 및 CPU 벤치마크",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGp2RVcyZ3Zrc2ZsQ2c3YTlnM0hoWmgxWjMxbWJpbG9OOU5KZU9XUEVNMTFTUVpjODJ6ZjBLQkdaVFgwMFAyYnRGWFdzU0ZxYmY3cXRfOExlZ0tzNDNtd3M0R1hqRV9lM3FZRm01alZ0UncwU0hhTmwybVlCcUQ1Wm80dWYtMUpwakFGbUZDOGc5VzdJMGJuMURaNnd2dFhtYlZz?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:12:07 GMT"
-    },
-    {
-      "title": "[79th Cannes] \"이제는 영화감독\"…존 트라볼타, 예술가 변신",
-      "source": "디스패치",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vem9mcXFJTUhtNWJ4SVl5cjJJS05jV0NybEc3b0lhZjB6enl2TjBWTFZXLURaTlFoVmRWS09IRXFfeVNZUzVSdnh3?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:07:00 GMT"
-    },
-    {
-      "title": "운전 중 Suno로 AI 생성 음악 재생…Apple CarPlay·Android Auto 지원",
-      "source": "월간 믹싱",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBIaUN6ZTRua3hYeENmdGkyd0xRT3p6a2ZyZFZRa2trNURYc2V5OXhOVW5XZ0Vmd3RzS1Z0TldPMA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 11:49:31 GMT"
-    },
-    {
-      "title": "북한산 오른 뒤 실종된 50대 여성, 28일 만에 숨진 채 발견",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2dTBlc3VPRHZYR0l5SldDSTU4VlNWTFpOUmxTOGhmRzJvMV93bzdXdUhGRWJHY3pRVm10U0ZEa0UtNmdvbGVuaE11NWtQSE1GYk1lb2p0ZC1rOWtvWXdHUkM4WlpZUFlCcWJFcmlJSmpxQQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 11:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjQ4TW8wVlN6cjZoekVoVEVCWG9xbEZrNU9iVVljX2dMZWQwQ0FTOWFJVmJWTDhUblM2Q290ZmNEQnZTNnRqN2NFOWN0Ry0zamVwUUtBenpiN0F6enRNOElSZ0JvSWlIQ2dZazNHTFh4dGNZcms3a3pfXzQwSXVVZHlfa0JHUWx4dHp4N3R6QQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:46:00 GMT"
     }
   ],
   "sources": [
