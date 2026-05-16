@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-16T19:09:40.995725+09:00",
+  "generatedAt": "2026-05-16T20:15:23.138346+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "20.3°C",
-        "feelsLike": "21.3°C",
+        "temperature": "18.2°C",
+        "feelsLike": "19.2°C",
         "highLow": "최고 26.7° / 최저 12.8°",
-        "humidity": "73%",
-        "wind": "5.1 m/s",
+        "humidity": "81%",
+        "wind": "4.3 m/s",
         "rainChance": "0%",
-        "pm10": "26.6 μg/m³",
-        "pm25": "23.3 μg/m³",
+        "pm10": "33.3 μg/m³",
+        "pm25": "30.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-05-16 19:00"
+        "updatedAt": "2026-05-16 20:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "14.5°C",
-        "feelsLike": "14.5°C",
+        "temperature": "13.3°C",
+        "feelsLike": "13.2°C",
         "highLow": "최고 21.1° / 최저 12.4°",
-        "humidity": "96%",
-        "wind": "8.5 m/s",
+        "humidity": "99%",
+        "wind": "7.5 m/s",
         "rainChance": "0%",
-        "pm10": "26.6 μg/m³",
-        "pm25": "23.3 μg/m³",
+        "pm10": "33.3 μg/m³",
+        "pm25": "30.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-05-16 19:00"
+        "updatedAt": "2026-05-16 20:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "19.1°C",
-        "feelsLike": "20.3°C",
+        "temperature": "16.2°C",
+        "feelsLike": "16.8°C",
         "highLow": "최고 25.2° / 최저 12.3°",
-        "humidity": "81%",
-        "wind": "5.5 m/s",
+        "humidity": "90%",
+        "wind": "6.4 m/s",
         "rainChance": "0%",
-        "pm10": "26.6 μg/m³",
-        "pm25": "23.3 μg/m³",
+        "pm10": "33.3 μg/m³",
+        "pm25": "30.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "66",
-        "updatedAt": "2026-05-16 19:00"
+        "updatedAt": "2026-05-16 20:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "17.8°C",
-        "feelsLike": "18.1°C",
+        "temperature": "15.8°C",
+        "feelsLike": "16.0°C",
         "highLow": "최고 25.9° / 최저 12.8°",
-        "humidity": "83%",
-        "wind": "8.9 m/s",
+        "humidity": "90%",
+        "wind": "7.9 m/s",
         "rainChance": "0%",
-        "pm10": "20.4 μg/m³",
-        "pm25": "17.9 μg/m³",
+        "pm10": "24.3 μg/m³",
+        "pm25": "21.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "76",
-        "updatedAt": "2026-05-16 19:00"
+        "updatedAt": "2026-05-16 20:00"
       }
     ]
   },
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 부송지점",
-        "address": "전북 익산시 무왕로 1277",
-        "updatedAt": "2026-05-13 05:30:07",
+        "stationName": "오일스타㈜익산지점 착한8주유소",
+        "address": "전북 익산시 용동면 익산대로 2538",
+        "updatedAt": "2026-05-16 17:51:06",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "한울에너지(주)마송주유소",
-        "address": "경기 김포시 통진읍 김포대로 2397",
-        "updatedAt": "2026-05-16 14:59:29",
+        "stationName": "㈜디오티디 김포달님이주유소",
+        "address": "경기 김포시 김포대로 1467",
+        "updatedAt": "2026-05-16 17:58:04",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "5월 16일 MBN 뉴스센터 주요뉴스",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Tb1ZOZ0NzNmlLcUFTUGFGS2psakNzU2R1Y2ZNWllwUDNmRUdqV0RtbWVGMkc5YjdLMFRvVXFGWkQ3Xy12NlRsMnRHd0lISjBuSjdn?oc=5",
+      "publishedAt": "Sat, 16 May 2026 10:35:00 GMT"
+    },
+    {
       "title": "FRANCE CANNES FILM FESTIVAL 2026",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZHBEdGJkRFFlZnVpTDI0bGoydHV5NlVzWEpNc0gxdmNYdzFaV3RhNHZydm9jTHJpTmFkVWhfYVlFbGwtVWhESDc3dTRTQzBrcy1tVy1nX0pQcjJCS1hCWg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 10:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51LWpiY2RsUVdjVkdlMVBBR0hneVpTQTM0MUQ0MmVzRmdUNmZCSzNCRGJLb1Jhc0QwRFNtekNtZmJkS2Jpd0NVcy0wemFhOUt6bEVPNGZvV05lV0ItSUtIQw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:08:00 GMT"
     },
     {
-      "title": "'윤석열 모형' 철창 가둔 시민들",
+      "title": "흔들리는 중고 수출차 시장 [한강로 사진관]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jWXdXMTBLS2FxSkRuNGVCd2NXX1BsTVp1N0lDenc5Q3U1Zm8yWHhQd25TenNnbEtyVzh3cmVNbEk5dnRUNmhQQ1hmWTdOR1JfcWhJ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 09:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IODZVME9ySkdqLUZneWhPNUZGbVFzOEpBaC1fQU1hekk2MkRCSjE0M3NfUGM1MElhSjVia2Z4VDVOSXI3bkJnNnhLSXVYZlNzaHBMTXlBNmI2anA5UV9zUg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:02:00 GMT"
     },
     {
-      "title": "런(RUN) 5·18 도청 가는 길",
+      "title": "온열질환 사망 발생…역대 가장 이른 시점",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45TjRoYTItd1lEMGhyUUVCMkVrUFgyUjVVNkZRbEw5Y1k3LWdDUlpTbUZscGtXcDhiSmlwTVpFMmVlWlVQdzM1S0pXV1B1UnFMU3RKN3NSdWlnM2xoaGFYWA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 09:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WcHN5d05JNGVSdG5qcjh6SW80WF9xNFQtbjViVFlxRzBRY3pSOXRfMFB0MDhqeDRRYWhaMDlIM3lTZTh0V29PZjN4dzc1bzlSWWxQYkJOUlA5UXZiNUhtdw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 10:57:00 GMT"
     },
     {
-      "title": "SWITZERLAND ROYAL POP WATCH",
+      "title": "선거사무소 개소식 연 김용남-조국-김재연",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZdUtGenN0YmdIbllmaUJpWms0Y29CVGQ3YkpTbVJlNTlDZzVDdGl3UXFPZ0pXY1g0UkN1TzNKRFNGV2p2ekZ1Z3A3eXNVRkZIQW1jaDRubXNaVnhWaVFlbg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 09:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ncFhoaDdSMXFnNmliRDE4RTR2Q0FMeGRkM3VzekV3VnlJcnYxNEU5LXY5WXNlMU1MUTk4OVEydHQtemZ5ekFGUExNLVZGSzJIQkh4MWhhdGh5QTdZMmZKMg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:07:00 GMT"
     },
     {
-      "title": "금남로를 넘어 5·18 민주광장으로",
+      "title": "FRANCE CANNES FILM FESTIVAL 2026",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMWVuMC14U1Z2V1hKVC1LYi1jdnJwdi15OXJ4ZFlIU3ZKY0xnLVQ4WUNWRkNucktkLVljQTlmMnA0dklLR3J1bmNxc0s0LU0wb1FGcEdPODNkRGoyNVdydQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 09:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUjVmVy1fcWR6ZjRhX1Fvc09ibjY3dFVCeE1WdXR5SWxuUnZ0TTI2U3dnMDdRVC1VaUpBVVQtZ2RhaVdXWFJwaFBMZzhwTW5uQU1yS1F2Ym5ZWUpUSE4xZw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 10:48:00 GMT"
     },
     {
-      "title": "NETHERLANDS ASSAULT",
+      "title": "북한산서 실종된 50대 여성, 28일 만에 숨진 채 발견",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByQkVoQ2owbEFGclJnOHRUbGpJYzZaYm5GUUZUV1BkLXhBNDJDYlR3RUdIWjlwZkVJczFwWU1iTnlReXcyVXdPVmgzN2tTSERsN3JMSDNjSmtCSC1Na05TYQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 09:28:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Kbi12bjFHc1lGTWlmeGNOdXBHNkhOY3h5UENOZ2l1LURrdE5wSnBCMkJOYU1UUmlBN1lXRld3aXdsbjE2UXhMN0c4Qmd6eGtQa25fWmhySkNGTV9pVXNfdw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 10:27:00 GMT"
     },
     {
-      "title": "5·18 민주광장에서 펼쳐진 46주년 기념행사",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HN2N1M3QtLXp1a3MxYlA3aXQ0VmN0bGI5MzhlQWpBbWJvWGN5bHg0SmhOVVh1MWJzRUtPM1p4MjBiSHpibEh1MnJrR2o1ZTEwWDFWWk5EM3pLTUtEcUNLbw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 09:21:00 GMT"
+      "title": "[날씨] '서울 낮 최고 31도' 일요일도 더위 기승…큰 일교차 주의",
+      "source": "연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zWUFmQTd3MER1bXZNUkluUnY5RzRWVFBZSW90YmNBRHRJRklhZlUtNjlYZzBmTkNMcFhucHVsekZ2YW90QjkwS19MY3FhUldLOGNqNDZMVng0c29pXzRnWlJNZUNuTms5V0Jsb2VRazZreDBw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:00:00 GMT"
     },
     {
-      "title": "더불어민주당 김용남 후보, 평택시민들에게 승리 약속",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Od1FRTXJ2aWhqcjNnYks5UzFuRmFOU0dvMkRQRllwX2xRa3liOXlINVBQeFRMUGR0aUFrY0VFbWxFUmNhN041ZEFmc3REWnp4aXVz?oc=5",
-      "publishedAt": "Sat, 16 May 2026 09:19:00 GMT"
+      "title": "[우주의 속삭임(187)] 우주의 뼈대를 보다⋯제임스웹, 137억년 '코스믹 웹' 지도를 열다",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51YlctVHJHbEJHVXVvbU1fNWtYR3NmZlFvQ190Sk1jejd6ajZKMTQxU3Z4TThYVU1qVUpSQ0RPSmk4U3FJTGRXNnRPdlBkakRIQ2k3dVdRb3ZlWl81eWc?oc=5",
+      "publishedAt": "Sat, 16 May 2026 10:48:57 GMT"
     },
     {
-      "title": "Italy Maldives Dive Accident",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZjRlNnR0cV9mTzhpdDRNLURVUlM2Z2FzSmZyNW56REQ3X0JVNnh4dzR4LTBhcGJuTDZUaU9JcUpxS3BrRHZzRWgxN2RPNGNWUlVSZWY5V2JVbHV1M0VzMw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 09:18:00 GMT"
-    },
-    {
-      "title": "조국 후보와 평택시민의 만남…하이파이브로 인사",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nV3BUU1lwY1I2c2tUYkpSa3htMTN5NnBZa0ZDVDBtamhNUU9DME41MXQ3WDhQOVhCU1JjTFA1bHJ0X1FGZzYzUEJOYnM0enZTZkNKaWJrZlhFUzk5WmFLRg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 09:17:00 GMT"
+      "title": "질병청 “이른 더위에 온열질환 첫 사망자 발생”",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wSlVyOFFyUWJYNVR5REx5MERoQWpGT3lsRjZCR1BhcWxsNlFET1dPSl9mVUstWW5EcHhITW9iaEpQVE02VkkwVjJjSEo3T2FFcDBDOTl0b2UxYzg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 09:54:00 GMT"
     }
   ],
   "sources": [
