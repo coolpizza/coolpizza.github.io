@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-16T17:50:26.663023+09:00",
+  "generatedAt": "2026-05-16T19:09:40.995725+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "22.9°C",
-        "feelsLike": "24.0°C",
+        "temperature": "20.3°C",
+        "feelsLike": "21.3°C",
         "highLow": "최고 26.7° / 최저 12.8°",
-        "humidity": "64%",
-        "wind": "5.4 m/s",
+        "humidity": "73%",
+        "wind": "5.1 m/s",
         "rainChance": "0%",
-        "pm10": "21.6 μg/m³",
-        "pm25": "17.8 μg/m³",
+        "pm10": "26.6 μg/m³",
+        "pm25": "23.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "67",
-        "updatedAt": "2026-05-16 17:45"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-05-16 19:00"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "16.8°C",
-        "feelsLike": "17.0°C",
+        "temperature": "14.5°C",
+        "feelsLike": "14.5°C",
         "highLow": "최고 21.1° / 최저 12.4°",
-        "humidity": "90%",
-        "wind": "10.5 m/s",
+        "humidity": "96%",
+        "wind": "8.5 m/s",
         "rainChance": "0%",
-        "pm10": "21.6 μg/m³",
-        "pm25": "17.8 μg/m³",
+        "pm10": "26.6 μg/m³",
+        "pm25": "23.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "67",
-        "updatedAt": "2026-05-16 17:45"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-05-16 19:00"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "22.3°C",
-        "feelsLike": "23.4°C",
+        "temperature": "19.1°C",
+        "feelsLike": "20.3°C",
         "highLow": "최고 25.2° / 최저 12.3°",
-        "humidity": "69%",
-        "wind": "7.6 m/s",
+        "humidity": "81%",
+        "wind": "5.5 m/s",
         "rainChance": "0%",
-        "pm10": "21.6 μg/m³",
-        "pm25": "17.8 μg/m³",
+        "pm10": "26.6 μg/m³",
+        "pm25": "23.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "67",
-        "updatedAt": "2026-05-16 17:45"
+        "airQualityIndex": "66",
+        "updatedAt": "2026-05-16 19:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "20.7°C",
-        "feelsLike": "21.1°C",
+        "temperature": "17.8°C",
+        "feelsLike": "18.1°C",
         "highLow": "최고 25.9° / 최저 12.8°",
-        "humidity": "74%",
-        "wind": "10.8 m/s",
+        "humidity": "83%",
+        "wind": "8.9 m/s",
         "rainChance": "0%",
-        "pm10": "20.8 μg/m³",
+        "pm10": "20.4 μg/m³",
         "pm25": "17.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-16 17:45"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-16 19:00"
       }
     ]
   },
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "선거사무소 개소식 참석한 조국 후보",
+      "title": "FRANCE CANNES FILM FESTIVAL 2026",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yYXBQMFJTdXBzb1l2bTBEYjh3NDByTGtRSmtvWHpSdG1uOGhQMHBGcXlSdkMxeG1LSWZDYTNwNUhjeWw0M0hKR1YtTmVsUTMwb1d3WXpDSlFGQzdZTmJvMQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZHBEdGJkRFFlZnVpTDI0bGoydHV5NlVzWEpNc0gxdmNYdzFaV3RhNHZydm9jTHJpTmFkVWhfYVlFbGwtVWhESDc3dTRTQzBrcy1tVy1nX0pQcjJCS1hCWg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 10:00:00 GMT"
     },
     {
-      "title": "조재규 강원도의원 후보 선거사무소 개소[쿠키포토]",
+      "title": "'윤석열 모형' 철창 가둔 시민들",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oTGtQQS1ZOE8yb0x1NTRyZl96Q25mYmhOVVh2VHQ5cV80MkJkS3RQOTc3TUczRmp1eHdNZWdrb1NZT3MydUxacTlRanNtVkNsT2FVMU5qYmVhZ0s3RGJvQQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jWXdXMTBLS2FxSkRuNGVCd2NXX1BsTVp1N0lDenc5Q3U1Zm8yWHhQd25TenNnbEtyVzh3cmVNbEk5dnRUNmhQQ1hmWTdOR1JfcWhJ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 09:50:00 GMT"
     },
     {
-      "title": "김용남 선거사무소 개소식 찾은 정청래",
+      "title": "런(RUN) 5·18 도청 가는 길",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tQU56b3RRR1c2LUZKSVkxOVZKcEtabmtwMGoxRVRxb3pFdlhjNjkwd2YtMmRtVDNQeDJUb1BCRUpwRkM4V3A0RG5JY01jR0FLZUZIbHV6R2JSQW9EX185Rg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45TjRoYTItd1lEMGhyUUVCMkVrUFgyUjVVNkZRbEw5Y1k3LWdDUlpTbUZscGtXcDhiSmlwTVpFMmVlWlVQdzM1S0pXV1B1UnFMU3RKN3NSdWlnM2xoaGFYWA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 09:32:00 GMT"
     },
     {
-      "title": "Rural Delivery Wars",
+      "title": "SWITZERLAND ROYAL POP WATCH",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aTnYtTTJBMnZjaTduaFM4TlVZU2lHcDNXX0YybS1na0d1NWFlMWl5SFFrQ1REV2NkaEV6LW5EZUg0MmxUY3FRRUI4M1lCSFJTRFVPLWtPLWRxNG1zU2F2bQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:35:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZdUtGenN0YmdIbllmaUJpWms0Y29CVGQ3YkpTbVJlNTlDZzVDdGl3UXFPZ0pXY1g0UkN1TzNKRFNGV2p2ekZ1Z3A3eXNVRkZIQW1jaDRubXNaVnhWaVFlbg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 09:32:00 GMT"
     },
     {
-      "title": "이번주 국내 주요 금융일정(5.18~5.24)",
+      "title": "금남로를 넘어 5·18 민주광장으로",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1odEdFV1FPeVQ4N2R4eEE5SndWZHdZSEFNTURrOUpUZG5LYjVrX1lacTQ2eGhvN2YyS1VOdjloemZtVkJuekN1czhZYUU1a1Q0aFRr?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMWVuMC14U1Z2V1hKVC1LYi1jdnJwdi15OXJ4ZFlIU3ZKY0xnLVQ4WUNWRkNucktkLVljQTlmMnA0dklLR3J1bmNxc0s0LU0wb1FGcEdPODNkRGoyNVdydQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 09:32:00 GMT"
     },
     {
-      "title": "Senegal Wrestling Photo Gallery",
+      "title": "NETHERLANDS ASSAULT",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBraHUyZENqUG5PYjU1OXZjYVp1cTBnRVVseURwTEduWThMYklpZjYtenVFNmY1SVhuY1ltMmhxOEZIcjdENU1VRDhSMGktRlY4djN6UEhMdTh2a2dLMHE4cw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByQkVoQ2owbEFGclJnOHRUbGpJYzZaYm5GUUZUV1BkLXhBNDJDYlR3RUdIWjlwZkVJczFwWU1iTnlReXcyVXdPVmgzN2tTSERsN3JMSDNjSmtCSC1Na05TYQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 09:28:00 GMT"
     },
     {
-      "title": "조국 선거사무소 개소식, 지지자들과 함께",
+      "title": "5·18 민주광장에서 펼쳐진 46주년 기념행사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SMXhfdjZlbEQ0a0hOZTk1Vlk3OG9ENkNIODlXZ2VPbk4ybHJaeUUzVVFRb1FQcXdfSUdfcGgyUGlXeEJYM3F1azV2Q1RWZXV2MHN1bzZ1c2VGR3BOVTFxTw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HN2N1M3QtLXp1a3MxYlA3aXQ0VmN0bGI5MzhlQWpBbWJvWGN5bHg0SmhOVVh1MWJzRUtPM1p4MjBiSHpibEh1MnJrR2o1ZTEwWDFWWk5EM3pLTUtEcUNLbw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 09:21:00 GMT"
     },
     {
-      "title": "'평택을' 경쟁 본격화…김용남·조국·김재연 개소식 열고 지지호소(종합)",
+      "title": "더불어민주당 김용남 후보, 평택시민들에게 승리 약속",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RNnhfdE5MOFE4b1VqVFQ4dlBqZFJDWEJRVzBNeUkyWjhiRlVUeUpac0RXYmwyb2J1OUs2SVFBcUJwczVwdTdBellHUFIyeldHUnRERmFBNURZbVZBNG1ZNw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:43:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Od1FRTXJ2aWhqcjNnYks5UzFuRmFOU0dvMkRQRllwX2xRa3liOXlINVBQeFRMUGR0aUFrY0VFbWxFUmNhN041ZEFmc3REWnp4aXVz?oc=5",
+      "publishedAt": "Sat, 16 May 2026 09:19:00 GMT"
     },
     {
-      "title": "경주·상주서 산악사고로 2명 중상…소방헬기로 지상 이송",
+      "title": "Italy Maldives Dive Accident",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sOC1TU1JyV1dSRl9jaThlNF9UZEVvT3d4cU1vX1Bkb3hiZlNnYXZmdEpzakZBTElDbE94UWlOVmNjMnRGbmVnODBzS2F0cVJpTjF2TEdNR1l4ckkwUkxlZw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZjRlNnR0cV9mTzhpdDRNLURVUlM2Z2FzSmZyNW56REQ3X0JVNnh4dzR4LTBhcGJuTDZUaU9JcUpxS3BrRHZzRWgxN2RPNGNWUlVSZWY5V2JVbHV1M0VzMw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 09:18:00 GMT"
     },
     {
-      "title": "트럼프 방중 4일 만…푸틴, 19~20일 중국 국빈방문",
+      "title": "조국 후보와 평택시민의 만남…하이파이브로 인사",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEcHh5TFRpcDVHTGZWSC12ODNmWDBVcmtDYkZMQVhtV2tKYVhzRGpkTDhVa250Q25JeVFuVkR3TllrYTlpTG5yeFowelRJRzBSZ28yMnpIRWFEb0k2Y2hBZ1hqV1d1aEFfNHJ3SDNGbThSNFJreUZISA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nV3BUU1lwY1I2c2tUYkpSa3htMTN5NnBZa0ZDVDBtamhNUU9DME41MXQ3WDhQOVhCU1JjTFA1bHJ0X1FGZzYzUEJOYnM0enZTZkNKaWJrZlhFUzk5WmFLRg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 09:17:00 GMT"
     }
   ],
   "sources": [
