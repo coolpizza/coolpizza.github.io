@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-17T04:44:55.490628+09:00",
+  "generatedAt": "2026-05-17T05:27:02.507320+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,17 +68,17 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.5°C",
+        "temperature": "11.4°C",
         "feelsLike": "11.5°C",
         "highLow": "최고 24.7° / 최저 11.4°",
         "humidity": "99%",
-        "wind": "2.9 m/s",
+        "wind": "2.6 m/s",
         "rainChance": "0%",
-        "pm10": "76.6 μg/m³",
-        "pm25": "73.3 μg/m³",
+        "pm10": "78.5 μg/m³",
+        "pm25": "75.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "75",
-        "updatedAt": "2026-05-17 04:30"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-17 05:15"
       },
       {
         "location": "김포",
@@ -87,43 +87,43 @@ window.DASHBOARD_DATA = {
         "feelsLike": "12.0°C",
         "highLow": "최고 21.0° / 최저 11.9°",
         "humidity": "99%",
-        "wind": "3.5 m/s",
+        "wind": "4.2 m/s",
         "rainChance": "0%",
-        "pm10": "76.6 μg/m³",
-        "pm25": "73.3 μg/m³",
+        "pm10": "78.5 μg/m³",
+        "pm25": "75.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "75",
-        "updatedAt": "2026-05-17 04:30"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-17 05:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "11.4°C",
-        "feelsLike": "11.2°C",
+        "temperature": "11.3°C",
+        "feelsLike": "11.1°C",
         "highLow": "최고 22.9° / 최저 11.3°",
         "humidity": "99%",
-        "wind": "4.0 m/s",
+        "wind": "4.4 m/s",
         "rainChance": "0%",
-        "pm10": "76.6 μg/m³",
-        "pm25": "73.3 μg/m³",
+        "pm10": "78.5 μg/m³",
+        "pm25": "75.2 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "75",
-        "updatedAt": "2026-05-17 04:30"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-17 05:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.5°C",
-        "feelsLike": "12.5°C",
+        "temperature": "12.3°C",
+        "feelsLike": "12.3°C",
         "highLow": "최고 27.2° / 최저 12.1°",
         "humidity": "99%",
-        "wind": "4.7 m/s",
+        "wind": "4.6 m/s",
         "rainChance": "0%",
-        "pm10": "67.8 μg/m³",
+        "pm10": "67.5 μg/m³",
         "pm25": "64.0 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "77",
-        "updatedAt": "2026-05-17 04:30"
+        "updatedAt": "2026-05-17 05:15"
       }
     ]
   },
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "한울에너지(주)마송주유소",
-        "address": "경기 김포시 통진읍 김포대로 2397",
-        "updatedAt": "2026-05-16 22:28:06",
+        "stationName": "대명탑주유소",
+        "address": "경기 김포시 대곶면 대곶로 14",
+        "updatedAt": "2026-05-16 21:59:49",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,10 +376,16 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "Netherlands India",
+      "title": "[오늘의 주요일정] 정치·정부 (17일, 일)",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HM202N3VaYl84c21BUjVSX2p1V1V1MGdMRlNCdTJYaktzX0xRRFlvSEw2LXBYUHpzTk9YSXB0NEhXTHltYXpTRlgxTms1MnhsNFh5ekQ0S3lzUQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "GERMANY SOCCER",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pNjhmcWxSVjMtT2VvSGhYQmFHdXhsTU15NndRU01oZC00eEpPQ2NvcTR5d3BxN09oelUyYWVCYmFMTUd5UDhiQzFLd2NjLUJVSmZzWlFWeFdnS0pvOERoZw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 19:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNXFubzRCVTVDd0ltZDFzZW00WVMxX2xuQWlWX3JXWVZ0LWw3TDl2cHhFZ2FGRWNtcHByQnBnanBseGZWYksxLVVpSzlzNXFwU1FseC0zR3F0VllHOHlmMg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 19:57:00 GMT"
     },
     {
       "title": "크루즈선 탔던 캐나다인, 한타바이러스 잠정 양성 판정",
@@ -428,12 +434,6 @@ window.DASHBOARD_DATA = {
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSVg0SXg2ZEgwT3FrWlRmOW9hUW5nZmdVdGRGSUd1bTdZNVkwWkd0ZW11Nk5BNGN0dkVhLXFuZTE2NkZOOXIycFZMd3BMb21udkVrRFlLSURRSm94aFdMTzVieEIybkFqajZxdTBzT1dkbkVTNjZaYy1pU3Z1anRzRmw0MA?oc=5",
       "publishedAt": "Sat, 16 May 2026 14:13:00 GMT"
-    },
-    {
-      "title": "새벽에 깨서 답답한 가슴, 알고 보니 심장마비… 다른 증상은?",
-      "source": "헬스조선",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iX1dsQVdQanlSa1dFcUdGeWVIaGFfeTNwYmM3REV0c0RCX29fbkM0RUJtdm9LNnF6RkxpZm5hY2dMMU83TVJsMV93ZGlEM1VMRXFhUEJDMDRHQ0tzMXl1VW56WENoUThWZi1SdlJlWERVWjR3a1E?oc=5",
-      "publishedAt": "Sat, 16 May 2026 14:01:00 GMT"
     }
   ],
   "sources": [
