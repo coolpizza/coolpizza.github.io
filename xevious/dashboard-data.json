@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T02:34:01.357080+09:00",
+  "generatedAt": "2026-05-17T03:37:04.367996+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "12.4°C",
-        "feelsLike": "12.3°C",
+        "temperature": "12.0°C",
+        "feelsLike": "11.9°C",
         "highLow": "최고 24.3° / 최저 11.6°",
-        "humidity": "96%",
-        "wind": "4.7 m/s",
+        "humidity": "98%",
+        "wind": "4.3 m/s",
         "rainChance": "0%",
-        "pm10": "68.0 μg/m³",
-        "pm25": "64.5 μg/m³",
+        "pm10": "72.9 μg/m³",
+        "pm25": "69.4 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-05-17 02:30"
+        "airQualityIndex": "74",
+        "updatedAt": "2026-05-17 03:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
         "temperature": "12.0°C",
-        "feelsLike": "11.9°C",
+        "feelsLike": "12.1°C",
         "highLow": "최고 20.0° / 최저 12.0°",
         "humidity": "99%",
-        "wind": "4.5 m/s",
+        "wind": "3.6 m/s",
         "rainChance": "0%",
-        "pm10": "68.0 μg/m³",
-        "pm25": "64.5 μg/m³",
+        "pm10": "72.9 μg/m³",
+        "pm25": "69.4 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-05-17 02:30"
+        "airQualityIndex": "74",
+        "updatedAt": "2026-05-17 03:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.1°C",
-        "feelsLike": "12.1°C",
+        "temperature": "11.8°C",
+        "feelsLike": "11.8°C",
         "highLow": "최고 22.7° / 최저 11.5°",
         "humidity": "99%",
-        "wind": "4.1 m/s",
+        "wind": "3.6 m/s",
         "rainChance": "0%",
-        "pm10": "68.0 μg/m³",
-        "pm25": "64.5 μg/m³",
+        "pm10": "72.9 μg/m³",
+        "pm25": "69.4 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "73",
-        "updatedAt": "2026-05-17 02:30"
+        "airQualityIndex": "74",
+        "updatedAt": "2026-05-17 03:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.9°C",
-        "feelsLike": "13.4°C",
+        "temperature": "12.7°C",
+        "feelsLike": "13.0°C",
         "highLow": "최고 27.1° / 최저 12.2°",
         "humidity": "99%",
-        "wind": "2.8 m/s",
+        "wind": "3.7 m/s",
         "rainChance": "0%",
-        "pm10": "68.9 μg/m³",
-        "pm25": "65.4 μg/m³",
+        "pm10": "67.1 μg/m³",
+        "pm25": "63.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "77",
-        "updatedAt": "2026-05-17 02:30"
+        "updatedAt": "2026-05-17 03:30"
       }
     ]
   },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "골드밸리주유소",
-        "address": "경기 김포시 양촌읍 양곡우회로 141",
-        "updatedAt": "2026-05-17 00:36:50",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-05-16 23:58:39",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "Germany Bundesliga Soccer",
+      "title": "청주서 음주운전 차량과 오토바이 충돌…20대 오토바이 운전자 사망",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tRjlJczF3UFR3YW9uOUV5QnZ2M0wxdHd6OEJlc3l0b09OMFV5UjMtTjNrZDRQSnNuTE1FRHN4QUx6ZzJuQmhmR215Y2t0Z2ltUjF6ZjVycGpZRVpjZ1YteQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 15:50:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtUWFSZVNGV2twMGEwdWtwREpXbmtud0xuclpiSHVldC1DSWU5MGRvT1k5bG5WN2ZFeFVqcnhxYUU3YmtaUmpVM0NJYWlELW83eUNNX3p4bk5MVWVCWlBWNw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 18:24:00 GMT"
+    },
+    {
+      "title": "점 하나에 우주를! 한국 추상미술 선구자 김환기",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fQ0hiNjZNWFdFUjJoQzdTbWVfbEhxR0VJeW5UaGI0Zl94N0EtcFlxRjNSUmNCZnlCM093N3ZTcXJsNzVnc09GZVYxamJCZkl5NzAtUVRfMVhBOFhNR3VscQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 18:30:00 GMT"
+    },
+    {
+      "title": "런던서 또 대규모 반이민 극우 집회…'스타머 퇴진' 구호도",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zVzhYYWJMVzI1UU9MR1JiLXdsYVNDeU54VjNMVk5aOFZiT1h5Y0dZZUlPTW52bFFUUE9VSkc0WkNNeW1neHZ2aTZLZzRQSXpZU2Z1eV9pRnBxT0lRR2Vhbg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 18:03:00 GMT"
+    },
+    {
+      "title": "10만 연등 물결에 로봇 스님까지…전통과 AI가 함께 걸은 종로",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtazFUNWVKM01kR2NoRTB5OGZ4aEVLQ01YSFNMb0g4cmF0M09hbm9UQVdtN3EwWlVBWFdqRkYtYjRLS1dZUWFNTFBMeW1JbktEVHlZ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 18:02:00 GMT"
+    },
+    {
+      "title": "버핏 떠난 버크셔, 셰브런 지분 대거 축소",
+      "source": "초이스스탁",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SGFXbkQ4YnN6UGYyYkZhcVl6Q0I5eV80MXNLd2E5eUpvR1VMZ1VzWWttc3E3Y1JzVHZGWW84bHM3TWFlLUl1MlZDMjVzLTlqMEdBc29ETGVfVEdGQVVfMzhvQkdReUE?oc=5",
+      "publishedAt": "Sat, 16 May 2026 18:00:00 GMT"
+    },
+    {
+      "title": "원 유니버스 페스티벌 2026 상상, 그 이상의 역대급.. 1차 라인업 공개!",
+      "source": "뉴스인",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtZ1ZUaTBrOHF6SC1tSTdfTjhJTWhtVXUxdGk4V0hmOFd6MnVFMXhzN3NjMEhvRy1ZRHpFVl9sTGJnb1ZPS1Y1WGwzaWk5YzZXT05iX2NuQTBES0Q4OHJxV1FOVzFvSnNkbXhj?oc=5",
+      "publishedAt": "Sat, 16 May 2026 17:43:10 GMT"
+    },
+    {
+      "title": "트럼프 \"이란 합의 안하면 매우 힘든 시간\"…방중후 강경 경고",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YTUpNcG1GTGd2RUVoVWZ2aHVEamZBcGY1YjJZdW5FWFVsVk1zSjZrR2FGZG5kYVZlMzN2SzBneUF5UWJnaGNZRllrN245bmNvMmNITkdoekM0ZkFmMHczaA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 17:44:00 GMT"
+    },
+    {
+      "title": "Resistance 3 RPCS3 및 무손실 스케일링을 사용하여 120 FPS로 테스트했습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUJXQ0xYQ0pZY1BPRGNaM1lHTXJRajRNbjZvODZQU1pRMXctNmM0RlVIYWpVUGtBNXZhem1rMS1iLXhFMFdQeUpERXFZaHpnc2pybTNJMy1Zb2ZXNU9VQWE0ZE1Ed2FSUXpfNnpwMlBFS1RMbHdPLWNlUWlTWDRMMUxmbjlUV3BXdHlEWWlYbGVoNi1fMFNPbEl5b3FaWGIxQzk2MExR?oc=5",
+      "publishedAt": "Sat, 16 May 2026 17:54:30 GMT"
+    },
+    {
+      "title": "마음챙김 요가, PTSD 치료의 새 길",
+      "source": "유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vQmdBSDlEbDRQOWdxcGdZbVFTTW40MnlaZ1FHYURHejN6SlE1V2NNQVhweXl1a1UxTDhNVGt1ZlpqeEZFX3RpZE5OaUQtWk1hMGc?oc=5",
+      "publishedAt": "Sat, 16 May 2026 17:04:45 GMT"
     },
     {
       "title": "‘대세’ 허경환, 통 큰 기부..“박성광보다 많이 냈다” (‘전참시’)[핫피플]",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQamh3WVBDNFNWLUU3azZrb1ZfWTBfX1lFR2l2U2o2V0hUWi1LQ3VSWXd5UUt1V3RhUGJ0OHlrUEVPOG1mc19tWFg0ZzB6cDFsM3N4RHNIeWljUWZ5NmRST0JUUGlNZG1vcWNFZEJnUEh3Mm1vcDllQ3lMOGlkY2dlSXJfZlViWFV3dDc4dmlacw?oc=5",
       "publishedAt": "Sat, 16 May 2026 16:02:00 GMT"
-    },
-    {
-      "title": "'강남 8학군·카투사 출신' 문상훈, 父 반대 딛고 유튜브 대박..4층 사옥 통임대[전참시][★밤TView]",
-      "source": "starnewskorea.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVU3Wmt6c05jR1ZVYTZxNk9RNkNTWU5UVkhNSEROc1gxaU80VFRleUZsdzBHdVo4VWZXX3hMellMdTNsQnNsNTAtMl9jc0JrUnRBRm4yU3dMejNZcWdtdm43cnp3bkJlN2RvVjFLcUxfSXNwNGdwVU9GMTVpU1R6Xw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 15:57:21 GMT"
-    },
-    {
-      "title": "크라이텍의 채용 공고는 크라이시스 리메이크를 처음부터 완전히 새로 개발할 가능성을 시사합니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUlxRmU3NnhsVVF0NDJwMDNqeTRwTHp0VXFlOU5Ma0xtR0tSdU9SQm5UNUdFQzlQcGh4elRiRzJSbkNNZ3BQTEN1QVRNLVZGZHlTSnZITWpnbVlNZWhoeFdYM2E4UDQwWEduREZQMVlhVGJHT1pjYWg1ZUQxODVOcnR4dkY1c3RrZno0amJlNjQzQ255N0hOZUtVazg3ZE5yWEdKR1VaMmlIb1NPZW92Mg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 15:34:28 GMT"
-    },
-    {
-      "title": "홍명보호 북중미월드컵 '26人의 좁은문' 뚫어낸 6人의 '현역 K리거' 누구?",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSVg0SXg2ZEgwT3FrWlRmOW9hUW5nZmdVdGRGSUd1bTdZNVkwWkd0ZW11Nk5BNGN0dkVhLXFuZTE2NkZOOXIycFZMd3BMb21udkVrRFlLSURRSm94aFdMTzVieEIybkFqajZxdTBzT1dkbkVTNjZaYy1pU3Z1anRzRmw0MA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 14:13:00 GMT"
-    },
-    {
-      "title": "새벽에 깨서 답답한 가슴, 알고 보니 심장마비… 다른 증상은?",
-      "source": "헬스조선",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iX1dsQVdQanlSa1dFcUdGeWVIaGFfeTNwYmM3REV0c0RCX29fbkM0RUJtdm9LNnF6RkxpZm5hY2dMMU83TVJsMV93ZGlEM1VMRXFhUEJDMDRHQ0tzMXl1VW56WENoUThWZi1SdlJlWERVWjR3a1E?oc=5",
-      "publishedAt": "Sat, 16 May 2026 14:01:00 GMT"
-    },
-    {
-      "title": "중국 \"미국과 동등한 규모로 각자 중시하는 제품 관세 인하 합의\"",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjRHVV9YQXNDNDU1RFNjenBWeVh0Q2JHdXM3Y2pkbllheW9GVk95QnNrdWJ5MXozRGlPdGZQXy1oaERtZ0tiMTVPLXRFZVhHdkVyWjNhRlhQUG1ydkE4ZUxLVFpzZjRBd2hUNzZ4Rnp1S0p4UjRKR0Nla3ZUUVE1YlgxbVRKTEVCcUFvZ3VjZ2xWX1F5MXdZSWFzdFdwdw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:40:55 GMT"
-    },
-    {
-      "title": "인텔 Core i9-14900KF, 9.2GHz 돌파로 CPU 클럭 세계 기록 경신",
-      "source": "위클리포스트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ya1NmSk5DblliMjFudUpGX2FfOXNVZkhjZk1kVkxqd015a1hoeU1fVEFDTlRBbEIzWDAwd2MzTVZ0UnA5RkJSR2xUYjVETGRPdjdSMXU1c1JabDZaQ2RkNFJGZHFGWHdwTmc?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:31:21 GMT"
-    },
-    {
-      "title": "Subnautica 2: PC GPU 및 CPU 벤치마크",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGp2RVcyZ3Zrc2ZsQ2c3YTlnM0hoWmgxWjMxbWJpbG9OOU5KZU9XUEVNMTFTUVpjODJ6ZjBLQkdaVFgwMFAyYnRGWFdzU0ZxYmY3cXRfOExlZ0tzNDNtd3M0R1hqRV9lM3FZRm01alZ0UncwU0hhTmwybVlCcUQ1Wm80dWYtMUpwakFGbUZDOGc5VzdJMGJuMURaNnd2dFhtYlZz?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:12:07 GMT"
-    },
-    {
-      "title": "운전 중 Suno로 AI 생성 음악 재생…Apple CarPlay·Android Auto 지원",
-      "source": "월간 믹싱",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBIaUN6ZTRua3hYeENmdGkyd0xRT3p6a2ZyZFZRa2trNURYc2V5OXhOVW5XZ0Vmd3RzS1Z0TldPMA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 11:49:31 GMT"
     }
   ],
   "sources": [
