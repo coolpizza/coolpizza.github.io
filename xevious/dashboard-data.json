@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T22:48:34.005492+09:00",
+  "generatedAt": "2026-05-16T23:49:45.699626+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "15.2°C",
-        "feelsLike": "15.7°C",
+        "temperature": "14.4°C",
+        "feelsLike": "14.7°C",
         "highLow": "최고 26.9° / 최저 12.8°",
-        "humidity": "90%",
+        "humidity": "91%",
         "wind": "4.7 m/s",
         "rainChance": "0%",
-        "pm10": "55.9 μg/m³",
-        "pm25": "51.9 μg/m³",
+        "pm10": "60.5 μg/m³",
+        "pm25": "56.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "70",
-        "updatedAt": "2026-05-16 22:45"
+        "updatedAt": "2026-05-16 23:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.4°C",
+        "temperature": "12.3°C",
         "feelsLike": "12.1°C",
         "highLow": "최고 21.1° / 최저 12.4°",
         "humidity": "99%",
-        "wind": "7.1 m/s",
+        "wind": "6.3 m/s",
         "rainChance": "0%",
-        "pm10": "55.9 μg/m³",
-        "pm25": "51.9 μg/m³",
+        "pm10": "60.5 μg/m³",
+        "pm25": "56.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "70",
-        "updatedAt": "2026-05-16 22:45"
+        "updatedAt": "2026-05-16 23:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "13.2°C",
-        "feelsLike": "13.4°C",
+        "temperature": "12.8°C",
+        "feelsLike": "12.9°C",
         "highLow": "최고 25.5° / 최저 12.3°",
         "humidity": "99%",
-        "wind": "4.8 m/s",
+        "wind": "4.9 m/s",
         "rainChance": "0%",
-        "pm10": "55.9 μg/m³",
-        "pm25": "51.9 μg/m³",
+        "pm10": "60.5 μg/m³",
+        "pm25": "56.7 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "70",
-        "updatedAt": "2026-05-16 22:45"
+        "updatedAt": "2026-05-16 23:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "13.7°C",
-        "feelsLike": "13.9°C",
+        "temperature": "13.5°C",
+        "feelsLike": "13.7°C",
         "highLow": "최고 25.9° / 최저 12.8°",
         "humidity": "99%",
-        "wind": "6.6 m/s",
+        "wind": "5.9 m/s",
         "rainChance": "0%",
-        "pm10": "49.7 μg/m³",
-        "pm25": "45.8 μg/m³",
+        "pm10": "59.1 μg/m³",
+        "pm25": "55.1 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "77",
-        "updatedAt": "2026-05-16 22:45"
+        "updatedAt": "2026-05-16 23:30"
       }
     ]
   },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "미소2주유소",
-        "address": "경기도 김포시 양촌읍 양곡4로 64",
-        "updatedAt": "2026-05-16 17:55:18",
+        "stationName": "㈜태리네트웍스 서울주유소지점",
+        "address": "경기도 김포시 양촌읍 양곡로 355",
+        "updatedAt": "2026-05-16 13:09:52",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,46 +376,34 @@
   },
   "news": [
     {
-      "title": "[속보]中, \"미국산 소고기 시설 등록 적극 추진\"",
+      "title": "GERMANY SOCCER",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CUU5XaFB3T29weXI0dzljQUFTMlZnZUwwcDc3MFdpN2NDWVU4cVV0cUg2Z3pVX1NlLXFMdHFjRFI3Ry1ydlJJaHZJbW9JTTI1ZlhROHVvMW1BYnR3N3hyNw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:39:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZNHZXbnpkbXV1MzE2aVVIX3NDSkdsR3dZOUcwdVJSMGcyNzdsbEQxc0s4N2owWEVydm4zaWV1TXM1ZlUwd0luV2NWelFCYnN4UlJ1eDUta0ZlNU5VRG9tOQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:02:00 GMT"
     },
     {
-      "title": "[포토] 방콕 도심 열차-버스 충돌 사고 현장",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Eb3BheGRITHJwNU13LWlTZkp1SUhPcGVTTkFnYzNGN0RuRXc1ZlpXVHJLV0NnYzdmNGVLdG9XWnV0YnhCamZYUVc4MkNfRlJkNmEzMWJpT2VnNlBOMUczeA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:39:00 GMT"
+      "title": "편승엽, 15년 만에 4혼 고백 \"평범하게 살고 싶었다\"[데이앤나잇][★밤TView]",
+      "source": "starnewskorea.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczU0Uk9SS3V3S2NmRmk4TWx3Q2JrcmtVZVpTTGY0Um42MTNOOGJqajdtdGI4ZWN3UzhLR2ozcUdQQVFUaTYwT2tWZFFUem1tWHZkWElMTEcwd1BmdFZ0UmtieFMyYXN3OExFZE5ZMGMtQzBkRFB2Ml9VcGZsZU5QSw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:27:43 GMT"
     },
     {
-      "title": "China Diamond League",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LdXF2WUppVzdLcVpzVFYyYjJnRVB3b0ZkYTFkR1RnLXpqVjlvMTRxWG1GeDdOQjd0TllfZC1JWVFrQkpuYkdsd2tWUkkyZG1oTVhCWjZwUkZqMFFaYzVXag?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:37:00 GMT"
+      "title": "홍명보호 북중미월드컵 '26人의 좁은문' 뚫어낸 6人의 '현역 K리거' 누구?",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSVg0SXg2ZEgwT3FrWlRmOW9hUW5nZmdVdGRGSUd1bTdZNVkwWkd0ZW11Nk5BNGN0dkVhLXFuZTE2NkZOOXIycFZMd3BMb21udkVrRFlLSURRSm94aFdMTzVieEIybkFqajZxdTBzT1dkbkVTNjZaYy1pU3Z1anRzRmw0MA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:13:00 GMT"
     },
     {
-      "title": "[속보] 中상무부 \"美와 무역·투자이사회 설치 합의\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvRHpWc0sxVTZsdTFCNDV2ZUdrNWdRdmxLUFlYb0dMSXRoa0hpbVVaMVloazdkWnlMb1hPS1Ewb2hVMlVFUHl0b25ISlh2MGlNVlozMlBJMm9BUXAybjlEQw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:08:00 GMT"
+      "title": "새벽에 깨서 답답한 가슴, 알고 보니 심장마비… 다른 증상은?",
+      "source": "헬스조선",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iX1dsQVdQanlSa1dFcUdGeWVIaGFfeTNwYmM3REV0c0RCX29fbkM0RUJtdm9LNnF6RkxpZm5hY2dMMU83TVJsMV93ZGlEM1VMRXFhUEJDMDRHQ0tzMXl1VW56WENoUThWZi1SdlJlWERVWjR3a1E?oc=5",
+      "publishedAt": "Sat, 16 May 2026 14:01:00 GMT"
     },
     {
-      "title": "CHINA ATHLETICS",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14WnZwRGtycUVoeE81M0JQM24tTHFCdzRRV0NYRlRBYTlUVFhnNThKbnhaX0l2TVh1MnBPUUg4Q0FIUVhiRXJXVjNHTW1Tc2NkUzF6Z28ybGcwR2NMUndnNg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 12:52:00 GMT"
-    },
-    {
-      "title": "FRANCE CINEMA",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nY1poZW44VjgyNENVMmhFY2FtWkFhR3FjMkY3RjBnSFBPV1RYSHF5b25hRnp0c0xZcE52dEI2WkJBdDlXVFdXZ1ltOXpLS3hQWFRJZFB4RWhXWFJfMFVUcQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 12:49:00 GMT"
-    },
-    {
-      "title": "Thailand Train Crash",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95OVZhaW1KT2VDMnB2LVdsTjdYUElNM3g3d3VzNkdwQUU0X0Q4QkYySWJWaHRtc1IwSnNHaE5aV3ZQUzVhemNmZG00VVE4SG5nd3BRY1BVX1pJbDQ3TUZNcw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 12:49:00 GMT"
+      "title": "中 상무부 \"美와 각자 중시하는 제품 관세 인하 잠정 합의\"",
+      "source": "노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MWjQ4aGxqeHRWY3pKQ3czVmhjTDhHaEtVNFV1SzlzbFp2cXFGb3ZpQ1JyMmZ0WDV1MFYxLWR0YUg1UU5IMVhmcS0wcUQ3UVVYLUE?oc=5",
+      "publishedAt": "Sat, 16 May 2026 13:46:00 GMT"
     },
     {
       "title": "인텔 Core i9-14900KF, 9.2GHz 돌파로 CPU 클럭 세계 기록 경신",
@@ -430,10 +418,22 @@
       "publishedAt": "Sat, 16 May 2026 13:12:07 GMT"
     },
     {
-      "title": "中상무부 \"美와 동등 규모로 각자 중시 제품 관세인하 합의\"",
-      "source": "연합뉴스 한민족센터",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GSUFoTFlsSzRpdmpoOHI5eEZwV1Zvb05ZWEpXRGNjRUx6RUhYV3ZmaHBpWk1jYl9GcVJNQTN5YnczT0lsTUJOWk4tMFFDR3lzNy1yYmZJUnd5RWxCTk5ITUhxWHNxR0NpNDJmRXpnRDVRM0x3?oc=5",
-      "publishedAt": "Sat, 16 May 2026 13:06:21 GMT"
+      "title": "[79th Cannes] \"이제는 영화감독\"…존 트라볼타, 예술가 변신",
+      "source": "디스패치",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vem9mcXFJTUhtNWJ4SVl5cjJJS05jV0NybEc3b0lhZjB6enl2TjBWTFZXLURaTlFoVmRWS09IRXFfeVNZUzVSdnh3?oc=5",
+      "publishedAt": "Sat, 16 May 2026 13:07:00 GMT"
+    },
+    {
+      "title": "운전 중 Suno로 AI 생성 음악 재생…Apple CarPlay·Android Auto 지원",
+      "source": "월간 믹싱",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBIaUN6ZTRua3hYeENmdGkyd0xRT3p6a2ZyZFZRa2trNURYc2V5OXhOVW5XZ0Vmd3RzS1Z0TldPMA?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:49:31 GMT"
+    },
+    {
+      "title": "북한산 오른 뒤 실종된 50대 여성, 28일 만에 숨진 채 발견",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2dTBlc3VPRHZYR0l5SldDSTU4VlNWTFpOUmxTOGhmRzJvMV93bzdXdUhGRWJHY3pRVm10U0ZEa0UtNmdvbGVuaE11NWtQSE1GYk1lb2p0ZC1rOWtvWXdHUkM4WlpZUFlCcWJFcmlJSmpxQQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 11:24:00 GMT"
     }
   ],
   "sources": [
