@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-17T07:06:22.225255+09:00",
+  "generatedAt": "2026-05-17T07:52:30.586496+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "11.7°C",
-        "feelsLike": "11.7°C",
-        "highLow": "최고 24.7° / 최저 11.4°",
-        "humidity": "99%",
-        "wind": "3.0 m/s",
+        "temperature": "11.8°C",
+        "feelsLike": "12.1°C",
+        "highLow": "최고 25.1° / 최저 11.2°",
+        "humidity": "100%",
+        "wind": "1.8 m/s",
         "rainChance": "0%",
         "pm10": "81.3 μg/m³",
         "pm25": "77.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "78",
-        "updatedAt": "2026-05-17 07:00"
+        "updatedAt": "2026-05-17 07:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.2°C",
-        "feelsLike": "12.0°C",
-        "highLow": "최고 21.0° / 최저 11.9°",
+        "temperature": "12.4°C",
+        "feelsLike": "12.2°C",
+        "highLow": "최고 21.2° / 최저 11.8°",
         "humidity": "99%",
-        "wind": "5.4 m/s",
+        "wind": "5.8 m/s",
         "rainChance": "0%",
         "pm10": "81.3 μg/m³",
         "pm25": "77.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "78",
-        "updatedAt": "2026-05-17 07:00"
+        "updatedAt": "2026-05-17 07:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "11.7°C",
-        "feelsLike": "11.5°C",
-        "highLow": "최고 22.9° / 최저 11.3°",
+        "temperature": "11.9°C",
+        "feelsLike": "11.7°C",
+        "highLow": "최고 23.6° / 최저 11.2°",
         "humidity": "99%",
-        "wind": "4.6 m/s",
+        "wind": "5.0 m/s",
         "rainChance": "0%",
         "pm10": "81.3 μg/m³",
         "pm25": "77.8 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "78",
-        "updatedAt": "2026-05-17 07:00"
+        "updatedAt": "2026-05-17 07:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.2°C",
-        "feelsLike": "12.7°C",
-        "highLow": "최고 27.2° / 최저 12.1°",
+        "temperature": "12.5°C",
+        "feelsLike": "13.0°C",
+        "highLow": "최고 27.7° / 최저 12.2°",
         "humidity": "99%",
-        "wind": "1.4 m/s",
+        "wind": "1.6 m/s",
         "rainChance": "0%",
         "pm10": "65.2 μg/m³",
         "pm25": "61.5 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "76",
-        "updatedAt": "2026-05-17 07:00"
+        "updatedAt": "2026-05-17 07:45"
       }
     ]
   },
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "오일스타㈜익산지점 착한8주유소",
-        "address": "전북 익산시 용동면 익산대로 2538",
-        "updatedAt": "2026-05-17 00:26:34",
+        "stationName": "㈜한영 부송지점",
+        "address": "전북 익산시 무왕로 1277",
+        "updatedAt": "2026-05-13 05:30:07",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "그린씨티 셀프주유소",
-        "address": "경기 김포시 양촌읍 양곡우회로 40",
-        "updatedAt": "2026-05-16 22:55:04",
+        "stationName": "경일석유㈜찬빛주유소",
+        "address": "경기 김포시 통진읍 김포대로 1999",
+        "updatedAt": "2026-05-15 04:46:28",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[골프청사진] 이동하는 유지나, 두산 매치플레이",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjTHZyZldxZFZZcjNYZGotYTZVZTR3T1I5LWxOWVNuLTRzOW9UY0lvQ2dvdEl4ZU1tQ25Xci1kOWVMNDVNS00wRjRvajFOMldNTzE1TXgyQ1o4YXFoRXI0cy1RczhQX1E4bUE?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:38:57 GMT"
+      "title": "Big 10 Athletics",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51eVpYQ0ZNVmhkSVg1VTNxTFJkXzF5dDlVdnJkSzhLekJMUVZDWVl2dEpGS1oyajlPSUNtQjl4aUhNXzZucy1EWHcyRk5Ed0t2TVhQU0dyOHBVTmpkNnFVNg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 22:46:00 GMT"
     },
     {
       "title": "PORTUGAL SOCCER",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EdlhIa2ZZWHQ5akFIa2p2bDEybl9YM0R1UUNVUFdmc3BRQlNKVGo1d1E1TWF0cWRScGtoR25uX1lJcWhuZDFhX3MzSjNWVHViTzgzZG5KMTJwYlBmWHg4Yw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:39:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MM05NYXk1aDB2UU9RX3pNdEtMaTFNTmpucEhjU24wLVR6OWxSLUxzNHRhVnN5UUZtUHZLTFVmRV9ZaTk3b0pqZ3JtRkFHdnFtV2ZIX1ljUFJPNjQ0QXZyYw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 22:40:00 GMT"
     },
     {
-      "title": "유튜브, AI 딥페이크 방어 기능 확대…얼굴 인식으로 창작자 보호 강화",
-      "source": "브랜드경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IRmpNekNKNUp6OUc3eFVMY0Rpc0l1UlpJM2pPeWM0WnVRcG9PVThKQi1Sd2Fvcmx1WkpVMlNDbFBTZ0hXYlVHUG1RN2E?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:39:56 GMT"
+      "title": "PORTUGAL SOCCER",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NRG9SZUZpSmF5bFlMWWhjT0lkN016QkxSUHFUbDRqbk1sVFdnaGJTU2xNUFNkTUZvUFMyOUZpWHZ5dHB3clBZVGRNeU9mT1J6V29xOUF1b2huaEJpaHV6Sw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 22:39:00 GMT"
     },
     {
-      "title": "\"진실로 선언합니다\"..최준희 결혼식 대본 쓴 MC가 밝힌 비하인드",
-      "source": "ASIA ARTIST AWARDS 2025",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fd2V6d3dmUnllajFlSFZqX0I0LUNKNHVPQUEzeVFKRGJQX21fR21XM3hrSU1WOGdNSV9aNlk5WXJXaVFHVGt6WkNQVDhKaUNXWkZzTUlxYlJsWTNTY1ZXcg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:38:05 GMT"
+      "title": "'군체' 구교환, 칸 해변 화보 촬영",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RZzg3LXhIbTJmb1dYclJZMXgtUm9ZZzFNY1hKOW1lSk9aT3liWEtHTzVoVzZHM3BsU2JPT19mNGRjeW9HRHZTdjlJeUFpNUNPb2RjUGdpZVZ6YTlwSmIxYg?oc=5",
+      "publishedAt": "Sat, 16 May 2026 22:45:00 GMT"
     },
     {
-      "title": "여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다",
-      "source": "하이닥",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kR25Wd2NRUGFyZzZ0RFJNNER6eHJ5M3VQem04SFYyTVlENWxsbGZ3Q0hpNV9DblJVME1Kd0h4SENRQ0NfLXFnczI0b3U5YjRxNVZld0s1WDlMLXNsak1UVWNxSG1nNmtLSmc?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:30:00 GMT"
+      "title": "\"비료 일평균 수십 톤 증산\"…北, 생산 확대 강조",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGc0htbW9DQ0lsOFdsMW1ZUmJPMFZna0dXTXNaNFJtS1lqaWdOMlBTMnBFekFTUGNQWDRhT1hERHhyUDVadVo3U2kxb3NzT0hZMmdEaEt3LVlkUDhjYUR1QQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 22:12:00 GMT"
     },
     {
-      "title": "‘장난감계 유재석’ 이상훈, 박물관도 모자라..개인창고 공개 “제품 보관용” (‘전참시’)[순간포착]",
+      "title": "트럼프 방중 때 앞뒤 배치... 高지붕 SUV, 드론떼 방어?",
       "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX08ydzhqbDdQcmxFcGl3QTRfd0JETGpEbDRpU29Jay1ZcUxnVmZ1eEYyS2N0Vm4wMG1BMmtHQldiZWcyaU82Zjh3eExIWEdvVE8zZHctRVl4T1hTcWNKV3l4Z2ZmQmp4RGZST01QRkd4bmhaNUVSNndSWnBnMl91X2ROYWZsME9KNmJld09vWQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1lMTkJSeWZnVldOa3NXdGZUT3I4Q3lNaEdQTV9jN2RKa3lDenhNdl9HZVNwa2ptakZ6Vmw3eE5SREVDVHVmV0tWQlV1MHliR21yQzlSNm96Snl4aGU0VEFYSXNEY3ZWQnBjNTd2OUdLMUhCaG5lY19jZDBpTDc2RTg1QUQzaEVCdjJQUXJQVndES1U4bnoxbzRpQnc0dw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 10:49:17 GMT"
     },
     {
-      "title": "문상훈, 실제 일타강사 될 뻔..“인강업체 회장님, ‘재능있다’ 연락와” (‘전참시’)[핫피플]",
+      "title": "홍준표, 이번엔 정원오 엄호…\"될 사람은 된다\"",
+      "source": "nocutnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TN0lmSHI5LVhlS0RpN0RUZXdRUzZBU2FYZGV5YktnNGJVSC1yS3hJZnFPVE83eXVtQk05cGVLdTNla25CWGpHYkFyNlY2U0RKYVE?oc=5",
+      "publishedAt": "Sat, 16 May 2026 07:12:00 GMT"
+    },
+    {
+      "title": "與 ‘1회 토론’만 고집 논란... 野 “침대축구, 깜깜이 투표”",
       "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWowWnN4NlNXc1NHbF9ZQ1E3U2g5c1N2VjJoM01XcTlxZzZCejI3TUZEVGdtdk5sZUh3OEQyMDA2UDVpdXRKdm5jV2Z3RWpPN0d1ZXQ1b01YS1BwUDZNSGVPemdQR2JnWDEwS1dtY0RoazJZNnR1THVqWjMwaURiWGhLdGVjZXdPWXplQ2JmRQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkpxRnVsM2NDWDJyNkRnLUVwNXJBdW1VR0JMVGloUlNuUzMyVnFVQ3JCWUNlQm8zVjY4NTBNOE9CU1lTczZvSXZKck92c05fUDRrOHlVR1N6TkFuQWlvSFlEeWtDcC1ZcV9RTjNKbjJhQkwyVkNFbk40WC1iWVg2WG9GZzRDdw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 04:07:00 GMT"
     },
     {
-      "title": "'윤여정과 이혼' 조영남 \"13년 살며 다툰적 없어..다 이해해줬다\"[동치미][★밤TV]",
-      "source": "starnewskorea.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOalcwaUdHQlpPLTBVbXJXSS1zbUdXLU1qdU1WMjNWVWdhVGxrZTBPYmc4YllPNUUydlJuQmpqUkR5SWptMGo2UXR2dERmajc5bldPb0plZ09RR1lVX3o3bkpQckRqU1RDY2ZZNElfYXp6c2FESVlVOFdjN2NHR0ZOaA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:13:00 GMT"
+      "title": "“美 반도체 산업을 훔쳐갔다” 중국 다녀온 트럼프, 대만에 화살",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kSHFmSTlTVEw2TTFhTTlkMzFZUnVUMFlFakdlRTQ2bGd2c0F4WDBiU2NSRHNvWXhkRDJqeTI2NUtucTNkN3AwVGw5b1Y5dTgyeUdjUXB3TkUyQXZsSTJSN3RjYmRaNnk5TVctMEZXN0ZDVWvSAWZBVV95cUxPenBBNzhFY0dSRHlUUGV4V2M1WHVfNW1WX2FGd1JyYlhpTzRBZ01BZ3NidmdiSlp3VDhodjdNbXVZbkw2djhjbHc1SFJqOFFRZkUwclNWdDBYZEdhcXN5WHRvTVpmTGc?oc=5",
+      "publishedAt": "Sat, 16 May 2026 03:22:00 GMT"
     },
     {
-      "title": "크루즈선 탔던 캐나다인, 한타바이러스 잠정 양성 판정",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HTlJuX2dRYnRMNmpPajU2NTIyeFJnS0R5QW1XVnVmekJBclRJQ09tdlhSa0FxSU1tZkgyR2RhWlY2UmlRZ1lKYUNHS1pla3hqTGpfR19FbWxVOUU?oc=5",
-      "publishedAt": "Sat, 16 May 2026 21:13:00 GMT"
-    },
-    {
-      "title": "내일부터 2차 고유가 지원금 신청…소득 하위 70% 지급",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1malBvRi15VE1yLV9COVRaSXl6dElzdmdnOWdsaWFkaGJ1Y0RWcGtWb1NNWUlFZ1RFanZ3eHYyenZmWkFBV1djNDFoSnJ5YkRnVm50SlgtaXB0ZDTSAWBBVV95cUxQMHZkLUhlRWJyd0dLblJDcHJmcjFoa0RUd0w0dFg4SVU2Rkt1TXM0bkRtRzlRS182djhKTUQyQ2Nqb1VySHRiY2pUZl9YX1BWR2xjc3UxWHQtcl9RME9ELWY?oc=5",
-      "publishedAt": "Sat, 16 May 2026 20:31:02 GMT"
+      "title": "‘담배연기, 살인충동’...서울 대형병원 출구 앞 글귀에 환자들 술렁",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakRMQndZelAzemlxa0N3YW5HdWt0Y1ZvRHJqRDJmS1VnSjdZRnQxQmZQNHVXUU10cGpfcXRtakZibXlram9rSTRMWU9XUEo4TEozekl6SW9MYmd6ZFdTeU9UQkhHRVdlUEFVdVBmb3ZXS0JzbWl3Z0VqckZsYUw2NHh3QkNVZw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 02:41:51 GMT"
     }
   ],
   "sources": [
