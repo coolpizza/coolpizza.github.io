@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T08:39:13.372277+09:00",
+  "generatedAt": "2026-05-17T10:33:24.576742+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "13.0°C",
-        "feelsLike": "13.5°C",
-        "highLow": "최고 25.1° / 최저 11.2°",
-        "humidity": "95%",
-        "wind": "1.9 m/s",
+        "temperature": "18.4°C",
+        "feelsLike": "20.8°C",
+        "highLow": "최고 25.3° / 최저 11.2°",
+        "humidity": "72%",
+        "wind": "1.8 m/s",
         "rainChance": "0%",
-        "pm10": "54.6 μg/m³",
-        "pm25": "53.9 μg/m³",
+        "pm10": "40.3 μg/m³",
+        "pm25": "39.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "73",
-        "updatedAt": "2026-05-17 08:30"
+        "updatedAt": "2026-05-17 10:15"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "12.7°C",
-        "feelsLike": "12.6°C",
-        "highLow": "최고 21.2° / 최저 11.8°",
-        "humidity": "99%",
-        "wind": "6.1 m/s",
+        "temperature": "15.3°C",
+        "feelsLike": "16.4°C",
+        "highLow": "최고 20.5° / 최저 11.8°",
+        "humidity": "93%",
+        "wind": "6.2 m/s",
         "rainChance": "0%",
-        "pm10": "54.6 μg/m³",
-        "pm25": "53.9 μg/m³",
+        "pm10": "40.3 μg/m³",
+        "pm25": "39.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "73",
-        "updatedAt": "2026-05-17 08:30"
+        "updatedAt": "2026-05-17 10:15"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "12.3°C",
-        "feelsLike": "12.2°C",
-        "highLow": "최고 23.6° / 최저 11.2°",
-        "humidity": "99%",
-        "wind": "5.3 m/s",
+        "temperature": "15.6°C",
+        "feelsLike": "16.7°C",
+        "highLow": "최고 23.4° / 최저 11.3°",
+        "humidity": "89%",
+        "wind": "6.3 m/s",
         "rainChance": "0%",
-        "pm10": "54.6 μg/m³",
-        "pm25": "53.9 μg/m³",
+        "pm10": "40.3 μg/m³",
+        "pm25": "39.3 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "73",
-        "updatedAt": "2026-05-17 08:30"
+        "updatedAt": "2026-05-17 10:15"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "12.8°C",
-        "feelsLike": "13.5°C",
-        "highLow": "최고 27.7° / 최저 12.2°",
-        "humidity": "100%",
-        "wind": "1.4 m/s",
+        "temperature": "19.1°C",
+        "feelsLike": "21.9°C",
+        "highLow": "최고 27.9° / 최저 12.2°",
+        "humidity": "76%",
+        "wind": "1.3 m/s",
         "rainChance": "0%",
-        "pm10": "55.4 μg/m³",
-        "pm25": "53.9 μg/m³",
+        "pm10": "27.9 μg/m³",
+        "pm25": "25.3 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "74",
-        "updatedAt": "2026-05-17 08:30"
+        "airQualityIndex": "72",
+        "updatedAt": "2026-05-17 10:15"
       }
     ]
   },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "그린씨티 셀프주유소",
-        "address": "경기 김포시 양촌읍 양곡우회로 40",
-        "updatedAt": "2026-05-16 22:55:04",
+        "stationName": "대명주유소",
+        "address": "경기 김포시 대곶면 대명항로 501",
+        "updatedAt": "2026-05-16 20:35:58",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "Phillies Pirates Baseball",
+      "title": "\"왕사남처럼 흥행하길\" 단양 주요 관광지, 영화 촬영지 관심",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83OXFMY2pSc1B0QlV2NEVNMHJNR1F2aG5uUi03OEIwWWhUQm16WmZGQ1J3WHR2WlhOOTl6ZjhOeDRTaFpOc2J2ZjBUYW9UUkhVX1ZaOU9BLWVtUVhHWVRZ?oc=5",
+      "publishedAt": "Sun, 17 May 2026 00:49:31 GMT"
+    },
+    {
+      "title": "일요일 낮 최고 34도 '불볕더위'…온열질환 '경고등'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93YTcydkJKSkRGZVk1U25XWXNqd3dhTERCX3ZiZjhIM1ZkSlJMMEhhaExaX1hEbVhOeXlGaEJjMEtfWTgyN0hfdXlkT19uSTNMZTRPVkd3UnZhUnJkMmdmVA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 23:29:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZZ1BwWWxVN09rT2NINWVrQzI1dU1wTWloZW04Vm0xNFc3YS1EWldqYS05THdZOGNLSUIwSkVYYnNrYWRoaGxMREtTcXNfQldaSlpNNXdmMS1ialZIX1ZLNQ?oc=5",
+      "publishedAt": "Sun, 17 May 2026 01:22:00 GMT"
     },
     {
-      "title": "Election 2026 Voting Rally",
+      "title": "\"정청래 겨냥 '소셜미디어 테러모의' 제보\" 민주당 수사의뢰",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJQXVHelpZb2lxcnpENEM4NGtvOTE4SXR6MER6N2NoMlkySnkxVFZzMVd5ejh3RWU0MGROb1J5bXRYTVE3LTN0bjJCcWVYR0tSWTYza1Fzc3M4TWRlWWlxYQ?oc=5",
-      "publishedAt": "Sat, 16 May 2026 22:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZbW1BS3RMc3lVQXdPTmRja3dPNHd4bXoxc3FPTEZqUi02d3JZMTEyTVpSeThzcWpROTVweGFOMVhfRTVCSVFGdzBBa1NVajRRbTRhRXV0eWlrc1g2S3dRUg?oc=5",
+      "publishedAt": "Sun, 17 May 2026 01:28:00 GMT"
     },
     {
-      "title": "크루아제트 해변 밝히는 '군체' 신현빈",
+      "title": "국힘 \"與 후보들 '침대축구' 도 넘어…공개 토론 나오라\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91R08xWWp0dDl3R0J5SVNnMzMySTRydmJwZTdFMWI1UGVkNDA5dGtrV2F6VkhHd1pmUlRwSmpNMU9oYzViMHZRRk1uOS15VGQyQmVheEdYU2NQVzFScWdCQw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 22:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01RzluZWVUUHI2dzltajBoeTg2LU5kOGZtRFR5TGw0R05jbXpXQ0J5X0ZWb053NDdKYnhxenVmeFdTS0gzaEpEMlp4VkU0YjVMc0RQZVBiZzQ1NDF1dy1YbQ?oc=5",
+      "publishedAt": "Sun, 17 May 2026 01:28:00 GMT"
     },
     {
-      "title": "칸의 푸른 바다 앞에 선 '군체' 지창욱",
+      "title": "HD현대사이트솔루션, 아프리카·중동서 지게차 잇따라 수주",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tTlNZcmlRd0JwckQ5UjNaZ2NkdEhxRFNKVzdsdEIwQy1qTUg1SVpWMzNXUzlPQ2FCaGZROEtIOTBubWdRU2FRWlUzVG1UX2hIRHBiMVRTNHpwSlJCYmF0eA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 22:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PLUNzc04zVy1pSXMyS2w1dkZOeENHMTVXZ0VBVkdxbGVEb0hCSnNsQUZKZUhZN19MWHF5OE1zai03OGd4YXpRX0RYeG9GWWNOVjVWRlhvR3FOV09VZ0dSdg?oc=5",
+      "publishedAt": "Sun, 17 May 2026 01:28:00 GMT"
     },
     {
-      "title": "PORTUGAL SOCCER",
+      "title": "민주당 인천 정치권 \"인천국제공항 통합 반대…입법권으로 막겠다\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MM05NYXk1aDB2UU9RX3pNdEtMaTFNTmpucEhjU24wLVR6OWxSLUxzNHRhVnN5UUZtUHZLTFVmRV9ZaTk3b0pqZ3JtRkFHdnFtV2ZIX1ljUFJPNjQ0QXZyYw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 22:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jX3pJREdOaUNEcUhXaE91R2IxdXNHejlYbzFoUXIycXFzUWk1XzBzd2ZJN21McVhMbUdYbkhYM1Zsb21INnZTVVhUWENuV0VmeVhhVXBlcU0zM3pubjRLZw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 01:27:00 GMT"
     },
     {
-      "title": "얼굴에 쓰는 240Hz 모니터…에이수스·엑스리얼, AR 글래스 'ROG 엑스리얼 R1' 공개",
-      "source": "CNET Korea",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lcDMxQ3N0aC13ajZOWmRMS2tMd3NDZlByZ0QxdEdYYTh0b3lMWjNJVU9adFdZek1NN19MWXI0N3dmUEFHNnJpdVZ1R19JWDJWMFV2MHBZZw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 23:05:00 GMT"
+      "title": "대구시, 전세사기 예방 '안전계약 컨설팅' 제공",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvX29PRzJtRm1ZeHFicUxKY2ZKdUs4MlpycnZhSWdmT2pJMEcxXzJsX2NCQzhSclY3aU5jRERPMF9NdWF1VnZ6akdKVnozQlptenVJNkpuNk13NWvSAWBBVV95cUxNdzNudkJ6OUMyUXBZTWF6UXhqX2tzYlc2Y09QR0NhYzRRRDZBdHR5NGNUaUFRcE9sSUlLM0JQOGd4VUN2Q1lOR3RJLUd4WjhWSDhTalhJUF9sdWxpYjhHZ1g?oc=5",
+      "publishedAt": "Sun, 17 May 2026 01:00:47 GMT"
     },
     {
-      "title": "화성 근접 비행한 NASA 탐사선 '프시케'…속도 높이고 연료 아꼈다",
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90cnJXX0JwWWRVYnRZWHFhRmlYekhtcUVyX3ZaM0JobjBwUWtmVUlGWEpQZzdhTl85bFZjZVRaRnh1ZkFUeGJfU2owdWRKdmU0aWJvUHdwWEpfNjNaYzQwZzVjNmlRX3ZmRUo5eVM3UDY1eTA?oc=5",
-      "publishedAt": "Sat, 16 May 2026 23:02:21 GMT"
+      "title": "도지코인 시세 향방 이목…회복이냐 조정이냐",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wOE1WVGJtQ3Z1QVZUbTM1LWN3a054c3BEX1RIdzJBZ200aUlBOFhPNlhlZ0ctdC1PZDBNZUZ3SmFka2FDTHZmVHRYc0hRTEV6VDNuWDBQWUE3MWZVNzhnQjFjM0VIbmtE?oc=5",
+      "publishedAt": "Sun, 17 May 2026 01:10:12 GMT"
     },
     {
-      "title": "\"공룡은 죽어도 꽃은 살았다\"…비결은 유전자 '복사기'[사이언스 PICK]",
+      "title": "HD현대사이트솔루션, 알제리 정부서 지게차 대규모 수주",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtSWs2eDhkLVl4Um9YX21GaUNFUDJHTHVBbmZUbDliRTg5cWlPQkNmNWI2dm1UTWIxSkw0dUlfR0dDaXl4ZDRydDlacnVmNDlQaFZN?oc=5",
-      "publishedAt": "Sat, 16 May 2026 23:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00OHlRS2gya3lEbXNIc09najRuY09oVkloWUZxTnZSQ1gwSGF2SE9BZ1E4SkQ0RWNiUlhPNC14VE9TeDJQZl9TWlFiaWEzSXRQQXFz?oc=5",
+      "publishedAt": "Sun, 17 May 2026 01:11:00 GMT"
     },
     {
-      "title": "넘어지고 부딪히는 아이들, '소아 상지 골절' 주의보",
-      "source": "매경헬스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRVE5LW1vam1vQ0dDSko3SEk2Q3AxYTY0OXhJTTZLZlBEZWNnQlFQU3JidWZWZXNoUHR5dmowSUlXLUthNFZtb2FIUE5IcVEyRzUwRGxXckdTeVgtRTZXaUlZaDJ3TjZvam5nQw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 23:00:00 GMT"
-    },
-    {
-      "title": "애플워치 시리즈12, 디자인 유지 속 칩 성능 개선 가능성…터치ID 도입은 “글쎄”",
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzYmVzVjdkT3ljV1BSQ2N4YV9RcnhDa3doYlM5clNacUF0WHJ5eXRvN01TRmsxZTdfX1NKRWxsSkJzeHFJRk82ZXd4Q2VKaGduYWVkOE10S3E5Z1V3dkUxSVpKamtQUmFSVU0zQ3VweUx6LXM?oc=5",
-      "publishedAt": "Sat, 16 May 2026 22:54:35 GMT"
+      "title": "강원도, 사회서비스 종사자 대상으로 '소진 예방' 교육",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vdERhdmdReGMza3huSHI2V0o0d1B4YWJxTXByMGlqb0FCZHk4aG9Da0lNaWtqU05senFhcFd3Y3Jmai1Vcm1sb2VzM2pHRUY3Y0VCQUo1SE5HM2vSAWBBVV95cUxNQ1gwWVF2UF9NUXd2cVJDYWo0TVV2R2o4QmZLcWNZdWtBTUxDUUtPMDFuSkdUM1JCUy05UXhvT3FjVmNBWHhPSUJhMnpYT0NDYi1BZ3o2U2E4SGdYa21uYmE?oc=5",
+      "publishedAt": "Sun, 17 May 2026 00:52:13 GMT"
     }
   ],
   "sources": [
