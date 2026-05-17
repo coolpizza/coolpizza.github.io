@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-17T18:28:49.828308+09:00",
+  "generatedAt": "2026-05-17T19:45:45.475868+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "23.3°C",
-        "feelsLike": "23.2°C",
+        "temperature": "20.9°C",
+        "feelsLike": "21.2°C",
         "highLow": "최고 26.3° / 최저 11.2°",
-        "humidity": "49%",
-        "wind": "5.1 m/s",
+        "humidity": "59%",
+        "wind": "4.0 m/s",
         "rainChance": "0%",
-        "pm10": "10.7 μg/m³",
-        "pm25": "9.3 μg/m³",
+        "pm10": "14.6 μg/m³",
+        "pm25": "13.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "69",
-        "updatedAt": "2026-05-17 18:15"
+        "updatedAt": "2026-05-17 19:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "18.3°C",
-        "feelsLike": "18.7°C",
+        "temperature": "16.1°C",
+        "feelsLike": "16.4°C",
         "highLow": "최고 22.4° / 최저 11.8°",
-        "humidity": "78%",
-        "wind": "7.8 m/s",
+        "humidity": "86%",
+        "wind": "6.2 m/s",
         "rainChance": "0%",
-        "pm10": "10.7 μg/m³",
-        "pm25": "9.3 μg/m³",
+        "pm10": "14.6 μg/m³",
+        "pm25": "13.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "69",
-        "updatedAt": "2026-05-17 18:15"
+        "updatedAt": "2026-05-17 19:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "21.3°C",
-        "feelsLike": "22.0°C",
+        "temperature": "18.6°C",
+        "feelsLike": "19.6°C",
         "highLow": "최고 24.5° / 최저 11.3°",
-        "humidity": "66%",
-        "wind": "5.8 m/s",
+        "humidity": "79%",
+        "wind": "4.4 m/s",
         "rainChance": "0%",
-        "pm10": "10.7 μg/m³",
-        "pm25": "9.3 μg/m³",
+        "pm10": "14.6 μg/m³",
+        "pm25": "13.2 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "69",
-        "updatedAt": "2026-05-17 18:15"
+        "updatedAt": "2026-05-17 19:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "22.2°C",
-        "feelsLike": "22.6°C",
+        "temperature": "19.0°C",
+        "feelsLike": "19.5°C",
         "highLow": "최고 28.9° / 최저 12.2°",
-        "humidity": "64%",
-        "wind": "9.5 m/s",
+        "humidity": "75%",
+        "wind": "6.4 m/s",
         "rainChance": "0%",
-        "pm10": "12.9 μg/m³",
-        "pm25": "10.8 μg/m³",
+        "pm10": "12.3 μg/m³",
+        "pm25": "10.6 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "69",
-        "updatedAt": "2026-05-17 18:15"
+        "updatedAt": "2026-05-17 19:30"
       }
     ]
   },
@@ -272,15 +272,15 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,967원/L",
+        "lowestPrice": "1,964원/L",
         "lowestDistrict": "금천구",
-        "stationName": "㈜씨더블유 이엔지 금천지점",
-        "address": "서울 금천구 독산로 147",
-        "updatedAt": "2026-05-16 15:17:38",
+        "stationName": "(주)백운주유소",
+        "address": "서울 금천구 시흥대로 282",
+        "updatedAt": "2026-05-17 17:58:24",
         "districtSamples": [
           {
             "district": "금천구",
-            "price": "1,967원/L"
+            "price": "1,964원/L"
           },
           {
             "district": "동작구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "대명주유소",
-        "address": "경기 김포시 대곶면 대명항로 501",
-        "updatedAt": "2026-05-16 20:35:58",
+        "stationName": "(주)무진에너지 서김포IC주유소",
+        "address": "경기 김포시 양촌면 김포대로 1634",
+        "updatedAt": "2026-05-17 17:56:42",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "모디, 네덜란드 방문…ASML \"인도 반도체 공장 지원\"",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKNjhQcHJ2UWZLdTNLTnNjT2NBbHBLclloWElJTU1rZ2Z0NFIxamVrbkswVlk2S3lTS2tFN1lQbmNkV0w1RGJydzZ3TTY0ZVJ6TFJtOUV2anF5Z3ZPRDJJetIBYEFVX3lxTFBKNjhQcHJ2UWZLdTNLTnNjT2NBbHBLclloWElJTU1rZ2Z0NFIxamVrbkswVlk2S3lTS2tFN1lQbmNkV0w1RGJydzZ3TTY0ZVJ6TFJtOUV2anF5Z3ZPRDJJeg?oc=5",
-      "publishedAt": "Sun, 17 May 2026 08:35:01 GMT"
-    },
-    {
-      "title": "고유가 직격탄 맞은 미국…연료비 추가 지출 67조원",
+      "title": "Italian Serie A Soccer",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rT3BnNUc0MFdqbDZ3NTFNVTNQc3lfV1J6ZThIT05vNnV5dVZILWZoRWNfTWFPUHJ1OHFwLW9OdTZHczl3czZVdWI4amhkVjlNT2hOZnlFcUtqbTMyeVEzTA?oc=5",
-      "publishedAt": "Sun, 17 May 2026 09:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVNlFUS0JLQ1dWVkE5d0N0WW5ROHB3X2RqeGRuR3UxOWZ0QXMwbDRuV3p5NjdkUFA4LVlaLWduQTVXb052M1FiNTN4RjQtZFF2eXdRWlEzSEtEVjdWcTE3bw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 10:27:00 GMT"
     },
     {
-      "title": "코스피 반대매매, 중동전때보다 늘었다",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zV1lzbGlySlVkSXFtSE5hd1h3OHZpZ3VJRVBNUlB0Y0xvbG0td1kzNVZlMjNHSkNkWUt1V2JQMUZtR0tmZFNCVEtVVUdENUhMSU9yWEI2YWMtWlNVRTIxcQ?oc=5",
-      "publishedAt": "Sun, 17 May 2026 08:36:23 GMT"
-    },
-    {
-      "title": "[골프청사진] KB국민은행 방신실, 최은우 꺽고 우승 두산 매치플레이",
-      "source": "청년투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IMHRGVWNnTFVIZXE1REw4YW5fODFuQTQxQ0kzUHA5eHRCemRQdDlMQU91RUZtMFh5WmxTQVBVc0dYdXJQT3V3ZnV6SVYtYzh2b1ZEelpjMVdrZml3T3FNMXVpMmNIV3V5?oc=5",
-      "publishedAt": "Sun, 17 May 2026 08:31:40 GMT"
-    },
-    {
-      "title": "KAIST 총장 후보, '류석영·배충식·이도헌' 3인으로 압축",
+      "title": "Vatican Pope",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xT2tKMTY0UkM1QTVqQU91VG9Db3BkR1BUR0ZXM0VBUHJfV1RmNXhwdFMzWkNseE16eXJ3cklMc0pFQVZ6QWRmcEdWRDc0R0Vtc0NF?oc=5",
-      "publishedAt": "Sun, 17 May 2026 09:07:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HNUdBT2MwTUFXaUNhNVNNSC1KM25rdVVEa0lCMDZ3QkpkSXM5ZkxfRGlfVjU0OTBzbWJfS2toR0RmSHFHTGZVNXh1NjNmSnFtQm5iZ3FFNEhxWUZfUWZMUQ?oc=5",
+      "publishedAt": "Sun, 17 May 2026 10:27:00 GMT"
     },
     {
-      "title": "포항에 5500억 규모 데이터센터…AI 허브 노린다",
+      "title": "EU Hantavirus Ship",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TSDFDVkFpU1dvU240ZlRtNTU3bzR1dnlrVDZiVjNINTVlcVo4dzM4eEhiRThzanBqUWRqX01lNG1vM3V3YTAtRVh5eDhVcHFId0xv?oc=5",
-      "publishedAt": "Sun, 17 May 2026 09:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DV1M3dGdpYmdqSDF3VzNVRnB0LVdDN1FYdHFFMGJYZF9PbHNZOXNSMnZ4UDNILWkwVm1sMktvZFk5UWFHV3pFaDhjd2JGRDRrWHBNODR5ZU5VLV9ndW5FRw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 10:24:00 GMT"
     },
     {
-      "title": "\"오리온 해외서 날았다\"…1분기 영업익 26% 증가",
+      "title": "epaselect SPAIN ANDALUSIAN ELECTIONS",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQdl9VRlR6ekJIY2VrWFpYWXlPZGloQ0JNRF9qX05qdkU5cWJfVFoyemJBYzByZFREdEh2bXROWk9YLVBuX1oxVzdUYUV6T3FJU25F?oc=5",
-      "publishedAt": "Sun, 17 May 2026 09:11:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HMmNpZDZFcFVLbENTaTZOUGNHUi0wenEwSFAtaVk1TzV4WTRFRVFWaDNPNUpWSG5OdWEyc20wWU1sYkVScU02RVdEc01Md0JVNkhBQ1BUOUV5Nm5QNkR6dg?oc=5",
+      "publishedAt": "Sun, 17 May 2026 10:25:00 GMT"
     },
     {
-      "title": "정명근'화성시 30분 이동시대 '순환철도' 도입하겠다\"",
+      "title": "epaselect SPAIN ANDALUSIAN ELECTIONS",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GQ0tTa19kdXRXdEpiT005WU1kZ1kzSjdzcG9VLVg4MEM5UXAtQ29uTkNRclFWamtpd0NnQ0NZYW80VVdHQkN6WURoX3BBZTJPTDBN?oc=5",
-      "publishedAt": "Sun, 17 May 2026 09:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ldThCSGQ2QTdrSVoxZnV3eHBuNFdIRVJSSXZ6VGU3RTU4bnloSzlXVTc3SHA5bXJ6XzlQblE4R0JvbTBhVmhBeTBQTVQ5YnFfWmtDcFBkbnQzTGdMamFfQw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 10:25:00 GMT"
     },
     {
-      "title": "5월은 바다가는 날…장벽 없는 서해안 연다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MSXkyRjZnLTlRLW45SEdENlpKRFMwc1RaTTMzZm1MbUFFSkVnUTM5bjFKNlVFTW5haFFMSE9wdzFsa3djd19JV18wMmVvN3JrNlhv?oc=5",
-      "publishedAt": "Sun, 17 May 2026 09:15:00 GMT"
+      "title": "[단독] 인권위원장이 5·18 기념식 불참…안창호 스스로 참석 안 하기로",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwY0h0dk5YUlM4SS1CaHJnRUFVNzdKZnliRVhQVzJ0SlM4dHVnRWRoWmE2bFp2RHlSeG1wT2xpRFZlbGM2RUo4RmRfQUlxZUZmV3IxOVhDOFF6UzlFdThldXFOdHRNTE9yTUZXSm5ySUV6Zw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 10:09:00 GMT"
     },
     {
-      "title": "\"네이버 멤버십 결제완료\" 눌렀다 계정 '탈탈'…사칭메일 주의보",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pUlZRQmEyZF9YTUtHdDBkTGZvOGpYWHh4YVFIN1ItMTBFUFpvTFY2QTdwQUcxS0xSajF5eUFvTlNzRzJSVS02SHFjSGZwZkw3dUxN?oc=5",
-      "publishedAt": "Sun, 17 May 2026 08:50:00 GMT"
+      "title": "트럼프 “대만 무기판매, 좋은 협상 칩”…“한국도 불안케 하는 발언”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nMjRlLWNZbVdGMll3MUNuQ25wVDBnbjVOTnZUTXo4WFFiZC1Td0tVc0kteEw0QUs5THExQVVBdnVqSUZ0NkZVM05FNkpMdHFpZjNjUmhIb0lKYzk3SlZnT3VGOF9qVU8tNV9pQ2o3RQ?oc=5",
+      "publishedAt": "Sun, 17 May 2026 10:05:00 GMT"
+    },
+    {
+      "title": "또 전운 고조…트럼프 ‘번개 치는 호르무즈’ vs 이란 ‘통행료 압박’",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUsydFBCSzByN3lZWTNmMzVSTGx1a3ZTemdERmdJdHc4T3Q2aUJtQ0otaUtGTF9WSHF1aE54a0xFM05Kdk5kMWduSm1USlkxR3dicVF3QjlpWGZNRE9wRmRfQ3RwU2gtZlE2NkplOFk1azVwSzJ3Tm9TS0pyMW5ucld3?oc=5",
+      "publishedAt": "Sun, 17 May 2026 10:04:00 GMT"
+    },
+    {
+      "title": "외교부 “나무호 피격, 이란에 사실관계 입장 요구”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hNDRsalJEMktQWTBMUUVJbXdlS3RFUllybE5wUHJkVzNpRE1nRGdwaXMwRnlfSDZqR1ZuY252TzM0MDZvRldwZW5zX3N6UUlVSkJxdDluVUwzZ9IBX0FVX3lxTE1xcjQ4Qk5JTTAxaF8yWkhrNWc0U0ZzZGFrWDBTQ0t6anNwa2VHM0sxeFF4SDM2eXF5UGw2aERkOXN6QUNaZk96UXkxMXFIVExJOURSVS1rWnY4ZDh3OV9z?oc=5",
+      "publishedAt": "Sun, 17 May 2026 09:56:00 GMT"
+    },
+    {
+      "title": "삼전 노조 4만명 사내 프로필 “파업”…혼돈의 삼성 내부, 봉합 이뤄질까",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MOXJ6N1lGMHFObGFBZkJLa0hEVDU4Yk1XZ3JHWEoyRWxTZUx1ejlZOVZObTgzTGdHTDNBa3pNVWJOQ2tfTV9PU1hTYTBieHlSZkRJQ0g2eWFVcEYwV2hILQ?oc=5",
+      "publishedAt": "Sun, 17 May 2026 09:08:00 GMT"
     }
   ],
   "sources": [
