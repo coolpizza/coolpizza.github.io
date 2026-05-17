@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-05-17T14:08:14.981544+09:00",
+  "generatedAt": "2026-05-17T16:42:24.342967+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "25.3°C",
-        "feelsLike": "28.5°C",
-        "highLow": "최고 25.3° / 최저 11.2°",
-        "humidity": "55%",
+        "temperature": "25.5°C",
+        "feelsLike": "25.7°C",
+        "highLow": "최고 26.3° / 최저 11.2°",
+        "humidity": "46%",
         "wind": "5.8 m/s",
         "rainChance": "0%",
-        "pm10": "12.1 μg/m³",
-        "pm25": "10.9 μg/m³",
+        "pm10": "9.2 μg/m³",
+        "pm25": "7.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "71",
-        "updatedAt": "2026-05-17 14:00"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-05-17 16:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "20.1°C",
+        "temperature": "21.6°C",
         "feelsLike": "22.4°C",
-        "highLow": "최고 20.5° / 최저 11.8°",
-        "humidity": "74%",
-        "wind": "9.2 m/s",
+        "highLow": "최고 22.4° / 최저 11.8°",
+        "humidity": "68%",
+        "wind": "7.6 m/s",
         "rainChance": "0%",
-        "pm10": "12.1 μg/m³",
-        "pm25": "10.9 μg/m³",
+        "pm10": "9.2 μg/m³",
+        "pm25": "7.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "71",
-        "updatedAt": "2026-05-17 14:00"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-05-17 16:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "22.9°C",
-        "feelsLike": "25.0°C",
-        "highLow": "최고 23.4° / 최저 11.3°",
-        "humidity": "63%",
-        "wind": "8.1 m/s",
+        "temperature": "24.1°C",
+        "feelsLike": "24.6°C",
+        "highLow": "최고 24.5° / 최저 11.3°",
+        "humidity": "56%",
+        "wind": "7.9 m/s",
         "rainChance": "0%",
-        "pm10": "12.1 μg/m³",
-        "pm25": "10.9 μg/m³",
+        "pm10": "9.2 μg/m³",
+        "pm25": "7.9 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "71",
-        "updatedAt": "2026-05-17 14:00"
+        "airQualityIndex": "70",
+        "updatedAt": "2026-05-17 16:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "27.9°C",
-        "feelsLike": "31.1°C",
-        "highLow": "최고 27.9° / 최저 12.2°",
-        "humidity": "50%",
-        "wind": "7.1 m/s",
+        "temperature": "26.5°C",
+        "feelsLike": "27.4°C",
+        "highLow": "최고 28.9° / 최저 12.2°",
+        "humidity": "57%",
+        "wind": "11.7 m/s",
         "rainChance": "0%",
-        "pm10": "16.2 μg/m³",
-        "pm25": "13.0 μg/m³",
+        "pm10": "14.8 μg/m³",
+        "pm25": "12.0 μg/m³",
         "airQuality": "나쁨",
         "airQualityIndex": "70",
-        "updatedAt": "2026-05-17 14:00"
+        "updatedAt": "2026-05-17 16:30"
       }
     ]
   },
@@ -272,15 +272,15 @@ window.DASHBOARD_DATA = {
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,964원/L",
+        "lowestPrice": "1,967원/L",
         "lowestDistrict": "금천구",
-        "stationName": "(주)백운주유소",
-        "address": "서울 금천구 시흥대로 282",
-        "updatedAt": "2026-05-16 14:59:53",
+        "stationName": "(주)화동유업 화동주유소",
+        "address": "서울 금천구 시흥대로 484",
+        "updatedAt": "2026-05-16 00:10:45",
         "districtSamples": [
           {
             "district": "금천구",
-            "price": "1,964원/L"
+            "price": "1,967원/L"
           },
           {
             "district": "동작구",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "(주)유카스에너지 김포뉴타운",
-        "address": "경기 김포시 양촌읍 김포대로 1581",
-        "updatedAt": "2026-05-14 10:48:39",
+        "stationName": "경일석유㈜찬빛주유소",
+        "address": "경기 김포시 통진읍 김포대로 1999",
+        "updatedAt": "2026-05-15 04:46:28",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "김병수 김포시장 후보 캠프, AI 활용 성과 검증 콘텐츠 공개",
+      "title": "선대위 발족식에서 연설하는 한동훈 후보",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wc2RxMW9nRXprMkVRaWZSQldjR3l5UnBidElTdWJBZjcybUNiQTd4c0FoSWFkbHZNY2ZFOHg5MHlkWnp4dG83QWloUzFQT1J0dFZR?oc=5",
-      "publishedAt": "Sun, 17 May 2026 04:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OclN5d2VKVGxaMlpTMTRBVXpXSHFZUmxXbi00WWZGbDV0cy1GbjFoNE1uYlk3Z1hCN2t1UzVodEI2cEUzX0VrX0g3QXI0VUdsRlM0cW1pUEw3MTVfVGtGZw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 07:29:00 GMT"
     },
     {
-      "title": "\"글로벌 불균형 해서 위해 주요국·개도국 힘 모아야\"",
+      "title": "짐 옮기는 北 내고향여자축구단",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52VFR3cC1VMlpNNzFQdUp6VjBqSjliQUpyY3NNbm1jWWpoRjFFZy1PcVhEQ0poUVVpNTd6R2V1Sy1GSm9oeTJHbXJiRFFOSTlGdGdj?oc=5",
-      "publishedAt": "Sun, 17 May 2026 04:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KcG1YNkxmSWE1Y3JIYmhnUDJuUWVZclZhYnMxNkZXX2NCOWZiVk1JYXdHdEk3dzVSQlEzUVlDSlBEaUY4cmR5YzRGOXh5TkFQU3BiWHVmeWdBTWFiSG5TMQ?oc=5",
+      "publishedAt": "Sun, 17 May 2026 07:31:00 GMT"
     },
     {
-      "title": "경찰, '정청래 겨냥 SNS 테러모의' 수사·신변보호 착수",
+      "title": "소상공인단체 정책 전달받는 정원오 후보",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYYmdUYmUyUWlhUmJBTk1iZE9KSU5sN1BPTy1LT2dfcmpBaTFNQm9DamZhTE91VnVIOUtIZ05TZGMwTEpKTTJxMzNYRzhXei1POGxN?oc=5",
-      "publishedAt": "Sun, 17 May 2026 04:58:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSbHR0SGRRSnBGbDA5R0Y5enBpRy10SGNNaXN5eTNWNGxhUjNnUjIxNmlOVHh2YUp0Wk9uWVpZamVvLU4tUTRXOFFXUDVJY0VtUWhHUURtN01GcFY3TUw5NQ?oc=5",
+      "publishedAt": "Sun, 17 May 2026 07:04:00 GMT"
     },
     {
-      "title": "트레이딩 앞지르는 '신사업'…K상사 턴어라운드 가속",
+      "title": "윤용근 후보에게 운동화 선물하는 장동혁 대표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oUVNUNDZ5ZG9CN0ZpcHFQTlByOGVtSkFzVUFMUUxFc2xpN1ZoOUFUTUt1eDY3bWxyMjA1Y2MwM2E4WXljUE1UWlp4cFdlY0Vqc2p3?oc=5",
-      "publishedAt": "Sun, 17 May 2026 04:52:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVUVhfZndpMVRGTzhaaThJYmVVS2RrTktQTXNVMDdvdEg5YjVON09VdTlzTnU2TDJQUGpzdEdVR3JmdExoU1hlTzZrTUoydGdoZGpz?oc=5",
+      "publishedAt": "Sun, 17 May 2026 07:04:00 GMT"
     },
     {
-      "title": "김태흠, \"비바람이 몰아쳐도 가장 선봉에 서서 싸우겠다\"",
+      "title": "윤용근 후보에게 축하인사 전하는 장동혁 대표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53RGxrakZDOW9DdVc5Q0V6dXNnZEJZVS1sQ1h5STFzVUFBVGVGS1JPcTBBbUQzLUFyY3FJNXBoTmJvV1dFV1VRTzQ0THp1NDVYUEFpdU1yWTVEdWpwWkpwZw?oc=5",
-      "publishedAt": "Sun, 17 May 2026 05:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlTXpYekl6RWhVN1NsLU9oWmlTTHF2cWxESFNhOXNrd055YzFGaGtod0ZkLWtsWERhUGNaUEZxMFBhRWMtdU9xcW0yY3ZTVVVFa3cw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 07:04:00 GMT"
     },
     {
-      "title": "\"학창 시절 가장 힘들었던 때는 고1\"…행복도 최저",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fVndPQngzdlpWSjJMZmdNWXJvYmJnWC13eVpxRUlhRF81blFuNFQzd2o0Wng5MXNxTi1QZ1JMYTRndDJPM3J1LUdWOXJtcnhjaFBj?oc=5",
-      "publishedAt": "Sun, 17 May 2026 04:57:00 GMT"
+      "title": "“잘 사면 따블인데, 연10% 이자 쯤이야”…빚투 광풍에 증권사 이자수익 6천억",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzSVgtbzZsbWNCcDZ3WGVHQlZkTzI4SmhwVkxWMmVPTVhUalVHVlEzTUdQZEJJdE0yQ2FVRU4wbkRraW56dFVHanU1Q1NMWTRrWnpQa0pIUXZlTmdNMXUyRw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 07:01:11 GMT"
     },
     {
-      "title": "호르무즈 막히자 사막 횡단 트럭 행렬…중동 물류비 '사상 최고'",
+      "title": "[포토]방중 일정 마치고 美백악관 복귀한 트럼프",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaMGViOTF3Y3c1aDhETUtpblV1UjdFdG9wdUdXbmFMaGEzdnhxTk1CVHFLRnhsWW5EeUt6djllaG9FZzlCMGRtSWtueUFWaEtSZVZV?oc=5",
-      "publishedAt": "Sun, 17 May 2026 04:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42MjAwNlNSajJMTklYbkJiRENSaXhBbUlkdDdOZ21mNUxSQ0QxMnhFcVRqVFpGTWxRbEl6NmZOZnQtOWpXeDBsb1pqNEV1MlRVTnZ3ZmNoanM4cGtBS3FsQw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 06:47:00 GMT"
     },
     {
-      "title": "'서울내집' 부동산 공약 발표하는 오세훈 후보",
+      "title": "대화하는 장동혁 대표와 윤용근 후보",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YbnBHRTV6SUVZMVNIYVdrVnhFMEtDMnAtOUw1MXNVaDZ3MW4wZlZ6ajFvdFN6NU9MUkcxZlVLR3NLVHNlNjlTQ040QlQ2el82MmVr?oc=5",
-      "publishedAt": "Sun, 17 May 2026 04:19:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUlpJc0xfTDU5bWYwU0lVMjNkY3pYTW5nMEI3R1FqeUlGSFVnUldOSnZqcUtHVllNMlBvVU9rNmVBczRscEwtVWwzbnB1OGUwdmdnTnJNRzJaakZDcTUtbw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 06:53:00 GMT"
     },
     {
-      "title": "\"월급 줄 돈도 없다\"…홈플러스, 메리츠에 긴급자금 요청",
+      "title": "한화생명금융서비스 2026 연도대상' 개최",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldHNpRTRfNHJMSTRyQ0lQN0xXSmZ1ZmpxNXByU1FVZ3BqQWJkdWxXLTR4SlUtUXMxME5zUjRFbUxvTThXaWZvSEFsRmpBSU9NYmZz?oc=5",
-      "publishedAt": "Sun, 17 May 2026 04:48:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5bDlfOFl4dThReGtNTTVWMDR2aGsySmVOR04zWXJjTWJJTno3NFFFZDY0NjAwUmZtR3BEeG9qeDlnOFRIMERMNVVqaTk2Vmg1bkdr?oc=5",
+      "publishedAt": "Sun, 17 May 2026 07:28:00 GMT"
     },
     {
-      "title": "천안 소상공인 등 146명, 장기수 후보 지지 선언",
+      "title": "[포토] 김현수 '행운의 2타점'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xNGxwUTVnX0hWWlF3SERkUUE1Mm5GdGU4S1p4aEVZTGZpRUVRdmNDQjF5NnBuazB3V244c1lKMjlGNkNJTmdkZ2lQdGlZa2ZGVnI4?oc=5",
-      "publishedAt": "Sun, 17 May 2026 04:39:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56V1U2UEJNeS04T3FPaHVtdGJ6TzNVaXJVOXlJMEJZT0J2MHFJanlTUjNMS2tkSUVGUHpOM3pybXlwX0J5Y1dacXRVUXluaG1fcGV0MWxn?oc=5",
+      "publishedAt": "Sun, 17 May 2026 07:31:00 GMT"
     }
   ],
   "sources": [
