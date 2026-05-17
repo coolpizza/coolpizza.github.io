@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T19:45:45.475868+09:00",
+  "generatedAt": "2026-05-17T20:45:51.746989+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "20.9°C",
-        "feelsLike": "21.2°C",
-        "highLow": "최고 26.3° / 최저 11.2°",
-        "humidity": "59%",
-        "wind": "4.0 m/s",
+        "temperature": "19.5°C",
+        "feelsLike": "19.9°C",
+        "highLow": "최고 26.5° / 최저 11.2°",
+        "humidity": "65%",
+        "wind": "2.9 m/s",
         "rainChance": "0%",
-        "pm10": "14.6 μg/m³",
-        "pm25": "13.2 μg/m³",
+        "pm10": "45.6 μg/m³",
+        "pm25": "36.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-17 19:30"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-17 20:30"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "16.1°C",
-        "feelsLike": "16.4°C",
-        "highLow": "최고 22.4° / 최저 11.8°",
-        "humidity": "86%",
-        "wind": "6.2 m/s",
+        "temperature": "15.0°C",
+        "feelsLike": "15.2°C",
+        "highLow": "최고 22.5° / 최저 11.8°",
+        "humidity": "91%",
+        "wind": "6.4 m/s",
         "rainChance": "0%",
-        "pm10": "14.6 μg/m³",
-        "pm25": "13.2 μg/m³",
+        "pm10": "45.6 μg/m³",
+        "pm25": "36.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-17 19:30"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-17 20:30"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "18.6°C",
-        "feelsLike": "19.6°C",
+        "temperature": "17.2°C",
+        "feelsLike": "17.8°C",
         "highLow": "최고 24.5° / 최저 11.3°",
-        "humidity": "79%",
-        "wind": "4.4 m/s",
+        "humidity": "83%",
+        "wind": "5.4 m/s",
         "rainChance": "0%",
-        "pm10": "14.6 μg/m³",
-        "pm25": "13.2 μg/m³",
+        "pm10": "45.6 μg/m³",
+        "pm25": "36.7 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-17 19:30"
+        "airQualityIndex": "77",
+        "updatedAt": "2026-05-17 20:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "19.0°C",
-        "feelsLike": "19.5°C",
-        "highLow": "최고 28.9° / 최저 12.2°",
-        "humidity": "75%",
-        "wind": "6.4 m/s",
+        "temperature": "17.5°C",
+        "feelsLike": "18.2°C",
+        "highLow": "최고 28.5° / 최저 12.2°",
+        "humidity": "82%",
+        "wind": "5.4 m/s",
         "rainChance": "0%",
-        "pm10": "12.3 μg/m³",
-        "pm25": "10.6 μg/m³",
+        "pm10": "40.7 μg/m³",
+        "pm25": "34.0 μg/m³",
         "airQuality": "나쁨",
-        "airQualityIndex": "69",
-        "updatedAt": "2026-05-17 19:30"
+        "airQualityIndex": "76",
+        "updatedAt": "2026-05-17 20:30"
       }
     ]
   },
@@ -348,9 +348,9 @@
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,979원/L",
         "lowestDistrict": "김포시",
-        "stationName": "(주)무진에너지 서김포IC주유소",
-        "address": "경기 김포시 양촌면 김포대로 1634",
-        "updatedAt": "2026-05-17 17:56:42",
+        "stationName": "동일석유㈜김포대로주유소",
+        "address": "경기도 김포시 통진읍 김포대로 1937",
+        "updatedAt": "2026-05-17 17:58:25",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "Italian Serie A Soccer",
+      "title": "FRANCE CANNES FILM FESTIVAL 2026",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVNlFUS0JLQ1dWVkE5d0N0WW5ROHB3X2RqeGRuR3UxOWZ0QXMwbDRuV3p5NjdkUFA4LVlaLWduQTVXb052M1FiNTN4RjQtZFF2eXdRWlEzSEtEVjdWcTE3bw?oc=5",
-      "publishedAt": "Sun, 17 May 2026 10:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sZ05JdzZ2MWRKYVRMaGRfQlpEbGJFWXU1RnVCcGJmZWlZLUxNMnU1RzB2SEhGODdzVm5meFczLUxxNnhOZV82SDVGTFU4Mnk3ZzhNdF9NOEUtVk1lS2tEQg?oc=5",
+      "publishedAt": "Sun, 17 May 2026 11:33:00 GMT"
     },
     {
-      "title": "Vatican Pope",
+      "title": "윤수봉 전북도의원, 완주한별고 노후시설 점검",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HNUdBT2MwTUFXaUNhNVNNSC1KM25rdVVEa0lCMDZ3QkpkSXM5ZkxfRGlfVjU0OTBzbWJfS2toR0RmSHFHTGZVNXh1NjNmSnFtQm5iZ3FFNEhxWUZfUWZMUQ?oc=5",
-      "publishedAt": "Sun, 17 May 2026 10:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTkhMdkpFQjRxZ0ZWeDNseXNzNWpfT3JQM2pXRzRvNnY5dnZLT3dEdTF6bTQyeExuNVVnUTVsbndKdFNpRHBZV3FMdHBPUHduWHZZUWRUWXdrMWZqTi1LcQ?oc=5",
+      "publishedAt": "Sun, 17 May 2026 11:26:00 GMT"
     },
     {
-      "title": "EU Hantavirus Ship",
+      "title": "\"성인이 됐어요\" 한복 입고 덩실덩실[포토뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DV1M3dGdpYmdqSDF3VzNVRnB0LVdDN1FYdHFFMGJYZF9PbHNZOXNSMnZ4UDNILWkwVm1sMktvZFk5UWFHV3pFaDhjd2JGRDRrWHBNODR5ZU5VLV9ndW5FRw?oc=5",
-      "publishedAt": "Sun, 17 May 2026 10:24:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Kcnh3LUJYQ0NmV1hFUXRVZHBDb1A1X3dMWDVocG1nWkhQXzZxbzBBYXB1aWoyRk9XcHdDMGl6VUdUWU1laFN0dFhsN0c2N0RaTWY2dmRMbHkyZEFXWGNWOA?oc=5",
+      "publishedAt": "Sun, 17 May 2026 11:12:00 GMT"
     },
     {
-      "title": "epaselect SPAIN ANDALUSIAN ELECTIONS",
+      "title": "흥겨운 연등놀이",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HMmNpZDZFcFVLbENTaTZOUGNHUi0wenEwSFAtaVk1TzV4WTRFRVFWaDNPNUpWSG5OdWEyc20wWU1sYkVScU02RVdEc01Md0JVNkhBQ1BUOUV5Nm5QNkR6dg?oc=5",
-      "publishedAt": "Sun, 17 May 2026 10:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91YXo0QU1heUZzb0dtdFNGcFlVYXRveUxXNWFuVkVjRXZzczRqY1Vqa2k1a3Yta2FvN2NPNENkYnJpNXZzbnBkR216dThPaU4tZlRVWnRWWk85UDh1WWZBZg?oc=5",
+      "publishedAt": "Sun, 17 May 2026 10:47:00 GMT"
     },
     {
-      "title": "epaselect SPAIN ANDALUSIAN ELECTIONS",
+      "title": "트럼프 몽니에…커지는 나토 '안보 자강론'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ldThCSGQ2QTdrSVoxZnV3eHBuNFdIRVJSSXZ6VGU3RTU4bnloSzlXVTc3SHA5bXJ6XzlQblE4R0JvbTBhVmhBeTBQTVQ5YnFfWmtDcFBkbnQzTGdMamFfQw?oc=5",
-      "publishedAt": "Sun, 17 May 2026 10:25:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UWmNqVTBVcGdzZXhrYndqeC1QOGo3c0x4Y3ZwcE1YTnVUSHdEZ29lNVk5YnQ2ZThDMEtXY1NQNVFLNlRxa2dUWGs2Q090a1plWGYxNDY4S25FbG9hMmRnQw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 11:32:00 GMT"
     },
     {
-      "title": "[단독] 인권위원장이 5·18 기념식 불참…안창호 스스로 참석 안 하기로",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwY0h0dk5YUlM4SS1CaHJnRUFVNzdKZnliRVhQVzJ0SlM4dHVnRWRoWmE2bFp2RHlSeG1wT2xpRFZlbGM2RUo4RmRfQUlxZUZmV3IxOVhDOFF6UzlFdThldXFOdHRNTE9yTUZXSm5ySUV6Zw?oc=5",
-      "publishedAt": "Sun, 17 May 2026 10:09:00 GMT"
+      "title": "전남 나주 주택서 화재…70대 여성 심정지 이송",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OQjhTX0c5WmV4bW1NYlJmRzhhMVgwRDdCdlRvaHpuSWFoZ3lKX3pxdEU0dy10UjlDaFFTTXlIbnNaeUp3SkRuczJmUUpnYkZpcl9RZlA4X3JyVDg2WHVQVg?oc=5",
+      "publishedAt": "Sun, 17 May 2026 11:37:00 GMT"
     },
     {
-      "title": "트럼프 “대만 무기판매, 좋은 협상 칩”…“한국도 불안케 하는 발언”",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nMjRlLWNZbVdGMll3MUNuQ25wVDBnbjVOTnZUTXo4WFFiZC1Td0tVc0kteEw0QUs5THExQVVBdnVqSUZ0NkZVM05FNkpMdHFpZjNjUmhIb0lKYzk3SlZnT3VGOF9qVU8tNV9pQ2o3RQ?oc=5",
-      "publishedAt": "Sun, 17 May 2026 10:05:00 GMT"
+      "title": "[재테크 특집] 만성질환 진단 후에도 건강·생활관리 지원",
+      "source": "세계일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nOExEdG9tQkN4dDctdk9JSl91ZkRQLTV1Q0FyVWtwcWtReGtDU0Z3NWFQbWpPS0dNZjFkd29CbXBJTEs4TUtJc1VUNXBlNzVOS3FBVkh6LXM4NVJOejhOcGhhQjF2MFR2c3pj0gFUQVVfeXFMTm5COHpUZnoxcGFJUklINGpzT1N4UGY1VThWZk5RLVRuc082V1laRThqX0R6SlFlN1RwS1JMbmw3ZGJNejFRR2ZMZm1Gdnk5QnNVTlV0?oc=5",
+      "publishedAt": "Sun, 17 May 2026 11:13:40 GMT"
     },
     {
       "title": "또 전운 고조…트럼프 ‘번개 치는 호르무즈’ vs 이란 ‘통행료 압박’",
       "source": "한겨레",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUsydFBCSzByN3lZWTNmMzVSTGx1a3ZTemdERmdJdHc4T3Q2aUJtQ0otaUtGTF9WSHF1aE54a0xFM05Kdk5kMWduSm1USlkxR3dicVF3QjlpWGZNRE9wRmRfQ3RwU2gtZlE2NkplOFk1azVwSzJ3Tm9TS0pyMW5ucld3?oc=5",
-      "publishedAt": "Sun, 17 May 2026 10:04:00 GMT"
+      "publishedAt": "Sun, 17 May 2026 11:13:00 GMT"
     },
     {
-      "title": "외교부 “나무호 피격, 이란에 사실관계 입장 요구”",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hNDRsalJEMktQWTBMUUVJbXdlS3RFUllybE5wUHJkVzNpRE1nRGdwaXMwRnlfSDZqR1ZuY252TzM0MDZvRldwZW5zX3N6UUlVSkJxdDluVUwzZ9IBX0FVX3lxTE1xcjQ4Qk5JTTAxaF8yWkhrNWc0U0ZzZGFrWDBTQ0t6anNwa2VHM0sxeFF4SDM2eXF5UGw2aERkOXN6QUNaZk96UXkxMXFIVExJOURSVS1rWnY4ZDh3OV9z?oc=5",
-      "publishedAt": "Sun, 17 May 2026 09:56:00 GMT"
+      "title": "더 위쳐 2: 어쌔신 오브 킹즈가 출시 15주년을 맞이했습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWczaFlzNDBEd0Z2MlVucmdSdmpYd1ota2FBcG1PX2JadS04S0dtT2oxb1pXNTNiYU9fVkFSRVhfZVg1NXMyakN6OFg1VDE0eGExcEFXT0lRTVJSRWNHamtMUTA3dVZLZzBWZWo2dTlLMWd0UGh6aUhXSlM0MGt5enp2WTA5dE1OMzYzSWpZczlSekliajJ3dkhSVWhIVWl1NUFZLWtn?oc=5",
+      "publishedAt": "Sun, 17 May 2026 11:08:13 GMT"
     },
     {
-      "title": "삼전 노조 4만명 사내 프로필 “파업”…혼돈의 삼성 내부, 봉합 이뤄질까",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MOXJ6N1lGMHFObGFBZkJLa0hEVDU4Yk1XZ3JHWEoyRWxTZUx1ejlZOVZObTgzTGdHTDNBa3pNVWJOQ2tfTV9PU1hTYTBieHlSZkRJQ0g2eWFVcEYwV2hILQ?oc=5",
-      "publishedAt": "Sun, 17 May 2026 09:08:00 GMT"
+      "title": "[날씨] 낮 최고 34도 더위…대체로 맑고 일교차 커",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xbllJdGRrTVYxR0NiWkRYSmRxT1VrWEg2WDZEc0hVRWRieVRhbEM1b0J4TUF0YUhobU14b0pES2RYLURiWlo5eGN0OXRHRlQyUnF0TGJTV24zQVnSAWBBVV95cUxQY205cUJtN3hCTDZiLU9Wdk9qaVR0NFBlbmk4NlJPMXRsQVUzSGhCRXNHYWcwRVZIbFdBSHdzMnhLWmFpc25DYVIyVS1IRnlnaS1tSFQ4SXQ4Rl9wcC1XR2U?oc=5",
+      "publishedAt": "Sun, 17 May 2026 11:00:02 GMT"
     }
   ],
   "sources": [
