@@ -1,134 +1,134 @@
 {
-  "generatedAt": "2026-05-17T20:45:51.746989+09:00",
+  "generatedAt": "2026-05-27T21:46:24.657285+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "7,493.18",
-      "change": "-488.23",
-      "changePercent": "-6.12%",
-      "direction": "down",
-      "updatedAt": "2026-05-15 17:09"
+      "value": "8,228.70",
+      "change": "+181.19",
+      "changePercent": "+2.25%",
+      "direction": "up",
+      "updatedAt": "2026-05-27 21:45"
     },
     {
       "label": "코스닥",
-      "value": "1,129.82",
-      "change": "-61.27",
-      "changePercent": "-5.14%",
+      "value": "1,133.13",
+      "change": "-39.39",
+      "changePercent": "-3.36%",
       "direction": "down",
-      "updatedAt": "2026-05-15 17:09"
+      "updatedAt": "2026-05-27 21:45"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "49,526.17",
-      "change": "-537.29",
-      "changePercent": "-1.07%",
+      "value": "50,461.68",
+      "change": "-118.02",
+      "changePercent": "-0.23%",
       "direction": "down",
-      "updatedAt": "2026-05-16 05:07"
+      "updatedAt": "2026-05-27 05:20"
     },
     {
       "label": "S&P 500",
-      "value": "7,408.50",
-      "change": "-92.74",
-      "changePercent": "-1.24%",
-      "direction": "down",
-      "updatedAt": "2026-05-16 05:12"
+      "value": "7,519.12",
+      "change": "+45.65",
+      "changePercent": "+0.61%",
+      "direction": "up",
+      "updatedAt": "2026-05-27 05:43"
     },
     {
       "label": "나스닥",
-      "value": "26,225.15",
-      "change": "-410.07",
-      "changePercent": "-1.54%",
-      "direction": "down",
-      "updatedAt": "2026-05-16 05:07"
+      "value": "26,656.18",
+      "change": "+312.21",
+      "changePercent": "+1.19%",
+      "direction": "up",
+      "updatedAt": "2026-05-27 05:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,500.00",
-      "change": "+6.50",
-      "changePercent": "+0.44%",
-      "direction": "up",
-      "updatedAt": "2026-05-15 22:08"
+      "value": "1,497.00",
+      "change": "-10.50",
+      "changePercent": "-0.70%",
+      "direction": "down",
+      "updatedAt": "2026-05-27 21:44"
     },
     {
       "label": "100엔/원",
-      "value": "944.73",
-      "change": "+1.89",
-      "changePercent": "+0.20%",
-      "direction": "up",
-      "updatedAt": "2026-05-15 22:08"
+      "value": "939.32",
+      "change": "-7.07",
+      "changePercent": "-0.75%",
+      "direction": "down",
+      "updatedAt": "2026-05-27 21:44"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "19.5°C",
-        "feelsLike": "19.9°C",
-        "highLow": "최고 26.5° / 최저 11.2°",
-        "humidity": "65%",
-        "wind": "2.9 m/s",
-        "rainChance": "0%",
-        "pm10": "45.6 μg/m³",
-        "pm25": "36.7 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-17 20:30"
+        "summary": "약한 이슬비",
+        "temperature": "18.2°C",
+        "feelsLike": "19.8°C",
+        "highLow": "최고 22.9° / 최저 18.0°",
+        "humidity": "91%",
+        "wind": "5.3 m/s",
+        "rainChance": "100%",
+        "pm10": "14.2 μg/m³",
+        "pm25": "14.2 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "34",
+        "updatedAt": "2026-05-27 21:45"
       },
       {
         "location": "김포",
-        "summary": "흐림",
-        "temperature": "15.0°C",
-        "feelsLike": "15.2°C",
-        "highLow": "최고 22.5° / 최저 11.8°",
-        "humidity": "91%",
-        "wind": "6.4 m/s",
-        "rainChance": "0%",
-        "pm10": "45.6 μg/m³",
-        "pm25": "36.7 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-17 20:30"
+        "summary": "강한 이슬비",
+        "temperature": "18.1°C",
+        "feelsLike": "19.7°C",
+        "highLow": "최고 21.0° / 최저 17.9°",
+        "humidity": "95%",
+        "wind": "6.6 m/s",
+        "rainChance": "99%",
+        "pm10": "14.2 μg/m³",
+        "pm25": "14.2 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "34",
+        "updatedAt": "2026-05-27 21:45"
       },
       {
         "location": "파주",
-        "summary": "흐림",
-        "temperature": "17.2°C",
-        "feelsLike": "17.8°C",
-        "highLow": "최고 24.5° / 최저 11.3°",
-        "humidity": "83%",
-        "wind": "5.4 m/s",
-        "rainChance": "0%",
-        "pm10": "45.6 μg/m³",
-        "pm25": "36.7 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "77",
-        "updatedAt": "2026-05-17 20:30"
+        "summary": "강한 이슬비",
+        "temperature": "18.0°C",
+        "feelsLike": "19.9°C",
+        "highLow": "최고 20.2° / 최저 17.8°",
+        "humidity": "95%",
+        "wind": "4.8 m/s",
+        "rainChance": "88%",
+        "pm10": "14.2 μg/m³",
+        "pm25": "14.2 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "34",
+        "updatedAt": "2026-05-27 21:45"
       },
       {
         "location": "익산",
-        "summary": "흐림",
-        "temperature": "17.5°C",
-        "feelsLike": "18.2°C",
-        "highLow": "최고 28.5° / 최저 12.2°",
-        "humidity": "82%",
-        "wind": "5.4 m/s",
-        "rainChance": "0%",
-        "pm10": "40.7 μg/m³",
-        "pm25": "34.0 μg/m³",
-        "airQuality": "나쁨",
-        "airQualityIndex": "76",
-        "updatedAt": "2026-05-17 20:30"
+        "summary": "약한 이슬비",
+        "temperature": "21.4°C",
+        "feelsLike": "24.9°C",
+        "highLow": "최고 26.2° / 최저 19.2°",
+        "humidity": "95%",
+        "wind": "4.3 m/s",
+        "rainChance": "71%",
+        "pm10": "15.2 μg/m³",
+        "pm25": "15.1 μg/m³",
+        "airQuality": "보통",
+        "airQualityIndex": "31",
+        "updatedAt": "2026-05-27 21:45"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 5월 17일 (일)",
+    "todayLabel": "2026년 5월 27일 (수)",
     "areas": [
       {
         "region": "서울",
@@ -170,17 +170,17 @@
         "chains": [
           {
             "label": "이마트",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "05/13(수), 05/27(수)",
-            "updatedAt": "2026-05-14 00:18"
+            "updatedAt": "2026-05-27 21:45"
           },
           {
             "label": "롯데마트",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "05/13(수), 05/27(수)",
-            "updatedAt": "2026-05-14 00:18"
+            "updatedAt": "2026-05-27 21:45"
           },
           {
             "label": "홈플러스",
@@ -204,31 +204,31 @@
         "chains": [
           {
             "label": "이마트",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "05/13(수), 05/27(수)",
-            "updatedAt": "2026-05-14 00:18"
+            "updatedAt": "2026-05-27 21:45"
           },
           {
             "label": "롯데마트",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "05/13(수), 05/27(수)",
-            "updatedAt": "2026-05-14 00:18"
+            "updatedAt": "2026-05-27 21:45"
           },
           {
             "label": "홈플러스",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "05/13(수), 05/27(수)",
-            "updatedAt": "2026-05-14 00:18"
+            "updatedAt": "2026-05-27 21:45"
           },
           {
             "label": "코스트코",
-            "todayClosed": false,
-            "todayStatus": "오늘 영업",
+            "todayClosed": true,
+            "todayStatus": "오늘 휴업",
             "holidayText": "05/13(수), 05/27(수)",
-            "updatedAt": "2026-05-14 00:18"
+            "updatedAt": "2026-05-27 21:45"
           }
         ]
       },
@@ -272,61 +272,61 @@
     "areas": [
       {
         "areaLabel": "서울 최저가",
-        "lowestPrice": "1,964원/L",
+        "lowestPrice": "1,967원/L",
         "lowestDistrict": "금천구",
         "stationName": "(주)백운주유소",
         "address": "서울 금천구 시흥대로 282",
-        "updatedAt": "2026-05-17 17:58:24",
+        "updatedAt": "2026-05-27 17:59:45",
         "districtSamples": [
           {
             "district": "금천구",
-            "price": "1,964원/L"
+            "price": "1,967원/L"
           },
           {
             "district": "동작구",
             "price": "1,969원/L"
           },
           {
-            "district": "양천구",
-            "price": "1,969원/L"
-          },
-          {
-            "district": "강서구",
-            "price": "1,979원/L"
-          },
-          {
             "district": "송파구",
-            "price": "1,981원/L"
+            "price": "1,973원/L"
+          },
+          {
+            "district": "서초구",
+            "price": "1,978원/L"
+          },
+          {
+            "district": "양천구",
+            "price": "1,978원/L"
           }
         ]
       },
       {
         "areaLabel": "인천 최저가",
-        "lowestPrice": "1,969원/L",
-        "lowestDistrict": "부평구",
-        "stationName": "제일주유소",
-        "address": "인천 부평구  장제로 151 (부평동)",
-        "updatedAt": "2026-05-14 08:11:48",
+        "lowestPrice": "1,960원/L",
+        "lowestDistrict": "서구",
+        "stationName": "차오름에너지㈜",
+        "address": "인천 서구 봉수대로 1248 (왕길동)",
+        "updatedAt": "2026-05-27 17:59:04",
         "districtSamples": [
+          {
+            "district": "서구",
+            "price": "1,960원/L"
+          },
+          {
+            "district": "미추홀구",
+            "price": "1,967원/L"
+          },
+          {
+            "district": "남동구",
+            "price": "1,969원/L"
+          },
           {
             "district": "부평구",
             "price": "1,969원/L"
           },
           {
-            "district": "서구",
-            "price": "1,975원/L"
-          },
-          {
-            "district": "남동구",
-            "price": "1,978원/L"
-          },
-          {
-            "district": "미추홀구",
-            "price": "1,979원/L"
-          },
-          {
-            "district": "중구",
-            "price": "1,980원/L"
+            "district": "동구",
+            "price": "1,972원/L"
           }
         ]
       },
@@ -334,9 +334,9 @@
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,977원/L",
         "lowestDistrict": "익산시",
-        "stationName": "㈜한영 부송지점",
-        "address": "전북 익산시 무왕로 1277",
-        "updatedAt": "2026-05-13 05:30:07",
+        "stationName": "오일스타㈜익산지점 착한8주유소",
+        "address": "전북 익산시 용동면 익산대로 2538",
+        "updatedAt": "2026-05-27 17:51:17",
         "districtSamples": [
           {
             "district": "익산시",
@@ -346,29 +346,29 @@
       },
       {
         "areaLabel": "김포 최저가",
-        "lowestPrice": "1,979원/L",
+        "lowestPrice": "1,974원/L",
         "lowestDistrict": "김포시",
-        "stationName": "동일석유㈜김포대로주유소",
-        "address": "경기도 김포시 통진읍 김포대로 1937",
-        "updatedAt": "2026-05-17 17:58:25",
+        "stationName": "김포감정주유소",
+        "address": "경기 김포시 김포대로 1135",
+        "updatedAt": "2026-05-27 17:57:18",
         "districtSamples": [
           {
             "district": "김포시",
-            "price": "1,979원/L"
+            "price": "1,974원/L"
           }
         ]
       },
       {
         "areaLabel": "파주 최저가",
-        "lowestPrice": "1,977원/L",
+        "lowestPrice": "1,973원/L",
         "lowestDistrict": "파주시",
-        "stationName": "(주)케이에스엠 한빛셀프주유소",
-        "address": "경기 파주시 문산읍 방촌로 1613",
-        "updatedAt": "2026-05-15 07:58:09",
+        "stationName": "파주경인주유소 ㈜티에이치에너지",
+        "address": "경기 파주시 조리읍 통일로 124",
+        "updatedAt": "2026-05-27 17:59:28",
         "districtSamples": [
           {
             "district": "파주시",
-            "price": "1,977원/L"
+            "price": "1,973원/L"
           }
         ]
       }
@@ -376,64 +376,64 @@
   },
   "news": [
     {
-      "title": "FRANCE CANNES FILM FESTIVAL 2026",
+      "title": "경기 평택을 후보 초청 토론회",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sZ05JdzZ2MWRKYVRMaGRfQlpEbGJFWXU1RnVCcGJmZWlZLUxNMnU1RzB2SEhGODdzVm5meFczLUxxNnhOZV82SDVGTFU4Mnk3ZzhNdF9NOEUtVk1lS2tEQg?oc=5",
-      "publishedAt": "Sun, 17 May 2026 11:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84R0IzME5FN2UyUlgwWDRsY3FxSjZYSkFyQ1hfTWNOeDNYRGNDaE5OblIyRkwzbjlnSllzYktIZmxzemsxQmNXeEMtUS1uWlgxS1Zz?oc=5",
+      "publishedAt": "Wed, 27 May 2026 12:08:00 GMT"
     },
     {
-      "title": "윤수봉 전북도의원, 완주한별고 노후시설 점검",
+      "title": "출국하기 전 투표하세요~[포토뉴스]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTkhMdkpFQjRxZ0ZWeDNseXNzNWpfT3JQM2pXRzRvNnY5dnZLT3dEdTF6bTQyeExuNVVnUTVsbndKdFNpRHBZV3FMdHBPUHduWHZZUWRUWXdrMWZqTi1LcQ?oc=5",
-      "publishedAt": "Sun, 17 May 2026 11:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91bTRpNXRxOUpCR1pOc09PU3duQ25XUnlXOXh0T1lyTl9WOVJuN2ZtUDBzcXBaSFd2LVFodVliX1hPWDZZWUxudXg0QWlpY0U0T3NrWTdmYzJXT3R0N25YNElwSWVuVW5MQ0ZxdkxIOHp2dXlHeEdCZg?oc=5",
+      "publishedAt": "Wed, 27 May 2026 12:35:00 GMT"
     },
     {
-      "title": "\"성인이 됐어요\" 한복 입고 덩실덩실[포토뉴스]",
+      "title": "충남 청양군수, 3선 도전 vs 보수 탈환",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Kcnh3LUJYQ0NmV1hFUXRVZHBDb1A1X3dMWDVocG1nWkhQXzZxbzBBYXB1aWoyRk9XcHdDMGl6VUdUWU1laFN0dFhsN0c2N0RaTWY2dmRMbHkyZEFXWGNWOA?oc=5",
-      "publishedAt": "Sun, 17 May 2026 11:12:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pLVhpMHNycmRjTFBQcTFLRTd5a2h3V1UzX2pOc3puMy1uYXB1X2hUclZicnZwZzhzZEEzOElidkVfQWhOdVg0WEMxRkVXYWU0VGl2YVF0NEkyeWxaUGltNWVHOUZobHJfV2c?oc=5",
+      "publishedAt": "Wed, 27 May 2026 12:09:00 GMT"
     },
     {
-      "title": "흥겨운 연등놀이",
+      "title": "[미리보는 이데일리 신문]연 8% 이자 걸어도 안 팔리는 'BBB급'",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTC1JMlBFU1pzWW53WG1iQWlKM3N0dFZSUV9TNHZXMmVHOVlZYVlRV0EzaEdvSFBTSlg5V2xzMFF6OWFUZmZycFRsN3JZYUotQjJmNVA3dWJ4NXN3OS1uLVJzMWtNQWYtSjBLRjhWWnBKV0RRNFJHcFZEenFSMkRpWg?oc=5",
+      "publishedAt": "Wed, 27 May 2026 11:56:25 GMT"
+    },
+    {
+      "title": "국민성장펀드, 출시 사흘 만에 99.5% 소진⋯잔여 물량 29억",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TLU1xaHZhMmZzQW1pTXlKUjc3T1kzcEl2NGF6WFFpMDhSQ2JfdHRRVjBPT0FXMTJrbEhvVDQ0YXhfWDFibTVhd3ZrWW5EaFd5bUNabHZRcTBKTm1lUG1rMWYxa0FMaHBsQWgxUWk0OVpCX2k5?oc=5",
+      "publishedAt": "Wed, 27 May 2026 12:39:00 GMT"
+    },
+    {
+      "title": "[포토] 김정운 '갈짓자 역투'",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91YXo0QU1heUZzb0dtdFNGcFlVYXRveUxXNWFuVkVjRXZzczRqY1Vqa2k1a3Yta2FvN2NPNENkYnJpNXZzbnBkR216dThPaU4tZlRVWnRWWk85UDh1WWZBZg?oc=5",
-      "publishedAt": "Sun, 17 May 2026 10:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MMHVQOHY1c2RTc21xUnNOVGYzQjdMdk9FWHVnYzBjVER5enlkQVM3eTVsbkVJZG1wdEQ0UEtKc0pCVld5blJUNHphNGVHR3FDZkRsNVlNSC1FQmVH?oc=5",
+      "publishedAt": "Wed, 27 May 2026 11:50:00 GMT"
     },
     {
-      "title": "트럼프 몽니에…커지는 나토 '안보 자강론'",
+      "title": "프랑스 참전용사 유해 안장식",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UWmNqVTBVcGdzZXhrYndqeC1QOGo3c0x4Y3ZwcE1YTnVUSHdEZ29lNVk5YnQ2ZThDMEtXY1NQNVFLNlRxa2dUWGs2Q090a1plWGYxNDY4S25FbG9hMmRnQw?oc=5",
-      "publishedAt": "Sun, 17 May 2026 11:32:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzeWJyOXFsT2NLa0pGNXhUMWJUVE1wbUd4Rm95aHg2dmxpeFhGQV9zOEVtcTBBU25QLWU1a2QtLVBqX2ItV3NQQ0dCYWtRblZoem93?oc=5",
+      "publishedAt": "Wed, 27 May 2026 12:12:00 GMT"
     },
     {
-      "title": "전남 나주 주택서 화재…70대 여성 심정지 이송",
+      "title": "서울 수서동 하수관 매몰 사고…60대 작업자 숨져",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OQjhTX0c5WmV4bW1NYlJmRzhhMVgwRDdCdlRvaHpuSWFoZ3lKX3pxdEU0dy10UjlDaFFTTXlIbnNaeUp3SkRuczJmUUpnYkZpcl9RZlA4X3JyVDg2WHVQVg?oc=5",
-      "publishedAt": "Sun, 17 May 2026 11:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmeXkxZ2JIaFRid1NsTGpNam5yVkhLang5MWhZWEhodDE3RnVVSktSREplbGJpcDJqSHFqX2ZHa096NkxtOGJselNEWVQ5TWsxVUQw?oc=5",
+      "publishedAt": "Wed, 27 May 2026 11:54:00 GMT"
     },
     {
-      "title": "[재테크 특집] 만성질환 진단 후에도 건강·생활관리 지원",
-      "source": "세계일보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nOExEdG9tQkN4dDctdk9JSl91ZkRQLTV1Q0FyVWtwcWtReGtDU0Z3NWFQbWpPS0dNZjFkd29CbXBJTEs4TUtJc1VUNXBlNzVOS3FBVkh6LXM4NVJOejhOcGhhQjF2MFR2c3pj0gFUQVVfeXFMTm5COHpUZnoxcGFJUklINGpzT1N4UGY1VThWZk5RLVRuc082V1laRThqX0R6SlFlN1RwS1JMbmw3ZGJNejFRR2ZMZm1Gdnk5QnNVTlV0?oc=5",
-      "publishedAt": "Sun, 17 May 2026 11:13:40 GMT"
+      "title": "스벅 논란인데 KBS '탱크' 자막 등장…\"담당자 계약 해지\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OMkZvUk5mSVlXdEk2bWJsT3A0V3FlUi1GQmNaaXNsVERWZEg3RmxVUzFJN0R5MUVsRnRhMXBWY2dzOWJZNVQ1T3RrX24yc1hnUzBz?oc=5",
+      "publishedAt": "Wed, 27 May 2026 12:03:00 GMT"
     },
     {
-      "title": "또 전운 고조…트럼프 ‘번개 치는 호르무즈’ vs 이란 ‘통행료 압박’",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUsydFBCSzByN3lZWTNmMzVSTGx1a3ZTemdERmdJdHc4T3Q2aUJtQ0otaUtGTF9WSHF1aE54a0xFM05Kdk5kMWduSm1USlkxR3dicVF3QjlpWGZNRE9wRmRfQ3RwU2gtZlE2NkplOFk1azVwSzJ3Tm9TS0pyMW5ucld3?oc=5",
-      "publishedAt": "Sun, 17 May 2026 11:13:00 GMT"
-    },
-    {
-      "title": "더 위쳐 2: 어쌔신 오브 킹즈가 출시 15주년을 맞이했습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWczaFlzNDBEd0Z2MlVucmdSdmpYd1ota2FBcG1PX2JadS04S0dtT2oxb1pXNTNiYU9fVkFSRVhfZVg1NXMyakN6OFg1VDE0eGExcEFXT0lRTVJSRWNHamtMUTA3dVZLZzBWZWo2dTlLMWd0UGh6aUhXSlM0MGt5enp2WTA5dE1OMzYzSWpZczlSekliajJ3dkhSVWhIVWl1NUFZLWtn?oc=5",
-      "publishedAt": "Sun, 17 May 2026 11:08:13 GMT"
-    },
-    {
-      "title": "[날씨] 낮 최고 34도 더위…대체로 맑고 일교차 커",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xbllJdGRrTVYxR0NiWkRYSmRxT1VrWEg2WDZEc0hVRWRieVRhbEM1b0J4TUF0YUhobU14b0pES2RYLURiWlo5eGN0OXRHRlQyUnF0TGJTV24zQVnSAWBBVV95cUxQY205cUJtN3hCTDZiLU9Wdk9qaVR0NFBlbmk4NlJPMXRsQVUzSGhCRXNHYWcwRVZIbFdBSHdzMnhLWmFpc25DYVIyVS1IRnlnaS1tSFQ4SXQ4Rl9wcC1XR2U?oc=5",
-      "publishedAt": "Sun, 17 May 2026 11:00:02 GMT"
+      "title": "유병재, '담낭절제술' 후 근황…\"SNS 참 우습다\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMdDJiMXQzVE9nTVNHaXZBbXQyWVJqVWRwY1J6VU9ka0MzQTFhSi1TUk1OVFFleFRWZ0w0WU9YeERfYTV3azYtX09XSVpIeDYtS1NJ?oc=5",
+      "publishedAt": "Wed, 27 May 2026 11:52:00 GMT"
     }
   ],
   "sources": [
