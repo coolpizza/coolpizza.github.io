@@ -15,9 +15,44 @@ const REFRESH_STORAGE_KEY = "xevious-refresh-minutes";
 const DATA_ENDPOINT = "./dashboard-data.json";
 const SCRIPT_DATA_ENDPOINT = "./dashboard-data.js";
 const IS_FILE_PROTOCOL = window.location.protocol === "file:";
+const LIVE_WEATHER_LOCATIONS = [
+    { location: "서울", latitude: 37.5665, longitude: 126.978 },
+    { location: "김포", latitude: 37.6153, longitude: 126.7156 },
+    { location: "파주", latitude: 37.7599, longitude: 126.7802 },
+    { location: "익산", latitude: 35.9483, longitude: 126.9576 }
+];
+const LIVE_WEATHER_REFRESH_MINUTES = 10;
 
 let autoRefreshTimer = 0;
 let viewRenderedAt = new Date();
+let liveWeatherTimer = 0;
+
+const WEATHER_CODE_LABELS = {
+    0: "맑음",
+    1: "대체로 맑음",
+    2: "구름 조금",
+    3: "흐림",
+    45: "안개",
+    48: "짙은 안개",
+    51: "약한 이슬비",
+    53: "이슬비",
+    55: "강한 이슬비",
+    61: "약한 비",
+    63: "비",
+    65: "강한 비",
+    71: "약한 눈",
+    73: "눈",
+    75: "강한 눈",
+    77: "싸락눈",
+    80: "소나기",
+    81: "강한 소나기",
+    82: "매우 강한 소나기",
+    85: "약한 눈 소나기",
+    86: "강한 눈 소나기",
+    95: "뇌우",
+    96: "약한 우박 동반 뇌우",
+    99: "강한 우박 동반 뇌우"
+};
 
 function formatDateTime(isoText) {
     if (!isoText) {
@@ -41,6 +76,23 @@ function currentDataTimestamp() {
 
 function itemSourceTimestamp(item) {
     return item?.updatedAt || null;
+}
+
+function weatherLabel(code) {
+    return WEATHER_CODE_LABELS[code] || "알 수 없음";
+}
+
+function aqiLabel(value) {
+    if (value == null || Number.isNaN(Number(value))) {
+        return "정보 없음";
+    }
+
+    const numeric = Number(value);
+    if (numeric <= 20) return "좋음";
+    if (numeric <= 40) return "보통";
+    if (numeric <= 60) return "나쁨";
+    if (numeric <= 80) return "매우 나쁨";
+    return "매우 나쁨";
 }
 
 function formatPublishedDateTime(text) {
@@ -340,6 +392,93 @@ async function fetchLatestDashboardData() {
     }
 }
 
+async function fetchLiveWeatherArea(area) {
+    const weatherUrl = new URL("https://api.open-meteo.com/v1/forecast");
+    weatherUrl.searchParams.set("latitude", String(area.latitude));
+    weatherUrl.searchParams.set("longitude", String(area.longitude));
+    weatherUrl.searchParams.set("current", "temperature_2m,apparent_temperature,weather_code,wind_speed_10m,relative_humidity_2m");
+    weatherUrl.searchParams.set("daily", "weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max");
+    weatherUrl.searchParams.set("forecast_days", "1");
+    weatherUrl.searchParams.set("timezone", "Asia/Seoul");
+
+    const airUrl = new URL("https://air-quality-api.open-meteo.com/v1/air-quality");
+    airUrl.searchParams.set("latitude", String(area.latitude));
+    airUrl.searchParams.set("longitude", String(area.longitude));
+    airUrl.searchParams.set("current", "european_aqi,pm10,pm2_5");
+    airUrl.searchParams.set("timezone", "Asia/Seoul");
+
+    const [weatherResponse, airResponse] = await Promise.all([
+        fetch(weatherUrl, { cache: "no-store" }),
+        fetch(airUrl, { cache: "no-store" })
+    ]);
+
+    if (!weatherResponse.ok) {
+        throw new Error(`weather HTTP ${weatherResponse.status}`);
+    }
+    if (!airResponse.ok) {
+        throw new Error(`air HTTP ${airResponse.status}`);
+    }
+
+    const weatherData = await weatherResponse.json();
+    const airData = await airResponse.json();
+    const current = weatherData.current || {};
+    const daily = weatherData.daily || {};
+    const airCurrent = airData.current || {};
+    const maxTemp = (daily.temperature_2m_max || [current.temperature_2m])[0];
+    const minTemp = (daily.temperature_2m_min || [current.temperature_2m])[0];
+    const weatherCode = (daily.weather_code || [current.weather_code])[0];
+    const rainChance = (daily.precipitation_probability_max || [0])[0];
+
+    return {
+        location: area.location,
+        summary: weatherLabel(weatherCode),
+        temperature: `${Number(current.temperature_2m ?? 0).toFixed(1)}°C`,
+        feelsLike: `${Number(current.apparent_temperature ?? 0).toFixed(1)}°C`,
+        highLow: `최고 ${Number(maxTemp ?? 0).toFixed(1)}° / 최저 ${Number(minTemp ?? 0).toFixed(1)}°`,
+        humidity: `${Math.round(Number(current.relative_humidity_2m ?? 0))}%`,
+        wind: `${Number(current.wind_speed_10m ?? 0).toFixed(1)} m/s`,
+        rainChance: `${Math.round(Number(rainChance ?? 0))}%`,
+        pm10: `${Number(airCurrent.pm10 ?? 0).toFixed(1)} μg/m³`,
+        pm25: `${Number(airCurrent.pm2_5 ?? 0).toFixed(1)} μg/m³`,
+        airQuality: aqiLabel(airCurrent.european_aqi),
+        airQualityIndex: airCurrent.european_aqi != null ? String(Math.round(Number(airCurrent.european_aqi))) : "정보 없음",
+        updatedAt: current.time || new Date().toISOString()
+    };
+}
+
+async function refreshLiveWeather() {
+    if (!state) {
+        return;
+    }
+
+    try {
+        const areas = await Promise.all(LIVE_WEATHER_LOCATIONS.map(fetchLiveWeatherArea));
+        state = {
+            ...state,
+            weather: {
+                ...(state.weather || {}),
+                areas
+            }
+        };
+        render();
+    } catch (error) {
+        console.error("Failed to refresh live weather", error);
+    }
+}
+
+function applyLiveWeatherRefresh() {
+    if (liveWeatherTimer) {
+        window.clearInterval(liveWeatherTimer);
+        liveWeatherTimer = 0;
+    }
+
+    if (IS_FILE_PROTOCOL) {
+        return;
+    }
+
+    liveWeatherTimer = window.setInterval(refreshLiveWeather, LIVE_WEATHER_REFRESH_MINUTES * 60 * 1000);
+}
+
 function applyAutoRefresh(minutes) {
     if (autoRefreshTimer) {
         window.clearInterval(autoRefreshTimer);
@@ -384,3 +523,5 @@ refreshPageButton.addEventListener("click", () => {
 render();
 initializeRefreshControl();
 fetchLatestDashboardData();
+refreshLiveWeather();
+applyLiveWeatherRefresh();
