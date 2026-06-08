@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-06-08T23:39:57.216589+09:00",
+  "generatedAt": "2026-06-08T23:51:32.451675+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,45 +22,45 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "51,034.08",
-      "change": "+167.30",
-      "changePercent": "+0.33%",
+      "value": "51,027.58",
+      "change": "+160.80",
+      "changePercent": "+0.32%",
       "direction": "up",
-      "updatedAt": "2026-06-08 23:24"
+      "updatedAt": "2026-06-08 23:35"
     },
     {
       "label": "S&P 500",
-      "value": "7,440.63",
-      "change": "+56.89",
-      "changePercent": "+0.77%",
+      "value": "7,447.43",
+      "change": "+63.69",
+      "changePercent": "+0.86%",
       "direction": "up",
-      "updatedAt": "2026-06-08 23:29"
+      "updatedAt": "2026-06-08 23:40"
     },
     {
       "label": "나스닥",
-      "value": "25,987.72",
-      "change": "+278.29",
-      "changePercent": "+1.08%",
+      "value": "26,060.88",
+      "change": "+351.45",
+      "changePercent": "+1.37%",
       "direction": "up",
-      "updatedAt": "2026-06-08 23:24"
+      "updatedAt": "2026-06-08 23:35"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,527.80",
-      "change": "-31.70",
-      "changePercent": "-2.03%",
+      "value": "1,528.90",
+      "change": "-30.60",
+      "changePercent": "-1.96%",
       "direction": "down",
-      "updatedAt": "2026-06-08 22:03"
+      "updatedAt": "2026-06-08 22:04"
     },
     {
       "label": "100엔/원",
-      "value": "954.07",
-      "change": "-19.07",
-      "changePercent": "-1.96%",
+      "value": "954.67",
+      "change": "-18.47",
+      "changePercent": "-1.90%",
       "direction": "down",
-      "updatedAt": "2026-06-08 22:03"
+      "updatedAt": "2026-06-08 22:04"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "흐림",
-        "temperature": "18.7°C",
-        "feelsLike": "18.6°C",
+        "temperature": "18.5°C",
+        "feelsLike": "18.4°C",
         "highLow": "최고 25.4° / 최저 17.4°",
-        "humidity": "64%",
+        "humidity": "65%",
         "wind": "4.3 m/s",
         "rainChance": "63%",
         "pm10": "9.4 μg/m³",
         "pm25": "9.0 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "26",
-        "updatedAt": "2026-06-08 23:30"
+        "updatedAt": "2026-06-08 23:45"
       },
       {
         "location": "김포",
         "summary": "흐림",
-        "temperature": "16.9°C",
-        "feelsLike": "16.6°C",
+        "temperature": "16.6°C",
+        "feelsLike": "16.4°C",
         "highLow": "최고 25.0° / 최저 15.7°",
-        "humidity": "77%",
-        "wind": "8.4 m/s",
+        "humidity": "79%",
+        "wind": "7.9 m/s",
         "rainChance": "65%",
         "pm10": "9.4 μg/m³",
         "pm25": "9.0 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "26",
-        "updatedAt": "2026-06-08 23:30"
+        "updatedAt": "2026-06-08 23:45"
       },
       {
         "location": "파주",
         "summary": "흐림",
-        "temperature": "16.2°C",
-        "feelsLike": "16.0°C",
+        "temperature": "15.9°C",
+        "feelsLike": "15.7°C",
         "highLow": "최고 25.1° / 최저 15.8°",
-        "humidity": "79%",
-        "wind": "7.0 m/s",
+        "humidity": "81%",
+        "wind": "6.7 m/s",
         "rainChance": "67%",
         "pm10": "9.4 μg/m³",
         "pm25": "9.0 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "26",
-        "updatedAt": "2026-06-08 23:30"
+        "updatedAt": "2026-06-08 23:45"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "15.6°C",
-        "feelsLike": "16.4°C",
+        "temperature": "15.5°C",
+        "feelsLike": "16.2°C",
         "highLow": "최고 22.9° / 최저 16.0°",
         "humidity": "94%",
-        "wind": "5.4 m/s",
+        "wind": "5.2 m/s",
         "rainChance": "29%",
         "pm10": "9.6 μg/m³",
         "pm25": "7.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "31",
-        "updatedAt": "2026-06-08 23:30"
+        "updatedAt": "2026-06-08 23:45"
       }
     ]
   },
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "동네방네주유소",
-        "address": "전북 익산시 평동로 714",
-        "updatedAt": "2026-06-08 17:59:48",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-06-08 17:59:58",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,973원/L",
         "lowestDistrict": "김포시",
-        "stationName": "그린씨티 셀프주유소",
-        "address": "경기 김포시 양촌읍 양곡우회로 40",
-        "updatedAt": "2026-06-08 17:58:56",
+        "stationName": "미소2주유소",
+        "address": "경기도 김포시 양촌읍 양곡4로 64",
+        "updatedAt": "2026-06-08 17:59:22",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,16 +376,22 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "title": "진교훈 강서구청장, 미래 산업 꿈나무 키운다",
+      "source": "서울자치신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95ZHhYTkVPeEh3NzJNZFRjdThrQlZiZWlIeXZfZVRNN3F6TFpWRUg5ak5FQXdxV21RbXNoMDVJZkdsZFplc1Z2bEJIUzB6SzVWY0xOYVpWY191clZWZVpZeXJnVmFEN054?oc=5",
+      "publishedAt": "Mon, 08 Jun 2026 14:14:49 GMT"
+    },
+    {
       "title": "2026년 6월 8일 주요 글로벌 경제 뉴스",
       "source": "Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVdTNUVnNJMmhKU185RFhibVZmWFFCNjduVFhhWWxOSUt4VXB5QnZ0OUZGeERaSWpIb0d2dUZWWk5XbnlIYWxRQ0E1Uk1SdGRSejVBV201MEhvNmM4ckE0VlJLbmVJTmpERHpSTXVHMnk5UlE4NU9hdXZmLXk2QQ?oc=5",
       "publishedAt": "Mon, 08 Jun 2026 14:21:02 GMT"
     },
     {
-      "title": "진교훈 강서구청장, 미래 산업 꿈나무 키운다",
-      "source": "서울자치신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95ZHhYTkVPeEh3NzJNZFRjdThrQlZiZWlIeXZfZVRNN3F6TFpWRUg5ak5FQXdxV21RbXNoMDVJZkdsZFplc1Z2bEJIUzB6SzVWY0xOYVpWY191clZWZVpZeXJnVmFEN054?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 14:14:49 GMT"
+      "title": "\"다카이치 일본 총리, G7 정상회의 참석차 유럽 순방\"",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sTzNGZDg5WEE2Zm12Z2h6emFKNHJPd0tLdFBlTHlYM25UekFkRDN3NmxXVDZ3MWFSVEZyQzhMeWRuX2tMSmJhZ0hlSXRBXzdreDJhVEFxWlZDSHpDV2JuRQ?oc=5",
+      "publishedAt": "Mon, 08 Jun 2026 14:46:00 GMT"
     },
     {
       "title": "이란군, 트럼프 '발포 중단' 요구 뒤 \"작전 중지\"",
@@ -394,10 +400,10 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Mon, 08 Jun 2026 14:10:00 GMT"
     },
     {
-      "title": "[가치소비] 고물가 장마철 앞둔 이커머스 격돌… '합리적 비축'과 '필수재 저격'에 소비 집중",
-      "source": "consumerwide.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MQ0JXZDIxdktsZ29vczNFbmU4MmlLeTlMaTVsQ1lKWlhBb2VxaWxVa2ZhcDNacUp4UWhQeDF0alQtR09yWVpQbDVSUnlSTnFOdTJHMEtvQ3JoZFB4LW5TNmg3bVZNejI2c01fRUxMMNIBc0FVX3lxTE1KVnQ0MmRZdkpoeVlfcGFPWkhielVJbTcwbFVnam5ldm5WSGo5REZkZnZKemtzYjdXOGU5cDhBYlhjdzZlYnlIc19sWWF1OHZQcXBLSHFKS3gtTDhYNTl5Vmw4eTBmcEFQVzBuamJkVkxqLVU?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 13:52:26 GMT"
+      "title": "2026년 6월 8일 베트남 경제 뉴스 주요 내용",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85emRmaUh6WkdHY1ptQkpBRDc2U2VWYTZLNGxRMEZ2Mmd4TFh6TnBpSEtncGRSYmlPTDFBODJ1WW81X3lQejMwalVYSXo5TXlpLVR3djZ5UERFY2RjdjlqeTBhc2p0Q3pmSFI5V0xGN05zN1g3RmJMczktcWI0QQ?oc=5",
+      "publishedAt": "Mon, 08 Jun 2026 13:58:45 GMT"
     },
     {
       "title": "EU, '호르무즈 봉쇄' 이란 개인·단체 제재(종합)",
@@ -406,22 +412,16 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Mon, 08 Jun 2026 14:34:00 GMT"
     },
     {
-      "title": "2026년 6월 8일 베트남 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85emRmaUh6WkdHY1ptQkpBRDc2U2VWYTZLNGxRMEZ2Mmd4TFh6TnBpSEtncGRSYmlPTDFBODJ1WW81X3lQejMwalVYSXo5TXlpLVR3djZ5UERFY2RjdjlqeTBhc2p0Q3pmSFI5V0xGN05zN1g3RmJMczktcWI0QQ?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 13:58:45 GMT"
-    },
-    {
-      "title": "[가치소비] 10년의 '상생' 약속은 어디로 갔나… 원스토어, 헐값 매각 논란이 던진 충격",
-      "source": "consumerwide.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaOGNCRGVNd2FRSXp4UDVJM3c5VVJvZnJoRVR3TVBiVDhILVlUN2owSzJ1TVJoLXFvb1dPckFRWFRtZjhTbkw3aHlkM3ZpemVLVF9NXzhsLV8yTWMwcjdXQmx1RUJEdXlQSmM3T3RNTdIBc0FVX3lxTE5iZF96eEJvNVdLU0VmMm9nZXZ1WkUxZXdpRDNVUVpKLVZuOUJhSUUtMW5kcXl2U1NDUXhUQjlQam9jcmljdC1aeUFoejR5QWx1bUxXd1RUZERtaFdxZ3dqM3NXcUdyLURiWjJaVnNtWXpCTU0?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 13:48:56 GMT"
-    },
-    {
       "title": "日 다카이치, G7 정상회의 참석차 유럽행",
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kZ0loMWdsQ0xKT0o3aVdWSjlpVDdoUU5LTE1TRTdxbEcwQndGalFVc3dRSTNPWHBFYmdQTFVQR210d0hQTDlsTjg3VWkxUkFUaGw4?oc=5",
       "publishedAt": "Mon, 08 Jun 2026 14:22:00 GMT"
+    },
+    {
+      "title": "\"농협이 걸어온 길\" 강태영 농협은행장, 경상국립대서 특강",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81MnUtbURpLUFlX0RUTEtmUzZaVkEzTFhTNTFNN0FjSVh6a0h1d1hZUlNEQTM2RWZjbFJYNXpKQWk0eXg2Q28xOFBETDBXQjFiMlFv?oc=5",
+      "publishedAt": "Mon, 08 Jun 2026 14:37:00 GMT"
     },
     {
       "title": "\"객관적으로 보시라\"…사퇴 요구에 선 그은 장동혁",
