@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-06-08T23:51:32.451675+09:00",
+  "generatedAt": "2026-06-08T23:57:58.582342+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -22,43 +22,43 @@ window.DASHBOARD_DATA = {
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "51,027.58",
-      "change": "+160.80",
-      "changePercent": "+0.32%",
+      "value": "50,965.67",
+      "change": "+98.89",
+      "changePercent": "+0.19%",
       "direction": "up",
-      "updatedAt": "2026-06-08 23:35"
+      "updatedAt": "2026-06-08 23:42"
     },
     {
       "label": "S&P 500",
-      "value": "7,447.43",
-      "change": "+63.69",
-      "changePercent": "+0.86%",
+      "value": "7,455.66",
+      "change": "+71.92",
+      "changePercent": "+0.97%",
       "direction": "up",
-      "updatedAt": "2026-06-08 23:40"
+      "updatedAt": "2026-06-08 23:47"
     },
     {
       "label": "나스닥",
-      "value": "26,060.88",
-      "change": "+351.45",
-      "changePercent": "+1.37%",
+      "value": "26,040.52",
+      "change": "+331.09",
+      "changePercent": "+1.29%",
       "direction": "up",
-      "updatedAt": "2026-06-08 23:35"
+      "updatedAt": "2026-06-08 23:42"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,528.90",
-      "change": "-30.60",
-      "changePercent": "-1.96%",
+      "value": "1,528.40",
+      "change": "-31.10",
+      "changePercent": "-1.99%",
       "direction": "down",
       "updatedAt": "2026-06-08 22:04"
     },
     {
       "label": "100엔/원",
-      "value": "954.67",
-      "change": "-18.47",
-      "changePercent": "-1.90%",
+      "value": "954.74",
+      "change": "-18.40",
+      "changePercent": "-1.89%",
       "direction": "down",
       "updatedAt": "2026-06-08 22:04"
     }
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,960원/L",
         "lowestDistrict": "서구",
-        "stationName": "차오름에너지㈜",
-        "address": "인천 서구 봉수대로 1248 (왕길동)",
-        "updatedAt": "2026-06-08 17:58:48",
+        "stationName": "(주)오일드림주유소",
+        "address": "인천 서구 봉수대로 1302 (왕길동)",
+        "updatedAt": "2026-06-08 17:57:12",
         "districtSamples": [
           {
             "district": "서구",
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-06-08 17:59:58",
+        "stationName": "동네방네주유소",
+        "address": "전북 익산시 평동로 714",
+        "updatedAt": "2026-06-08 17:59:48",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,21 +376,21 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "진교훈 강서구청장, 미래 산업 꿈나무 키운다",
-      "source": "서울자치신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95ZHhYTkVPeEh3NzJNZFRjdThrQlZiZWlIeXZfZVRNN3F6TFpWRUg5ak5FQXdxV21RbXNoMDVJZkdsZFplc1Z2bEJIUzB6SzVWY0xOYVpWY191clZWZVpZeXJnVmFEN054?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 14:14:49 GMT"
-    },
-    {
       "title": "2026년 6월 8일 주요 글로벌 경제 뉴스",
       "source": "Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVdTNUVnNJMmhKU185RFhibVZmWFFCNjduVFhhWWxOSUt4VXB5QnZ0OUZGeERaSWpIb0d2dUZWWk5XbnlIYWxRQ0E1Uk1SdGRSejVBV201MEhvNmM4ckE0VlJLbmVJTmpERHpSTXVHMnk5UlE4NU9hdXZmLXk2QQ?oc=5",
       "publishedAt": "Mon, 08 Jun 2026 14:21:02 GMT"
     },
     {
+      "title": "진교훈 강서구청장, 미래 산업 꿈나무 키운다",
+      "source": "서울자치신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95ZHhYTkVPeEh3NzJNZFRjdThrQlZiZWlIeXZfZVRNN3F6TFpWRUg5ak5FQXdxV21RbXNoMDVJZkdsZFplc1Z2bEJIUzB6SzVWY0xOYVpWY191clZWZVpZeXJnVmFEN054?oc=5",
+      "publishedAt": "Mon, 08 Jun 2026 14:14:49 GMT"
+    },
+    {
       "title": "\"다카이치 일본 총리, G7 정상회의 참석차 유럽 순방\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sTzNGZDg5WEE2Zm12Z2h6emFKNHJPd0tLdFBlTHlYM25UekFkRDN3NmxXVDZ3MWFSVEZyQzhMeWRuX2tMSmJhZ0hlSXRBXzdreDJhVEFxWlZDSHpDV2JuRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HLWpYUWt5YldkdjNoRHBfU0NGV250MmtaemJIUXlDOXJYUnNXQU9CMDhvZE1ldnJVa2s2TGdnbWhKdGxwWHFLUWxvQmd0aVZuS1hr?oc=5",
       "publishedAt": "Mon, 08 Jun 2026 14:46:00 GMT"
     },
     {
