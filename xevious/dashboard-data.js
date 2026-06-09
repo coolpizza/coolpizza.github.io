@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-06-09T21:03:38.525590+09:00",
+  "generatedAt": "2026-06-09T21:34:33.749551+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,526.20",
-      "change": "-1.60",
-      "changePercent": "-0.10%",
-      "direction": "down",
-      "updatedAt": "2026-06-09 21:01"
+      "value": "1,528.00",
+      "change": "+0.20",
+      "changePercent": "+0.01%",
+      "direction": "up",
+      "updatedAt": "2026-06-09 21:32"
     },
     {
       "label": "100엔/원",
-      "value": "952.92",
-      "change": "-0.97",
-      "changePercent": "-0.10%",
-      "direction": "down",
-      "updatedAt": "2026-06-09 21:01"
+      "value": "953.96",
+      "change": "+0.07",
+      "changePercent": "+0.01%",
+      "direction": "up",
+      "updatedAt": "2026-06-09 21:32"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "19.3°C",
-        "feelsLike": "19.5°C",
+        "temperature": "18.9°C",
+        "feelsLike": "19.2°C",
         "highLow": "최고 26.6° / 최저 15.2°",
-        "humidity": "66%",
-        "wind": "4.7 m/s",
+        "humidity": "63%",
+        "wind": "1.8 m/s",
         "rainChance": "1%",
         "pm10": "25.9 μg/m³",
         "pm25": "19.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "35",
-        "updatedAt": "2026-06-09 21:00"
+        "updatedAt": "2026-06-09 21:30"
       },
       {
         "location": "김포",
-        "summary": "약한 이슬비",
-        "temperature": "18.2°C",
-        "feelsLike": "19.3°C",
+        "summary": "대체로 맑음",
+        "temperature": "17.5°C",
+        "feelsLike": "18.5°C",
         "highLow": "최고 25.1° / 최저 13.3°",
-        "humidity": "85%",
-        "wind": "5.6 m/s",
+        "humidity": "80%",
+        "wind": "2.3 m/s",
         "rainChance": "3%",
         "pm10": "25.9 μg/m³",
         "pm25": "19.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "35",
-        "updatedAt": "2026-06-09 21:00"
+        "updatedAt": "2026-06-09 21:30"
       },
       {
         "location": "파주",
-        "summary": "약한 이슬비",
-        "temperature": "18.6°C",
-        "feelsLike": "19.2°C",
+        "summary": "약간 흐림",
+        "temperature": "17.6°C",
+        "feelsLike": "18.0°C",
         "highLow": "최고 25.5° / 최저 12.7°",
-        "humidity": "75%",
+        "humidity": "77%",
         "wind": "5.1 m/s",
         "rainChance": "11%",
         "pm10": "25.9 μg/m³",
         "pm25": "19.8 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "35",
-        "updatedAt": "2026-06-09 21:00"
+        "updatedAt": "2026-06-09 21:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "18.4°C",
-        "feelsLike": "19.2°C",
+        "temperature": "18.0°C",
+        "feelsLike": "19.0°C",
         "highLow": "최고 26.7° / 최저 12.7°",
-        "humidity": "74%",
-        "wind": "3.3 m/s",
+        "humidity": "76%",
+        "wind": "1.6 m/s",
         "rainChance": "0%",
         "pm10": "7.0 μg/m³",
         "pm25": "5.5 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "29",
-        "updatedAt": "2026-06-09 21:00"
+        "updatedAt": "2026-06-09 21:30"
       }
     ]
   },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,960원/L",
         "lowestDistrict": "서구",
-        "stationName": "차오름에너지㈜",
-        "address": "인천 서구 봉수대로 1248 (왕길동)",
-        "updatedAt": "2026-06-09 17:58:01",
+        "stationName": "(주)오일드림주유소",
+        "address": "인천 서구 봉수대로 1302 (왕길동)",
+        "updatedAt": "2026-06-09 17:56:43",
         "districtSamples": [
           {
             "district": "서구",
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "고래주유소",
-        "address": "전북 익산시 주현로 54",
-        "updatedAt": "2026-06-09 17:57:36",
+        "stationName": "동네방네주유소",
+        "address": "전북 익산시 평동로 714",
+        "updatedAt": "2026-06-09 17:59:06",
         "districtSamples": [
           {
             "district": "익산시",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "김포 최저가",
         "lowestPrice": "1,973원/L",
         "lowestDistrict": "김포시",
-        "stationName": "미소2주유소",
-        "address": "경기도 김포시 양촌읍 양곡4로 64",
-        "updatedAt": "2026-06-08 17:59:22",
+        "stationName": "그린씨티 셀프주유소",
+        "address": "경기 김포시 양촌읍 양곡우회로 40",
+        "updatedAt": "2026-06-09 17:47:57",
         "districtSamples": [
           {
             "district": "김포시",
@@ -376,10 +376,34 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "[뉴스7 강원 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xMVdkbVNjaElmbXZMc3NBNlhOLWdBRENFMkFWQ19WZ09HMXZFNGU5bkRXcTBUM3Z3QTJiRDc5THFzeTd1Y01vSmo3VEdocG9JTUdMR3E1aWtXUk0?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:06:00 GMT"
+      "title": "'쌍둥이 득표' 논란에 선관위 \"우연히 일치한 것\" 해명",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sVWN2UmotOVJldVRKcUtXT3RncVhhNU9aLVZ1VjBEc25iOExDVVkxX0pWbmg3TTFtZzhWV2FVM1dONHhicElPN0Iya3RMSTBrdzNz?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:27:00 GMT"
+    },
+    {
+      "title": "김시라의 창작 마당극 품바 전국 순회공연 나서",
+      "source": "국민기자뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53SGpWR2doMVJqR1FNY1djdkhoU1NNSGN5UElyNk9adlFjdVRxRmp1eU5xZE4tZFlKZWotdHhTWTFlZUx1aEZKbjBKWmpldWdqTmlqY2g3NU9xN25VcGFMS283RdIBZ0FVX3lxTFBJVVE1bnJoeGh3M1Z2LTE3S1V4X3YxTnY3MnJ5blZ5dm12U1d6TTdqS01OTExTWmQwTVEyUDMzZE1SZ19hY3VaS2xQeWxIR2htRWpVTmVwNmJ0dEYyUWRCU3M1LXU1b1E?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:12:27 GMT"
+    },
+    {
+      "title": "해남군, 민선9기 군정 추진력 높인다···하반기 주요업무보고회 개최",
+      "source": "현장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tNUx6MXoxTV9TN1JyelFrbmhaR0otZERPOS00N2pyczZJZXlCaHlRaTBFUnk4TVcxdnJ2SmNDaFU3c1pkd0stb0VnLUczMmt1S1piUUNoVEprSHNGenA0SHpkeFoyQWtmekhzdEFDNNIBc0FVX3lxTFB6Wm9ZZWVLaHlfUGx4dUJVbDc3T3MwVXFVWHZpdVdTVVFIQWN6QnlSWFYwLUJGMXlqQXpSUUlFa0FyaUF3Ul81YjdZZ2xLSFo2RDUwSEJTV3pzbXp1bHI3TnRRSTJFSUhZbGpjaVNLT1FXNlk?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:38:30 GMT"
+    },
+    {
+      "title": "'한화에어로' 사고 현장 추가 감식…발화 원인 수색",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OeG9zSm8yaGF3d0NNdS0wYmo5UGp2T2Y3Ymd3NGRTd2pMY1V6cEhQSC1RV0hyVTJubzQ4X0t2MEpJUXJDUTBWaEFMNFJvdWozWEpv?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:07:00 GMT"
+    },
+    {
+      "title": "광장으로 나온 줌바댄스[포토뉴스]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CV2dxN0xTX0xBdzh5b0dtb3VCbFl4bUppNlQ0OUpYcnhkR2Nadkl5Wlo4cFgxN1NhcGVvSFNyZ0cwVlNJMmduVWczUk1oZXRUM29Yamg5cE9sNGlKdDRaeQ?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:02:00 GMT"
     },
     {
       "title": "이 대통령, 유럽 순방길 올라…트럼프 만남 여부 주목",
@@ -388,52 +412,28 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Tue, 09 Jun 2026 11:55:00 GMT"
     },
     {
-      "title": "인천 단위농협 비상임이사 선거서 '금품 살포' 의혹",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTZHBlT0QzNm5hX01aZTEzSTg1YXREenFQeWRMZGFQZlRQLURyUU00YzB2VUx3REktN1VFblRwc1hGd3B5ekJEM21kdnFZcGlMMnZXag?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:06:33 GMT"
-    },
-    {
-      "title": "[뉴스7 충북 클로징]",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82dWFjNXpJZk52dDMzcG12ZHd1MzBjM1lpaW1BLW04NmZ0MlhhYVozUk9zaTJURXVxb2dMWDl4b2Y1OTJaUlI2c1dqRE05dFF0YmxfQ1dzM1Vac3c?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:05:00 GMT"
-    },
-    {
-      "title": "'쌍둥이 득표' 의혹 확산에 선관위 \"우연의 결과\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tYWh2U2RlWnVBc3JiSHVHdmwwZEZ3d3lkOVpDRFVoSjNNaXBSMi1mcnJaaGRza3BHTzlDTzVRX0JfamxRMFNIT1d5OGpqMGxOS2xN?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:45:00 GMT"
-    },
-    {
-      "title": "[주요 단신] 12대 도의회 마지막 회기 개회…한진 지하수 증산 폐기 수순 외",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oamNKUmRWbVJRbUs2bzVZdktkYnBJQW1od2R0eFNocjJTTVhmcnFyQ1oxMFVVNGwxeTBVbkdsVG44eGZ4ek9NcmUzaW0zNzN2QVl4WWotY2RKZlE?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:09:00 GMT"
-    },
-    {
-      "title": "[포토] 재선거 촉구하는 시민들",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mWHo0emM5cmtoMEQtMDdjZ3VrWG9rc2tiNm5fRHEzVFJBaXo5MFVmdmctV2g2ZlUxcWNTMG4zNmVwZW84UnhmbUJ5TG00REstNFNTSmtCQkFwU0IySjRRY2pwUW5iLU9waTNSWTFiN0l3b09JSkQ4?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:44:00 GMT"
-    },
-    {
       "title": "[내일 날씨] 수도권·강원 비 소식…돌풍·천둥·번개 동반",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnaDlSMVFMdV91Zl9nSUl6Mm1FRTZ3VFVGdVJOVE5rSFUtZE8yMTZGODEwQ2lOY2lRRVB0VVg4QS1EeWZzMmk3bHl5ekc4Unk4SUZtZTBiYkNtSzhPNzdydw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pTmdNcW9LdGxSNVJiREVOMjMxN0FLTUktWXJlNVB5SUpXcUlRZWE3MkpaUDB5WEQtclliYVdmbHZJVThmdW5aZjNneGx2ek43dV93?oc=5",
       "publishedAt": "Tue, 09 Jun 2026 11:57:00 GMT"
     },
     {
-      "title": "[뉴스프라임] 이 대통령, 오늘부터 9박 10일 유럽 순방",
+      "title": "뜸들이던 애플…마침내 '시리AI' 공개",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iZTFoMVEyN3RqODMwN2J3WEJIMWhRUkkyMXRBV0g0Y1JFOGhoZjVtdTl6X2ZTMGgyeF9lSjZndkdTei1QZEJCSUU5NXByR2lZV0RJ?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:33:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwV2c0SXExUDJNNmJ2anpBYVB6ZWh6Y1RaV1Q3MFhOUGl4bXhoT2Z4am1qd2V4X09zd0dlRWp0UVcxY2I1LUNnNmI2WHl2ZmN2blp3?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:26:00 GMT"
     },
     {
-      "title": "[비하인드 뉴스] \"장동혁, 착한 눈으로 보자\" 사퇴론 빗발치니 황당 옹호",
+      "title": "청년 주도 평화·통일 사회적 대화 출범…통일부, 27일 첫 숙의토론 개최",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GOTR4UF95VGNKaHk5MGl1LWdFSnoyekFXNVhlLTQzU0hoVEJ3WUdoVm1Od3MteGxtRUE5a3UwNC1wSjB4YWcxb0lUVjl0M1FqajVB?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:20:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xcnhYc2Z6cVA5UTRkMHRKNjRwX3JUVmtMSlRIMS1SUTZ5eUV2eG9DTjVKMGUzc1NuWVZ3d2ZIYWltUzQ2Yk5udEdXX1gxVWh2SzY4?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:03:00 GMT"
+    },
+    {
+      "title": "\"남편 기다리다 병 생겨\"…아내, 쇼핑 중독의 이유 [이호선 상담소]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzX0dOeU1qOEllOUphaHFTODlsSFZtaTFYc1g0VnR2cFRCa2pxWUF2M1cxQXBsY2w1OHJsNF92MmFpOUdENUVMYlVKYkVWX1dzdk9F?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:57:00 GMT"
     }
   ],
   "sources": [
