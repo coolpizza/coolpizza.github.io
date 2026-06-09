@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-06-09T21:34:33.749551+09:00",
+  "generatedAt": "2026-06-09T22:05:28.455708+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@ window.DASHBOARD_DATA = {
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,528.00",
-      "change": "+0.20",
-      "changePercent": "+0.01%",
-      "direction": "up",
-      "updatedAt": "2026-06-09 21:32"
+      "value": "1,527.30",
+      "change": "-0.50",
+      "changePercent": "-0.03%",
+      "direction": "down",
+      "updatedAt": "2026-06-09 22:00"
     },
     {
       "label": "100엔/원",
-      "value": "953.96",
-      "change": "+0.07",
-      "changePercent": "+0.01%",
-      "direction": "up",
-      "updatedAt": "2026-06-09 21:32"
+      "value": "953.18",
+      "change": "-0.71",
+      "changePercent": "-0.07%",
+      "direction": "down",
+      "updatedAt": "2026-06-09 22:00"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@ window.DASHBOARD_DATA = {
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "18.9°C",
-        "feelsLike": "19.2°C",
+        "temperature": "18.7°C",
+        "feelsLike": "19.1°C",
         "highLow": "최고 26.6° / 최저 15.2°",
-        "humidity": "63%",
-        "wind": "1.8 m/s",
-        "rainChance": "1%",
-        "pm10": "25.9 μg/m³",
-        "pm25": "19.8 μg/m³",
+        "humidity": "64%",
+        "wind": "0.8 m/s",
+        "rainChance": "4%",
+        "pm10": "30.7 μg/m³",
+        "pm25": "22.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-06-09 21:30"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-06-09 22:00"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "17.5°C",
-        "feelsLike": "18.5°C",
+        "temperature": "17.2°C",
+        "feelsLike": "17.7°C",
         "highLow": "최고 25.1° / 최저 13.3°",
-        "humidity": "80%",
-        "wind": "2.3 m/s",
-        "rainChance": "3%",
-        "pm10": "25.9 μg/m³",
-        "pm25": "19.8 μg/m³",
+        "humidity": "82%",
+        "wind": "5.8 m/s",
+        "rainChance": "2%",
+        "pm10": "30.7 μg/m³",
+        "pm25": "22.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-06-09 21:30"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-06-09 22:00"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "17.6°C",
-        "feelsLike": "18.0°C",
+        "temperature": "17.5°C",
+        "feelsLike": "17.5°C",
         "highLow": "최고 25.5° / 최저 12.7°",
-        "humidity": "77%",
-        "wind": "5.1 m/s",
-        "rainChance": "11%",
-        "pm10": "25.9 μg/m³",
-        "pm25": "19.8 μg/m³",
+        "humidity": "75%",
+        "wind": "6.5 m/s",
+        "rainChance": "7%",
+        "pm10": "30.7 μg/m³",
+        "pm25": "22.4 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "35",
-        "updatedAt": "2026-06-09 21:30"
+        "airQualityIndex": "34",
+        "updatedAt": "2026-06-09 22:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "18.0°C",
-        "feelsLike": "19.0°C",
+        "temperature": "17.7°C",
+        "feelsLike": "18.1°C",
         "highLow": "최고 26.7° / 최저 12.7°",
-        "humidity": "76%",
-        "wind": "1.6 m/s",
-        "rainChance": "0%",
-        "pm10": "7.0 μg/m³",
-        "pm25": "5.5 μg/m³",
+        "humidity": "77%",
+        "wind": "5.4 m/s",
+        "rainChance": "10%",
+        "pm10": "7.7 μg/m³",
+        "pm25": "6.0 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "29",
-        "updatedAt": "2026-06-09 21:30"
+        "airQualityIndex": "27",
+        "updatedAt": "2026-06-09 22:00"
       }
     ]
   },
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "동네방네주유소",
-        "address": "전북 익산시 평동로 714",
-        "updatedAt": "2026-06-09 17:59:06",
+        "stationName": "봄까치셀프주유소",
+        "address": "전북 익산시 평동로 796",
+        "updatedAt": "2026-06-09 17:56:58",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,10 +376,52 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "'쌍둥이 득표' 논란에 선관위 \"우연히 일치한 것\" 해명",
+      "title": "대통령 순방 출국길, 사라진 여당 대표",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sVWN2UmotOVJldVRKcUtXT3RncVhhNU9aLVZ1VjBEc25iOExDVVkxX0pWbmg3TTFtZzhWV2FVM1dONHhicElPN0Iya3RMSTBrdzNz?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:27:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92ZTU1anEyeW5uN29qRnhjNzd5MnhGZUxJZHNrVEFJVVE0MVNJSmduRTNoZ1QtTVcxVmtnVjc2TWU0S3YxanZtLURxT3pVMzBBUXc4?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:44:00 GMT"
+    },
+    {
+      "title": "1인당 국민총소득 '4만달러' 가시권",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13UGlta2Q3UjlvWktnM0lKSmlJNGlKZVRqVkRiT1puZVI0ZHkyUnhXR2J2ZVRFLVVwVW95RmIyOGZvT1dRQzhMb2xXcExlYXByYlAw?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:44:00 GMT"
+    },
+    {
+      "title": "송파경찰서장 사의…서울청 공안차장이 '잠실 시위' 관리",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOdDlQQWZGTVR4aXdlTUZIV1VEajYtQjVoMTFxeWQwSDZ2N3NFUjlFNVpvak9paFVrak1NOGdWZk84QUF3R19IbDczUndMTENoZ1kzUHRHcmZfRVB0TTlvMk1Xcjl3VFdsWXluV3lzM3BSZVdnMk5WQQ?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:29:00 GMT"
+    },
+    {
+      "title": "[포토]'박영현과 하이파이브' 이강철 감독",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyOEE4ekpvNWRjSTh2eVotUGo2dHJQUzVNZzRBaDBRYWwxemZuaG5ld1p4TVBiNnJIZVdGQ05BVXV2OXVvWlNzUndtbnN1VzR2NDJkUWtQYnFuT2Iz?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:17:00 GMT"
+    },
+    {
+      "title": "'김도영 3점홈런·황동하 6이닝 1실점 호투' KIA, 한화 상대로 6-4 승리",
+      "source": "무등일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5teDF1dlhIVnFDeS1FbGloSnpDUHRCUDhRX052TVRIMXJldVRMcXRxMFlndEdMREFyRjR1MUJlSGlnMGpJNnFWWFZQN01RaW1ReC16ZWpR?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:52:00 GMT"
+    },
+    {
+      "title": "[사설] 선관위 사태, 정쟁 소비 말고 시스템 혁신 집중해야",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mWmNTN0NBMEFHcXRhcVphRGxHNlhUY1hMQjhaZmV6SnROeTdqUTBvNmt1ZXdoZU44bmFzRGZqQkZ0WVVXT192cGJ3czdOSTROSW1v?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 13:01:08 GMT"
+    },
+    {
+      "title": "젤렌스키 \"푸틴 측근들 분열 조짐…전쟁 지속파 vs 종전파 대립\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GQklqNnN2QW1MVkcteGhpQjJkZmhmZGdGRkxpSWcyU2ZaM0VNVEJYUGhiVXRrMHY5d25iejZ4VW91M3pRWjg0LVVuSGU0d25BcmVv?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:55:37 GMT"
+    },
+    {
+      "title": "건강보험공단 성동지사 - 서울교통공사 '건강100세운동교실' 업무협약(MOU) 체결",
+      "source": "서울로컬뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tQ3NLNTNYWUw3bjI1SEprQVFWQ1VTNkZQVnNKNlJ5WGF6YUFIQWhFYjNjTS1JVE5KTkRmSm1aZm5jUWw4SVpnR0ZocHBYZDlKeTR4UWYwZlc?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:36:45 GMT"
     },
     {
       "title": "김시라의 창작 마당극 품바 전국 순회공연 나서",
@@ -388,52 +430,10 @@ window.DASHBOARD_DATA = {
       "publishedAt": "Tue, 09 Jun 2026 12:12:27 GMT"
     },
     {
-      "title": "해남군, 민선9기 군정 추진력 높인다···하반기 주요업무보고회 개최",
-      "source": "현장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tNUx6MXoxTV9TN1JyelFrbmhaR0otZERPOS00N2pyczZJZXlCaHlRaTBFUnk4TVcxdnJ2SmNDaFU3c1pkd0stb0VnLUczMmt1S1piUUNoVEprSHNGenA0SHpkeFoyQWtmekhzdEFDNNIBc0FVX3lxTFB6Wm9ZZWVLaHlfUGx4dUJVbDc3T3MwVXFVWHZpdVdTVVFIQWN6QnlSWFYwLUJGMXlqQXpSUUlFa0FyaUF3Ul81YjdZZ2xLSFo2RDUwSEJTV3pzbXp1bHI3TnRRSTJFSUhZbGpjaVNLT1FXNlk?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:38:30 GMT"
-    },
-    {
-      "title": "'한화에어로' 사고 현장 추가 감식…발화 원인 수색",
+      "title": "[포토]'무거운 발걸음' 그래도 내일은 승리하리라",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OeG9zSm8yaGF3d0NNdS0wYmo5UGp2T2Y3Ymd3NGRTd2pMY1V6cEhQSC1RV0hyVTJubzQ4X0t2MEpJUXJDUTBWaEFMNFJvdWozWEpv?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:07:00 GMT"
-    },
-    {
-      "title": "광장으로 나온 줌바댄스[포토뉴스]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CV2dxN0xTX0xBdzh5b0dtb3VCbFl4bUppNlQ0OUpYcnhkR2Nadkl5Wlo4cFgxN1NhcGVvSFNyZ0cwVlNJMmduVWczUk1oZXRUM29Yamg5cE9sNGlKdDRaeQ?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:02:00 GMT"
-    },
-    {
-      "title": "이 대통령, 유럽 순방길 올라…트럼프 만남 여부 주목",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56dGJva0lXVjRFMlptRDc2Wi1ZMHN2UVgxNnN3dW5uRldxR0tiUi1iU190VDI1cnJPak1QU3RnM1FNRkxpYm9OZDFaU1kycHhURjhZ?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:55:00 GMT"
-    },
-    {
-      "title": "[내일 날씨] 수도권·강원 비 소식…돌풍·천둥·번개 동반",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pTmdNcW9LdGxSNVJiREVOMjMxN0FLTUktWXJlNVB5SUpXcUlRZWE3MkpaUDB5WEQtclliYVdmbHZJVThmdW5aZjNneGx2ek43dV93?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:57:00 GMT"
-    },
-    {
-      "title": "뜸들이던 애플…마침내 '시리AI' 공개",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwV2c0SXExUDJNNmJ2anpBYVB6ZWh6Y1RaV1Q3MFhOUGl4bXhoT2Z4am1qd2V4X09zd0dlRWp0UVcxY2I1LUNnNmI2WHl2ZmN2blp3?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:26:00 GMT"
-    },
-    {
-      "title": "청년 주도 평화·통일 사회적 대화 출범…통일부, 27일 첫 숙의토론 개최",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xcnhYc2Z6cVA5UTRkMHRKNjRwX3JUVmtMSlRIMS1SUTZ5eUV2eG9DTjVKMGUzc1NuWVZ3d2ZIYWltUzQ2Yk5udEdXX1gxVWh2SzY4?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:03:00 GMT"
-    },
-    {
-      "title": "\"남편 기다리다 병 생겨\"…아내, 쇼핑 중독의 이유 [이호선 상담소]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzX0dOeU1qOEllOUphaHFTODlsSFZtaTFYc1g0VnR2cFRCa2pxWUF2M1cxQXBsY2w1OHJsNF92MmFpOUdENUVMYlVKYkVWX1dzdk9F?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 11:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SVkxWQUotMTNkTUxtRmltaHl6WEh3cEtJY1ZoY1Y3bEUwcWhoXzYxWExjeXV6N2pobkVfQ2kzU1VOTGhOT2txSHFobUZ4T1REYlhjUWtR?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:38:00 GMT"
     }
   ],
   "sources": [
