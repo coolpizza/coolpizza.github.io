@@ -21,10 +21,6 @@ const newsStatusEl = document.getElementById("newsStatus");
 const REFRESH_STORAGE_KEY = "xevious-refresh-minutes";
 const DATA_ENDPOINT = "./dashboard-data.json";
 const SCRIPT_DATA_ENDPOINT = "./dashboard-data.js";
-const RUNTIME_SNAPSHOT_URL = document
-    .querySelector('meta[name="xevious-runtime-snapshot-url"]')
-    ?.getAttribute("content")
-    ?.trim() || "";
 const IS_FILE_PROTOCOL = window.location.protocol === "file:";
 const LIVE_WEATHER_LOCATIONS = [
     { location: "서울", latitude: 37.5665, longitude: 126.978 },
@@ -408,42 +404,6 @@ function renderPanelStatuses() {
     }
 }
 
-function mergeRuntimeSnapshot(payload) {
-    if (!payload || typeof payload !== "object" || !state) {
-        return;
-    }
-
-    state = {
-        ...state,
-        koreaMarkets: Array.isArray(payload.koreaMarkets) ? payload.koreaMarkets : state.koreaMarkets,
-        usMarkets: Array.isArray(payload.usMarkets) ? payload.usMarkets : state.usMarkets,
-        currencies: Array.isArray(payload.currencies) ? payload.currencies : state.currencies,
-        gasoline: payload.gasoline && typeof payload.gasoline === "object" ? payload.gasoline : state.gasoline
-    };
-}
-
-async function refreshRuntimeSnapshot() {
-    if (!state || IS_FILE_PROTOCOL || !RUNTIME_SNAPSHOT_URL) {
-        return;
-    }
-
-    try {
-        const response = await fetch(`${RUNTIME_SNAPSHOT_URL}${RUNTIME_SNAPSHOT_URL.includes("?") ? "&" : "?"}t=${Date.now()}`, {
-            cache: "no-store"
-        });
-
-        if (!response.ok) {
-            throw new Error(`runtime snapshot HTTP ${response.status}`);
-        }
-
-        const payload = await response.json();
-        mergeRuntimeSnapshot(payload);
-        render();
-    } catch (error) {
-        console.error("Failed to refresh runtime snapshot overlay", error);
-    }
-}
-
 function splitNewsTitleAndSource(title) {
     const parts = String(title || "").split(" - ");
     if (parts.length >= 2) {
@@ -744,7 +704,6 @@ async function fetchLatestDashboardData() {
 
             state = nextState;
             render();
-            await refreshRuntimeSnapshot();
             return;
         }
 
@@ -758,7 +717,6 @@ async function fetchLatestDashboardData() {
 
         state = await response.json();
         render();
-        await refreshRuntimeSnapshot();
     } catch (error) {
         console.error("Failed to refresh dashboard data", error);
     }
