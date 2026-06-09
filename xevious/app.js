@@ -23,6 +23,10 @@ const LIVE_WEATHER_LOCATIONS = [
 ];
 const LIVE_WEATHER_REFRESH_MINUTES = 10;
 const LOCAL_MART_REFRESH_MINUTES = 30;
+const LIVE_NEWS_REFRESH_MINUTES = 10;
+const RSS_TO_JSON_ENDPOINT = "https://api.rss2json.com/v1/api.json";
+const GOOGLE_NEWS_RECENT_RSS = "https://news.google.com/rss/search?q=%EC%A3%BC%EC%9A%94+%EB%89%B4%EC%8A%A4+when:1h&hl=ko&gl=KR&ceid=KR:ko";
+const GOOGLE_NEWS_LATEST_RSS = "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko";
 const WEEKDAY_LABELS = ["월", "화", "수", "목", "금", "토", "일"];
 const SEOUL_WEEKDAY_LABELS = ["일", "월", "화", "수", "목", "금", "토"];
 const MART_CLOSURE_AREAS = [
@@ -76,6 +80,7 @@ let autoRefreshTimer = 0;
 let viewRenderedAt = new Date();
 let liveWeatherTimer = 0;
 let localMartTimer = 0;
+let liveNewsTimer = 0;
 
 const WEATHER_CODE_LABELS = {
     0: "맑음",
@@ -241,6 +246,35 @@ function formatPublishedDateTime(text) {
         minute: "2-digit",
         hour12: false
     }).format(date);
+}
+
+function splitNewsTitleAndSource(title) {
+    const parts = String(title || "").split(" - ");
+    if (parts.length >= 2) {
+        const source = parts.pop();
+        return {
+            title: parts.join(" - ").trim(),
+            source: source.trim() || "Google News"
+        };
+    }
+
+    return {
+        title: String(title || "").trim(),
+        source: "Google News"
+    };
+}
+
+function parseNewsDate(text) {
+    if (!text) {
+        return null;
+    }
+
+    const date = new Date(text);
+    if (Number.isNaN(date.getTime())) {
+        return null;
+    }
+
+    return date;
 }
 
 function escapeHtml(text) {
@@ -600,6 +634,101 @@ async function refreshLiveWeather() {
     }
 }
 
+async function fetchNewsFeed(feedUrl) {
+    const url = new URL(RSS_TO_JSON_ENDPOINT);
+    url.searchParams.set("rss_url", feedUrl);
+
+    const response = await fetch(url, { cache: "no-store" });
+    if (!response.ok) {
+        throw new Error(`news HTTP ${response.status}`);
+    }
+
+    const payload = await response.json();
+    if (payload.status !== "ok") {
+        throw new Error(payload.message || "rss2json failed");
+    }
+
+    return (payload.items || []).map((item) => {
+        const parsed = splitNewsTitleAndSource(item.title || "");
+        return {
+            title: parsed.title,
+            source: parsed.source,
+            link: item.link || "",
+            publishedAt: item.pubDate || item.publishedAt || ""
+        };
+    });
+}
+
+async function refreshLiveNews() {
+    if (!state || IS_FILE_PROTOCOL) {
+        return;
+    }
+
+    try {
+        const [recentItems, latestItems] = await Promise.all([
+            fetchNewsFeed(GOOGLE_NEWS_RECENT_RSS),
+            fetchNewsFeed(GOOGLE_NEWS_LATEST_RSS)
+        ]);
+
+        const now = new Date();
+        const picked = [];
+        const seenLinks = new Set();
+
+        for (const item of recentItems) {
+            const publishedAt = parseNewsDate(item.publishedAt);
+            if (!publishedAt) {
+                continue;
+            }
+
+            const ageSeconds = (now.getTime() - publishedAt.getTime()) / 1000;
+            if (ageSeconds < 0 || ageSeconds > 3600) {
+                continue;
+            }
+            if (seenLinks.has(item.link)) {
+                continue;
+            }
+
+            seenLinks.add(item.link);
+            picked.push(item);
+            if (picked.length >= 10) {
+                break;
+            }
+        }
+
+        if (picked.length < 10) {
+            const fallbackPool = [...recentItems, ...latestItems]
+                .filter((item) => !seenLinks.has(item.link))
+                .sort((a, b) => {
+                    const left = parseNewsDate(a.publishedAt)?.getTime() || 0;
+                    const right = parseNewsDate(b.publishedAt)?.getTime() || 0;
+                    return right - left;
+                });
+
+            for (const item of fallbackPool) {
+                if (seenLinks.has(item.link)) {
+                    continue;
+                }
+
+                seenLinks.add(item.link);
+                picked.push(item);
+                if (picked.length >= 10) {
+                    break;
+                }
+            }
+        }
+
+        if (picked.length > 0) {
+            state = {
+                ...state,
+                news: picked
+            };
+            render();
+        }
+    } catch (error) {
+        console.error("Failed to refresh live news", error);
+    }
+}
+
 function applyLiveWeatherRefresh() {
     if (liveWeatherTimer) {
         window.clearInterval(liveWeatherTimer);
@@ -630,6 +759,19 @@ function applyLocalMartRefresh() {
         };
         render();
     }, LOCAL_MART_REFRESH_MINUTES * 60 * 1000);
+}
+
+function applyLiveNewsRefresh() {
+    if (liveNewsTimer) {
+        window.clearInterval(liveNewsTimer);
+        liveNewsTimer = 0;
+    }
+
+    if (IS_FILE_PROTOCOL) {
+        return;
+    }
+
+    liveNewsTimer = window.setInterval(refreshLiveNews, LIVE_NEWS_REFRESH_MINUTES * 60 * 1000);
 }
 
 function applyAutoRefresh(minutes) {
@@ -679,3 +821,5 @@ fetchLatestDashboardData();
 refreshLiveWeather();
 applyLiveWeatherRefresh();
 applyLocalMartRefresh();
+refreshLiveNews();
+applyLiveNewsRefresh();
