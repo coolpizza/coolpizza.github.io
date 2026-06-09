@@ -336,10 +336,16 @@ function panelStatusHtml(mode, detail, stale = false) {
         hybrid: "하이브리드",
         snapshot: "스냅샷"
     };
+    const notes = {
+        live: "브라우저 안에서 즉시 갱신",
+        hybrid: "실패 시 스냅샷 유지",
+        snapshot: "외부 갱신 필요"
+    };
 
     return `
         <span class="panel-status-badge ${mode}">${modeLabels[mode] || mode}</span>
         <span class="panel-status-meta${stale ? " stale" : ""}">${escapeHtml(detail)}</span>
+        <span class="panel-status-note">${escapeHtml(notes[mode] || "")}</span>
     `;
 }
 
@@ -655,7 +661,7 @@ function render() {
     const warnings = snapshotWarningMessages();
     generatedAtEl.innerHTML = [
         `표시 시각: ${escapeHtml(formatDateTime(viewRenderedAt.toISOString()))} | 데이터 기준: ${escapeHtml(formatDateTime(currentDataTimestamp() || viewRenderedAt.toISOString()))} (${escapeHtml(state.timezone || "시간대 미표시")})`,
-        '<span class="status-note">브라우저 직접 갱신: 날씨 · 대형마트 휴업일 · 뉴스 | 스냅샷 기준: 한국/미국 지수 · 환율 · 주유소</span>',
+        '<span class="status-note">브라우저 직접 갱신: 날씨 · 대형마트 휴업일 · 뉴스 | 스냅샷 기준: 한국/미국 지수 · 환율 · 주유소 (외부 갱신 필요)</span>',
         warnings.length > 0 ? `<span class="status-warn">주의: ${escapeHtml(warnings.join(" / "))}</span>` : ""
     ].filter(Boolean).join("<br>");
     renderStats(koreaMarketsEl, state.koreaMarkets);

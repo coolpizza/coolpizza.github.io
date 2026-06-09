@@ -226,6 +226,12 @@ button:hover {
     font-weight: 700;
 }
 
+.panel-status-note {
+    color: var(--muted);
+    font-size: 0.74rem;
+    line-height: 1.3;
+}
+
 .stat-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
