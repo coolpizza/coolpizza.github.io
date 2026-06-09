@@ -147,6 +147,21 @@ button:hover {
     line-height: 1.6;
 }
 
+.status-note,
+.status-warn {
+    display: inline-block;
+    font-size: 0.86rem;
+}
+
+.status-note {
+    color: var(--muted);
+}
+
+.status-warn {
+    color: var(--down);
+    font-weight: 700;
+}
+
 .board-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));

@@ -29,6 +29,12 @@ const GOOGLE_NEWS_RECENT_RSS = "https://news.google.com/rss/search?q=%EC%A3%BC%E
 const GOOGLE_NEWS_LATEST_RSS = "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko";
 const WEEKDAY_LABELS = ["월", "화", "수", "목", "금", "토", "일"];
 const SEOUL_WEEKDAY_LABELS = ["일", "월", "화", "수", "목", "금", "토"];
+const SNAPSHOT_STALE_LIMITS_HOURS = {
+    koreaMarkets: 72,
+    usMarkets: 96,
+    currencies: 72,
+    gasoline: 96
+};
 const MART_CLOSURE_AREAS = [
     {
         region: "서울",
@@ -131,6 +137,18 @@ function currentDataTimestamp() {
 
 function itemSourceTimestamp(item) {
     return item?.updatedAt || null;
+}
+
+function parseTimestamp(value) {
+    if (!value) {
+        return null;
+    }
+
+    const normalized = typeof value === "string" && value.includes(" ") && !value.includes("T")
+        ? value.replace(" ", "T")
+        : value;
+    const date = new Date(normalized);
+    return Number.isNaN(date.getTime()) ? null : date;
 }
 
 function weatherLabel(code) {
@@ -246,6 +264,54 @@ function formatPublishedDateTime(text) {
         minute: "2-digit",
         hour12: false
     }).format(date);
+}
+
+function latestTimestampFromItems(items) {
+    if (!Array.isArray(items) || items.length === 0) {
+        return null;
+    }
+
+    let latest = null;
+    for (const item of items) {
+        const parsed = parseTimestamp(item?.updatedAt);
+        if (!parsed) {
+            continue;
+        }
+        if (!latest || parsed.getTime() > latest.getTime()) {
+            latest = parsed;
+        }
+    }
+
+    return latest;
+}
+
+function snapshotWarningMessages() {
+    if (!state) {
+        return [];
+    }
+
+    const now = new Date();
+    const checks = [
+        { key: "koreaMarkets", label: "한국 주가지수" },
+        { key: "usMarkets", label: "미국 주가지수" },
+        { key: "currencies", label: "환율" },
+        { key: "gasoline", label: "주유소" }
+    ];
+
+    return checks.flatMap((section) => {
+        const items = section.key === "gasoline" ? state.gasoline?.areas : state[section.key];
+        const latest = latestTimestampFromItems(items);
+        if (!latest) {
+            return [`${section.label} 기준 시각 없음`];
+        }
+
+        const ageHours = (now.getTime() - latest.getTime()) / 3600000;
+        if (ageHours <= SNAPSHOT_STALE_LIMITS_HOURS[section.key]) {
+            return [];
+        }
+
+        return [`${section.label} 스냅샷 ${Math.floor(ageHours)}시간 경과`];
+    });
 }
 
 function splitNewsTitleAndSource(title) {
@@ -502,7 +568,12 @@ function render() {
         martClosures: buildLocalMartClosures()
     };
 
-    generatedAtEl.textContent = `표시 시각: ${formatDateTime(viewRenderedAt.toISOString())} | 데이터 기준: ${formatDateTime(currentDataTimestamp() || viewRenderedAt.toISOString())} (${state.timezone || "시간대 미표시"})`;
+    const warnings = snapshotWarningMessages();
+    generatedAtEl.innerHTML = [
+        `표시 시각: ${escapeHtml(formatDateTime(viewRenderedAt.toISOString()))} | 데이터 기준: ${escapeHtml(formatDateTime(currentDataTimestamp() || viewRenderedAt.toISOString()))} (${escapeHtml(state.timezone || "시간대 미표시")})`,
+        '<span class="status-note">브라우저 직접 갱신: 날씨 · 대형마트 휴업일 · 뉴스 | 스냅샷 기준: 한국/미국 지수 · 환율 · 주유소</span>',
+        warnings.length > 0 ? `<span class="status-warn">주의: ${escapeHtml(warnings.join(" / "))}</span>` : ""
+    ].filter(Boolean).join("<br>");
     renderStats(koreaMarketsEl, state.koreaMarkets);
     renderStats(usMarketsEl, state.usMarkets);
     renderStats(currenciesEl, state.currencies);
