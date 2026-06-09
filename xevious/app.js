@@ -22,10 +22,60 @@ const LIVE_WEATHER_LOCATIONS = [
     { location: "익산", latitude: 35.9483, longitude: 126.9576 }
 ];
 const LIVE_WEATHER_REFRESH_MINUTES = 10;
+const LOCAL_MART_REFRESH_MINUTES = 30;
+const WEEKDAY_LABELS = ["월", "화", "수", "목", "금", "토", "일"];
+const SEOUL_WEEKDAY_LABELS = ["일", "월", "화", "수", "목", "금", "토"];
+const MART_CLOSURE_AREAS = [
+    {
+        region: "서울",
+        weekday: 6,
+        occurrences: [2, 4],
+        chains: [
+            { label: "이마트" },
+            { label: "롯데마트" },
+            { label: "홈플러스" },
+            { label: "코스트코" }
+        ]
+    },
+    {
+        region: "김포",
+        weekday: 2,
+        occurrences: [2, 4],
+        chains: [
+            { label: "이마트" },
+            { label: "롯데마트" },
+            { label: "홈플러스", available: false },
+            { label: "코스트코", available: false }
+        ]
+    },
+    {
+        region: "일산",
+        weekday: 2,
+        occurrences: [2, 4],
+        chains: [
+            { label: "이마트" },
+            { label: "롯데마트" },
+            { label: "홈플러스" },
+            { label: "코스트코" }
+        ]
+    },
+    {
+        region: "익산",
+        weekday: 6,
+        occurrences: [2, 4],
+        chains: [
+            { label: "이마트" },
+            { label: "롯데마트" },
+            { label: "홈플러스" },
+            { label: "코스트코", available: false }
+        ]
+    }
+];
 
 let autoRefreshTimer = 0;
 let viewRenderedAt = new Date();
 let liveWeatherTimer = 0;
+let localMartTimer = 0;
 
 const WEATHER_CODE_LABELS = {
     0: "맑음",
@@ -93,6 +143,85 @@ function aqiLabel(value) {
     if (numeric <= 60) return "나쁨";
     if (numeric <= 80) return "매우 나쁨";
     return "매우 나쁨";
+}
+
+function getSeoulDateParts(now = new Date()) {
+    const formatter = new Intl.DateTimeFormat("ko-KR", {
+        timeZone: "Asia/Seoul",
+        year: "numeric",
+        month: "numeric",
+        day: "numeric",
+        weekday: "short"
+    });
+    const parts = formatter.formatToParts(now);
+    const getValue = (type) => parts.find((part) => part.type === type)?.value || "";
+    const weekdayLabel = getValue("weekday");
+
+    return {
+        year: Number(getValue("year")),
+        month: Number(getValue("month")),
+        day: Number(getValue("day")),
+        weekday: SEOUL_WEEKDAY_LABELS.indexOf(weekdayLabel),
+        weekdayLabel
+    };
+}
+
+function nthWeekdayOfMonth(year, month, pythonWeekday, occurrence) {
+    const firstDay = new Date(Date.UTC(year, month - 1, 1));
+    const firstPythonWeekday = (firstDay.getUTCDay() + 6) % 7;
+    const offset = (pythonWeekday - firstPythonWeekday + 7) % 7;
+    const day = 1 + offset + (occurrence - 1) * 7;
+
+    return { year, month, day, weekday: pythonWeekday };
+}
+
+function formatMonthDayLabel(dateValue) {
+    return `${String(dateValue.month).padStart(2, "0")}/${String(dateValue.day).padStart(2, "0")}(${WEEKDAY_LABELS[dateValue.weekday]})`;
+}
+
+function formatFullDateLabel(dateValue) {
+    return `${dateValue.year}년 ${dateValue.month}월 ${dateValue.day}일 (${WEEKDAY_LABELS[dateValue.weekday]})`;
+}
+
+function monthlyHolidays(year, month, weekday, occurrences) {
+    return occurrences.map((occurrence) => nthWeekdayOfMonth(year, month, weekday, occurrence));
+}
+
+function formatMartUpdatedAt(dateValue) {
+    return `${dateValue.year}-${String(dateValue.month).padStart(2, "0")}-${String(dateValue.day).padStart(2, "0")} 00:00`;
+}
+
+function buildLocalMartClosures(now = new Date()) {
+    const currentDate = getSeoulDateParts(now);
+    const updatedAt = formatMartUpdatedAt(currentDate);
+
+    return {
+        todayLabel: formatFullDateLabel(currentDate),
+        areas: MART_CLOSURE_AREAS.map((area) => {
+            const holidays = monthlyHolidays(currentDate.year, currentDate.month, area.weekday, area.occurrences);
+            const holidayText = holidays.map(formatMonthDayLabel).join(", ");
+            const isTodayClosed = holidays.some((holiday) =>
+                holiday.year === currentDate.year &&
+                holiday.month === currentDate.month &&
+                holiday.day === currentDate.day
+            );
+
+            return {
+                region: area.region,
+                monthLabel: `${currentDate.year}년 ${currentDate.month}월`,
+                chains: area.chains.map((chain) => {
+                    const available = chain.available !== false;
+                    return {
+                        label: chain.label,
+                        todayClosed: available && isTodayClosed,
+                        todayStatus: available ? (isTodayClosed ? "오늘 휴업" : "오늘 영업") : "점포 없음",
+                        holidayText: available ? holidayText : "점포 없음",
+                        updatedAt
+                    };
+                })
+            };
+        })
+    };
 }
 
 function formatPublishedDateTime(text) {
@@ -334,6 +463,11 @@ function render() {
         return;
     }
 
+    state = {
+        ...state,
+        martClosures: buildLocalMartClosures()
+    };
+
     generatedAtEl.textContent = `표시 시각: ${formatDateTime(viewRenderedAt.toISOString())} | 데이터 기준: ${formatDateTime(currentDataTimestamp() || viewRenderedAt.toISOString())} (${state.timezone || "시간대 미표시"})`;
     renderStats(koreaMarketsEl, state.koreaMarkets);
     renderStats(usMarketsEl, state.usMarkets);
@@ -479,6 +613,25 @@ function applyLiveWeatherRefresh() {
     liveWeatherTimer = window.setInterval(refreshLiveWeather, LIVE_WEATHER_REFRESH_MINUTES * 60 * 1000);
 }
 
+function applyLocalMartRefresh() {
+    if (localMartTimer) {
+        window.clearInterval(localMartTimer);
+        localMartTimer = 0;
+    }
+
+    localMartTimer = window.setInterval(() => {
+        if (!state) {
+            return;
+        }
+
+        state = {
+            ...state,
+            martClosures: buildLocalMartClosures()
+        };
+        render();
+    }, LOCAL_MART_REFRESH_MINUTES * 60 * 1000);
+}
+
 function applyAutoRefresh(minutes) {
     if (autoRefreshTimer) {
         window.clearInterval(autoRefreshTimer);
@@ -525,3 +678,4 @@ initializeRefreshControl();
 fetchLatestDashboardData();
 refreshLiveWeather();
 applyLiveWeatherRefresh();
+applyLocalMartRefresh();
