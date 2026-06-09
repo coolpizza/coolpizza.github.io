@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T22:05:28.455708+09:00",
+  "generatedAt": "2026-06-09T22:36:25.983541+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
@@ -48,19 +48,19 @@
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,527.30",
-      "change": "-0.50",
-      "changePercent": "-0.03%",
+      "value": "1,525.90",
+      "change": "-1.90",
+      "changePercent": "-0.12%",
       "direction": "down",
-      "updatedAt": "2026-06-09 22:00"
+      "updatedAt": "2026-06-09 22:01"
     },
     {
       "label": "100엔/원",
-      "value": "953.18",
-      "change": "-0.71",
-      "changePercent": "-0.07%",
+      "value": "952.50",
+      "change": "-1.39",
+      "changePercent": "-0.15%",
       "direction": "down",
-      "updatedAt": "2026-06-09 22:00"
+      "updatedAt": "2026-06-09 22:01"
     }
   ],
   "weather": {
@@ -68,62 +68,62 @@
       {
         "location": "서울",
         "summary": "대체로 맑음",
-        "temperature": "18.7°C",
-        "feelsLike": "19.1°C",
+        "temperature": "18.5°C",
+        "feelsLike": "19.0°C",
         "highLow": "최고 26.6° / 최저 15.2°",
-        "humidity": "64%",
-        "wind": "0.8 m/s",
+        "humidity": "66%",
+        "wind": "1.0 m/s",
         "rainChance": "4%",
         "pm10": "30.7 μg/m³",
         "pm25": "22.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "34",
-        "updatedAt": "2026-06-09 22:00"
+        "updatedAt": "2026-06-09 22:30"
       },
       {
         "location": "김포",
         "summary": "대체로 맑음",
-        "temperature": "17.2°C",
-        "feelsLike": "17.7°C",
+        "temperature": "17.0°C",
+        "feelsLike": "17.3°C",
         "highLow": "최고 25.1° / 최저 13.3°",
-        "humidity": "82%",
-        "wind": "5.8 m/s",
+        "humidity": "83%",
+        "wind": "7.3 m/s",
         "rainChance": "2%",
         "pm10": "30.7 μg/m³",
         "pm25": "22.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "34",
-        "updatedAt": "2026-06-09 22:00"
+        "updatedAt": "2026-06-09 22:30"
       },
       {
         "location": "파주",
         "summary": "약간 흐림",
-        "temperature": "17.5°C",
-        "feelsLike": "17.5°C",
+        "temperature": "17.0°C",
+        "feelsLike": "16.9°C",
         "highLow": "최고 25.5° / 최저 12.7°",
-        "humidity": "75%",
-        "wind": "6.5 m/s",
+        "humidity": "77%",
+        "wind": "7.2 m/s",
         "rainChance": "7%",
         "pm10": "30.7 μg/m³",
         "pm25": "22.4 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "34",
-        "updatedAt": "2026-06-09 22:00"
+        "updatedAt": "2026-06-09 22:30"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "17.7°C",
-        "feelsLike": "18.1°C",
+        "temperature": "17.3°C",
+        "feelsLike": "17.6°C",
         "highLow": "최고 26.7° / 최저 12.7°",
-        "humidity": "77%",
-        "wind": "5.4 m/s",
+        "humidity": "78%",
+        "wind": "5.8 m/s",
         "rainChance": "10%",
         "pm10": "7.7 μg/m³",
         "pm25": "6.0 μg/m³",
         "airQuality": "보통",
         "airQualityIndex": "27",
-        "updatedAt": "2026-06-09 22:00"
+        "updatedAt": "2026-06-09 22:30"
       }
     ]
   },
@@ -304,9 +304,9 @@
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,960원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)오일드림주유소",
-        "address": "인천 서구 봉수대로 1302 (왕길동)",
-        "updatedAt": "2026-06-09 17:56:43",
+        "stationName": "차오름에너지㈜",
+        "address": "인천 서구 봉수대로 1248 (왕길동)",
+        "updatedAt": "2026-06-09 17:58:01",
         "districtSamples": [
           {
             "district": "서구",
@@ -376,10 +376,40 @@
   },
   "news": [
     {
-      "title": "대통령 순방 출국길, 사라진 여당 대표",
+      "title": "[영상뉴스]오늘의 주요뉴스 2026년 6월 10일",
+      "source": "영남경제",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0NzZ4bktZUWZSMFotcDV0emZjRTRyOXpDUnpmVTJUaGZvUUxuVlhwUm9FTnh3MktER2NlWjd1YkxLWnhhdFc5b20zT3dCWExaN0hUbzJpQ0tMbzczamdxU3MxUHpjME0?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 13:22:26 GMT"
+    },
+    {
+      "title": "이 대통령 “국민소득 성장률 사상 최고…모두 체감하는 성장 만들겠다”",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12amRxdDJFbUNUdmVJZHJkdm5rR1NRSHBla2QtNGhyQ2hHdVJHd0ZxbEN4WFAxa2lXUDkzYmJvbHh0RVVrUmpSSXFXbHZ0S2pfMHdpd0VYWjB4ai1YemNIaw?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 13:13:06 GMT"
+    },
+    {
+      "title": "2026년 6월 9일 세계 경제 뉴스 주요 내용",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41V1NPZnQyZEVtcUpYNEhzN2U5dUxmbWY2c0FzUFRKNU5JMkNsbm53a0FENXVWVWc5WXE1ckFid2w3eS1tRFNtbUkxM2x1VjRFSXRqdmFmVkFxbnhZbVBWOURsZFBjX0pWcjl0bzBic1lBemM3S3VLc25RVkJsUQ?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 13:35:22 GMT"
+    },
+    {
+      "title": "'득표수 동일' 논란에…선관위 \"우연\" 일축",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92ZTU1anEyeW5uN29qRnhjNzd5MnhGZUxJZHNrVEFJVVE0MVNJSmduRTNoZ1QtTVcxVmtnVjc2TWU0S3YxanZtLURxT3pVMzBBUXc4?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84MHljTmhITkM3S2lNU2dfVWhQM0RZWk05RTlpNWJqTnlqSWVPODV6Yjg3YUpVY2R3RjUxM2FUWkpyaUlIUUdRX2xCQlV4TFRwcnFR?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 13:07:00 GMT"
+    },
+    {
+      "title": "삼성전자·SK하이닉스 반도체 공장, 호남에 들어오나",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14ZzJXR1UtU0VzSDM5WUF1ZzBaYy1lSDFoSmkzWFZwRXlhRXNDckRXVF9XZm1zUGxreEQ4eENZdnAzcnJ0QlAyRWxhMmVxZmY2eHN4azJrcF9pdTZkR3I1Wg?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 13:31:00 GMT"
+    },
+    {
+      "title": "[사설] 선관위 사태, 정쟁 소비 말고 시스템 혁신 집중해야",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mWmNTN0NBMEFHcXRhcVphRGxHNlhUY1hMQjhaZmV6SnROeTdqUTBvNmt1ZXdoZU44bmFzRGZqQkZ0WVVXT192cGJ3czdOSTROSW1v?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 13:01:00 GMT"
     },
     {
       "title": "1인당 국민총소득 '4만달러' 가시권",
@@ -388,52 +418,22 @@
       "publishedAt": "Tue, 09 Jun 2026 12:44:00 GMT"
     },
     {
-      "title": "송파경찰서장 사의…서울청 공안차장이 '잠실 시위' 관리",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOdDlQQWZGTVR4aXdlTUZIV1VEajYtQjVoMTFxeWQwSDZ2N3NFUjlFNVpvak9paFVrak1NOGdWZk84QUF3R19IbDczUndMTENoZ1kzUHRHcmZfRVB0TTlvMk1Xcjl3VFdsWXluV3lzM3BSZVdnMk5WQQ?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:29:00 GMT"
-    },
-    {
-      "title": "[포토]'박영현과 하이파이브' 이강철 감독",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyOEE4ekpvNWRjSTh2eVotUGo2dHJQUzVNZzRBaDBRYWwxemZuaG5ld1p4TVBiNnJIZVdGQ05BVXV2OXVvWlNzUndtbnN1VzR2NDJkUWtQYnFuT2Iz?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:17:00 GMT"
-    },
-    {
       "title": "'김도영 3점홈런·황동하 6이닝 1실점 호투' KIA, 한화 상대로 6-4 승리",
       "source": "무등일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5teDF1dlhIVnFDeS1FbGloSnpDUHRCUDhRX052TVRIMXJldVRMcXRxMFlndEdMREFyRjR1MUJlSGlnMGpJNnFWWFZQN01RaW1ReC16ZWpR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96Y3g3VGtIYnZBTEtPYWUxQU5PSUxnR0RScV9nbFVNamhSd3hnSHZRcER6WjVPMW5VMjFsVTZrZDFSZGxpVU1vejAzRVU?oc=5",
       "publishedAt": "Tue, 09 Jun 2026 12:52:00 GMT"
     },
     {
-      "title": "[사설] 선관위 사태, 정쟁 소비 말고 시스템 혁신 집중해야",
+      "title": "서울 송파경찰서장, 사의 표명…'잠실 개표소 집회' 진행 중",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mWmNTN0NBMEFHcXRhcVphRGxHNlhUY1hMQjhaZmV6SnROeTdqUTBvNmt1ZXdoZU44bmFzRGZqQkZ0WVVXT192cGJ3czdOSTROSW1v?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 13:01:08 GMT"
-    },
-    {
-      "title": "젤렌스키 \"푸틴 측근들 분열 조짐…전쟁 지속파 vs 종전파 대립\"",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GQklqNnN2QW1MVkcteGhpQjJkZmhmZGdGRkxpSWcyU2ZaM0VNVEJYUGhiVXRrMHY5d25iejZ4VW91M3pRWjg0LVVuSGU0d25BcmVv?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:55:37 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9meEx5RU4wcHdKbTg0d0VSTThTcUI0c3RMVXhhd1BBWW5IRFNLajJYa09FWDFZVlVSVWpQX0FfZGhGT1J6X1pwcHY1bExjYmszTEVF?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 12:42:00 GMT"
     },
     {
       "title": "건강보험공단 성동지사 - 서울교통공사 '건강100세운동교실' 업무협약(MOU) 체결",
       "source": "서울로컬뉴스",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tQ3NLNTNYWUw3bjI1SEprQVFWQ1VTNkZQVnNKNlJ5WGF6YUFIQWhFYjNjTS1JVE5KTkRmSm1aZm5jUWw4SVpnR0ZocHBYZDlKeTR4UWYwZlc?oc=5",
       "publishedAt": "Tue, 09 Jun 2026 12:36:45 GMT"
-    },
-    {
-      "title": "김시라의 창작 마당극 품바 전국 순회공연 나서",
-      "source": "국민기자뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53SGpWR2doMVJqR1FNY1djdkhoU1NNSGN5UElyNk9adlFjdVRxRmp1eU5xZE4tZFlKZWotdHhTWTFlZUx1aEZKbjBKWmpldWdqTmlqY2g3NU9xN25VcGFMS283RdIBZ0FVX3lxTFBJVVE1bnJoeGh3M1Z2LTE3S1V4X3YxTnY3MnJ5blZ5dm12U1d6TTdqS01OTExTWmQwTVEyUDMzZE1SZ19hY3VaS2xQeWxIR2htRWpVTmVwNmJ0dEYyUWRCU3M1LXU1b1E?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:12:27 GMT"
-    },
-    {
-      "title": "[포토]'무거운 발걸음' 그래도 내일은 승리하리라",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SVkxWQUotMTNkTUxtRmltaHl6WEh3cEtJY1ZoY1Y3bEUwcWhoXzYxWExjeXV6N2pobkVfQ2kzU1VOTGhOT2txSHFobUZ4T1REYlhjUWtR?oc=5",
-      "publishedAt": "Tue, 09 Jun 2026 12:38:00 GMT"
     }
   ],
   "sources": [
