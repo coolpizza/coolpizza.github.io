@@ -1,134 +1,134 @@
 window.DASHBOARD_DATA = {
-  "generatedAt": "2026-06-08T23:57:58.582342+09:00",
+  "generatedAt": "2026-06-09T21:03:38.525590+09:00",
   "timezone": "Asia/Seoul",
   "koreaMarkets": [
     {
       "label": "코스피",
-      "value": "7,484.41",
-      "change": "-676.18",
-      "changePercent": "-8.29%",
-      "direction": "down",
-      "updatedAt": "2026-06-08 23:36"
+      "value": "8,096.93",
+      "change": "+612.52",
+      "changePercent": "+8.18%",
+      "direction": "up",
+      "updatedAt": "2026-06-09 21:02"
     },
     {
       "label": "코스닥",
-      "value": "911.39",
-      "change": "-91.05",
-      "changePercent": "-9.08%",
-      "direction": "down",
-      "updatedAt": "2026-06-08 23:36"
+      "value": "967.81",
+      "change": "+56.42",
+      "changePercent": "+6.19%",
+      "direction": "up",
+      "updatedAt": "2026-06-09 21:02"
     }
   ],
   "usMarkets": [
     {
       "label": "다우존스",
-      "value": "50,965.67",
-      "change": "+98.89",
-      "changePercent": "+0.19%",
-      "direction": "up",
-      "updatedAt": "2026-06-08 23:42"
+      "value": "50,786.01",
+      "change": "-80.77",
+      "changePercent": "-0.16%",
+      "direction": "down",
+      "updatedAt": "2026-06-09 05:20"
     },
     {
       "label": "S&P 500",
-      "value": "7,455.66",
-      "change": "+71.92",
-      "changePercent": "+0.97%",
+      "value": "7,405.73",
+      "change": "+21.99",
+      "changePercent": "+0.30%",
       "direction": "up",
-      "updatedAt": "2026-06-08 23:47"
+      "updatedAt": "2026-06-09 05:56"
     },
     {
       "label": "나스닥",
-      "value": "26,040.52",
-      "change": "+331.09",
-      "changePercent": "+1.29%",
+      "value": "25,929.66",
+      "change": "+220.23",
+      "changePercent": "+0.86%",
       "direction": "up",
-      "updatedAt": "2026-06-08 23:42"
+      "updatedAt": "2026-06-09 05:15"
     }
   ],
   "currencies": [
     {
       "label": "달러/원",
-      "value": "1,528.40",
-      "change": "-31.10",
-      "changePercent": "-1.99%",
+      "value": "1,526.20",
+      "change": "-1.60",
+      "changePercent": "-0.10%",
       "direction": "down",
-      "updatedAt": "2026-06-08 22:04"
+      "updatedAt": "2026-06-09 21:01"
     },
     {
       "label": "100엔/원",
-      "value": "954.74",
-      "change": "-18.40",
-      "changePercent": "-1.89%",
+      "value": "952.92",
+      "change": "-0.97",
+      "changePercent": "-0.10%",
       "direction": "down",
-      "updatedAt": "2026-06-08 22:04"
+      "updatedAt": "2026-06-09 21:01"
     }
   ],
   "weather": {
     "areas": [
       {
         "location": "서울",
-        "summary": "흐림",
-        "temperature": "18.5°C",
-        "feelsLike": "18.4°C",
-        "highLow": "최고 25.4° / 최저 17.4°",
-        "humidity": "65%",
-        "wind": "4.3 m/s",
-        "rainChance": "63%",
-        "pm10": "9.4 μg/m³",
-        "pm25": "9.0 μg/m³",
+        "summary": "대체로 맑음",
+        "temperature": "19.3°C",
+        "feelsLike": "19.5°C",
+        "highLow": "최고 26.6° / 최저 15.2°",
+        "humidity": "66%",
+        "wind": "4.7 m/s",
+        "rainChance": "1%",
+        "pm10": "25.9 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "26",
-        "updatedAt": "2026-06-08 23:45"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-06-09 21:00"
       },
       {
         "location": "김포",
-        "summary": "흐림",
-        "temperature": "16.6°C",
-        "feelsLike": "16.4°C",
-        "highLow": "최고 25.0° / 최저 15.7°",
-        "humidity": "79%",
-        "wind": "7.9 m/s",
-        "rainChance": "65%",
-        "pm10": "9.4 μg/m³",
-        "pm25": "9.0 μg/m³",
+        "summary": "약한 이슬비",
+        "temperature": "18.2°C",
+        "feelsLike": "19.3°C",
+        "highLow": "최고 25.1° / 최저 13.3°",
+        "humidity": "85%",
+        "wind": "5.6 m/s",
+        "rainChance": "3%",
+        "pm10": "25.9 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "26",
-        "updatedAt": "2026-06-08 23:45"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-06-09 21:00"
       },
       {
         "location": "파주",
-        "summary": "흐림",
-        "temperature": "15.9°C",
-        "feelsLike": "15.7°C",
-        "highLow": "최고 25.1° / 최저 15.8°",
-        "humidity": "81%",
-        "wind": "6.7 m/s",
-        "rainChance": "67%",
-        "pm10": "9.4 μg/m³",
-        "pm25": "9.0 μg/m³",
+        "summary": "약한 이슬비",
+        "temperature": "18.6°C",
+        "feelsLike": "19.2°C",
+        "highLow": "최고 25.5° / 최저 12.7°",
+        "humidity": "75%",
+        "wind": "5.1 m/s",
+        "rainChance": "11%",
+        "pm10": "25.9 μg/m³",
+        "pm25": "19.8 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "26",
-        "updatedAt": "2026-06-08 23:45"
+        "airQualityIndex": "35",
+        "updatedAt": "2026-06-09 21:00"
       },
       {
         "location": "익산",
         "summary": "흐림",
-        "temperature": "15.5°C",
-        "feelsLike": "16.2°C",
-        "highLow": "최고 22.9° / 최저 16.0°",
-        "humidity": "94%",
-        "wind": "5.2 m/s",
-        "rainChance": "29%",
-        "pm10": "9.6 μg/m³",
-        "pm25": "7.4 μg/m³",
+        "temperature": "18.4°C",
+        "feelsLike": "19.2°C",
+        "highLow": "최고 26.7° / 최저 12.7°",
+        "humidity": "74%",
+        "wind": "3.3 m/s",
+        "rainChance": "0%",
+        "pm10": "7.0 μg/m³",
+        "pm25": "5.5 μg/m³",
         "airQuality": "보통",
-        "airQualityIndex": "31",
-        "updatedAt": "2026-06-08 23:45"
+        "airQualityIndex": "29",
+        "updatedAt": "2026-06-09 21:00"
       }
     ]
   },
   "martClosures": {
-    "todayLabel": "2026년 6월 8일 (월)",
+    "todayLabel": "2026년 6월 9일 (화)",
     "areas": [
       {
         "region": "서울",
@@ -287,16 +287,16 @@ window.DASHBOARD_DATA = {
             "price": "1,969원/L"
           },
           {
+            "district": "송파구",
+            "price": "1,973원/L"
+          },
+          {
+            "district": "강북구",
+            "price": "1,977원/L"
+          },
+          {
             "district": "강서구",
             "price": "1,977원/L"
-          },
-          {
-            "district": "양천구",
-            "price": "1,977원/L"
-          },
-          {
-            "district": "구로구",
-            "price": "1,978원/L"
           }
         ]
       },
@@ -304,9 +304,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "인천 최저가",
         "lowestPrice": "1,960원/L",
         "lowestDistrict": "서구",
-        "stationName": "(주)오일드림주유소",
-        "address": "인천 서구 봉수대로 1302 (왕길동)",
-        "updatedAt": "2026-06-08 17:57:12",
+        "stationName": "차오름에너지㈜",
+        "address": "인천 서구 봉수대로 1248 (왕길동)",
+        "updatedAt": "2026-06-09 17:58:01",
         "districtSamples": [
           {
             "district": "서구",
@@ -334,9 +334,9 @@ window.DASHBOARD_DATA = {
         "areaLabel": "익산 최저가",
         "lowestPrice": "1,969원/L",
         "lowestDistrict": "익산시",
-        "stationName": "동네방네주유소",
-        "address": "전북 익산시 평동로 714",
-        "updatedAt": "2026-06-08 17:59:48",
+        "stationName": "고래주유소",
+        "address": "전북 익산시 주현로 54",
+        "updatedAt": "2026-06-09 17:57:36",
         "districtSamples": [
           {
             "district": "익산시",
@@ -376,64 +376,64 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
-      "title": "2026년 6월 8일 주요 글로벌 경제 뉴스",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVdTNUVnNJMmhKU185RFhibVZmWFFCNjduVFhhWWxOSUt4VXB5QnZ0OUZGeERaSWpIb0d2dUZWWk5XbnlIYWxRQ0E1Uk1SdGRSejVBV201MEhvNmM4ckE0VlJLbmVJTmpERHpSTXVHMnk5UlE4NU9hdXZmLXk2QQ?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 14:21:02 GMT"
+      "title": "[뉴스7 강원 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xMVdkbVNjaElmbXZMc3NBNlhOLWdBRENFMkFWQ19WZ09HMXZFNGU5bkRXcTBUM3Z3QTJiRDc5THFzeTd1Y01vSmo3VEdocG9JTUdMR3E1aWtXUk0?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:06:00 GMT"
     },
     {
-      "title": "진교훈 강서구청장, 미래 산업 꿈나무 키운다",
-      "source": "서울자치신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95ZHhYTkVPeEh3NzJNZFRjdThrQlZiZWlIeXZfZVRNN3F6TFpWRUg5ak5FQXdxV21RbXNoMDVJZkdsZFplc1Z2bEJIUzB6SzVWY0xOYVpWY191clZWZVpZeXJnVmFEN054?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 14:14:49 GMT"
-    },
-    {
-      "title": "\"다카이치 일본 총리, G7 정상회의 참석차 유럽 순방\"",
+      "title": "이 대통령, 유럽 순방길 올라…트럼프 만남 여부 주목",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HLWpYUWt5YldkdjNoRHBfU0NGV250MmtaemJIUXlDOXJYUnNXQU9CMDhvZE1ldnJVa2s2TGdnbWhKdGxwWHFLUWxvQmd0aVZuS1hr?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 14:46:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56dGJva0lXVjRFMlptRDc2Wi1ZMHN2UVgxNnN3dW5uRldxR0tiUi1iU190VDI1cnJPak1QU3RnM1FNRkxpYm9OZDFaU1kycHhURjhZ?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:55:00 GMT"
     },
     {
-      "title": "이란군, 트럼프 '발포 중단' 요구 뒤 \"작전 중지\"",
+      "title": "인천 단위농협 비상임이사 선거서 '금품 살포' 의혹",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTZHBlT0QzNm5hX01aZTEzSTg1YXREenFQeWRMZGFQZlRQLURyUU00YzB2VUx3REktN1VFblRwc1hGd3B5ekJEM21kdnFZcGlMMnZXag?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:06:33 GMT"
+    },
+    {
+      "title": "[뉴스7 충북 클로징]",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82dWFjNXpJZk52dDMzcG12ZHd1MzBjM1lpaW1BLW04NmZ0MlhhYVozUk9zaTJURXVxb2dMWDl4b2Y1OTJaUlI2c1dqRE05dFF0YmxfQ1dzM1Vac3c?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:05:00 GMT"
+    },
+    {
+      "title": "'쌍둥이 득표' 의혹 확산에 선관위 \"우연의 결과\"",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfc3ZuNEdnTnNWSEZadXN3X3hCZWx0OTVibG9XMU03M1VlSS1abU11NlRqLWVKMDV5eHFlVDAzOU0zbUJJeE01SjNjYTlIUVIwejZB?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 14:10:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tYWh2U2RlWnVBc3JiSHVHdmwwZEZ3d3lkOVpDRFVoSjNNaXBSMi1mcnJaaGRza3BHTzlDTzVRX0JfamxRMFNIT1d5OGpqMGxOS2xN?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:45:00 GMT"
     },
     {
-      "title": "2026년 6월 8일 베트남 경제 뉴스 주요 내용",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85emRmaUh6WkdHY1ptQkpBRDc2U2VWYTZLNGxRMEZ2Mmd4TFh6TnBpSEtncGRSYmlPTDFBODJ1WW81X3lQejMwalVYSXo5TXlpLVR3djZ5UERFY2RjdjlqeTBhc2p0Q3pmSFI5V0xGN05zN1g3RmJMczktcWI0QQ?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 13:58:45 GMT"
+      "title": "[주요 단신] 12대 도의회 마지막 회기 개회…한진 지하수 증산 폐기 수순 외",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oamNKUmRWbVJRbUs2bzVZdktkYnBJQW1od2R0eFNocjJTTVhmcnFyQ1oxMFVVNGwxeTBVbkdsVG44eGZ4ek9NcmUzaW0zNzN2QVl4WWotY2RKZlE?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:09:00 GMT"
     },
     {
-      "title": "EU, '호르무즈 봉쇄' 이란 개인·단체 제재(종합)",
+      "title": "[포토] 재선거 촉구하는 시민들",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVWmFsVGF5OFp1WGZjSnF5WHh4WEt6bXRzSzY3enB5XzZzYm9OSV8zNXlLOU1WUlRMOGxNOHZsMk5vTWtLNEdOaHFVbWN0MHBrblJz?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 14:34:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mWHo0emM5cmtoMEQtMDdjZ3VrWG9rc2tiNm5fRHEzVFJBaXo5MFVmdmctV2g2ZlUxcWNTMG4zNmVwZW84UnhmbUJ5TG00REstNFNTSmtCQkFwU0IySjRRY2pwUW5iLU9waTNSWTFiN0l3b09JSkQ4?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:44:00 GMT"
     },
     {
-      "title": "日 다카이치, G7 정상회의 참석차 유럽행",
+      "title": "[내일 날씨] 수도권·강원 비 소식…돌풍·천둥·번개 동반",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kZ0loMWdsQ0xKT0o3aVdWSjlpVDdoUU5LTE1TRTdxbEcwQndGalFVc3dRSTNPWHBFYmdQTFVQR210d0hQTDlsTjg3VWkxUkFUaGw4?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 14:22:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnaDlSMVFMdV91Zl9nSUl6Mm1FRTZ3VFVGdVJOVE5rSFUtZE8yMTZGODEwQ2lOY2lRRVB0VVg4QS1EeWZzMmk3bHl5ekc4Unk4SUZtZTBiYkNtSzhPNzdydw?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:57:00 GMT"
     },
     {
-      "title": "\"농협이 걸어온 길\" 강태영 농협은행장, 경상국립대서 특강",
+      "title": "[뉴스프라임] 이 대통령, 오늘부터 9박 10일 유럽 순방",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81MnUtbURpLUFlX0RUTEtmUzZaVkEzTFhTNTFNN0FjSVh6a0h1d1hZUlNEQTM2RWZjbFJYNXpKQWk0eXg2Q28xOFBETDBXQjFiMlFv?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 14:37:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iZTFoMVEyN3RqODMwN2J3WEJIMWhRUkkyMXRBV0g0Y1JFOGhoZjVtdTl6X2ZTMGgyeF9lSjZndkdTei1QZEJCSUU5NXByR2lZV0RJ?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:33:00 GMT"
     },
     {
-      "title": "\"객관적으로 보시라\"…사퇴 요구에 선 그은 장동혁",
+      "title": "[비하인드 뉴스] \"장동혁, 착한 눈으로 보자\" 사퇴론 빗발치니 황당 옹호",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50MnQ2S2lNX05aS2ZadHVyeGgyd19wN293a0FVRDRWejlRbElDbUs2MjlHQy1mbEZ6YjdialE1YWp5QXJLU1FvZzZVMWVLS2xYdHlB?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 13:59:00 GMT"
-    },
-    {
-      "title": "대통령 \"부동산 보유세 대체로 낮아…세제 7월에 정리\"",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGcFFsbGxzekRVR21MMGNQdDNoUDVmX2pXMnN0TkJfdHFNbDNVZEU4MmtuN3pJOFc4a0s0MDAzcEotNThWWFBpOWlOeXd6V0VwV20w?oc=5",
-      "publishedAt": "Mon, 08 Jun 2026 14:05:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GOTR4UF95VGNKaHk5MGl1LWdFSnoyekFXNVhlLTQzU0hoVEJ3WUdoVm1Od3MteGxtRUE5a3UwNC1wSjB4YWcxb0lUVjl0M1FqajVB?oc=5",
+      "publishedAt": "Tue, 09 Jun 2026 11:20:00 GMT"
     }
   ],
   "sources": [
