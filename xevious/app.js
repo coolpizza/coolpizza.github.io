@@ -11,6 +11,13 @@ const gasCardEl = document.getElementById("gasCard");
 const martClosureCardEl = document.getElementById("martClosureCard");
 const newsListEl = document.getElementById("newsList");
 const sourceListEl = document.getElementById("sourceList");
+const koreaStatusEl = document.getElementById("koreaStatus");
+const usStatusEl = document.getElementById("usStatus");
+const fxStatusEl = document.getElementById("fxStatus");
+const weatherStatusEl = document.getElementById("weatherStatus");
+const gasStatusEl = document.getElementById("gasStatus");
+const martStatusEl = document.getElementById("martStatus");
+const newsStatusEl = document.getElementById("newsStatus");
 const REFRESH_STORAGE_KEY = "xevious-refresh-minutes";
 const DATA_ENDPOINT = "./dashboard-data.json";
 const SCRIPT_DATA_ENDPOINT = "./dashboard-data.js";
@@ -314,6 +321,83 @@ function snapshotWarningMessages() {
     });
 }
 
+function latestAgeHoursFromItems(items) {
+    const latest = latestTimestampFromItems(items);
+    if (!latest) {
+        return null;
+    }
+
+    return (Date.now() - latest.getTime()) / 3600000;
+}
+
+function panelStatusHtml(mode, detail, stale = false) {
+    const modeLabels = {
+        live: "라이브",
+        hybrid: "하이브리드",
+        snapshot: "스냅샷"
+    };
+
+    return `
+        <span class="panel-status-badge ${mode}">${modeLabels[mode] || mode}</span>
+        <span class="panel-status-meta${stale ? " stale" : ""}">${escapeHtml(detail)}</span>
+    `;
+}
+
+function renderPanelStatuses() {
+    if (!state) {
+        return;
+    }
+
+    const koreaAge = latestAgeHoursFromItems(state.koreaMarkets);
+    const usAge = latestAgeHoursFromItems(state.usMarkets);
+    const fxAge = latestAgeHoursFromItems(state.currencies);
+    const gasAge = latestAgeHoursFromItems(state.gasoline?.areas);
+
+    if (koreaStatusEl) {
+        koreaStatusEl.innerHTML = panelStatusHtml(
+            "snapshot",
+            koreaAge == null ? "기준 시각 없음" : `${Math.floor(koreaAge)}시간 경과`,
+            koreaAge != null && koreaAge > SNAPSHOT_STALE_LIMITS_HOURS.koreaMarkets
+        );
+    }
+
+    if (usStatusEl) {
+        usStatusEl.innerHTML = panelStatusHtml(
+            "snapshot",
+            usAge == null ? "기준 시각 없음" : `${Math.floor(usAge)}시간 경과`,
+            usAge != null && usAge > SNAPSHOT_STALE_LIMITS_HOURS.usMarkets
+        );
+    }
+
+    if (fxStatusEl) {
+        fxStatusEl.innerHTML = panelStatusHtml(
+            "snapshot",
+            fxAge == null ? "기준 시각 없음" : `${Math.floor(fxAge)}시간 경과`,
+            fxAge != null && fxAge > SNAPSHOT_STALE_LIMITS_HOURS.currencies
+        );
+    }
+
+    if (weatherStatusEl) {
+        weatherStatusEl.innerHTML = panelStatusHtml("live", "브라우저 직접 조회");
+    }
+
+    if (gasStatusEl) {
+        gasStatusEl.innerHTML = panelStatusHtml(
+            "snapshot",
+            gasAge == null ? "기준 시각 없음" : `${Math.floor(gasAge)}시간 경과`,
+            gasAge != null && gasAge > SNAPSHOT_STALE_LIMITS_HOURS.gasoline
+        );
+    }
+
+    if (martStatusEl) {
+        martStatusEl.innerHTML = panelStatusHtml("live", "브라우저 날짜 계산");
+    }
+
+    if (newsStatusEl) {
+        newsStatusEl.innerHTML = panelStatusHtml("hybrid", "브라우저 재조회 우선");
+    }
+}
+
 function splitNewsTitleAndSource(title) {
     const parts = String(title || "").split(" - ");
     if (parts.length >= 2) {
@@ -582,6 +666,7 @@ function render() {
     renderMartClosures(state.martClosures);
     renderNews(state.news);
     renderSources(state.sources);
+    renderPanelStatuses();
 }
 
 function loadDashboardScript() {

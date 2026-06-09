@@ -47,48 +47,66 @@
         <section class="board-grid">
             <article class="panel">
                 <div class="panel-head">
-                    <p class="panel-kicker">Korea</p>
-                    <h2>한국 주가지수</h2>
+                    <div>
+                        <p class="panel-kicker">Korea</p>
+                        <h2>한국 주가지수</h2>
+                    </div>
+                    <div id="koreaStatus" class="panel-status"></div>
                 </div>
                 <div id="koreaMarkets" class="stat-grid"></div>
             </article>
 
             <article class="panel">
                 <div class="panel-head">
-                    <p class="panel-kicker">United States</p>
-                    <h2>미국 주가지수</h2>
+                    <div>
+                        <p class="panel-kicker">United States</p>
+                        <h2>미국 주가지수</h2>
+                    </div>
+                    <div id="usStatus" class="panel-status"></div>
                 </div>
                 <div id="usMarkets" class="stat-grid"></div>
             </article>
 
             <article class="panel">
                 <div class="panel-head">
-                    <p class="panel-kicker">FX</p>
-                    <h2>환율</h2>
+                    <div>
+                        <p class="panel-kicker">FX</p>
+                        <h2>환율</h2>
+                    </div>
+                    <div id="fxStatus" class="panel-status"></div>
                 </div>
                 <div id="currencies" class="stat-grid"></div>
             </article>
 
             <article class="panel">
                 <div class="panel-head">
-                    <p class="panel-kicker">Weather</p>
-                    <h2>오늘의 날씨</h2>
+                    <div>
+                        <p class="panel-kicker">Weather</p>
+                        <h2>오늘의 날씨</h2>
+                    </div>
+                    <div id="weatherStatus" class="panel-status"></div>
                 </div>
                 <div id="weatherCard" class="weather-card"></div>
             </article>
 
             <article class="panel panel-gas">
                 <div class="panel-head">
-                    <p class="panel-kicker">Gasoline</p>
-                    <h2>지역별 주유소 최저가</h2>
+                    <div>
+                        <p class="panel-kicker">Gasoline</p>
+                        <h2>지역별 주유소 최저가</h2>
+                    </div>
+                    <div id="gasStatus" class="panel-status"></div>
                 </div>
                 <div id="gasCard" class="gas-card"></div>
             </article>
 
             <article class="panel panel-mart">
                 <div class="panel-head">
-                    <p class="panel-kicker">Mart</p>
-                    <h2>대형마트 휴업일</h2>
+                    <div>
+                        <p class="panel-kicker">Mart</p>
+                        <h2>대형마트 휴업일</h2>
+                    </div>
+                    <div id="martStatus" class="panel-status"></div>
                 </div>
                 <div id="martClosureCard" class="mart-card"></div>
             </article>
@@ -96,8 +114,11 @@
 
         <section class="panel news-panel">
             <div class="panel-head">
-                <p class="panel-kicker">News</p>
-                <h2>이 시각 주요 뉴스 10개</h2>
+                <div>
+                    <p class="panel-kicker">News</p>
+                    <h2>이 시각 주요 뉴스 10개</h2>
+                </div>
+                <div id="newsStatus" class="panel-status"></div>
             </div>
             <ol id="newsList" class="news-list"></ol>
         </section>

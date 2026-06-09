@@ -181,6 +181,51 @@ button:hover {
     margin-bottom: 18px;
 }
 
+.panel-status {
+    display: grid;
+    gap: 4px;
+    justify-items: end;
+    text-align: right;
+}
+
+.panel-status-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 72px;
+    padding: 6px 10px;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+}
+
+.panel-status-badge.live {
+    color: var(--up);
+    background: rgba(15, 157, 88, 0.12);
+}
+
+.panel-status-badge.hybrid {
+    color: var(--accent);
+    background: var(--accent-soft);
+}
+
+.panel-status-badge.snapshot {
+    color: var(--flat);
+    background: rgba(85, 96, 110, 0.12);
+}
+
+.panel-status-meta {
+    color: var(--muted);
+    font-size: 0.8rem;
+    line-height: 1.3;
+}
+
+.panel-status-meta.stale {
+    color: var(--down);
+    font-weight: 700;
+}
+
 .stat-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
